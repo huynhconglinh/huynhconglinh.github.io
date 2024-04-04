@@ -32,10 +32,6 @@
                             <li>
                                 <a class="dropdown-item" href="#12_cum_tu">12 cụm từ phải GHI NHỚ</a>
                             </li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <a class="dropdown-item" href="#">Something else here</a>
-                            </li>
                         </ul>
                     </li>
                 </ul>
@@ -49,7 +45,7 @@
             <div class="col">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">12 cụm từ phải GHI NHỚ</h5>
+                        <h5 class="card-title">12 cụm từ phải ghi nhớ</h5>
                         <table class="table table-bordered">
                             <thead>
                                 <tr class="text-center">
@@ -57,15 +53,25 @@
                                     <th>Keyword</th>
                                 </tr>
                             </thead>
-                            <tbody id="doc12cumtu">
-
-                            </tbody>
+                            <tbody id="doc12cumtu"></tbody>
                         </table>
                     </div>
                 </div>
             </div>
         </div>
         <!-- END 12 cụm từ phải GHI NHỚ -->
+        <!-- START test đọc file -->
+        <div id="test-doc-file" class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Test đọc file</h5>
+                        <div id="fileDisplayArea"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END test đọc file -->
     </div>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
@@ -89,11 +95,22 @@
             { type: "So sánh", keyword: "一方、それに対して" },
             { type: "Tóm tắt", keyword: "要するに、すなわち、つまり、結局、このように" }
         ]
-        for (let i = 0; i < doc12CumTuCanNho.length; i++) {
-            console.log(doc12CumTuCanNho[i].keyword)
-            $("#doc12cumtu").append("<tr><td>" + doc12CumTuCanNho[i].type + "</td><td>" + doc12CumTuCanNho[i].keyword + "</td></tr>")
+        for (const element of doc12CumTuCanNho) {
+            console.log(element.keyword)
+            $("#doc12cumtu").append("<tr><td>" + element.type + "</td><td data-bs-toggle=\"tooltip\" data-bs-placement=\"top\" title=\"◆ Tóm lại; chủ yếu là; nói một cách khác; nói một cách ngắn gọn\">" + element.keyword + "</td></tr>")
         }
         // END 12 cụm từ phải GHI NHỚ
-    });
+
+
+        // Đường dẫn tới tệp .txt cùng cấp với tệp HTML
+        const txtFilePath = './tu_vung.txt';
+        fetch(txtFilePath)
+            .then(response => response.text())
+            .then(content => {
+                const fileDisplayArea = document.getElementById('fileDisplayArea');
+                fileDisplayArea.textContent = content;
+            })
+            .catch(error => console.error('Lỗi khi đọc tệp:', error));
+    }); // END  $(document).ready({...})
 </script>
 </html>
