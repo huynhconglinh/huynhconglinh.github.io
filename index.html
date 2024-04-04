@@ -101,16 +101,68 @@
         }
         // END 12 cụm từ phải GHI NHỚ
 
+        function readTextFile(filePath) {
+            return fetch(filePath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to fetch file');
+                    }
+                    return response.text();
+                })
+                .catch(error => {
+                    console.error('Lỗi khi đọc tệp:', error);
+                    return ''; // Trả về chuỗi rỗng nếu có lỗi xảy ra
+                });
+        }
+        function splitVocabulary(text) {
+            const lines = text.split('\n'); // Tách chuỗi thành mảng các dòng
+        
+            let vocabulary = []; // Mảng chứa các từ vựng đã tách
+        
+            let currentWord = {}; // Đối tượng chứa thông tin của từ hiện tại
+            let currentCategory = ''; // Biến để xác định loại dòng hiện tại
+        
+            lines.forEach(line => {
+                if (line.startsWith('☆')) {
+                    // Nếu dòng bắt đầu bằng '☆', đó là dòng chứa từ loại
+                    currentCategory = 'type';
+                    // Lấy nội dung từ loại bằng cách loại bỏ ký tự '☆'
+                    currentWord.type = line.substring(1).trim();
+                } else if (line.startsWith('◆')) {
+                    // Nếu dòng bắt đầu bằng '◆', đó là dòng chứa nghĩa
+                    currentCategory = 'meaning';
+                    // Lấy nội dung nghĩa bằng cách loại bỏ ký tự '◆'
+                    currentWord.meaning = line.substring(1).trim();
+                } else if (line.startsWith('廃棄')) {
+                    // Nếu dòng bắt đầu bằng từ vựng, bắt đầu một từ vựng mới
+                    // Nếu có từ vựng hiện tại, thêm nó vào mảng vocabulary
+                    if (Object.keys(currentWord).length !== 0) {
+                        vocabulary.push(currentWord);
+                    }
+                    // Bắt đầu một từ vựng mới
+                    currentWord = {
+                        vocabulary: line.trim()
+                    };
+                } else if (line.startsWith('はいき')) {
+                    // Nếu dòng bắt đầu bằng 'はいき', đó là dòng chứa cách đọc
+                    currentWord.reading = line.substring(4).trim();
+                }
+            });
+        
+            // Thêm từ vựng cuối cùng vào mảng nếu có
+            if (Object.keys(currentWord).length !== 0) {
+                vocabulary.push(currentWord);
+            }
+        
+            return vocabulary;
+        }
 
         // Đường dẫn tới tệp .txt cùng cấp với tệp HTML
         const txtFilePath = './tu_vung.txt';
-        fetch(txtFilePath)
-            .then(response => response.text())
-            .then(content => {
-                const fileDisplayArea = document.getElementById('fileDisplayArea');
-                fileDisplayArea.textContent = content;
-            })
-            .catch(error => console.error('Lỗi khi đọc tệp:', error));
+        const text = readTextFile(txtFilePath);
+        const result = splitVocabulary(text);
+        const fileDisplayArea = document.getElementById('fileDisplayArea');
+        fileDisplayArea.textContent = fileDisplayArea;
     }); // END  $(document).ready({...})
 </script>
 </html>
