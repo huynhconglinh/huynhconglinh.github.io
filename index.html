@@ -1,168 +1,124 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>hclinh</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-</head>
-
-<body>
-    <nav class="navbar navbar-expand-lg bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="#">HCLINH</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Từ vựng</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                            aria-expanded="false">
-                            Đọc hiểu
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a class="dropdown-item" href="#12_cum_tu">12 cụm từ phải GHI NHỚ</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <div class="container">
-        <img src="img/heahder_cover.jpg" style="width: 100%" class="rounded" alt="Responsive image">
-        <!-- START 12 cụm từ phải GHI NHỚ -->
-        <div id="12-cum-tu" class="row">
-            <div class="col">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">12 cụm từ phải ghi nhớ</h5>
-                        <table class="table table-bordered">
-                            <thead>
-                                <tr class="text-center">
-                                    <th>Type</th>
-                                    <th>Keyword</th>
-                                </tr>
-                            </thead>
-                            <tbody id="doc12cumtu"></tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END 12 cụm từ phải GHI NHỚ -->
-        <!-- START test đọc file -->
-        <div id="test-doc-file" class="row">
-            <div class="col">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Test đọc file</h5>
-                        <pre id="fileDisplayArea"></pre>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END test đọc file -->
-    </div>
-</body>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
-    crossorigin="anonymous"></script>
-
-<script>
-    $(document).ready(function () {
-        // START 12 cụm từ phải GHI NHỚ
-        const doc12CumTuCanNho = [
-            { type: "Tăng tiến", keyword: "および、またさらに、そして、そかも、その上、それから、 そればかりでなく" },
-            { type: "Nguyên nhân", keyword: "したがって、よって、そのため、だから、そこで、このように、その結果、なぜかというと．．．から" },
-            { type: "Trình tự", keyword: "まず、ついでに、次にそして、それから" },
-            { type: "Lựa chọn", keyword: "または、あるいは、もしくは" },
-            { type: "Đổi chủ đề", keyword: "ところで、さて、では" },
-            { type: "Đưa ví dụ", keyword: "たとえば、例をあげると" },
-            { type: "Giả thiết", keyword: "～と、～ば、～たら、～なら、とすると、とすれば" },
-            { type: "Đối lập", keyword: "が、のに、逆に、けれども、しかし、ところが、それでも、 それなのに、にもかかわらず、だからと言って" },
-            { type: "Giải thích", keyword: "ただ、ただし、もっとも、尚" },
-            { type: "Nói cách khác", keyword: "すなわち、つまり、言い換えると、言い換えれば" },
-            { type: "So sánh", keyword: "一方、それに対して" },
-            { type: "Tóm tắt", keyword: "要するに、すなわち、つまり、結局、このように" }
-        ]
-        for (const element of doc12CumTuCanNho) {
-            console.log(element.keyword)
-            $("#doc12cumtu").append("<tr><td>" + element.type + "</td><td data-bs-toggle=\"tooltip\" data-bs-placement=\"top\" title=\"◆ Tóm lại; chủ yếu là; nói một cách khác; nói một cách ngắn gọn\">" + element.keyword + "</td></tr>")
-        }
-        // END 12 cụm từ phải GHI NHỚ
-
-        function readTextFile(filePath) {
-            return fetch(filePath)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Failed to fetch file');
-                    }
-                    return response.text();
-                })
-                .catch(error => {
-                    console.error('Lỗi khi đọc tệp:', error);
-                    return ''; // Trả về chuỗi rỗng nếu có lỗi xảy ra
-                });
-        }
-        function splitVocabulary(text) {
-            const lines = text.split('\n'); // Tách chuỗi thành mảng các dòng
-        
-            let vocabulary = []; // Mảng chứa các từ vựng đã tách
-        
-            let currentWord = {}; // Đối tượng chứa thông tin của từ hiện tại
-            let currentCategory = ''; // Biến để xác định loại dòng hiện tại
-        
-            lines.forEach(line => {
-                if (line.startsWith('☆')) {
-                    // Nếu dòng bắt đầu bằng '☆', đó là dòng chứa từ loại
-                    currentCategory = 'type';
-                    // Lấy nội dung từ loại bằng cách loại bỏ ký tự '☆'
-                    currentWord.type = line.substring(1).trim();
-                } else if (line.startsWith('◆')) {
-                    // Nếu dòng bắt đầu bằng '◆', đó là dòng chứa nghĩa
-                    currentCategory = 'meaning';
-                    // Lấy nội dung nghĩa bằng cách loại bỏ ký tự '◆'
-                    currentWord.meaning = line.substring(1).trim();
-                } else if (line.startsWith('廃棄')) {
-                    // Nếu dòng bắt đầu bằng từ vựng, bắt đầu một từ vựng mới
-                    // Nếu có từ vựng hiện tại, thêm nó vào mảng vocabulary
-                    if (Object.keys(currentWord).length !== 0) {
-                        vocabulary.push(currentWord);
-                    }
-                    // Bắt đầu một từ vựng mới
-                    currentWord = {
-                        vocabulary: line.trim()
-                    };
-                } else if (line.startsWith('はいき')) {
-                    // Nếu dòng bắt đầu bằng 'はいき', đó là dòng chứa cách đọc
-                    currentWord.reading = line.substring(4).trim();
-                }
-            });
-        
-            // Thêm từ vựng cuối cùng vào mảng nếu có
-            if (Object.keys(currentWord).length !== 0) {
-                vocabulary.push(currentWord);
-            }
-        
-            return vocabulary;
-        }
-
-        // Đường dẫn tới tệp .txt cùng cấp với tệp HTML
-        const txtFilePath = './tu_vung.txt';
-        const text = readTextFile(txtFilePath);
-        const result = splitVocabulary(text);
-        const fileDisplayArea = document.getElementById('fileDisplayArea');
-        fileDisplayArea.textContent = fileDisplayArea;
-    }); // END  $(document).ready({...})
-</script>
+   <head>
+      <meta charset="utf-8">
+      <meta data-hid="description" name="description" content="Watch purified youtube videos with no ads. Just focus"/>
+      <meta data-hid="og:url" property="og:url" content="https://purify-video.github.io"/>
+      <meta data-hid="og:title" property="og:title" content="purify video – watch purified youtube videos with no ads"/>
+      <meta data-hid="og:description" property="og:description" content="Watch purified youtube videos with no ads. Just focus"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
+      <title>purify video – watch purified youtube videos with no ads</title>
+      <script type="text/javascript">
+         function init(){
+         	let params = new URLSearchParams(window.location.search.substr(1));
+         
+         	if(params.has('v')){
+         		purify(params.get('v').match(/(http:|https:)?(\/\/)?(www\.)?(youtube.com|youtu.be)\/(watch|embed)?(\?v=|\/)?(\S+)?/).pop())
+         	}
+         }
+         
+         function purify(key){
+         	document.querySelectorAll('.iframe')[0].style.display = '';
+         	return document.querySelectorAll('iframe')[0].setAttribute('src', 'https://www.youtube-nocookie.com/embed/'+key);
+         }
+      </script>
+      <style type="text/css">
+         * {
+         font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+         }
+         a, a:hover, a:visited{
+         color: #000;
+         }
+         section, footer, header{
+         max-width:1200px;
+         width: 100%;
+         margin: auto;
+         }
+         header, footer{
+         text-align: center;
+         }
+         .iframe{
+         max-width: 1024px;
+         height: 560px;
+         margin:auto;
+         padding: 25px;
+         }
+         input{
+         display: inline;
+         padding: .375rem .75rem;
+         font-size: 1rem;
+         font-weight: 400;
+         line-height: 1.5;
+         color: #212529;
+         background-color: #fff;
+         background-clip: padding-box;
+         border: 1px solid #ced4da;
+         -webkit-appearance: none;
+         -moz-appearance: none;
+         appearance: none;
+         border-radius: .25rem;
+         transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+         }
+         button{
+         display: inline-block;
+         font-weight: 400;
+         line-height: 1.5;
+         color: #212529;
+         text-align: center;
+         text-decoration: none;
+         vertical-align: middle;
+         cursor: pointer;
+         -webkit-user-select: none;
+         -moz-user-select: none;
+         user-select: none;
+         background-color: transparent;
+         border: 1px solid transparent;
+         padding: .375rem .75rem;
+         font-size: 1rem;
+         border-radius: .25rem;
+         font-weight: 600;
+         color: #fff;
+         background-color: #46aae9;
+         border-color: #61a2e7;
+         }
+         section h1{
+         border-bottom: 1px solid #ededed;
+         font-size: 1.9em;
+         }
+         code{
+         background: #f7f7f7;
+         padding: 30px 0;
+         display: block;
+         font-family: Courier New;
+         }
+      </style>
+   </head>
+   <body onload="init()">
+      <header>
+         <h1>purify video</h1>
+         <h2>Watch purified youtube videos with no ads. Just focus</h2>
+         <form method="get" action="/">
+            <input placeholder="Enter youtube URL" type="input" name="v">
+            <button>Purify</button>
+         </form>
+      </header>
+      <section class="iframe" style="display: none">
+         <iframe width="100%" height="100%" src=""
+            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </section>
+      <section>
+         <h1>Are you looking for a way to enhance your YouTube viewing experience?</h1>
+  
+         <p>Look no further! This app offers a clean and minimalistic interface for a distraction-free experience.</p>
+         <p>Whether you're a teacher, professor, student, parent, or organizer, you can use our app to remove unwanted and inappropriate ads, comments, and related videos that may appear on the sidebar. </p>
+         <p>You can ensure that your students only see the content you want them to, while also keeping your own experience free of distractions. </p>
+         
+      </section>
+      <footer>
+         <p>Youtube is the source of content</p>
+         <p><a href="https://github.com/purify-video" target="_blank"> Made with 🖤 in Wrocław</a></p>
+         <p>This website <strong>does not store</strong> any data such as cookies to enable essential site functionality.</p>
+      </footer>
+   </body>
 </html>
