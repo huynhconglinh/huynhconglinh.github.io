@@ -1,45 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HCLINH</title>
+    <title>Embed YouTube Video</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
-<body onload="init()">
-    <div class="iframe" style="display: none;">
-        <iframe id="videoContainer" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<style>
+    body {
+        background-color: black;
+        color: white;
+        /* Optional: This makes the text readable on a black background */
+    }
+</style>
+
+<body>
+
+    <div class="container">
+
+        <header class="row justify-content-center mt-4">
+            <div class="col-10">
+                <input type="text" id="youtubeUrl" class="form-control" placeholder="Enter YouTube URL"
+                    value="https://www.youtube.com/watch?v=pzOesdO0qHk">
+            </div>
+            <div class="col-2 d-grid gap-2">
+                <button class="btn btn-block btn-success" onclick="embedVideo()">View</button>
+            </div>
+        </header>
+
+        <div class="row justify-content-center  mt-4 border-top">
+            <div class="col-12">
+                <div class="iframe ratio ratio-16x9 mt-3" style="display: none;">
+                    <iframe id="videoContainer" width="100%" height="auto" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+
+        <footer class="row justify-content-center mt-4 border-top">
+            <div class="container mt-4">
+                <p class="text-center">&copy; 2024 HCLINH</p>
+            </div>
+        </footer>
     </div>
 
-    <script type="text/javascript">
+
+    <script>
         function getYoutubeId(url) {
             const regExp = /^(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
             const match = url.match(regExp);
             return match ? match[1] : null;
         }
 
-        function init() {
-            const params = new URLSearchParams(window.location.search.substr(1));
-            if (params.has('v')) {
-                const videoId = getYoutubeId(params.get('v'));
-                if (videoId) {
-                    purify(videoId);
-                } else {
-                    console.error('Invalid YouTube URL');
-                }
+        function embedVideo() {
+            const url = document.getElementById('youtubeUrl').value;
+            const videoId = getYoutubeId(url);
+            if (videoId) {
+                purify(videoId);
             } else {
-                console.error('No video ID found in URL');
+                console.error('Invalid YouTube URL');
+                alert('Please enter a valid YouTube URL.');
             }
         }
 
-        function purify(videoId, width = 560, height = 315, autoplay = false, controls = true) {
+        function purify(videoId, autoplay = false, controls = true) {
             const autoplayParam = autoplay ? '1' : '0';
             const controlsParam = controls ? '1' : '0';
             const iframe = document.getElementById('videoContainer');
-            iframe.style.display = '';
-            iframe.setAttribute('width', width);
-            iframe.setAttribute('height', height);
+            document.querySelector('.iframe').style.display = '';
             iframe.setAttribute('src', `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=${autoplayParam}&controls=${controlsParam}`);
         }
     </script>
+
+    <!-- Bootstrap 5 JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
