@@ -1,0 +1,402 @@
+{
+  "id": "on-n2-300-de-9-241-270",
+  "code": "N2-ON-009",
+  "title": "Ôn N2 Đề 9",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "vocabulary_grammar",
+  "source": "supabase_export",
+  "questionCount": 30,
+  "questions": [
+    {
+      "question_id": 241,
+      "question": "皆様のご協力（　）、ここまで来ることはできませんでした。",
+      "context": "",
+      "options": [
+        "なくして",
+        "にかかわらず",
+        "ないことで",
+        "のみならず"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～なくして」= nếu không có... thì không thể.... Không có sự hợp tác của mọi người thì đã không thể đi đến đây."
+    },
+    {
+      "question_id": 242,
+      "question": "持ってきてくれて助かったよ。おかげで外に買いに（　）。",
+      "context": "",
+      "options": [
+        "行かなくてすんだ",
+        "行かなかったんだ",
+        "行けっこなかった",
+        "行くわけにはいかなかった"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～なくて済んだ」= không phải làm..., tránh được việc.... Nhờ bạn mang tới nên tôi không phải ra ngoài mua."
+    },
+    {
+      "question_id": 243,
+      "question": "日本語（　）どんな外国語でも、使う相手がいないと上達しない。",
+      "context": "",
+      "options": [
+        "に限らず",
+        "とはいえ",
+        "は抜きにして",
+        "のことだから"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～に限らず」= không chỉ riêng.... Không chỉ tiếng Nhật, bất kỳ ngoại ngữ nào nếu không có người dùng cùng thì khó tiến bộ."
+    },
+    {
+      "question_id": 244,
+      "question": "学生にとってはもちろん、教師（　）長い休みは嬉しいものだ。",
+      "context": "",
+      "options": [
+        "にしては",
+        "からすると",
+        "にしたって",
+        "というより"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～にしたって」= ngay cả đối với.... Học sinh thì tất nhiên, ngay cả giáo viên cũng thích kỳ nghỉ dài."
+    },
+    {
+      "question_id": 245,
+      "question": "兄はいい仕事が見つかった（　）結婚も決まって、今とても幸せそうだ。",
+      "context": "",
+      "options": [
+        "上で",
+        "上に",
+        "以上",
+        "以上に"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～上に」= hơn nữa, thêm vào đó. Anh trai tìm được việc tốt, hơn nữa còn quyết định kết hôn."
+    },
+    {
+      "question_id": 246,
+      "question": "この写真を見る（　）、楽しかったあの頃のことが思い出される。",
+      "context": "",
+      "options": [
+        "にしろ",
+        "にせよ",
+        "につき",
+        "につけ"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～につけ」= mỗi khi.... Mỗi khi nhìn bức ảnh này thì lại nhớ về khoảng thời gian vui vẻ đó."
+    },
+    {
+      "question_id": 247,
+      "question": "あいさつ（　）、さっそく乾杯しましょう。",
+      "context": "",
+      "options": [
+        "は抜きで",
+        "もなく",
+        "を問わず",
+        "にかかわらず"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～は抜きで」= bỏ qua..., không tính.... Bỏ qua phần chào hỏi, chúng ta nâng ly luôn."
+    },
+    {
+      "question_id": 248,
+      "question": "花粉症になると鼻水やせき（　）、熱まで出る場合もある。",
+      "context": "",
+      "options": [
+        "からして",
+        "にわたり",
+        "ばかりか",
+        "もとより"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～ばかりか」= không chỉ... mà còn.... Dị ứng phấn hoa không chỉ chảy nước mũi, ho mà còn có thể sốt."
+    },
+    {
+      "question_id": 249,
+      "question": "欧米の人（　）、日本の水田の風景はめずらしいのだろう。",
+      "context": "",
+      "options": [
+        "にしたら",
+        "によれば",
+        "につき",
+        "にかけては"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～にしたら」= đối với..., đứng từ lập trường của... mà nói. Với người Âu Mỹ, phong cảnh ruộng lúa nước của Nhật có lẽ là hiếm lạ."
+    },
+    {
+      "question_id": 250,
+      "question": "台風で飛行機が飛ばないのであれば、新幹線で帰る（　）。",
+      "context": "",
+      "options": [
+        "ほかない",
+        "かいがない",
+        "にすぎない",
+        "にほかならない"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～ほかない」= chỉ còn cách.... Nếu máy bay không bay do bão thì chỉ còn cách về bằng Shinkansen."
+    },
+    {
+      "question_id": 251,
+      "question": "テスト前なのに、推理小説の続きが読みたくて（　）。",
+      "context": "",
+      "options": [
+        "いられない",
+        "かまわない",
+        "しょうがない",
+        "ほかはない"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～てしょうがない」= rất..., không chịu nổi. Dù sắp thi nhưng tôi muốn đọc tiếp tiểu thuyết trinh thám quá không chịu nổi."
+    },
+    {
+      "question_id": 252,
+      "question": "ガソリンが入っていなければ、車が走る（　）だろう。",
+      "context": "",
+      "options": [
+        "に違いない",
+        "ほかはない",
+        "わけがない",
+        "どころではない"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～わけがない」= không thể nào.... Không có xăng thì xe không thể chạy được."
+    },
+    {
+      "question_id": 253,
+      "question": "いくら薬をかえても、父の病状は悪化する（　）だった。",
+      "context": "",
+      "options": [
+        "最中",
+        "一方",
+        "限り",
+        "次第"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～一方だ」= chỉ càng ngày càng.... Dù đổi thuốc thế nào bệnh tình của bố vẫn chỉ xấu đi."
+    },
+    {
+      "question_id": 254,
+      "question": "海外で人気のこのサービスも、日本（　）まだあまり普及していない。",
+      "context": "",
+      "options": [
+        "においては",
+        "にとっては",
+        "にあたっては",
+        "にかけては"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～においては」= tại, ở, trong phạm vi.... Dịch vụ này nổi tiếng ở nước ngoài nhưng tại Nhật vẫn chưa phổ biến."
+    },
+    {
+      "question_id": 255,
+      "question": "経験がある（　）、初めての人にすべてを任せるのはやめたほうがいい。",
+      "context": "",
+      "options": [
+        "にしろ",
+        "もかまわず",
+        "ならまだしも",
+        "にかかわらず"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～ならまだしも」= nếu là... thì còn được, chứ.... Nếu là người có kinh nghiệm thì còn được, chứ không nên giao hết cho người mới."
+    },
+    {
+      "question_id": 256,
+      "question": "予想以上の売り上げで、社員（　）アルバイトにまでボーナスが支給された。",
+      "context": "",
+      "options": [
+        "ながらも",
+        "のあまり",
+        "を問わず",
+        "ばかりでなく"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ばかりでなく」= không chỉ... mà còn.... Doanh thu vượt dự đoán nên không chỉ nhân viên mà cả làm thêm cũng được thưởng."
+    },
+    {
+      "question_id": 257,
+      "question": "多くの人に対して何度も同じことを説明（　）疲れてしまった。",
+      "context": "",
+      "options": [
+        "させて",
+        "されて",
+        "させられて",
+        "してもらって"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～させられる」= bị bắt phải làm.... Bị bắt giải thích cùng một việc nhiều lần cho nhiều người nên mệt."
+    },
+    {
+      "question_id": 258,
+      "question": "メモをなくしたので、記憶（　）その料理を作った。",
+      "context": "",
+      "options": [
+        "を頼りに",
+        "はもとより",
+        "もかまわず",
+        "にかけては"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～を頼りに」= dựa vào.... Vì mất ghi chú nên tôi nấu món đó dựa vào trí nhớ."
+    },
+    {
+      "question_id": 259,
+      "question": "おととし、東京の郊外に小さい（　）庭つきの家を買いました。",
+      "context": "",
+      "options": [
+        "のに",
+        "くせに",
+        "ばかりの",
+        "ながらも"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ながらも」= tuy... nhưng.... Năm kia tôi mua một căn nhà tuy nhỏ nhưng có vườn ở ngoại ô Tokyo."
+    },
+    {
+      "question_id": 260,
+      "question": "できると言った（　）、どんなことがあってもやってみせる。",
+      "context": "",
+      "options": [
+        "以上",
+        "うえでは",
+        "ばかりに",
+        "ものだから"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～以上」= một khi đã... thì.... Một khi đã nói là làm được thì dù thế nào cũng sẽ làm cho bằng được."
+    },
+    {
+      "question_id": 261,
+      "question": "このぐらいの値段なら買えない（　）が、今は買う気にならない。",
+      "context": "",
+      "options": [
+        "だけましだ",
+        "わけがない",
+        "おそれがある",
+        "わけではない"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～わけではない」= không hẳn là.... Với giá này không phải là không mua được, nhưng hiện tại không muốn mua."
+    },
+    {
+      "question_id": 262,
+      "question": "専門家によると、この火山は数年以内に噴火（　）そうだ。",
+      "context": "",
+      "options": [
+        "しがちである",
+        "せねばならない",
+        "しようとしている",
+        "するおそれがある"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～おそれがある」= có nguy cơ.... Theo chuyên gia, núi lửa này có nguy cơ phun trào trong vài năm tới."
+    },
+    {
+      "question_id": 263,
+      "question": "あの人の服装（　）、ここで働いている人ではないだろう。",
+      "context": "",
+      "options": [
+        "からして",
+        "からには",
+        "によると",
+        "からといって"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～からして」= xét từ.... Nhìn từ cách ăn mặc thì chắc người đó không phải người làm ở đây."
+    },
+    {
+      "question_id": 264,
+      "question": "そんな甘いことを考えている（　）、就職なんてできないよ。",
+      "context": "",
+      "options": [
+        "あまり",
+        "うちに",
+        "限り",
+        "ものなら"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～限り」= chừng nào còn.... Chừng nào còn suy nghĩ ngây thơ như vậy thì không thể xin việc."
+    },
+    {
+      "question_id": 265,
+      "question": "この施設では、季節（　）スキーやスノーボードが楽しめます。",
+      "context": "",
+      "options": [
+        "を問わず",
+        "のみならず",
+        "もかまわず",
+        "にもかかわらず"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～を問わず」= bất kể.... Ở cơ sở này có thể chơi trượt tuyết và snowboard bất kể mùa nào."
+    },
+    {
+      "question_id": 266,
+      "question": "何事もなく毎日を過ごしていると、平和のありがたさを忘れてしまい（　）。",
+      "context": "",
+      "options": [
+        "がちだ",
+        "すぎた",
+        "そうもない",
+        "ようがない"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～がちだ」= dễ/thường hay.... Khi ngày nào cũng yên ổn, con người dễ quên giá trị của hòa bình."
+    },
+    {
+      "question_id": 267,
+      "question": "このホテルでは、まるで南国にいる（　）気分が味わえる。",
+      "context": "",
+      "options": [
+        "とみえる",
+        "かのような",
+        "ともいえる",
+        "かもしれない"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～かのような」= như thể là.... Ở khách sạn này có thể tận hưởng cảm giác như đang ở đất nước nhiệt đới."
+    },
+    {
+      "question_id": 268,
+      "question": "申しわけありませんが、その質問には答え（　）。",
+      "context": "",
+      "options": [
+        "かねます",
+        "ずにすみます",
+        "ねばなりません",
+        "なくもありません"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～かねます」= khó có thể..., không thể... dùng lịch sự. Xin lỗi nhưng tôi không thể trả lời câu hỏi đó."
+    },
+    {
+      "question_id": 269,
+      "question": "父は「ちょっと行ってくる」と言って出かけた（　）、まだ帰ってこない。",
+      "context": "",
+      "options": [
+        "あまり",
+        "うえに",
+        "たびに",
+        "っきり"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～っきり」= kể từ khi... rồi mãi.... Bố nói đi một chút rồi đi luôn, đến giờ vẫn chưa về."
+    },
+    {
+      "question_id": 270,
+      "question": "何も知らない（　）、余計なことを言うな。",
+      "context": "",
+      "options": [
+        "くせに",
+        "ままに",
+        "からこそ",
+        "ながらも"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～くせに」= mặc dù... mà lại..., mang sắc thái trách móc. Đã không biết gì mà đừng nói linh tinh."
+    }
+  ]
+}

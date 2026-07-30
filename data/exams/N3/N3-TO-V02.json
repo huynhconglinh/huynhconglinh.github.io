@@ -1,0 +1,336 @@
+{
+  "id": "N3-TO-V02",
+  "code": "N3-TO-V02",
+  "title": "Tổng ôn Từ vựng 2",
+  "track": "n3_review",
+  "level": "N3",
+  "topic": "vocabulary",
+  "sourceCsv": "tong_on_bai_4.csv",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "この国は米の生産が(          )で、海外にもたくさん米を輸出している。",
+      "context": "",
+      "options": [
+        "派手",
+        "立派",
+        "盛ん",
+        "にぎやか"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 派手（はで - Phái Thủ - lòe loẹt/phô trương）: mô tả phong cách lòe loẹt, không dùng cho sản xuất nông nghiệp.\r\n2. SAI. 立派（りっぱ - Lập Phá - xuất sắc）: dùng để khen ngợi con người hoặc công trình, không dùng với 「生産が」.\r\n3. ĐÚNG. 盛ん（さかん - Thịnh - hưng thịnh/phát triển mạnh）: dùng để nói về hoạt động đang phát triển mạnh. 「米の生産が盛んだ」 nghĩa là sản xuất gạo phát triển rất mạnh.\r\nCâu hoàn chỉnh:\r\nこの国は米の生産が盛んで、海外にもたくさん米を輸出している。\r\nDịch nghĩa:\r\nNước này sản xuất gạo rất phát triển và xuất khẩu nhiều gạo ra nước ngoài.\r\n4. SAI. にぎやか（賑やか - Sầm Uất - náo nhiệt/sầm uất）: mô tả nơi chốn đông vui, không dùng cho sản xuất."
+    },
+    {
+      "question_id": 2,
+      "question": "寝坊して慌てて家を出たので、(          )携帯電話を忘れてきてしまった。",
+      "context": "",
+      "options": [
+        "そっと",
+        "ぐっすり",
+        "うっかり",
+        "どっと"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. そっと（nhẹ nhàng/lén lút）: mô tả hành động cẩn thận nhẹ nhàng, ngược hoàn toàn với ngữ cảnh vội vàng quên đồ.\r\n2. SAI. ぐっすり（ngủ say）: mô tả trạng thái ngủ sâu, không dùng cho hành động quên.\r\n3. ĐÚNG. うっかり（bất cẩn/lơ đãng）: diễn tả hành động vô tình/bất cẩn làm gì đó. 「うっかり忘れる」 là cụm rất thông dụng.\r\nCâu hoàn chỉnh:\r\n寝坊して慌てて家を出たので、うっかり携帯電話を忘れてきてしまった。\r\nDịch nghĩa:\r\nVì ngủ quên nên vội vã ra khỏi nhà và bất cẩn để quên điện thoại di động.\r\n4. SAI. どっと（ồ ạt/đột ngột）: mô tả điều gì đó xảy ra ồ ạt, không dùng cho hành động quên."
+    },
+    {
+      "question_id": 3,
+      "question": "風邪をひいて、高い熱があるので、体が(          )します。",
+      "context": "",
+      "options": [
+        "ふらふら",
+        "ばらばら",
+        "からから",
+        "ぺらぺら"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. ふらふら（loạng choạng/choáng váng）: mô tả cảm giác chóng mặt, mất thăng bằng. Phù hợp khi bị sốt cao.\r\nCâu hoàn chỉnh:\r\n風邪をひいて、高い熱があるので、体がふらふらします。\r\nDịch nghĩa:\r\nVì bị cảm và sốt cao nên người cứ choáng váng.\r\n2. SAI. ばらばら（tan tành/rời rạc）: mô tả thứ gì đó bị vỡ vụn ra, không dùng cho cảm giác thể chất khi bệnh.\r\n3. SAI. からから（khô rang）: mô tả trạng thái khô, ví dụ 「のどがからから」 (cổ họng khô), không phù hợp với 「体が」.\r\n4. SAI. ぺらぺら（lưu loát/mỏng dính）: mô tả nói tiếng nước ngoài lưu loát hoặc thứ gì mỏng, không phù hợp."
+    },
+    {
+      "question_id": 4,
+      "question": "急いでいたので、(          )違うバスに乗ってしまった。",
+      "context": "",
+      "options": [
+        "ぴったり",
+        "ぐっすり",
+        "うっかり",
+        "がっかり"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. ぴったり（vừa khít/chính xác）: mô tả sự vừa vặn, ngược với nghĩa vô tình nhầm.\r\n2. SAI. ぐっすり（ngủ say）: không liên quan.\r\n3. ĐÚNG. うっかり（bất cẩn/vô tình）: 「うっかり間違える」 nghĩa là vô tình nhầm lẫn.\r\nCâu hoàn chỉnh:\r\n急いでいたので、うっかり違うバスに乗ってしまった。\r\nDịch nghĩa:\r\nVì đang vội nên tôi vô tình lên nhầm xe buýt.\r\n4. SAI. がっかり（thất vọng）: mô tả cảm xúc thất vọng, không dùng cho hành động vô tình."
+    },
+    {
+      "question_id": 5,
+      "question": "このレストランの料理はおいしくないので、店内はいつも(          )だ。",
+      "context": "",
+      "options": [
+        "ふらふら",
+        "ぐっすり",
+        "がらがら",
+        "うっかり"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. ふらふら（loạng choạng）: không phù hợp để mô tả trạng thái vắng người.\r\n2. SAI. ぐっすり（ngủ say）: không liên quan.\r\n3. ĐÚNG. がらがら（trống rỗng/vắng tanh）: mô tả nơi chốn không có người, vắng vẻ.\r\nCâu hoàn chỉnh:\r\nこのレストランの料理はおいしくないので、店内はいつもがらがらだ。\r\nDịch nghĩa:\r\nVì đồ ăn của nhà hàng này không ngon nên bên trong lúc nào cũng vắng tanh.\r\n4. SAI. うっかり（bất cẩn）: không dùng để mô tả trạng thái vắng người."
+    },
+    {
+      "question_id": 6,
+      "question": "子どもが寝ているので、音をたてないように、ドアを(          )閉めた。",
+      "context": "",
+      "options": [
+        "がらがら",
+        "とんとん",
+        "そっと",
+        "ぐっすり"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. がらがら（trống rỗng/ầm ầm）: âm thanh gây tiếng ồn, ngược với ý muốn không gây tiếng động.\r\n2. SAI. とんとん（gõ gõ/suôn sẻ）: mô tả tiếng gõ nhẹ hoặc sự suôn sẻ, không phù hợp.\r\n3. ĐÚNG. そっと（nhẹ nhàng/lén lút）: mô tả hành động làm thật nhẹ nhàng, cẩn thận để không gây tiếng động.\r\nCâu hoàn chỉnh:\r\n子どもが寝ているので、音をたてないように、ドアをそっと閉めた。\r\nDịch nghĩa:\r\nVì con đang ngủ nên tôi khép cửa thật nhẹ nhàng để không gây tiếng động.\r\n4. SAI. ぐっすり（ngủ say）: chỉ trạng thái ngủ, không dùng cho hành động đóng cửa."
+    },
+    {
+      "question_id": 7,
+      "question": "子どもが迷子にならないように、子どもの手を(          )握った。",
+      "context": "",
+      "options": [
+        "はっきり",
+        "しっかり",
+        "ぐっすり",
+        "そっくり"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. はっきり（rõ ràng）: mô tả sự rõ ràng, không dùng cho hành động nắm tay.\r\n2. ĐÚNG. しっかり（chắc chắn/vững vàng）: mô tả hành động nắm chặt, vững. 「手をしっかり握る」 là cụm rất tự nhiên.\r\nCâu hoàn chỉnh:\r\n子どもが迷子にならないように、子どもの手をしっかり握った。\r\nDịch nghĩa:\r\nĐể con không bị lạc, tôi đã nắm chặt tay con.\r\n3. SAI. ぐっすり（ngủ say）: không dùng cho hành động nắm tay.\r\n4. SAI. そっくり（giống hệt）: mô tả sự giống nhau, không phù hợp."
+    },
+    {
+      "question_id": 8,
+      "question": "注文したカメラが届いたのがうれしくて、(          )箱から出して使ってみた。",
+      "context": "",
+      "options": [
+        "ずいぶん",
+        "けっこう",
+        "なるべく",
+        "さっそく"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. ずいぶん（khá nhiều/rất）: chỉ mức độ, không diễn tả sự ngay lập tức.\r\n2. SAI. けっこう（khá/đáng kể）: chỉ mức độ, không phù hợp.\r\n3. SAI. なるべく（càng... càng tốt/cố gắng）: diễn tả mong muốn làm điều gì trong khả năng, không phù hợp.\r\n4. ĐÚNG. さっそく（ngay lập tức/không chần chừ）: diễn tả hành động làm ngay mà không do dự. Phù hợp với cảm giác vui mừng khi nhận hàng.\r\nCâu hoàn chỉnh:\r\n注文したカメラが届いたのがうれしくて、さっそく箱から出して使ってみた。\r\nDịch nghĩa:\r\nVui mừng vì máy ảnh đặt mua đã được giao, tôi liền mở hộp ra dùng thử ngay."
+    },
+    {
+      "question_id": 9,
+      "question": "「私の国の社会問題」という (          )で、レポートを書くことになった。",
+      "context": "",
+      "options": [
+        "デザイン",
+        "テーマ",
+        "サイン",
+        "ルール"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. デザイン（thiết kế - từ tiếng Anh \"design\"）: không phù hợp với ngữ cảnh viết báo cáo.\r\n2. ĐÚNG. テーマ（chủ đề - từ tiếng Đức/Anh \"Thema/theme\"）: nghĩa là chủ đề/đề tài. 「テーマで書く」 là cụm rất tự nhiên.\r\nCâu hoàn chỉnh:\r\n「私の国の社会問題」というテーマで、レポートを書くことになった。\r\nDịch nghĩa:\r\nTôi sẽ viết báo cáo với chủ đề \"Vấn đề xã hội của đất nước tôi\".\r\n3. SAI. サイン（chữ ký/biển hiệu - từ tiếng Anh \"sign\"）: không liên quan đến chủ đề báo cáo.\r\n4. SAI. ルール（quy tắc - từ tiếng Anh \"rule\"）: không phù hợp với ngữ cảnh."
+    },
+    {
+      "question_id": 10,
+      "question": "旅行の前の日にけがをしてしまったので、予約を(          )した。",
+      "context": "",
+      "options": [
+        "キャンセル",
+        "カット",
+        "オープン",
+        "チェックアウト"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. キャンセル（hủy bỏ - từ tiếng Anh \"cancel\"）: nghĩa là hủy đặt chỗ. 「予約をキャンセルする」 là cụm rất thông dụng.\r\nCâu hoàn chỉnh:\r\n旅行の前の日にけがをしてしまったので、予約をキャンセルした。\r\nDịch nghĩa:\r\nVì bị thương vào ngày trước khi đi du lịch nên tôi đã hủy đặt chỗ.\r\n2. SAI. カット（cắt bỏ - từ tiếng Anh \"cut\"）: không dùng cho việc hủy đặt chỗ du lịch.\r\n3. SAI. オープン（khai trương/mở - từ tiếng Anh \"open\"）: nghĩa ngược lại.\r\n4. SAI. チェックアウト（trả phòng - từ tiếng Anh \"check-out\"）: dùng khi trả phòng khách sạn, không phải hủy đặt chỗ."
+    },
+    {
+      "question_id": 11,
+      "question": "このパソコンには何か<u>欠点</u>がありますか。",
+      "context": "",
+      "options": [
+        "よくないところ",
+        "いいところ",
+        "好きなところ",
+        "好きじゃないところ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「よくないところ」（điểm không tốt）: 欠点（けってん - Khuyết Điểm - khuyết điểm）đồng nghĩa với \"điểm không tốt/nhược điểm\".\r\nCâu hoàn chỉnh:\r\nこのパソコンにはよくないところがありますか。\r\nDịch nghĩa:\r\nMáy tính này có điểm nào không tốt không?\r\n2. SAI. 「いいところ」（điểm tốt）: nghĩa ngược với 「欠点」.\r\n3. SAI. 「好きなところ」（điểm thích）: không đồng nghĩa.\r\n4. SAI. 「好きじゃないところ」（điểm không thích）: gần nghĩa nhưng không chính xác bằng đáp án 1."
+    },
+    {
+      "question_id": 12,
+      "question": "なぜ私のこたえが違うのか、友達の説明を聞いて<u>納得し</u>た。",
+      "context": "",
+      "options": [
+        "少し分かった",
+        "とてもよく分かった",
+        "もう一度考えた",
+        "何度も考えた"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「少し分かった」（hiểu một chút）: 「納得する」 mang nghĩa hiểu và chấp nhận hoàn toàn, mạnh hơn \"hiểu một chút\".\r\n2. ĐÚNG. 「とてもよく分かった」（hiểu rõ hoàn toàn）: 納得（なっとく - Nạp Đắc - hiểu và chấp nhận）nghĩa là hiểu thấu đáo và chấp nhận lý lẽ.\r\nCâu hoàn chỉnh:\r\nなぜ私のこたえが違うのか、友達の説明を聞いてとてもよく分かった。\r\nDịch nghĩa:\r\nTôi đã hiểu rõ tại sao câu trả lời của mình lại sai sau khi nghe bạn giải thích.\r\n3. SAI. 「もう一度考えた」（suy nghĩ lại）: không đồng nghĩa.\r\n4. SAI. 「何度も考えた」（suy nghĩ nhiều lần）: không đồng nghĩa."
+    },
+    {
+      "question_id": 13,
+      "question": "昨日は本当に<u>くたびれた</u>。",
+      "context": "",
+      "options": [
+        "疲れた",
+        "困った",
+        "眠かった",
+        "恥ずかしかった"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「疲れた」（mệt mỏi）: くたびれる nghĩa là kiệt sức/mệt, đồng nghĩa với 「疲れる」（つかれる - Bì - mệt）.\r\nCâu hoàn chỉnh:\r\n昨日は本当に疲れた。\r\nDịch nghĩa:\r\nHôm qua thật sự rất mệt.\r\n2. SAI. 「困った」（khó xử/phiền não）: không đồng nghĩa.\r\n3. SAI. 「眠かった」（buồn ngủ）: gần nhưng không đồng nghĩa.\r\n4. SAI. 「恥ずかしかった」（xấu hổ）: không đồng nghĩa."
+    },
+    {
+      "question_id": 14,
+      "question": "兄は<u>黙って</u>ずっと漫画を読んでいる。",
+      "context": "",
+      "options": [
+        "何も話さないで",
+        "何も食べないで",
+        "勉強しないで",
+        "寝ないで"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「何も話さないで」（không nói gì）: 黙る（だまる - Mặc - im lặng）nghĩa là không nói năng gì, đồng nghĩa với 「何も話さないで」.\r\nCâu hoàn chỉnh:\r\n兄は何も話さないでずっと漫画を読んでいる。\r\nDịch nghĩa:\r\nAnh trai tôi cứ im lặng không nói gì, đọc truyện tranh mãi.\r\n2. SAI. 「何も食べないで」（không ăn gì）: không đồng nghĩa.\r\n3. SAI. 「勉強しないで」（không học）: không đồng nghĩa.\r\n4. SAI. 「寝ないで」（không ngủ）: không đồng nghĩa."
+    },
+    {
+      "question_id": 15,
+      "question": "パーティーの料理が<u>あまりました</u>。",
+      "context": "",
+      "options": [
+        "多すぎて残りました",
+        "少し足りませんでした",
+        "とてもおいしかったです",
+        "そんなにおいしくなかったです"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「多すぎて残りました」（nhiều quá nên còn thừa）: 余る（あまる - Dư - còn thừa/dư ra）đồng nghĩa với \"còn thừa\".\r\nCâu hoàn chỉnh:\r\nパーティーの料理は多すぎて残りました。\r\nDịch nghĩa:\r\nThức ăn trong bữa tiệc nhiều quá nên còn thừa.\r\n2. SAI. 「少し足りませんでした」（thiếu một chút）: nghĩa ngược lại.\r\n3. SAI. 「とてもおいしかった」（rất ngon）: không đồng nghĩa.\r\n4. SAI. 「そんなにおいしくなかった」（không ngon lắm）: không đồng nghĩa."
+    },
+    {
+      "question_id": 16,
+      "question": "ここでは<u>しゃべらないで</u>ください。",
+      "context": "",
+      "options": [
+        "騒がないで",
+        "食べないで",
+        "遊ばないで",
+        "話さないで"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「騒がないで」（đừng ồn ào）: gần nghĩa nhưng 「騒ぐ」 rộng hơn, không chỉ là nói chuyện.\r\n2. SAI. 「食べないで」（đừng ăn）: không đồng nghĩa.\r\n3. SAI. 「遊ばないで」（đừng chơi）: không đồng nghĩa.\r\n4. ĐÚNG. 「話さないで」（đừng nói chuyện）: しゃべる（喋る - trò chuyện/nói）đồng nghĩa với 「話す」（はなす - nói）trong ngữ cảnh này.\r\nCâu hoàn chỉnh:\r\nここでは話さないでください。\r\nDịch nghĩa:\r\nỞ đây xin đừng nói chuyện."
+    },
+    {
+      "question_id": 17,
+      "question": "昨日見た映画は<u>退屈</u>だった。",
+      "context": "",
+      "options": [
+        "めずらしかった",
+        "つまらなかった",
+        "おかしかった",
+        "おもしろかった"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「めずらしかった」（lạ/hiếm）: không đồng nghĩa.\r\n2. ĐÚNG. 「つまらなかった」（nhàm chán）: 退屈（たいくつ - Thối Khuất - chán ngắt）đồng nghĩa với 「つまらない」.\r\nCâu hoàn chỉnh:\r\n昨日見た映画はつまらなかった。\r\nDịch nghĩa:\r\nBộ phim xem hôm qua thật nhàm chán.\r\n3. SAI. 「おかしかった」（buồn cười/kỳ lạ）: không đồng nghĩa.\r\n4. SAI. 「おもしろかった」（thú vị）: nghĩa ngược lại."
+    },
+    {
+      "question_id": 18,
+      "question": "<u>まぶしくて</u>看板の字がよく見えません。",
+      "context": "",
+      "options": [
+        "小さすぎて",
+        "暗すぎて",
+        "薄すぎて",
+        "明るすぎて"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「小さすぎて」（quá nhỏ）: không đồng nghĩa với 「まぶしい」.\r\n2. SAI. 「暗すぎて」（quá tối）: nghĩa ngược với 「まぶしい」.\r\n3. SAI. 「薄すぎて」（quá mờ nhạt）: không đồng nghĩa.\r\n4. ĐÚNG. 「明るすぎて」（quá sáng/chói）: まぶしい（眩しい - Huyền - chói mắt）nghĩa là sáng quá gây chói, đồng nghĩa với 「明るすぎる」 trong ngữ cảnh này.\r\nCâu hoàn chỉnh:\r\n明るすぎて看板の字がよく見えません。\r\nDịch nghĩa:\r\nVì quá chói mắt nên không nhìn rõ chữ trên biển hiệu."
+    },
+    {
+      "question_id": 19,
+      "question": "今日は<u>退屈</u>だった。",
+      "context": "",
+      "options": [
+        "楽しかった",
+        "つまらなかった",
+        "忙しかった",
+        "静かだった"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「楽しかった」（vui vẻ）: nghĩa ngược lại.\r\n2. ĐÚNG. 「つまらなかった」（nhàm chán）: 退屈（たいくつ - Thối Khuất - chán ngắt）đồng nghĩa với 「つまらない」.\r\nCâu hoàn chỉnh:\r\n今日はつまらなかった。\r\nDịch nghĩa:\r\nHôm nay thật nhàm chán.\r\n3. SAI. 「忙しかった」（bận rộn）: không đồng nghĩa.\r\n4. SAI. 「静かだった」（yên tĩnh）: không đồng nghĩa."
+    },
+    {
+      "question_id": 20,
+      "question": "もっと<u>くわしく</u>説明してください。",
+      "context": "",
+      "options": [
+        "早く",
+        "細かく",
+        "簡単に",
+        "熱心に"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「早く」（nhanh hơn）: không đồng nghĩa.\r\n2. ĐÚNG. 「細かく」（tỉ mỉ/chi tiết）: 詳しく（くわしく - Tường - chi tiết/tỉ mỉ）đồng nghĩa với 「細かく」 trong ngữ cảnh giải thích.\r\nCâu hoàn chỉnh:\r\nもっと細かく説明してください。\r\nDịch nghĩa:\r\nHãy giải thích chi tiết hơn.\r\n3. SAI. 「簡単に」（đơn giản hơn）: nghĩa gần ngược lại.\r\n4. SAI. 「熱心に」（nhiệt tình）: không đồng nghĩa."
+    },
+    {
+      "question_id": 21,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「制限」",
+      "context": "",
+      "options": [
+        "安全のため、この乗り物に乗れる人数には10 人までという制限があります。",
+        "この宿題の制限はあしたなので、急いでやらないといけません。",
+        "昨日のマラソン大会は頑張りましたが、体力の制限で最後まで走れませんでした。",
+        "日本に来てまだ一か月なので、日本語の制限があってあまりしゃべれません。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 制限（せいげん - Chế Hạn - giới hạn/hạn chế）: câu này dùng đúng, giới hạn số người được phép lên phương tiện.\r\nCâu đúng: 安全のため、この乗り物に乗れる人数には10人までという制限があります。\r\nDịch nghĩa: Vì lý do an toàn, phương tiện này có giới hạn tối đa 10 người.\r\n2. SAI. 「宿題の制限」 không tự nhiên; để nói hạn nộp bài, nên dùng 「締め切り」（しめきり - deadline）.\r\n3. SAI. Để nói về giới hạn thể lực, dùng 「体力の限界」（げんかい - giới hạn sức chịu đựng）chính xác hơn.\r\n4. SAI. Để nói về năng lực ngôn ngữ, dùng 「日本語の能力が足りない」 hoặc 「日本語が上手じゃない」."
+    },
+    {
+      "question_id": 22,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「滞在」",
+      "context": "",
+      "options": [
+        "あの湖には珍しい鳥が滞在しているらしい。",
+        "このホテルには、以前、有名な作家が滞在していたそうだ。",
+        "バス停にバスが滞在していたので、あわててバス停に向かった。",
+        "雨がやむまで、喫茶店に滞在することにした。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 滞在（たいざい - Trệ Tại - lưu trú）: không dùng cho chim; dùng 「生息している」（せいそく - sinh sống）.\r\n2. ĐÚNG. Đây là cách dùng đúng: nhà văn nổi tiếng đã lưu trú tại khách sạn này.\r\nCâu đúng: このホテルには、以前、有名な作家が滞在していたそうだ。\r\nDịch nghĩa: Nghe nói trước đây một nhà văn nổi tiếng đã từng lưu trú tại khách sạn này.\r\n3. SAI. Xe buýt đang dừng không phải 「滞在」; nên dùng 「停まっていた」.\r\n4. SAI. Trú mưa tạm thời không phải 「滞在」; nên dùng 「待つ」 hoặc 「避難する」."
+    },
+    {
+      "question_id": 23,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「報告」",
+      "context": "",
+      "options": [
+        "テレビの天気予報で明日の天気の報告をしている。",
+        "リーさんから、クラスのみんなで博物館に行こうという報告があった。",
+        "けんかをした友人から電話があって、会って謝りたいという報告をされた。",
+        "アンケートの結果について、今日の会議で報告があった。"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 報告（ほうこく - Báo Cáo - báo cáo）: dự báo thời tiết trên TV không phải 「報告」 mà là 「予報」（よほう）.\r\n2. SAI. Lời mời đi viện bảo tàng không phải 「報告」 mà là 「提案」（ていあん - đề nghị）.\r\n3. SAI. Nói muốn gặp để xin lỗi không phải 「報告」 mà là 「連絡」（れんらく - liên lạc）.\r\n4. ĐÚNG. Báo cáo kết quả khảo sát trong cuộc họp là cách dùng đúng của 「報告」.\r\nCâu đúng: アンケートの結果について、今日の会議で報告があった。\r\nDịch nghĩa: Có báo cáo về kết quả khảo sát trong cuộc họp hôm nay."
+    },
+    {
+      "question_id": 24,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「健康」",
+      "context": "",
+      "options": [
+        "弟の成績がいつもより健康だったので、両親は喜んだ。",
+        "祖父は、毎日運動をしているので、今でもとても健康だ。",
+        "駅前にある大きなビルは、古いけど健康だそうだ。",
+        "最近パソコンが健康ではないみたいで、ときどき変な音がする。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 健康（けんこう - Kiện Khang - khỏe mạnh）: không dùng để khen điểm số; nên dùng 「よかった」.\r\n2. ĐÚNG. Dùng đúng 「健康」 để mô tả sức khỏe con người.\r\nCâu đúng: 祖父は、毎日運動をしているので、今でもとても健康だ。\r\nDịch nghĩa: Vì ông tôi tập thể dục mỗi ngày nên đến bây giờ vẫn rất khỏe mạnh.\r\n3. SAI. Tòa nhà không dùng 「健康」; nên dùng 「丈夫だ」（じょうぶ - vững chắc）.\r\n4. SAI. Máy tính không dùng 「健康ではない」; nên dùng 「調子が悪い」（ちょうし - trục trặc）."
+    },
+    {
+      "question_id": 25,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「預ける」",
+      "context": "",
+      "options": [
+        "ホテルに着いたが、まだ部屋に入れなかったので、受付に荷物を預けて出かけた。",
+        "このアパートの大家さんは、安い家賃で学生に部屋を預けているらしい。",
+        "晩ご飯で残った料理は、冷蔵庫に預けておいて、あした食べましょう。",
+        "今朝財布に1 万円預けたが、たくさん買い物をして、ほとんど使ってしまった。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 預ける（あずける - Dự - gửi/ký gửi）: gửi hành lý cho lễ tân là cách dùng đúng và điển hình.\r\nCâu đúng: ホテルに着いたが、まだ部屋に入れなかったので、受付に荷物を預けて出かけた。\r\nDịch nghĩa: Đến khách sạn nhưng chưa vào phòng được nên tôi gửi hành lý cho lễ tân rồi đi ra ngoài.\r\n2. SAI. Cho thuê phòng không phải 「預ける」 mà là 「貸している」（かしている - cho thuê）.\r\n3. SAI. Bỏ đồ ăn vào tủ lạnh không phải 「預ける」 mà là 「入れておく」.\r\n4. SAI. Bỏ tiền vào ví không phải 「預ける」 mà là 「入れた」."
+    }
+  ]
+}

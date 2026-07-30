@@ -1,0 +1,675 @@
+{
+  "id": "de-thi-jlpt-n2202512-phan-tu-vungngu-phap",
+  "code": "N2-JLPT-202512-VG",
+  "title": "Đề thi JLPT N2 202512",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "vocabulary_grammar",
+  "source": "supabase_export",
+  "questionCount": 51,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "事件の現場に<u>刑事</u>が到着した。",
+      "context": "",
+      "options": [
+        "けいじ",
+        "けんじ",
+        "げいじ",
+        "げんじ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 刑事（けいじ - Hình Sự - cảnh sát hình sự/thám tử）là cách đọc đúng của từ này.\nCâu hoàn chỉnh:\n事件の現場に刑事（けいじ）が到着した。\nDịch nghĩa:\nCảnh sát hình sự đã đến hiện trường vụ án.\n2. SAI. 'けんじ' là cách đọc sai của 刑事.\n3. SAI. 'げいじ' là cách đọc sai của 刑事.\n4. SAI. 'げんじ' là cách đọc sai của 刑事."
+    },
+    {
+      "question_id": 2,
+      "question": "彼は<u>幼い</u>ころから絵を描くのが好きだった。",
+      "context": "",
+      "options": [
+        "おとなしい",
+        "おさない",
+        "わかいない",
+        "いとけない"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 'おとなしい' (大人しい) nghĩa là 'hiền lành, trầm tính', không phải cách đọc của 幼い.\n2. ĐÚNG. 幼い（おさない - Ấu - non nớt, thơ ấu, nhỏ bé）là cách đọc đúng của từ này.\nCâu hoàn chỉnh:\n彼は幼い（おさない）ころから絵を描くのが好きだった。\nDịch nghĩa:\nAnh ấy thích vẽ tranh từ khi còn nhỏ.\n3. SAI. 'わかいない' không phải cách đọc của 幼い.\n4. SAI. 'いとけない' (稚い) cũng có nghĩa là 'non nớt, ngây thơ' nhưng không phải cách đọc chính xác của 幼い trong ngữ cảnh này."
+    },
+    {
+      "question_id": 3,
+      "question": "明日は早く<u>起床</u>しなければならない。",
+      "context": "",
+      "options": [
+        "きしょう",
+        "けいしょう",
+        "きじょう",
+        "けいじょう"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 起床（きしょう - Khởi Sàng - thức dậy）là cách đọc đúng của từ này.\nCâu hoàn chỉnh:\n明日は早く起床（きしょう）しなければならない。\nDịch nghĩa:\nNgày mai tôi phải dậy sớm.\n2. SAI. 'けいしょう' là cách đọc sai của 起床.\n3. SAI. 'きじょう' là cách đọc sai của 起床. (Ví dụ: 騎乗（きじょう - Kỵ Thừa - cưỡi ngựa）có cách đọc này nhưng Kanji khác).\n4. SAI. 'けいじょう' là cách đọc sai của 起床. (Ví dụ: 形状（けいじょう - Hình Trạng - hình dạng）có cách đọc này nhưng Kanji khác)."
+    },
+    {
+      "question_id": 4,
+      "question": "激しかった雨も、夕方には<u>収まった</u>。",
+      "context": "",
+      "options": [
+        "さだまった",
+        "おそまった",
+        "おさまった",
+        "おざまった"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. Là cách đọc của 定まる（さだまる - Định - được quyết định, được ổn định）. Nghĩa không phù hợp với ngữ cảnh mưa ngớt.\n2. SAI. Là cách đọc của 遅まる（おそまる - Trì - bị chậm trễ）. Nghĩa không phù hợp.\n3. ĐÚNG. 収まる（おさまる - Thu - lắng xuống, dịu đi, được chứa đựng）. Trong ngữ cảnh này, nó có nghĩa là mưa đã ngớt/dịu đi.\nCâu hoàn chỉnh:\n激しかった雨も、夕方には収まった。\nDịch nghĩa:\nCơn mưa dữ dội cũng đã ngớt vào buổi tối.\n4. SAI. Không phải là cách đọc đúng của từ."
+    },
+    {
+      "question_id": 5,
+      "question": "彼は<u>善良</u>な市民として知られている。",
+      "context": "",
+      "options": [
+        "せんろう",
+        "せんりょう",
+        "ぜんろう",
+        "ぜんりょう"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. Không phải là cách đọc đúng của từ 善良.\n2. SAI. Không phải là cách đọc đúng của từ 善良.\n3. SAI. Không phải là cách đọc đúng của từ 善良.\n4. ĐÚNG. 善良（ぜんりょう - Thiện Lương - tốt bụng, lương thiện）. Đây là cách đọc đúng của từ.\nCâu hoàn chỉnh:\n彼は善良な市民として知られている。\nDịch nghĩa:\nAnh ấy được biết đến là một công dân lương thiện."
+    },
+    {
+      "question_id": 6,
+      "question": "最近、若者の晩婚化が進む<u>けいこう</u>にある。",
+      "context": "",
+      "options": [
+        "軽向",
+        "携向",
+        "傾向",
+        "径向"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 軽向 (けいこう) không phải là từ có nghĩa \"xu hướng\". 軽（けい - Khinh - nhẹ）.\n2. SAI. 携向 (けいこう) không phải là từ có nghĩa \"xu hướng\". 携（けい - Huề - mang theo）.\n3. ĐÚNG. 傾向（けいこう - Khuynh Hướng - xu hướng, khuynh hướng）. Đây là từ đúng để diễn tả \"xu hướng\" trong câu.\nCâu hoàn chỉnh:\n最近、若者の晩婚化が進む傾向にある。\nDịch nghĩa:\nGần đây, có xu hướng giới trẻ kết hôn muộn hơn.\n4. SAI. 径向 (けいこう) không phải là từ có nghĩa \"xu hướng\". 径（けい - Kính - đường kính）."
+    },
+    {
+      "question_id": 7,
+      "question": "明日、社長が新しい工場を<u>しさつ</u>する予定だ。",
+      "context": "",
+      "options": [
+        "視擦",
+        "視察",
+        "指擦",
+        "指察"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 視擦 (しさつ) không phải là từ đúng. 擦（さつ - Sát - cọ xát）.\n2. ĐÚNG. 視察（しさつ - Thị Sát - thị sát, kiểm tra, thăm quan）. Đây là từ đúng để diễn tả việc giám đốc đi kiểm tra/thăm quan nhà máy mới.\nCâu hoàn chỉnh:\n明日、社長が新しい工場を視察する予定だ。\nDịch nghĩa:\nNgày mai, giám đốc dự định sẽ đi thị sát nhà máy mới.\n3. SAI. 指擦 (しさつ) không phải là từ đúng. 指（し - Chỉ - ngón tay, chỉ dẫn）.\n4. SAI. 指察 (しさつ) không phải là từ đúng. 察（さつ - Sát - suy đoán, xem xét）."
+    },
+    {
+      "question_id": 8,
+      "question": "プロジェクトを期限内に完成させるため、睡眠時間を<u>けずって</u>働いた。",
+      "context": "",
+      "options": [
+        "削って",
+        "擦って",
+        "刷って",
+        "握って"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 削って (けずって) là thể て của động từ 削る（けずる - Tước - gọt, cắt giảm, bào mòn）. Trong ngữ cảnh này, nó có nghĩa là \"cắt giảm\" thời gian ngủ.\nCâu hoàn chỉnh:\nプロジェクトを期限内に完成させるため、睡眠時間を削って働いた。\nDịch nghĩa:\nĐể hoàn thành dự án trong thời hạn, tôi đã làm việc bằng cách cắt giảm thời gian ngủ.\n2. SAI. 擦って (こすって/すって) là thể て của 擦る（こする/する - Sát - cọ xát, chà xát）. Cách đọc và nghĩa không phù hợp.\n3. SAI. 刷って (すって) là thể て của 刷る（する - Loát - in ấn）. Cách đọc và nghĩa không phù hợp.\n4. SAI. 握って (にぎって) là thể て của 握る（にぎる - Ác - nắm, cầm）. Cách đọc và nghĩa không phù hợp."
+    },
+    {
+      "question_id": 9,
+      "question": "新入社員は現在、本社で3ヶ月間の<u>けんしゅう</u>を受けている。",
+      "context": "",
+      "options": [
+        "見習",
+        "見修",
+        "研習",
+        "研修"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 見習（みならい - Kiến Tập - học việc/tập sự）có nghĩa là học việc, tập sự, học hỏi bằng cách quan sát người khác làm. Cách đọc và ý nghĩa không khớp với \"けんしゅう\" trong ngữ cảnh này.\n2. SAI. 見修 không phải là một từ tiếng Nhật thông dụng hoặc có nghĩa phù hợp.\n3. SAI. 研習（けんしゅう - Nghiên Tập）là một từ có tồn tại nhưng ít được sử dụng và không phải là từ tiêu chuẩn cho \"đào tạo\" trong ngữ cảnh công ty. Nó mang sắc thái của việc nghiên cứu và học hỏi sâu. Từ đúng và phổ biến hơn là \"研修\".\n4. ĐÚNG. 研修（けんしゅう - Nghiên Tu - đào tạo/huấn luyện）là từ chính xác và phổ biến nhất để chỉ việc đào tạo, huấn luyện, tập huấn trong môi trường công ty hoặc giáo dục. Nó hoàn toàn phù hợp với ngữ cảnh \"nhân viên mới đang nhận đào tạo\".\nCâu hoàn chỉnh:\n新入社員は現在、本社で3ヶ月間の研修を受けている。\nDịch nghĩa:\nCác nhân viên mới hiện đang tham gia khóa đào tạo 3 tháng tại trụ sở chính."
+    },
+    {
+      "question_id": 10,
+      "question": "昨日の強い風で、桜の花がすっかり<u>ちって</u>しまった。",
+      "context": "",
+      "options": [
+        "乱って",
+        "放って",
+        "散って",
+        "撤って"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. \"乱って\" là cách chia sai của động từ \"乱れる（みだれる - Loạn - bị xáo trộn, lộn xộn）\". Ngay cả khi là \"乱れて\" thì cũng không phù hợp với nghĩa hoa rụng. Hoa có thể bị \"rối loạn\" nhưng không phải là \"rụng\".\n2. SAI. \"放って\" là dạng \"te\" của động từ \"放る（ほうる - Phóng - ném, vứt bỏ, bỏ mặc）\". Nghĩa này không phù hợp với việc hoa rụng do gió.\n3. ĐÚNG. \"散って\" là dạng \"te\" của động từ \"散る（ちる - Tán - rụng, tàn (hoa, lá), rơi rụng, phân tán）\". Từ này hoàn toàn phù hợp với ngữ cảnh hoa anh đào rụng do gió mạnh.\nCâu hoàn chỉnh:\n昨日の強い風で、桜の花がすっかり散ってしまった。\nDịch nghĩa:\nVì trận gió mạnh hôm qua, hoa anh đào đã rụng hết hoàn toàn.\n4. SAI. \"撤って\" là cách chia sai của động từ \"撤する（てっする - Triệt - rút lui, bãi bỏ, hủy bỏ）\". Ngay cả khi là \"撤して\" thì cũng không phù hợp với nghĩa hoa rụng."
+    },
+    {
+      "question_id": 11,
+      "question": "新しいビジネスのアイデアを得るために、定期的に（　　）業種の人たちと交流する機会を設けている。",
+      "context": "",
+      "options": [
+        "逆",
+        "別",
+        "異",
+        "違"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 逆（ぎゃく - Nghịch - ngược lại, đối lập）thường dùng để chỉ sự đối lập, ngược chiều, không phù hợp với ngữ cảnh “ngành nghề khác nhau” để tìm ý tưởng mới.\n2. SAI. 別（べつ - Biệt - khác, riêng biệt）có nghĩa là khác, nhưng “別業種” ít được dùng hơn và không mang sắc thái đa dạng, phong phú như “異業種” khi nói về việc giao lưu để tìm ý tưởng mới. “別” thường chỉ sự tách biệt, riêng rẽ hoặc một cái khác cụ thể.\n3. ĐÚNG. 異（い - Dị - khác, lạ, khác biệt）khi kết hợp với 業種 tạo thành 異業種（いぎょうしゅ - Dị Nghiệp Chủng - các ngành nghề khác nhau/đa dạng ngành nghề）. Cụm từ này rất phổ biến để chỉ việc giao lưu, học hỏi từ những người làm trong các lĩnh vực khác nhau nhằm mở rộng kiến thức và tìm kiếm ý tưởng mới. Điều này hoàn toàn phù hợp với mục đích của câu văn.\nCâu hoàn chỉnh:\n新しいビジネスのアイデアを得るために、定期的に異業種の人たちと交流する機会を設けている。\nDịch nghĩa:\nĐể có được những ý tưởng kinh doanh mới, tôi thường xuyên tạo cơ hội giao lưu với những người làm trong các ngành nghề khác nhau.\n4. SAI. 違（い - Vi - sai, khác, vi phạm）thường dùng trong các từ như 違い（sự khác biệt）, 間違い（lỗi sai）, 違反（vi phạm）. “違業種” không phải là một cách kết hợp từ tự nhiên và không có nghĩa trong tiếng Nhật."
+    },
+    {
+      "question_id": 12,
+      "question": "最近は健康への関心が高まり、スーパーでは（　　）カロリーの食品が人気を集めている。",
+      "context": "",
+      "options": [
+        "少",
+        "弱",
+        "半",
+        "低"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 少（しょう - Thiểu - ít/một chút）thường được dùng trong các từ ghép như 少数（しょうすう - thiểu số）hoặc làm trạng từ 少し（すこし - một chút）. Cụm từ \"少カロリー\" không phải là cách diễn đạt tự nhiên để chỉ \"ít calo\".\n2. SAI. 弱（じゃく - Nhược - yếu）có nghĩa là yếu, không phù hợp để mô tả lượng calo.\n3. SAI. 半（はん - Bán - một nửa）có nghĩa là một nửa. Mặc dù có thể có sản phẩm \"half-calorie\", nhưng \"半カロリー\" không phải là thuật ngữ phổ biến để chỉ chung các loại thực phẩm có lượng calo giảm. Thuật ngữ chính xác và phổ biến hơn là \"低カロリー\".\n4. ĐÚNG. 低（てい - Đê - thấp）kết hợp với カロリー tạo thành 低カロリー（ていカロリー - thấp calo/ít calo）, đây là một cụm từ rất phổ biến và chính xác để chỉ các loại thực phẩm có hàm lượng calo thấp, phù hợp với xu hướng quan tâm đến sức khỏe.\nCâu hoàn chỉnh:\n最近は健康への関心が高まり、スーパーでは低カロリーの食品が人気を集めている。\nDịch nghĩa:\nGần đây, sự quan tâm đến sức khỏe tăng cao, và tại các siêu thị, thực phẩm ít calo đang thu hút sự yêu thích."
+    },
+    {
+      "question_id": 13,
+      "question": "能力を判断するため、まずは（　　）採用として3ヶ月間働いてもらうことになった。",
+      "context": "",
+      "options": [
+        "真",
+        "予",
+        "試",
+        "仮"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 真（しん - Chân - thật, đúng）khi kết hợp với 採用（さいよう - Thái Dụng - tuyển dụng）tạo thành 真採用 (しんさいよう) có nghĩa là \"tuyển dụng chính thức\", trái ngược với ý nghĩa của câu là làm việc 3 tháng để đánh giá năng lực.\n2. SAI. 予（よ - Dự - dự định, trước）khi kết hợp với 採用 tạo thành 予採用 (よさいよう) không phải là một thuật ngữ phổ biến hay chuẩn trong tiếng Nhật.\n3. SAI. 試（し - Thí - thử, kiểm tra）khi kết hợp với 採用 tạo thành 試採用 (しさいよう) có nghĩa là \"tuyển dụng thử\". Mặc dù có ý nghĩa gần đúng, nhưng 仮採用 (かりさいよう) là cách diễn đạt phổ biến và tự nhiên hơn cho tình trạng \"tuyển dụng tạm thời/thử việc\" trước khi chính thức, đặc biệt khi có một khoảng thời gian cụ thể để đánh giá.\n4. ĐÚNG. 仮（かり - Giả - tạm thời, giả định）khi kết hợp với 採用 tạo thành 仮採用 (かりさいよう) có nghĩa là \"tuyển dụng tạm thời\" hoặc \"tuyển dụng thử việc\". Đây là thuật ngữ chuẩn và phù hợp nhất trong ngữ cảnh này, khi một người được yêu cầu làm việc trong 3 tháng để đánh giá năng lực trước khi được tuyển dụng chính thức.\nCâu hoàn chỉnh:\n能力を判断するため、まずは仮採用として3ヶ月間働いてもらうことになった。\nDịch nghĩa:\nĐể đánh giá năng lực, trước tiên, họ sẽ được làm việc trong 3 tháng với tư cách là nhân viên thử việc."
+    },
+    {
+      "question_id": 14,
+      "question": "彼は、二度と同じ失敗を繰り返さないと心に（　　　）。",
+      "context": "",
+      "options": [
+        "祈った",
+        "誓った",
+        "望んだ",
+        "頼んだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 祈った（いのった - Kì - cầu nguyện）: Không phù hợp với việc đưa ra một quyết tâm trong lòng.\n2. ĐÚNG. 誓った（ちかった - Thệ - thề, hứa）: Phù hợp với việc đưa ra một lời thề hoặc quyết tâm mạnh mẽ trong lòng.\nCâu hoàn chỉnh:\n彼は、二度と同じ失敗を繰り返さないと心に誓った。\nDịch nghĩa:\nAnh ấy đã thề trong lòng rằng sẽ không lặp lại cùng một sai lầm hai lần nữa.\n3. SAI. 望んだ（のぞんだ - Vọng - mong muốn）: Diễn tả sự mong muốn, không đủ mạnh để thể hiện quyết tâm.\n4. SAI. 頼んだ（たのんだ - Lại - nhờ vả）: Hoàn toàn không phù hợp với ngữ cảnh."
+    },
+    {
+      "question_id": 15,
+      "question": "台風の影響で、電車の運転が（　　　）止まった。",
+      "context": "",
+      "options": [
+        "必然的に",
+        "次第に",
+        "わずかに",
+        "一時的に"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 必然的に（ひつぜんてきに - Tất Nhiên Đích - một cách tất yếu, đương nhiên）: Diễn tả sự việc xảy ra một cách không thể tránh khỏi, nhưng không nhấn mạnh tính chất \"tạm thời\" của việc dừng.\n2. SAI. 次第に（しだいに - Thứ Đệ - dần dần, từ từ）: Diễn tả sự thay đổi diễn ra từ từ, không phù hợp với việc dừng hoạt động của tàu do bão.\n3. SAI. わずかに（わずかに - Vi - chỉ một chút, một ít）: Không phù hợp với ngữ cảnh dừng hoạt động.\n4. ĐÚNG. 一時的に（いちじてきに - Nhất Thời Đích - tạm thời）: Diễn tả việc dừng hoạt động chỉ trong một khoảng thời gian nhất định, rất phù hợp với tình huống tàu dừng do ảnh hưởng của bão.\nCâu hoàn chỉnh:\n台風の影響で、電車の運転が一時的に止まった。\nDịch nghĩa:\nDo ảnh hưởng của bão, hoạt động của tàu điện đã tạm thời dừng lại."
+    },
+    {
+      "question_id": 16,
+      "question": "その会社の役員が、不正な取引に（　　　）していたことが分かった。",
+      "context": "",
+      "options": [
+        "参加",
+        "接近",
+        "関与",
+        "干渉"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 参加（さんか - Tham Gia - tham gia）: Thường dùng cho việc tham gia vào các hoạt động tích cực hoặc trung lập. Mặc dù có thể \"tham gia\" vào giao dịch bất hợp pháp, nhưng \"関与\" phù hợp hơn khi nói về việc dính líu đến các vấn đề tiêu cực.\n2. SAI. 接近（せっきん - Tiếp Cận - tiếp cận）: Có nghĩa là đến gần, tiếp xúc, không diễn tả sự tham gia hay dính líu vào giao dịch.\n3. ĐÚNG. 関与（かんよ - Quan Dữ - liên quan, dính líu）: Là từ phù hợp nhất để diễn tả việc có liên quan, dính líu đến một sự việc, đặc biệt là các vấn đề tiêu cực, bất hợp pháp.\nCâu hoàn chỉnh:\nその会社の役員が、不正な取引に関与していたことが分かった。\nDịch nghĩa:\nĐã phát hiện ra rằng một giám đốc điều hành của công ty đó đã dính líu vào các giao dịch bất hợp pháp.\n4. SAI. 干渉（かんしょう - Can Thiệp - can thiệp）: Có nghĩa là xen vào, can thiệp vào việc của người khác, thường mang nghĩa tiêu cực, nhưng không diễn tả việc trực tiếp tham gia vào giao dịch."
+    },
+    {
+      "question_id": 17,
+      "question": "このニュースはSNSで大きな（　　　）になっている。",
+      "context": "",
+      "options": [
+        "題名",
+        "主題",
+        "話題",
+        "課題"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 題名（だいめい - Đề Danh - tiêu đề, tên）: Là tên của một tác phẩm, bài viết, không phải là thứ \"trở thành\" lớn trên SNS.\n2. SAI. 主題（しゅだい - Chủ Đề - chủ đề chính）: Là chủ đề chính của một tác phẩm, bài nói chuyện, nhưng \"話題\" phù hợp hơn khi nói về một điều đang được bàn tán rộng rãi.\n3. ĐÚNG. 話題（わだい - Thoại Đề - chủ đề bàn tán, đề tài）: Là từ phù hợp nhất để diễn tả một tin tức đang được bàn tán, thảo luận rộng rãi, đặc biệt là trên mạng xã hội (SNS).\nCâu hoàn chỉnh:\nこのニュースはSNSで大きな話題になっている。\nDịch nghĩa:\nTin tức này đang trở thành một chủ đề bàn tán lớn trên SNS.\n4. SAI. 課題（かだい - Khóa Đề - nhiệm vụ, vấn đề cần giải quyết）: Là một vấn đề cần được giải quyết hoặc một nhiệm vụ, không phù hợp với ngữ cảnh này."
+    },
+    {
+      "question_id": 18,
+      "question": "彼は厳しい条件をすべて（　　　）して、奨学金を受けられることになった。",
+      "context": "",
+      "options": [
+        "クリア",
+        "マスター",
+        "カバー",
+        "ゲット"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. クリア (クリア - clear - vượt qua, hoàn thành, đáp ứng): Là từ Katakana có nghĩa là vượt qua, hoàn thành, đáp ứng các điều kiện hoặc tiêu chuẩn. Rất phù hợp với ngữ cảnh \"vượt qua tất cả các điều kiện nghiêm ngặt\".\nCâu hoàn chỉnh:\n彼は厳しい条件をすべてクリアして、奨学金を受けられることになった。\nDịch nghĩa:\nAnh ấy đã đáp ứng tất cả các điều kiện nghiêm ngặt và được nhận học bổng.\n2. SAI. マスター (マスター - master - thành thạo, nắm vững): Diễn tả việc thành thạo một kỹ năng hoặc kiến thức, không dùng cho việc đáp ứng điều kiện.\n3. SAI. カバー (カバー - cover - bao phủ, che đậy, bù đắp): Không phù hợp với ngữ cảnh đáp ứng điều kiện.\n4. SAI. ゲット (ゲット - get - nhận được, có được): Có nghĩa là nhận được, nhưng ở đây cần một động từ diễn tả hành động đối với \"điều kiện\" trước khi \"nhận được\" học bổng. \"クリアする\" là hành động đó."
+    },
+    {
+      "question_id": 19,
+      "question": "家庭菜園の野菜を荒らす鳥たちを、大きな音を出して（   ）。",
+      "context": "",
+      "options": [
+        "追い越した",
+        "追い払った",
+        "追いかけた",
+        "追い込んだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 追い越す（おいこす - Truy Việt - vượt qua）nghĩa là vượt qua ai đó hoặc cái gì đó, không phù hợp với ngữ cảnh xua đuổi chim.\n2. ĐÚNG. 追い払う（おいはらう - Truy Phất - xua đuổi, đánh đuổi）nghĩa là dùng hành động hoặc tiếng động để khiến ai đó/cái gì đó rời đi, rất phù hợp với việc xua đuổi chim phá hoại rau bằng tiếng động lớn.\nCâu hoàn chỉnh:\n家庭菜園の野菜を荒らす鳥たちを、大きな音を出して追い払った。\nDịch nghĩa:\nTôi đã phát ra tiếng động lớn để xua đuổi những con chim đang phá hoại rau trong vườn nhà.\n3. SAI. 追いかける（おいかける - Truy Quán - đuổi theo）nghĩa là chạy theo sau ai đó/cái gì đó, không phải là hành động xua đuổi.\n4. SAI. 追い込む（おいこむ - Truy Nhập - dồn vào）nghĩa là dồn ai đó/cái gì đó vào một góc hoặc một tình thế nào đó, không phù hợp với việc xua đuổi chim."
+    },
+    {
+      "question_id": 20,
+      "question": "長時間の会議が終わると、大勢の参加者が会議室から（   ）と出てきた。",
+      "context": "",
+      "options": [
+        "ぞろぞろ",
+        "ばらばら",
+        "うろうろ",
+        "ぶつぶつ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. ぞろぞろ là từ tượng thanh/tượng hình diễn tả cảnh nhiều người hoặc vật di chuyển chậm rãi, liên tục thành hàng hoặc thành nhóm. Rất phù hợp với hình ảnh nhiều người tham gia rời khỏi phòng họp sau một cuộc họp dài.\nCâu hoàn chỉnh:\n長時間の会議が終わると、大勢の参加者が会議室からぞろぞろと出てきた。\nDịch nghĩa:\nKhi cuộc họp kéo dài kết thúc, rất đông người tham gia đã lần lượt rời khỏi phòng họp.\n2. SAI. ばらばら diễn tả trạng thái phân tán, rời rạc, không theo thứ tự.\n3. SAI. うろうろ diễn tả sự đi lại loanh quanh, lảng vảng không mục đích.\n4. SAI. ぶつぶつ diễn tả tiếng lẩm bẩm, cằn nhằn hoặc trạng thái lấm tấm, nổi mụn."
+    },
+    {
+      "question_id": 21,
+      "question": "レポートの内容に間違いがあったので、提出前に<u>修正した</u>。",
+      "context": "",
+      "options": [
+        "直した",
+        "調べた",
+        "隠した",
+        "取り消した"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 直す（なおす - Trực - sửa chữa, chỉnh sửa）là từ đồng nghĩa với 修正する（しゅうせいする - Tu Chính - sửa chữa, chỉnh sửa）, đặc biệt trong ngữ cảnh sửa lỗi sai.\nCâu hoàn chỉnh:\nレポートの内容に間違いがあったので、提出前に直した。\nDịch nghĩa:\nVì nội dung báo cáo có lỗi sai nên tôi đã sửa lại trước khi nộp.\n2. SAI. 調べる（しらべる - Điều - điều tra, kiểm tra）nghĩa là kiểm tra hoặc tìm hiểu, không phải là hành động sửa chữa.\n3. SAI. 隠す（かくす - Ẩn - giấu đi）nghĩa là che giấu.\n4. SAI. 取り消す（とりけす - Thủ Tiêu - hủy bỏ）nghĩa là hủy bỏ hoặc rút lại."
+    },
+    {
+      "question_id": 22,
+      "question": "トラブルが起きたときの、彼女の<u>かしこい</u>対応に感心した。",
+      "context": "",
+      "options": [
+        "まじめな",
+        "賢明な",
+        "素早い",
+        "丁寧な"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 真面目な（まじめな - Chân Diện Mục - chăm chỉ, nghiêm túc）diễn tả tính cách siêng năng, đứng đắn, không phải sự khôn ngoan trong xử lý tình huống.\n2. ĐÚNG. 賢明な（けんめいな - Hiền Minh - khôn ngoan, sáng suốt）là từ đồng nghĩa với かしこい, diễn tả sự thông minh, có khả năng đưa ra phán đoán và hành động đúng đắn trong tình huống khó khăn.\nCâu hoàn chỉnh:\nトラブルが起きたときの、彼女の賢明な対応に感心した。\nDịch nghĩa:\nTôi đã rất khâm phục cách xử lý khôn ngoan của cô ấy khi có sự cố xảy ra.\n3. SAI. 素早い（すばやい - Tố Khoái - nhanh nhẹn, lẹ làng）diễn tả tốc độ hành động, không phải sự khôn ngoan.\n4. SAI. 丁寧な（ていねいな - Đinh Ninh - lịch sự, cẩn thận）diễn tả thái độ lịch sự hoặc sự cẩn thận, chu đáo."
+    },
+    {
+      "question_id": 23,
+      "question": "このチームは、仕事の<u>テンポ</u>が良くて助かる。",
+      "context": "",
+      "options": [
+        "ルール",
+        "レベル",
+        "ムード",
+        "ペース"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. ルール (rule) nghĩa là quy tắc, luật lệ.\n2. SAI. レベル (level) nghĩa là trình độ, mức độ.\n3. SAI. ムード (mood) nghĩa là tâm trạng, không khí.\n4. ĐÚNG. ペース (pace) nghĩa là tốc độ, nhịp độ. Trong ngữ cảnh công việc, テンポ (tempo) và ペース (pace) đều dùng để chỉ nhịp độ làm việc. \"仕事のテンポが良い\" có nghĩa là nhịp độ làm việc tốt, hiệu quả.\nCâu hoàn chỉnh:\nこのチームは、仕事のペースが良くて助かる。\nDịch nghĩa:\nNhóm này có nhịp độ làm việc tốt nên rất thuận lợi/giúp ích."
+    },
+    {
+      "question_id": 24,
+      "question": "静かだった彼が、<u>いきなり</u>大声を出したので驚いた。",
+      "context": "",
+      "options": [
+        "ついに",
+        "わざと",
+        "急に",
+        "無理に"
+      ],
+      "correct_answer": 3,
+      "explanation": "Từ gạch chân là 「いきなり」, có nghĩa là đột ngột, bất ngờ. Chúng ta cần tìm từ đồng nghĩa trong các lựa chọn.\n1. SAI. 「ついに」 (adverb) nghĩa là cuối cùng, rốt cuộc.\n2. SAI. 「わざと」 (adverb) nghĩa là cố ý, cố tình.\n3. ĐÚNG. 「急に（きゅうに - Cấp - đột ngột, bất ngờ）」 (adverb) có nghĩa là đột ngột, bất ngờ, hoàn toàn đồng nghĩa với 「いきなり」.\nCâu hoàn chỉnh:\n静かだった彼が、急に大声を出したので驚いた。\nDịch nghĩa:\nAnh ấy vốn dĩ rất trầm tính, vậy mà đột nhiên hét lớn khiến tôi giật mình.\n4. SAI. 「無理に（むりに - Vô Lý - một cách miễn cưỡng, ép buộc）」 (adverb) nghĩa là một cách miễn cưỡng, ép buộc."
+    },
+    {
+      "question_id": 25,
+      "question": "来週の連休は、<u>帰省して</u>のんびりするつもりだ。",
+      "context": "",
+      "options": [
+        "実家に帰って",
+        "部屋に戻って",
+        "休暇を取って",
+        "家で休んで"
+      ],
+      "correct_answer": 1,
+      "explanation": "Cụm từ gạch chân là 「帰省して」. 「帰省（きせい - Quy Tỉnh - về quê, về nhà bố mẹ đẻ）する」 có nghĩa là về quê, về nhà bố mẹ đẻ.\n1. ĐÚNG. 「実家（じっか - Thực Gia - nhà bố mẹ đẻ）に帰（かえ）って」 có nghĩa là về nhà bố mẹ đẻ, hoàn toàn đồng nghĩa với 「帰省して」.\nCâu hoàn chỉnh:\n来週の連休は、実家に帰ってのんびりするつもりだ。\nDịch nghĩa:\nKỳ nghỉ dài tuần tới, tôi định về quê (nhà bố mẹ đẻ) để thư giãn.\n2. SAI. 「部屋（へや - Bộ Ốc - căn phòng）に戻（もど）って」 có nghĩa là trở về phòng.\n3. SAI. 「休暇（きゅうか - Hưu Giả - kỳ nghỉ）を取（と）って」 có nghĩa là xin nghỉ phép, nghỉ làm.\n4. SAI. 「家（いえ - Gia - nhà）で休（やす）んで」 có nghĩa là nghỉ ngơi ở nhà."
+    },
+    {
+      "question_id": 26,
+      "question": "<u>充実</u>",
+      "context": "",
+      "options": [
+        "コップに水が充実するまで、しっかりと注いでください。",
+        "週末はボランティア活動に参加して、とても充実した時間を過ごした。",
+        "今月の給料はたくさん入ったので、当面の生活費はこれで充実だと思う。",
+        "昨日の夜から始まったシステムのメンテナンス作業は、無事に充実しました。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Từ cần tìm cách dùng đúng là 「充実（じゅうじつ - SUNG THỰC - đầy đủ, phong phú, sung túc, có ý nghĩa）する」.\n1. SAI. 「コップに水が充実するまで」 là cách dùng sai. 「充実する」 không dùng để diễn tả việc đổ đầy nước vào cốc. Phải dùng 「いっぱいになる」 hoặc 「満（み）たす」.\n2. ĐÚNG. 「充実した時間（じゅうじつしたじかん - thời gian ý nghĩa, phong phú）」 là cách dùng chính xác. Nó diễn tả việc trải qua một khoảng thời gian có ý nghĩa, đầy đủ và phong phú.\nCâu hoàn chỉnh:\n週末はボランティア活動に参加して、とても充実した時間を過ごした。\nDịch nghĩa:\nCuối tuần tôi đã tham gia hoạt động tình nguyện và trải qua một khoảng thời gian rất ý nghĩa.\n3. SAI. 「生活費はこれで充実だと思う」 là cách dùng sai. 「充実」 không dùng để diễn tả việc tiền lương đủ cho chi phí sinh hoạt. Phải dùng 「十分（じゅうぶん - Thập Phân - đủ）」 hoặc 「足（た）りる」.\n4. SAI. 「メンテナンス作業は、無事に充実しました」 là cách dùng sai. 「充実する」 không dùng để diễn tả việc hoàn thành công việc. Phải dùng 「完了（かんりょう - Hoàn Liễu - hoàn thành）する」 hoặc 「終了（しゅうりょう - Chung Liễu - kết thúc）する」."
+    },
+    {
+      "question_id": 27,
+      "question": "<u>熱中</u>",
+      "context": "",
+      "options": [
+        "夏の海辺は日差しが強いので、熱中にならないよう気をつけて。",
+        "料理が熱中なうちに、みんなで急いでテーブルに座って食べましょう。",
+        "弟は最近プラモデル作りに熱中していて、ご飯の時間になっても出てこない。",
+        "明日の試験は非常に重要なので、周りの音に気を取られず熱中して問題を解いてください。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Từ cần tìm cách dùng đúng là 「熱中（ねっちゅう - NHIỆT TRUNG - say mê, tập trung cao độ, bị cuốn hút）する」.\n1. SAI. 「熱中にならないよう気をつけて」 là cách dùng sai. 「熱中」 không dùng để diễn tả việc bị say nắng hay quá nóng. Phải dùng 「熱中症（ねっちゅうしょう - Nhiệt Trung Chứng - sốc nhiệt, say nắng）にならないよう」 hoặc 「暑（あつ）くならないよう」.\n2. SAI. 「料理が熱中なうちに」 là cách dùng sai. 「熱中」 không dùng để diễn tả việc thức ăn còn nóng. Phải dùng 「熱（あつ）いうちに」 hoặc 「温（あたた）かいうちに」.\n3. ĐÚNG. 「プラモデル作り（プラモデルづくり - mô hình nhựa）に熱中していて」 là cách dùng chính xác. Nó diễn tả việc say mê, tập trung cao độ vào việc làm mô hình nhựa.\nCâu hoàn chỉnh:\n弟は最近プラモデル作りに熱中していて、ご飯の時間になっても出てこない。\nDịch nghĩa:\nEm trai tôi gần đây đang say mê làm mô hình nhựa, đến giờ ăn cơm rồi mà vẫn không chịu ra.\n4. SAI. 「熱中して問題を解いてください」 là cách dùng không tự nhiên. Mặc dù 「熱中」 có nghĩa là tập trung, nhưng trong ngữ cảnh làm bài thi, từ 「集中（しゅうちゅう - Tập Trung - tập trung）して」 sẽ phù hợp và tự nhiên hơn để diễn tả việc tập trung giải quyết vấn đề."
+    },
+    {
+      "question_id": 28,
+      "question": "<u>和やかな</u>",
+      "context": "",
+      "options": [
+        "深夜の和やかな道路を車で一人ドライブするのは気持ちいい。",
+        "昨日の会議は終始和やかな雰囲気で進み、全員が納得する結論が出た。",
+        "今日の海はとても和やかなので、船で釣りに出かけるのに最適な天気だ。",
+        "激しい運動の後は、筋肉の疲れを取るために和やかなお湯に浸かるのが一番だ。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Từ cần tìm cách dùng đúng là 「和やかな（なごやかな - HÒA - ôn hòa, êm dịu, thân mật, hòa nhã）」.\n1. SAI. 「深夜の和やかな道路」 là cách dùng sai. 「和やかな」 không dùng để miêu tả con đường yên tĩnh vào đêm khuya. Phải dùng 「静かな（しずかな - Tĩnh - yên tĩnh）」 hoặc 「人通（ひとどお）りのない」.\n2. ĐÚNG. 「和やかな雰囲気（ふんいき - Phân Vi Khí - bầu không khí）」 là cách dùng chính xác. Nó diễn tả một bầu không khí hòa nhã, thân mật, êm dịu.\nCâu hoàn chỉnh:\n昨日の会議は終始和やかな雰囲気で進み、全員が納得する結論が出た。\nDịch nghĩa:\nCuộc họp hôm qua đã diễn ra trong bầu không khí hòa nhã từ đầu đến cuối, và đã đưa ra được kết luận mà tất cả mọi người đều đồng ý.\n3. SAI. 「今日の海はとても和やかなので」 là cách dùng sai. 「和やかな」 không dùng để miêu tả biển lặng sóng. Phải dùng 「穏やかな（おだやかな - Ổn - êm đềm, lặng sóng）」 hoặc 「波（なみ - Ba - sóng）がない」.\n4. SAI. 「和やかなお湯に浸かる」 là cách dùng sai. 「和やかな」 không dùng để miêu tả nước ấm. Phải dùng 「温かい（あたたかい - Ôn - ấm áp）」 hoặc 「ぬるい」."
+    },
+    {
+      "question_id": 29,
+      "question": "<u>愛着</u>",
+      "context": "",
+      "options": [
+        "彼女への愛着  を告白するために、花束を買った。",
+        "壁に愛着したガムがどうしても取れなくて、掃除するのに大変苦労した。",
+        "動物園で新しく生まれたパンダに愛着を注ぐために、毎週日曜日に通っている。",
+        "長年使ってきたこの万年筆には、強い愛着があってなかなか捨てられない。"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「愛着（あいちゃく - Ái Trứ/Trạch - sự gắn bó, yêu mến, quyến luyến）」 là cảm giác gắn bó, quyến luyến với một người, vật, hoặc nơi chốn. Không dùng 「愛着を告白する」 (tỏ tình sự gắn bó). Thường dùng 「愛情を告白する」 (tỏ tình tình yêu). \n2. SAI. 「愛着する」 không có nghĩa là dính chặt. Từ phù hợp ở đây là 「付着（ふちゃく - Phó Trứ - dính vào）する」. \n3. SAI. 「愛着を注ぐ」 (dành sự gắn bó) là cách diễn đạt không tự nhiên. Thường dùng 「愛情を注ぐ」 (dành tình yêu thương) hoặc 「愛着を持つ」 (có sự gắn bó). \n4. ĐÚNG. 「愛着」 diễn tả sự gắn bó, quyến luyến với một vật đã sử dụng lâu năm, không muốn vứt bỏ. \nCâu hoàn chỉnh:\n長年使ってきたこの万年筆には、強い愛着があってなかなか捨てられない。\nDịch nghĩa:\nTôi có sự gắn bó mạnh mẽ với cây bút máy đã dùng nhiều năm này nên khó mà vứt bỏ được."
+    },
+    {
+      "question_id": 30,
+      "question": "<u>妨げる</u>",
+      "context": "",
+      "options": [
+        "深夜の大きな工事の音が近隣住民の睡眠を妨げており、問題になっている。",
+        "虫歯を妨げるために、毎食後には必ず歯を磨くようにしている。",
+        "寒い冬は窓の隙間をテープで妨げて、冷たい風が部屋に入らないようにする。",
+        "この美術館では、展示されている作品に直接触れることを妨げている。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「妨げる（さまたげる - Phương - cản trở, gây trở ngại）」 có nghĩa là làm gián đoạn, gây trở ngại cho một hành động hoặc trạng thái nào đó. Việc tiếng ồn lớn làm cản trở giấc ngủ là cách dùng chính xác. \nCâu hoàn chỉnh:\n深夜の大きな工事の音が近隣住民の睡眠を妨げており、問題になっている。\nDịch nghĩa:\nTiếng ồn lớn của công trình xây dựng vào đêm khuya đang cản trở giấc ngủ của cư dân lân cận, và điều đó đang trở thành vấn đề. \n2. SAI. 「妨げる」 không dùng với nghĩa ngăn ngừa bệnh tật. Từ phù hợp ở đây là 「予防（よぼう - Dự Phòng - phòng ngừa）する」. \n3. SAI. 「妨げる」 không dùng với nghĩa bịt kín hay che chắn. Từ phù hợp ở đây là 「塞ぐ（ふさぐ - Tắc - bịt kín, che lấp）」. \n4. SAI. 「妨げる」 không dùng với nghĩa cấm đoán. Từ phù hợp ở đây là 「禁止（きんし - Cấm Chỉ - cấm đoán）する」."
+    },
+    {
+      "question_id": 31,
+      "question": "今年の新入社員はみんなパソコンの操作が遅いが、彼（　　　）、キーボードの文字を指一本で探しながら打っている始末だ。",
+      "context": "",
+      "options": [
+        "にしては",
+        "に限って",
+        "をもって",
+        "に至っては"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「～にしては」 có nghĩa là \"mặc dù là... nhưng lại...\", diễn tả sự khác biệt so với điều được mong đợi từ một tiêu chuẩn nào đó. Không phù hợp với ngữ cảnh này. \n2. SAI. 「～に限って（にかぎって）」 có nghĩa là \"chỉ riêng... thì...\" hoặc \"cứ đúng lúc... thì...\". Không phù hợp với ngữ cảnh này. \n3. SAI. 「～をもって」 có nghĩa là \"bằng (phương tiện, cách thức)\" hoặc \"vào lúc (thời điểm kết thúc)\". Không phù hợp với ngữ cảnh này. \n4. ĐÚNG. 「～に至（いた）っては」 có nghĩa là \"đến cả... thì...\", \"riêng... thì đến mức...\". Diễn tả một ví dụ cực đoan nhất, tồi tệ nhất trong một chuỗi các sự việc tương tự, thường mang sắc thái tiêu cực và đi kèm với các cụm từ như 「始末（しまつ - Thủy Mạt - kết cục, tình trạng tồi tệ）だ」. \nCâu hoàn chỉnh:\n今年の新入社員はみんなパソコンの操作が遅いが、彼に至っては、キーボードの文字を指一本で探しながら打っている始末だ。\nDịch nghĩa:\nTất cả nhân viên mới năm nay đều chậm trong thao tác máy tính, nhưng riêng anh ta thì đến mức phải dò từng chữ trên bàn phím bằng một ngón tay mà gõ."
+    },
+    {
+      "question_id": 32,
+      "question": "彼は小さな会社の社長（　　　）、業界全体に大きな影響力を持っている。",
+      "context": "",
+      "options": [
+        "こそ",
+        "だからといって",
+        "ながらも",
+        "となると"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「～こそ」 dùng để nhấn mạnh một danh từ hoặc một mệnh đề, có nghĩa là \"chính là...\", \"nhất định là...\". Không diễn tả sự đối lập. \n2. SAI. 「～だからといって」 có nghĩa là \"dù nói là vậy nhưng...\", \"không phải vì thế mà...\". Diễn tả việc không thể suy ra một điều gì đó từ một sự thật đã nêu. Không phù hợp với ý đối lập trực tiếp. \n3. ĐÚNG. 「～ながらも」 có nghĩa là \"mặc dù là... nhưng...\", diễn tả sự đối lập, tương phản giữa hai vế. Vế sau thường là một điều bất ngờ hoặc không phù hợp với vế trước. Ở đây, việc là giám đốc công ty nhỏ nhưng lại có ảnh hưởng lớn là một sự đối lập. \nCâu hoàn chỉnh:\n彼は小さな会社の社長ながらも、業界全体に大きな影響力を持っている。\nDịch nghĩa:\nMặc dù anh ấy là giám đốc của một công ty nhỏ, nhưng lại có sức ảnh hưởng lớn đến toàn bộ ngành. \n4. SAI. 「～となると」 có nghĩa là \"khi nói đến... thì...\", \"nếu là... thì...\". Diễn tả một điều kiện hoặc một tình huống cụ thể dẫn đến một kết quả hoặc suy luận. Không phù hợp với ý đối lập."
+    },
+    {
+      "question_id": 33,
+      "question": "この複雑なシステムの不具合は、（　　　）どこから発生したのだろうか。",
+      "context": "",
+      "options": [
+        "いったい",
+        "はたして",
+        "まさか",
+        "どうしても"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「いったい」 là một phó từ dùng để nhấn mạnh câu hỏi nghi vấn (疑問詞 - nghi vấn từ như どこ, だれ, なぜ, いつ, 何) khi muốn biết rõ nguyên nhân, lý do, hoặc khi cảm thấy khó hiểu, ngạc nhiên. Nó có nghĩa là \"rốt cuộc là...\", \"thật sự là...\". \nCâu hoàn chỉnh:\nこの複雑なシステムの不具合は、いったいどこから発生したのだろうか。\nDịch nghĩa:\nRốt cuộc thì lỗi của hệ thống phức tạp này đã phát sinh từ đâu vậy nhỉ? \n2. SAI. 「はたして」 có nghĩa là \"quả thực là...\", \"liệu có thực sự...\". Dùng khi muốn xác nhận một điều gì đó có đúng như dự đoán, mong đợi hay không, thường đi với câu hỏi nghi vấn hoặc thể phủ định. Không phù hợp với việc nhấn mạnh \"どこから\". \n3. SAI. 「まさか」 có nghĩa là \"không đời nào...\", \"không thể nào...\". Diễn tả sự ngạc nhiên, không tin vào điều gì đó, thường đi với thể phủ định hoặc câu hỏi mang ý phủ định. Không phù hợp với câu hỏi tìm nguyên nhân. \n4. SAI. 「どうしても」 có nghĩa là \"dù thế nào cũng...\", \"nhất định phải...\" (với ý chí) hoặc \"hoàn toàn không thể...\" (với phủ định). Không phù hợp với câu hỏi tìm nguyên nhân."
+    },
+    {
+      "question_id": 34,
+      "question": "（イベント会場の受付で）\n スタッフ: 「本日はお足元の悪い中、弊社主催の展示会に（　　　）、誠にありがとうございます。」",
+      "context": "",
+      "options": [
+        "お伺いくださり",
+        "参上していただき",
+        "伺いまして",
+        "おいでくださり"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. `伺う（うかがう - Tứ - hỏi, nghe, thăm）` là động từ khiêm nhường ngữ (謙譲語) dùng để nói về hành động của người nói hoặc người thuộc phe người nói. `くださる` là trợ động từ tôn kính ngữ (尊敬語) dùng để chỉ hành động của người nghe hoặc người thuộc phe người nghe. Việc kết hợp `お伺いする` (khiêm nhường) với `くださる` (tôn kính) để nói về hành động của người nghe là không chính xác. Không thể dùng khiêm nhường ngữ cho hành động của người khác.\n2. SAI. `参上する（さんじょうする - Tham Thượng - đến thăm, diện kiến）` là động từ khiêm nhường ngữ, dùng để nói về hành động của người nói khi đến thăm một người có địa vị cao hơn. `～ていただく` là cấu trúc khiêm nhường ngữ, thể hiện việc nhận được ân huệ từ hành động của người khác. Tuy nhiên, `参上する` là khiêm nhường ngữ cho hành động của người nói, không dùng cho hành động của người nghe. Do đó, không thể dùng `参上していただき` để cảm ơn hành động đến của khách.\n3. SAI. `伺う（うかがう - Tứ - hỏi, nghe, thăm）` là động từ khiêm nhường ngữ, dùng để nói về hành động của người nói. `～まして` là dạng lịch sự của `～て` để nối câu. Tương tự như lựa chọn 1 và 2, `伺う` không thể dùng để nói về hành động của khách.\n4. ĐÚNG. `おいでになる` là tôn kính ngữ của `行く（いく - Hành - đi）`, `来る（くる - Lai - đến）` và `いる（いる - Cư - có mặt, ở）`. `くださる` là trợ động từ tôn kính ngữ, thể hiện việc người nghe làm một hành động vì lợi ích của người nói. `おいでくださり` là cách nói tôn kính hoàn chỉnh và phù hợp để cảm ơn hành động \"đến\" của khách hàng.\nCâu hoàn chỉnh:\nスタッフ: 「本日はお足元の悪い中、弊社（へいしゃ - Tệ Xã - công ty của chúng tôi (khiêm nhường)）主催（しゅさい - Chủ Tế - tổ chức）の展示会（てんじかい - Triển Thị Hội - triển lãm）に**おいでくださり**、誠に（まことに - Thành - thật sự, quả thật）ありがとうございます。」\nDịch nghĩa:\nNhân viên: \"Hôm nay, dù thời tiết không thuận lợi, xin chân thành cảm ơn quý khách đã đến tham dự triển lãm do công ty chúng tôi tổ chức.\""
+    },
+    {
+      "question_id": 35,
+      "question": "課長は最近、部下の意見をなるべく（　　　）、会議では自分からあまり話さない。",
+      "context": "",
+      "options": [
+        "聞くことになっていて",
+        "聞こうとすることで",
+        "聞くようにしているらしく",
+        "聞こうにも聞けず"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. Cấu trúc \"Vる + ことになっている\" diễn tả một quy tắc, một quyết định hoặc một kế hoạch đã được định sẵn. \"Trưởng phòng được quyết định là sẽ lắng nghe ý kiến của cấp dưới\" không khớp tự nhiên với vế sau \"không nói nhiều trong cuộc họp\" như một sự quan sát về hành vi cá nhân. \n2. SAI. Cấu trúc \"Vようとする\" nghĩa là \"cố gắng làm V\" hoặc \"định làm V\". \"Vようとすることで\" có nghĩa là \"bằng việc cố gắng làm V\". Mặc dù trưởng phòng có cố gắng lắng nghe, nhưng việc \"không nói nhiều trong cuộc họp\" không phải là kết quả trực tiếp của hành động \"cố gắng lắng nghe\" theo kiểu \"bằng cách này\". Nó là một hành vi đi kèm hoặc một hệ quả của việc thay đổi thái độ.\n3. ĐÚNG. Cấu trúc \"Vる/Vない + ようにする\" diễn tả việc cố gắng tạo thói quen hoặc thay đổi hành vi. \"Vる/Vない + ようにしている\" là đang cố gắng làm điều đó. Cấu trúc \"～らしい\" diễn tả sự suy đoán, phỏng đoán dựa trên thông tin nghe được hoặc quan sát được, mang nghĩa \"có vẻ như\", \"dường như là\". Kết hợp lại, \"聞くようにしているらしく\" có nghĩa là \"có vẻ như đang cố gắng lắng nghe\". Điều này rất phù hợp với ngữ cảnh của câu, khi người nói đang quan sát hành vi của trưởng phòng (\"không nói nhiều trong cuộc họp\") và suy đoán về lý do đằng sau hành vi đó.\nCâu hoàn chỉnh:\n課長は最近、部下の意見をなるべく聞くようにしているらしく、会議では自分からあまり話さない。\nDịch nghĩa:\nGần đây, trưởng phòng (課長 - かちょう - Khóa Trưởng) có vẻ như đang cố gắng lắng nghe ý kiến (意見 - いけん - Ý Kiến) của cấp dưới (部下 - ぶか - Bộ Hạ) càng nhiều càng tốt, và (vì vậy/kết quả là) trong các cuộc họp (会議 - かいぎ - Hội Nghị), anh ấy không nói nhiều từ phía mình.\n4. SAI. Cấu trúc \"VようにもVれない\" hoặc \"VようにもVず\" diễn tả ý muốn làm V nhưng không thể làm được. \"Muốn lắng nghe cũng không thể lắng nghe\" hoàn toàn trái ngược với ý nghĩa của \"なるべく\" (cố gắng hết sức) và không phù hợp với vế sau của câu."
+    },
+    {
+      "question_id": 36,
+      "question": "ラーメンは、時間がたつと麺がのびて味が落ちるので、スープが（　　　）食べてしまったほうがいいですよ。",
+      "context": "",
+      "options": [
+        "冷めるにしたがって",
+        "冷めないうちに",
+        "冷めてからというもの",
+        "冷めきったにもかかわらず"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. Cấu trúc 「～にしたがって」 (にしたがって) có nghĩa là \"theo như\", \"càng...càng...\", diễn tả sự thay đổi đồng thời của hai sự việc. Ví dụ: \"気温が上がるにしたがって、雪が溶けた\" (Khi nhiệt độ tăng lên, tuyết tan ra). Trong ngữ cảnh này, \"càng nguội đi thì ăn\" không phù hợp với lời khuyên nên ăn nhanh trước khi mì hỏng.\n2. ĐÚNG. Cấu trúc 「～ないうちに」 (ないうちに) có nghĩa là \"trong khi chưa...\", \"trước khi...\". Nó diễn tả việc thực hiện một hành động nào đó trước khi một trạng thái thay đổi hoặc một điều kiện nào đó xảy ra. Trong câu này, nó có nghĩa là \"trước khi súp nguội đi\". Điều này hoàn toàn phù hợp với lời khuyên nên ăn mì ramen nhanh để tránh sợi mì bị nở và hương vị giảm sút.\nCâu hoàn chỉnh:\nラーメンは、時間がたつと麺がのびて味が落ちるので、スープが冷めないうちに食べてしまったほうがいいですよ。\nDịch nghĩa:\nMì ramen, nếu để lâu thì sợi mì sẽ bị nở ra và hương vị giảm sút, vì vậy tốt hơn là nên ăn khi súp còn chưa nguội.\n3. SAI. Cấu trúc 「～てからというもの」 (てからというもの) có nghĩa là \"kể từ khi...\", diễn tả một sự việc xảy ra và sau đó một trạng thái hoặc hành động tiếp diễn. Ví dụ: \"日本へ来てからというもの、毎日忙しい\" (Kể từ khi đến Nhật, ngày nào tôi cũng bận rộn). \"Kể từ khi súp nguội đi thì ăn\" không có nghĩa.\n4. SAI. Cấu trúc 「～にもかかわらず」 (にもかかわらず) có nghĩa là \"mặc dù...\", \"bất chấp...\". Nó diễn tả một sự việc xảy ra trái với dự đoán hoặc mong đợi. 「冷めきる」 (さめきる) có nghĩa là nguội hoàn toàn. \"Mặc dù đã nguội hoàn toàn thì ăn\" hoàn toàn trái ngược với lời khuyên nên ăn nhanh."
+    },
+    {
+      "question_id": 37,
+      "question": "この提案書のフォーマット（　　　）不安だったので、提出する前に先輩にチェックしてもらった。",
+      "context": "",
+      "options": [
+        "でいいはずなのに",
+        "にいいのかどうか",
+        "でいいのかどうか",
+        "ならいいことを"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. Cấu trúc 'はずなのに' diễn tả sự kỳ vọng hoặc dự đoán lẽ ra phải đúng, nhưng thực tế lại khác hoặc có sự mâu thuẫn. Điều này không phù hợp với cảm giác '不安' (ふあん - Bất An - bất an, lo lắng) vì nếu đã kỳ vọng là đúng thì sẽ không lo lắng.\n2. SAI. Cụm 'にいい' thường dùng để chỉ sự tốt cho một đối tượng nào đó (ví dụ: 体にいい - からだにいい - Thể - tốt cho sức khỏe). Trong trường hợp này, chúng ta muốn hỏi liệu bản thân \"format\" (định dạng) có ổn không, chứ không phải \"tốt cho format\".\n3. ĐÚNG. Cụm 'でいい' có nghĩa là \"được/ổn/đủ với/bằng\" (ví dụ: これでいいですか - Cái này được không?). Khi kết hợp với 'のかどうか' (liệu có... hay không), nó tạo thành ý nghĩa \"liệu cái định dạng này có ổn hay không\". Điều này hoàn toàn phù hợp với cảm giác '不安' (ふあん - Bất An - bất an, lo lắng) của người nói.\nCâu hoàn chỉnh:\nこの提案書のフォーマットでいいのかどうか不安だったので、提出する前に先輩にチェックしてもらった。\nDịch nghĩa:\nVì tôi không chắc liệu định dạng của bản đề xuất này có ổn không nên tôi đã nhờ tiền bối kiểm tra trước khi nộp.\n4. SAI. Cụm 'ならいいことを' không tạo thành một cấu trúc ngữ pháp hoàn chỉnh và tự nhiên để diễn tả sự nghi ngờ hay bất an trong ngữ cảnh này. 'なら' là điều kiện, 'いいこと' là điều tốt, không phù hợp."
+    },
+    {
+      "question_id": 38,
+      "question": "人材不足は深刻化しており、優秀なエンジニアを獲得するための競争は激しくなる（　　　）。",
+      "context": "",
+      "options": [
+        "一方だ",
+        "次第だ",
+        "ばかりに",
+        "あまりだ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「Vる一方だ」 (いっぽうだ - Nhất Phương - một chiều/một phía) diễn tả một xu hướng thay đổi liên tục theo một hướng nhất định, thường là theo chiều hướng tiêu cực hoặc tích cực nhưng không ngừng. Trong câu này, \"激しくなる一方だ\" có nghĩa là \"càng ngày càng trở nên gay gắt/khốc liệt hơn\". Điều này hoàn toàn phù hợp với ngữ cảnh về sự cạnh tranh để giành được kỹ sư giỏi đang ngày càng tăng lên.\nCâu hoàn chỉnh:\n人材不足（じんざいぶそく - Nhân Tài Bất Túc - thiếu hụt nhân lực）は深刻化（しんこくか - Thâm Khắc Hóa - trở nên nghiêm trọng）しており、優秀（ゆうしゅう - Ưu Tú - ưu tú/giỏi）なエンジニア（engineer - kỹ sư）を獲得（かくとく - Hoạch Đắc - giành được/có được）するための競争（きょうそう - Cạnh Tranh - cạnh tranh）は激しくなる一方だ。\nDịch nghĩa:\nTình trạng thiếu hụt nhân lực đang trở nên nghiêm trọng, và cuộc cạnh tranh để giành được các kỹ sư ưu tú ngày càng trở nên khốc liệt hơn.\n2. SAI. Cấu trúc 「次第だ」 (しだいだ - Thứ Đệ - tùy thuộc/tùy theo) có nhiều nghĩa như \"tùy thuộc vào\", \"ngay sau khi\", hoặc dùng để giải thích lý do/hoàn cảnh. Nó không dùng để diễn tả một xu hướng thay đổi liên tục.\n3. SAI. Cấu trúc 「ばかりに」 (chỉ vì/chỉ bởi) dùng để diễn tả nguyên nhân dẫn đến một kết quả không mong muốn hoặc tiêu cực. Nó không phù hợp để diễn tả một xu hướng đang diễn ra.\n4. SAI. Cấu trúc 「あまりだ」 (quá mức/quá đỗi) thường đi kèm với danh từ cảm xúc hoặc động từ để diễn tả một trạng thái quá mức dẫn đến một kết quả nào đó (ví dụ: 嬉しさのあまり - vì quá vui). Nó không dùng để diễn tả một xu hướng thay đổi liên tục của một sự việc."
+    },
+    {
+      "question_id": 39,
+      "question": "昨日の台風は本当に恐ろしかった。家の中にいても風の音が大きくて、夜も眠れない（　　　）。",
+      "context": "",
+      "options": [
+        "ほどではなかった",
+        "ことになっていた",
+        "わけにはいかなかった",
+        "くらいだった"
+      ],
+      "correct_answer": 4,
+      "explanation": "Cấu trúc '〜くらいだ / 〜ほどだ' dùng để biểu thị mức độ của trạng thái (đến mức...). \n\nCâu này dịch là: 'Cơn bão ngày hôm qua thực sự rất đáng sợ. Dù ở trong nhà nhưng tiếng gió vẫn rất lớn, đến mức đêm tôi cũng không thể ngủ được'. \n\nCác phương án khác không phù hợp\n- (1) 'không đến mức'\n- (2) 'được quy định/lên lịch là'\n- (3) 'không thể (về mặt đạo đức/trách nhiệm)'."
+    },
+    {
+      "question_id": 40,
+      "question": "熱があって体調が悪いが、今日は私がプロジェクトの最終プレゼンを担当する日なので、会議に（　　　）。",
+      "context": "",
+      "options": [
+        "出席するわけにはいかない",
+        "出席しないわけがない",
+        "出席しないわけにはいかない",
+        "出席するとは限らない"
+      ],
+      "correct_answer": 3,
+      "explanation": "Cấu trúc '〜ないわけにはいかない' nghĩa là 'không thể không làm gì' hoặc 'buộc phải làm gì' do bổn phận, trách nhiệm hoặc đạo đức xã hội. \n\nCâu này dịch là: 'Mặc dù tôi bị sốt và sức khỏe không tốt, nhưng vì hôm nay là ngày tôi chịu trách nhiệm thuyết trình cuối cùng cho dự án, nên tôi không thể không tham dự cuộc họp'. \n\nCác phương án khác\n- (1) 'không thể tham dự' (ngược nghĩa)\n- (2) 'chắc chắn là sẽ tham dự' (thường dùng phán đoán về người khác)\n- (4) 'không hẳn là sẽ tham dự'."
+    },
+    {
+      "question_id": 41,
+      "question": "（スポーツジムで）\n客：「スクワットをする時、どうして背中を丸めてはいけないんですか。」\n\nトレーナー：「背中を丸めると、腰に過度な負担がかかり、大きなけがにつながる（　　　）。」",
+      "context": "",
+      "options": [
+        "ことがあるためです",
+        "ことになっているためです",
+        "ことにしているためです",
+        "ことがないためです"
+      ],
+      "correct_answer": 1,
+      "explanation": "Cấu trúc '〜ことがある' biểu thị khả năng hoặc thỉnh thoảng có trường hợp nào đó xảy ra. Kết hợp với '〜ためです' (là vì...) tạo thành 'ことがあるためです' (là vì có thể/có lúc sẽ...). \n\nCâu này dịch là: 'Khách: Khi tập squat, tại sao không được khom lưng ạ? - Huấn luyện viên: Bởi vì nếu khom lưng, lưng sẽ chịu gánh nặng quá mức và có thể dẫn đến chấn thương lớn'. \n\nCác phương án khác\n- (2) 'vì được quy định là'\n- (3) 'vì tôi chủ động làm việc đó'\n- (4) 'vì không có việc' (ngược nghĩa)."
+    },
+    {
+      "question_id": 42,
+      "question": "ダイエット中なので甘いものは控えているのだが、コンビニのスイーツコーナーで季節限定の商品を見ると、つい（　　　）。",
+      "context": "",
+      "options": [
+        "買ってみることになってしまう",
+        "買ってみたくなってしまう",
+        "買ってみたことにしてしまう",
+        "買ってみないわけにはいかない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Cấu trúc '〜てしまう' thể hiện một hành động hoặc trạng thái xảy ra ngoài ý muốn, không kiểm soát được. Đi kèm phó từ 'つい' (lỡ, vô ý), 'つい〜たくなってしまう' diễn tả cảm xúc thèm muốn tự nhiên trỗi dậy mà bản thân không kìm chế được. \n\nCâu này dịch là: 'Vì đang ăn kiêng nên tôi đang hạn chế đồ ngọt, nhưng hễ nhìn thấy sản phẩm giới hạn theo mùa ở góc đồ ngọt của cửa hàng tiện lợi là tôi lại lỡ muốn mua thử mất'. \n\nCác phương án khác không phù hợp về mặt ý nghĩa."
+    },
+    {
+      "question_id": 43,
+      "question": "買い物の途中で、急に激しい雨が降ってきた。それでも ___ ___ ★ ___ からだ。",
+      "context": "",
+      "options": [
+        "傘を貸してくれた",
+        "濡れずに済んだ",
+        "のは",
+        "たまたま通りかかった友人が"
+      ],
+      "correct_answer": 4,
+      "explanation": "Để hoàn thành câu, ta sắp xếp các cụm từ theo cấu trúc nhấn mạnh nguyên nhân: '〜のは、〜からだ' (Sở dĩ... là vì...). \n- '濡れずに済んだ' (tránh bị ướt) đi với 'のは' (3) tạo thành chủ ngữ: '濡れずに済んだのは' (Việc tôi tránh bị ướt là...).\n- Vế sau giải thích lý do: 'たまたま通りかかった友人が' (4) làm chủ ngữ cho hành động '傘を貸してくれた' (1) (cho mượn ô).\nThứ tự hoàn chỉnh là: 'それでも 濡れずに済んだ (2) のは (3) ★たまたま通りかかった友人が (4) 傘を貸してくれた (1) からだ' (Dù vậy, sở dĩ tôi không bị ướt là vì có người bạn tình cờ đi ngang qua đã cho tôi mượn ô). Vị trí ngôi sao là số 4."
+    },
+    {
+      "question_id": 44,
+      "question": "あの職人は、作品の ___ ___ ★ ___ 一つ一つ時間をかけて仕上げている。",
+      "context": "",
+      "options": [
+        "土の種類は",
+        "色づかいにまで",
+        "もちろん",
+        "こだわり"
+      ],
+      "correct_answer": 3,
+      "explanation": "Thứ tự đúng của câu là: 「あの職人は、作品のこだわり (4) 土の種類は (1) もちろん (3) ★ 色づかいにまで (2) 一つ一つ時間をかけて仕上げている。」\nÝ nghĩa cả câu: \"Người thợ thủ công đó dành thời gian hoàn thiện tỉ mỉ từng tác phẩm một, sự tâm huyết của ông ấy không chỉ thể hiện ở loại đất sét mà còn đến cả cách phối màu.\"\nCấu trúc ngữ pháp: 「〜はもちろん〜にまで」 nghĩa là \"không chỉ... mà ngay cả...\". Ở đây, \"sự tâm huyết đối với tác phẩm\" (作品のこだわり) được thể hiện qua việc lựa chọn loại đất sét (土の種類はもちろん) và cả cách phối màu (色づかいにまで)."
+    },
+    {
+      "question_id": 45,
+      "question": "人間には ___ ___ ★ ___ 気づくのは難しい。",
+      "context": "",
+      "options": [
+        "誰にでも",
+        "魅力があるというが",
+        "自分にしかない",
+        "自分でその魅力に"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng của câu là: 「人間には誰にでも (1) 自分にしかない (3) 魅力があるというが (2) ★ 自分でその魅力に (4) 気づくのは難しい。」\nÝ nghĩa cả câu: \"Người ta nói rằng ai cũng có sức hút riêng chỉ bản thân mới có, thế nhưng tự mình nhận ra sức hút đó lại là điều rất khó.\"\nCấu trúc ngữ pháp:\n- 「誰にでも」: đối với bất kỳ ai.\n- 「自分にしかない魅力」: sức hút chỉ bản thân mới có.\n- 「〜というが」: nghe nói là/người ta nói là... nhưng...\n- 「自分でその魅力に気づく」: tự mình nhận ra sức hút đó."
+    },
+    {
+      "question_id": 46,
+      "question": "コンサート当日が、___ ___ ★ ___ 観客が集まったのは奇跡に近い。",
+      "context": "",
+      "options": [
+        "5000人もの",
+        "天気の荒れやすい",
+        "ことを考えると",
+        "時期だった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Thứ tự đúng của câu là: 「コンサート当日が、天気の荒れやすい (2) 時期だった (4) ことを考えると (3) ★ 5000人もの (1) 観客が集まったのは奇跡に近い。」\nÝ nghĩa cả câu: \"Cân nhắc đến việc ngày diễn ra buổi hòa nhạc rơi vào thời điểm thời tiết dễ trở nên xấu đi, việc có tới tận 5000 khán giả đến tập trung thực sự gần như là một phép màu.\"\nCấu trúc ngữ pháp:\n- 「天気の荒れやすい時期だった」: thời kỳ thời tiết dễ chuyển biến xấu.\n- 「〜ことを考えると」: nếu suy xét/cân nhắc đến việc...\n- 「5000人もの」: nhấn mạnh số lượng lớn (tận 5000 người)."
+    },
+    {
+      "question_id": 47,
+      "question": "今日は、___ ___ ★ ___ 、多くの人が街へ出かけている。",
+      "context": "",
+      "options": [
+        "過ごしやすい",
+        "珍しく",
+        "天気で",
+        "真冬にしては"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cụm từ '過ごしやすい' (dễ chịu) bổ nghĩa cho danh từ '天気' (thời tiết) đứng ngay sau đó. Thứ tự đúng của câu là: 今日 là, 真冬にしては (4) 珍しく (2) ★過ごしやすい (1) 天気で (3)、còn lại vế sau. Vị trí ngôi sao (★) thuộc về lựa chọn số 1.\nCâu hoàn chỉnh:\n今日は、真冬にしては珍しく過ごしやすい天気で、多くの人が街へ出かけている。\nDịch nghĩa:\nHôm nay, dù là giữa mùa đông nhưng thời tiết lại dễ chịu một cách hiếm thấy, nên nhiều người đã ra phố.\n2. SAI. '珍しく' (hiếm khi/lạ thường) là phó từ bổ nghĩa cho tính từ '過ごしやすい', đứng ở vị trí thứ hai.\n3. SAI. '天気で' (vì thời tiết) đứng ở vị trí thứ tư để liên kết với vế sau của câu.\n4. SAI. '真冬にしては' (mặc dù là giữa mùa đông) đứng ở vị trí đầu tiên sau '今日は' để làm trạng ngữ chỉ sự tương phản.\n\n* Từ vựng Kanji trong câu:\n- 真冬（まふゆ - Chân Đông - giữa mùa đông）\n- 珍しい（めずらしい - Trân - hiếm, lạ）\n- 過ごしやすい（すごしやすい - Quá - dễ sống, dễ chịu）\n- 天気（てんき - Thiên Khí - thời tiết）\n- 街（まち - Nhai - phố, thị trấn）\n- 出かける（でかける - Xuất - đi ra ngoài）"
+    },
+    {
+      "question_id": 48,
+      "question": "【48 】",
+      "context": "以下は、留学生の作文である。\n\n森林保全ボランティア\n\n半年前、私は大学の先輩に誘われて、山の環境を守る「森林保全ボランティア」を始めた。過去に地域の清掃活動などはしたことがあったが、森の手入れをするボランティアについては、先輩から聞くまで全く知らなかった。私は日本の自然環境についてもっと深く学びたいと思っていたので、参加することにした。\n\n私たちが手伝っているのは市外にある「緑の森」という場所だ。地元のＮＰＯ法人が中心となって、木を植えたり、不要な木を切ったりしている。森の手入れは初めての経験だったが、想像していた以上に専門的な知識が必要だと感じた。【48】、木を切る作業一つをとっても、どの木を切れば周囲の木がよく育つのか、日当たりや風通しを計算して見極めなければならない。活動に求められるのは体力【49】、森全体のバランスを考える力なのだと痛感した。\n\n自分たちが手入れをした場所に、数ヶ月後、新しい草花が芽吹いているのを見たときは、感動で胸が熱く【50】。自然の生命力と、自分たちの作業が確実に森を生き返らせているという達成感は、この活動に参加しなければ決して味わえなかっただろう。\n\n自然環境の保護に少しでも役に立てたことが嬉しかったし、教室では学べない多くの貴重な経験ができている。あの時、思い切ってこの活動に【51】、今の充実した自分はなかっただろうと心から思う。",
+      "options": [
+        "逆に言えば",
+        "結局のところ",
+        "具体的に言うと",
+        "それどころか"
+      ],
+      "correct_answer": 3,
+      "explanation": "Vị trí 【48】 cần một từ nối phù hợp để liên kết hai câu.\n- Câu trước: \"Tôi cảm thấy công việc này đòi hỏi những kiến thức chuyên môn vượt ngoài những gì tôi đã tưởng tượng.\"\n- Câu sau đưa ra một ví dụ cụ thể: \"Ngay cả một việc như đốn cây, cũng phải tính toán lượng ánh sáng và độ thông gió để xác định xem nên đốn cây nào thì những cây xung quanh mới phát triển tốt.\"\nDo đó, từ nối mang ý nghĩa đưa ra ví dụ cụ thể là 「具体的に言うと」 (Nói một cách cụ thể/Cụ thể là) là hoàn toàn chính xác.\nCác phương án khác sai vì:\n- 「逆に言えば」: Nói ngược lại thì.\n- 「結局のところ」: Kết cục là, chung quy lại.\n- 「それどころか」: Trái lại, không những thế mà còn."
+    },
+    {
+      "question_id": 49,
+      "question": "【49 】",
+      "context": "以下は、留学生の作文である。\n\n森林保全ボランティア\n\n半年前、私は大学の先輩に誘われて、山の環境を守る「森林保全ボランティア」を始めた。過去に地域の清掃活動などはしたことがあったが、森の手入れをするボランティアについては、先輩から聞くまで全く知らなかった。私は日本の自然環境についてもっと深く学びたいと思っていたので、参加することにした。\n\n私たちが手伝っているのは市外にある「緑の森」という場所だ。地元のＮＰＯ法人が中心となって、木を植えたり、不要な木を切ったりしている。森の手入れは初めての経験だったが、想像していた以上に専門的な知識が必要だと感じた。【48】、木を切る作業一つをとっても、どの木を切れば周囲の木がよく育つのか、日当たりや風通しを計算して見極めなければならない。活動に求められるのは体力【49】、森全体のバランスを考える力なのだと痛感した。\n\n自分たちが手入れをした場所に、数ヶ月後、新しい草花が芽吹いているのを見たときは、感動で胸が熱く【50】。自然の生命力と、自分たちの作業が確実に森を生き返らせているという達成感は、この活動に参加しなければ決して味わえなかっただろう。\n\n自然環境の保護に少しでも役に立てたことが嬉しかったし、教室では学べない多くの貴重な経験ができている。あの時、思い切ってこの活動に【51】、今の充実した自分はなかっただろうと心から思う。",
+      "options": [
+        "ゆえに",
+        "のみならず",
+        "に先立ち",
+        "をもとに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Cấu trúc 「AのみならずB」 mang ý nghĩa \"không chỉ A mà còn B\". Trong ngữ cảnh này, tác giả nhận ra rằng điều cần thiết cho hoạt động bảo tồn rừng \"không chỉ là thể lực (体力のみならず) mà còn là khả năng suy nghĩ về sự cân bằng của toàn bộ khu rừng (森全体のバランスを考える力)\". Do đó, đáp án 2 là phù hợp nhất."
+    },
+    {
+      "question_id": 50,
+      "question": "【50 】",
+      "context": "以下は、留学生の作文である。\n\n森林保全ボランティア\n\n半年前、私は大学の先輩に誘われて、山の環境を守る「森林保全ボランティア」を始めた。過去に地域の清掃活動などはしたことがあったが、森の手入れをするボランティアについては、先輩から聞くまで全く知らなかった。私は日本の自然環境についてもっと深く学びたいと思っていたので、参加することにした。\n\n私たちが手伝っているのは市外にある「緑の森」という場所だ。地元のＮＰＯ法人が中心となって、木を植えたり、不要な木を切ったりしている。森の手入れは初めての経験だったが、想像していた以上に専門的な知識が必要だと感じた。【48】、木を切る作業一つをとっても、どの木を切れば周囲の木がよく育つのか、日当たりや風通しを計算して見極めなければならない。活動に求められるのは体力【49】、森全体のバランスを考える力なのだと痛感した。\n\n自分たちが手入れをした場所に、数ヶ月後、新しい草花が芽吹いているのを見たときは、感動で胸が熱く【50】。自然の生命力と、自分たちの作業が確実に森を生き返らせているという達成感は、この活動に参加しなければ決して味わえなかっただろう。\n\n自然環境の保護に少しでも役に立てたことが嬉しかったし、教室では学べない多くの貴重な経験ができている。あの時、思い切ってこの活動に【51】、今の充実した自分はなかっただろうと心から思う。",
+      "options": [
+        "なるものだ",
+        "なるかのようだった",
+        "ならずにはいられなかった",
+        "なってからというもの"
+      ],
+      "correct_answer": 3,
+      "explanation": "Cấu trúc 「〜ずにはいられない」 nghĩa là \"không thể không...\" hoặc \"không kìm nén được...\". Cụm từ \"胸が熱くならずにはいられなかった\" diễn tả cảm xúc dâng trào, \"không thể không xúc động nghẹn ngào\" khi nhìn thấy những mầm hoa cỏ mới đâm chồi nảy lộc ở nơi mình đã dày công chăm sóc."
+    },
+    {
+      "question_id": 51,
+      "question": "【51 】",
+      "context": "以下は、留学生の作文である。\n\n森林保全ボランティア\n\n半年前、私は大学の先輩に誘われて、山の環境を守る「森林保全ボランティア」を始めた。過去に地域の清掃活動などはしたことがあったが、森の手入れをするボランティアについては、先輩から聞くまで全く知らなかった。私は日本の自然環境についてもっと深く学びたいと思っていたので、参加することにした。\n\n私たちが手伝っているのは市外にある「緑の森」という場所だ。地元のＮＰＯ法人が中心となって、木を植えたり、不要な木を切ったりしている。森の手入れは初めての経験だったが、想像していた以上に専門的な知識が必要だと感じた。【48】、木を切る作業一つをとっても、どの木を切れば周囲の木がよく育つのか、日当たりや風通しを計算して見極めなければならない。活動に求められるのは体力【49】、森全体のバランスを考える力なのだと痛感した。\n\n自分たちが手入れをした場所に、数ヶ月後、新しい草花が芽吹いているのを見たときは、感動で胸が熱く【50】。自然の生命力と、自分たちの作業が確実に森を生き返らせているという達成感は、この活動に参加しなければ決して味わえなかっただろう。\n\n自然環境の保護に少しでも役に立てたことが嬉しかったし、教室では学べない多くの貴重な経験ができている。あの時、思い切ってこの活動に【51】、今の充実した自分はなかっただろうと心から思う。",
+      "options": [
+        "参加しさえすれば",
+        "参加したとたんに",
+        "参加しようものなら",
+        "参加していなかったら"
+      ],
+      "correct_answer": 4,
+      "explanation": "Câu này sử dụng cấu trúc giả định trái ngược với thực tế trong quá khứ: 「〜ていなかったら、〜なかっただろう」 (Nếu đã không... thì chắc đã không...). \n\nCâu hoàn chỉnh nghĩa là: \"Nếu lúc đó tôi không quyết tâm tham gia hoạt động này (参加していなかったら), thì chắc chắn đã không có một tôi tràn đầy năng lượng và hạnh phúc như ngày hôm nay\"."
+    }
+  ]
+}

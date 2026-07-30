@@ -1,0 +1,402 @@
+{
+  "id": "on-n2-300-de-1",
+  "code": "N2-ON-001",
+  "title": "Ôn N2 Đề 1",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "vocabulary_grammar",
+  "source": "supabase_export",
+  "questionCount": 30,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "では、明日の3時にそちらに<u>うかがいます</u>。",
+      "context": "",
+      "options": [
+        "司います",
+        "何います",
+        "伺います",
+        "荷います"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Vậy thì, ngày mai lúc 3 giờ tôi sẽ đến chỗ bên anh/chị.\n\nĐáp án đúng: ③ 伺います.\n\n伺う TỴ（うかがう）: khiêm nhường ngữ của 行く・来る・訪ねる, nghĩa là đi/đến/đến thăm.\n\nCác đáp án khác: ①② không phù hợp trong câu. ④ 荷います là từ khác, không phải うかがう."
+    },
+    {
+      "question_id": 2,
+      "question": "最近は<u>れいぎ</u>を知らない人が多いように思う。",
+      "context": "",
+      "options": [
+        "礼義",
+        "礼儀",
+        "礼議",
+        "礼偽"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Dạo gần đây tôi cảm thấy có nhiều người không biết lễ nghi/phép tắc.\n\nĐáp án đúng: ② 礼儀.\n\n礼儀 LỄ NGHI（れいぎ）: lễ nghi, phép lịch sự.\n\nCác đáp án khác: Các lựa chọn khác là cách viết sai của れいぎ."
+    },
+    {
+      "question_id": 3,
+      "question": "<u>しゅうい</u>に迷惑がかからないように、静かに話してください。",
+      "context": "",
+      "options": [
+        "周固",
+        "周囲",
+        "週固",
+        "週囲"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Xin hãy nói nhỏ để không làm phiền những người xung quanh.\n\nĐáp án đúng: ② 周囲.\n\n周囲 CHU VI（しゅうい）: xung quanh, khu vực xung quanh.\n\nCác đáp án khác: Các lựa chọn khác là cách viết sai của しゅうい."
+    },
+    {
+      "question_id": 4,
+      "question": "この計画が失敗したのは、リーダーである私の<u>（　）</u>です。",
+      "context": "",
+      "options": [
+        "義務",
+        "成果",
+        "責任",
+        "任務"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Việc kế hoạch này thất bại là trách nhiệm của tôi với tư cách là người lãnh đạo.\n\nĐáp án đúng: ③ 責任.\n\n責任 TRÁCH NHIỆM（せきにん）: trách nhiệm.\n\nCác đáp án khác: ① 義務 NGHĨA VỤ（ぎむ）: nghĩa vụ. ② 成果 THÀNH QUẢ（せいか）: thành quả. ④ 任務 NHIỆM VỤ（にんむ）: nhiệm vụ."
+    },
+    {
+      "question_id": 5,
+      "question": "いくら忙しくても、<u>（　）</u>日曜日くらいは休みたい。",
+      "context": "",
+      "options": [
+        "せめて",
+        "やっと",
+        "けっこう",
+        "どうやら"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Dù bận đến đâu thì ít nhất chủ nhật tôi cũng muốn được nghỉ.\n\nĐáp án đúng: ① せめて.\n\nせめて: ít nhất, tối thiểu là.\n\nCác đáp án khác: ② やっと: cuối cùng. ③ けっこう: khá/lắm rồi. ④ どうやら: có vẻ như."
+    },
+    {
+      "question_id": 6,
+      "question": "会議が始まるまで30分以上あるから、新聞でも読んで時間を<u>（　）</u>。",
+      "context": "",
+      "options": [
+        "もとう",
+        "かけよう",
+        "つぶそう",
+        "とめよう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Vì còn hơn 30 phút nữa cuộc họp mới bắt đầu nên hãy đọc báo gì đó để giết thời gian.\n\nĐáp án đúng: ③ つぶそう.\n\n時間 THỜI GIAN（じかん）をつぶす: giết thời gian.\n\nCác đáp án khác: つぶそう là dạng ý chí của つぶす. Các đáp án khác không tạo thành cụm đúng với 時間を."
+    },
+    {
+      "question_id": 7,
+      "question": "明日、来週の旅行の<u>（　）</u>をしましょう。",
+      "context": "",
+      "options": [
+        "見合い",
+        "言い合い",
+        "打ち合わせ",
+        "待ち合わせ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Ngày mai chúng ta hãy bàn bạc về chuyến du lịch tuần sau nhé.\n\nĐáp án đúng: ③ 打ち合わせ.\n\n打ち合わせ ĐẢ HỢP（うちあわせ）: buổi bàn bạc, trao đổi trước kế hoạch.\n\nCác đáp án khác: ① 見合い KIẾN HỢP（みあい）: xem mắt. ② 言い合い NGÔN HỢP（いいあい）: cãi nhau. ④ 待ち合わせ ĐÃI HỢP（まちあわせ）: hẹn gặp."
+    },
+    {
+      "question_id": 8,
+      "question": "この問題を解くのに<u>（　）</u>一日かかった。",
+      "context": "",
+      "options": [
+        "完",
+        "全",
+        "本",
+        "丸"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Tôi đã mất trọn vẹn cả một ngày để giải bài toán/vấn đề này.\n\nĐáp án đúng: ④ 丸.\n\n丸一日 HOÀN NHẤT NHẬT（まるいちにち）: tròn một ngày, suốt cả ngày.\n\nCác đáp án khác: 丸 dùng để nhấn mạnh “trọn vẹn/cả”. Các lựa chọn khác không tạo thành cụm tự nhiên trong câu này."
+    },
+    {
+      "question_id": 9,
+      "question": "履歴<u>（　）</u>にはかならず写真を貼ってください。",
+      "context": "",
+      "options": [
+        "紙",
+        "書",
+        "証",
+        "状"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Trong sơ yếu lý lịch nhất định phải dán ảnh nhé.\n\nĐáp án đúng: ② 書.\n\n履歴書 LÝ LỊCH THƯ（りれきしょ）: sơ yếu lý lịch, CV kiểu Nhật.\n\nCác đáp án khác: 履歴書 là cách viết đúng. Các lựa chọn khác không tạo thành từ đúng."
+    },
+    {
+      "question_id": 10,
+      "question": "ボランティア活動に積極<u>（　）</u>に参加している。",
+      "context": "",
+      "options": [
+        "気",
+        "感",
+        "性",
+        "的"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Tôi đang tích cực tham gia các hoạt động tình nguyện.\n\nĐáp án đúng: ④ 的.\n\n積極的 TÍCH CỰC ĐÍCH（せっきょくてき）: tích cực, chủ động.\n\nCác đáp án khác: 積極的に + động từ = làm gì một cách tích cực. Các chữ khác không tạo thành từ đúng."
+    },
+    {
+      "question_id": 11,
+      "question": "この寒さだと<u>おそらく</u>明日は雪が降るだろう。",
+      "context": "",
+      "options": [
+        "たぶん",
+        "絶対に",
+        "次第に",
+        "たしかに"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Với cái lạnh này thì có lẽ ngày mai tuyết sẽ rơi.\n\nĐáp án đúng: ① たぶん.\n\nおそらく: có lẽ, chắc là; gần nghĩa với たぶん.\n\nCác đáp án khác: ② 絶対に TUYỆT ĐỐI（ぜったいに）: tuyệt đối. ③ 次第に THỨ ĐỆ（しだいに）: dần dần. ④ たしかに: đúng là/quả thật."
+    },
+    {
+      "question_id": 12,
+      "question": "<u>やむをえない</u>事情で大学をやめることになった。",
+      "context": "",
+      "options": [
+        "くやしい",
+        "はずかしい",
+        "しかたがない",
+        "もったいない"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Vì hoàn cảnh bất khả kháng nên tôi đã phải nghỉ đại học.\n\nĐáp án đúng: ③ しかたがない.\n\nやむをえない: bất khả kháng, không còn cách nào khác; gần nghĩa với しかたがない.\n\nCác đáp án khác: ① くやしい: tiếc/cay cú. ② はずかしい: xấu hổ. ④ もったいない: lãng phí/đáng tiếc."
+    },
+    {
+      "question_id": 13,
+      "question": "デパートで小学校の同級生に<u>ばったり</u>会った。",
+      "context": "",
+      "options": [
+        "偶然",
+        "自然に",
+        "都合よく",
+        "久しぶりに"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Tôi tình cờ gặp bạn cùng lớp tiểu học ở cửa hàng bách hóa.\n\nĐáp án đúng: ① 偶然.\n\nばったり: tình cờ, ngẫu nhiên; gần nghĩa với 偶然 NGẪU NHIÊN（ぐうぜん）.\n\nCác đáp án khác: ② 自然に TỰ NHIÊN（しぜんに）: một cách tự nhiên. ③ 都合よく ĐÔ HỢP（つごうよく）: thuận tiện. ④ 久しぶりに CỬU（ひさしぶりに）: sau một thời gian dài."
+    },
+    {
+      "question_id": 14,
+      "question": "<u>等しい</u>",
+      "context": "",
+      "options": [
+        "この二つの三角形の面積は等しい。",
+        "私は毎日等しい道を通って通勤している。",
+        "チーム全員が等しい気持ちで試合に挑んだ。",
+        "私と彼は、小学校から高校まで学校が等しい。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Diện tích của hai tam giác này bằng nhau.\n\nĐáp án đúng: ① この二つの三角形の面積は等しい。.\n\n等しい ĐẲNG（ひとしい）: bằng nhau, ngang nhau.\n\nCác đáp án khác: 等しい dùng cho giá trị/lượng/mức độ bằng nhau. ②③④ cần 同じ hơn là 等しい."
+    },
+    {
+      "question_id": 15,
+      "question": "<u>あいにく</u>",
+      "context": "",
+      "options": [
+        "あいにくなので、コーヒーでもいかがですか。",
+        "あいにくその日は予定があって参加できません。",
+        "あいにくの天気で、海に行くのにちょうどいいですね。",
+        "あいにく部長は席におりますので、少々お待ちください。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Tiếc là hôm đó tôi có kế hoạch rồi nên không thể tham gia.\n\nĐáp án đúng: ② あいにくその日は予定があって参加できません。.\n\nあいにく: thật tiếc là, không may là.\n\nCác đáp án khác: あいにく dùng khi tình huống không thuận lợi/đáng tiếc. ①③④ không hợp nghĩa trong ngữ cảnh."
+    },
+    {
+      "question_id": 16,
+      "question": "すみません、この<u>あたり</u>に銀行はありませんか。",
+      "context": "",
+      "options": [
+        "当り",
+        "周り",
+        "辺り",
+        "返り"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Xin lỗi, quanh đây có ngân hàng không ạ?\n\nĐáp án đúng: ③ 辺り.\n\n辺り BIÊN（あたり）: khu vực quanh đây, vùng lân cận.\n\nCác đáp án khác: この辺り = quanh đây/vùng này. Các chữ khác không phải cách viết đúng trong câu này."
+    },
+    {
+      "question_id": 17,
+      "question": "家族のため、父は<u>けんめい</u>に働いた。",
+      "context": "",
+      "options": [
+        "賢名",
+        "賢命",
+        "懸名",
+        "懸命"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Vì gia đình, bố tôi đã làm việc hết mình.\n\nĐáp án đúng: ④ 懸命.\n\n懸命 HUYỀN MỆNH（けんめい）: hết sức, nỗ lực hết mình.\n\nCác đáp án khác: 懸命に働く = làm việc hết sức. Các lựa chọn khác là cách viết sai."
+    },
+    {
+      "question_id": 18,
+      "question": "その町のチームが勝って、観客はとても<u>よろこんでいた</u>。",
+      "context": "",
+      "options": [
+        "喜で",
+        "喜んで",
+        "喜こんで",
+        "喜ろこんで"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Đội của thị trấn đó thắng nên khán giả rất vui mừng.\n\nĐáp án đúng: ② 喜んで.\n\n喜ぶ HỈ（よろこぶ）: vui mừng; dạng て là 喜んで.\n\nCác đáp án khác: 喜ぶ đổi âm khi chia て形: 喜んで. Các lựa chọn khác sai cách chia/ghi."
+    },
+    {
+      "question_id": 19,
+      "question": "1時間も遅れてきたのに謝らない友達に<u>（　）</u>が立った。",
+      "context": "",
+      "options": [
+        "足",
+        "心",
+        "腹",
+        "頭"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Tôi đã bực mình với người bạn đến muộn tận 1 tiếng mà còn không xin lỗi.\n\nĐáp án đúng: ③ 腹.\n\n腹が立つ PHÚC・LẬP（はらがたつ）: tức giận, bực mình.\n\nCác đáp án khác: 腹が立つ là cụm cố định nghĩa là tức giận. Các danh từ khác không tạo thành cụm này."
+    },
+    {
+      "question_id": 20,
+      "question": "その話は本当だ。<u>（　）</u>私はその事故を見たのだから。",
+      "context": "",
+      "options": [
+        "いまに",
+        "げんに",
+        "じつに",
+        "まさに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Chuyện đó là thật đấy. Thực tế là chính tôi đã tận mắt nhìn thấy vụ tai nạn đó mà.\n\nĐáp án đúng: ② げんに.\n\n現に HIỆN（げんに）: thực sự là, thực tế là.\n\nCác đáp án khác: 現に dùng để đưa bằng chứng thực tế. ③ じつに: thật là/rất. ④ まさに: đúng là/chính là. ① いまに: sớm muộn rồi."
+    },
+    {
+      "question_id": 21,
+      "question": "<u>（　）</u>を使ってみて、とてもよかったので、この洗剤を買うことにした。",
+      "context": "",
+      "options": [
+        "リスト",
+        "カタログ",
+        "サンプル",
+        "パンフレット"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Dùng thử mẫu thử thấy rất tốt nên tôi quyết định mua chất tẩy rửa này.\n\nĐáp án đúng: ③ サンプル.\n\nサンプル: mẫu thử; từ gốc tiếng Anh: sample.\n\nCác đáp án khác: ① リスト: list/danh sách. ② カタログ: catalog. ④ パンフレット: pamphlet/tờ giới thiệu."
+    },
+    {
+      "question_id": 22,
+      "question": "A: 明日から北海道へ行ってきます。\nB: いいですね。<u>（　）</u>、森さんも行くと言っていましたよ。",
+      "context": "",
+      "options": [
+        "そういえば",
+        "そうすると",
+        "それにしても",
+        "それはそれは"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: A: Từ mai tôi sẽ đi Hokkaido. B: Hay nhỉ. À nhắc mới nhớ, anh Mori cũng nói là sẽ đi đó.\n\nĐáp án đúng: ① そういえば.\n\nそういえば: à nhắc mới nhớ, nói mới nhớ.\n\nCác đáp án khác: ② そうすると: nếu vậy/thế thì. ③ それにしても: dù vậy thì. ④ それはそれは: dùng để nhấn mạnh cảm xúc."
+    },
+    {
+      "question_id": 23,
+      "question": "コンピューターが突然、原因不明の<u>（　）</u>作動を起こした。",
+      "context": "",
+      "options": [
+        "不",
+        "違",
+        "誤",
+        "失"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Máy tính đột nhiên xảy ra lỗi hoạt động không rõ nguyên nhân.\n\nĐáp án đúng: ③ 誤.\n\n誤作動 NGỘ TÁC ĐỘNG（ごさどう）: không hoạt động đúng, trục trặc, lỗi vận hành.\n\nCác đáp án khác: 誤作動 là từ đúng. Các tiền tố/chữ khác không tạo thành từ tự nhiên trong câu này."
+    },
+    {
+      "question_id": 24,
+      "question": "作曲<u>（　）</u>になるため、音楽大学に進んだ。",
+      "context": "",
+      "options": [
+        "手",
+        "者",
+        "家",
+        "師"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Để trở thành nhà soạn nhạc, tôi đã học lên đại học âm nhạc.\n\nĐáp án đúng: ③ 家.\n\n作曲家 TÁC KHÚC GIA（さっきょくか）: nhà soạn nhạc.\n\nCác đáp án khác: 〜家 dùng cho nghề/người chuyên môn trong lĩnh vực. 作曲家 = nhà soạn nhạc."
+    },
+    {
+      "question_id": 25,
+      "question": "彼はまじめで責任<u>（　）</u>が強い。",
+      "context": "",
+      "options": [
+        "観",
+        "感",
+        "心",
+        "性"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Anh ấy có tinh thần trách nhiệm rất cao.\n\nĐáp án đúng: ② 感.\n\n責任感 TRÁCH NHIỆM CẢM（せきにんかん）: tinh thần trách nhiệm.\n\nCác đáp án khác: 責任感が強い là cụm tự nhiên: có tinh thần trách nhiệm cao. Các chữ khác không tạo thành từ đúng."
+    },
+    {
+      "question_id": 26,
+      "question": "そのニュースは<u>たちまち</u>世界中に広まった。",
+      "context": "",
+      "options": [
+        "すぐに",
+        "ついに",
+        "だんだん",
+        "ようやく"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Tin tức đó lập tức lan ra khắp thế giới.\n\nĐáp án đúng: ① すぐに.\n\nたちまち: ngay lập tức; gần nghĩa với すぐに.\n\nCác đáp án khác: ② ついに: cuối cùng. ③ だんだん: dần dần. ④ ようやく: cuối cùng mới."
+    },
+    {
+      "question_id": 27,
+      "question": "彼はノートに<u>せっせと</u>何かを書いていた。",
+      "context": "",
+      "options": [
+        "速く",
+        "熱心に",
+        "上手に",
+        "楽しそうに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Anh ấy chăm chỉ ghi chép gì đó vào vở.\n\nĐáp án đúng: ② 熱心に.\n\nせっせと: chăm chỉ, miệt mài; gần nghĩa với 熱心に NHIỆT TÂM（ねっしんに）.\n\nCác đáp án khác: ① 速く TỐC（はやく）: nhanh. ③ 上手に THƯỢNG THỦ（じょうずに）: giỏi/khéo. ④ 楽しそうに LẠC（たのしそうに）: có vẻ vui."
+    },
+    {
+      "question_id": 28,
+      "question": "課長は今<u>ミーティング</u>中で、ここにはおりません。",
+      "context": "",
+      "options": [
+        "会議",
+        "出張",
+        "研修",
+        "休暇"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Trưởng phòng hiện đang họp nên không có ở đây.\n\nĐáp án đúng: ① 会議.\n\nミーティング: họp, meeting; từ gốc tiếng Anh: meeting. Gần nghĩa với 会議 HỘI NGHỊ（かいぎ）.\n\nCác đáp án khác: ② 出張 XUẤT TRƯƠNG（しゅっちょう）: công tác. ③ 研修 NGHIÊN TU（けんしゅう）: đào tạo. ④ 休暇 HƯU HẠ（きゅうか）: nghỉ phép."
+    },
+    {
+      "question_id": 29,
+      "question": "<u>わざと</u>",
+      "context": "",
+      "options": [
+        "その選手はお金のために、わざと試合に負けた。",
+        "お忙しいところ、わざと来てくださってありがとうございます。",
+        "この着物は、結婚式のためにわざと作ってもらった特別なものだ。",
+        "母は、10円でも安かったら、遠くのスーパーまでわざと買いに行く。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Vận động viên đó cố tình thua trận vì tiền.\n\nĐáp án đúng: ① その選手はお金のために、わざと試合に負けた。.\n\nわざと: cố tình, cố ý.\n\nCác đáp án khác: わざと thường dùng cho hành động cố ý, nhiều khi mang sắc thái không tốt. ②③④ nên dùng わざわざ trong nghĩa “mất công/cất công”."
+    },
+    {
+      "question_id": 30,
+      "question": "<u>引き返す</u>",
+      "context": "",
+      "options": [
+        "借りたCDを友達に引き返した。",
+        "肉が焼けてきたら、引き返して裏も焼いてください。",
+        "使った道具は、すぐに元の場所に引き返してください。",
+        "忘れ物をしたので、急いで家に引き返した。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Vì để quên đồ nên tôi đã vội quay trở về nhà.\n\nĐáp án đúng: ④ 忘れ物をしたので、急いで家に引き返した。.\n\n引き返す DẪN PHẢN（ひきかえす）: quay trở lại, quay ngược lại.\n\nCác đáp án khác: ① trả lại CD phải là 返す. ② lật mặt thịt dùng 裏返す. ③ trả đồ về chỗ cũ dùng 戻す/返す."
+    }
+  ]
+}

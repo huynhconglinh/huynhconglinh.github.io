@@ -1,0 +1,142 @@
+{
+  "id": "BJT-01-P3-S2",
+  "code": "BJT-01-P3-S2",
+  "title": "BJT 1 · Đọc hiểu · Section 2 (Điền từ / kính ngữ)",
+  "track": "bjt",
+  "level": "BJT",
+  "topic": "reading",
+  "source": "riki/ビジネス日本語能力テスト1/第３部 読解テスト_セクション１.csv",
+  "questionCount": 10,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "先方から、今回の会食後、「次回はぜひ弊社のほうに＿＿＿＿＿。」という連絡がお礼とともにあった。",
+      "context": "",
+      "options": [
+        "払ってください",
+        "払わせてください",
+        "払わせてあげます",
+        "払ってもらってください"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 払ってください（はらってください - Phụ - xin hãy trả tiền）.\n   - Lý do sai: Cụm này mang nghĩa \"yêu cầu đối phương (người nói) trả tiền\", trái ngược hoàn toàn với ý định tôn trọng/muốn bao khao đối phương của bên đối tác.\n\n2. ĐÚNG. 払わせてくだい（はらわせてください - Phụ - xin hãy để chúng tôi/tôi trả tiền）.\n   - Lý do đúng: 「〜させてください」 là dạng sai khiến kết hợp với xin phép, mang nghĩa \"Xin hãy cho phép em/chúng em làm...\". Trong kính ngữ thương mại, khi muốn đề nghị trả tiền/bao khao đối phương, người ta dùng 「弊社のほうに払わせてください」 (Xin hãy để phía công ty chúng tôi trả tiền).\nCâu完全:\n先方から、今回の会食後、「次回はぜひ弊社のほうに払わせてくだい。」という連絡がお礼とともにあった。\nDịch nghĩa:\nLần này sau bữa ăn, phía đối tác đã gửi lời cảm ơn kèm theo nhắn gửi rằng: \"Lần tới nhất định xin hãy để phía công ty chúng tôi trả tiền.\"\n\n3. SAI. 払わせてあげます（はらわせてあげます - Phụ - sẽ cho phép anh/chị trả tiền）.\n   - Lý do sai: 「〜てあげます」 mang sắc thái ban ơn, làm giúp ai đó điều gì với vị thế cao hơn. Dùng từ này với đối tác là cực kỳ thất lễ.\n\n4. SAI. 払ってもらってください（はらってもらってください - Phụ - hãy nhờ/yêu cầu ai đó trả tiền）.\n   - Lý do sai: Cụm này làm cho chủ thể thực hiện hành động trả tiền bị mơ hồ, không thể hiện đúng mong muốn tự nguyện chi trả của bên phía đối tác."
+    },
+    {
+      "question_id": 2,
+      "question": "見知らぬ方から営業の鈴木係長を知らないかという照会があったので、「いいえ、＿＿＿＿＿。」と回答しておきました。",
+      "context": "",
+      "options": [
+        "ご存じないです",
+        "ご存じありません",
+        "ご存じではありません",
+        "存じておりません"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. ご存じないです（ごぞんじないです）.\n- 「ご存じ」 là kính ngữ (尊敬語) dùng nói về sự hiểu biết của người khác (đối phương/cấp trên), không dùng cho bản thân.\n- Ghép 「ご存じ」 với 「ないです」 cũng không phải mẫu kính ngữ chuẩn.\n\n2. SAI. ご存じありません.\n- Cũng dùng 「ご存じ」 cho chủ ngữ là mình → sai phép kính ngữ.\n- Không phù hợp khi tự nói \"tôi không biết\".\n\n3. SAI. ご存じではありません.\n- Tương tự, 「ご存じ」 chỉ dùng cho người khác, không dùng cho hành động/nhận thức của mình.\n\n4. ĐÚNG. 存じておりません（ぞんじておりません）.\n- 「存じる」 là khiêm nhường ngữ (謙譲語) của 「知る」; 「存じておりません」 = tôi không biết.\n- Trong câu trả lời với người ngoài về việc mình có biết ai đó hay không, dùng khiêm nhường ngữ là đúng.\n\nCâu hoàn chỉnh:\n見知らぬ方から営業の鈴木係長を知らないかという照会があったので、「いいえ、存じておりません。」と回答しておきました。\n\nDịch nghĩa:\nCó người lạ hỏi thăm rằng có biết tổ trưởng Suzuki bên Kinh doanh không, nên tôi đã trả lời: \"Không ạ, tôi không biết.\""
+    },
+    {
+      "question_id": 3,
+      "question": "課長にはいろいろご迷惑を＿＿＿＿＿。",
+      "context": "",
+      "options": [
+        "くださいました",
+        "おかけしました",
+        "おかけになりました",
+        "さしあげました"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. くださいました（くださいました - Cho/tặng (người khác làm cho mình)）.\n   - Lý do sai: 「〜くださいました」 là tôn kính ngữ diễn tả người khác làm gì đó cho mình. Nếu chọn câu này thì nghĩa sẽ thành \"Trưởng phòng đã gây rắc rối cho tôi\", trái với thực tế là bản thân người nói gây ra rắc rối cho trưởng phòng.\n\n2. ĐÚNG. おかけしました（迷惑をおかけする - Mê Hoặc - gây ra rắc rối/phiền phức cho ai）.\n   - Lý do đúng: Cấu trúc 「お + Động từ bỏ ます + する/ làm」 là khiêm nhường ngữ (謙譲語). Cụm 「ご迷惑をおかけしました」 là mẫu câu khiêm nhường ngữ cố định chuẩn xác nhất dùng để xin lỗi khi bản thân làm phiền hoặc gây rắc rối cho cấp trên/đối tác.\nCâu完全:\n課長にはいろいろご迷惑をおかけしました。\nDịch nghĩa:\nEm đã gây ra nhiều phiền phức/rắc rối cho trưởng phòng.\n\n3. SAI. おかけになりました（おかけになりました - Tôn kính ngữ của 掛ける）.\n   - Lý do sai: 「お + Động từ bỏ ます + になる」 là dạng tôn kính ngữ (尊敬語) dành cho hành động của đối phương. Dùng dạng này sẽ thành ra sử dụng kính ngữ cho chính hành vi (gây rắc rối) của bản thân.\n\n4. SAI. さしあげました（さしあげました - Biếu/tặng (khiêm nhường ngữ)）.\n   - Lý do sai: 「差し上げる」 là khiêm nhường ngữ của \"cho/tặng\", chỉ dùng khi trao nhận đồ vật/sự vật cụ thể, không đi cùng cụm 「ご迷惑を〜」 trong ngữ cảnh này."
+    },
+    {
+      "question_id": 4,
+      "question": "先月の展示会への来場者の様子について「＿＿＿＿＿。」という現場担当者の報告があった。",
+      "context": "",
+      "options": [
+        "大盛況でしたよ",
+        "大盛況でしょうよ",
+        "大盛況にしましたよ",
+        "大盛況になりますよ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 大盛況でしたよ（だいせいきょうでしたよ - Đại Thịnh Huống - Rất sôi nổi/rất thành công đấy ạ）.\n   - Lý do đúng: Sự kiện triễn lãm đã diễn ra vào \"tháng trước\" (先月 - sự việc trong quá khứ), và đây là một báo cáo về thực tế tình hình từ người phụ trách. Do đó, việc sử dụng thì quá khứ khẳng định 「〜でしたよ」 để truyền đạt thông tin thực tế mà người nghe chưa biết là hoàn toàn chuẩn xác.\nCâu hoàn chỉnh:\n先月の展示会への来場者の様子について「大盛況でしたよ。」という現場担当者の報告があった。\nDịch nghĩa:\nĐã có báo cáo từ người phụ trách tại hiện trường về tình hình khách tham quan buổi triển lãm tháng trước là: \"Rất thành công/sôi nổi đấy ạ.\"\n\n2. SAI. 大盛況でしょうよ（だいせいきょうでしょうよ - Có lẽ là rất sôi nổi đấy nhỉ）.\n   - Lý do sai: 「〜でしょう」 dùng để phỏng đoán (suy đoán) hoặc hỏi ý kiến đối phương. Người phụ trách tại hiện trường là người trực tiếp chứng kiến nên phải báo cáo sự thật thực tế, không dùng từ phỏng đoán.\n\n3. SAI. 大盛況にしましたよ（だいせいきょうにしましたよ - Đã làm cho rất sôi nổi rồi đấy）.\n   - Lý do sai: 「〜にする」 thể hiện ý chí chủ quan làm cho cái gì đó trở thành một trạng thái. Trạng thái khách đến đông đúc, sôi nổi (大盛況) là tình hình chung, không phải là một hành động do cá nhân chủ quan thực hiện \"làm ra\".\n\n4. SAI. 大盛況になりますよ（だいせいきょうになりますよ - Sẽ trở nên rất sôi nổi đấy）.\n   - Lý do sai: 「〜になります」 thể hiện một sự thay đổi hoặc sự việc xảy ra ở tương lai. Sự kiện triển lãm đã diễn ra vào tháng trước (quá khứ) nên không thể dùng thì tương lai."
+    },
+    {
+      "question_id": 5,
+      "question": "今回の重大事故は、＿＿＿＿＿事態なので、即刻、担当役員を派遣、対応した。",
+      "context": "",
+      "options": [
+        "とんでもいる",
+        "とんでもない",
+        "それほどでもない",
+        "そんなんでもない"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. とんでもいる（không có nghĩa/sai ngữ pháp）.\n   - Lý do sai: Đây là một từ vô nghĩa, ghép sai từ cụm tính từ gốc 「とんでもない」.\n\n2. ĐÚNG. とんでもない（Thật kinh khủng / Không thể coi thường / Nghiêm trọng）.\n   - Lý do đúng: 「とんでもない」 là một tính từ bổ nghĩa cho danh từ 「事態」 (sự thái/tình hình), mang nghĩa là \"cực kỳ nghiêm trọng\", \"khủng khiếp\", \"không thể lường trước\". Nó phù hợp hoàn toàn với mạch văn nhấn mạnh mức độ nghiêm trọng của \"vụ tai nạn lớn\" (重大事故) để ngay lập tức cử cán bộ quản lý đến xử lý.\nCâu hoàn chỉnh:\n今回の重大事故は、とんでもない事態なので、即刻、担当役員を派遣、対応した。\nDịch nghĩa:\nVụ tai nạn nghiêm trọng lần này là một tình huống cực kỳ khủng khiếp/nghiêm trọng, vì vậy chúng tôi đã cử ngay lập tức cán bộ quản lý phụ trách đến để xử lý.\n\n3. SAI. それほどでもない（Không đến mức như thế）.\n   - Lý do sai: Cụm này mang nghĩa là \"chuyện cũng bình thường, không nghiêm trọng đến thế đâu\", trái ngược hoàn toàn với ngữ cảnh nguy cấp của một \"vụ tai nạn nghiêm trọng\" (重大事故) cần phải cử cán bộ đến khẩn cấp.\n\n4. SAI. そんなんでもない（Chẳng tới mức như vậy đâu）.\n   - Lý do sai: Tương tự câu 3, cụm từ này mang sắc thái xem nhẹ sự việc (\"không nghiêm trọng đến thế\"), hoàn toàn mâu thuẫn với ngữ cảnh nghiêm trọng của bài."
+    },
+    {
+      "question_id": 6,
+      "question": "水質検査について報告したところ、「詳細データを＿＿＿＿＿。」という問い合わせがあった。",
+      "context": "",
+      "options": [
+        "ご覧ください",
+        "ご覧になりますか",
+        "拝見できますか",
+        "拝見いたしますか"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. ご覧ください（ごらんください - L览 - Xin mời xem）.\n   - Lý do sai: 「ご覧ください」 là tôn kính ngữ (尊敬語) dùng để mời/yêu cầu đối phương xem. Trong ngữ cảnh này, phía người hỏi (khách hàng/đối tác) là người \"muốn xem\" dữ liệu, do đó không thể dùng tôn kính ngữ yêu cầu người nghe xem.\n\n2. SAI. ご覧になりますか（ごらんになりますか - L览 - Anh/chị có xem không ạ?）.\n   - Lý do sai: 「ご覧になる」 là tôn kính ngữ dành cho hành động của đối phương. Câu này nghĩa là \"Anh/chị có xem không?\", không thể hiện được mong muốn \"tôi/chúng tôi muốn xem dữ liệu\" của người đặt câu hỏi.\n\n3. ĐÚNG. 拝見できますか（はいけんできますか - Bái Kiến - Tôi/chúng tôi có thể xem được không ạ?）.\n   - Lý do đúng: 「拝見する」 là khiêm nhường ngữ (謙譲語) của 「見る」 (xem). Khi kết hợp dạng khả năng 「拝見できる」 + câu hỏi 「か」, nó trở thành câu hỏi lịch sự thể hiện nguyện vọng của chính người nói: \"Tôi/chúng tôi có thể xem (dữ liệu) được không ạ?\".\nCâu hoàn chỉnh:\n水質検査について報告したところ、「詳細データを拝見できますか。」という問い合わせがあった。\nDịch nghĩa:\nKhi báo cáo về việc kiểm tra chất lượng nước, đã có liên hệ hỏi rằng: \"Chúng tôi có thể xem dữ liệu chi tiết được không ạ?\".\n\n4. SAI. 拝見いたしますか（はいけんいたしますか - Bái Kiến - Tôi xem cho anh/chị nhé?）.\n   - Lý do sai: 「拝見いたします」 là dạng khiêm nhường ngữ kép. Khi thêm 「か」 vào cuối, câu này mang ý nghĩa đề nghị hành động \"Tôi xem giúp cho anh/chị nhé?\", mang sắc thái ban ơn/xem hộ rất đường đột và thất lễ với đối phương."
+    },
+    {
+      "question_id": 7,
+      "question": "ASB商事の田村ですが、先日の件、うちの課長が＿＿＿＿＿ので、近々お会いしたいのですが、ご都合はいかがでしょうか。",
+      "context": "",
+      "options": [
+        "認客ました",
+        "認めてあげた",
+        "お認めくださった",
+        "お認めいただいた"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 認客ました（みとめました - Nhận - đã chấp nhận/đã duyệt）.\n   - Lý do đúng: Trong giao tiếp với đối tác bên ngoài (社外), người ở cùng công ty/nội bộ (ở đây là \"trưởng phòng của chúng tôi\" - うちの課長) phải được coi là thuộc phía người nói. Vì vậy, tuyệt đối không dùng kính ngữ (尊敬語) cho người công ty mình khi nói với người ngoài, mà chỉ dùng thể thông thường/lịch sự trung lập như 「認客ました」.\nCâu hoàn chỉnh:\nASB商事の田村ですが、先日の件、うちの課長が認客ましたので、近々お会いしたいのですが、ご都合はいかがでしょうか。\nDịch nghĩa:\nTôi là Tamura bên công ty thương mại ASB. Về vụ việc hôm trước, trưởng phòng bên tôi đã duyệt rồi nên tôi muốn gặp anh/chị trong thời gian tới, không biết lịch của anh/chị thế nào ạ?\n\n2. SAI. 認客てあげました（みとめてあげました - Nhận - đã chấp nhận giúp/đã ban ơn duyệt）.\n   - Lý do sai: Cấu trúc 「〜てあげます」 mang sắc thái ban ơn, làm giúp ai đó với vị thế cao hơn. Dùng từ này khi nói về quyết định với đối tác bên ngoài là cực kỳ thất lễ.\n\n3. SAI. お認客くださった（おみとめくださった - Nhận - ngài/sếp đã chấp nhận cho）.\n   - Lý do sai: 「お＋Động từ bỏ ます＋くださる」 là tôn kính ngữ (尊敬語). Việc dùng tôn kính ngữ để nâng cao sếp của mình (うちの課長) khi đang nói chuyện với đối tác bên ngoài là vi phạm nguyên tắc kính ngữ doanh nghiệp.\n\n4. SAI. お認客いただいた（おみとめいただいた - Nhận - đã được nhận sự chấp nhận）.\n   - Lý do sai: 「お＋Động từ bỏ ます＋いただく」 là dạng khiêm nhường ngữ/tôn kính kết hợp. Việc dùng dạng này cho hành vi của sếp nhà mình khi giao tiếp với người ngoài là không đúng quy chuẩn."
+    },
+    {
+      "question_id": 8,
+      "question": "ご成約いただいたお客様から、満足しているというお言葉をたくさん＿＿＿＿＿。",
+      "context": "",
+      "options": [
+        "ございます",
+        "くださいます",
+        "いただいております",
+        "さしあげております"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. ございます（ございます - Có/là (thể lịch sự của ある/です)）.\n   - Lý do sai: Cấu trúc đi trước là 「お客様から」（từ khách hàng）, do đó vế sau phải là động từ biểu thị việc \"nhận được\" (いただく/もらう) chứ không thể đi với 「がある/ございます」.\n\n2. SAI. くださいます（くださいます - Tặng/cho (tôn kính ngữ của くれる)）.\n   - Lý do sai: Trợ từ đứng trước là 「お客様から」 (từ khách hàng). Nếu dùng 「くださいます」 thì trợ từ phải là 「お客様が」 (khách hàng cho/dành tặng).\n\n3. ĐÚNG. いただいております（いただいております - Đang nhận được (khiêm nhường ngữ của もらっている)）.\n   - Lý do đúng: Đi với cấu trúc 「[X] から [Y] をいただく」 (nhận Y từ X). Ở đây, 「いただく」 là khiêm nhường ngữ (謙譲語) của 「もらう」 (nhận). Cụm 「お言葉をたくさんいただいております」 thể hiện thái độ khiêm tốn của người nói khi nhận được nhiều lời khen/sự hài lòng từ phía khách hàng.\nCâu hoàn chỉnh:\nご成約いただいたお客様から、満足しているというお言葉をたくさんいただいております。\nDịch nghĩa:\nChúng tôi nhận được rất nhiều lời chia sẻ hài lòng từ những khách hàng đã ký hợp đồng.\n\n4. SAI. さしあげております（さしあげております - Đang biếu/tặng (khiêm nhường ngữ của あげる)）.\n   - Lý do sai: 「差し上げる」 mang nghĩa là \"cho/tặng/biếu\" (người nói làm cho người khác). Nếu dùng ở đây sẽ thành ra \"chúng tôi tặng lời khen cho khách hàng\", sai hoàn toàn ngữ cảnh."
+    },
+    {
+      "question_id": 9,
+      "question": "本プロジェクトの成功のためには、予算確保の問題は＿＿＿＿＿通れない。",
+      "context": "",
+      "options": [
+        "避けては",
+        "避けないと",
+        "避けなければ",
+        "避けなかったら"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 避けては（さけては - Tị - hễ né tránh thì... / né tránh thì không thể...）.\n   - Lý do đúng: 「避けては通れない」（さけてはとおれない） là một thành ngữ/quán ngữ vô cùng phổ biến, mang nghĩa là \"không thể né tránh\", \"bắt buộc phải đối mặt/giải quyết\". Cụm này hoàn toàn phù hợp với mục tiêu \"để dự án thành công\" thì \"việc đảm bảo ngân sách\" là vấn đề không thể né tránh.\nCâu hoàn chỉnh:\n本プロジェクトの成功のためには、予算確保の問題は避けては通れない。\nDịch nghĩa:\nĐể dự án này thành công, vấn đề đảm bảo ngân sách là điều không thể né tránh (bắt buộc phải giải quyết).\n\n2. SAI. 避けないと（さけないと - Tị - nếu không né tránh）.\n   - Lý do sai: Cấu trúc 「〜と」 diễn tả điều kiện giả định (\"nếu không né tránh thì...\"). Nếu ghép vào sẽ thành \"nếu không né tránh thì không thể đi qua/thành công\", gây mâu thuẫn hoàn toàn về mặt logic ý nghĩa.\n\n3. SAI. 避けなければ（さけなければ - Tị - nếu không né tránh）.\n   - Lý do sai: Tương tự câu 2, cấu trúc điều kiện 「〜なければ」 (\"nếu không...\") khi kết hợp với 「通れない」 sẽ tạo ra nghĩa vô lý là \"nếu không né tránh thì không thể tiến triển\".\n\n4. SAI. 避けなかったら（さけなかったら - Tị - nếu đã không né tránh）.\n   - Lý do sai: Cấu trúc giả định quá khứ/điều kiện 「〜たら」 khi đi cùng câu này cũng gây mâu thuẫn logic tương tự các câu trên."
+    },
+    {
+      "question_id": 10,
+      "question": "契約書の不明箇所について照会があり、「その件は社長に＿＿＿＿＿。」とメールで回答した。",
+      "context": "",
+      "options": [
+        "お伝えします",
+        "お話しします",
+        "申し上げます",
+        "申し伝えます"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. お伝えします（おつたえします - Truyền - tôi sẽ truyền đạt lại/báo lại）.\n   - Lý do sai: 「お伝えします」 biểu thị sự tôn kính hướng về người nhận thông tin (ở đây là 社長 - Giám đốc công ty mình). Trong giao tiếp thương mại với đối tác bên ngoài (ソト), việc dùng kính ngữ hướng về cấp trên nội bộ (ウチ) là thất lễ với đối tác.\n\n2. SAI. お話しします（おはなしします - Thoại - tôi sẽ nói chuyện/trao đổi）.\n   - Lý do sai: Tương tự câu 1, 「お話しします」 là dạng kính ngữ hướng về Giám đốc công ty mình, vi phạm quy tắc kính ngữ trong giao tiếp thương mại với đối tác bên ngoài.\n\n3. SAI. 申し上げます（もうしあげます - Thân - tôi xin nói/phát biểu）.\n   - Lý do sai: 「申し上げます」 là khiêm nhường ngữ dùng khi người nói phát biểu/nói điều gì đó TRỰC TIẾP tới người nghe (ở đây là đối tác). Tuy nhiên, câu này mang nghĩa \"chuyển lời/báo lại cho Giám đốc\" (truyền đạt gián tiếp) chứ không phải trực tiếp phát biểu tới đối tác.\n\n4. ĐÚNG. 申し伝えます（もうしつたえます - Thân Truyền - tôi xin phép chuyển lời/báo lại (cho sếp)）.\n   - Lý do đúng: 「申し伝える」 là khiêm nhường ngữ (謙譲語) chuẩn xác nhất dùng khi giao tiếp với đối tác bên ngoài để nói về việc \"sẽ nhắn lại / truyền đạt lại thông tin cho người thuộc phe mình (như Giám đốc/sếp)\". Động từ này hạ thấp hành vi truyền đạt của bản thân, qua đó thể hiện sự tôn trọng hướng tới đối tác.\nCâu hoàn chỉnh:\n契約書の不明箇所について照会があり、「その件は社長に申し伝えます。」とメールで回答した。\nDịch nghĩa:\nVì có thắc mắc/yêu cầu làm rõ về những điểm chưa rõ trong hợp đồng, tôi đã trả lời qua email rằng: \"Về việc đó, em xin phép sẽ chuyển lời/báo lại với Giám đốc ạ."
+    }
+  ]
+}

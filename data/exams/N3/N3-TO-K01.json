@@ -1,0 +1,336 @@
+{
+  "id": "N3-TO-K01",
+  "code": "N3-TO-K01",
+  "title": "Tổng ôn Hán tự",
+  "track": "n3_review",
+  "level": "N3",
+  "topic": "kanji",
+  "sourceCsv": "tong_on_bai_1.csv",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "書類が<u>複数</u>あるので、間違えないでください。（１２・２０２２）",
+      "context": "",
+      "options": [
+        "ふくす",
+        "ふうすう",
+        "ふくすう",
+        "ふうす"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「ふくす」は「複数」の正しい読み方ではない。\r\n2. SAI. 「ふうすう」は存在しない読み方。\r\n3. ĐÚNG. 複数（ふくすう - Phức Số - nhiều/số nhiều）là cách đọc đúng của chữ Hán 「複数」.\r\nCâu hoàn chỉnh:\r\n書類が複数（ふくすう）あるので、間違えないでください。\r\nDịch nghĩa:\r\nVì có nhiều tài liệu nên xin đừng nhầm lẫn.\r\n4. SAI. 「ふうす」は存在しない読み方。"
+    },
+    {
+      "question_id": 2,
+      "question": "かばんは<u>横</u>においてください。（７・２０２４）",
+      "context": "",
+      "options": [
+        "よこ",
+        "そば",
+        "となり",
+        "ゆか"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 横（よこ - Hoành - bên cạnh/ngang）là cách đọc đúng của chữ Hán 「横」.\r\nCâu hoàn chỉnh:\r\nかばんは横（よこ）においてください。\r\nDịch nghĩa:\r\nHãy đặt cặp ở bên cạnh.\r\n2. SAI. 「そば」là cách đọc của 「側」hoặc 「傍」, không phải 「横」.\r\n3. SAI. 「となり」là cách đọc của 「隣」, không phải 「横」.\r\n4. SAI. 「ゆか」là cách đọc của 「床」, không phải 「横」."
+    },
+    {
+      "question_id": 3,
+      "question": "この国の人は<u>自然</u>を大切にしている。（１２・２０２１）",
+      "context": "",
+      "options": [
+        "しぜん",
+        "じぜん",
+        "しせん",
+        "じせん"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 自然（しぜん - Tự Nhiên - tự nhiên/thiên nhiên）là cách đọc đúng của chữ Hán 「自然」.\r\nCâu hoàn chỉnh:\r\nこの国の人は自然（しぜん）を大切にしている。\r\nDịch nghĩa:\r\nNgười dân nước này rất trân trọng thiên nhiên.\r\n2. SAI. 「じぜん」は「自然」の正しい読み方ではない。「自」の読みは「し」。\r\n3. SAI. 「しせん」は「視線」の読み方であり、「自然」ではない。\r\n4. SAI. 「じせん」は存在しない読み方。"
+    },
+    {
+      "question_id": 4,
+      "question": "それではゆっくり<u>呼吸</u>をしてください。（７・２０２１）",
+      "context": "",
+      "options": [
+        "こぎゅう",
+        "こきゅう",
+        "よぎゅう",
+        "よきゅう"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「こぎゅう」là cách đọc sai, 「吸」đọc là 「きゅう」không phải 「ぎゅう」.\r\n2. ĐÚNG. 呼吸（こきゅう - Hô Hấp - hơi thở/hít thở）là cách đọc đúng của chữ Hán 「呼吸」.\r\nCâu hoàn chỉnh:\r\nそれではゆっくり呼吸（こきゅう）をしてください。\r\nDịch nghĩa:\r\nVậy thì hãy hít thở thật chậm.\r\n3. SAI. 「よぎゅう」là cách đọc sai hoàn toàn, 「呼」đọc là 「こ」.\r\n4. SAI. 「よきゅう」là cách đọc sai, 「呼」đọc là 「こ」không phải 「よ」."
+    },
+    {
+      "question_id": 5,
+      "question": "年後の世界を<u>想像</u>するのは難しい。（７・２０１５）",
+      "context": "",
+      "options": [
+        "そぞう",
+        "そしょう",
+        "そうぞう",
+        "そうしょう"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「そぞう」thiếu trường âm, 「想」đọc là 「そう」.\r\n2. SAI. 「そしょう」là cách đọc sai, 「像」đọc là 「ぞう」không phải 「しょう」.\r\n3. ĐÚNG. 想像（そうぞう - Tưởng Tượng - tưởng tượng/hình dung）là cách đọc đúng của chữ Hán 「想像」.\r\nCâu hoàn chỉnh:\r\n年後の世界を想像（そうぞう）するのは難しい。\r\nDịch nghĩa:\r\nThật khó để tưởng tượng thế giới sau nhiều năm nữa.\r\n4. SAI. 「そうしょう」là cách đọc sai, 「像」đọc là 「ぞう」."
+    },
+    {
+      "question_id": 6,
+      "question": "それは<u>過去</u>のことです。（１２・２０２１）",
+      "context": "",
+      "options": [
+        "かこ",
+        "かこう",
+        "かきよ",
+        "かきよう"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 過去（かこ - Quá Khứ - quá khứ）là cách đọc đúng của chữ Hán 「過去」.\r\nCâu hoàn chỉnh:\r\nそれは過去（かこ）のことです。\r\nDịch nghĩa:\r\nĐó là chuyện của quá khứ.\r\n2. SAI. 「かこう」là cách đọc sai, thừa trường âm.\r\n3. SAI. 「かきよ」là cách đọc sai, 「去」đọc là 「こ」không phải 「きよ」.\r\n4. SAI. 「かきよう」là cách đọc sai hoàn toàn."
+    },
+    {
+      "question_id": 7,
+      "question": "それは、もう<u>計算</u>しました。（７・２０２２）",
+      "context": "",
+      "options": [
+        "けいけん",
+        "けけん",
+        "けいさん",
+        "けさん"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「けいけん」là cách đọc của 「経験」, không phải 「計算」.\r\n2. SAI. 「けけん」là cách đọc không tồn tại.\r\n3. ĐÚNG. 計算（けいさん - Kế Toán - tính toán）là cách đọc đúng của chữ Hán 「計算」.\r\nCâu hoàn chỉnh:\r\nそれは、もう計算（けいさん）しました。\r\nDịch nghĩa:\r\nCái đó tôi đã tính toán rồi.\r\n4. SAI. 「けさん」thiếu trường âm, 「計」đọc là 「けい」."
+    },
+    {
+      "question_id": 8,
+      "question": "このあたりに<u>駐車</u>しましょう。（７・２０２１）",
+      "context": "",
+      "options": [
+        "しゅしゃ",
+        "しゅうしゃ",
+        "ちゅしゃ",
+        "ちゅうしゃ"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「しゅしゃ」là cách đọc sai, 「駐」đọc là 「ちゅう」không phải 「しゅ」.\r\n2. SAI. 「しゅうしゃ」là cách đọc sai, 「駐」đọc là 「ちゅう」.\r\n3. SAI. 「ちゅしゃ」thiếu trường âm, 「駐」đọc là 「ちゅう」.\r\n4. ĐÚNG. 駐車（ちゅうしゃ - Trú Xa - đỗ xe）là cách đọc đúng của chữ Hán 「駐車」.\r\nCâu hoàn chỉnh:\r\nこのあたりに駐車（ちゅうしゃ）しましょう。\r\nDịch nghĩa:\r\nHãy đỗ xe ở quanh đây nhé."
+    },
+    {
+      "question_id": 9,
+      "question": "昨日病院で<u>血圧</u>を計りました。（12・２０２２）",
+      "context": "",
+      "options": [
+        "けつあつ",
+        "けつやつ",
+        "ちあつ",
+        "ちやつ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 血圧（けつあつ - Huyết Áp - huyết áp）là cách đọc đúng của chữ Hán 「血圧」.\r\nCâu hoàn chỉnh:\r\n昨日病院で血圧（けつあつ）を計りました。\r\nDịch nghĩa:\r\nHôm qua tôi đã đo huyết áp ở bệnh viện.\r\n2. SAI. 「けつやつ」là cách đọc sai, 「圧」đọc là 「あつ」không phải 「やつ」.\r\n3. SAI. 「ちあつ」là cách đọc sai, 「血」đọc là 「けつ」không phải 「ち」trong từ ghép này.\r\n4. SAI. 「ちやつ」là cách đọc sai hoàn toàn."
+    },
+    {
+      "question_id": 10,
+      "question": "川井さんは明日、<u>退院</u>するそうです。（７・２０２１）",
+      "context": "",
+      "options": [
+        "たいいん",
+        "たんいん",
+        "だいいん",
+        "だんいん"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 退院（たいいん - Thoái Viện - xuất viện）là cách đọc đúng của chữ Hán 「退院」.\r\nCâu hoàn chỉnh:\r\n川井さんは明日、退院（たいいん）するそうです。\r\nDịch nghĩa:\r\nNghe nói anh/chị Kawai ngày mai sẽ xuất viện.\r\n2. SAI. 「たんいん」là cách đọc sai, 「退」đọc là 「たい」không phải 「たん」.\r\n3. SAI. 「だいいん」là cách đọc sai, 「退」là thanh trong (清音) đọc 「たい」.\r\n4. SAI. 「だんいん」là cách đọc sai hoàn toàn."
+    },
+    {
+      "question_id": 11,
+      "question": "駅で新しい<u>こうこく</u>を見ました。（７・２０２２）",
+      "context": "",
+      "options": [
+        "校菅",
+        "校告",
+        "広営",
+        "広告"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「校菅」không phải từ có nghĩa, 「菅」là cỏ lác, không liên quan đến quảng cáo.\r\n2. SAI. 「校告」không phải từ có nghĩa trong tiếng Nhật.\r\n3. SAI. 「広営」không phải từ có nghĩa trong tiếng Nhật.\r\n4. ĐÚNG. 広告（こうこく - Quảng Cáo - quảng cáo）là chữ Hán đúng cho 「こうこく」.\r\nCâu hoàn chỉnh:\r\n駅で新しい広告（こうこく）を見ました。\r\nDịch nghĩa:\r\nTôi đã nhìn thấy quảng cáo mới ở ga."
+    },
+    {
+      "question_id": 12,
+      "question": "<u>きそく</u>がすこし変わるそうだ。（７・２０２４）",
+      "context": "",
+      "options": [
+        "規側",
+        "規則",
+        "期則",
+        "期側"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「規側」không phải từ có nghĩa, 「側」（がわ）nghĩa là phía/bên.\r\n2. ĐÚNG. 規則（きそく - Quy Tắc - quy tắc/luật lệ）là chữ Hán đúng cho 「きそく」.\r\nCâu hoàn chỉnh:\r\n規則（きそく）がすこし変わるそうだ。\r\nDịch nghĩa:\r\nNghe nói quy tắc sẽ thay đổi một chút.\r\n3. SAI. 「期則」không phải từ có nghĩa trong tiếng Nhật.\r\n4. SAI. 「期側」không phải từ có nghĩa trong tiếng Nhật."
+    },
+    {
+      "question_id": 13,
+      "question": "私は毎日、どのくらい歩いたか<u>きろく</u>している。（７・２０２２）",
+      "context": "",
+      "options": [
+        "基緑",
+        "記緑",
+        "基録",
+        "記録"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「基緑」không phải từ có nghĩa, 「緑」là màu xanh lá.\r\n2. SAI. 「記緑」sai chữ, 「緑」（みどり）không phải 「録」（ろく）.\r\n3. SAI. 「基録」không phải từ có nghĩa, 「基」（き）nghĩa là cơ sở nhưng không ghép với 「録」.\r\n4. ĐÚNG. 記録（きろく - Ký Lục - ghi chép/kỷ lục）là chữ Hán đúng cho 「きろく」.\r\nCâu hoàn chỉnh:\r\n私は毎日、どのくらい歩いたか記録（きろく）している。\r\nDịch nghĩa:\r\nTôi ghi chép lại mỗi ngày mình đã đi bộ được bao nhiêu."
+    },
+    {
+      "question_id": 14,
+      "question": "銀行へお金を<u>あずけ</u>に行ってきます。（１２・２０２１）",
+      "context": "",
+      "options": [
+        "預け",
+        "借け",
+        "替け",
+        "貯け"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 預け（あずけ - Dự - gửi）là chữ Hán đúng cho 「あずけ」. 預ける nghĩa là gửi (tiền, đồ).\r\nCâu hoàn chỉnh:\r\n銀行へお金を預け（あずけ）に行ってきます。\r\nDịch nghĩa:\r\nTôi sẽ đi ngân hàng gửi tiền.\r\n2. SAI. 「借け」không tồn tại. 「借りる」（かりる）nghĩa là mượn.\r\n3. SAI. 「替け」không tồn tại. 「替える」（かえる）nghĩa là đổi.\r\n4. SAI. 「貯け」không tồn tại. 「貯める」（ためる）nghĩa là tích góp."
+    },
+    {
+      "question_id": 15,
+      "question": "それは誰かの<u>めいれい</u>ですか。（１２・２０２１）",
+      "context": "",
+      "options": [
+        "命例",
+        "命令",
+        "企例",
+        "企令"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「命例」không phải từ có nghĩa, 「例」（れい）nghĩa là ví dụ.\r\n2. ĐÚNG. 命令（めいれい - Mệnh Lệnh - mệnh lệnh/ra lệnh）là chữ Hán đúng cho 「めいれい」.\r\nCâu hoàn chỉnh:\r\nそれは誰かの命令（めいれい）ですか。\r\nDịch nghĩa:\r\nĐó là mệnh lệnh của ai vậy?\r\n3. SAI. 「企例」không phải từ có nghĩa trong tiếng Nhật.\r\n4. SAI. 「企令」không phải từ có nghĩa trong tiếng Nhật."
+    },
+    {
+      "question_id": 16,
+      "question": "今は<u>ふくざつ</u>な気持ちだ。（12・２０２1）",
+      "context": "",
+      "options": [
+        "復推",
+        "復雜",
+        "複推",
+        "複雑"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「復推」không phải từ có nghĩa trong tiếng Nhật.\r\n2. SAI. 「復雜」sai chữ đầu, 「復」（ふく）nghĩa là quay lại, và 「雜」là dạng cũ của 「雑」.\r\n3. SAI. 「複推」không phải từ có nghĩa trong tiếng Nhật.\r\n4. ĐÚNG. 複雑（ふくざつ - Phức Tạp - phức tạp）là chữ Hán đúng cho 「ふくざつ」.\r\nCâu hoàn chỉnh:\r\n今は複雑（ふくざつ）な気持ちだ。\r\nDịch nghĩa:\r\nBây giờ tâm trạng thật phức tạp."
+    },
+    {
+      "question_id": 17,
+      "question": "いつも7 時には<u>きたく</u>している。（１２・２０２３）",
+      "context": "",
+      "options": [
+        "着宅",
+        "帰室",
+        "帰宅",
+        "着室"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「着宅」không phải từ có nghĩa trong tiếng Nhật.\r\n2. SAI. 「帰室」không phải từ thông dụng, và đọc là 「きしつ」không phải 「きたく」.\r\n3. ĐÚNG. 帰宅（きたく - Quy Trạch - về nhà）là chữ Hán đúng cho 「きたく」.\r\nCâu hoàn chỉnh:\r\nいつも7時には帰宅（きたく）している。\r\nDịch nghĩa:\r\nLúc nào tôi cũng về đến nhà trước 7 giờ.\r\n4. SAI. 「着室」không phải từ có nghĩa trong tiếng Nhật."
+    },
+    {
+      "question_id": 18,
+      "question": "私の学校は<u>せいふく</u>がありません。（７・２０２3）",
+      "context": "",
+      "options": [
+        "清衣",
+        "制衣",
+        "清服",
+        "制服"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「清衣」không phải từ có nghĩa, 「清」（せい）nghĩa là trong sạch.\r\n2. SAI. 「制衣」không phải từ thông dụng trong tiếng Nhật.\r\n3. SAI. 「清服」không phải từ có nghĩa trong tiếng Nhật.\r\n4. ĐÚNG. 制服（せいふく - Chế Phục - đồng phục）là chữ Hán đúng cho 「せいふく」.\r\nCâu hoàn chỉnh:\r\n私の学校は制服（せいふく）がありません。\r\nDịch nghĩa:\r\nTrường tôi không có đồng phục."
+    },
+    {
+      "question_id": 19,
+      "question": "授業で花の形や色を<u>かんさつ</u>しました。（12・２０２0）",
+      "context": "",
+      "options": [
+        "観祭",
+        "視察",
+        "観察",
+        "祝祭"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「観祭」sai chữ, 「祭」（まつり）nghĩa là lễ hội, không phải 「察」.\r\n2. SAI. 「視察」（しさつ）nghĩa là thị sát, và đọc là 「しさつ」không phải 「かんさつ」.\r\n3. ĐÚNG. 観察（かんさつ - Quan Sát - quan sát）là chữ Hán đúng cho 「かんさつ」.\r\nCâu hoàn chỉnh:\r\n授業で花の形や色を観察（かんさつ）しました。\r\nDịch nghĩa:\r\nTrong giờ học, tôi đã quan sát hình dạng và màu sắc của hoa.\r\n4. SAI. 「祝祭」（しゅくさい）nghĩa là lễ hội, không liên quan."
+    },
+    {
+      "question_id": 20,
+      "question": "探していた<u>やっきょく</u>が、やっと見つかりました。（７・２０２２）",
+      "context": "",
+      "options": [
+        "薬局",
+        "薬曲",
+        "楽局",
+        "楽曲"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 薬局（やっきょく - Dược Cục - tiệm thuốc/nhà thuốc）là chữ Hán đúng cho 「やっきょく」.\r\nCâu hoàn chỉnh:\r\n探していた薬局（やっきょく）が、やっと見つかりました。\r\nDịch nghĩa:\r\nCuối cùng cũng tìm được nhà thuốc mà tôi đang tìm kiếm.\r\n2. SAI. 「薬曲」không phải từ có nghĩa trong tiếng Nhật.\r\n3. SAI. 「楽局」không phải từ có nghĩa, 「楽」đọc là 「がく/らく」.\r\n4. SAI. 「楽曲」（がっきょく）nghĩa là bản nhạc, không phải 「やっきょく」."
+    },
+    {
+      "question_id": 21,
+      "question": "昨日、友達が家に<u>とまり</u>にきた。（7・２０２１）",
+      "context": "",
+      "options": [
+        "停まり",
+        "留まり",
+        "泊まり",
+        "止まり"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「停まり」（とまり）dùng cho xe cộ dừng lại, không dùng cho người ở lại qua đêm.\r\n2. SAI. 「留まり」（とどまり）nghĩa là ở lại một chỗ/lưu lại, không dùng cho ngữ cảnh ngủ nhờ.\r\n3. ĐÚNG. 泊まり（とまり - Bạc - ở lại/ngủ lại）dùng khi nói về việc ngủ qua đêm tại một nơi.\r\nCâu hoàn chỉnh:\r\n昨日、友達が家に泊まり（とまり）にきた。\r\nDịch nghĩa:\r\nHôm qua bạn tôi đến nhà ngủ lại.\r\n4. SAI. 「止まり」（とまり）nghĩa là dừng lại (chung chung), không phù hợp ngữ cảnh ngủ nhờ."
+    },
+    {
+      "question_id": 22,
+      "question": "お皿は<u>かさねて</u>その棚にしまってください。（7・２０２1）",
+      "context": "",
+      "options": [
+        "整れて",
+        "列れて",
+        "階ねて",
+        "重ねて"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「整れて」không phải dạng động từ hợp lệ.\r\n2. SAI. 「列れて」không phải dạng động từ hợp lệ.\r\n3. SAI. 「階ねて」không phải dạng động từ hợp lệ, 「階」（かい）nghĩa là tầng.\r\n4. ĐÚNG. 重ねて（かさねて - Trùng - chồng lên/xếp chồng）là chữ Hán đúng cho 「かさねて」.\r\nCâu hoàn chỉnh:\r\nお皿は重ねて（かさねて）その棚にしまってください。\r\nDịch nghĩa:\r\nHãy xếp chồng đĩa lại rồi cất vào kệ đó."
+    },
+    {
+      "question_id": 23,
+      "question": "この文章を<u>やくして</u>もらえませんか。（7・２０19）",
+      "context": "",
+      "options": [
+        "訳して",
+        "説して",
+        "記して",
+        "語して"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 訳して（やくして - Dịch - dịch）là chữ Hán đúng cho 「やくして」. 訳す nghĩa là dịch/phiên dịch.\r\nCâu hoàn chỉnh:\r\nこの文章を訳して（やくして）もらえませんか。\r\nDịch nghĩa:\r\nBạn có thể dịch bài văn này giúp tôi được không?\r\n2. SAI. 「説して」không phải dạng động từ hợp lệ, 「説」đọc là 「せつ」.\r\n3. SAI. 「記して」（きして/しるして）nghĩa là ghi chép, đọc không phải 「やくして」.\r\n4. SAI. 「語して」không phải dạng động từ hợp lệ."
+    },
+    {
+      "question_id": 24,
+      "question": "箱の<u>うちがわ</u>を見てください。（７・２０19）",
+      "context": "",
+      "options": [
+        "裏測",
+        "裏側",
+        "内測",
+        "内側"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「裏測」không phải từ có nghĩa, 「裏」đọc là 「うら」không phải 「うち」.\r\n2. SAI. 「裏側」（うらがわ）nghĩa là mặt sau, không phải 「うちがわ」.\r\n3. SAI. 「内測」không phải từ có nghĩa, 「測」đọc là 「そく」.\r\n4. ĐÚNG. 内側（うちがわ - Nội Trắc - bên trong/mặt trong）là chữ Hán đúng cho 「うちがわ」.\r\nCâu hoàn chỉnh:\r\n箱の内側（うちがわ）を見てください。\r\nDịch nghĩa:\r\nHãy nhìn bên trong hộp."
+    },
+    {
+      "question_id": 25,
+      "question": "机の上に<u>でんごん</u>のメモがあった。（7・２０２1）",
+      "context": "",
+      "options": [
+        "伝記",
+        "伝言",
+        "転記",
+        "転勤"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「伝記」（でんき）nghĩa là tiểu sử, đọc không phải 「でんごん」.\r\n2. ĐÚNG. 伝言（でんごん - Truyền Ngôn - lời nhắn）là chữ Hán đúng cho 「でんごん」.\r\nCâu hoàn chỉnh:\r\n机の上に伝言（でんごん）のメモがあった。\r\nDịch nghĩa:\r\nTrên bàn có tờ ghi chú nhắn lại.\r\n3. SAI. 「転記」（てんき）nghĩa là sao chép/chuyển ghi, đọc không phải 「でんごん」.\r\n4. SAI. 「転勤」（てんきん）nghĩa là chuyển công tác, đọc không phải 「でんごん」."
+    }
+  ]
+}

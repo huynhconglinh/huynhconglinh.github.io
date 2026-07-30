@@ -1,0 +1,142 @@
+{
+  "id": "BJT-01-P3-S1",
+  "code": "BJT-01-P3-S1",
+  "title": "BJT 1 · Đọc hiểu · Section 1 (Điền từ)",
+  "track": "bjt",
+  "level": "BJT",
+  "topic": "reading",
+  "source": "riki/ビジネス日本語能力テスト1/第３部 読解テスト_セクション１.csv",
+  "questionCount": 10,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "Ａ社の売上高はＢ社の売上高の＿＿＿＿＿３分の１にすぎない。",
+      "context": "",
+      "options": [
+        "ごく",
+        "ただ",
+        "わずか",
+        "すこし"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. ごく（極 - Cực - cực kỳ/rất）.\n   - Lý do sai: ごく là phó từ dùng để nhấn mạnh mức độ cực kỳ nhỏ/ít, nhưng thường đi trực tiếp trước các tính từ hoặc danh từ chỉ phạm vi (như ごくわずか - cực kỳ ít, ごく一部 - chỉ một bộ phận rất nhỏ, ごく普通 - bình thường). Từ này không đứng độc lập để bổ nghĩa cho con số/phân số ３分の１ (một phần ba) trong ngữ cảnh này.\n   - Ví dụ: ごく一部の人（ごくいちぶのひと - Nhất Bộ Nhân - chỉ cực kỳ ít người/một bộ phận rất nhỏ）.\n\n2. SAI. ただ（Chỉ / Nhưng mà / Có điều là）.\n   - Lý do sai: Khi đóng vai trò phó từ, ただ mang nghĩa \"chỉ\" (đi với ～だけ hay ～にすぎない), nhưng ただ không tự thân biểu thị tính chất \"số lượng ít ỏi/chỉ vỏn vẹn\". Ngoài ra, ただ còn đóng vai trò là liên từ đứng đầu câu để tiếp nối ý trước và đưa ra thắc mắc/vấn đề bổ sung (\"Tuy nhiên / Có điều là...\"), do đó không phù hợp đặt trực tiếp trước phân số để nhấn mạnh độ ít ỏi.\n   - Ví dụ: 行きたいのは山々だ。ただ、時間がない。（いきたいのはやまやまだ。ただ、じかんがない - Sơn/Thời Gian - Tôi rất muốn đi. Có điều là không có thời gian.）\n\n3. ĐÚNG. わずか（僅か - Cận - vỏn vẹn/vỏn vẹn chỉ/ít ỏi）.\n   - Lý do đúng: わずか là phó từ diễn tả số lượng hay mức độ cực kỳ ít ỏi (\"chỉ vỏn vẹn\"). Cụm わずか + [Số lượng / Phân số] + にすぎない (chỉ vỏn vẹn...) là cách kết hợp hoàn hảo để nhấn mạnh con số đó là rất khiêm tốn hoặc nhỏ bé so với kỳ vọng.\nCâu hoàn chỉnh:\nＡ社の売上高はＢ社の売上高のわずか３分の１にすぎない。\nDịch nghĩa:\nDoanh thu của công ty A chỉ vỏn vẹn bằng một phần ba doanh thu của công ty B.\n   - Ví dụ: 残された時間はわずか５分だ。（のこされたじかんはわずかごふんだ - Tàn/Thời Gian/Phân - Thời gian còn lại chỉ vỏn vẹn 5 phút.）\n\n4. SAI. すこし（少し - Thiểu - một chút/một ít）.\n   - Lý do sai: すこし dùng để chỉ lượng/mức độ \"một ít/một chút\" mang tính trung lập, không dùng để bổ nghĩa nhấn mạnh trực tiếp cho phân số ３分の１ kết hợp với cấu trúc phủ định nhấn mạnh ～にすぎない (chỉ dừng lại ở/chỉ là...).\n   - Ví dụ: 少し休もう。（すこしやすもう - Hưu - Nghỉ ngơi một chút nào.）"
+    },
+    {
+      "question_id": 2,
+      "question": "会議中に＿＿＿＿＿、非常識にもほどがある。",
+      "context": "",
+      "options": [
+        "寝たら",
+        "寝ては",
+        "寝るとは",
+        "寝るなら"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 寝たら（ねたら - Tẩm - nếu ngủ/khi ngủ）.\n   - Lý do sai: 「たら」 biểu thị điều kiện/kết quả mang tính giả định hoặc riêng biệt đối với một tình huống cụ thể, không dùng để đưa một hành vi vừa diễn ra ra làm chủ đề để đánh giá/chỉ trích chung theo kiểu cảm thán.\n\n2. SAI. 寝ては（ねては - Tẩm - nếu cứ ngủ / hễ ngủ thì）.\n   - Lý do sai: 「ては」 thể hiện điều kiện dẫn đến kết quả tiêu cực (hễ làm X thì sẽ bị Y / nếu cứ làm X thì không được). Mẫu này đòi hỏi vế sau diễn tả hệ quả tiêu cực kéo theo, chứ không đi với câu cảm thán đánh giá bản chất hành vi như 「非常識にもほどがある」.\n\n3. ĐÚNG. 寝るとは（ねるとは - Tẩm - cái việc/hành động ngủ (thì thật là...)).\n   - Lý do đúng: Trợ từ 「とは」 dùng để nhấn mạnh, trích dẫn hoặc đưa một sự việc/hành vi bất ngờ, phi lý ra làm chủ đề để thể hiện sự ngạc nhiên, ngỡ ngàng, phê phán hoặc cảm thán của người nói. Cụm 「〜とは非常識にもほどがある」 nghĩa là \"Cái việc... thì thật là vô ý thức/thiếu lịch sự quá mức\".\nCâu hoàn chỉnh:\n会議中に寝るとは、非常識にもほどがある。\nDịch nghĩa:\nNgủ ngay trong cuộc họp thì đúng là vô ý thức quá mức rồi đấy!\n\n4. SAI. 寝るなら（ねるなら - Tẩm - nếu ngủ / nếu định ngủ）.\n   - Lý do sai: 「なら」 dùng cho điều kiện giả định (\"nếu định ngủ thì...\"), không phù hợp khi nói về một sự việc/hành vi thực tế đã hoặc đang xảy ra để chỉ trích."
+    },
+    {
+      "question_id": 3,
+      "question": "社員全員ががんばってくれた＿＿＿＿＿で、納期に間に合った。",
+      "context": "",
+      "options": [
+        "せい",
+        "おかげ",
+        "ごくろうさま",
+        "お世話さま"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. せい（せい - Thế - tại/do... mà thành ra tiêu cực）.\n   - Lý do sai: 「せい」 chỉ nguyên nhân/Lý do dẫn đến kết quả xấu, thất bại hoặc tai hoạ. Vế sau của câu là 「納期に間に合った」（kịp hạn giao hàng） là một kết quả tốt, tích cực nên không dùng 「せい」.\n   - Ví dụ: 雨のせいにして、遅刻した。（あめのせいにして、ちこくした - Vũ/Trì Khắc - Đổ lỗi tại mưa nên đã đến muộn）.\n\n2. ĐÚNG. おかげ（おかげ - Nhờ có/nhờ ơn...）.\n   - Lý do đúng: 「おかげ」 dùng để chỉ nguyên nhân/lý do mang lại kết quả tốt đẹp, sự ơn huệ hay lợi ích. Cấu trúc 「〜おかげで」 dịch là \"Nhờ có... mà...\".\nCâu hoàn chỉnh:\n社員全員ががんばってくれたおかげで、納期に間に合った。\nDịch nghĩa:\nNhờ toàn bộ nhân viên đã nỗ lực cố gắng, chúng tôi đã kịp hạn giao hàng.\n   - Ví dụ: 先生のおかげで、合格できました。（せんせいのおかげで、ごうかくできました - Tiên Sinh/Hợp Cách - Nhờ có thầy/cô mà em đã đỗ）.\n\n3. SAI. ごくろうさま（ご苦労様 - Khổ Lão Dạng - Cảm ơn anh/chị đã vất vả）.\n   - Lý do sai: 「ごくろうさま」 là câu chào/lời cảm ơn xã giao (thường cấp trên nói với cấp dưới khi hoàn thành công việc). Từ này không thể kết hợp trực tiếp sau động từ thể ngắn 「がんばってくれた」 để làm từ nối nguyên nhân-kết quả. Dạng ghép này bị sai ngữ pháp (非文).\n\n4. SAI. お世話さま（お世話様 - Thế Thoái - Cảm ơn đã giúp đỡ/vất vả rồi）.\n   - Lý do sai: Tương tự như 「ごくろうさま」, 「お世話さま」 là lời chào xã giao lịch sự, không thể ghép đằng sau động từ thể ngắn để diễn tả lý do/nguyên nhân. Dạng ghép này bị sai ngữ pháp (非文)."
+    },
+    {
+      "question_id": 4,
+      "question": "期間内に売り上げトップの成績をおさめた者には、社長賞が贈られる＿＿＿＿＿。",
+      "context": "",
+      "options": [
+        "ことである",
+        "ことができる",
+        "ことにしている",
+        "ことになっている"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. ことである（ことである - Sự/Việc - là việc...）.\n   - Lý do sai: 「〜ことである」 dùng để định nghĩa, giải thích bản chất của sự việc hoặc đưa ra lời khuyên/mệnh lệnh gián tiếp (phải/nên làm X). Cấu trúc này không phù hợp để chỉ một quy định, quy tắc mang tính hệ thống của tập thể/công ty.\n\n2. SAI. ことができる（ことができる - Sự/Việc - có thể...）.\n   - Lý do sai: 「〜ことができる」 diễn tả khả năng. Nếu dùng chủ ngữ chỉ vật/sự việc nhận giải như 「社長賞が贈られる」（Bằng khen của giám đốc được trao） thì ghép với 「ことができる」 thành 「贈られることができる」 là sai ngữ pháp (bị lặp thể khả năng/thụ động). Nếu muốn dùng thì phải chuyển sang thể chủ động: 「社長賞を贈ることができる」.\n\n3. SAI. ことにしている（ことにしている - Sự/Việc - quyết định làm...）.\n   - Lý do sai: 「〜ことにしている」 diễn tả thói quen hoặc quyết định cá nhân của bản thân người nói (chủ ngữ phải là con người). Để nói về quy định chung của công ty, nếu dùng cấu trúc này thì phải ở dạng chủ động: 「社長賞を贈ることにしている」.\n\n4. ĐÚNG. ことになっている（ことになっている - Sự/Việc - được quy định là/theo kế hoạch là...）.\n   - Lý do đúng: 「〜ことになっている」 diễn tả một quy định, luật lệ, tập quán hoặc kế hoạch đã được tập thể/đơn vị thống nhất và quyết định từ trước.\nCâu hoàn chỉnh:\n期間内に売り上げトップの成績をおさめた者には、社長賞が贈られることになっている。\nDịch nghĩa:\nNhững ai đạt thành tích doanh số đứng đầu trong thời hạn quy định sẽ được trao bằng khen của giám đốc (theo quy định)."
+    },
+    {
+      "question_id": 5,
+      "question": "原発停止で、最近、国内の原油価格が高騰のきざしが＿＿＿＿＿。",
+      "context": "",
+      "options": [
+        "さす",
+        "出る",
+        "起こる",
+        "みられる"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. さす（指す/刺す/差す - Chỉ/Thích/Sai - chỉ/đâm/chiếu...）.\n   - Lý do sai: Động từ 「さす」 diễn tả hành động cụ thể (như giơ tay chỉ, che ô, ánh sáng chiếu), không đi cùng cụm 「きざしが」（兆し - Triệu - điềm báo/dấu hiệu） để diễn tả sự xuất hiện/nhận biết một trạng thái.\n\n2. SAI. 出る（でる - Xuất - ra/xuất hiện）.\n   - Lý do sai: 「出る」 diễn tả hành động/sự việc cụ thể đi ra ngoài hoặc xuất hiện trực quan (như mồ hôi ra, nước ra), không kết hợp thành collocation chuẩn với 「きざしが」 trong ngữ cảnh kinh tế/chỉ số này.\n\n3. SAI. 起こる（おこる - Khởi - xảy ra/phát sinh）.\n   - Lý do sai: 「起こる」 diễn tả một hành động, hiện tượng hay sự cố cụ thể phát sinh/xảy ra (như động đất, tai nạn), không dùng để đi kèm với từ chỉ khái niệm nhận thức/dấu hiệu như 「きざしが」.\n\n4. ĐÚNG. みられる（見られる - Kiến - được nhìn thấy/được ghi nhận）.\n   - Lý do đúng: Từ 「きざし」（兆し - Triệu - dấu hiệu/triệu chứng） biểu thị một trạng thái/sự biến đổi đang chớm xuất hiện. Nó thường kết hợp với các động từ chỉ cảm giác, nhận thức hay sự tồn tại/quan sát như 「みられる」（được nhìn thấy/được ghi nhận） hoặc 「ある/感じられる」. Cụm 「高騰のきざしがみられる」 nghĩa là \"ghi nhận/bắt gặp dấu hiệu tăng vọt\".\nCâu hoàn chỉnh:\n原発停止で、最近、国内の原油価格が高騰のきざしがみられる。\nDịch nghĩa:\nDo việc dừng hoạt động hạt nhân, gần đây người ta nhận thấy/ghi nhận dấu hiệu giá dầu trong nước tăng vọt."
+    },
+    {
+      "question_id": 6,
+      "question": "東京に転勤するまで、通勤がこんなに大変だとは思いも＿＿＿＿＿。",
+      "context": "",
+      "options": [
+        "よりませんでした",
+        "ありあせんでした",
+        "かかりませんでした",
+        "のこりませんでした"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. よりませんでした（思いもよらない - Tư/Tưởng - hoàn toàn không ngờ tới/không hề nghĩ đến）.\n   - Lý do đúng: 「思いもよらない」（hoặc dạng quá khứ lịch sự 「思いもよりませんでした」） là một thành ngữ/cụm từ cố định (collocation) cực kỳ phổ biến trong tiếng Nhật, mang nghĩa là \"không thể ngờ tới\", \"hoàn toàn nằm ngoài tưởng tượng\".\nCâu hoàn chỉnh:\n東京に転勤するまで、通勤がこんなに大変だとは思いもよりませんでした。\nDịch nghĩa:\nCho đến trước khi chuyển công tác đến Tokyo, tôi hoàn toàn không ngờ rằng việc đi làm lại vất vả đến mức này.\n\n2. SAI. ありませんでした（ありませんでした - Không có）.\n   - Lý do sai: Không có cụm từ 「思いもありあせん」 trong tiếng Nhật.\n\n3. SAI. かかりませんでした（掛かりませんでした - Quải - không tốn/không mất）.\n   - Lý do sai: 「思いがかかる」 không cấu thành một cụm từ có nghĩa chuẩn xác để biểu thị sự bất ngờ/không ngờ tới.\n\n4. SAI. のこりませんでした（残りませんでした - Tàn - không còn lại）.\n   - Lý do sai: 「思いが残る」 mang nghĩa là \"còn luyến tiếc/vẫn chưa nguôi\", không kết hợp với 「思いも〜ない」 để diễn tả sự ngoài dự đoán/không ngờ tới."
+    },
+    {
+      "question_id": 7,
+      "question": "住民運動の反対を押しきって＿＿＿＿＿、工場建設をすすめるのはいかがなものかと思います。",
+      "context": "",
+      "options": [
+        "こそ",
+        "のみ",
+        "だけ",
+        "まで"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. こそ（こそ - Chính/Chính vì）.\n   - Lý do sai: 「こそ」 là trợ từ nhấn mạnh đối tượng hoặc nguyên nhân đặc biệt (\"chính là X\", \"chính vì X\"). Từ này không dùng để diễn tả cảm xúc ngạc nhiên, phẫn nộ hay bất bình trước một mức độ/hành động thái quá nào đó.\n\n2. SAI. のみ（のみ - Chỉ/Chỉ riêng）.\n   - Lý do sai: 「のみ」 dùng để giới hạn phạm vi (\"chỉ duy nhất X\", văn viết của 「だけ」). Từ này chỉ mang tính liệt kê/giới hạn trung lập, không thể hiện cảm xúc hay mức độ đi quá đà của hành động.\n\n3. SAI. だけ（だけ - Chỉ/Chỉ có）.\n   - Lý do sai: 「だけ」 dùng để giới hạn số lượng hay phạm vi (\"chỉ\"). Tương tự như 「のみ」, từ này không mang sắc thái cảm xúc nhấn mạnh mức độ liều lĩnh hay bất chấp của hành vi.\n\n4. ĐÚNG. まで（まで - Đến cả / Đến mức）.\n   - Lý do đúng: 「まで」 khi đi cùng với dạng tiếp diễn của động từ (hoặc thể て) như 「押しきってまで」 có nghĩa là \"đến mức phải... / bất chấp đến mức...\". Cấu trúc 「V-てまで」 diễn tả việc thực hiện một hành động cực đoan, thái quá (đi xa đến mức đó) để đạt được mục đích, qua đó thể hiện sự ngạc nhiên, phê phán hoặc nghi vấn của người nói.\nCâu hoàn chỉnh:\n住民運動の反対を押しきってまで、工場建設をすすめるのはいかがなものかと思います。\nDịch nghĩa:\nTôi nghĩ rằng việc xúc tiến xây dựng nhà máy mà bất chấp/đẩy lui cả sự phản đối của phong trào dân cư đến mức đó thì thật là không ổn chút nào."
+    },
+    {
+      "question_id": 8,
+      "question": "そのような重箱の隅を＿＿＿＿＿ようなことをすれば、部下に嫌われる。",
+      "context": "",
+      "options": [
+        "さぐる",
+        "たたく",
+        "つつく",
+        "なめる"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. さぐる（探る - Thám - dò tìm/sờ soạng/dò hỏi）.\n   - Lý do sai: 「探る」 mang nghĩa là tìm kiếm điều gì đó bị ẩn giấu (như dò hỏi tâm tư, sờ túi tìm chìa khóa). Không ghép với 「重箱の隅」 để tạo thành quán ngữ.\n\n2. SAI. たたく（叩く - Khấu - đập/gõ/đánh）.\n   - Lý do sai: 「叩く」 mang nghĩa là đập, gõ hay chỉ trích gay gắt. Từ này không đi cùng cụm 「重箱の隅」.\n\n3. ĐÚNG. つつく（突く - Đột - chọc/bới/săm soi）.\n   - Lý do đúng: 「重箱の隅をつつく」（hoặc 「重箱の隅をほじくる」） là một thành ngữ/quán ngữ (慣用表現) rất cố định trong tiếng Nhật, mang nghĩa là \"bới lông tìm vết\", \"săm soi/soi mói những chi tiết nhỏ nhặt không đáng có\".\nCâu hoàn chỉnh:\nそのような重箱の隅をつつくようなことをすれば、部下に嫌われる。\nDịch nghĩa:\nNếu cứ bới lông tìm vết/săm soi những chuyện nhỏ nhặt như thế thì sẽ bị cấp dưới ghét đấy.\n\n4. SAI. なめる（舐める - Thẩm - liếm/coi thường）.\n   - Lý do sai: 「舐める」 có nghĩa là liếm hoặc xem thường ai đó, không nằm trong quán ngữ chuẩn với 「重箱の隅」."
+    },
+    {
+      "question_id": 9,
+      "question": "受注工事のかなり部分が架空であり、売り上げや利益を水増しする＿＿＿＿＿ものであった。",
+      "context": "",
+      "options": [
+        "ための",
+        "ほどの",
+        "ことの",
+        "あまりの"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. ための（ための - Để/Nhằm mục đích）.\n   - Lý do đúng: 「〜ための」 diễn tả mục đích, lý do hay động cơ của hành động. Cụm 「水増しする（ための）もの」 diễn tả việc tạo ra các hợp đồng khống là \"nhằm mục đích/để\" thổi phồng doanh số và lợi nhuận.\nCâu hoàn chỉnh:\n受注工事ののかなりの部分が架空であり、売り上げや利益を水増しするためのものであった。\nDịch nghĩa:\nPhần lớn các công trình nhận được đều là khống, nhằm mục đích thổi phồng doanh thu và lợi nhuận.\n\n2. SAI. ほどの（ほどの - Độ - đến mức/khoảng）.\n   - Lý do sai: 「ほどの」 biểu thị mức độ hay sự so sánh ước lượng (\"đến mức...\", \"khoảng...\"), không thể hiện mục đích hay quan hệ nguyên nhân - mục tiêu như trong câu.\n\n3. SAI. ことの（ことの - Sự/Việc - của việc...）.\n   - Lý do sai: 「ことの」 không tạo thành cấu trúc ngữ pháp đúng để nối động từ nguyên mẫu 「水増しする」 với danh từ 「もの」 nhằm thể hiện mục đích.\n\n4. SAI. あまりの（あまりの - Dư - vì quá... nên）.\n   - Lý do sai: 「〜あまりの」 thường đi với danh từ chỉ cảm xúc/trạng thái cực đoan để diễn tả nguyên nhân dẫn đến kết quả ngoài ý muốn (\"vì quá... nên\"). Đứng trước 「あまりの」 phải là danh từ chứ không đi trực tiếp sau động từ thể nguyên mẫu 「水増しする」."
+    },
+    {
+      "question_id": 10,
+      "question": "社内全域において、そのうわさで＿＿＿＿＿だ。",
+      "context": "",
+      "options": [
+        "いいきり",
+        "もちきり",
+        "かしきり",
+        "しめきり"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. いいきり（言い切り - Ngôn Thiết - sự khẳng định/tuyên bố chắc chắn）.\n   - Lý do sai: 「言い切り」 là sự khẳng định dứt khoát. Cụm 「うわさで言い切り」 không có nghĩa và sai cách dùng ngữ pháp.\n\n2. ĐÚNG. もちきり（持ちきり - Trì - bàn tán xôn xao/chủ đề duy nhất）.\n   - Lý do đúng: 「〜でもちきりだ」 là một quán ngữ (慣用表現) cố định, diễn tả trạng thái một chủ đề/tin đồn đang là đề tài duy nhất được tất cả mọi người xôn xao bàn tán trong một thời gian. Các cụm phổ biến: 「うわさでもちきり」(xôn xao tin đồn), 「話でもちきり」(mọi câu chuyện đều xoay quanh...).\nCâu hoàn chỉnh:\n社内全域において、そのうわさでもちきりだ。\nDịch nghĩa:\nTrong toàn bộ công ty, mọi người đang xôn xao bàn tán về tin đồn đó.\n\n3. SAI. かしきり（貸し切り - Thải Thiết - bao trọn/bao phòng/thuê trọn gói）.\n   - Lý do sai: 「貸し切り」 liên quan đến việc thuê trọn gói dịch vụ/xe cộ/nhà hàng (ví dụ: 「貸し切りバス」 - xe bus thuê riêng), không đi với 「うわさで」.\n\n4. SAI. しめきり（締め切り - Đế Thiết - hạn chót/hạn cuối）.\n   - Lý do sai: 「締め切り」 nghĩa là hạn chót nộp hồ sơ/bài thi, không phù hợp ngữ cảnh tin đồn trong công ty."
+    }
+  ]
+}

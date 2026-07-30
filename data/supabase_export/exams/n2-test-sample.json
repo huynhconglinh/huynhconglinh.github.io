@@ -1,0 +1,35 @@
+{
+  "id": "n2-test-sample",
+  "code": "n2-test-sample",
+  "title": "N2 Test Sample",
+  "category": "vocabulary_grammar",
+  "questionCount": 2,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "昨日デパート___買い物をしました。",
+      "context": "",
+      "options": [
+        "で",
+        "に",
+        "を",
+        "が"
+      ],
+      "correct_answer": 1,
+      "explanation": "デパート là địa điểm xảy ra hành động 買い物 nên dùng trợ từ で。"
+    },
+    {
+      "question_id": 2,
+      "question": "漢字が難しくて、全然___。",
+      "context": "",
+      "options": [
+        "読めません",
+        "読みます",
+        "読めます",
+        "読む"
+      ],
+      "correct_answer": 1,
+      "explanation": "全然 đi với thể phủ định."
+    }
+  ]
+}

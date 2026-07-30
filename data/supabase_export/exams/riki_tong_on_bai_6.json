@@ -1,0 +1,321 @@
+{
+  "id": "riki_tong_on_bai_6",
+  "code": "riki_tong_on_bai_6",
+  "title": "Tổng ôn Ngữ pháp 3 - N3",
+  "category": "vocabulary_grammar",
+  "questionCount": 24,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "もう二度とあいつに電話(   ) するものか。",
+      "context": "",
+      "options": [
+        "だけ",
+        "なら",
+        "かぎり",
+        "なんか"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「電話だけするものか」: không phải cấu trúc thể hiện sự từ chối/khinh thường.\r\n2. SAI. 「電話ならするものか」: không phù hợp.\r\n3. SAI. 「電話かぎりするものか」: không phải cấu trúc ngữ pháp đúng.\r\n4. ĐÚNG. 「なんか」: dùng để biểu thị sự khinh thường/coi thường đối tượng. 「電話なんかするものか」 = Nhất định sẽ không thèm gọi điện cho tên đó.\r\nCâu hoàn chỉnh:\r\nもう二度とあいつに電話なんかするものか。\r\nDịch nghĩa:\r\nTôi nhất định sẽ không bao giờ thèm gọi điện cho tên đó nữa."
+    },
+    {
+      "question_id": 2,
+      "question": "どうか明日、雨が(   )。",
+      "context": "",
+      "options": [
+        "降るな",
+        "降りそうだ",
+        "降らないかなあ",
+        "降りませんように"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「降るな」: mệnh lệnh phủ định (đừng mưa!), cứng nhắc và thô lỗ, không có từ 「どうか」.\r\n2. SAI. 「降りそうだ」: dự đoán (có vẻ sẽ mưa), không phải cầu mong.\r\n3. SAI. 「降らないかなあ」: mang sắc thái mong mỏi một mình, nhưng 「どうか」 thường đi với cầu nguyện/khẩn cầu trang trọng hơn.\r\n4. ĐÚNG. 「～ませんように」: cấu trúc cầu mong/nguyện cầu lịch sự (mong sao... đừng xảy ra). Kết hợp với 「どうか」 (xin/kính mong) tạo thành cấu mong thiết tha.\r\nCâu hoàn chỉnh:\r\nどうか明日、雨が降りませんように。\r\nDịch nghĩa:\r\nMong sao ngày mai đừng mưa."
+    },
+    {
+      "question_id": 3,
+      "question": "うちの子は毎日同じ服(   ) 着たがる。",
+      "context": "",
+      "options": [
+        "でも",
+        "のみ",
+        "なんか",
+        "ばかり"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「服でも着たがる」: 「でも」 ở đây sẽ mang nghĩa \"hay là cái gì đó như quần áo\", không phù hợp.\r\n2. SAI. 「服のみ着たがる」: 「のみ」 là từ hạn định nghĩa văn viết trang trọng, không tự nhiên trong ngữ cảnh nói về trẻ em.\r\n3. SAI. 「服なんか着たがる」: 「なんか」 mang sắc thái khinh thường, không phù hợp.\r\n4. ĐÚNG. 「ばかり」: diễn tả chỉ làm mỗi một điều đó liên tục, mang hàm ý không hài lòng của cha mẹ. 「同じ服ばかり着たがる」 = cứ đòi mặc mỗi bộ quần áo đó.\r\nCâu hoàn chỉnh:\r\nうちの子は毎日同じ服ばかり着たがる。\r\nDịch nghĩa:\r\nCon tôi ngày nào cũng chỉ đòi mặc mỗi bộ quần áo đó."
+    },
+    {
+      "question_id": 4,
+      "question": "問題はすべて解決しました。もう何も心配する(   )。",
+      "context": "",
+      "options": [
+        "ことはありません",
+        "わけはありません",
+        "ことではありません",
+        "わけにはいきません"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「ことはありません」: cấu trúc diễn tả \"không cần phải/không nhất thiết phải...\". Phù hợp khi nói mọi vấn đề đã giải quyết xong, không cần lo nữa.\r\nCâu hoàn chỉnh:\r\n問題はすべて解決しました。もう何も心配することはありません。\r\nDịch nghĩa:\r\nMọi vấn đề đã được giải quyết hết rồi. Giờ không cần phải lo lắng gì nữa.\r\n2. SAI. 「わけはありません」: diễn tả \"không thể nào là...\" (phủ định logic), không phù hợp.\r\n3. SAI. 「ことではありません」: không phải cấu trúc ngữ pháp phù hợp.\r\n4. SAI. 「わけにはいきません」: diễn tả \"không thể không làm/không được phép không làm...\" (nghĩa ngược lại)."
+    },
+    {
+      "question_id": 5,
+      "question": "この事件(    ) 情報をお持ちの方は、警察にご連絡ください。",
+      "context": "",
+      "options": [
+        "における",
+        "に応じた",
+        "に関する",
+        "に際して"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「における」: diễn tả địa điểm/lĩnh vực (\"tại/trong...\"), không phù hợp để nói về thông tin liên quan đến vụ án.\r\n2. SAI. 「に応じた情報」: nghĩa là thông tin tương ứng với/đáp ứng..., không phù hợp.\r\n3. ĐÚNG. 「に関する」: diễn tả \"liên quan đến/về...\". 「この事件に関する情報」 = thông tin liên quan đến vụ án này.\r\nCâu hoàn chỉnh:\r\nこの事件に関する情報をお持ちの方は、警察にご連絡ください。\r\nDịch nghĩa:\r\nQuý vị nào có thông tin liên quan đến vụ án này, xin hãy liên lạc với cảnh sát.\r\n4. SAI. 「に際して」: diễn tả \"nhân dịp/khi...\", không phù hợp."
+    },
+    {
+      "question_id": 6,
+      "question": "A:コンビニに行ってくる。 B: それなら(   ) 飲み物を買ってきて。",
+      "context": "",
+      "options": [
+        "かわりに",
+        "ついでに",
+        "ところで",
+        "おかげで"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「かわりに」（thay vào đó/bù lại）: không phù hợp ngữ cảnh nhờ vả nhân tiện.\r\n2. ĐÚNG. 「ついでに」: diễn tả \"nhân tiện đang làm việc kia thì làm luôn việc này\". Nhân tiện đang đi cửa hàng tiện lợi thì mua đồ uống giúp.\r\nCâu hoàn chỉnh:\r\nA: コンビニに行ってくる。B: それならついでに飲み物を買ってきて。\r\nDịch nghĩa:\r\nA: Tôi đi cửa hàng tiện lợi. B: Vậy thì nhân tiện mua đồ uống về giúp mình nhé.\r\n3. SAI. 「ところで」（nhân tiện/chuyển chủ đề）: dùng để mở đầu chủ đề mới, không phù hợp.\r\n4. SAI. 「おかげで」（nhờ/nhờ ơn）: không phù hợp."
+    },
+    {
+      "question_id": 7,
+      "question": "みんなの前で転んでしまい、その場から (   )くらい恥ずかしかった。",
+      "context": "",
+      "options": [
+        "逃げない",
+        "逃げ切る",
+        "逃げ出したい",
+        "逃げたがる"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「逃げないくらい恥ずかしかった」: ngữ nghĩa không hợp lý (xấu hổ đến mức không trốn?).\r\n2. SAI. 「逃げ切るくらい恥ずかしかった」: không hợp lý.\r\n3. ĐÚNG. 「逃げ出したいくらい」: cấu trúc 「～たいくらい」 diễn tả \"xấu hổ đến mức muốn bỏ chạy\". Diễn tả mức độ cực độ của cảm xúc.\r\nCâu hoàn chỉnh:\r\nみんなの前で転んでしまい、その場から逃げ出したいくらい恥ずかしかった。\r\nDịch nghĩa:\r\nBị ngã trước mặt mọi người, tôi xấu hổ đến mức muốn chạy trốn khỏi đó.\r\n4. SAI. 「逃げたがるくらい恥ずかしかった」: 「たがる」 là hành vi của người khác, không dùng cho bản thân."
+    },
+    {
+      "question_id": 8,
+      "question": "窓を開け (   )寝ていたら、部屋の中に虫が入ってきた。",
+      "context": "",
+      "options": [
+        "しだい",
+        "ながら",
+        "っぱなしで",
+        "ようとして"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「開けしだい」: 「しだい」 ở đây không phải cấu trúc phù hợp (「次第」 sau động từ thể ます nghĩa là ngay khi...).\r\n2. SAI. 「開けながら寝ていた」: \"vừa mở cửa sổ vừa ngủ\" không hợp lý (không thể làm hai việc cùng lúc như vậy).\r\n3. ĐÚNG. 「開けっぱなしで」: cấu trúc 「Vっぱなし」 diễn tả trạng thái để nguyên/bỏ mặc (mở cửa rồi để mặc không đóng).\r\nCâu hoàn chỉnh:\r\n窓を開けっぱなしで寝ていたら、部屋の中に虫が入ってきた。\r\nDịch nghĩa:\r\nNgủ mà để cửa sổ mở toang nên côn trùng chui vào phòng.\r\n4. SAI. 「開けようとして寝ていた」: \"đang cố mở cửa mà ngủ\" không hợp lý."
+    },
+    {
+      "question_id": 9,
+      "question": "パソコンの調子が悪い (  )、仕事がなかなか進まない。",
+      "context": "",
+      "options": [
+        "ところ",
+        "せいで",
+        "かわりに",
+        "ばかりで"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「ところ」: diễn tả tình huống/thời điểm, không phải nguyên nhân trực tiếp.\r\n2. ĐÚNG. 「せいで」: diễn tả nguyên nhân tiêu cực, đổ lỗi cho điều gì đó. Máy tính hỏng là nguyên nhân gây cản trở công việc.\r\nCâu hoàn chỉnh:\r\nパソコンの調子が悪いせいで、仕事がなかなか進まない。\r\nDịch nghĩa:\r\nVì máy tính trục trặc nên công việc mãi không tiến được.\r\n3. SAI. 「かわりに」（thay vào đó）: không phải nguyên nhân.\r\n4. SAI. 「ばかりで」: diễn tả chỉ mỗi việc đó xảy ra, không phải nguyên nhân-kết quả."
+    },
+    {
+      "question_id": 10,
+      "question": "古くてきず(   )だが、私はこのかばんが気に入っている。",
+      "context": "",
+      "options": [
+        "がち",
+        "ぎみ",
+        "だけ",
+        "だらけ"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「きずがち」: 「がち」 diễn tả xu hướng thường xảy ra (hay..., dễ...), không phù hợp cho trạng thái bề mặt đồ vật.\r\n2. SAI. 「きずぎみ」: 「ぎみ」 diễn tả xu hướng nhẹ (hơi có dấu hiệu...), không phù hợp.\r\n3. SAI. 「きずだけ」: chỉ có vết xước, không diễn tả đầy/nhiều.\r\n4. ĐÚNG. 「だらけ」: diễn tả đầy rẫy/khắp nơi. 「きずだらけ」 = đầy vết xước.\r\nCâu hoàn chỉnh:\r\n古くてきずだらけだが、私はこのかばんが気に入っている。\r\nDịch nghĩa:\r\nDù cũ và đầy vết xước nhưng tôi rất thích cái túi này."
+    },
+    {
+      "question_id": 11,
+      "question": "このゴミ箱には、燃えるゴミ以外の物は捨てない(   )。",
+      "context": "",
+      "options": [
+        "ことに",
+        "ものに",
+        "ように",
+        "わけに"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「～ことにする」→ ở đây dạng rút gọn thành quy định: 「捨てないこと」 là cách viết quy định/chỉ thị ngắn gọn (không được vứt bỏ).\r\nCâu hoàn chỉnh:\r\nこのゴミ箱には、燃えるゴミ以外の物は捨てないこと。\r\nDịch nghĩa:\r\nThùng rác này chỉ dùng cho rác có thể đốt, không được vứt các loại rác khác.\r\n2. SAI. 「ものに」: không phải cấu trúc phù hợp.\r\n3. SAI. 「ように」: diễn tả mục đích/mong muốn, không dùng cho quy định ngắn gọn.\r\n4. SAI. 「わけに」: không phải cấu trúc phù hợp."
+    },
+    {
+      "question_id": 12,
+      "question": "誰が何と (   )、うちの犬が一番かわいい。",
+      "context": "",
+      "options": [
+        "言うと",
+        "言ったら",
+        "言っても",
+        "言うなら"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「誰が何と言うと」: điều kiện giả định, không phù hợp với ý \"dù ai nói gì\".\r\n2. SAI. 「誰が何と言ったら」: điều kiện, không phải nhượng bộ.\r\n3. ĐÚNG. 「～ても」: cấu trúc nhượng bộ \"dù... đi nữa\". 「誰が何と言っても」 = dù ai nói gì đi nữa.\r\nCâu hoàn chỉnh:\r\n誰が何と言っても、うちの犬が一番かわいい。\r\nDịch nghĩa:\r\nDù ai nói gì đi nữa, con chó của nhà tôi vẫn là đáng yêu nhất.\r\n4. SAI. 「誰が何と言うなら」: điều kiện giả định, không phù hợp."
+    },
+    {
+      "question_id": 13,
+      "question": "前の車が急に止まったから、急いでブレーキを踏んだ。もう少しで(   )だった。",
+      "context": "",
+      "options": [
+        "ぶつかるよう",
+        "ぶつかったよう",
+        "ぶつかるところ",
+        "ぶつかったところ"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「ぶつかるようだった」: diễn tả ấn tượng/nhận định, không diễn tả \"suýt xảy ra\".\r\n2. SAI. 「ぶつかったようだった」: không phù hợp ngữ pháp cho tình huống này.\r\n3. ĐÚNG. 「もう少しでVるところだった」: cấu trúc diễn tả \"suýt nữa thì đã...\". Dùng dạng hiện tại của động từ trước 「ところだった」.\r\nCâu hoàn chỉnh:\r\n前の車が急に止まったから、急いでブレーキを踏んだ。もう少しでぶつかるところだった。\r\nDịch nghĩa:\r\nXe phía trước đột ngột dừng lại nên tôi vội đạp phanh. Suýt nữa là đâm vào rồi.\r\n4. SAI. 「ぶつかったところだった」: dùng dạng quá khứ trước 「ところだった」 diễn tả \"vừa mới làm xong\", không phải \"suýt làm\"."
+    },
+    {
+      "question_id": 14,
+      "question": "昨日のカラオケ、松本先輩が来ていたのなら、私も行けば(    )。",
+      "context": "",
+      "options": [
+        "いいのに",
+        "よかった",
+        "いいだろう",
+        "よかっただろう"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「行けばいいのに」: diễn tả lời khuyên/phàn nàn ở hiện tại, không phù hợp với việc đã qua.\r\n2. ĐÚNG. 「行けばよかった」: cấu trúc diễn tả nuối tiếc về điều đã không làm trong quá khứ (phải chi đã đi thì tốt rồi).\r\nCâu hoàn chỉnh:\r\n昨日のカラオケ、松本先輩が来ていたのなら、私も行けばよかった。\r\nDịch nghĩa:\r\nNếu biết anh/chị Matsumoto cũng đến buổi karaoke hôm qua thì đáng lẽ tôi cũng đi rồi.\r\n3. SAI. 「行けばいいだろう」: diễn tả suy đoán ở tương lai, không phù hợp.\r\n4. SAI. 「行けばよかっただろう」: không phải cấu trúc ngữ pháp chuẩn cho nuối tiếc."
+    },
+    {
+      "question_id": 15,
+      "question": "そのボランティアに参加したのは学生(   )ではなく、社会人も大勢いた。",
+      "context": "",
+      "options": [
+        "だらけ",
+        "っきり",
+        "ばかり",
+        "だけしか"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「学生だらけ」（đầy học sinh）: mang sắc thái tiêu cực \"đầy rẫy\", không phù hợp.\r\n2. SAI. 「学生っきり」: không phải cấu trúc ngữ pháp chuẩn.\r\n3. ĐÚNG. 「ばかりではなく」: cấu trúc \"không chỉ... mà còn...\". 「学生ばかりではなく、社会人も」 = không chỉ học sinh mà cả người đi làm cũng...\r\nCâu hoàn chỉnh:\r\nそのボランティアに参加したのは学生ばかりではなく、社会人も大勢いた。\r\nDịch nghĩa:\r\nKhông chỉ học sinh mà còn có nhiều người đi làm cũng tham gia hoạt động tình nguyện đó.\r\n4. SAI. 「学生だけしか～ない」: cấu trúc chỉ mỗi học sinh (có hàm ý hạn chế), không phù hợp vì cần kết hợp với phủ định."
+    },
+    {
+      "question_id": 16,
+      "question": "働いてお金をもらう ____ ____ __★__ ____ ではないのだ。",
+      "context": "",
+      "options": [
+        "簡単なこと",
+        "のは",
+        "楽で",
+        "という"
+      ],
+      "correct_answer": 1,
+      "explanation": "Thứ tự đúng: 働いてお金をもらう → のは → 楽で → 簡単なこと（★）→ という → ではないのだ\r\n1. ĐÚNG. Từ nằm ở vị trí ★ là 「簡単なこと」.\r\nCâu hoàn chỉnh:\r\n働いてお金をもらうのは楽で簡単なことではないのだ。\r\nDịch nghĩa:\r\nViệc đi làm và nhận tiền không phải là điều dễ dàng và thoải mái đâu.\r\nGiải thích: 「のは」 danh từ hóa mệnh đề. 「楽で簡単なこと」 = điều dễ dàng và thoải mái."
+    },
+    {
+      "question_id": 17,
+      "question": "電話が ____ ____ __★__ ____ 間違っているということになる。",
+      "context": "",
+      "options": [
+        "この番号は",
+        "とすれば",
+        "ぜんぜん",
+        "かからない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Thứ tự đúng: 電話が → ぜんぜん → かからない（★）→ とすれば → この番号は → 間違っている\r\n4. ĐÚNG. Từ nằm ở vị trí ★ là 「かからない」.\r\nCâu hoàn chỉnh:\r\n電話がぜんぜんかからないとすれば、この番号は間違っているということになる。\r\nDịch nghĩa:\r\nNếu không gọi được điện thoại chút nào thì có nghĩa là số này đã bị nhầm rồi.\r\nGiải thích: 「とすれば」 = nếu giả sử. 「ということになる」 = điều đó có nghĩa là..."
+    },
+    {
+      "question_id": 18,
+      "question": "新宿に____ ____ __★__ ____今度利用してみるつもりだ。",
+      "context": "",
+      "options": [
+        "便利だ",
+        "ある",
+        "バスターミナルは",
+        "そうで"
+      ],
+      "correct_answer": 1,
+      "explanation": "Thứ tự đúng: 新宿に → ある → バスターミナルは → 便利だ（★）→ そうで → 今度利用してみるつもりだ\r\n1. ĐÚNG. Từ nằm ở vị trí ★ là 「便利だ」.\r\nCâu hoàn chỉnh:\r\n新宿にあるバスターミナルは便利だそうで、今度利用してみるつもりだ。\r\nDịch nghĩa:\r\nNghe nói bến xe ở Shinjuku rất tiện lợi nên lần này tôi định thử sử dụng.\r\nGiải thích: 「～そうで」 = nghe nói... 「利用してみる」 = thử sử dụng."
+    },
+    {
+      "question_id": 19,
+      "question": "この ____ ____ __★__ ____ 道が二つに分かれている。",
+      "context": "",
+      "options": [
+        "200 メートルほど",
+        "ところで",
+        "先を",
+        "行った"
+      ],
+      "correct_answer": 4,
+      "explanation": "Thứ tự đúng: この → 先を → 200メートルほど → 行った（★）→ ところで → 道が二つに分かれている\r\n4. ĐÚNG. Từ nằm ở vị trí ★ là 「行った」.\r\nCâu hoàn chỉnh:\r\nこの先を200メートルほど行ったところで道が二つに分かれている。\r\nDịch nghĩa:\r\nĐi thêm khoảng 200 mét từ đây thì đường sẽ chia làm hai.\r\nGiải thích: 「Vたところで」 = khi vừa làm xong/tại điểm đó."
+    },
+    {
+      "question_id": 20,
+      "question": "杉本さんは、はじめて ____ ____ __★__ ____ なれる。",
+      "context": "",
+      "options": [
+        "でも",
+        "すぐに",
+        "会った人と",
+        "友だちに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: 杉本さんは → はじめて → 会った人と → でも → すぐに（★）→ 友だちに → なれる\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「すぐに」.\r\nCâu hoàn chỉnh:\r\n杉本さんは、はじめて会った人とでもすぐに友だちになれる。\r\nDịch nghĩa:\r\nAnh/chị Sugimoto có thể kết bạn ngay cả với người mới gặp lần đầu.\r\nGiải thích: 「～とでも」 = ngay cả với... 「すぐに」 = ngay lập tức."
+    },
+    {
+      "question_id": 21,
+      "question": "Điền vào chỗ trống (21) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "背が低かった",
+        "首が短かった",
+        "やせていた",
+        "太っていた"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch đoạn văn:\r\nBố tôi\r\nBố tôi béo và có khuôn mặt tròn. Hơn nữa, vì không cao lắm nên cổ cũng trông ngắn. Một lần nhân sinh nhật bố, tôi đã tặng quần áo, nhưng tìm được quần áo vừa với vóc dáng của bố thật sự rất khó. Nhưng hôm trước, khi nhìn thấy ảnh bố lúc còn trẻ, tôi đã rất ngạc nhiên. Bố trong ảnh hoàn toàn khác bây giờ, (21). (22), chỉ có khuôn mặt tròn là giống bây giờ.\r\n\r\n1. SAI. 「背が低かった」（thấp lùn）: bố hiện tại đã không cao, nên hồi trẻ cũng thấp thì không khác là mấy.\r\n2. SAI. 「首が短かった」（cổ ngắn）: bố hiện tại đã có cổ ngắn, không tạo ra sự tương phản.\r\n3. ĐÚNG. 「やせていた」（gầy）: ngược với bố hiện tại đang béo, tạo ra sự tương phản bất ngờ.\r\nCâu hoàn chỉnh:\r\n写真の父は今とは全然違って、やせていたのです。\r\nDịch nghĩa:\r\nBố trong ảnh hoàn toàn khác bây giờ, hóa ra hồi đó gầy lắm.\r\n4. SAI. 「太っていた」（béo）: giống với hiện tại, không tạo ra sự tương phản bất ngờ."
+    },
+    {
+      "question_id": 22,
+      "question": "Điền vào chỗ trống (22) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "ただ",
+        "実は",
+        "なぜなら",
+        "ですから"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch đoạn văn:\r\n(Xem câu 21)\r\n\r\n1. ĐÚNG. 「ただ」（nhưng/chỉ có một điều）: dùng để thêm điều ngoại lệ sau một nhận định. Bố hồi trẻ hoàn toàn khác, nhưng chỉ riêng khuôn mặt tròn là vẫn như cũ.\r\nCâu hoàn chỉnh:\r\nただ、丸い顔だけは今と同じでした。\r\nDịch nghĩa:\r\nNhưng chỉ có khuôn mặt tròn là giống bây giờ.\r\n2. SAI. 「実は」（thực ra）: diễn tả điều bất ngờ chưa nói, không phù hợp.\r\n3. SAI. 「なぜなら」（bởi vì）: diễn tả nguyên nhân, không phù hợp.\r\n4. SAI. 「ですから」（vì vậy）: diễn tả kết quả, không phù hợp."
+    },
+    {
+      "question_id": 23,
+      "question": "Điền vào chỗ trống (23) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "見ることにしました",
+        "見たことにしました",
+        "見ないことにしました",
+        "見なかったことにしました"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch đoạn văn:\r\n(Xem câu 21) ...Tôi rất thích bố như bây giờ, dáng béo, thấp và mặt tròn, nên ảnh bố hồi trẻ tôi (23).\r\n\r\n1. SAI. 「見ることにしました」（quyết định sẽ xem）: ngược với ý muốn không muốn nhìn thấy ảnh bố đẹp trai.\r\n2. SAI. 「見たことにしました」（coi như đã xem）: không phù hợp ngữ cảnh.\r\n3. SAI. 「見ないことにしました」（quyết định không xem）: cũng gần đúng nhưng không tự nhiên bằng đáp án 4.\r\n4. ĐÚNG. 「見なかったことにしました」（coi như chưa nhìn thấy）: cấu trúc 「～なかったことにする」 = giả vờ như không nhìn thấy/xóa khỏi trí nhớ.\r\nCâu hoàn chỉnh:\r\n父の昔の写真は見なかったことにしました。\r\nDịch nghĩa:\r\nTôi coi như không nhìn thấy ảnh bố hồi trẻ vậy."
+    },
+    {
+      "question_id": 24,
+      "question": "Điền vào chỗ trống (24) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "この父",
+        "その父",
+        "そんな父",
+        "貿易会社の父"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch đoạn văn:\r\n(Xem câu 21) ...Bố làm nhân viên công ty thương mại, công ty xa nên mỗi sáng 7 giờ đã phải ra khỏi nhà. (24), tôi luôn cảm thấy thương bố. Nhưng bố chưa nghỉ một ngày nào...\r\n\r\n1. SAI. 「この父」: chỉ định gần và cụ thể, không phù hợp để diễn tả cảm xúc trân trọng.\r\n2. SAI. 「その父」: chỉ định trung gian, hơi xa cách, không phù hợp.\r\n3. ĐÚNG. 「そんな父」（người cha như vậy）: chỉ người cha với những đặc điểm vừa mô tả (dậy sớm đi làm, làm việc chăm chỉ). Cảm thán về một người cha như vậy.\r\nCâu hoàn chỉnh:\r\nそんな父が私はいつもかわいそうになります。\r\nDịch nghĩa:\r\nNhìn người cha như vậy, tôi luôn cảm thấy thương bố.\r\n4. SAI. 「貿易会社の父」: quá cụ thể và cứng nhắc, không tự nhiên."
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "id": "on-n2-300-de-10-271-300",
+  "code": "N2-ON-010",
+  "title": "Ôn N2 Đề 10",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "vocabulary_grammar",
+  "source": "supabase_export",
+  "questionCount": 30,
+  "questions": [
+    {
+      "question_id": 271,
+      "question": "会社をやめて独立する（　）、後悔しないようにがんばりたい。",
+      "context": "",
+      "options": [
+        "上",
+        "上で",
+        "上に",
+        "上は"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～上は」= một khi đã... thì.... Một khi đã nghỉ công ty để tự lập thì muốn cố gắng để không hối hận."
+    },
+    {
+      "question_id": 272,
+      "question": "資金が足りない（　）計画は延期になった。",
+      "context": "",
+      "options": [
+        "からこそ",
+        "からには",
+        "ことから",
+        "ことには"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ことには」= nếu không... thì không.... Vì thiếu vốn nên nếu không có vốn thì kế hoạch bị hoãn."
+    },
+    {
+      "question_id": 273,
+      "question": "免許は持っている（　）、車がないからほとんど運転したことがない。",
+      "context": "",
+      "options": [
+        "につき",
+        "のみか",
+        "ものの",
+        "からには"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～ものの」= mặc dù... nhưng.... Dù có bằng lái nhưng vì không có xe nên hầu như chưa lái bao giờ."
+    },
+    {
+      "question_id": 274,
+      "question": "困った（　）、3日前になってもセミナーの申し込みが一人もない。",
+      "context": "",
+      "options": [
+        "ことに",
+        "ものに",
+        "わけで",
+        "だけあって"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～ことに」= thật là..., điều... là.... Thật đáng lo là còn 3 ngày nữa mà chưa có ai đăng ký hội thảo."
+    },
+    {
+      "question_id": 275,
+      "question": "これだけ調べても見つからないなら、あきらめ（　）だろう。",
+      "context": "",
+      "options": [
+        "がいがない",
+        "てならない",
+        "ざるを得ない",
+        "て仕方がない"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～ざるを得ない」= đành phải, buộc phải. Nếu đã tìm đến mức này mà vẫn không thấy thì đành phải bỏ cuộc."
+    },
+    {
+      "question_id": 276,
+      "question": "現地に到着（　）、ご連絡します。",
+      "context": "",
+      "options": [
+        "以上",
+        "上で",
+        "次第",
+        "ついでに"
+      ],
+      "correct_answer": 3,
+      "explanation": "「Vます bỏ ます＋次第」= ngay sau khi.... Ngay khi đến nơi tôi sẽ liên lạc."
+    },
+    {
+      "question_id": 277,
+      "question": "子どもの頃は、よくけんかをして兄に泣かされた（　）。",
+      "context": "",
+      "options": [
+        "ことだ",
+        "だけだ",
+        "はずだ",
+        "ものだ"
+      ],
+      "correct_answer": 4,
+      "explanation": "「Vたものだ」= hồi đó thường hay.... Hồi nhỏ tôi thường cãi nhau rồi bị anh làm cho khóc."
+    },
+    {
+      "question_id": 278,
+      "question": "ベジタリアン（　）、肉だけでなく、魚や卵も食べないんですね。",
+      "context": "",
+      "options": [
+        "かと思うと",
+        "ことだから",
+        "にあたって",
+        "ということは"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ということは」= nếu nói vậy thì, tức là.... Nếu là người ăn chay thì không chỉ thịt mà cá và trứng cũng không ăn."
+    },
+    {
+      "question_id": 279,
+      "question": "日本人だ（　）米ばかり食べているわけではない。",
+      "context": "",
+      "options": [
+        "からこそ",
+        "からして",
+        "からには",
+        "からといって"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～からといって～わけではない」= không phải cứ... thì.... Không phải cứ là người Nhật thì lúc nào cũng chỉ ăn cơm."
+    },
+    {
+      "question_id": 280,
+      "question": "制度（　）、男性社員も育児休暇を取ることが認められている。",
+      "context": "",
+      "options": [
+        "上は",
+        "上に",
+        "以上は",
+        "以上に"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～上は」= về mặt, trên phương diện.... Về mặt chế độ, nhân viên nam cũng được công nhận quyền nghỉ chăm con."
+    },
+    {
+      "question_id": 281,
+      "question": "初めて会った人に自宅に招待され、夕食（　）ごちそうになってしまった。",
+      "context": "",
+      "options": [
+        "さえ",
+        "すら",
+        "ほど",
+        "まで"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～まで」= đến cả.... Được người mới gặp lần đầu mời về nhà, còn được đãi cả bữa tối."
+    },
+    {
+      "question_id": 282,
+      "question": "海へ行ったが、人が多すぎて泳ぐ（　）ではなかった。",
+      "context": "",
+      "options": [
+        "はず",
+        "わけ",
+        "あまり",
+        "どころ"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～どころではない」= không phải lúc/không còn tâm trí để.... Đi biển nhưng đông quá nên chẳng còn tâm trí để bơi."
+    },
+    {
+      "question_id": 283,
+      "question": "A：ごめんなさい。やっと就職が決まったから、嬉しくて飲みすぎちゃって…… B：ふーん、それで寝坊して、遅刻したって（　）。",
+      "context": "",
+      "options": [
+        "はずか",
+        "もんか",
+        "わけか",
+        "ものやら"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～わけか」= ra là, hóa ra là. B hiểu ra lý do A ngủ quên và đi muộn."
+    },
+    {
+      "question_id": 284,
+      "question": "兄は答えを知っている（　）聞いても教えてくれない。",
+      "context": "",
+      "options": [
+        "せいで",
+        "ために",
+        "ものの",
+        "くせして"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～くせして」= mặc dù... mà..., sắc thái trách móc. Anh tôi dù biết đáp án nhưng hỏi cũng không chịu chỉ."
+    },
+    {
+      "question_id": 285,
+      "question": "名店と呼ばれるような店は、入り口（　）清潔で美しいものだ。",
+      "context": "",
+      "options": [
+        "からこそ",
+        "からして",
+        "からまで",
+        "からには"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～からして」= ngay từ..., xét từ.... Cửa hàng nổi tiếng thì ngay từ lối vào đã sạch sẽ và đẹp."
+    },
+    {
+      "question_id": 286,
+      "question": "子どもの（　）ファーストクラスに乗るなんて、ぜいたくだ。",
+      "context": "",
+      "options": [
+        "くせに",
+        "ままに",
+        "うえに",
+        "だけに"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～くせに」= mặc dù... mà..., sắc thái chê trách. Trẻ con mà đi hạng nhất thì xa xỉ quá."
+    },
+    {
+      "question_id": 287,
+      "question": "遅れてすみません。道が渋滞していた（　）で…。",
+      "context": "",
+      "options": [
+        "から",
+        "はず",
+        "もの",
+        "わけ"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～もので」= vì..., do..., cách nói nêu lý do lịch sự. Xin lỗi vì đến muộn do đường bị kẹt xe."
+    },
+    {
+      "question_id": 288,
+      "question": "次の世代のためにも、地球の環境問題について真剣に考え（　）。",
+      "context": "",
+      "options": [
+        "そうでもありませんか",
+        "そうにもありませんか",
+        "ようがありませんか",
+        "ようではありませんか"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ようではありませんか」= hãy cùng... nào. Kêu gọi cùng nghiêm túc suy nghĩ về vấn đề môi trường trái đất."
+    },
+    {
+      "question_id": 289,
+      "question": "古代の都が存在した場所（　）論争が続いている。",
+      "context": "",
+      "options": [
+        "に沿って",
+        "につれて",
+        "をめぐって",
+        "にもとづいて"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～をめぐって」= xoay quanh.... Tranh luận xoay quanh nơi từng tồn tại kinh đô cổ vẫn tiếp diễn."
+    },
+    {
+      "question_id": 290,
+      "question": "どんなに安全な自動車を開発したとしても、事故は（　）。",
+      "context": "",
+      "options": [
+        "起こり得る",
+        "起こりかねる",
+        "起こる一方だ",
+        "起こらざるを得ない"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～得る」= có thể.... Dù phát triển xe an toàn đến đâu thì tai nạn vẫn có thể xảy ra."
+    },
+    {
+      "question_id": 291,
+      "question": "文化や習慣や宗教（　）その国のことを理解するのは無理だろう。",
+      "context": "",
+      "options": [
+        "によらず",
+        "を問わず",
+        "にかかわらず",
+        "を抜きにして"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～を抜きにして」= bỏ qua, không có.... Nếu bỏ qua văn hóa, tập quán, tôn giáo thì khó hiểu đất nước đó."
+    },
+    {
+      "question_id": 292,
+      "question": "新しい学校にはじめはとまどっていたが、子ども（　）すぐに慣れるだろう。",
+      "context": "",
+      "options": [
+        "ながらも",
+        "に限って",
+        "のわりには",
+        "のことだから"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～のことだから」= vì là... nên chắc.... Vì là trẻ con nên chắc sẽ quen nhanh."
+    },
+    {
+      "question_id": 293,
+      "question": "渋滞していた（　）、ずいぶん早く着いたね。",
+      "context": "",
+      "options": [
+        "あまりに",
+        "としては",
+        "にしては",
+        "ばかりか"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～にしては」= so với... thì.... Dù đang kẹt xe mà đến khá sớm nhỉ."
+    },
+    {
+      "question_id": 294,
+      "question": "周りに反対された（　）、むしろやってやろうと思った。",
+      "context": "",
+      "options": [
+        "からこそ",
+        "からといって",
+        "といって",
+        "ということは"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～からといって」= chỉ vì... mà.... Chỉ vì bị mọi người phản đối mà tôi càng muốn làm hơn."
+    },
+    {
+      "question_id": 295,
+      "question": "政府には、もっと税金を有効に使ってもらいたい（　）。",
+      "context": "",
+      "options": [
+        "ことだ",
+        "ほどだ",
+        "ものだ",
+        "くらいだ"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～ものだ」diễn tả mong muốn/cảm thán. Mong chính phủ sử dụng tiền thuế hiệu quả hơn."
+    },
+    {
+      "question_id": 296,
+      "question": "そんなこと言われたら、誰（　）怒るに決まっている。",
+      "context": "",
+      "options": [
+        "さえ",
+        "だって",
+        "ばかり",
+        "までも"
+      ],
+      "correct_answer": 2,
+      "explanation": "「誰だって」= bất kỳ ai cũng. Nếu bị nói như vậy thì ai cũng nổi giận."
+    },
+    {
+      "question_id": 297,
+      "question": "線路の安全が確認できるまで、電車を動かす（　）。",
+      "context": "",
+      "options": [
+        "に限らない",
+        "に違いない",
+        "にほかならない",
+        "わけにはいかない"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～わけにはいかない」= không thể làm vì lý do/tình thế không cho phép. Không thể cho tàu chạy cho đến khi xác nhận an toàn đường ray."
+    },
+    {
+      "question_id": 298,
+      "question": "帰り道で彼は何か（　）だったが、結局何も言わずに帰っていった。",
+      "context": "",
+      "options": [
+        "言いがち",
+        "言いかけ",
+        "言いたげ",
+        "言いっぱなし"
+      ],
+      "correct_answer": 2,
+      "explanation": "「Vます bỏ ます＋かけ」= đang định làm dở. Anh ấy có vẻ định nói gì đó nhưng cuối cùng không nói gì mà về."
+    },
+    {
+      "question_id": 299,
+      "question": "駅前のパン屋の主人は、商売はあまり上手ではないが、おいしいパンを作ること（　）一流の技術を持っている。",
+      "context": "",
+      "options": [
+        "によっては",
+        "を前にして",
+        "にかけては",
+        "を基にして"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～にかけては」= về mặt/xét về... thì. Ông chủ không giỏi kinh doanh nhưng về làm bánh ngon thì có kỹ thuật hàng đầu."
+    },
+    {
+      "question_id": 300,
+      "question": "パソコンの画面が映らなくなってしまった。いろいろ試してみたがうまくいかず、もう自分ではどうしようもないので、修理に（　）。",
+      "context": "",
+      "options": [
+        "出しがちだ",
+        "出すほかない",
+        "出したおかげだ",
+        "出すことがある"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～ほかない」= chỉ còn cách.... Màn hình không lên, thử đủ cách không được nên chỉ còn cách đem đi sửa."
+    }
+  ]
+}

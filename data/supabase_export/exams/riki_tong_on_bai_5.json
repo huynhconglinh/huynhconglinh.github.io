@@ -1,0 +1,334 @@
+{
+  "id": "riki_tong_on_bai_5",
+  "code": "riki_tong_on_bai_5",
+  "title": "Tổng ôn Ngữ pháp 2 - N3",
+  "category": "vocabulary_grammar",
+  "questionCount": 25,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "伊藤さんはバレエを１０年も習っていた(  )、あまりダンスが上手じゃなかった。",
+      "context": "",
+      "options": [
+        "とすると",
+        "というと",
+        "にしては",
+        "にしても"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「とすると」: diễn tả suy luận từ giả thiết, không phù hợp để so sánh kết quả với kỳ vọng.\r\n2. SAI. 「というと」: dùng để liên tưởng chủ đề, không phù hợp.\r\n3. ĐÚNG. 「～にしては」: cấu trúc diễn tả \"xét theo... thì kết quả/tình trạng lại không tương xứng\". Học ballet 10 năm mà múa không giỏi là điều không tương xứng với kỳ vọng.\r\nCâu hoàn chỉnh:\r\n伊藤さんはバレエを10年も習っていたにしては、あまりダンスが上手じゃなかった。\r\nDịch nghĩa:\r\nXét ra anh/chị Itoh học ballet đến 10 năm mà múa lại không giỏi lắm.\r\n4. SAI. 「にしても」: diễn tả nhượng bộ (dù... đi nữa thì vẫn...), không phù hợp với nghĩa \"không tương xứng\"."
+    },
+    {
+      "question_id": 2,
+      "question": "その俳優は、映画監督(   )有名だ。",
+      "context": "",
+      "options": [
+        "としても",
+        "にしても",
+        "といっても",
+        "においても"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「～としても」: ở đây dùng theo nghĩa \"với tư cách là/trong vai trò là\". Diễn viên đó nổi tiếng với tư cách là đạo diễn phim.\r\nCâu hoàn chỉnh:\r\nその俳優は、映画監督としても有名だ。\r\nDịch nghĩa:\r\nDiễn viên đó còn nổi tiếng với tư cách là đạo diễn phim.\r\n2. SAI. 「にしても」: diễn tả nhượng bộ, không phù hợp.\r\n3. SAI. 「といっても」: diễn tả \"tuy nói vậy nhưng...\", không phù hợp.\r\n4. SAI. 「においても」: diễn tả \"trong lĩnh vực/địa điểm...\", không phù hợp."
+    },
+    {
+      "question_id": 3,
+      "question": "その山火事に(   )、森に住む多くの動物が死んでしまった。",
+      "context": "",
+      "options": [
+        "せいで",
+        "ために",
+        "なって",
+        "よって"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「せいで」: diễn tả nguyên nhân mang tính đổ lỗi/tiêu cực, nhưng thường dùng cho hành động của ai đó, không tự nhiên với thiên tai quy mô lớn như cháy rừng trong văn viết.\r\n2. SAI. 「ために」: diễn tả nguyên nhân trung tính, nhưng 「によって」 phổ biến hơn trong văn viết chính thức.\r\n3. SAI. 「なって」: không phải cấu trúc phù hợp ở đây.\r\n4. ĐÚNG. 「～によって」: diễn tả nguyên nhân/tác nhân trong văn viết trang trọng. Dùng cho các sự kiện lớn như thiên tai, tai nạn.\r\nCâu hoàn chỉnh:\r\nその山火事によって、森に住む多くの動物が死んでしまった。\r\nDịch nghĩa:\r\nVụ cháy rừng đó đã khiến nhiều loài động vật sống trong rừng chết đi."
+    },
+    {
+      "question_id": 4,
+      "question": "この本は漢字が多い(   )字が小さくて読みにくい。",
+      "context": "",
+      "options": [
+        "以上",
+        "うえに",
+        "ために",
+        "ように"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「以上」: nghĩa là \"hơn/từ mức đó trở lên\", không dùng để liệt kê thêm yếu tố.\r\n2. ĐÚNG. 「～うえに」: cấu trúc diễn tả \"không chỉ... mà còn...\", liệt kê thêm điều tiêu cực thứ hai. Sách nhiều kanji, thêm vào đó chữ còn nhỏ.\r\nCâu hoàn chỉnh:\r\nこの本は漢字が多いうえに字が小さくて読みにくい。\r\nDịch nghĩa:\r\nCuốn sách này không chỉ nhiều chữ Hán mà chữ còn nhỏ nên rất khó đọc.\r\n3. SAI. 「ために」: chỉ nguyên nhân, không phù hợp để liệt kê thêm yếu tố.\r\n4. SAI. 「ように」: chỉ mục đích hoặc ví dụ, không phù hợp."
+    },
+    {
+      "question_id": 5,
+      "question": "引っ越してきたばかりなので、家の中にはまだカーテン (   )ないんです。",
+      "context": "",
+      "options": [
+        "さえ",
+        "だけ",
+        "ほど",
+        "くらい"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「さえ～ない」: cấu trúc diễn tả \"ngay cả... cũng không có\", nhấn mạnh sự thiếu thốn. Ngay cả rèm cửa - thứ tối thiểu nhất - cũng chưa có.\r\nCâu hoàn chỉnh:\r\n引っ越してきたばかりなので、家の中にはまだカーテンさえないんです。\r\nDịch nghĩa:\r\nVì mới chuyển đến nên trong nhà thậm chí còn chưa có rèm cửa.\r\n2. SAI. 「だけ」: chỉ giới hạn (chỉ mỗi...), không diễn tả ý \"ngay cả cái tối thiểu cũng không\".\r\n3. SAI. 「ほど」: chỉ mức độ, không phù hợp.\r\n4. SAI. 「くらい」: chỉ mức độ/ước lượng, không phù hợp."
+    },
+    {
+      "question_id": 6,
+      "question": "（   ）ケーキを姉に食べられてしまった。後で食べようと思っていたのに。",
+      "context": "",
+      "options": [
+        "食べかけの",
+        "食べきった",
+        "食べすぎの",
+        "食べだした"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「食べかけの」: cấu trúc 「Vかけの」 diễn tả \"đang ăn dở/ăn chưa hết\". Cái bánh đang ăn dở bị chị ăn mất.\r\nCâu hoàn chỉnh:\r\n食べかけのケーキを姉に食べられてしまった。後で食べようと思っていたのに。\r\nDịch nghĩa:\r\nCái bánh ăn dở của tôi bị chị ăn mất rồi. Tôi đang định ăn sau mà.\r\n2. SAI. 「食べきった」（ăn hết sạch）: nếu đã ăn hết rồi thì không thể bị người khác ăn mất.\r\n3. SAI. 「食べすぎの」（ăn quá nhiều）: không phù hợp ngữ cảnh.\r\n4. SAI. 「食べだした」（bắt đầu ăn）: không phù hợp với cấu trúc danh từ hóa bổ nghĩa cho 「ケーキ」."
+    },
+    {
+      "question_id": 7,
+      "question": "この前いっしょに行ったレストラン、なんていう名前(   )。",
+      "context": "",
+      "options": [
+        "だったって",
+        "だったっけ",
+        "だったなあ",
+        "だったもん"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「だったって」: diễn tả thông tin nghe từ người khác, không phù hợp khi tự hỏi lại trí nhớ.\r\n2. ĐÚNG. 「～っけ」: cấu trúc dùng khi muốn xác nhận lại điều gì đó đã biết nhưng không nhớ rõ. \"Nhỉnh... nhà hàng hôm trước tên là gì nhỉ?\".\r\nCâu hoàn chỉnh:\r\nこの前いっしょに行ったレストラン、なんていう名前だったっけ。\r\nDịch nghĩa:\r\nNhà hàng hôm trước mình cùng đi, tên là gì nhỉ nhỉ?\r\n3. SAI. 「だったなあ」: diễn tả cảm thán/hồi tưởng, không phải hỏi để xác nhận.\r\n4. SAI. 「だったもん」: diễn tả biện hộ/lý do, không phù hợp."
+    },
+    {
+      "question_id": 8,
+      "question": "昨日、近所で牛(   ) 大きな犬が歩いているのを見た。",
+      "context": "",
+      "options": [
+        "らしく",
+        "っぽく",
+        "みたいに",
+        "のようで"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「らしく」: diễn tả \"đúng như đặc trưng của...\", ví dụ 「春らしく」 (đúng như mùa xuân). Không phù hợp để so sánh hình dạng.\r\n2. SAI. 「っぽく」: diễn tả \"có vẻ/mang tính chất...\", thường dùng để nói về ấn tượng tổng thể, không dùng để so sánh cụ thể.\r\n3. ĐÚNG. 「みたいに」: diễn tả so sánh \"giống như...\", rất tự nhiên trong văn nói.\r\nCâu hoàn chỉnh:\r\n昨日、近所で牛みたいに大きな犬が歩いているのを見た。\r\nDịch nghĩa:\r\nHôm qua tôi nhìn thấy một con chó to như con bò đang đi bộ trong khu phố.\r\n4. SAI. 「のようで」: cấu trúc văn viết hơn, và ở đây cần liên kết trực tiếp với 「大きな犬」 nên 「みたいに」 tự nhiên hơn."
+    },
+    {
+      "question_id": 9,
+      "question": "次回の研修(   )、何か聞きたいことはありますか。",
+      "context": "",
+      "options": [
+        "において",
+        "にとって",
+        "について",
+        "に対して"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「において」: diễn tả địa điểm/lĩnh vực (tại/trong lĩnh vực...).\r\n2. SAI. 「にとって」: diễn tả lập trường/quan điểm (đối với/từ góc độ của...).\r\n3. ĐÚNG. 「について」: diễn tả chủ đề/nội dung (về/liên quan đến...). \"Về buổi đào tạo lần tới, có điều gì muốn hỏi không?\".\r\nCâu hoàn chỉnh:\r\n次回の研修について、何か聞きたいことはありますか。\r\nDịch nghĩa:\r\nVề buổi đào tạo lần tới, bạn có điều gì muốn hỏi không?\r\n4. SAI. 「に対して」: diễn tả đối tượng của hành động/cảm xúc hướng đến."
+    },
+    {
+      "question_id": 10,
+      "question": "すみません、ちょっと(   )ことがあるんですが･･････。",
+      "context": "",
+      "options": [
+        "おうかがいする",
+        "おうかがいしたい",
+        "おうかがいになる",
+        "おうかがいになりたい"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「おうかがいする」: kính ngữ của 「聞く/訪ねる」 nhưng dạng thể từ điển đứng trước 「こと」 không tự nhiên bằng dạng 「～たい」 khi muốn nêu nguyện vọng.\r\n2. ĐÚNG. 「おうかがいしたい」: 伺う（うかがう）là kính ngữ khiêm nhường của 「聞く」. 「おうかがいしたい」 = tôi muốn hỏi (dạng khiêm nhường lịch sự).\r\nCâu hoàn chỉnh:\r\nすみません、ちょっとおうかがいしたいことがあるんですが。\r\nDịch nghĩa:\r\nXin lỗi, tôi có điều muốn hỏi một chút...\r\n3. SAI. 「おうかがいになる」: đây là kính ngữ tôn kính (sonkeigo), dùng cho hành động của người khác, không dùng cho bản thân.\r\n4. SAI. 「おうかがいになりたい」: tương tự câu 3, sai vì dùng kính ngữ tôn kính cho bản thân."
+    },
+    {
+      "question_id": 11,
+      "question": "年かかってやっと論文を書き(   )。",
+      "context": "",
+      "options": [
+        "あげた",
+        "かけた",
+        "出した",
+        "続けた"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「書きあげた」: cấu trúc 「Vあげる」 diễn tả hoàn thành triệt để một việc. 「論文を書き上げる」 = viết xong hoàn toàn luận văn.\r\nCâu hoàn chỉnh:\r\n年かかってやっと論文を書きあげた。\r\nDịch nghĩa:\r\nMất mấy năm mới cuối cùng hoàn thành được luận văn.\r\n2. SAI. 「書きかけた」（書きかける - viết dở dang）: ngược nghĩa, diễn tả bắt đầu viết rồi dừng lại.\r\n3. SAI. 「書き出した」（bắt đầu viết）: diễn tả mới bắt đầu, không phải hoàn thành.\r\n4. SAI. 「書き続けた」（tiếp tục viết）: không diễn tả việc hoàn thành."
+    },
+    {
+      "question_id": 12,
+      "question": "友達の話がおもしろくて、涙が出る(   )笑った。",
+      "context": "",
+      "options": [
+        "さえ",
+        "だけ",
+        "ほど",
+        "より"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「涙が出るさえ笑った」: không phải cấu trúc ngữ pháp đúng.\r\n2. SAI. 「涙が出るだけ笑った」: không tự nhiên.\r\n3. ĐÚNG. 「～ほど」: cấu trúc diễn tả mức độ (đến mức...). \"Cười đến mức chảy nước mắt\".\r\nCâu hoàn chỉnh:\r\n友達の話がおもしろくて、涙が出るほど笑った。\r\nDịch nghĩa:\r\nCâu chuyện của bạn hay đến mức tôi cười chảy cả nước mắt.\r\n4. SAI. 「涙が出るより笑った」: không phải cấu trúc ngữ pháp đúng."
+    },
+    {
+      "question_id": 13,
+      "question": "お客様の声(   )、営業時間を延長することにいたしました。",
+      "context": "",
+      "options": [
+        "に関して",
+        "に対して",
+        "について",
+        "にこたえて"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「に関して」: diễn tả \"liên quan đến...\", không diễn tả ý đáp lại/phản hồi.\r\n2. SAI. 「に対して」: diễn tả đối tượng hướng đến, không phù hợp bằng 「にこたえて」.\r\n3. SAI. 「について」: chủ đề/nội dung, không diễn tả ý đáp lại.\r\n4. ĐÚNG. 「～にこたえて」: cấu trúc diễn tả \"đáp lại/đáp ứng...\". Kéo dài giờ làm việc là để đáp lại ý kiến của khách hàng.\r\nCâu hoàn chỉnh:\r\nお客様の声にこたえて、営業時間を延長することにいたしました。\r\nDịch nghĩa:\r\nĐể đáp lại ý kiến của quý khách, chúng tôi đã quyết định kéo dài giờ mở cửa."
+    },
+    {
+      "question_id": 14,
+      "question": "日本のマンガやアニメは、国(   ) 世界中で人気がある。",
+      "context": "",
+      "options": [
+        "を問わず",
+        "を問われず",
+        "は問わないで",
+        "は問わないでも"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「国を問わず」: cấu trúc 「～を問わず」 nghĩa là \"bất kể/không phân biệt...\". Manga và anime Nhật nổi tiếng khắp thế giới không phân biệt quốc gia.\r\nCâu hoàn chỉnh:\r\n日本のマンガやアニメは、国を問わず世界中で人気がある。\r\nDịch nghĩa:\r\nManga và anime của Nhật Bản được yêu thích trên toàn thế giới bất kể quốc gia nào.\r\n2. SAI. 「を問われず」: dạng bị động phủ định, không phải cấu trúc cố định đúng.\r\n3. SAI. 「は問わないで」: không phải cấu trúc cố định.\r\n4. SAI. 「は問わないでも」: không phải cấu trúc cố định."
+    },
+    {
+      "question_id": 15,
+      "question": "明日はお弁当はありますが、飲み物は自分で持ってくる(   )ください。",
+      "context": "",
+      "options": [
+        "ことにして",
+        "ようにして",
+        "ことになって",
+        "ようになって"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「ことにして」: diễn tả quyết định của bản thân, không phải lời yêu cầu người khác làm gì.\r\n2. ĐÚNG. 「ようにしてください」: cấu trúc yêu cầu/đề nghị người khác cố gắng làm điều gì đó. \"Hãy cố gắng tự mang nước uống nhé\".\r\nCâu hoàn chỉnh:\r\n明日はお弁当はありますが、飲み物は自分で持ってくるようにしてください。\r\nDịch nghĩa:\r\nNgày mai sẽ có cơm hộp, nhưng đồ uống thì hãy tự mang theo nhé.\r\n3. SAI. 「ことになって」: diễn tả kết quả/quyết định đã được xác định, không dùng cho lời yêu cầu.\r\n4. SAI. 「ようになって」: diễn tả sự thay đổi dần dần, không phù hợp."
+    },
+    {
+      "question_id": 16,
+      "question": "息子は ____ ____ __★__ ____ 家に帰るとすぐ寝てしまう。",
+      "context": "",
+      "options": [
+        "とみえて",
+        "大変だ",
+        "スーパーでの",
+        "アルバイトが"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: スーパーでの → アルバイトが → 大変だ（★）→ とみえて\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「大変だ」.\r\nCâu hoàn chỉnh:\r\n息子はスーパーでのアルバイトが大変だとみえて、家に帰るとすぐ寝てしまう。\r\nDịch nghĩa:\r\nHình như công việc làm thêm ở siêu thị vất vả nên con trai về đến nhà là ngủ ngay.\r\nGiải thích: 「～とみえて」 = có vẻ như/xem ra là. Cấu trúc: 「AとみえてB」 = Xem ra A nên B."
+    },
+    {
+      "question_id": 17,
+      "question": "上司は部下に ____ ____ __★__ ____ 注意をするのだ。",
+      "context": "",
+      "options": [
+        "31 ようになってほしい",
+        "早く一人で 43 からこそ",
+        "仕事ができる 185あまりスポーツジムに ____ ____ __★__ ____ わけではない。",
+        "行く"
+      ],
+      "correct_answer": 1,
+      "explanation": "Thứ tự đúng: 早く一人で → 仕事ができる → ようになってほしい（★）→ からこそ\r\n1. ĐÚNG. Từ nằm ở vị trí ★ là 「ようになってほしい」.\r\nCâu hoàn chỉnh:\r\n上司は部下に早く一人で仕事ができるようになってほしいからこそ注意をするのだ。\r\nDịch nghĩa:\r\nSếp nhắc nhở cấp dưới chính vì muốn họ sớm có thể tự làm việc một mình.\r\nGiải thích: 「～からこそ」 = chính vì... nên. 「ようになってほしい」 = muốn họ trở nên có thể..."
+    },
+    {
+      "question_id": 18,
+      "question": "人間の脳 ____ ____ __★__ ____ いないことがあるそうだ。",
+      "context": "",
+      "options": [
+        "よくわかって",
+        "でさえ",
+        "については",
+        "専門家"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: 人間の脳 → については → 専門家 → でさえ（★）→ よくわかって\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「でさえ」.\r\nCâu hoàn chỉnh:\r\n人間の脳については専門家でさえよくわかっていないことがあるそうだ。\r\nDịch nghĩa:\r\nNghe nói về não người, ngay cả các chuyên gia cũng có những điều không hiểu rõ.\r\nGiải thích: 「でさえ」 = ngay cả... cũng. Nhấn mạnh điều bất ngờ khi ngay cả chuyên gia cũng không biết."
+    },
+    {
+      "question_id": 19,
+      "question": "映画を途中から ____ ____ __★__ ____ ほうがいい。",
+      "context": "",
+      "options": [
+        "見ない",
+        "見る",
+        "くらいなら",
+        "最初から"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: 映画を途中から → 見る → くらいなら → 最初から → 見ない（★）→ ほうがいい\r\nChú ý: cấu trúc 「AくらいならBほうがいい」 = thay vì A thì B còn hơn.\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「見る」 (theo thứ tự: 途中から見るくらいなら).\r\nCâu hoàn chỉnh:\r\n映画を途中から見るくらいなら最初から見ないほうがいい。\r\nDịch nghĩa:\r\nThay vì xem phim từ giữa chừng thì thà không xem từ đầu còn hơn."
+    },
+    {
+      "question_id": 20,
+      "question": "あまりスポーツジムに ____ ____ ★ ____ わけではない。",
+      "context": "",
+      "options": [
+        "行く",
+        "ないけれど",
+        "やめた",
+        "時間が"
+      ],
+      "correct_answer": 2,
+      "explanation": "あまりスポーツジムに 時間が ないけれど 行く やめた わけではない。\n\nDù không có nhiều thời gian đi đến phòng tập thể thao, nhưng không hẳn là tôi đã bỏ không tập nữa."
+    },
+    {
+      "question_id": 21,
+      "question": "5月上旬、A県B中学校の英語の授業で、生徒がAIを搭載（注1）した英会話ロボット「Musio」（ミュージオ）を相手に英語で話しかけていた。（中略）\n\nミュージオは、会話内容をスマホなどのアプリで確認できる機能もあり、それぞれの生徒がどんな話をしたか、教員が（21）できる。日本語の単語を言うと、英語で教えてくれる辞書機能もある。\n\n（22）、時には質問とは関係ない、とんちんかん（注2）な答えが返ってくることも。授業で教員が教えたい内容と、ミュージオが話す内容をどうリンク（注3）させられるかも課題だ。\n\n昨年（23）は、英語の授業に週1回は英国人の外国語指導助手（ALT）が来ていたが、最近は月1回に減った。ALTが小学校も担当するようになった（24）。ミュージオの導入（注4）で、「生徒一人ひとりが話す機会が格段（注5）に増えてよかった」と教員の〇〇さん。生徒たちは遊び感覚で（25）ながら英語を話すようになった、と感じる。\n\n（『朝日新聞』2018年6月12日付）\n\n（注1）搭載（とうさい）：ある機械が中に入っている（được tích hợp vào thiết bị）\n（注2）とんちんかん：物事がうまく通じないこと（lạc đề, không ăn khớp)\n（注3）リンク：結びつける（liên kết)\n（注4）導入（どうにゅう）：取り入れて、役立てる（đưa vào sử dụng)\n（注5）格段（かくだん）：まるで違う（vượt trội, tăng lên đáng kể)",
+      "context": "",
+      "options": [
+        "カバー",
+        "コーチ",
+        "リーダー",
+        "チェック"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch đoạn văn:\n(Xem câu 20)\n\n1. SAI. カバー（che phủ/bù đắp - \"cover\"）: không phù hợp ngữ cảnh xem lại nội dung hội thoại.\n2. SAI. コーチ（huấn luyện - \"coach\"）: không phù hợp.\n3. SAI. リーダー（lãnh đạo - \"leader\"）: không phù hợp.\n4. ĐÚNG. チェック（kiểm tra - \"check\"）: giáo viên có thể kiểm tra nội dung từng học sinh đã nói.\nCâu hoàn chỉnh:\nそれぞれの生徒がどんな話をしたか、教員がチェックできる。\nDịch nghĩa:\nGiáo viên có thể kiểm tra từng học sinh đã nói gì."
+    },
+    {
+      "question_id": 22,
+      "question": "5月上旬、A県B中学校の英語の授業で、生徒がAIを搭載（注1）した英会話ロボット「Musio」（ミュージオ）を相手に英語で話しかけていた。（中略）\n\nミュージオは、会話内容をスマホなどのアプリで確認できる機能もあり、それぞれの生徒がどんな話をしたか、教員が（21）できる。日本語の単語を言うと、英語で教えてくれる辞書機能もある。\n\n（22）、時には質問とは関係ない、とんちんかん（注2）な答えが返ってくることも。授業で教員が教えたい内容と、ミュージオが話す内容をどうリンク（注3）させられるかも課題だ。\n\n昨年（23）は、英語の授業に週1回は英国人の外国語指導助手（ALT）が来ていたが、最近は月1回に減った。ALTが小学校も担当するようになった（24）。ミュージオの導入（注4）で、「生徒一人ひとりが話す機会が格段（注5）に増えてよかった」と教員の〇〇さん。生徒たちは遊び感覚で（25）ながら英語を話すようになった、と感じる。\n\n（『朝日新聞』2018年6月12日付）\n\n（注1）搭載（とうさい）：ある機械が中に入っている（được tích hợp vào thiết bị）\n（注2）とんちんかん：物事がうまく通じないこと（lạc đề, không ăn khớp)\n（注3）リンク：結びつける（liên kết)\n（注4）導入（どうにゅう）：取り入れて、役立てる（đưa vào sử dụng)\n（注5）格段（かくだん）：まるで違う（vượt trội, tăng lên đáng kể)",
+      "context": "",
+      "options": [
+        "だから",
+        "一方",
+        "そこで",
+        "ところで"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch đoạn văn:\n(Xem câu 20)\n\n1. SAI. だから（vì vậy）: nối nguyên nhân và kết quả, không phù hợp khi tiếp theo là thông tin đối lập (đôi khi trả lời không liên quan).\n2. ĐÚNG. 一方（いっぽう - một mặt khác）: dùng để trình bày mặt tương phản/bổ sung. Một mặt có nhiều tính năng tốt, nhưng một mặt đôi khi lại trả lời không liên quan.\nCâu hoàn chỉnh:\n一方、時には質問とは関係ない、とんちんかんな答えが返ってくることも。\nDịch nghĩa:\nMặt khác, đôi khi cũng có những câu trả lời không liên quan đến câu hỏi.\n3. SAI. そこで（vì vậy/do đó）: nối nguyên nhân, không phù hợp.\n4. SAI. ところで（nhân tiện/chuyển chủ đề）: chuyển sang chủ đề khác hoàn toàn, không phù hợp."
+    },
+    {
+      "question_id": 23,
+      "question": "5月上旬、A県B中学校の英語の授業で、生徒がAIを搭載（注1）した英会話ロボット「Musio」（ミュージオ）を相手に英語で話しかけていた。（中略）\n\nミュージオは、会話内容をスマホなどのアプリで確認できる機能もあり、それぞれの生徒がどんな話をしたか、教員が（21）できる。日本語の単語を言うと、英語で教えてくれる辞書機能もある。\n\n（22）、時には質問とは関係ない、とんちんかん（注2）な答えが返ってくることも。授業で教員が教えたい内容と、ミュージオが話す内容をどうリンク（注3）させられるかも課題だ。\n\n昨年（23）は、英語の授業に週1回は英国人の外国語指導助手（ALT）が来ていたが、最近は月1回に減った。ALTが小学校も担当するようになった（24）。ミュージオの導入（注4）で、「生徒一人ひとりが話す機会が格段（注5）に増えてよかった」と教員の〇〇さん。生徒たちは遊び感覚で（25）ながら英語を話すようになった、と感じる。\n\n（『朝日新聞』2018年6月12日付）\n\n（注1）搭載（とうさい）：ある機械が中に入っている（được tích hợp vào thiết bị）\n（注2）とんちんかん：物事がうまく通じないこと（lạc đề, không ăn khớp)\n（注3）リンク：結びつける（liên kết)\n（注4）導入（どうにゅう）：取り入れて、役立てる（đưa vào sử dụng)\n（注5）格段（かくだん）：まるで違う（vượt trội, tăng lên đáng kể)",
+      "context": "",
+      "options": [
+        "より",
+        "から",
+        "まで",
+        "うち"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch đoạn văn:\n(Xem câu 20)\n\n1. SAI. 「より」（hơn/từ）: dùng để so sánh, không phù hợp.\n2. SAI. 「から」（từ）: đánh dấu điểm xuất phát, nhưng câu này nói về năm ngoái cho đến nay.\n3. ĐÚNG. 「まで」（cho đến）: 「昨年まで」 = cho đến năm ngoái. Năm ngoái vẫn còn ALT đến một tuần một lần, nhưng gần đây đã giảm.\nCâu hoàn chỉnh:\n昨年までは、英語の授業に週1回は英国人のALTが来ていたが、最近は月1回に減った。\nDịch nghĩa:\nCho đến năm ngoái, mỗi tuần có một lần giáo viên trợ giảng người Anh đến dạy tiếng Anh, nhưng gần đây đã giảm xuống còn một tháng một lần.\n4. SAI. 「うち」（trong số/trong khi）: không phù hợp ngữ cảnh."
+    },
+    {
+      "question_id": 24,
+      "question": "5月上旬、A県B中学校の英語の授業で、生徒がAIを搭載（注1）した英会話ロボット「Musio」（ミュージオ）を相手に英語で話しかけていた。（中略）\n\nミュージオは、会話内容をスマホなどのアプリで確認できる機能もあり、それぞれの生徒がどんな話をしたか、教員が（21）できる。日本語の単語を言うと、英語で教えてくれる辞書機能もある。\n\n（22）、時には質問とは関係ない、とんちんかん（注2）な答えが返ってくることも。授業で教員が教えたい内容と、ミュージオが話す内容をどうリンク（注3）させられるかも課題だ。\n\n昨年（23）は、英語の授業に週1回は英国人の外国語指導助手（ALT）が来ていたが、最近は月1回に減った。ALTが小学校も担当するようになった（24）。ミュージオの導入（注4）で、「生徒一人ひとりが話す機会が格段（注5）に増えてよかった」と教員の〇〇さん。生徒たちは遊び感覚で（25）ながら英語を話すようになった、と感じる。\n\n（『朝日新聞』2018年6月12日付）\n\n（注1）搭載（とうさい）：ある機械が中に入っている（được tích hợp vào thiết bị）\n（注2）とんちんかん：物事がうまく通じないこと（lạc đề, không ăn khớp)\n（注3）リンク：結びつける（liên kết)\n（注4）導入（どうにゅう）：取り入れて、役立てる（đưa vào sử dụng)\n（注5）格段（かくだん）：まるで違う（vượt trội, tăng lên đáng kể)",
+      "context": "",
+      "options": [
+        "はずだ",
+        "わけだ",
+        "べきだ",
+        "ためだ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch đoạn văn:\n(Xem câu 20)\n\n1. SAI. 「はずだ」（đáng lẽ phải/dự kiến）: diễn tả kỳ vọng có cơ sở, không phải nguyên nhân.\n2. SAI. 「わけだ」（do đó/tất nhiên là）: diễn tả kết luận hiển nhiên.\n3. SAI. 「べきだ」（nên/phải）: diễn tả nghĩa vụ.\n4. ĐÚNG. 「ためだ」（vì/do）: diễn tả nguyên nhân. ALT đã giảm giờ dạy ở trường THCS vì họ bắt đầu phụ trách cả trường tiểu học.\nCâu hoàn chỉnh:\nALTが小学校も担当するようになったためだ。\nDịch nghĩa:\nĐó là vì giáo viên trợ giảng nước ngoài bắt đầu phụ trách cả trường tiểu học."
+    },
+    {
+      "question_id": 25,
+      "question": "5月上旬、A県B中学校の英語の授業で、生徒がAIを搭載（注1）した英会話ロボット「Musio」（ミュージオ）を相手に英語で話しかけていた。（中略）\n\nミュージオは、会話内容をスマホなどのアプリで確認できる機能もあり、それぞれの生徒がどんな話をしたか、教員が（21）できる。日本語の単語を言うと、英語で教えてくれる辞書機能もある。\n\n（22）、時には質問とは関係ない、とんちんかん（注2）な答えが返ってくることも。授業で教員が教えたい内容と、ミュージオが話す内容をどうリンク（注3）させられるかも課題だ。\n\n昨年（23）は、英語の授業に週1回は英国人の外国語指導助手（ALT）が来ていたが、最近は月1回に減った。ALTが小学校も担当するようになった（24）。ミュージオの導入（注4）で、「生徒一人ひとりが話す機会が格段（注5）に増えてよかった」と教員の〇〇さん。生徒たちは遊び感覚で（25）ながら英語を話すようになった、と感じる。\n\n（『朝日新聞』2018年6月12日付）\n\n（注1）搭載（とうさい）：ある機械が中に入っている（được tích hợp vào thiết bị）\n（注2）とんちんかん：物事がうまく通じないこと（lạc đề, không ăn khớp)\n（注3）リンク：結びつける（liên kết)\n（注4）導入（どうにゅう）：取り入れて、役立てる（đưa vào sử dụng)\n（注5）格段（かくだん）：まるで違う（vượt trội, tăng lên đáng kể)",
+      "context": "",
+      "options": [
+        "楽しみ",
+        "楽しめ",
+        "楽しむ",
+        "楽し"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch đoạn văn:\n(Xem câu 20)\n\n1. ĐÚNG. 「楽しみ」: đây là dạng danh từ hóa/thể ます của 「楽しむ」, dùng trong cấu trúc 「Vながら」 ở dạng masu-stem. 「楽しみながら」 = vừa tận hưởng/vui vẻ vừa...\nCâu hoàn chỉnh:\n生徒たちは遊び感覚で楽しみながら英語を話すようになった。\nDịch nghĩa:\nHọc sinh đã bắt đầu nói tiếng Anh trong khi tận hưởng như đang chơi.\n2. SAI. 「楽しめ」: dạng mệnh lệnh, không phù hợp.\n3. SAI. 「楽しむ」: dạng thể từ điển, không dùng trực tiếp trước 「ながら」 trong ngữ cảnh này.\n4. SAI. 「楽し」: không phải dạng từ hợp lệ."
+    }
+  ]
+}

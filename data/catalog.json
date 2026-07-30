@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-29T03:36:26Z",
+  "exams": [
+    {
+      "id": "N3-TO-K01",
+      "code": "N3-TO-K01",
+      "title": "Tổng ôn Hán tự",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "kanji",
+      "sourceCsv": "tong_on_bai_1.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-K01.json"
+    },
+    {
+      "id": "N3-TO-V01",
+      "code": "N3-TO-V01",
+      "title": "Tổng ôn Từ vựng 1",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "vocabulary",
+      "sourceCsv": "tong_on_bai_2.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-V01.json"
+    },
+    {
+      "id": "N3-TO-G01",
+      "code": "N3-TO-G01",
+      "title": "Tổng ôn Ngữ pháp 1",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "grammar",
+      "sourceCsv": "tong_on_bai_3.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-G01.json"
+    },
+    {
+      "id": "N3-TO-V02",
+      "code": "N3-TO-V02",
+      "title": "Tổng ôn Từ vựng 2",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "vocabulary",
+      "sourceCsv": "tong_on_bai_4.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-V02.json"
+    },
+    {
+      "id": "N3-TO-G02",
+      "code": "N3-TO-G02",
+      "title": "Tổng ôn Ngữ pháp 2",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "grammar",
+      "sourceCsv": "tong_on_bai_5.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-G02.json"
+    },
+    {
+      "id": "N3-TO-G03",
+      "code": "N3-TO-G03",
+      "title": "Tổng ôn Ngữ pháp 3",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "grammar",
+      "sourceCsv": "tong_on_bai_6.csv",
+      "questionCount": 24,
+      "file": "exams/N3/N3-TO-G03.json"
+    },
+    {
+      "id": "N3-TO-V03",
+      "code": "N3-TO-V03",
+      "title": "Tổng ôn Từ vựng 3",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "vocabulary",
+      "sourceCsv": "tong_on_bai_7.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-V03.json"
+    },
+    {
+      "id": "N3-TO-G04",
+      "code": "N3-TO-G04",
+      "title": "Tổng ôn Ngữ pháp 4",
+      "track": "n3_review",
+      "level": "N3",
+      "topic": "grammar",
+      "sourceCsv": "tong_on_bai_8.csv",
+      "questionCount": 25,
+      "file": "exams/N3/N3-TO-G04.json"
+    },
+    {
+      "id": "on-n2-300-de-1",
+      "code": "N2-ON-001",
+      "title": "Ôn N2 Đề 1",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-1.json"
+    },
+    {
+      "id": "on-n2-300-de-2",
+      "code": "N2-ON-002",
+      "title": "Ôn N2 Đề 2",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-2.json"
+    },
+    {
+      "id": "on-n2-300-de-3",
+      "code": "N2-ON-003",
+      "title": "Ôn N2 Đề 3",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-3.json"
+    },
+    {
+      "id": "on-n2-300-de-4",
+      "code": "N2-ON-004",
+      "title": "Ôn N2 Đề 4",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-4.json"
+    },
+    {
+      "id": "on-n2-300-de-5",
+      "code": "N2-ON-005",
+      "title": "Ôn N2 Đề 5",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-5.json"
+    },
+    {
+      "id": "on-n2-300-de-6",
+      "code": "N2-ON-006",
+      "title": "Ôn N2 Đề 6",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-6.json"
+    },
+    {
+      "id": "on-n2-300-de-7",
+      "code": "N2-ON-007",
+      "title": "Ôn N2 Đề 7",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-7.json"
+    },
+    {
+      "id": "on-n2-300-de-8-211-240",
+      "code": "N2-ON-008",
+      "title": "Ôn N2 Đề 8",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-8-211-240.json"
+    },
+    {
+      "id": "on-n2-300-de-9-241-270",
+      "code": "N2-ON-009",
+      "title": "Ôn N2 Đề 9",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-9-241-270.json"
+    },
+    {
+      "id": "on-n2-300-de-10-271-300",
+      "code": "N2-ON-010",
+      "title": "Ôn N2 Đề 10",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/N2/on-n2-300-de-10-271-300.json"
+    },
+    {
+      "id": "de-thi-jlpt-n2202512-phan-tu-vungngu-phap",
+      "code": "N2-JLPT-202512-VG",
+      "title": "Đề thi JLPT N2 202512",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 51,
+      "file": "exams/N2/de-thi-jlpt-n2202512-phan-tu-vungngu-phap.json"
+    },
+    {
+      "id": "de-thi-jlpt-n2202512-phan-doc-hieu",
+      "code": "N2-JLPT-202512-RD",
+      "title": "Đề thi JLPT N2 202512",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 20,
+      "file": "exams/N2/de-thi-jlpt-n2202512-phan-doc-hieu.json"
+    },
+    {
+      "id": "BJT-01-P1-S3",
+      "code": "BJT-01-P1-S3",
+      "title": "BJT 1 · Nghe hiểu · Section 3 (練習 + 1〜15番)",
+      "track": "bjt",
+      "level": "BJT",
+      "topic": "listening",
+      "questionCount": 16,
+      "file": "exams/BJT/BJT-01-P1-S3.json"
+    },
+    {
+      "id": "BJT-01-P3-S1",
+      "code": "BJT-01-P3-S1",
+      "title": "BJT 1 · Đọc hiểu · Section 1 (Điền từ)",
+      "track": "bjt",
+      "level": "BJT",
+      "topic": "reading",
+      "questionCount": 10,
+      "file": "exams/BJT/BJT-01-P3-S1.json"
+    },
+    {
+      "id": "BJT-01-P3-S2",
+      "code": "BJT-01-P3-S2",
+      "title": "BJT 1 · Đọc hiểu · Section 2 (Điền từ / kính ngữ)",
+      "track": "bjt",
+      "level": "BJT",
+      "topic": "reading",
+      "questionCount": 10,
+      "file": "exams/BJT/BJT-01-P3-S2.json"
+    },
+    {
+      "id": "BJT-01-P3-S3",
+      "code": "BJT-01-P3-S3",
+      "title": "BJT 1 · Đọc hiểu · Section 3 (Đọc đoạn)",
+      "track": "bjt",
+      "level": "BJT",
+      "topic": "reading",
+      "questionCount": 15,
+      "file": "exams/BJT/BJT-01-P3-S3.json"
+    }
+  ]
+}

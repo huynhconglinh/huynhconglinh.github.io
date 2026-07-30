@@ -1,0 +1,399 @@
+{
+  "id": "on-n2-300-de-4",
+  "code": "on-n2-300-de-4",
+  "title": "Ôn N2 Đề 4",
+  "category": "vocabulary_grammar",
+  "questionCount": 30,
+  "questions": [
+    {
+      "question_id": 91,
+      "question": "18歳になったら車の<u>めんきょ</u>が取りたい。",
+      "context": "",
+      "options": [
+        "免許",
+        "免証",
+        "面許",
+        "面証"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Đến 18 tuổi thì tôi muốn lấy bằng lái xe.\n\nĐáp án đúng: ① 免許.\n\n免許 MIỄN HỨA（めんきょ）: giấy phép, bằng lái.\n\nCác đáp án khác: 免許 là cách viết đúng của めんきょ trong 車の免許. 免証・面許・面証 không phù hợp."
+    },
+    {
+      "question_id": 92,
+      "question": "年をとっても<u>けんこう</u>でいられるように、今からよく運動しておこう。",
+      "context": "",
+      "options": [
+        "建好",
+        "建康",
+        "健好",
+        "健康"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Để dù có tuổi vẫn khỏe mạnh, từ bây giờ hãy chăm vận động.\n\nĐáp án đúng: ④ 健康.\n\n健康 KIỆN KHANG（けんこう）: sức khỏe, khỏe mạnh.\n\nCác đáp án khác: 健康 là cách viết đúng của けんこう. Các lựa chọn còn lại là cách viết sai."
+    },
+    {
+      "question_id": 93,
+      "question": "今一番人気がある<u>はいゆう</u>は誰ですか。",
+      "context": "",
+      "options": [
+        "俳憂",
+        "俳優",
+        "排憂",
+        "排優"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Diễn viên nổi tiếng nhất hiện nay là ai?\n\nĐáp án đúng: ② 俳優.\n\n俳優 BÀI ƯU（はいゆう）: diễn viên.\n\nCác đáp án khác: 俳優 là cách viết đúng của はいゆう. Các lựa chọn còn lại là cách viết sai."
+    },
+    {
+      "question_id": 94,
+      "question": "石に<u>（　）</u>転んでしまった。",
+      "context": "",
+      "options": [
+        "さわって",
+        "つまずいて",
+        "ひっぱって",
+        "ぶつかって"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Tôi vấp phải hòn đá rồi bị ngã.\n\nĐáp án đúng: ② つまずいて.\n\nつまずく: vấp.\n\nCác đáp án khác: ① さわる: chạm. ③ ひっぱる: kéo. ④ ぶつかる: va vào, nhưng trong ngữ cảnh vấp hòn đá rồi ngã thì dùng つまずく."
+    },
+    {
+      "question_id": 95,
+      "question": "私のやることにいちいち<u>（　）</u>を出さないでください。",
+      "context": "",
+      "options": [
+        "口",
+        "目",
+        "顔",
+        "指"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Xin đừng xen vào/chõ miệng vào mọi việc tôi làm.\n\nĐáp án đúng: ① 口.\n\n口を出す KHẨU・XUẤT（くちをだす）: xen vào, can thiệp, chõ miệng vào.\n\nCác đáp án khác: 目・顔・指 không tạo thành cụm đúng với nghĩa can thiệp vào việc người khác."
+    },
+    {
+      "question_id": 96,
+      "question": "この機械は、<u>（　）</u>動かすと、しばらく止められない。",
+      "context": "",
+      "options": [
+        "いっさい",
+        "いっそう",
+        "いったん",
+        "いっぱい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Cái máy này một khi vận hành thì một lúc sau mới dừng được.\n\nĐáp án đúng: ③ いったん.\n\nいったん: một khi, một lần; dùng với nghĩa sau khi đã bắt đầu thì trạng thái tiếp theo xảy ra.\n\nCác đáp án khác: ① いっさい: hoàn toàn không. ② いっそう: hơn nữa. ④ いっぱい: đầy/nhiều."
+    },
+    {
+      "question_id": 97,
+      "question": "昨日あまり眠れなかったので、授業中に<u>（　）</u>してしまった。",
+      "context": "",
+      "options": [
+        "うとうと",
+        "ぐっすり",
+        "ぐらぐら",
+        "すやすや"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Vì hôm qua không ngủ được nhiều nên trong giờ học tôi đã gà gật.\n\nĐáp án đúng: ① うとうと.\n\nうとうと: gật gù, lim dim ngủ.\n\nCác đáp án khác: ② ぐっすり: ngủ say. ③ ぐらぐら: rung lắc. ④ すやすや: ngủ ngon, ngủ yên."
+    },
+    {
+      "question_id": 98,
+      "question": "選挙の結果、A党の議員は<u>（　）</u>半数に達しなかった。",
+      "context": "",
+      "options": [
+        "大",
+        "過",
+        "全",
+        "多"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Kết quả bầu cử là số nghị viên của đảng A thậm chí còn chưa đạt quá nửa.\n\nĐáp án đúng: ② 過.\n\n過半数 QUÁ BÁN SỐ（かはんすう）: quá bán, hơn một nửa.\n\nCác đáp án khác: 過半数 là từ cố định. 大・全・多 không tạo thành từ phù hợp trong câu này."
+    },
+    {
+      "question_id": 99,
+      "question": "このカメラは充電<u>（　）</u>なので、電池を買う必要はありません。",
+      "context": "",
+      "options": [
+        "系",
+        "式",
+        "的",
+        "法"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Máy ảnh này là loại sạc điện nên không cần mua pin.\n\nĐáp án đúng: ② 式.\n\n充電式 SUNG ĐIỆN THỨC（じゅうでんしき）: kiểu sạc điện, loại sạc được.\n\nCác đáp án khác: 充電式 là cách nói đúng. 系・的・法 không phù hợp."
+    },
+    {
+      "question_id": 100,
+      "question": "財布の落とし<u>（　）</u>が見つかった。",
+      "context": "",
+      "options": [
+        "手",
+        "人",
+        "主",
+        "者"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Đã tìm thấy người đánh rơi ví.\n\nĐáp án đúng: ③ 主.\n\n落とし主 LẠC CHỦ（おとしぬし）: người làm rơi đồ.\n\nCác đáp án khác: 落とし主 là từ cố định. 手・人・者 không tạo thành từ đúng trong câu này."
+    },
+    {
+      "question_id": 101,
+      "question": "毎晩お酒を飲んで<u>（　）</u>、病気になりますよ。",
+      "context": "",
+      "options": [
+        "ばかりに",
+        "ばかりは",
+        "ばかりいると",
+        "ばかりでなく"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Tối nào cũng uống rượu như thế thì sẽ sinh bệnh đấy.\n\nĐáp án đúng: ③ ばかりいると.\n\nVてばかりいる: cứ toàn làm ~, suốt ngày làm ~.\n\nCác đáp án khác: ① ばかりに: chỉ vì. ② ばかりは không phù hợp. ④ ばかりでなく: không chỉ ~ mà còn."
+    },
+    {
+      "question_id": 102,
+      "question": "雪国の人なら誰でもスキーが上手く<u>（　）</u>、必ずしもそうではない。",
+      "context": "",
+      "options": [
+        "というと",
+        "かというと",
+        "といったら",
+        "というなら"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Cứ nói người vùng tuyết ai cũng giỏi trượt tuyết thì không hẳn vậy.\n\nĐáp án đúng: ② かというと.\n\n〜かというと: nếu hỏi rằng có phải ~ không thì…; dùng để phủ định hoặc điều chỉnh một nhận định.\n\nCác đáp án khác: Các lựa chọn còn lại không tạo được cấu trúc tự nhiên với 必ずしもそうではない."
+    },
+    {
+      "question_id": 103,
+      "question": "手術をしない<u>（　）</u>、命は助からないだろう。",
+      "context": "",
+      "options": [
+        "ことには",
+        "うちに",
+        "ものには",
+        "もので"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Nếu không phẫu thuật thì chắc khó cứu được mạng sống.\n\nĐáp án đúng: ① ことには.\n\nVないことには: nếu không... thì không thể...\n\nCác đáp án khác: うちに: trong khi/trước khi. ものには・もので không phù hợp với cấu trúc điều kiện phủ định này."
+    },
+    {
+      "question_id": 104,
+      "question": "苦しい時に支えあう、それが家族という<u>（　）</u>。",
+      "context": "",
+      "options": [
+        "ことだ",
+        "そうだ",
+        "ものだ",
+        "ようだ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Cùng giúp đỡ nhau lúc khó khăn, đó mới là gia đình.\n\nĐáp án đúng: ③ ものだ.\n\n〜ものだ: dùng để nói bản chất, lẽ thường, điều vốn là như vậy.\n\nCác đáp án khác: ことだ thường dùng để khuyên hoặc nêu việc. そうだ・ようだ diễn tả nghe nói/có vẻ, không hợp nghĩa bản chất ở đây."
+    },
+    {
+      "question_id": 105,
+      "question": "信じ<u>（　）</u>ことに、日本の借金は800兆円以上もあるそうだ。",
+      "context": "",
+      "options": [
+        "がたい",
+        "づらい",
+        "られる",
+        "やすい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Điều khó tin là nợ của Nhật lên tới hơn 800 nghìn tỷ yên.\n\nĐáp án đúng: ① がたい.\n\n信じがたい TÍN（しんじがたい）: khó tin.\n\nCác đáp án khác: づらい là khó làm do tâm lý/thể chất nhưng không tự nhiên bằng 信じがたい. られる・やすい không hợp nghĩa."
+    },
+    {
+      "question_id": 106,
+      "question": "彼女は何年も悩んだ<u>（　）</u>、ついに離婚した。",
+      "context": "",
+      "options": [
+        "あげく",
+        "ところで",
+        "ばかりに",
+        "からには"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Sau nhiều năm đau khổ, cuối cùng cô ấy đã ly hôn.\n\nĐáp án đúng: ① あげく.\n\n〜あげく: sau cùng, kết cục là; thường dùng sau một quá trình dài và kết quả không tốt.\n\nCác đáp án khác: ところで: dù có/nhân tiện. ばかりに: chỉ vì. からには: một khi đã."
+    },
+    {
+      "question_id": 107,
+      "question": "こんなに欠席が多くては、単位を落としか<u>（　）</u>。",
+      "context": "",
+      "options": [
+        "がたい",
+        "かねない",
+        "そうにない",
+        "てはいけない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Nghỉ nhiều thế này thì có nguy cơ trượt tín chỉ.\n\nĐáp án đúng: ② かねない.\n\n〜かねない: có nguy cơ ~, có thể dẫn đến kết quả xấu.\n\nCác đáp án khác: がたい: khó mà. そうにない: có vẻ không. てはいけない: không được."
+    },
+    {
+      "question_id": 108,
+      "question": "時代の変化に<u>（　）</u>、日本人の食生活も変化してきた。",
+      "context": "",
+      "options": [
+        "続いて",
+        "先立って",
+        "ともなって",
+        "つながって"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Cùng với sự thay đổi của thời đại, thói quen ăn uống của người Nhật cũng thay đổi.\n\nĐáp án đúng: ③ ともなって.\n\n〜にともなって: cùng với, đi kèm với sự thay đổi nào đó.\n\nCác đáp án khác: 続いて: tiếp theo. 先立って: trước khi. つながって: kết nối/liên quan."
+    },
+    {
+      "question_id": 109,
+      "question": "ある程度の困難は予想していた<u>（　）</u>、ここまで大変だとは思わなかった。",
+      "context": "",
+      "options": [
+        "ものの",
+        "だけに",
+        "からこそ",
+        "ことから"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Dù đã đoán trước sẽ có khó khăn nhất định nhưng không nghĩ lại khó đến thế.\n\nĐáp án đúng: ① ものの.\n\n〜ものの: mặc dù ~ nhưng…\n\nCác đáp án khác: だけに: chính vì. からこそ: chính vì. ことから: từ việc ~ mà."
+    },
+    {
+      "question_id": 110,
+      "question": "運動しないで食べて<u>（　）</u>と、体に悪いですよ。",
+      "context": "",
+      "options": [
+        "ばかりでない",
+        "ばかりする",
+        "ばかりしている",
+        "ばかりいる"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Chỉ ăn mà không vận động thì không tốt cho cơ thể đâu.\n\nĐáp án đúng: ④ ばかりいる.\n\nVてばかりいる: chỉ toàn là..., suốt làm một việc gì đó.\n\nCác đáp án khác: ばかりでない: không chỉ. ばかりする không tự nhiên sau 食べて. ばかりしている gần nghĩa nhưng câu trong đề dùng 食べてばかりいる."
+    },
+    {
+      "question_id": 111,
+      "question": "やると決めた<u>（　）</u>、最後まであきらめずにやるべきだ。",
+      "context": "",
+      "options": [
+        "として",
+        "からには",
+        "ことから",
+        "ものだから"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Một khi đã quyết định làm thì phải làm tới cùng, không bỏ cuộc.\n\nĐáp án đúng: ② からには.\n\n〜からには: một khi đã ~ thì phải/đương nhiên nên ~.\n\nCác đáp án khác: として: với tư cách là. ことから: do/từ việc. ものだから: vì/lý do là."
+    },
+    {
+      "question_id": 112,
+      "question": "山に登るときは、自分の体力に<u>（　）</u>計画を立てましょう。",
+      "context": "",
+      "options": [
+        "つれた",
+        "応じた",
+        "そっての",
+        "ともなった"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Khi leo núi hãy lập kế hoạch phù hợp với thể lực của mình.\n\nĐáp án đúng: ② 応じた.\n\n〜に応じた ỨNG（おうじた）: phù hợp với, tương ứng với.\n\nCác đáp án khác: につれて: cùng với thay đổi. に沿って: theo/dựa theo. にともなって: cùng với."
+    },
+    {
+      "question_id": 113,
+      "question": "雨が降らない<u>（　）</u>、毎日走るようにしています。",
+      "context": "",
+      "options": [
+        "限り",
+        "うちに",
+        "限りに",
+        "ことには"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Chừng nào mà trời không mưa thì tôi cố chạy mỗi ngày.\n\nĐáp án đúng: ① 限り.\n\n〜限り HẠN（かぎり）: chừng nào mà, trong giới hạn/phạm vi.\n\nCác đáp án khác: うちに: trong lúc/trước khi. 限りに không phải cấu trúc đúng ở đây. ことには dùng trong Vないことには."
+    },
+    {
+      "question_id": 114,
+      "question": "事情があった<u>（　）</u>、遅れるなら連絡ぐらいしてほしい。",
+      "context": "",
+      "options": [
+        "にせよ",
+        "につき",
+        "につけ",
+        "せいで"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Dù có lý do gì đi nữa thì nếu đến muộn cũng nên liên lạc chứ.\n\nĐáp án đúng: ① にせよ.\n\n〜にせよ: dù là ~, cho dù ~ đi nữa.\n\nCác đáp án khác: につき: vì/do, dùng trang trọng. につけ: mỗi khi/về. せいで: tại vì, nguyên nhân xấu."
+    },
+    {
+      "question_id": 115,
+      "question": "選手たちは雨の中、泥<u>（　）</u>になって戦った。",
+      "context": "",
+      "options": [
+        "がち",
+        "ずみ",
+        "だらけ",
+        "みたい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch: Các vận động viên chiến đấu trong mưa, người đầy bùn đất.\n\nĐáp án đúng: ③ だらけ.\n\n〜だらけ: đầy ~, toàn là ~, thường dùng với thứ bẩn/không mong muốn như 泥・傷・ほこり.\n\nCác đáp án khác: がち: có xu hướng. ずみ: đã xong. みたい: giống như."
+    },
+    {
+      "question_id": 116,
+      "question": "工事の開始<u>（　）</u>、付近の住民に向けて説明会が開かれた。",
+      "context": "",
+      "options": [
+        "に先立ち",
+        "に沿って",
+        "もかまわず",
+        "をかねて"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Trước khi khởi công, đã tổ chức buổi giải thích cho cư dân xung quanh.\n\nĐáp án đúng: ① に先立ち.\n\n〜に先立ち TIÊN LẬP（にさきだち）: trước khi.\n\nCác đáp án khác: に沿って: theo. もかまわず: bất chấp. をかねて: kiêm/nhân tiện."
+    },
+    {
+      "question_id": 117,
+      "question": "このような難病が手術で治るとは、医学の進歩に感謝<u>（　）</u>。",
+      "context": "",
+      "options": [
+        "しかねない",
+        "してならない",
+        "するわけにはいかない",
+        "せずにはいられない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch: Căn bệnh nan y như thế mà chữa được bằng phẫu thuật, thật khiến người ta không thể không biết ơn sự tiến bộ của y học.\n\nĐáp án đúng: ④ せずにはいられない.\n\n〜せずにはいられない: không thể không ~, không kìm được việc ~.\n\nCác đáp án khác: しかねない: có nguy cơ. してならない không dùng với 感謝 theo cấu trúc này. するわけにはいかない: không thể làm vì lý do xã hội/đạo đức."
+    },
+    {
+      "question_id": 118,
+      "question": "ちょうど食事ができあがった<u>（　）</u>父が帰ってきた。",
+      "context": "",
+      "options": [
+        "ところが",
+        "ところに",
+        "にあたり",
+        "最中に"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch: Đúng lúc vừa ăn xong/chuẩn bị xong bữa ăn thì bố trở về.\n\nĐáp án đúng: ② ところに.\n\n〜ところに: đúng lúc ~ thì một việc khác xảy ra.\n\nCác đáp án khác: ところが: thế nhưng. にあたり: nhân dịp/khi. 最中に: ngay giữa lúc đang làm."
+    },
+    {
+      "question_id": 119,
+      "question": "キャンペーン期間中に<u>（　）</u>入会金が無料となります。",
+      "context": "",
+      "options": [
+        "限り",
+        "わたり",
+        "際して",
+        "ついて"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Chỉ trong thời gian khuyến mãi thì phí gia nhập sẽ miễn phí.\n\nĐáp án đúng: ① 限り.\n\n〜に限り HẠN（にかぎり）: chỉ trong phạm vi/thời gian ~.\n\nCác đáp án khác: にわたり: trải suốt. に際して: nhân dịp/khi. について: về/liên quan đến."
+    },
+    {
+      "question_id": 120,
+      "question": "おもしろい<u>（　）</u>、この魚はオスが子育てをするのだそうだ。",
+      "context": "",
+      "options": [
+        "ことに",
+        "とおり",
+        "ばかりに",
+        "ものの"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch: Điều thú vị là loài cá này con đực chăm con.\n\nĐáp án đúng: ① ことに.\n\n〜ことに: thật là…, điều … là…; dùng để nêu cảm xúc/đánh giá của người nói.\n\nCác đáp án khác: とおり: đúng như. ばかりに: chỉ vì. ものの: mặc dù. Không hợp với おもしろい ở đầu câu này."
+    }
+  ]
+}

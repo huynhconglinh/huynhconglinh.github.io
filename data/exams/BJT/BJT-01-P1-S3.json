@@ -1,0 +1,1220 @@
+{
+  "id": "BJT-01-P1-S3",
+  "code": "BJT-01-P1-S3",
+  "title": "BJT 1 · Nghe hiểu · Section 3 (練習 + 1〜15番)",
+  "track": "bjt",
+  "level": "BJT",
+  "topic": "listening",
+  "source": "riki/ビジネス日本語能力テスト1/…BJT CD.pdf（第１部・セクション３・スクリプト p.87–102）",
+  "questionCount": 16,
+  "questions": [
+    {
+      "question_id": 0,
+      "type": "listening",
+      "label": "練習",
+      "audio_ref": "CD-1 | 27",
+      "question": "女の人は、どの書類を作成しますか。",
+      "context": "",
+      "options": [
+        "企画書",
+        "見積書",
+        "請求書",
+        "契約書"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が話しています。女の人は、どの書類を作成しますか。",
+          "vi": "Một người đàn ông và một người phụ nữ đang nói chuyện. Người phụ nữ sẽ tạo giấy tờ nào?"
+        },
+        {
+          "role": "male",
+          "jp": "ジェーンさん、アメリカン商事に送った見積書の返事はどう？",
+          "vi": "Jane, phản hồi về bản báo giá gửi cho American Shoji thế nào rồi?"
+        },
+        {
+          "role": "female",
+          "jp": "ええ、きのう、先方から電話があって、あれでオーケーとのことでした。",
+          "vi": "Vâng, hôm qua bên kia gọi điện, bảo là ổn với bản đó."
+        },
+        {
+          "role": "male",
+          "jp": "じゃ、うちの企画通りでいいということだね。それじゃ、さっそく、契約書のドラフト、作ってみてよ。",
+          "vi": "Vậy là theo đúng phương án của mình cũng được nhỉ. Thế thì, làm ngay bản nháp hợp đồng đi."
+        },
+        {
+          "role": "female",
+          "jp": "かしこまりました。",
+          "vi": "Dạ, em hiểu rồi ạ."
+        }
+      ],
+      "explanation": "正答：4\n\n女性社員の立場で課題に応える。上司の話を聞いた女性社員が、そのあと何をするかを予測する問題。男性の「契約書のドラフト、作って」の依頼発話の部分を聞き取ることができれば、正解がわかる。ことばとことばの単純なマッチングの問題。その部分を聞き逃さないようにすることが肝心。\n\nĐáp án đúng: 4. 契約書.\n- Nghe yêu cầu cấp trên: 「契約書のドラフト、作ってみてよ」→ nữ sẽ soạn bản nháp hợp đồng."
+    },
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "1番",
+      "audio_ref": "CD-1 | 28",
+      "question": "サービスセンターでは、このあと、どうすると言っていますか。",
+      "context": "",
+      "options": [
+        "ハードの担当者が電話をする。",
+        "ソフトの担当者が電話をする。",
+        "ハードを点検する。",
+        "ソフトを点検する。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人が、パソコン会社のサービスセンターに電話をしています。サービスセンターでは、このあと、どうすると言っていますか。",
+          "vi": "Một người đàn ông đang gọi đến trung tâm dịch vụ của công ty máy tính. Trung tâm dịch vụ nói sẽ làm gì tiếp theo?"
+        },
+        {
+          "role": "female",
+          "jp": "はい、サクラ電子サービスセンター、ハードウエア係です。",
+          "vi": "Xin chào, Trung tâm dịch vụ Sakura Electronics, bộ phận phần cứng ạ."
+        },
+        {
+          "role": "male",
+          "jp": "あの、パソコン、壊れてるんですが。",
+          "vi": "À, máy tính của tôi bị hỏng ạ."
+        },
+        {
+          "role": "female",
+          "jp": "はい。では、どのような状態かご説明いただけますか。",
+          "vi": "Vâng. Vậy anh/chị có thể mô tả tình trạng như thế nào không ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "ええ。DVDが見られないんですよ。",
+          "vi": "Vâng. Tôi không xem được DVD."
+        },
+        {
+          "role": "female",
+          "jp": "DVDですね。",
+          "vi": "DVD đúng không ạ."
+        },
+        {
+          "role": "male",
+          "jp": "ええ。DVDを入れて起動しようとすると、何回やっても強制終了になっちゃうんですよ。",
+          "vi": "Vâng. Cứ bỏ DVD vào rồi cố khởi động là bị buộc thoát chương trình, dù thử bao nhiêu lần cũng vậy."
+        },
+        {
+          "role": "female",
+          "jp": "そうですか。そうしますと、ソフトに問題があると考えられますので、ソフト部門の者にお回しします。少々お待ちください。",
+          "vi": "Vậy ạ. Như vậy thì có thể nghĩ là vấn đề ở phần mềm, nên tôi sẽ chuyển anh/chị sang người bên phần mềm. Xin chờ một chút."
+        },
+        {
+          "role": "female",
+          "jp": "……申し訳ございません。ただいま、ふさがっているようですので、折り返しご連絡させるようにいたしますが。",
+          "vi": "……Xin lỗi ạ. Hiện bên đó đang bận, nên tôi sẽ để họ gọi lại cho anh/chị."
+        },
+        {
+          "role": "male",
+          "jp": "いつ頃になりますか。",
+          "vi": "Khoảng khi nào vậy ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "このあとすぐに、お電話、差し上げられると思います。",
+          "vi": "Tôi nghĩ ngay sau đây họ sẽ gọi điện cho anh/chị được ạ."
+        },
+        {
+          "role": "male",
+          "jp": "そうですか。お願いします。",
+          "vi": "Vậy ạ. Nhờ chị."
+        },
+        {
+          "role": "female",
+          "jp": "はい、かしこまりました。",
+          "vi": "Vâng, xin tuân theo ạ."
+        }
+      ],
+      "explanation": "正答：2\n\n電話をかけた男性の立場で課題に答える。電話に出た女性がハード部門の担当者であることを特定し、その女性社員の「ソフト部門の者にお回しします」「折り返しご連絡させる」「このあとすぐに、お電話、差し上げられる」が聞き取れれば、正解だとわかる。\n\nĐáp án đúng: 2. ソフトの担当者が電話をする。\n- Chuyển sang Soft → Soft đang bận → sẽ gọi lại ngay sau đó."
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "2番",
+      "audio_ref": "CD-1 | 29",
+      "question": "女の人は、このあとすぐ、何をしますか。",
+      "context": "",
+      "options": [
+        "出張中の担当者に、連絡をとる。",
+        "課長に、折り返し電話をするように伝える。",
+        "取引先に、品物をすぐ届ける。",
+        "もう１度、取引先から電話してもらう。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "取引先の人から、電話がかかってきました。女の人は、このあとすぐ、何をしますか。",
+          "vi": "Có điện thoại từ đối tác. Người phụ nữ sẽ làm gì ngay sau đó?"
+        },
+        {
+          "role": "female",
+          "jp": "はい、ヤマモト商事、事業部でございます。",
+          "vi": "Xin chào, Yamamoto Shoji, bộ phận kinh doanh ạ."
+        },
+        {
+          "role": "male",
+          "jp": "あ、アサヒ物産の田中と申します。",
+          "vi": "À, tôi là Tanaka bên Asahi Bussan."
+        },
+        {
+          "role": "female",
+          "jp": "いつもお世話になっております。",
+          "vi": "Cảm ơn anh luôn quan tâm ạ."
+        },
+        {
+          "role": "male",
+          "jp": "注文の品、まだ届いていないんですが、池上さん、いらっしゃいませんか。",
+          "vi": "Hàng đặt vẫn chưa tới, không biết anh Ikegami có ở đó không ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "大変申し訳ありませんが、池上は、出張中でして。",
+          "vi": "Xin lỗi nhiều ạ, Ikegami đang đi công tác."
+        },
+        {
+          "role": "male",
+          "jp": "うーん、そうですか。困ったな。じゃあ、課長さんの……、佐藤さんはいらっしゃいますか。今回の納品の件、よくご存知のはずなんですが。",
+          "vi": "Ừm, vậy à. Khó đây. Thế còn trưởng khoa… anh Sato có không ạ? Chắc anh ấy biết rõ vụ giao hàng lần này."
+        },
+        {
+          "role": "female",
+          "jp": "あ、さようでございますか。それでは、佐藤に……。あ、申し訳ございません。佐藤は、ただいま席をはずしておりまして。戻り次第、折り返しご連絡するようにいたしますが……。",
+          "vi": "À, vậy ạ. Vậy tôi gọi Sato… À xin lỗi, Sato vừa rời chỗ. Khi anh ấy về tôi sẽ bảo gọi lại ạ……"
+        },
+        {
+          "role": "male",
+          "jp": "そうですか。じゃあ、よろしくお願いします。",
+          "vi": "Vậy ạ. Vậy nhờ chị."
+        },
+        {
+          "role": "female",
+          "jp": "かしこまりました。失礼いたします。",
+          "vi": "Dạ vâng. Xin phép ạ."
+        }
+      ],
+      "explanation": "正答：2\n\n女性社員の「佐藤は、ただいま席をはずして」「折り返しご連絡する」から、彼女が上司の課長に電話するように伝言するはずと予測して正解。\n\nĐáp án đúng: 2. Truyền lời để trưởng khoa gọi lại."
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "3番",
+      "audio_ref": "CD-1 | 30",
+      "question": "男の人は、どうしてほしいと言っていますか。",
+      "context": "",
+      "options": [
+        "発表会までに完成してほしい。",
+        "発表会の前にお客に見せてほしい。",
+        "販売の予約を受け付けてほしい。",
+        "お客に工場を見せてほしい。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が、新商品について、電話で話しています。男の人は、どうしてほしいと言っていますか。",
+          "vi": "Nam và nữ đang nói chuyện điện thoại về sản phẩm mới. Người đàn ông muốn đối phương làm gì?"
+        },
+        {
+          "role": "female",
+          "jp": "はい、開発課の伊藤です。",
+          "vi": "Xin chào, Ito bên phòng phát triển ạ."
+        },
+        {
+          "role": "male",
+          "jp": "あ、営業課の中村ですが……。あの、例の新商品の完成版のことなんですけど。",
+          "vi": "À, Nakamura bên kinh doanh… Về bản hoàn thiện sản phẩm mới lần trước ạ."
+        },
+        {
+          "role": "female",
+          "jp": "ああ、その件は、大丈夫です。発表会には間に合わせますから。",
+          "vi": "À, chuyện đó ổn ạ. Sẽ kịp cho buổi công bố."
+        },
+        {
+          "role": "male",
+          "jp": "あ、それが実は、発表会の前に、どうしても見せてほしいって言ってるお客さんがいるんですよ。",
+          "vi": "À, thật ra có khách cứ muốn được xem trước buổi công bố."
+        },
+        {
+          "role": "female",
+          "jp": "えー？前っていつですか？",
+          "vi": "Ơ? Trước là khi nào?"
+        },
+        {
+          "role": "male",
+          "jp": "あの、１週間ぐらい前なんですけど……。",
+          "vi": "Khoảng một tuần trước……"
+        },
+        {
+          "role": "female",
+          "jp": "それは無理です。なんとか発表会に間に合わせようとしてるんですから。",
+          "vi": "Cái đó thì không được. Bên em đang cố kịp buổi công bố mà."
+        },
+        {
+          "role": "male",
+          "jp": "そこをなんとか……、なりませんか。大量の予約販売につながると思うんですよ。",
+          "vi": "Xin cố giúp một chút… được không ạ? Em nghĩ sẽ dẫn tới đặt hàng số lượng lớn."
+        },
+        {
+          "role": "female",
+          "jp": "はあ。もう……。わかりました。なんとかしますけど、工場への根回しはお願いしますね。",
+          "vi": "Haa. Thôi… Được rồi. Em sẽ cố, nhưng nhờ anh lo việc dàn xếp với nhà máy nhé."
+        },
+        {
+          "role": "male",
+          "jp": "ええ。このあとすぐに連絡しときます。",
+          "vi": "Vâng. Em sẽ liên lạc ngay sau đây."
+        }
+      ],
+      "explanation": "正答：2\n\n男性の「発表会の前」「見せてほしい」「お客さん」と女性の「わかりました」から正解。\n\nĐáp án đúng: 2. Muốn cho khách xem trước buổi công bố."
+    },
+    {
+      "question_id": 4,
+      "type": "listening",
+      "label": "4番",
+      "audio_ref": "CD-1 | 31",
+      "question": "女の人は、このあと、何をしますか。",
+      "context": "",
+      "options": [
+        "入金の確認をする。",
+        "メールを出す。",
+        "電話をする。",
+        "外出する。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が、取引先の入金の状況について話しています。女の人は、このあと、何をしますか。",
+          "vi": "Nam và nữ đang nói về tình trạng tiền chuyển khoản từ đối tác. Người phụ nữ sẽ làm gì sau đó?"
+        },
+        {
+          "role": "male",
+          "jp": "うわー、まいったなあ。",
+          "vi": "Úi, bí rồi."
+        },
+        {
+          "role": "female",
+          "jp": "どうしたんですか？",
+          "vi": "Sao vậy ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "ヤマシタ物産からの入金なんだけど、今日も入ってないんだよ。",
+          "vi": "Tiền từ Yamashita Bussan hôm nay cũng chưa vào."
+        },
+        {
+          "role": "female",
+          "jp": "えー、まだなの？",
+          "vi": "Ơ, vẫn chưa à?"
+        },
+        {
+          "role": "male",
+          "jp": "うん、メールでプッシュするのも、もう、何回目だろ。",
+          "vi": "Ừ, thúc bằng mail cũng bao nhiêu lần rồi."
+        },
+        {
+          "role": "female",
+          "jp": "金利が、ばかにならないもんね。",
+          "vi": "Lãi suất cũng không phải ít nhỉ."
+        },
+        {
+          "role": "male",
+          "jp": "うん。週明けには入ってるって、返事だったのに……。電話するしかないか。あ、でも、今日、これからずっと外回りだ。",
+          "vi": "Ừ. Họ bảo đầu tuần sẽ vào cơ…… Chỉ còn cách gọi thôi. À nhưng hôm nay anh đi ngoài cả ngày."
+        },
+        {
+          "role": "female",
+          "jp": "わたし、代わりにやっとこうか？",
+          "vi": "Em gọi thay luôn được không?"
+        },
+        {
+          "role": "male",
+          "jp": "お願いできるかなあ。",
+          "vi": "Nhờ được không nhỉ."
+        },
+        {
+          "role": "female",
+          "jp": "ええ、担当者と何度か話したことあるから。まかせといて。",
+          "vi": "Được, em từng nói chuyện với người phụ trách vài lần rồi. Cứ để đó."
+        },
+        {
+          "role": "male",
+          "jp": "助かるよ。",
+          "vi": "Cứu mạng đấy."
+        }
+      ],
+      "explanation": "正答：3\n\n男性の「電話するしかない」「外回り」と女性の「代わりにやっとこう」「まかせといて」から、女性が代わりに電話すると予測。\n\nĐáp án đúng: 3. Gọi điện (thay cho nam)."
+    },
+    {
+      "question_id": 5,
+      "type": "listening",
+      "label": "5番",
+      "audio_ref": "CD-1 | 32",
+      "question": "退職する人が、この会社で一番長くしてきた仕事は何ですか。",
+      "context": "",
+      "options": [
+        "生産ラインの構築",
+        "記録装置の設計",
+        "技術者の教育",
+        "工場の建設"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "女の人が、退職者のパーティーで話しています。退職する人が、この会社で一番長くしてきた仕事は何ですか。",
+          "vi": "Người phụ nữ đang phát biểu ở tiệc người nghỉ việc. Công việc người nghỉ làm lâu nhất ở công ty này là gì?"
+        },
+        {
+          "role": "female",
+          "jp": "本日は、長らくお世話になりました大先輩の後藤伸一さんのご退職にあたり、感謝の会を開催いたします。",
+          "vi": "Hôm nay chúng ta tổ chức buổi cảm ơn nhân dịp tiền bối Goto Shinichi nghỉ việc sau bao năm gắn bó."
+        },
+        {
+          "role": "female",
+          "jp": "後藤さんは、1960年に当社に入社されました。はじめは、設備設計を担当され、その後、長らく生産ラインの構築に貢献されたとうかがっております。",
+          "vi": "Goto vào công ty năm 1960. Ban đầu phụ trách thiết kế thiết bị, sau đó đóng góp lâu dài vào xây dựng dây chuyền sản xuất."
+        },
+        {
+          "role": "female",
+          "jp": "そのあと、一時、記録装置の設計主任として、技術者の教育にあたられました。それから、量産工場に移られ、記録装置の量産のため、再びラインの構築にあたられました。",
+          "vi": "Sau đó một thời gian làm chủ nhiệm thiết kế thiết bị ghi và đào tạo kỹ sư. Rồi chuyển sang nhà máy sản xuất hàng loạt, lại làm xây dựng dây chuyền cho sản xuất thiết bị ghi."
+        },
+        {
+          "role": "female",
+          "jp": "えー、それから、記録装置の低価格化が進むにつれ、東南アジアでの生産が必要になってまいりましたので、５年前に、工場長としてマニラ工場に赴任されました。",
+          "vi": "Sau đó, khi thiết bị ghi ngày càng rẻ, cần sản xuất ở Đông Nam Á, nên 5 năm trước ông sang nhà máy Manila làm giám đốc nhà máy."
+        },
+        {
+          "role": "female",
+          "jp": "マニラ工場の建設とその後の稼働を見届けたあと、ご帰国。本社に戻られ、このたび、定年をお迎えになりました。",
+          "vi": "Sau khi chứng kiến xây dựng và vận hành nhà máy Manila, ông về nước, trở lại trụ sở, và lần này đến tuổi nghỉ hưu."
+        },
+        {
+          "role": "female",
+          "jp": "長年にわたる後藤さんのご指導に、感謝の意を表したいと思います。",
+          "vi": "Chúng tôi muốn bày tỏ lòng biết ơn trước sự chỉ bảo lâu dài của Goto."
+        }
+      ],
+      "explanation": "正答：1\n\n「長らく生産ラインの構築に貢献」「再びラインの構築にあたられ」がポイント。「一時」「５年前」などのほかの仕事は除外。\n\nĐáp án đúng: 1. Xây dựng dây chuyền sản xuất (làm lâu nhất)."
+    },
+    {
+      "question_id": 6,
+      "type": "listening",
+      "label": "6番",
+      "audio_ref": "CD-1 | 33",
+      "question": "上司は、派遣社員をどのように採用したいと言っていますか。",
+      "context": "",
+      "options": [
+        "同じ人を１カ月以内",
+        "３名の人を１カ月以内",
+        "同じ人を１カ月以上",
+        "３名の人を１カ月以上"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "上司と部下が、派遣社員の採用について話しています。上司は、派遣社員をどのように採用したいと言っていますか。",
+          "vi": "Cấp trên và cấp dưới đang nói về tuyển nhân viên phái cử. Cấp trên muốn tuyển như thế nào?"
+        },
+        {
+          "role": "male",
+          "jp": "高橋君。例の、キャンペーン期間中の派遣社員、手配のほうどうなってる？",
+          "vi": "Takahashi. Việc sắp xếp nhân viên phái cử trong kỳ chiến dịch thế nào rồi?"
+        },
+        {
+          "role": "male",
+          "jp": "あ、はい、派遣会社から連絡がありまして、１カ月を２、３名のローテーションでどうかと言ってきてるんですが。",
+          "vi": "Dạ, công ty phái cử liên lạc, hỏi có được không nếu xoay 2–3 người trong một tháng."
+        },
+        {
+          "role": "male",
+          "jp": "１カ月を２、３名？",
+          "vi": "Một tháng mà 2–3 người?"
+        },
+        {
+          "role": "male",
+          "jp": "はい、１日とか２日交代の形になると思いますが。",
+          "vi": "Dạ, hình như sẽ thay theo 1–2 ngày."
+        },
+        {
+          "role": "male",
+          "jp": "うーん。何カ月もっていうわけじゃないんだから、１人でフルに入ってもらえる人を頼むよ。",
+          "vi": "Ừm. Cũng chẳng kéo dài nhiều tháng, nhờ tìm người một mình vào full nhé."
+        },
+        {
+          "role": "male",
+          "jp": "そうですか。交代ではだめですか。",
+          "vi": "Vậy ạ. Thay phiên không được ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "うん、１カ月だけのことだからねえ。人数が多いと、手間がかかって効率悪いからなあ。",
+          "vi": "Ừ, chỉ có một tháng thôi mà. Nhiều người thì mất công, kém hiệu quả."
+        },
+        {
+          "role": "male",
+          "jp": "ええ。そうですね。",
+          "vi": "Vâng. Đúng vậy ạ."
+        },
+        {
+          "role": "male",
+          "jp": "うん、そういうことだから、もう１度、調整してみてくれないか。",
+          "vi": "Ừ, vậy nên nhờ điều chỉnh lại một lần nữa."
+        },
+        {
+          "role": "male",
+          "jp": "わかりました。連絡してみます。",
+          "vi": "Dạ hiểu. Em sẽ liên lạc thử."
+        }
+      ],
+      "explanation": "正答：1\n\n上司の「１人でフルに入ってもらえる人」「１カ月だけのこと」がポイント。\n\nĐáp án đúng: 1. Cùng một người trong vòng 1 tháng."
+    },
+    {
+      "question_id": 7,
+      "type": "listening",
+      "label": "7番",
+      "audio_ref": "CD-1 | 34",
+      "question": "女の人は、研修で、どんなことを教えたらいいと言っていますか。",
+      "context": "",
+      "options": [
+        "コンピュータの使い方",
+        "会社員の心がまえ",
+        "会社の事業内容",
+        "会社での実務"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が、社内の新人研修について話しています。女の人は、研修で、どんなことを教えたらいいと言っていますか。",
+          "vi": "Nam và nữ đang nói về đào tạo nhân viên mới trong công ty. Người phụ nữ nói nên dạy gì trong khóa đào tạo?"
+        },
+        {
+          "role": "male",
+          "jp": "ちょっと、これ、新人研修のプログラム、見た？",
+          "vi": "Này, chương trình đào tạo nhân viên mới, cậu xem chưa?"
+        },
+        {
+          "role": "female",
+          "jp": "ええ。",
+          "vi": "Rồi."
+        },
+        {
+          "role": "male",
+          "jp": "今年は、いろいろ新しいのが増えたよね。パソコン入門とか。",
+          "vi": "Năm nay thêm nhiều cái mới nhỉ. Như nhập môn máy tính."
+        },
+        {
+          "role": "female",
+          "jp": "そう？いまどき、別に新しいとは思わないけどな。それに、なんだか座学が多くて、ちょっとね。",
+          "vi": "Vậy à? Giờ này chẳng thấy mới. Mà ngồi nghe lý thuyết nhiều quá, hơi…"
+        },
+        {
+          "role": "male",
+          "jp": "たとえば？",
+          "vi": "Ví dụ?"
+        },
+        {
+          "role": "female",
+          "jp": "うーん。まず、いまどき「パソコン入門」なんて無用だと思うし、総務部の「企業倫理」もねえ。",
+          "vi": "Ừm. Trước hết giờ này “nhập môn máy tính” thừa, “đạo đức doanh nghiệp” của hành chính cũng thế."
+        },
+        {
+          "role": "male",
+          "jp": "なんで？",
+          "vi": "Sao?"
+        },
+        {
+          "role": "female",
+          "jp": "だって、そんなこと、わざわざ教えなければ通用しないような人は、もともと面接で落とされてるわけでしょ。",
+          "vi": "Vì người mà không dạy những thứ đó thì không sống nổi thì vốn đã bị loại từ vòng phỏng vấn rồi."
+        },
+        {
+          "role": "male",
+          "jp": "なるほどね。",
+          "vi": "Ra vậy."
+        },
+        {
+          "role": "female",
+          "jp": "それに他の部も。なんか「入門」とか「事業説明」っていうことばが多いと思わない？",
+          "vi": "Mà các bộ phận khác cũng thế. Không thấy từ “nhập môn” hay “giải thích nghiệp vụ” nhiều quá à?"
+        },
+        {
+          "role": "male",
+          "jp": "え？",
+          "vi": "Ơ?"
+        },
+        {
+          "role": "female",
+          "jp": "まあ、そういう時間も導入として必要かもしれないけどね。もっとこう、現場のことを教えたほうが、新人には、役に立つと思うんだけどな。",
+          "vi": "Thôi thì thời gian đó làm phần dẫn nhập cũng cần. Nhưng mình nghĩ dạy việc hiện trường sẽ hữu ích hơn cho người mới."
+        },
+        {
+          "role": "male",
+          "jp": "そういえば、確かに、ぼくも眠くなった覚えがあるよ。",
+          "vi": "Nói vậy cũng đúng, mình cũng từng buồn ngủ lắm."
+        }
+      ],
+      "explanation": "正答：4\n\n女性の「現場のことを教えたほうが役に立つ」＝選択肢「会社での実務」。\n\nĐáp án đúng: 4. Công việc thực tế tại công ty."
+    },
+    {
+      "question_id": 8,
+      "type": "listening",
+      "label": "8番",
+      "audio_ref": "CD-1 | 35",
+      "question": "今回の取引について、上司が一番気にしていることは、何ですか。",
+      "context": "",
+      "options": [
+        "取引先の経営状態",
+        "支払いの条件",
+        "競合するメーカー",
+        "取引先のニーズ"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "上司と部下が、新しい取引について話しています。今回の取引について、上司が一番気にしていることは、何ですか。",
+          "vi": "Cấp trên và cấp dưới đang nói về giao dịch mới. Điều cấp trên quan tâm nhất về giao dịch lần này là gì?"
+        },
+        {
+          "role": "male",
+          "jp": "課長。いまから、ABC社へ見積もりの打ち合わせに行ってきます。",
+          "vi": "Trưởng khoa. Em đi gặp ABC bàn báo giá đây ạ."
+        },
+        {
+          "role": "female",
+          "jp": "あ、ちょっと待って。その前に、このあいだのこと、どうなった？",
+          "vi": "Khoan đã. Trước đó, chuyện lần trước thế nào rồi?"
+        },
+        {
+          "role": "male",
+          "jp": "なんでしたっけ。",
+          "vi": "Chuyện gì ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "先方の業績。",
+          "vi": "Kết quả kinh doanh bên kia."
+        },
+        {
+          "role": "male",
+          "jp": "あ、それなら、ちょっと調べてみたんですけど、このところずっと、税引き後で12％の利益、出してますから、順調のようですよ。",
+          "vi": "À, em có tra rồi, gần đây lãi sau thuế khoảng 12%, trông ổn ạ."
+        },
+        {
+          "role": "female",
+          "jp": "そう……。でも、おもてに出ないところもあるからね……。で、今回の支払条件は？",
+          "vi": "Vậy…… Nhưng cũng có phần không lộ ra ngoài…… Còn điều kiện thanh toán lần này?"
+        },
+        {
+          "role": "male",
+          "jp": "はい。まず、現金ですね。それで、納入後の翌月末払いで。",
+          "vi": "Dạ. Trước hết là tiền mặt. Và thanh toán cuối tháng sau khi giao hàng."
+        },
+        {
+          "role": "female",
+          "jp": "うん、そうね。それから……、競争メーカーは？どうなってる？",
+          "vi": "Ừ, được. Rồi…… đối thủ cạnh tranh thế nào?"
+        },
+        {
+          "role": "male",
+          "jp": "ええ。うちを入れて、３社に引合いを出してるそうですから、今日はよくニーズを把握してきます。",
+          "vi": "Dạ. Gồm mình là 3 công ty được hỏi giá, hôm nay em sẽ nắm nhu cầu kỹ."
+        },
+        {
+          "role": "female",
+          "jp": "そう。まあ、それも大事だけど、さっき言ったように、単にデータだけじゃわからないからね。その辺のことは、引き続き頼むね。",
+          "vi": "Ừ. Cũng quan trọng, nhưng như lúc nãy, chỉ nhìn số liệu thôi thì chưa rõ. Chuyện đó nhờ tiếp tục nhé."
+        },
+        {
+          "role": "male",
+          "jp": "はい、わかりました。",
+          "vi": "Dạ, hiểu rồi ạ."
+        }
+      ],
+      "explanation": "正答：1\n\n「先方の業績」「データだけじゃわからない」が中心。支払条件・競合・ニーズは「まあ、それも大事だけど」と軽く扱われる。\n\nĐáp án đúng: 1. Tình trạng kinh doanh của đối tác."
+    },
+    {
+      "question_id": 9,
+      "type": "listening",
+      "label": "9番",
+      "audio_ref": "CD-1 | 36",
+      "question": "男の人は、このあと、取引先にどのような内容のメールを書きますか。",
+      "context": "",
+      "options": [
+        "見積書",
+        "契約書",
+        "契約書の案",
+        "旅費の精算書"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が話しています。男の人は、このあと、取引先にどのような内容のメールを書きますか。",
+          "vi": "Nam và nữ đang nói chuyện. Người đàn ông sẽ viết mail nội dung gì cho đối tác sau đó?"
+        },
+        {
+          "role": "male",
+          "jp": "課長、ただいま帰りました。",
+          "vi": "Trưởng khoa, em vừa về ạ."
+        },
+        {
+          "role": "female",
+          "jp": "ご苦労さん。どうだった？",
+          "vi": "Vất vả rồi. Thế nào?"
+        },
+        {
+          "role": "male",
+          "jp": "うまくいきましたよ。決まりです。",
+          "vi": "Ổn ạ. Chốt rồi."
+        },
+        {
+          "role": "female",
+          "jp": "そう。アサヒ製作所さん、見積もりの条件、のんでくれた？",
+          "vi": "Hay. Asahi Seisakusho chịu điều kiện báo giá chứ?"
+        },
+        {
+          "role": "male",
+          "jp": "いえ、けっこう粘られました。",
+          "vi": "Không, họ dai khá."
+        },
+        {
+          "role": "female",
+          "jp": "そうだろうね。",
+          "vi": "Cũng đúng."
+        },
+        {
+          "role": "male",
+          "jp": "ええ。でも、他社の条件、引合いに出したら、しぶしぶでしたけど、首をタテに振ってくれました。",
+          "vi": "Vâng. Nhưng em đưa điều kiện chỗ khác ra thì dù miễn cưỡng họ cũng gật."
+        },
+        {
+          "role": "female",
+          "jp": "そう！",
+          "vi": "Hay quá!"
+        },
+        {
+          "role": "male",
+          "jp": "早速、契約書、整えます。",
+          "vi": "Em soạn hợp đồng ngay."
+        },
+        {
+          "role": "female",
+          "jp": "うん。あ、契約書できたら、事前に、案を先方にメールしといてね。",
+          "vi": "Ừ. À, hợp đồng xong thì gửi trước bản nháp cho bên kia bằng mail nhé."
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Dạ."
+        },
+        {
+          "role": "female",
+          "jp": "それと、旅費の精算書も早くね。",
+          "vi": "Với cả bảng quyết toán chi phí đi lại cũng nhanh lên nhé."
+        }
+      ],
+      "explanation": "正答：3\n\n上司の「契約書できたら、…案を先方にメールしといて」→契約書の案。\n\nĐáp án đúng: 3. Bản nháp hợp đồng."
+    },
+    {
+      "question_id": 10,
+      "type": "listening",
+      "label": "10番",
+      "audio_ref": "CD-1 | 37",
+      "question": "女の人は、何を心配していますか。",
+      "context": "",
+      "options": [
+        "陳列の準備が間に合うかどうか",
+        "運送会社の車が事故にあったかどうか",
+        "事故処理が終わったかどうか",
+        "見本市が中止になるかどうか"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が、見本市の会場で話しています。女の人は、何を心配していますか。",
+          "vi": "Nam và nữ đang nói chuyện tại hội chợ triển lãm. Người phụ nữ đang lo gì?"
+        },
+        {
+          "role": "female",
+          "jp": "そろそろ、ブースにものを並べたいんですけど、荷物はどこですか。",
+          "vi": "Sắp muốn bày đồ ở booth rồi, hàng đâu ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "えっ、ブースになかったんですか？",
+          "vi": "Ơ, không có ở booth à?"
+        },
+        {
+          "role": "female",
+          "jp": "はい、ブースに行ったんですけど……。",
+          "vi": "Dạ, em đã ra booth……"
+        },
+        {
+          "role": "male",
+          "jp": "確か、まだ、いくつか荷物、届いてないって言ってたなあ。いつ頃、配送されたんですか？",
+          "vi": "Hình như còn vài kiện chưa tới. Gửi khoảng khi nào?"
+        },
+        {
+          "role": "female",
+          "jp": "うーん、昨日の夕方届くように送ったんですが……。おかしいですね。",
+          "vi": "Ừm, gửi để chiều hôm qua tới cơ…… Lạ thật."
+        },
+        {
+          "role": "male",
+          "jp": "あっ、そういえば、昨日の朝、高速道路で大きな事故があったんですよ。上下線が、丸１日通行止めだったんですよね。",
+          "vi": "À, nói mới nhớ, sáng hôm qua cao tốc có tai nạn lớn. Hai chiều tắc cả ngày."
+        },
+        {
+          "role": "female",
+          "jp": "今日も、まだ、だめなのかしら。",
+          "vi": "Hôm nay vẫn chưa thông sao?"
+        },
+        {
+          "role": "male",
+          "jp": "いや、事故処理は、昨日の夜遅く終わったみたいですよ。",
+          "vi": "Không, hình như xử lý tai nạn xong muộn tối hôm qua rồi."
+        },
+        {
+          "role": "female",
+          "jp": "明日からの見本市、大丈夫かなあ。まあ、会社には配送車両の事故の連絡も入ってないし……。開通してるんだったら、お昼には着くはずよね……。",
+          "vi": "Hội chợ từ mai liệu có ổn không. Công ty cũng không nhận tin xe giao bị tai nạn…… Nếu đã thông thì trưa nay chắc tới……"
+        }
+      ],
+      "explanation": "正答：1\n\n荷物はお昼には着きそうだが、陳列の準備が間に合うかが心配。\n\nĐáp án đúng: 1. Lo chuẩn bị bày hàng có kịp không."
+    },
+    {
+      "question_id": 11,
+      "type": "listening",
+      "label": "11番",
+      "audio_ref": "CD-1 | 38",
+      "question": "女の人は、お弁当をいくつ注文しますか。",
+      "context": "",
+      "options": [
+        "８個",
+        "10個",
+        "11個",
+        "12個"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が、会議の準備について話しています。女の人は、お弁当をいくつ注文しますか。",
+          "vi": "Nam và nữ đang nói về chuẩn bị họp. Người phụ nữ sẽ đặt bao nhiêu suất cơm hộp?"
+        },
+        {
+          "role": "male",
+          "jp": "佐藤さん。",
+          "vi": "Sato."
+        },
+        {
+          "role": "female",
+          "jp": "はい。",
+          "vi": "Dạ."
+        },
+        {
+          "role": "male",
+          "jp": "木曜日の会議用の弁当、注文してもらえる？",
+          "vi": "Nhờ đặt cơm hộp họp thứ Năm được không?"
+        },
+        {
+          "role": "female",
+          "jp": "はい、いくつですか。",
+          "vi": "Dạ, bao nhiêu suất ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "えーっと、全支店の営業課長が集まるから……。",
+          "vi": "À, các trưởng kinh doanh toàn chi nhánh họp……"
+        },
+        {
+          "role": "female",
+          "jp": "そうすると…８個ですね。",
+          "vi": "Vậy là… 8 suất ạ."
+        },
+        {
+          "role": "male",
+          "jp": "うん。あと、うちの分。部長と課長。",
+          "vi": "Ừ. Thêm phần bên mình. Trưởng phòng và trưởng khoa."
+        },
+        {
+          "role": "female",
+          "jp": "それじゃ、10個ですね。",
+          "vi": "Vậy là 10 suất ạ."
+        },
+        {
+          "role": "male",
+          "jp": "ちょっと僕の分も忘れないでくれよ。",
+          "vi": "Đừng quên phần anh nữa nhé."
+        },
+        {
+          "role": "female",
+          "jp": "あ、すみません。あれ、でも、部長、出張じゃなかったかしら。さっき、切符を手配したばかりですよ。",
+          "vi": "À xin lỗi. Khoan, trưởng phòng đang đi công tác phải không? Em vừa đặt vé đó."
+        },
+        {
+          "role": "male",
+          "jp": "え、聞いてなかったなあ。",
+          "vi": "Ơ, anh không nghe nói."
+        },
+        {
+          "role": "female",
+          "jp": "１個、減らしますか？",
+          "vi": "Giảm 1 suất ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "いや、いいよ。予備に入れといて。えーと、専務が出てくるかもしれないから。",
+          "vi": "Không cần. Để dự phòng. À, giám đốc điều hành có thể tới."
+        },
+        {
+          "role": "female",
+          "jp": "はい、わかりました。",
+          "vi": "Dạ, hiểu rồi ạ."
+        }
+      ],
+      "explanation": "正答：3\n\n支店営業課長８＋部長＋課長＋本人＝11。部長は出張だが予備として残し、専務の可能性も。\n\nĐáp án đúng: 3. 11 suất."
+    },
+    {
+      "question_id": 12,
+      "type": "listening",
+      "label": "12番",
+      "audio_ref": "CD-1 | 39",
+      "question": "部下は、このあと最初に、何をしますか。",
+      "context": "",
+      "options": [
+        "役員会の資料を作る。",
+        "部内会議の資料を作る。",
+        "部内の意見を調整する。",
+        "企画部との調整をする。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "ある会社の営業部で、部長と部下が、会議の準備について話しています。部下は、このあと最初に、何をしますか。",
+          "vi": "Ở phòng kinh doanh một công ty, trưởng phòng và cấp dưới đang nói về chuẩn bị họp. Cấp dưới sẽ làm gì đầu tiên sau đó?"
+        },
+        {
+          "role": "male",
+          "jp": "いよいよ、来年度の事業計画をまとめる時期に入ったね。来月の役員会の準備は、どう？",
+          "vi": "Sắp đến lúc tổng hợp kế hoạch kinh doanh năm sau rồi. Chuẩn bị họp HĐQT tháng sau thế nào?"
+        },
+        {
+          "role": "male",
+          "jp": "ええ。資料は、揃いつつあります。ただ、その前に、もう１度、部内の調整をしておく必要があると思うんですが。",
+          "vi": "Dạ. Tài liệu đang dần đủ. Nhưng trước đó em nghĩ cần thống nhất trong phòng một lần nữa."
+        },
+        {
+          "role": "male",
+          "jp": "そうだね。じゃ、今週中に、１度、時間を作りましょう。",
+          "vi": "Đúng. Trong tuần này xếp một buổi nhé."
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Dạ."
+        },
+        {
+          "role": "male",
+          "jp": "それまでに、役員会とは別の資料がいるけど、用意できるかな。",
+          "vi": "Trước đó cần tài liệu khác với họp HĐQT, chuẩn bị được không?"
+        },
+        {
+          "role": "male",
+          "jp": "ええ。一両日中に、用意できます。",
+          "vi": "Dạ. Trong một hai ngày là xong."
+        },
+        {
+          "role": "male",
+          "jp": "そう。じゃ、頼むよ。いまやってるプロジェクトは、これからが正念場だからね。",
+          "vi": "Được. Nhờ nhé. Dự án đang làm sắp vào giai đoạn then chốt rồi."
+        },
+        {
+          "role": "male",
+          "jp": "そうですね。これから、やっと収益が出るというところまで、きましたからね。",
+          "vi": "Vâng. Sắp tới giai đoạn mới bắt đầu có lãi rồi ạ."
+        },
+        {
+          "role": "male",
+          "jp": "うん。あ、部内での調整ももちろんだけど、企画部の部長とも、１度、話しといたほうがいいかな。",
+          "vi": "Ừ. À, thống nhất trong phòng tất nhiên rồi, nhưng cũng nên nói một lần với trưởng phòng kế hoạch."
+        },
+        {
+          "role": "male",
+          "jp": "それなら、わたしより、部長のほうからお話ししていただいたほうが。",
+          "vi": "Việc đó thì để trưởng phòng nói sẽ hơn em."
+        },
+        {
+          "role": "male",
+          "jp": "わかった。じゃ、それは、わたしがやろう。",
+          "vi": "Hiểu rồi. Việc đó anh làm."
+        }
+      ],
+      "explanation": "正答：2\n\nこのあと最初は「役員会とは別の資料」（＝部内会議用）を用意。企画部との調整は部長がやる。\n\nĐáp án đúng: 2. Làm tài liệu họp nội bộ phòng."
+    },
+    {
+      "question_id": 13,
+      "type": "listening",
+      "label": "13番",
+      "audio_ref": "CD-1 | 40",
+      "question": "まだ解決していない問題は、何ですか。",
+      "context": "",
+      "options": [
+        "部品の生産能力",
+        "部品の供給元の確保",
+        "新工場の稼働率",
+        "今後の労働力の確保"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "女の人が、パソコンの増産体制について、会議で報告しています。まだ解決していない問題は、何ですか。",
+          "vi": "Người phụ nữ đang báo cáo trong họp về hệ thống tăng sản xuất máy tính. Vấn đề chưa giải quyết là gì?"
+        },
+        {
+          "role": "female",
+          "jp": "ノートパソコンを増産するにあたりまして、部品の供給、そして、ワーカーの確保が問題となっていましたが、本日は、調査の結果をご報告いたします。",
+          "vi": "Khi tăng sản xuất laptop, cung ứng linh kiện và đảm bảo công nhân từng là vấn đề; hôm nay tôi báo cáo kết quả điều tra."
+        },
+        {
+          "role": "female",
+          "jp": "えー、まず、部品のサプライヤーですが、今回、定評のある２社を、新たに加えることに成功いたしました。また、現在ある５社も、供給能力に問題はないと思われます。",
+          "vi": "Trước hết về nhà cung cấp linh kiện: lần này đã thêm thành công 2 công ty uy tín. 5 công ty hiện có cũng không vấn đề năng lực cung ứng."
+        },
+        {
+          "role": "female",
+          "jp": "次に、ワーカーの手配についてですが、常時採用可能な期間工を100名確保いたしました。この状況は、今後、半年間は変わらない見通しです。",
+          "vi": "Tiếp theo về sắp xếp công nhân: đã đảm bảo 100 công nhân thời vụ có thể tuyển thường xuyên. Tình hình này dự kiến ổn nửa năm tới."
+        },
+        {
+          "role": "female",
+          "jp": "ただ、半年後に、他社の新工場が稼働することがわかりまして、その際には、そちらに、かなり移る可能性があると思われます。その時点で、なおワーカーを確保できるかが、今回の目標達成の成否を、大きく左右すると思われます。",
+          "vi": "Nhưng nửa năm sau nhà máy mới của công ty khác sẽ vận hành, khi đó nhiều người có thể chuyển sang đó. Lúc đó còn giữ được công nhân hay không sẽ ảnh hưởng lớn đến việc đạt mục tiêu lần này."
+        }
+      ],
+      "explanation": "正答：4\n\n部品・現時点のワーカーは確保済み。半年後の労働力確保が未解決。\n\nĐáp án đúng: 4. Đảm bảo lực lượng lao động về sau."
+    },
+    {
+      "question_id": 14,
+      "type": "listening",
+      "label": "14番",
+      "audio_ref": "CD-1 | 41",
+      "question": "女の人は、このあと、取引先の要求にどのように答えますか。",
+      "context": "",
+      "options": [
+        "納品数にも値引きにも応じる。",
+        "納品数にも値引きにも応じない。",
+        "納品数は応じるが、値引きには応じない。",
+        "納品数には応じないが、値引きには応じる。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の人と女の人が、取引先からの注文について話しています。女の人は、このあと、取引先にどのように答えますか。",
+          "vi": "Nam và nữ đang nói về đơn hàng từ đối tác. Người phụ nữ sẽ trả lời đối tác thế nào sau đó?"
+        },
+        {
+          "role": "female",
+          "jp": "課長、先月受注したゲーム機のことで、さきほど、ミナト商事さんから電話があったんですが。",
+          "vi": "Trưởng khoa, về máy game nhận đơn tháng trước, vừa rồi Minato Shoji gọi ạ."
+        },
+        {
+          "role": "male",
+          "jp": "それで、なんだって？",
+          "vi": "Họ nói gì?"
+        },
+        {
+          "role": "female",
+          "jp": "あの、注文数を倍にしたいが、できるかということ。で、その場合、単価を５パーセント、下げられないかって……。",
+          "vi": "Họ muốn nhân đôi số lượng đặt, hỏi có làm được không. Và nếu vậy, giảm đơn giá 5% được không……"
+        },
+        {
+          "role": "male",
+          "jp": "うーん、いまから倍なんて、納品できるのかな。",
+          "vi": "Ừm, giờ mà gấp đôi, giao được không nhỉ."
+        },
+        {
+          "role": "female",
+          "jp": "ええ。それは、パーツの調達にかかってますね。",
+          "vi": "Vâng. Cái đó phụ thuộc mua linh kiện ạ."
+        },
+        {
+          "role": "male",
+          "jp": "じゃあ、ヤマト機械に、なんとか頼んでみてくれないかな。",
+          "vi": "Vậy nhờ hỏi Yamato Kikai xem sao."
+        },
+        {
+          "role": "female",
+          "jp": "はい。ただ、ヤマト機械さんからは、かねがね、買い上げ単価の値上げを言われてまして。材料高が理由なんですが。",
+          "vi": "Dạ. Nhưng Yamato Kikai lâu nay đòi tăng giá mua vào vì giá nguyên liệu."
+        },
+        {
+          "role": "male",
+          "jp": "そうか。じゃあ、今回は、それをのまないと、無理は言えないね。",
+          "vi": "Ra vậy. Lần này không chịu thì cũng khó đòi họ."
+        },
+        {
+          "role": "female",
+          "jp": "そうですね。",
+          "vi": "Vâng."
+        },
+        {
+          "role": "male",
+          "jp": "じゃあ、しかたない。背に腹は、かえられないからな。",
+          "vi": "Thôi đành vậy. Không còn cách khác."
+        },
+        {
+          "role": "female",
+          "jp": "でも、そうしますと、ミナト商事さんの値下げのほうは……。",
+          "vi": "Nhưng vậy thì việc giảm giá cho Minato Shoji……"
+        },
+        {
+          "role": "male",
+          "jp": "うん、応じきれないね。",
+          "vi": "Ừ, không đáp ứng nổi."
+        },
+        {
+          "role": "female",
+          "jp": "わかりました。そのように返事をします。",
+          "vi": "Dạ. Em sẽ trả lời như vậy."
+        },
+        {
+          "role": "male",
+          "jp": "うん。",
+          "vi": "Ừ."
+        }
+      ],
+      "explanation": "正答：3\n\n倍の納品はヤマト機械に頼む＝応じる方向。値下げは「応じきれない」。\n\nĐáp án đúng: 3. Đồng ý số lượng giao, không giảm giá."
+    },
+    {
+      "question_id": 15,
+      "type": "listening",
+      "label": "15番",
+      "audio_ref": "CD-1 | 42",
+      "question": "部下は、このあと、会議でどんなことを提案しますか。",
+      "context": "",
+      "options": [
+        "価格の変更",
+        "デザインの変更",
+        "宣伝の方法",
+        "販売の方法"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "コンピュータ会社で、上司と部下が話しています。部下は、このあと、会議でどんなことを提案しますか。",
+          "vi": "Ở công ty máy tính, cấp trên và cấp dưới đang nói chuyện. Cấp dưới sẽ đề xuất gì trong cuộc họp sau đó?"
+        },
+        {
+          "role": "male",
+          "jp": "このところ、売り上げが落ちてるね。",
+          "vi": "Dạo này doanh số giảm nhỉ."
+        },
+        {
+          "role": "male",
+          "jp": "ええ、そうなんですよ。去年の同じ時期と比べると、今月は、３割減です。",
+          "vi": "Vâng ạ. So cùng kỳ năm ngoái, tháng này giảm 30%."
+        },
+        {
+          "role": "male",
+          "jp": "そんなに落ち込んでるのか。",
+          "vi": "Giảm nhiều vậy à."
+        },
+        {
+          "role": "male",
+          "jp": "ええ。",
+          "vi": "Vâng."
+        },
+        {
+          "role": "male",
+          "jp": "これじゃ値下げしても、追いつかんね。",
+          "vi": "Vậy giảm giá cũng không kịp nữa."
+        },
+        {
+          "role": "male",
+          "jp": "そうですね。",
+          "vi": "Vâng."
+        },
+        {
+          "role": "male",
+          "jp": "いままで、デザインや機能を変えたり、いろいろやったけど……。",
+          "vi": "Từ trước đã đổi thiết kế, chức năng, làm đủ thứ……"
+        },
+        {
+          "role": "male",
+          "jp": "はい。宣伝にも、人とお金をじゅうぶんにかけてます。",
+          "vi": "Dạ. Quảng cáo cũng đã bỏ đủ người và tiền."
+        },
+        {
+          "role": "male",
+          "jp": "なにか別のアプローチが必要かな。",
+          "vi": "Cần cách tiếp cận khác nhỉ."
+        },
+        {
+          "role": "male",
+          "jp": "はい。実は……。",
+          "vi": "Dạ. Thật ra……"
+        },
+        {
+          "role": "male",
+          "jp": "うん？",
+          "vi": "Ừ?"
+        },
+        {
+          "role": "male",
+          "jp": "ユーザーのニーズに合わせて、カスタマイズして売るんです。",
+          "vi": "Bán theo kiểu tùy biến theo nhu cầu từng người dùng."
+        },
+        {
+          "role": "male",
+          "jp": "カスタマイズ？",
+          "vi": "Tùy biến?"
+        },
+        {
+          "role": "male",
+          "jp": "はい。ユーザー一人ひとりの注文に応えるんです。",
+          "vi": "Dạ. Đáp ứng đơn của từng người dùng."
+        },
+        {
+          "role": "male",
+          "jp": "なるほど。",
+          "vi": "Ra vậy."
+        },
+        {
+          "role": "male",
+          "jp": "１度、会議にあげさせていただけませんか。",
+          "vi": "Cho em đưa lên họp một lần được không ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "うん。じゃあ、その前に、もう少し詳しく聞かせてもらえるかな。",
+          "vi": "Ừ. Trước đó kể anh nghe kỹ hơn một chút."
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Dạ."
+        }
+      ],
+      "explanation": "正答：4\n\n「カスタマイズして売る」＝販売の方法。価格・デザイン・宣伝はすでにやった／追いつかない。\n\nĐáp án đúng: 4. Phương thức bán hàng."
+    }
+  ]
+}

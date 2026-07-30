@@ -1,0 +1,336 @@
+{
+  "id": "N3-TO-V01",
+  "code": "N3-TO-V01",
+  "title": "Tổng ôn Từ vựng 1",
+  "track": "n3_review",
+  "level": "N3",
+  "topic": "vocabulary",
+  "sourceCsv": "tong_on_bai_2.csv",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "寒さで、手の指の(          )がなくなってしまった。",
+      "context": "",
+      "options": [
+        "感動",
+        "感覚",
+        "感激",
+        "感心"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 感動（かんどう - Cảm Động - xúc động）: diễn tả trạng thái cảm xúc mạnh mẽ, không dùng cho cảm giác thể chất.\r\n2. ĐÚNG. 感覚（かんかく - Cảm Giác - cảm giác）: chỉ cảm giác vật lý của các giác quan, ở đây là cảm giác ở ngón tay bị mất đi do lạnh.\r\nCâu hoàn chỉnh:\r\n寒さで、手の指の感覚がなくなってしまった。\r\nDịch nghĩa:\r\nVì lạnh quá nên các ngón tay của tôi đã bị mất cảm giác.\r\n3. SAI. 感激（かんげき - Cảm Kích - cảm kích/vô cùng xúc động）: diễn tả sự xúc động sâu sắc, không liên quan đến cảm giác thể chất.\r\n4. SAI. 感心（かんしん - Cảm Tâm - khâm phục/thán phục）: diễn tả sự ngưỡng mộ ai đó, không phù hợp ngữ cảnh."
+    },
+    {
+      "question_id": 2,
+      "question": "日本には石油や金などの(          )はあまりない。",
+      "context": "",
+      "options": [
+        "環境",
+        "資源",
+        "基礎",
+        "栄養"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 環境（かんきょう - Hoàn Cảnh - môi trường）: chỉ môi trường sống, không phải tài nguyên thiên nhiên.\r\n2. ĐÚNG. 資源（しげん - Tư Nguyên - tài nguyên）: chỉ các nguồn tài nguyên thiên nhiên như dầu mỏ, vàng, phù hợp với ngữ cảnh câu.\r\nCâu hoàn chỉnh:\r\n日本には石油や金などの資源はあまりない。\r\nDịch nghĩa:\r\nỞ Nhật Bản hầu như không có nhiều tài nguyên như dầu mỏ hay vàng.\r\n3. SAI. 基礎（きそ - Cơ Sở - nền tảng）: nghĩa là căn bản, nền tảng, không dùng cho tài nguyên.\r\n4. SAI. 栄養（えいよう - Dinh Dưỡng - dinh dưỡng）: liên quan đến thức ăn/sức khỏe, không phải tài nguyên khoáng sản."
+    },
+    {
+      "question_id": 3,
+      "question": "疲れているときは、(            )のある物を食べて、よく休みましょう。",
+      "context": "",
+      "options": [
+        "影響",
+        "食欲",
+        "健康",
+        "栄養"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 影響（えいきょう - Ảnh Hưởng - ảnh hưởng）: cụm 「影響のある」 không dùng để chỉ thức ăn bổ dưỡng.\r\n2. SAI. 食欲（しょくよく - Thực Dục - thèm ăn）: nghĩa là cảm giác muốn ăn, không dùng theo cấu trúc 「食欲のある物」.\r\n3. SAI. 健康（けんこう - Kiện Khang - sức khỏe）: dùng theo mẫu 「健康な」 hoặc 「健康にいい」, không dùng 「健康のある物」.\r\n4. ĐÚNG. 栄養（えいよう - Dinh Dưỡng - dinh dưỡng）: cụm 「栄養のある物」 nghĩa là thức ăn bổ dưỡng, rất phổ biến trong tiếng Nhật.\r\nCâu hoàn chỉnh:\r\n疲れているときは、栄養のある物を食べて、よく休みましょう。\r\nDịch nghĩa:\r\nKhi mệt mỏi, hãy ăn đồ ăn giàu dinh dưỡng và nghỉ ngơi thật tốt nhé."
+    },
+    {
+      "question_id": 4,
+      "question": "昨日病院で目の(             )をしてもらったら、目が少し悪くなっていることがわかった。",
+      "context": "",
+      "options": [
+        "検査",
+        "研究",
+        "証明",
+        "観察"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 検査（けんさ - Kiểm Tra - kiểm tra/xét nghiệm）: trong y tế dùng để chỉ việc kiểm tra, khám bệnh. 「検査をしてもらう」 là cụm tự nhiên.\r\nCâu hoàn chỉnh:\r\n昨日病院で目の検査をしてもらったら、目が少し悪くなっていることがわかった。\r\nDịch nghĩa:\r\nHôm qua khi được kiểm tra mắt ở bệnh viện, tôi mới biết là mắt mình đã xấu đi một chút.\r\n2. SAI. 研究（けんきゅう - Nghiên Cứu - nghiên cứu）: dùng cho hoạt động nghiên cứu khoa học, không phải khám chữa bệnh.\r\n3. SAI. 証明（しょうめい - Chứng Minh - chứng minh）: nghĩa là chứng minh, không dùng trong ngữ cảnh khám mắt.\r\n4. SAI. 観察（かんさつ - Quan Sát - quan sát）: nghĩa là quan sát, không phải khám/kiểm tra sức khỏe."
+    },
+    {
+      "question_id": 5,
+      "question": "リーさんは大きなスーパーを三つも (             )しているらしい。",
+      "context": "",
+      "options": [
+        "商売",
+        "経営",
+        "会計",
+        "貿易"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 商売（しょうばい - Thương Mại - buôn bán）: nghĩa rộng về việc kinh doanh/buôn bán, thường không dùng với tân ngữ chỉ cơ sở cụ thể như siêu thị.\r\n2. ĐÚNG. 経営（けいえい - Kinh Doanh - quản lý/vận hành）: chỉ việc điều hành, quản lý doanh nghiệp hoặc cơ sở kinh doanh. 「スーパーを経営する」 là cụm rất tự nhiên.\r\nCâu hoàn chỉnh:\r\nリーさんは大きなスーパーを三つも経営しているらしい。\r\nDịch nghĩa:\r\nNghe nói anh Lee đang kinh doanh (quản lý) tới ba cái siêu thị lớn.\r\n3. SAI. 会計（かいけい - Hội Kế - kế toán）: nghĩa là kế toán hoặc tính tiền, không dùng theo nghĩa điều hành doanh nghiệp.\r\n4. SAI. 貿易（ぼうえき - Mậu Dịch - thương mại quốc tế）: chỉ hoạt động xuất nhập khẩu, không phù hợp với ngữ cảnh."
+    },
+    {
+      "question_id": 6,
+      "question": "森さんはいつも、自分の飼っているペットが一番かわいいとみんなに(          )いる。",
+      "context": "",
+      "options": [
+        "期待して",
+        "応援して",
+        "自慢して",
+        "賛成して"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 期待（きたい - Kỳ Đãi - kỳ vọng）: nghĩa là trông chờ/kỳ vọng, không phù hợp với ngữ cảnh khoe khoang.\r\n2. SAI. 応援（おうえん - Ứng Viện - cổ vũ）: nghĩa là cổ vũ/ủng hộ ai đó, không phù hợp.\r\n3. ĐÚNG. 自慢（じまん - Tự Mạn - khoe khoang）: nghĩa là khoe khoang/tự hào về điều gì đó với người khác. 「みんなに自慢している」 hoàn toàn phù hợp ngữ cảnh.\r\nCâu hoàn chỉnh:\r\n森さんはいつも、自分の飼っているペットが一番かわいいとみんなに自慢している。\r\nDịch nghĩa:\r\nAnh Mori lúc nào cũng khoe với mọi người rằng con thú cưng của mình là đáng yêu nhất.\r\n4. SAI. 賛成（さんせい - Tán Thành - đồng ý）: nghĩa là tán thành/đồng ý, không dùng trong ngữ cảnh khoe khoang."
+    },
+    {
+      "question_id": 7,
+      "question": "昨日の夜から歯が痛くて(              )できなくなったので、今朝歯医者に行った。",
+      "context": "",
+      "options": [
+        "遠慮",
+        "努力",
+        "我慢",
+        "心配"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 遠慮（えんりょ - Viễn Lự - ngại ngùng）: nghĩa là giữ ý/khách khí, không phù hợp với ngữ cảnh chịu đau răng.\r\n2. SAI. 努力（どりょく - Nỗ Lực - nỗ lực）: nghĩa là cố gắng hết sức, không liên quan đến việc chịu đựng cơn đau.\r\n3. ĐÚNG. 我慢（がまん - Ngã Mạn - chịu đựng）: nghĩa là nhẫn nại, chịu đựng cơn đau hay điều khó chịu. 「我慢できなくなった」 nghĩa là không thể chịu đựng được nữa.\r\nCâu hoàn chỉnh:\r\n昨日の夜から歯が痛くて我慢できなくなったので、今朝歯医者に行った。\r\nDịch nghĩa:\r\nTừ tối qua răng bị đau không chịu nổi nữa nên sáng nay tôi đã đi khám nha sĩ.\r\n4. SAI. 心配（しんぱい - Tâm Phối - lo lắng）: nghĩa là lo lắng, không dùng theo cấu trúc 「心配できなくなった」."
+    },
+    {
+      "question_id": 8,
+      "question": "今度の試合はみんなで力を(          )頑張ろう。",
+      "context": "",
+      "options": [
+        "かさねて",
+        "あわせて",
+        "くわえて",
+        "ふやして"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「力をかさねて」（重ねて - chồng chất）: không phải cách dùng tự nhiên với từ 「力」.\r\n2. ĐÚNG. 「力をあわせて」（合わせて - hợp lực）: nghĩa là cùng nhau góp sức, hợp lực lại. Đây là cụm cố định thông dụng.\r\nCâu hoàn chỉnh:\r\n今度の試合はみんなで力を合わせて頑張ろう。\r\nDịch nghĩa:\r\nTrận đấu lần này hãy cùng nhau hợp lực cố gắng nào.\r\n3. SAI. 「力をくわえて」（加えて - thêm vào）: nghĩa là bổ sung thêm, không dùng theo nghĩa hợp lực.\r\n4. SAI. 「力をふやして」（増やして - tăng thêm）: nghĩa là tăng sức lực, không phải cụm từ thích hợp ở đây."
+    },
+    {
+      "question_id": 9,
+      "question": "森さんは一生懸命勉強して、(          ) 医者になった。",
+      "context": "",
+      "options": [
+        "りっぱな",
+        "さかんな",
+        "まんぞくな",
+        "しんせんな"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 立派な（りっぱな - Lập Phá - xuất sắc/đáng kính）: nghĩa là xuất sắc, đáng kính trọng. 「立派な医者」 là bác sĩ giỏi/đáng kính.\r\nCâu hoàn chỉnh:\r\n森さんは一生懸命勉強して、立派な医者になった。\r\nDịch nghĩa:\r\nAnh Mori đã học tập chăm chỉ và trở thành một bác sĩ xuất sắc.\r\n2. SAI. 盛んな（さかんな - Thịnh - hưng thịnh）: dùng cho hoạt động đang phát triển mạnh, không dùng cho con người.\r\n3. SAI. 満足な（まんぞくな - Mãn Túc - thỏa mãn）: nghĩa là đầy đủ/thỏa mãn, không dùng để mô tả bác sĩ.\r\n4. SAI. 新鮮な（しんせんな - Tân Tiên - tươi mới）: nghĩa là tươi mới, không phù hợp với ngữ cảnh."
+    },
+    {
+      "question_id": 10,
+      "question": "田中さんは、何でも自分からやってみようとする(          )な人だ。",
+      "context": "",
+      "options": [
+        "感情的",
+        "効果的",
+        "積極的",
+        "具体的"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 感情的（かんじょうてき - Cảm Tình Đích - cảm tính）: dùng cho người dễ bị cảm xúc chi phối, không phù hợp với ngữ cảnh chủ động thử sức.\r\n2. SAI. 効果的（こうかてき - Hiệu Quả Đích - hiệu quả）: nghĩa là có hiệu quả, thường dùng cho phương pháp, không phải con người.\r\n3. ĐÚNG. 積極的（せっきょくてき - Tích Cực Đích - tích cực/chủ động）: nghĩa là người có thái độ chủ động, tích cực. 「自分からやってみようとする」 là hành động chủ động, rất phù hợp.\r\nCâu hoàn chỉnh:\r\n田中さんは、何でも自分からやってみようとする積極的な人だ。\r\nDịch nghĩa:\r\nAnh Tanaka là người tích cực chủ động, luôn tự mình thử mọi thứ.\r\n4. SAI. 具体的（ぐたいてき - Cụ Thể Đích - cụ thể）: nghĩa là cụ thể rõ ràng, không dùng để mô tả tính cách người."
+    },
+    {
+      "question_id": 11,
+      "question": "今度、<u>わけ</u>を教えてください。",
+      "context": "",
+      "options": [
+        "計画",
+        "意見",
+        "規則",
+        "理由"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 計画（けいかく - Kế Hoạch - kế hoạch）: nghĩa khác hoàn toàn với 「わけ」.\r\n2. SAI. 意見（いけん - Ý Kiến - ý kiến）: nghĩa là quan điểm/ý kiến, không đồng nghĩa với 「わけ」.\r\n3. SAI. 規則（きそく - Quy Tắc - quy tắc）: nghĩa là quy tắc/luật lệ, không đồng nghĩa.\r\n4. ĐÚNG. 理由（りゆう - Lý Do - lý do）: 「わけ」 trong ngữ cảnh này có nghĩa là lý do/nguyên nhân, đồng nghĩa với 「理由」.\r\nCâu hoàn chỉnh:\r\n今度、理由を教えてください。\r\nDịch nghĩa:\r\nLần này hãy cho tôi biết lý do đi."
+    },
+    {
+      "question_id": 12,
+      "question": "倉庫を<u>整理し</u>た。",
+      "context": "",
+      "options": [
+        "調べた",
+        "借りた",
+        "片付けた",
+        "直した"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 調べた（しらべた - điều tra/kiểm tra）: nghĩa là tìm hiểu/kiểm tra, không đồng nghĩa với 「整理した」.\r\n2. SAI. 借りた（かりた - mượn）: nghĩa là mượn/thuê, không liên quan.\r\n3. ĐÚNG. 片付けた（かたづけた - dọn dẹp/sắp xếp）: 「整理する」（せいりする - Chỉnh Lý）nghĩa là sắp xếp/dọn dẹp, đồng nghĩa với 「片付ける」.\r\nCâu hoàn chỉnh:\r\n倉庫を片付けた。\r\nDịch nghĩa:\r\nTôi đã dọn dẹp kho.\r\n4. SAI. 直した（なおした - sửa chữa）: nghĩa là sửa/chữa, không đồng nghĩa với 「整理した」."
+    },
+    {
+      "question_id": 13,
+      "question": "何度失敗しても、彼女は<u>あきらめなかった</u>。",
+      "context": "",
+      "options": [
+        "気にしなかった",
+        "やめようとしなかった",
+        "怒らなかった",
+        "謝ろうとしなかった"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「気にしなかった」（không để ý/không bận tâm）: không đồng nghĩa với 「あきらめなかった」.\r\n2. ĐÚNG. 「やめようとしなかった」（không có ý định từ bỏ）: 「あきらめる」（諦める - Để - từ bỏ）đồng nghĩa với việc dừng lại, không tiếp tục cố gắng nữa.\r\nCâu hoàn chỉnh:\r\n何度失敗しても、彼女はやめようとしなかった。\r\nDịch nghĩa:\r\nDù thất bại bao nhiêu lần, cô ấy cũng không có ý định từ bỏ.\r\n3. SAI. 「怒らなかった」（không tức giận）: không đồng nghĩa.\r\n4. SAI. 「謝ろうとしなかった」（không có ý định xin lỗi）: không đồng nghĩa."
+    },
+    {
+      "question_id": 14,
+      "question": "小林さんは、その話を<u>疑っている</u>ようだ。",
+      "context": "",
+      "options": [
+        "本当ではないと思っている",
+        "本当だと思っている",
+        "よく知らない",
+        "よく知っている"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「本当ではないと思っている」（cho rằng không phải thật）: 疑う（うたがう - Nghi - nghi ngờ）nghĩa là không tin, cho là không thật.\r\nCâu hoàn chỉnh:\r\n小林さんは、その話を本当ではないと思っているようだ。\r\nDịch nghĩa:\r\nCó vẻ như anh Kobayashi cho rằng câu chuyện đó không phải thật.\r\n2. SAI. 「本当だと思っている」（cho rằng là thật）: ngược nghĩa với 「疑う」.\r\n3. SAI. 「よく知らない」（không biết rõ）: không đồng nghĩa với 「疑う」.\r\n4. SAI. 「よく知っている」（biết rõ）: không đồng nghĩa."
+    },
+    {
+      "question_id": 15,
+      "question": "あの人は<u>短気</u>だ。",
+      "context": "",
+      "options": [
+        "すぐ怒る",
+        "すぐ謝る",
+        "すぐ驚く",
+        "すぐ喜ぶ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「すぐ怒る」（dễ tức giận）: 短気（たんき - Đoản Khí - nóng tính）nghĩa là người dễ nổi giận, mất bình tĩnh nhanh.\r\nCâu hoàn chỉnh:\r\nあの人はすぐ怒る。\r\nDịch nghĩa:\r\nNgười đó dễ nổi giận.\r\n2. SAI. 「すぐ謝る」（dễ xin lỗi）: không đồng nghĩa với 「短気」.\r\n3. SAI. 「すぐ驚く」（dễ ngạc nhiên）: không đồng nghĩa.\r\n4. SAI. 「すぐ喜ぶ」（dễ vui mừng）: không đồng nghĩa."
+    },
+    {
+      "question_id": 16,
+      "question": "今回の仕事はとても<u>きつい</u>。",
+      "context": "",
+      "options": [
+        "大変だ",
+        "簡単だ",
+        "つまらない",
+        "おもしろい"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「大変だ」（vất vả/khó khăn）: 「きつい」 trong ngữ cảnh công việc có nghĩa là nặng nhọc, vất vả, đồng nghĩa với 「大変だ」.\r\nCâu hoàn chỉnh:\r\n今回の仕事はとても大変だ。\r\nDịch nghĩa:\r\nCông việc lần này thật sự rất vất vả.\r\n2. SAI. 「簡単だ」（dễ dàng）: nghĩa ngược lại.\r\n3. SAI. 「つまらない」（nhàm chán）: không đồng nghĩa.\r\n4. SAI. 「おもしろい」（thú vị）: nghĩa ngược lại."
+    },
+    {
+      "question_id": 17,
+      "question": "一人でこの山に登るのは<u>不安</u>だ。",
+      "context": "",
+      "options": [
+        "心配だ",
+        "寂しい",
+        "危険だ",
+        "つまらない"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「心配だ」（lo lắng）: 不安（ふあん - Bất An - lo lắng/bất an）và 「心配」 đều diễn tả cảm giác không yên tâm, lo ngại.\r\nCâu hoàn chỉnh:\r\n一人でこの山に登るのは心配だ。\r\nDịch nghĩa:\r\nViệc một mình leo núi này thật đáng lo ngại.\r\n2. SAI. 「寂しい」（cô đơn）: nghĩa là cô đơn, không đồng nghĩa với 「不安」.\r\n3. SAI. 「危険だ」（nguy hiểm）: nghĩa gần nhưng 「不安」 nhấn mạnh cảm xúc lo sợ hơn là mức độ nguy hiểm khách quan.\r\n4. SAI. 「つまらない」（nhàm chán）: không đồng nghĩa."
+    },
+    {
+      "question_id": 18,
+      "question": "その歌手は<u>ようやく</u>有名になった。",
+      "context": "",
+      "options": [
+        "とても",
+        "やっと",
+        "なぜか",
+        "やっぱり"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「とても」（rất）: chỉ mức độ, không đồng nghĩa với 「ようやく」.\r\n2. ĐÚNG. 「やっと」（cuối cùng/rốt cuộc）: ようやく（漸く - Tiệm - cuối cùng/sau rất nhiều cố gắng）đồng nghĩa với 「やっと」, đều diễn tả điều gì đó xảy ra sau một thời gian dài hoặc khó khăn.\r\nCâu hoàn chỉnh:\r\nその歌手はやっと有名になった。\r\nDịch nghĩa:\r\nCa sĩ đó cuối cùng cũng trở nên nổi tiếng.\r\n3. SAI. 「なぜか」（không biết vì sao）: không đồng nghĩa.\r\n4. SAI. 「やっぱり」（đúng như dự đoán/vẫn vậy）: không đồng nghĩa."
+    },
+    {
+      "question_id": 19,
+      "question": "それはいい<u>案</u>ですね。",
+      "context": "",
+      "options": [
+        "チャンス",
+        "サービス",
+        "アイディア",
+        "ニュース"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. チャンス（cơ hội - từ tiếng Anh \"chance\"）: không đồng nghĩa với 「案」.\r\n2. SAI. サービス（dịch vụ - từ tiếng Anh \"service\"）: không đồng nghĩa.\r\n3. ĐÚNG. アイディア（ý tưởng - từ tiếng Anh \"idea\"）: 案（あん - Án - ý tưởng/đề xuất）và 「アイディア」 đều có nghĩa là ý tưởng, đề xuất.\r\nCâu hoàn chỉnh:\r\nそれはいいアイディアですね。\r\nDịch nghĩa:\r\nĐó là ý tưởng hay đấy nhỉ.\r\n4. SAI. ニュース（tin tức - từ tiếng Anh \"news\"）: không đồng nghĩa."
+    },
+    {
+      "question_id": 20,
+      "question": "この用紙はあとで<u>回収</u>します。",
+      "context": "",
+      "options": [
+        "あつめます",
+        "おくります",
+        "わたします",
+        "すてます"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「あつめます」（thu thập/tập hợp lại）: 回収（かいしゅう - Hồi Thu - thu hồi）nghĩa là thu lại/thu hồi, gần nghĩa nhất với 「集めます」.\r\nCâu hoàn chỉnh:\r\nこの用紙はあとで集めます。\r\nDịch nghĩa:\r\nPhiếu này lát nữa tôi sẽ thu lại.\r\n2. SAI. 「おくります」（gửi đi）: nghĩa ngược với 「回収」.\r\n3. SAI. 「わたします」（trao/đưa cho）: nghĩa ngược với 「回収」.\r\n4. SAI. 「すてます」（vứt bỏ）: không đồng nghĩa."
+    },
+    {
+      "question_id": 21,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「発展」",
+      "context": "",
+      "options": [
+        "この町は海に近く、外国との貿易によって発展してきた。",
+        "毎日ピアノの練習をしているが、なかなか発展しない。",
+        "工事が始まって3 か月になり、ビルもずいぶん発展してきた。",
+        "留学していた息子が帰ってきたが、発展していてうれしかった。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 発展（はってん - Phát Triển - phát triển）: câu này dùng đúng, mô tả sự phát triển/hưng thịnh của một thị trấn nhờ thương mại.\r\nCâu đúng: この町は海に近く、外国との貿易によって発展してきた。\r\nDịch nghĩa: Thị trấn này gần biển và đã phát triển nhờ giao thương với nước ngoài.\r\n2. SAI. 「発展しない」 không dùng để nói về tiến bộ cá nhân trong học kỹ năng; nên dùng 「上達しない」（じょうたつ - tiến bộ）.\r\n3. SAI. 「発展してきた」 không dùng cho công trình xây dựng; nên dùng 「完成してきた」 hoặc 「建ってきた」.\r\n4. SAI. 「発展していて」 không dùng để mô tả sự trưởng thành của con người; nên dùng 「成長していて」（せいちょう - trưởng thành）."
+    },
+    {
+      "question_id": 22,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「渋滞」",
+      "context": "",
+      "options": [
+        "バスの中はたくさんの人で渋滞していて、乗ることができなかった。",
+        "この道は、朝の通勤時間になると渋滞して、車が前に進まない。",
+        "今週は出張や会議が多くて、スケジュールが渋滞している。",
+        "一度にたくさんのことを説明されたので、頭の中が渋滞してしまった。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 渋滞（じゅうたい - Ủng Trệ - tắc nghẽn/kẹt xe）không dùng cho người đông trong xe bus; nên dùng 「混んでいる」.\r\n2. ĐÚNG. Đây là cách dùng đúng: 渋滞 chỉ tình trạng giao thông bị ùn tắc, xe không di chuyển được.\r\nCâu đúng: この道は、朝の通勤時間になると渋滞して、車が前に進まない。\r\nDịch nghĩa: Con đường này vào giờ đi làm buổi sáng sẽ bị tắc đường, xe không tiến lên được.\r\n3. SAI. 「渋滞」 không dùng cho lịch trình bận rộn; nên dùng 「詰まっている」.\r\n4. SAI. 「渋滞」 không dùng theo nghĩa ẩn dụ cho đầu óc rối loạn."
+    },
+    {
+      "question_id": 23,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「区別」",
+      "context": "",
+      "options": [
+        "卒業したら、同級生たちは大学や就職など区別して進みます。",
+        "意味のよく似ていることばを区別して覚えるのは難しい。",
+        "石川さんにはずっと会っていないから、今会っても区別できないかもしれない。",
+        "私の国は、2 本の大きな川でほかの国と区別されています。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 区別（くべつ - Khu Biệt - phân biệt）không dùng theo nghĩa \"chia nhau đi theo con đường khác\"; nên dùng 「分かれて」.\r\n2. ĐÚNG. Đây là cách dùng đúng: phân biệt các từ có nghĩa gần nhau.\r\nCâu đúng: 意味のよく似ていることばを区別して覚えるのは難しい。\r\nDịch nghĩa: Rất khó để phân biệt và ghi nhớ các từ có nghĩa gần giống nhau.\r\n3. SAI. Trong trường hợp không nhận ra người quen, nên dùng 「見分ける」 chứ không phải 「区別する」.\r\n4. SAI. Để nói về đường biên giới với nước khác, nên dùng 「分けられています」 hoặc 「境界されています」."
+    },
+    {
+      "question_id": 24,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「発生」",
+      "context": "",
+      "options": [
+        "この工場から、多くの新しい商品が発生している。",
+        "海の近くに新しいホテルがたくさん発生している。",
+        "火災が発生したときのために、みんなで避難訓練をした。",
+        "その映画を見て、日本に対する興味が発生した。"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 発生（はっせい - Phát Sinh - xảy ra/nảy sinh）không dùng cho việc sản xuất hàng hóa; nên dùng 「生産される」.\r\n2. SAI. Khách sạn mới không 「発生」 (xảy ra); nên dùng 「建てられている」.\r\n3. ĐÚNG. 「発生する」 dùng đúng khi mô tả một sự cố/tai nạn xảy ra.\r\nCâu đúng: 火災が発生したときのために、みんなで避難訓練をした。\r\nDịch nghĩa: Để đề phòng khi có hỏa hoạn xảy ra, mọi người đã cùng nhau diễn tập sơ tán.\r\n4. SAI. Sự nảy sinh cảm xúc/hứng thú không dùng 「発生する」; nên dùng 「生まれた」 hoặc 「湧いた」."
+    },
+    {
+      "question_id": 25,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「混ぜる」",
+      "context": "",
+      "options": [
+        "今回のアルバイト代と貯金を混ぜれば、旅行に行けそうだ。",
+        "赤と白の絵の具を混ぜて、ピンク色を作った。",
+        "田中さんと山本の力を混ぜれば、この試合に勝てるはずだ。",
+        "A 銀行とB 銀行を混ぜて、新しい銀行を作った。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 混ぜる（まぜる - Hỗn - trộn/pha trộn）không dùng cho tiền bạc; nên dùng 「合わせれば」.\r\n2. ĐÚNG. Trộn màu sơn là cách dùng đúng và điển hình nhất của 「混ぜる」.\r\nCâu đúng: 赤と白の絵の具を混ぜて、ピンク色を作った。\r\nDịch nghĩa: Tôi đã pha trộn màu đỏ và màu trắng để tạo ra màu hồng.\r\n3. SAI. Không dùng 「力を混ぜる」; nên dùng 「力を合わせれば」.\r\n4. SAI. Hợp nhất ngân hàng không dùng 「混ぜる」; nên dùng 「合併して」（がっぺい - sáp nhập）."
+    }
+  ]
+}

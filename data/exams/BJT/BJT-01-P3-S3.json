@@ -1,0 +1,207 @@
+{
+  "id": "BJT-01-P3-S3",
+  "code": "BJT-01-P3-S3",
+  "title": "BJT 1 · Đọc hiểu · Section 3 (Đọc đoạn)",
+  "track": "bjt",
+  "level": "BJT",
+  "topic": "reading",
+  "source": "riki/ビジネス日本語能力テスト1/第３部 読解テスト_セクション１.csv",
+  "questionCount": 15,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "用件は何ですか。",
+      "context": "次のような手紙を受け取りました。\n\n○○○○年○月○日\n\n株式会社 ○○○\n総務部 ○○○○様\n\n株式会社 ○○○○○\n営業部 ○○○○\n\n拝啓 時下ますますご盛栄のこととお慶び申し上げます。\n平素は弊社発行『週刊ビジネス世界』をご購読頂き、有り難うございます。\n\n現在、予約購読を頂いておりますが、来る4月に購読終了となります。3月31日までに更新の手続きをして頂き、一年分の購読料を前納して頂ける場合、当初の割引価格からさらに30%引きの特典がございます。この機会に是非、予約購読更新のお手続きをお勧めいたします。\n\n『週刊ビジネス世界』は、4月より誌面リニューアルを行い、ますます充実した内容を満載し、読者の皆様にご満足いただけるビジネスマガジンとして生まれ変わります。引き続き弊誌のご利用をよろしくお願いいたします。\n敬具",
+      "options": [
+        "購読を続けてほしい。",
+        "購読を終了してほしい。",
+        "未納の購読料を支払ってほしい。",
+        "新規の購読を申し込んでほしい。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 購読を続けてほしい（こうどくをつづけてほしい - Cấu Độc Tục - Muốn người nhận tiếp tục đặt mua tạp chí/đặt báo）.\n   - Lý do đúng: Trong thư có các câu thể hiện rõ việc khuyến khích gia hạn để tiếp tục mua báo như: 「この機会に是非、予約購読更新のお手続きをお勧めいたします」 (Khuyên người đọc nên gia hạn đặt mua) và 「引き続き弊誌のご利用をよろしくお願いいたします」 (Rất mong quý khách tiếp tục sử dụng/đặt mua tạp chí của chúng tôi). Do đó, mục đích chính (用件) của bức thư là muốn độc giả tiếp tục đặt mua (購読を続けてほしい).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Ý chính/mục đích của bức thư này là gì?\n- Đáp án đúng: 1. Muốn người nhận tiếp tục đặt mua báo/tạp chí.\n\n2. SAI. 購読を終了してほしい（こうどくをしゅうりょうしてほしい - Cấu Độc Chung Liễu - Muốn kết thúc việc đặt mua）.\n   - Lý do sai: Thư đề cập việc hạn đặt mua sẽ kết thúc vào tháng 4 (来る4月に購読終了となります), nhưng mục đích là khuyên khách hàng gia hạn chứ không phải muốn khách hàng ngưng đặt mua.\n\n3. SAI. 未納の購読料を支払ってほしい（みのうのこうどくりょうをしはらってほしい - Vị Nạp Cấu Độc Liệu Chi Phất - Muốn thanh toán tiền mua báo còn nợ）.\n   - Lý do sai: Trong bức thư không hề đề cập đến việc khách hàng đang nợ tiền (未納). Thư chỉ đề cập nếu gia hạn và trả trước tiền mua 1 năm (一年分の購読料を前納して頂ける場合) thì sẽ được giảm giá 30%.\n\n4. SAI. 新規の購読を申し込んでほしい（しんきのこうどくをもうしこんでほしい - Tân Quy Cấu Độc Thân Thâm - Muốn đăng ký mua mới）.\n   - Lý do sai: Đối tượng nhận thư là người hiện tại đang đặt mua rồi (現在、予約購読を頂いておりますが), do đó đây là việc \"gia hạn/tiếp tục đặt mua\" (更新/継続) chứ không phải là \"đăng ký mua mới\" (新規購読)."
+    },
+    {
+      "question_id": 2,
+      "question": "用件は何ですか。",
+      "context": "納品した商品について、お客様から次のようなメールが届きました。\n\n送信者：テルメニッチ東京 PC営業部\n日時：○○○○年○月○日 ○○：○○\n宛先：竹下流通センター\n件名：パソコンラック(J-153)の件\n\n竹下流通センター\n○○○○様\n\n前略\n9月20日に注文いたしましたパソコンラック(J-153)30台が、本日着荷いたしました。\n入荷後の検品の結果、30台巾、2台にキャスター部分の破損がみられました。破損原因は不明ですが、同一箇所のため、製造工程での不具合かと思われます。\nつきましては、至急、ご手配のうえ代替品をお送りいただきたくお願い申し上げます。\nなお、損傷品は、明細書を同封し、本日返送させていただきました。\n草々\n\nテルメニッチ東京 PC営業部\n○○○○",
+      "options": [
+        "壊れた商品を修理してほしい。",
+        "壊れた原因を調べてほしい。",
+        "代わりの商品を送ってほしい。",
+        "明細書を返送してほしい。"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 壊れた商品を修理してほしい（こわれたしょうひんをしゅうりしてほしい - Hoại Thương Phẩm Sửa Lý - Muốn sửa chữa sản phẩm bị hỏng）.\n   - Lý do sai: Trong email có ghi rõ việc hàng hỏng đã được gửi trả lại ngay trong ngày (損傷品は、明細書を同封し、本日返送させていただきました), mục đích không phải là yêu cầu sửa chữa lại chiếc cũ mà là gửi sản phẩm mới thay thế.\n\n2. SAI. 壊れた原因を調べてほしい（こわれたげんいんをしらべてほしい - Hoại Nguyên Nhân Điều - Muốn điều tra nguyên nhân hỏng）.\n   - Lý do sai: Khách hàng có phỏng đoán nguyên nhân có thể do khâu sản xuất (製造工程での不具合かと思われます), nhưng mục đích yêu cầu của email không phải là nhờ bên bán điều tra nguyên nhân.\n\n3. ĐÚNG. 代わりの物を送ってほしい（かわりのものをおくってほしい - Đại Vật Tống - Muốn gửi sản phẩm thay thế）.\n   - Lý do đúng: Trong email có câu thể hiện trực tiếp yêu cầu chính (用件): 「つきましては、至急、ご手配のうえ代替品をお送りいただきたくお願い申し上げます」 (Do đó, chúng tôi xin đề nghị quý công ty gấp rút chuẩn bị và gửi sản phẩm thay thế (代替品) giúp chúng tôi).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Ý chính/mục đích của email này là gì?\n- Đáp án đúng: 3. Muốn gửi sản phẩm thay thế.\n\n4. SAI. 明細書を返送してほしい（めいさいしょをへんそうしてほしい - Minh Tế Thư Phản Tống - Muốn gửi trả lại hóa đơn/chứng từ）.\n   - Lý do sai: Người gửi email đã đính kèm hóa đơn/chi tiết mặt hàng cùng hàng bị lỗi để gửi trả lại cho bên bán (明細書を同封し、本日返送させていただきました), chứ không phải yêu cầu bên bán gửi trả hóa đơn cho mình."
+    },
+    {
+      "question_id": 3,
+      "question": "会社が負担する経費は何ですか。",
+      "context": "新入社員研修の通知が届きました。\n\n○○○○年○月○日\n\n各位\n\n株式会社ＡＢＣ\n研修事業部\n\n新入社員研修会のお知らせ\n\n新入社員の皆さん、入社おめでとうございます。\nさて、このたび入社に先立ち、下記の通り新入社員研修会を行います。つきましては、万障お繰り合わせのうえ、ご参加願います。\nなお、参加できない方は、理由を添えて早めに当事業部にご連絡ください。\n\n記\n\n１．日 時 ：○○○○年○月○日（土）、○日（日）の2日間\n（現地集合 午前11:00、現地解散 午後2:00）\n２．場 所 ：箱根山荘ホテル\n３．内 容 ：社内各部の業務説明等\n４．スケジュール：当日配布いたします。\n５．経 費 ：①宿 泊 費：1泊2日（含む、食事）当社が負担いたします。\n②交 通 費：自宅から現地までの往復交通費につきましては、後日精算となりますので、とりあえず各自で立替払いをお願いいたします。\n③電話代等：各部屋設置の電話の料金および飲物代は、各自負担となります。\n６．その他 ：ご不明な点は、当事業部に直接お問い合わせ下さい。\n以上",
+      "options": [
+        "宿泊費のみ",
+        "交通費のみ",
+        "宿泊費と交通費",
+        "宿泊費と電話代等"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 宿泊費のみ（しゅくはくひのみ - Túc Bạc Phí - Chỉ phí khách sạn）.\n   - Lý do sai: Công ty không chỉ chịu phí ở (宿泊費) mà còn chi trả cả phí đi lại (交通費) dưới hình thức ứng trước rồi hoàn trả sau (後日精算). Vì vậy, nếu chỉ chọn \"chỉ phí lưu trú\" là chưa đủ.\n\n2. SAI. 交通費のみ（こうつうひのみ - Giao Thông Phí - Chỉ phí đi lại）.\n   - Lý do sai: Thông báo ghi rõ \"Phí ở 1 đêm 2 ngày (bao gồm ăn uống) do công ty chúng tôi chi trả\" (①宿泊費：1泊2日（含む、食事）当社が負担いたします), nên không thể chỉ có phí đi lại.\n\n3. ĐÚNG. 宿泊費と交通費（しゅくはくひ と こうつうひ - Túc Bạc Phí & Giao Thông Phí - Phí ở và phí đi lại）.\n   - Lý do đúng: Mục 5 (経費) ghi rõ:\n     + Phí ở (①宿泊費): \"Công ty chịu chi phí\" (当社が負担いたします).\n     + Phí đi lại (②交通費): \"Sau này sẽ quyết toán, trước mắt từng cá nhân tự ứng trước\" (後日精算となりますので、とりあえず各自で立替払いをお願いいたします) -> Nghĩa là công ty vẫn chi trả, nhân viên chỉ ứng tiền trước rồi được hoàn lại sau.\n     + Phí điện thoại/đồ uống (③電話代等): \"Tự cá nhân chi trả\" (各自負担となります).\n     Do đó, chi phí do công ty chịu trách nhiệm là Phí ở và Phí đi lại.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Chi phí do công ty chi trả/đảm nhận là gì?\n- Đáp án đúng: 3. Phí ở và phí đi lại.\n\n4. SAI. 宿泊費と電話代等（しゅくはくひ と でんわだいとう - Túc Bạc Phí & Điện Thoại Đại - Phí ở và phí điện thoại...）.\n   - Lý do sai: Phí điện thoại và đồ uống (③電話代等) được ghi rõ là do cá nhân tự trả (各自負担となります), công ty không chi trả khoản này."
+    },
+    {
+      "question_id": 4,
+      "question": "新規参入してきた貸金庫業者は、銀行の貸金庫とどんな点で異なりますか。",
+      "context": "次の記事は、貸金庫サービスへの新規参入に関するものです。\n\n銀行の貸金庫の利用率が高まっている。貴重品や現金を自宅におけば泥棒が怖いが、預金すれば銀行の破綻が怖いというのが主な理由だが、店舗の統廃合で、地区によっては貸金庫が不足し始めている。しかし、大半の銀行は増設に消極的である。安全性などに費用がかかり、スペースの制約もあるためだ。\n\nそこに目をつけて、最近は倉庫会社も貸金庫サービスに参入し、業界に勢力変化が起きはじめている。先月開業した○○倉庫の場合、金庫の大きさは銀行並み、安全性は同等。利用料は、銀行なら平均年二万円程度なのに対して、月額三千八百円から。また、銀行とは異なり、一か月単位で利用でき、土曜、日曜も出し入れ可能である。\n\n貸金庫は銀行特有の業務と思われがちだが、そうではなくなりつつあるようだ。",
+      "options": [
+        "安全性が高い点",
+        "スペースが広い点",
+        "利用料が高い点",
+        "利便性に欠ける点"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 安全性が高い点（あんぜんせい・が・たかい・てん - An Toàn Tính Cao Điểm - Độ an toàn cao hơn）.\n   - Lý do sai: Trong bài có ghi rõ \"mức độ an toàn là tương đương\" với ngân hàng (安全性は同等), nên doanh nghiệp mới không có độ an toàn cao hơn.\n\n2. SAI. スペースが広い点（すぺーす・が・ひろい・てん - Khoảng Không Rộng Điểm - Không gian/kích thước rộng hơn）.\n   - Lý do sai: Trong bài ghi \"kích thước két tương đương ngân hàng\" (金庫の大きさは銀行並み), không hề rộng hơn.\n\n3. ĐÚNG. 利用料が高い点（りようりょう・が・たかい・てん - Lợi Dụng Liệu Cao Điểm - Phí sử dụng cao hơn）.\n   - Lý do đúng: Trong bài đưa ra phép so sánh:\n     + Ngân hàng: Trung bình khoảng 20,000 yên/năm (平均年二万円程度 -> khoảng 1,667 yên/tháng).\n     + Doanh nghiệp kho bãi mới: Từ 3,800 yên/tháng trở lên (月額三千八百円から).\n     Khi quy đổi về mức phí theo tháng, phí của doanh nghiệp mới (3,800 yên/tháng) cao hơn đáng kể so với ngân hàng.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Các doanh nghiệp két an toàn mới tham gia thị trường khác với két an toàn của ngân hàng ở điểm nào?\n- Đáp án đúng: 3. Phí sử dụng cao hơn.\n\n4. SAI. 利便性に欠ける点（りべんせい・に・かける・てん - Lợi Tiện Tính Khuyết Điểm - Thiếu tính tiện lợi hơn）.\n   - Lý do sai: Bài báo nhấn mạnh doanh nghiệp mới tiện lợi hơn ngân hàng ở chỗ \"khác với ngân hàng, có thể dùng theo đơn vị 1 tháng và có thể gửi/rút cả thứ Bảy, Chủ Nhật\" (銀行とは異なり、一か月単位で利用でき、土曜、日曜も出し入れ可能である), tức là linh hoạt và tiện lợi hơn chứ không hề \"thiếu tiện lợi\"."
+    },
+    {
+      "question_id": 5,
+      "question": "新製品で従来の製品と変わったのはどの部分ですか。",
+      "context": "次の文章は、「生ごみ処理機」に関するものです。\n\n松上電器産業が七月一日に売り出す生ごみ処理機「リサイクルくんＡＭ23」は、一回に処理できるごみの量を一・八kgと従来機の一・五倍にアップした。従来機と同じく処理槽の底につけたヒーターで加熱して乾燥させる方式を採用し、電気代も従来機と変わらないという。価格も据え置きで五万九千円。",
+      "options": [
+        "乾燥方式",
+        "価格",
+        "電気代",
+        "ごみの処理量"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 乾燥方式（かんそうほうしき - Can Táo Phương Thức - Phương thức làm khô）.\n   - Lý do sai: Bài báo ghi \"giống như dòng máy cũ, sử dụng phương thức làm khô bằng bộ sưởi gắn ở đáy\" (従来機と同じく処理槽の底につけたヒーターで加熱して乾燥させる方式を採用), do đó phương thức làm khô không hề thay đổi.\n\n2. SAI. 価格（かかく - Giá Cách - Giá cả）.\n   - Lý do sai: Đoạn cuối bài báo nêu rõ \"giá cả cũng giữ nguyên\" (価格も据え置きで五万九千円), nên giá cả không thay đổi.\n\n3. SAI. 電気代（でんきだい - Điện Khí Đại - Tiền điện）.\n   - Lý do sai: Bài báo ghi \"tiền điện cũng không thay đổi so với dòng máy cũ\" (電気代も従来機と変わらない), nên tiền điện không phải là điểm khác biệt.\n\n4. ĐÚNG. ごみの処理量（ごみ・の・しょりりょう - Xử Lý Lượng - Lượng rác xử lý được）.\n   - Lý do đúng: Trong bài báo ghi rõ \"đã tăng dung lượng rác có thể xử lý trong một lần lên 1.8 kg, gấp 1.5 lần so với dòng máy cũ\" (一回に処理できるごみの量を一・八kgと従来機の操作の1.5倍にアップした). Đây chính là điểm đã thay đổi (được cải tiến/tăng lên) so với sản phẩm trước đây.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Điểm đã thay đổi ở sản phẩm mới so với sản phẩm cũ là gì?\n- Đáp án đúng: 4. Lượng rác xử lý được."
+    },
+    {
+      "question_id": 6,
+      "question": "取引先の人は、出張の期間中に何がしたいと言っていますか。",
+      "context": "取引先から、次のようなメールが届きました。\n\n送信者：○○通商 事業部 ○○○○\n日時：○○○○年○月○日 ○○：○○\n宛先：○○○○\n件名：スケジュール調整\n\n拝啓 貴社ますますご盛栄のこととお慶び申し上げます。\n日頃は、格別のお引き立てを賜り、有り難く厚く御礼申し上げます。\n先日は、契約に際し当方の無理な注文に対応していただき、大変有り難うございました。\nさて、このたび○月○日より○日まで、貴社近在の弊社○○支に出張することになりました。\nところで今回は、弊社の新部長も同行いたしますので、この機会に是非貴社生産ラインを拝見できればと考えております。\nつきましては恐縮ですが、上記期間中の適当なお時間をご連絡いただきたく、お願い申し上げます。\n大変勝手ではございますが、スケジュールの調整上、20日までにご連絡をいただきたくお願い申し上げます。\nまずは取り急ぎご依頼まで。\n敬具\n\n○○通商株式会社\n事業部 ○○○○",
+      "options": [
+        "工場の視察",
+        "本社の訪問",
+        "契約の打ち合わせ",
+        "生産のお打ち合わせ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 工場の視察（こうじょう・の・しさつ - Công Xưởng Thị Sát - Tham quan/thị sát nhà máy）.\n   - Lý do đúng: Trong email có câu thể hiện mong muốn của người gửi: 「この機会に是非貴社生産ラインを拝見できればと考えております」 (Nhân cơ hội này, chúng tôi rất mong có thể được tới xem/xem qua dây chuyền sản xuất của quý công ty). Dây chuyền sản xuất (生産ライン) thuộc về nhà máy (工場), và việc xem/thăm quan được gọi là thị sát (視察).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Người đối tác nói rằng họ muốn làm gì trong thời gian đi công tác?\n- Đáp án đúng: 1. Tham quan/thị sát nhà máy.\n\n2. SAI. 本社の訪問（ほんしゃ・の・ほうもん - Bổn Xã Phỏng Vấn - Ghé thăm trụ sở chính）.\n   - Lý do sai: Trong email có nhắc đến việc công tác tại chi nhánh gần quý công ty (貴社近在の弊社○○支社に出張することになりました), nhưng mục đích họ mong muốn ghé qua xem là \"dây chuyền sản xuất\" chứ không đề cập đến việc ghé thăm trụ sở chính (本社).\n\n3. SAI. 契約の打ち合わせ（けいやく・の・うちあわせ - Khép Ước Đả Hợp - Thảo luận/họp về hợp đồng）.\n   - Lý do sai: Trong email chỉ cảm ơn vì đối tác đã hỗ trợ các yêu cầu về hợp đồng trước đó (先日は、契約に際し当方の無理な注文に対応していただき、大変有り難うございました), việc ký/thỏa thuận hợp đồng đã xong, không phải là việc họ muốn làm trong chuyến công tác này.\n\n4. SAI. 生産の内合わせ（せいさん・の・うちあわせ - Sinh Sản Đả Hợp - Họp/thảo luận về sản xuất）.\n   - Lý do sai: Họ mong muốn xem (拝見できれば - tới thăm/xem) dây chuyền sản xuất trực tiếp chứ không phải là họp hay bàn bạc công việc (打ち合わせ) về vấn đề sản xuất."
+    },
+    {
+      "question_id": 7,
+      "question": "ＱＣリーダーが、まずしなければならないことは何ですか。",
+      "context": "次の文書は、ＱＣ活動の成果発表会についての社内掲示です。\n\n○○○○年○月○日\n\n各位\n\nＱＣ活動事務局\n\nＱＣ活動成果発表会開催の件\n\nＱＣ活動成果発表会を下記の通り開催します。\n各部門長は自部門の活動内容がテーマに沿って進んでいるか、今一度確認して下さい。ＱＣサークル員は、発表２週間前までに活動成果の発表準備を完了して下さい。\nＱＣリーダーは、発表者および内容一覧を作成のうえ、１週間前までに事務局へ送付して下さい。\nなお、送付前に必ず各部門長の決裁をとるようにして下さい。\n\n記\n\n１．共通テーマ：「担当業務の効率化について」\n２．開催日時 ：○月○日（水）18時より\n３．場 所  ：大会議室\n\n以上",
+      "options": [
+        "活動内容とテーマの関連性をチェックする。",
+        "発表者・内容リストを作成する。",
+        "発表者・内容リストを決裁する。",
+        "大会議室の準備をする。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 活動内容とテーマの関連性をチェックする。（かつどうないよう・と・てーま・の・かんれんせい・を・ちぇっく・する - Hoạt Động Nội Dung & Chủ Đề Quan Liên Tính Check - Kiểm tra mối liên quan giữa nội dung hoạt động và chủ đề）.\n   - Lý do sai: Việc kiểm tra nội dung hoạt động có bám sát chủ đề không là nhiệm vụ của Trưởng các bộ phận (各部門長は自部門の活動内容がテーマに沿って進んでいるか、今一度確認して下さい). Đây không phải nhiệm vụ của Trưởng nhóm QC (QCリーダー).\n\n2. ĐÚNG. 発表者・内容リストを作成する。（はっぴょうしゃ・ないよう・りすと・を・さくせい・する - Phát Biểu Giả / Nội Dung List Tác Thành - Lập danh sách người phát biểu và nội dung）.\n   - Lý do đúng: Trong thông báo có chỉ thị rõ ràng về việc QC Leader phải làm đầu tiên: 「QCリーダーは、発表者および内容一覧を作成のうえ、1週間前までに事務局へ送付して下さい」 (Trưởng nhóm QC sau khi lập danh sách người phát biểu và nội dung thì hãy gửi cho ban thư ký trước 1 tuần).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Điều mà QC Leader phải làm đầu tiên là gì?\n- Đáp án đúng: 2. Lập danh sách người phát biểu và nội dung.\n\n3. SAI. 発表者・内容リストを決裁する。（はっぴょうしゃ・ないよう・りすと・を・けっさい・する - Phát Biểu Giả / Nội Dung List Quyết Tái - Phê duyệt danh sách người phát biểu và nội dung）.\n   - Lý do sai: QC Leader chỉ là người lập danh sách (作成), còn việc phê duyệt (決裁) là do Trưởng bộ phận thực hiện trước khi gửi đi (送付前に必ず各部門長の決裁をとるようにして下さい).\n\n4. SAI. 大会議室の準備をする。（だいかいぎしつ・の・じゅんび・を・する - Đại Hội Nghị Thất Chuẩn Bị - Chuẩn bị phòng họp lớn）.\n   - Lý do sai: Đại hội nghị thất (大会議室) chỉ là địa điểm tổ chức (場所). Thông báo không yêu cầu QC Leader phải phụ trách chuẩn bị phòng họp."
+    },
+    {
+      "question_id": 8,
+      "question": "メールを受け取った社員は、一番はじめに何をしなければなりませんか。",
+      "context": "先輩から、仕事の引き継ぎのメールが届きました。\n\n\"Date: Mon, xx xxx xxxx xx:xx:xx\"\nFrom: nakano@xxxxx.xxx.co.jp\nTo: yamamoto@xxxxx.xxx.co.jp\n\n山本さんへ\n\n明日は一日留守にします。\n次の4点よろしく。\n\n・会議のセット\n明後日の朝の会議、準備よろしく。\n出席者の出欠をおさえておくこと。\n\n・資料のコピー\n時間がある時に役員会資料を30セットコピー。バイトさんに指示。\n\n・部長のスピーチ原稿\n原稿を部長にチェックしてもらう。\n部長、午後から出張、必ず朝イチで。\n\n・翻訳\nスピーチ原稿、部長からＯＫ出たら、すぐ英訳に出す。\n時間ないから、急ぎでお願いすること。\n\n以上、悪いけどお願いします。\n\n中野",
+      "options": [
+        "会議出席者の出欠をチェックすること",
+        "役員会の資料をコピーすること",
+        "部長に原稿をみてもらうこと",
+        "原稿を英語に翻訳すること"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 会議出席者の出欠をチェックすること（かいぎ・しゅっせきしゃ・の・しゅっけつ・を・ちぇっく・する・こと - Hội Nghị Xuất Tịch Giả Xuất Khiết Check - Kiểm tra sự có mặt/vắng mặt của người tham dự cuộc họp）.\n   - Lý do sai: Việc chuẩn bị cho cuộc họp là công việc diễn ra vào sáng ngày kia (明後日の朝の会議、準備よろしく). Đây không phải là việc khẩn cấp nhất phải làm ngay đầu tiên.\n\n2. SAI. 役員会の資料をコピーすること（やくいんかい・の・しりょう・を・こぴー・する・こと - Dịch Viên Hội Tư Liệu Copy - Photo tài liệu cho họp ban quản trị）.\n   - Lý do sai: Email dặn rõ \"khi nào rảnh thì photo tài liệu\" (時間が ある時に役員会資料を30セットコピー), nên đây không phải công việc ưu tiên làm trước tiên.\n\n3. ĐÚNG. 部長に原稿をみてもらうこと（ぶちょう・に・げんこう・を・みてもらう・こと - Bộ Trưởng Nguyên Thảo - Đưa bản thảo cho Trưởng phòng duyệt）.\n   - Lý do đúng: Trong email ghi rõ: 「原稿を部長にチェックしてもらう。部長、午後から出張、必ず朝イチで。」 (Nhờ Trưởng phòng kiểm tra bản thảo. Trưởng phòng buổi chiều đi công tác nên nhất định phải làm ngay từ đầu buổi sáng). Vì Trưởng phòng sắp đi công tác nên đây là việc cấp bách nhất phải làm đầu tiên.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Nhân viên nhận được email phải làm điều gì đầu tiên?\n- Đáp án đúng: 3. Đưa bản thảo cho Trưởng phòng xem/duyệt.\n\n4. SAI. 原稿を英語に翻訳すること（げんこう・を・えいご・に・ほんやく・する・こと - Nguyên Thảo Anh Ngữ Phiên Dịch - Dịch bản thảo sang tiếng Anh）.\n   - Lý do sai: Việc dịch sang tiếng Anh chỉ được thực hiện sau khi Trưởng phòng đã duyệt xong bản thảo (スピーチ原稿、部長からOKできたら、すぐ英訳に出す). Do đó công việc này làm sau."
+    },
+    {
+      "question_id": 9,
+      "question": "営業一課の社員は、展示会当日、何をしますか。",
+      "context": "展示会準備の資料が関係各部署に配付されました。\n\n○○○○年○月○日\n\n関係各位\n\n企画課\n\n展示会準備に関するお知らせ\n\n展示会に関し、前日および当日の担当業務などが下記の通り決定いたしましたので、お知らせいたします。\n\n記\n\n(1) 前日までの会場セッティングについて\n・プレゼンテーション用パネルは営業一課が○月○日までに準備する。\n・会場設営は営業一課全員で行う。\n(2) 当日の配布物について\n・商品説明パンフレットは、企画課が準備する。\n・その他の配布物は、販売課が準備する。\n(3) 当日のシフトについて\n・会 場 商品説明 ：販売課（4名）、企画課（2名）\n注文受付 ：営業一課全員\n・応接室 役員対応 ：秘書課（1名）、総務課（1名）\n・駐車場 誘導・案内：総務課（1名）、営業二課（1名）\n\n注意：当日の説明マニュアルは、2日前までに営業一課渡辺が準備する。\n\n以上",
+      "options": [
+        "会場のセッティング",
+        "配布物の準備",
+        "商品の特徴説明",
+        "商品の受注"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 会場のセッティング（かいじょう・の・せっていんぐ - Hội Trường Setting - Chuẩn bị/thiết lập hội trường）.\n   - Lý do sai: Việc chuẩn bị hội trường (会場設営) do Phòng Kinh doanh 1 thực hiện vào ngày hôm trước (前日までの会場セッティング... 会場設営は営業一課全員で行う), không phải công việc trong ngày diễn ra triển lãm (当日).\n\n2. SAI. 配布物の準備（はいふぶつ・の・じゅんび - Phối Bố Vật Chuẩn Bị - Chuẩn bị vật phẩm/tài liệu phát）.\n   - Lý do sai: Tờ rơi giới thiệu do Phòng Kế hoạch chuẩn bị, tài liệu phát khác do Phòng Bán hàng chuẩn bị (商品説明パンフレットは、企画課が準備する。その他の配布物は、販売課が準備する). Phòng Kinh doanh 1 không phụ trách công việc này.\n\n3. SAI. 商品の特徴説明（しょうひん・の・とくちょう・せつめい - Thương Phẩm Đặc Trưng Thuyết Minh - Giải thích đặc tính sản phẩm）.\n   - Lý do sai: Việc giải thích sản phẩm tại hội trường do Phòng Bán hàng (4 người) và Phòng Kế hoạch (2 người) phụ trách (会場 商品説明：販売課(4名)、企画課(2名)), không phải của Phòng Kinh doanh 1.\n\n4. ĐÚNG. 商品の受注（しょうひん・の・じゅちゅう - Thương Phẩm Thụ Chú - Tiếp nhận đơn hàng sản phẩm）.\n   - Lý do đúng: Trong mục lịch phân công ngày diễn ra triển lãm ((3) 当日のシフトについて), dòng tiếp nhận đơn hàng ghi rõ: 「注文受付：営業一課全員」 (Tiếp nhận đơn hàng: Toàn bộ Phòng Kinh doanh 1). Cụm 「注文受付」 (Tiếp nhận đơn hàng) đồng nghĩa với 「商品の受注」.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Nhân viên Phòng Kinh doanh 1 sẽ làm gì vào ngày diễn ra triển lãm?\n- Đáp án đúng: 4. Tiếp nhận đơn hàng sản phẩm."
+    },
+    {
+      "question_id": 10,
+      "question": "取引先が、劇回の打ち合わせで特に重要と考えていることは何ですか。",
+      "context": "取引先のメーカーから、次のような文書が届きました。\n\n平成○○年○月○日\n\n株式会社 ワールド電機\n事業本部長 赤坂 義雄 殿\n\n株式会社 ジャパン設備機器\n事業部長 吉田 英一\n\n拝啓 貴社益々ご清栄のこととお慶び申し上げます。\n去る5月10日の協議におきまして、お取引額の引き上げ、また、手形から現金お取引への変更と、弊社の要望をお聞き入れ下さいまして、誠にありがとうございました。貴社のこうしたご厚意にお応えしていくためにも、尚一層の努力を続ける所存ですので、今後ともお引き立てのほど、何卒よろしくお願い申し上げます。\nさて、次回定例会の議題につきましては、おおよそ、次のようなことを考えておりますので、お含みおき下さいますようお願い申し上げます。\nまず、新設備導入に関して、以前に提示いたしました条件より、お安くご案内できることになりましたので、結果をご報告させていただきたいと思います。\n次に、従来からご指摘いただいておりました製品に対する苦情につきましては、万全の体制で臨んだ結果、解決致しましたので、その結果についてもご報告申し上げます。\nまた、次回定例会の席上、弊社の新製品のアイデアを発表させていただきたいと思います。同製品は、弊社といたしましては、貴社とのより緊密な連携を念頭におき、提案させていただくものですので、この機会に、是非じっくりと貴社の具体的な開発コンセプトを承りたいと存じます。\n以上、貴社の方でご意見等ございましたら、事前にご連絡いただければ幸いです。\n今後とも、よろしくお取引のほどお願い申し上げます。\n\n敬具",
+      "options": [
+        "現金取引に変更すること",
+        "以前に提示した価格を値引きすること",
+        "苦情に対する処理体制を報告すること",
+        "製品開発について話し合うこと"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 現金取引に変更すること（げんきんとりひき・に・へんこう・する・こと - Hiện Kim Thủ Dẫn Biến Canh - Thay đổi sang giao dịch bằng tiền mặt）.\n   - Lý do sai: Việc chuyển từ phiếu kỳ hạn sang thanh toán tiền mặt là thỏa thuận đã được thống nhất trong quá khứ (cảm ơn vì đã chấp nhận yêu cầu ở cuộc họp ngày 10/5 trước đó), không phải là nội dung trọng tâm cho buổi họp tới.\n\n2. SAI. 以前に提示した価格を値引きすること（いぜん・に・ていじ・した・かかく・を・ねびき・する・こと - Dĩ Tiền Đề Thị Giá Cách Trị Dẫn - Giảm giá so với mức giá đã đưa ra trước đó）.\n   - Lý do sai: Việc báo giá rẻ hơn phương án trước đây chỉ là một mục báo cáo kết quả đơn thuần (結果をご報告させていただきたいと思います), không phải chủ đề thảo luận trọng tâm.\n\n3. SAI. 苦情に対する処理体制を報告すること（くじょう・に・たいする・しょり・たいせい・を・ほうこく・する・こと - Khổ Tình Đối Xử Lý Thể Chế Báo Cáo - Báo cáo về hệ thống xử lý khiếu nại）.\n   - Lý do sai: Đây cũng chỉ là một nội dung báo cáo đơn thuần về kết quả giải quyết khiếu nại sản phẩm (その結果についてもご報告申し上げます), không phải là thảo luận chính.\n\n4. ĐÚNG. 製品開発について話し合うこと（せいひんかいはつ・に・ついて・はなしあう・こと - Chế Phẩm Khai Phát Thoại Hợp - Thảo luận về việc phát triển sản phẩm）.\n   - Lý do đúng: Trong thư ghi rõ mong muốn chính cho buổi họp tới: 「また、次回定例会の席上、弊社の新製品のアイデアを発表させていただきたいと思います。... この機会に、是非じっくりと貴社の具体的な開発コンセプトを承りたいと存じます。」 (Ngoài ra, tại buổi họp định kỳ tới, chúng tôi muốn trình bày ý tưởng sản phẩm mới... Nhân cơ hội này, rất mong được thảo luận kỹ lưỡng về định hướng phát triển cụ thể của quý công ty). Do đó, thảo luận phát triển sản phẩm là nội dung quan trọng nhất.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Đơn vị đối tác nghĩ điều gì là đặc biệt quan trọng trong buổi họp tới?\n- Đáp án đúng: 4. Thảo luận về việc phát triển sản phẩm."
+    },
+    {
+      "question_id": 11,
+      "question": "フレックスタイム制度をどう見直すと言っていますか。",
+      "context": "次の文書は、ある会社のフレックスタイム制度に関する社内文書です。\n\n○○○○年○月○日\n\n社員各位\n\n総務部長\n\nフレックスタイム制度見直しについて\n\nわが社で行っているフレックスタイム制度について、前回の役員会議で討議しました結果を皆様にお知らせいたします。\nかねてから定時に社員が揃わないことでお客様にご迷惑をかけ、また作業の能率も下げているとの声が各部署よりあがっておりました。\nそのような状況に鑑み、本年度をもって管理職に対する本制度の廃止を決定いたしました。また将来は、一般職についても取りやめる方向で検討中です。\nなお、育児や介護など、特別の理由のある社員にのみ、継続という方向で対応していく所存であります。\n皆様の生活に影響を与えることもあるかとは思いますが、ご理解のほどよろしくお願い申し上げます。",
+      "options": [
+        "全面的に廃止する。",
+        "管理職のみ廃止する。",
+        "一般職にのみ導入する。",
+        "事情のある社員にのみ導入する。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 全面的に廃止する。（ぜんめん・てき・に・はいし・する - Toàn Diện Đích Phế Chỉ - Bãi bỏ hoàn toàn）.\n   - Lý do sai: Trong văn bản ghi rõ chỉ mới quyết định bãi bỏ đối với cấp quản lý (管理職に対する本制度の廃止を決定いたしました), các đối tượng khác vẫn đang xem xét hoặc duy trì, do đó không phải là \"bãi bỏ hoàn toàn\".\n\n2. ĐÚNG. 管理職のみ廃止する。（かんりしょく・の・み・はいし・する - Quản Lý Chức Phế Chỉ - Chỉ bãi bỏ đối với cấp quản lý）.\n   - Lý do đúng: Văn bản ghi rõ quyết định bãi bỏ đối với cấp quản lý từ năm nay (本年度をもって管理職に対する本制度の廃止を決定いたしました). Nhân viên thông thường (一般職) vẫn đang trong quá trình xem xét (検討中), và các trường hợp đặc biệt (育児や介護など) vẫn được tiếp tục duy trì (継続).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Văn bản nói sẽ điều chỉnh/xem xét lại chế độ giờ làm việc linh hoạt (flextime) như thế nào?\n- Đáp án đúng: 2. Chỉ bãi bỏ đối với cấp quản lý.\n\n3. SAI. 一般職のみ導入する。（いっぱんしょく・の・み・どうにゅう・する - Nhất Bàn Chức Đạo Nhập - Chỉ áp dụng đối với nhân viên thông thường）.\n   - Lý do sai: Nhân viên thông thường hiện đang sử dụng chế độ này và công ty đang xem xét hướng hủy bỏ (取りやめる方向で検討中), chứ không phải bây giờ mới bắt đầu áp dụng/đưa vào (導入).\n\n4. SAI. 事情のある社員のみ導入する。（じじょう・の・ある・しゃいん・の・み・どうにゅう・する - Sự Tình Nhân Viên Đạo Nhập - Chỉ áp dụng cho nhân viên có hoàn cảnh đặc biệt）.\n   - Lý do sai: Nhân viên có hoàn cảnh đặc biệt (chăm con, chăm người ốm...) là đối tượng được tiếp tục áp dụng chế độ cũ (継続), chứ không phải là áp dụng mới (導入)."
+    },
+    {
+      "question_id": 12,
+      "question": "各社員に何をしてほしいと言っていますか。",
+      "context": "社内のシステム管理部から、次のような通知がありました。\n\n○○○○年○月○日\n\n各位\n\nシステム管理部\n\n全社ＰＣシステムのメンテナンスのお知らせ\n\n以下の日程で、全社員のＰＣを対象にシステムのメンテナンスを行いますので、よろしくお願いします。\n\n記\n\n○月○日（日）9:00～17:00（予定）\n\nなお、次の点にご注意下さい。\n①休日出勤しても、各人のＰＣは使用できません。\n②当日は、システム管理者が各人のＰＣにログインし直す必要があるため、メンテナンス予定日直前の業務終了時にはＰＣを再起動した状態とし、電源を切らないでおいてください。\n③メンテナンス終了後、とくに作業終了をお知らせするメールは発信いたしません。\n\n何かご不明の点は、システム管理部（佐藤/吉田）まで\n内線3535 sys1@koko.co.jp\n\n以上",
+      "options": [
+        "ログインし直しておく",
+        "再起動しておく",
+        "電源を切っておく",
+        "メールを発信しておく"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. ログインし直しておく。（ろぐいん・し・なおして・おく - Lăng Nhập Trực - Đăng nhập lại sẵn）.\n   - Lý do sai: Việc đăng nhập lại là do quản trị viên hệ thống sẽ thực hiện vào ngày bảo trì (システム管理者が各人のPCにログインし直す必要があるため). Văn bản dặn nhân viên phải khởi động lại máy trước đó chứ không yêu cầu nhân viên tự đăng nhập lại.\n\n2. ĐÚNG. 再起動しておく。（さいきどう・して・おく - Tái Khởi Động - Khởi động lại máy sẵn）.\n   - Lý do đúng: Văn bản ghi rõ chỉ thị cho nhân viên trước khi kết thúc công việc: 「メンテナンス予定日直前の業務終了時にはPCを再起動した状態とし、電源を切らないでおいてください」 (Tại thời điểm kết thúc công việc ngay trước ngày bảo trì, hãy để máy tính ở trạng thái đã khởi động lại và không tắt nguồn).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Phòng quản lý hệ thống yêu cầu các nhân viên làm gì?\n- Đáp án đúng: 2. Khởi động lại máy sẵn (và để nguyên nguồn).\n\n3. SAI. 電源を切っておく。（でんげん・を・きって・おく - Điện Nguyên Thiết - Tắt nguồn sẵn）.\n   - Lý do sai: Văn bản dặn rõ là \"không được tắt nguồn\" (電源を切らないでおいてください), vì quản trị viên cần truy cập vào máy để bảo trì.\n\n4. SAI. メールを発信しておく。（めーる・を・はっしん・して・おく - Phát Tín - Gửi email sẵn）.\n   - Lý do sai: Văn bản chỉ ghi chú việc sau khi bảo trì xong sẽ \"không gửi email thông báo\" (作業終了をお知らせするメールは発信いたしません), hoàn toàn không yêu cầu nhân viên gửi email."
+    },
+    {
+      "question_id": 13,
+      "question": "取引先の会社は、資本提携に関して、現在、どうなっていると言っていますか。",
+      "context": "取引先から、次のような文書が届きました。\n\n○○○○年○月○日\n\nお得意様各位\n\n○○との提携について\n\n拝啓 時下ますますご盛栄のこととお慶び申し上げます。\nさて、皆様ご存知のとおり、弊社では年初より大手電機メーカー○○との間で、資本提携について検討を進めておりますが、このたび一部報道機関が報じた「家電部門から撤退か」という内容は、全く根拠のないものであり、弊社も困惑している次第であります。\n資本提携は、結果として弊社がより強い基盤を築き、さらなる成長を実現するものでなければならず、その方向で検討を重ねておりますが、現段階では、提携の具体的な方策などは、白紙の状態であります。\n皆様方におかれましては、何卒現状をご了承の上、今後も引き続きお引き立て賜りたくお願い申し上げます。\n\n敬具\n\n△△△電気株式会社\n××部",
+      "options": [
+        "資本提携を検討している。",
+        "資本提携を決定した。",
+        "資本提携を断念した。",
+        "資本提携を延期した。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 資本提携を検討している。（しほん・ていけい・を・けんとう・して・いる - Tư Bản Đề Huề Kiểm Thảo - Đang xem xét hợp tác vốn）.\n   - Lý do đúng: Trong đoạn 1 của văn bản có nêu rõ thực trạng hiện tại: 「弊社では年初より大手電機メーカー○○との間で、資本提携について検討を進めておりますが...」 (Từ đầu năm phía công ty chúng tôi vẫn đang tiến hành xem xét/thảo luận việc hợp tác vốn với hãng điện tử lớn OO...). Dù có tin đồn rút lui nhưng công ty khẳng định tin đồn đó vô căn cứ và họ vẫn đang tiếp tục xem xét hợp tác.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Công ty đối tác nói rằng hiện tại việc hợp tác vốn đang thế nào?\n- Đáp án đúng: 1. Đang xem xét việc hợp tác vốn.\n\n2. SAI. 資本提携を決定した。（しほん・ていけい・を・けってい・した - Tư Bản Đề Huề Quyết Định - Đã quyết định hợp tác vốn）.\n   - Lý do sai: Văn bản ghi rõ ở thời điểm hiện tại kế hoạch cụ thể vẫn là \"tờ giấy trắng\" (現段階では、提携の具体的な方策などは、白紙の状態であります), tức là chưa có quyết định chính thức.\n\n3. SAI. 資本提携を断念した。（しほん・ていけい・を・だんねん・した - Tư Bản Đề Huề Đoạn Niệm - Đã từ bỏ việc hợp tác vốn）.\n   - Lý do sai: Tin đồn báo chí nói công ty \"rút khỏi mảng điện gia dụng\" (家電部門から撤退) là hoàn toàn không có cơ sở (全く根拠のないものであり). Công ty không từ bỏ việc hợp tác vốn.\n\n4. SAI. 資本提携を延期した。（しほん・ていけい・を・えんき・した - Tư Bản Đề Huề Hoãn Kỳ - Đã hoãn lại việc hợp tác vốn）.\n   - Lý do sai: Văn bản khẳng định họ vẫn đang liên tục tiến hành xem xét (検討を重ねております), không đề cập đến việc hoãn lại."
+    },
+    {
+      "question_id": 14,
+      "question": "社長は、セールス活動において何が一番大切だと言っていますか。",
+      "context": "社長から、次のようなメールが届きました。\n\n\"Date: Fri, xx xxx xxxx xx:xx:xx\"\nFrom: syacho@xxxxx.xxx.co.jp\nTo: xxxxx@xxxxx.xxx.co.jp\n\n新入社員の皆さんへ\n\nみなさん、がんばっていますか。\n\n販売目標を達成するには複数の道があります。\n先輩社員にセールスのコツを教わるのはもちろん大切ですが、競争がますます激化している現在、それだけでは不十分です。\n顧客へのアプローチ方法から契約に至るまで、一人一人が状況に応じてセールス方法を工夫しなければ良い結果は得られません。\nしかし、それにも増して何より大切なのは「ネバーギブアップ」の精神です。\nちょっと苦言を呈されただけで、傷ついてへこんでしまうようでは、よいセールスはできません。\nお客さんに「ノー」と言われてセールスは始まるのです。\n「何がなんでも目標を達成するぞ」という強い思いがあれば、一つや二つの失敗など、なんのことはありません。\n冷静に状況を判断しつつ、打たれてもたたかれてもはい上がってくる、そんな精神を持ってほしいと思います。\nそう言う人たちの集団こそが、どんな高い目標でもこなせるのです。\n皆さん、期待しております。",
+      "options": [
+        "先輩社員から、セールスの仕方を学ぶこと",
+        "状況に応じて、セールスの仕方を変えられること",
+        "たたかれたら、たたき返せる精神力を持つこと",
+        "失敗しても、やり直せる精神力を持つこと"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 先輩社員から、セールスの仕方を学ぶこと。（せんぱい・しゃいん・から・せーるす・の・しかた・を・まなぶ・こと - Tiên Bối Nhân Viên Học - Học cách bán hàng từ tiền bối）.\n   - Lý do sai: Trong email có ghi \"việc học cách bán hàng từ tiền bối là đương nhiên quan trọng, nhưng chỉ thế thôi thì chưa đủ\" (先輩社員にセールスのコツを教わるのはもちろん大切ですが、それだけでは不十分です). Đây không phải là điều quan trọng nhất.\n\n2. SAI. 状況に応じて、セールスの方を変えられること。（じょうきょう・に・おうじて・せーるす・の・ほう・を・かえられる・こと - Trạng Thái Ứng Biến - Thay đổi phương pháp bán hàng tùy theo tình hình）.\n   - Lý do sai: Việc linh hoạt phương pháp bán hàng là cần thiết (一人一人が状況に応じてセールス方法を工夫しなければ...), nhưng giám đốc nhấn mạnh \"còn quan trọng hơn cả điều đó\" chính là tinh thần không bỏ cuộc (しかし、それにも増して何より大切なのは「ネバーギブアップ」の精神です).\n\n3. SAI. たたかれたら、たたき返せる精神力を持つこと。（Thần Tinh Lực Trì - Có tinh thần đánh trả lại khi bị đánh/chỉ trích）.\n   - Lý do sai: Giám đốc khuyên dù bị từ chối/thất bại thì vẫn kiên cường đứng dậy (打たれてもたたかれてもはい上がってくる), chứ không phải là thái độ \"đánh trả/đối đầu\" lại (たたき返す).\n\n4. ĐÚNG. 失敗しても、やり直せる精神力を持つこと。（しっぱい・しても・やりなおせる・せいしんりょく・を・もつ・こと - Thất Bại Tái Trực Tinh Thần Lực Trì - Có tinh thần làm lại/kiên trì dù gặp thất bại）.\n   - Lý do đúng: Giám đốc khẳng định điều quan trọng nhất: 「何より大切なのは『ネバーギブアップ』の精神です」 (Điều quan trọng hơn cả là tinh thần Never Give Up - Không bao giờ bỏ cuộc) và mong muốn nhân viên dù bị gục ngã hay gặp 1, 2 thất bại vẫn luôn gượng dậy và làm lại (打たれてもたたかれてもはい上がってくる、そんな精神力を持ってほしい).\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Giám đốc nói điều gì là quan trọng nhất trong hoạt động bán hàng?\n- Đáp án đúng: 4. Có tinh thần làm lại/kiên trì đứng dậy dù gặp thất bại."
+    },
+    {
+      "question_id": 15,
+      "question": "この契約がまとまることで、この会社にとって一番の利益になることは何だと言っていますか。",
+      "context": "次のような稟議書が回ってきました。\n\n稟議書\n\n下記の件に関し、ご決裁いただけますようお伺いいたします。\n\n記\n\n件 名 ：新宿リースへの特別価格による機械販売について\n販売機種：SH200CT-2\n販売台数：100台\n\"販売額 ：700,000,000円（単価：7,000,000円）\"\n\n理 由 ：1．新宿リースは業界第２位の大手建機リース業者である。また、当社ライバルである東京機械の親派ユーザーでもあり、これを機に、当社としても食い込みたい。\n2．新宿リースはリース業者の中で主導的立場にあり、当社機械が採用されることにより、他のリース業者に対する宣伝効果が望める。\n3．新宿リースの信用状況は添付資料の通り、健全経営である上、受注残も多く、今後の発展が期待できる優良企業である。\n4．今回の契約により、実績を作り、来年度以降の大口契約も期待できるため。\n\nその他 ：東京機械にも相見積もりを取っており、できる限り速やかに本条件にて、最終見積もりを提出する必要があり、至急ご承認いただきたくお願い申し上げます。\n以上",
+      "options": [
+        "リース業界に対するシェアを安定的に拡大できる。",
+        "リース業界での主導的立場を守ることができる。",
+        "新宿リースに対する宣伝効果を高めることができる。",
+        "新宿リースに対する影響力を拡大することができる。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. リース業界に対するシェアを安定的に拡大できる。（りーす・ぎょうかい・に・たいする・しぇあ・を・あんてい・てき・に・かくだい・できる - Nghiệp Giới Đối An Định Đích Khuếch Đại - Có thể mở rộng thị phần trong ngành cho thuê tài chính một cách ổn định）.\n   - Lý do đúng: \n     + Tờ trình nêu lý do Shinjuku Lease là công ty lớn thứ 2 trong ngành và là khách hàng thân thiết của đối thủ cạnh tranh (Tokyo Kikai). Thâu tóm được hợp đồng này sẽ giúp công ty thâm nhập vào thị trường của đối thủ (Lý do 1).\n     + Việc máy của công ty được Shinjuku Lease sử dụng sẽ tạo hiệu ứng quảng cáo đến các công ty cho thuê khác (Lý do 2).\n     + Tạo tiền đề để ký các hợp đồng lớn từ các năm sau (Lý do 4).\n     Tổng hợp các yếu tố này giúp công ty đạt được lợi ích lớn nhất là mở rộng thị phần trong ngành cho thuê tài chính một cách vững chắc.\nDịch nghĩa câu hỏi & đáp án đúng:\n- Câu hỏi: Văn bản này nói lợi ích lớn nhất đối với công ty nếu đạt được hợp đồng này là gì?\n- Đáp án đúng: 1. Có thể mở rộng thị phần trong ngành cho thuê tài chính một cách ổn định.\n\n2. SAI. リース業界での主導的立場を守ることができる。（りーす・ぎょうかい・で・の・しゅどう・てき・たちば・を・まもる・こと・が・できる - Nghiệp Giới Chủ Đạo Đích Lập Trường Thủ - Có thể giữ vững vị thế chủ đạo trong ngành cho thuê）.\n   - Lý do sai: Công ty làm tờ trình này là nhà sản xuất máy móc (機械メーカー), không phải là công ty kinh doanh dịch vụ cho thuê (リース業者). Người nắm vị thế chủ đạo trong ngành cho thuê là công ty khách hàng (Shinjuku Lease).\n\n3. SAI. 新宿リースに対する宣伝効果を高めることができる。（しんじゅく・りーす・に・たいする・せんでん・こうか・を・たかめる・こと・が・できる - Tuyên Truyền Hiệu Quả Cao - Tăng hiệu quả quảng cáo hướng tới công ty Shinjuku Lease）.\n   - Lý do sai: Tờ trình nói việc bán máy cho Shinjuku Lease sẽ mang lại hiệu ứng quảng cáo \"hướng tới các công ty cho thuê khác\" (他のリース業者に対する宣伝効果), chứ không phải quảng cáo tới chính Shinjuku Lease.\n\n4. SAI. 新宿リースに対する影響力を拡大することができる。（しんじゅく・りーす・に・たいする・えいきょうりょく・を・かくだい・する・こと・が・できる - Ảnh Hưởng Lực Khuếch Đại - Mở rộng sức ảnh hưởng đối với công ty Shinjuku Lease）.\n   - Lý do sai: Mục tiêu của hợp đồng không phải là để gây ảnh hưởng hay kiểm soát riêng một công ty Shinjuku Lease, mà lấy đây làm bàn đạp để mở rộng vị thế và ký kết với nhiều đối tác lớn khác trong toàn ngành."
+    }
+  ]
+}

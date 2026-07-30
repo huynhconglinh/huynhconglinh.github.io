@@ -1,0 +1,334 @@
+{
+  "id": "riki_tong_on_bai_8",
+  "code": "riki_tong_on_bai_8",
+  "title": "Tổng ôn Ngữ pháp 4 - N3",
+  "category": "vocabulary_grammar",
+  "questionCount": 25,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "暗く(    ) ホテルに着けるように急ぎましょう。",
+      "context": "",
+      "options": [
+        "なる間に",
+        "なるまで",
+        "ならないうちに",
+        "ならないかぎり"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「暗くなる間に」: 「間に」 chỉ khoảng thời gian giữa hai thời điểm, không phù hợp khi muốn làm trước khi điều gì đó xảy ra.\r\n2. SAI. 「暗くなるまで」: \"cho đến khi trời tối\" — ý nghĩa khác với \"trước khi trời tối\".\r\n3. ĐÚNG. 「～ないうちに」: cấu trúc diễn tả \"làm trước khi điều không mong muốn xảy ra\". 「暗くならないうちに着く」 = đến nơi trước khi trời tối.\r\nCâu hoàn chỉnh:\r\n暗くならないうちにホテルに着けるように急ぎましょう。\r\nDịch nghĩa:\r\nHãy mau lên để đến khách sạn trước khi trời tối nhé.\r\n4. SAI. 「暗くならないかぎり」: \"chừng nào chưa tối\" — nghĩa là điều kiện dài hạn, không phù hợp với câu này."
+    },
+    {
+      "question_id": 2,
+      "question": "この本、さっき (    ) ところなんですが、おもしろくてやめられないんです。",
+      "context": "",
+      "options": [
+        "読みかける",
+        "読みはじめた",
+        "読もうとした",
+        "読みそうになる"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「読みかける」: dạng từ điển, không dùng trước 「ところ」 để diễn tả vừa mới bắt đầu.\r\n2. ĐÚNG. 「読みはじめた」: cấu trúc 「Vたところ」 diễn tả \"vừa mới làm xong/vừa mới bắt đầu\". 「読みはじめたところ」 = vừa mới bắt đầu đọc.\r\nCâu hoàn chỉnh:\r\nこの本、さっき読みはじめたところなんですが、おもしろくてやめられないんです。\r\nDịch nghĩa:\r\nCuốn sách này tôi vừa mới bắt đầu đọc lúc nãy, nhưng hay quá không bỏ xuống được.\r\n3. SAI. 「読もうとした」（cố gắng/định đọc）: diễn tả ý định nhưng có hàm ý không thực hiện được.\r\n4. SAI. 「読みそうになる」（sắp đọc）: không phù hợp ngữ cảnh."
+    },
+    {
+      "question_id": 3,
+      "question": "そんなにたくさん買っても、二人ではとても(     )よ。",
+      "context": "",
+      "options": [
+        "食べきれない",
+        "食べかねない",
+        "食べるしかない",
+        "食べるとはかぎらない"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「食べきれない」: cấu trúc 「Vきれない」 diễn tả \"không thể làm hết/làm không xuể\". Hai người mua nhiều thế thì ăn không hết.\r\nCâu hoàn chỉnh:\r\nそんなにたくさん買っても、二人ではとても食べきれないよ。\r\nDịch nghĩa:\r\nDù mua nhiều như vậy thì hai người cũng ăn không hết đâu.\r\n2. SAI. 「食べかねない」（có thể ăn/dễ xảy ra chuyện ăn）: cấu trúc 「Vかねない」 = có nguy cơ làm điều không tốt, không phù hợp.\r\n3. SAI. 「食べるしかない」（chỉ còn cách ăn）: nghĩa khác hoàn toàn.\r\n4. SAI. 「食べるとはかぎらない」（không nhất thiết là ăn）: không phù hợp ngữ cảnh."
+    },
+    {
+      "question_id": 4,
+      "question": "その箱を開けた(    )、中から何かが飛び出してきた。",
+      "context": "",
+      "options": [
+        "とたん",
+        "ところが",
+        "とすると",
+        "とともに"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「～とたん（に）」: cấu trúc diễn tả \"ngay tức thì/đúng lúc vừa làm xong thì...\", thường diễn tả điều bất ngờ xảy ra ngay sau đó.\r\nCâu hoàn chỉnh:\r\nその箱を開けたとたん、中から何かが飛び出してきた。\r\nDịch nghĩa:\r\nNgay khi vừa mở chiếc hộp đó ra thì có gì đó nhảy bổ ra từ bên trong.\r\n2. SAI. 「ところが」: từ nối nghịch chiều (nhưng/thế mà), không phải cấu trúc nối với 「開けた」.\r\n3. SAI. 「とすると」: diễn tả suy luận giả thiết, không phù hợp.\r\n4. SAI. 「とともに」: diễn tả đồng thời (cùng lúc với...), không diễn tả điều bất ngờ đột ngột."
+    },
+    {
+      "question_id": 5,
+      "question": "小さいころは体が弱くてかぜを(    )が、今はずいぶん丈夫になった。",
+      "context": "",
+      "options": [
+        "ひきたかった",
+        "ひこうとした",
+        "ひきがちだった",
+        "ひきたがった"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「ひきたかった」（muốn bị cảm）: không hợp lý, không ai muốn bị cảm.\r\n2. SAI. 「ひこうとした」（cố gắng bị cảm）: không hợp lý ngữ nghĩa.\r\n3. ĐÚNG. 「ひきがちだった」: cấu trúc 「Vがちだ」 = có xu hướng thường xuyên/dễ... 「かぜをひきがちだった」 = hay bị cảm/dễ bị cảm.\r\nCâu hoàn chỉnh:\r\n小さいころは体が弱くてかぜをひきがちだったが、今はずいぶん丈夫になった。\r\nDịch nghĩa:\r\nHồi nhỏ cơ thể yếu nên hay bị cảm, nhưng bây giờ đã khỏe hơn nhiều rồi.\r\n4. SAI. 「ひきたがった」（muốn bị cảm - của người khác）: 「たがる」 diễn tả người khác muốn, không phù hợp."
+    },
+    {
+      "question_id": 6,
+      "question": "また宿題を忘れてしまった。これまでに(    )先生に注意されたことか。",
+      "context": "",
+      "options": [
+        "いつ",
+        "何度",
+        "いつも",
+        "何度も"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「いつ先生に注意されたことか」: không phải cấu trúc cảm thán phù hợp.\r\n2. SAI. 「何度先生に注意されたことか」: gần đúng nhưng thiếu 「も」 để tạo thành cấu trúc cảm thán đầy đủ.\r\n3. SAI. 「いつも先生に注意されたことか」: không phải cấu trúc cảm thán.\r\n4. ĐÚNG. 「何度も～たことか」: cấu trúc cảm thán diễn tả \"đã bao nhiêu lần...\" với hàm ý đã xảy ra rất nhiều lần đến mức chán. 「何度も注意されたことか」 = đã bị nhắc nhở bao nhiêu lần rồi.\r\nCâu hoàn chỉnh:\r\nまた宿題を忘れてしまった。これまでに何度も先生に注意されたことか。\r\nDịch nghĩa:\r\nLại quên bài tập nữa rồi. Đã bị thầy/cô nhắc bao nhiêu lần rồi mà."
+    },
+    {
+      "question_id": 7,
+      "question": "今日は雨は(    )から、かさは持っていかなくてもいいだろう。",
+      "context": "",
+      "options": [
+        "降りそうもない",
+        "降ろうとしない",
+        "降るにちがいない",
+        "降るつもりがない"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「降りそうもない」: cấu trúc 「Vそうもない」 diễn tả \"có vẻ như không thể/không có khả năng...\". Trời có vẻ không mưa.\r\nCâu hoàn chỉnh:\r\n今日は雨は降りそうもないから、かさは持っていかなくてもいいだろう。\r\nDịch nghĩa:\r\nHôm nay có vẻ không mưa nên không cần mang ô cũng được.\r\n2. SAI. 「降ろうとしない」（không có ý định mưa）: trời mưa không có \"ý định\" - câu này nhân cách hóa không tự nhiên.\r\n3. SAI. 「降るにちがいない」（chắc chắn sẽ mưa）: nghĩa ngược lại.\r\n4. SAI. 「降るつもりがない」（không có ý định mưa）: tương tự câu 2, không tự nhiên."
+    },
+    {
+      "question_id": 8,
+      "question": "飲めば(    ) やせられる薬なんて、信じないほうがいい。",
+      "context": "",
+      "options": [
+        "飲むほど",
+        "飲まずに",
+        "飲もうと",
+        "飲んでも"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「飲むほど」: cấu trúc 「Vほど」 ở đây tạo thành 「飲めば飲むほど」 = càng uống càng... Câu đầy đủ: 「飲めば飲むほどやせられる」 = càng uống càng gầy.\r\nCâu hoàn chỉnh:\r\n飲めば飲むほどやせられる薬なんて、信じないほうがいい。\r\nDịch nghĩa:\r\nNhững loại thuốc kiểu \"càng uống càng gầy\" thì không nên tin.\r\n2. SAI. 「飲まずにやせられる」（gầy mà không cần uống）: nghĩa khác.\r\n3. SAI. 「飲もうとやせられる」: không phải cấu trúc ngữ pháp đúng.\r\n4. SAI. 「飲んでもやせられる」（dù uống cũng gầy được）: không phải ý muốn diễn đạt."
+    },
+    {
+      "question_id": 9,
+      "question": "兄が仕事をやめたことは、両親(    ) 知らなかったそうだ。",
+      "context": "",
+      "options": [
+        "ほど",
+        "でこそ",
+        "でさえ",
+        "ばかり"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「両親ほど知らなかった」: không phải cấu trúc so sánh phù hợp.\r\n2. SAI. 「両親でこそ知らなかった」: không phải cấu trúc ngữ pháp đúng trong ngữ cảnh này.\r\n3. ĐÚNG. 「でさえ」: cấu trúc \"ngay cả... cũng...\", nhấn mạnh điều bất ngờ. Ngay cả cha mẹ - người gần gũi nhất - cũng không biết.\r\nCâu hoàn chỉnh:\r\n兄が仕事をやめたことは、両親でさえ知らなかったそうだ。\r\nDịch nghĩa:\r\nNghe nói ngay cả cha mẹ cũng không biết chuyện anh tôi nghỉ việc.\r\n4. SAI. 「両親ばかり知らなかった」: \"chỉ riêng cha mẹ không biết\" - nghĩa khác."
+    },
+    {
+      "question_id": 10,
+      "question": "(    ) ハンバーガーが好きでも、毎日食べるのは体によくないだろう。",
+      "context": "",
+      "options": [
+        "いくら",
+        "なんと",
+        "たとえば",
+        "どうしても"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「いくら～でも」: cấu trúc nhượng bộ \"dù... đến mức nào đi nữa\". 「いくらハンバーガーが好きでも」 = dù thích hamburger đến mức nào đi nữa.\r\nCâu hoàn chỉnh:\r\nいくらハンバーガーが好きでも、毎日食べるのは体によくないだろう。\r\nDịch nghĩa:\r\nDù thích hamburger đến mức nào thì ăn mỗi ngày cũng không tốt cho sức khỏe.\r\n2. SAI. 「なんと～でも」: không phải cấu trúc nhượng bộ phù hợp.\r\n3. SAI. 「たとえば」（ví dụ như）: không phải cấu trúc nhượng bộ.\r\n4. SAI. 「どうしても～でも」: không tạo thành cấu trúc nhượng bộ tự nhiên."
+    },
+    {
+      "question_id": 11,
+      "question": "この手紙、3 時間もかけて書いたの? (    )短いね。",
+      "context": "",
+      "options": [
+        "それでは",
+        "それなら",
+        "そのかわり",
+        "それにしては"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「それでは短いね」: nghĩa là \"vậy thì ngắn nhỉ\" - không diễn tả được ý tương phản bất ngờ.\r\n2. SAI. 「それなら短いね」: \"nếu vậy thì ngắn\" - điều kiện, không phù hợp.\r\n3. SAI. 「そのかわり短いね」: \"bù lại thì ngắn\" - không phù hợp.\r\n4. ĐÚNG. 「それにしては」: cấu trúc \"xét ra... thì kết quả không tương xứng\". Tốn 3 tiếng mà thư lại ngắn — điều không tương xứng với thời gian bỏ ra.\r\nCâu hoàn chỉnh:\r\nこの手紙、3時間もかけて書いたの？それにしては短いね。\r\nDịch nghĩa:\r\nBức thư này mà mất đến 3 tiếng để viết? Xét ra thì ngắn nhỉ."
+    },
+    {
+      "question_id": 12,
+      "question": "みなさん、スピーチのときは(    ) 大きな声ではっきりと話してくださいね。",
+      "context": "",
+      "options": [
+        "恥ずかしくなくて",
+        "恥ずかしがらないで",
+        "恥ずかしくないなら",
+        "恥ずかしそうなのに"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「恥ずかしくなくて話してください」: dạng te-form, không phải yêu cầu phù hợp.\r\n2. ĐÚNG. 「恥ずかしがらないで」: cấu trúc 「～ないで（ください）」 = đừng (tỏ ra) xấu hổ. 「恥ずかしがる」 = tỏ ra xấu hổ/e thẹn.\r\nCâu hoàn chỉnh:\r\nみなさん、スピーチのときは恥ずかしがらないで大きな声ではっきりと話してくださいね。\r\nDịch nghĩa:\r\nMọi người nhé, khi thuyết trình hãy đừng e thẹn, nói to và rõ ràng nhé.\r\n3. SAI. 「恥ずかしくないなら話してください」: điều kiện, không phải yêu cầu.\r\n4. SAI. 「恥ずかしそうなのに話してください」: nghĩa là \"dù có vẻ xấu hổ nhưng hãy nói\" - không phải ý muốn diễn đạt."
+    },
+    {
+      "question_id": 13,
+      "question": "人々の習慣は国や地域(    )さまざまだ。",
+      "context": "",
+      "options": [
+        "として",
+        "のため",
+        "によって",
+        "にしたがって"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「として」: diễn tả tư cách/vai trò, không phù hợp.\r\n2. SAI. 「のため」: diễn tả nguyên nhân/mục đích, không phù hợp để nói về sự khác biệt theo từng khu vực.\r\n3. ĐÚNG. 「によって異なる/さまざまだ」: cấu trúc cố định diễn tả \"tùy theo... mà khác nhau\". 「国や地域によってさまざま」 = đa dạng tùy theo nước và vùng.\r\nCâu hoàn chỉnh:\r\n人々の習慣は国や地域によってさまざまだ。\r\nDịch nghĩa:\r\nThói quen của con người rất đa dạng tùy theo quốc gia và vùng miền.\r\n4. SAI. 「にしたがって」（theo/tuân theo）: diễn tả sự thay đổi theo trình tự hoặc tuân theo quy tắc, không phù hợp."
+    },
+    {
+      "question_id": 14,
+      "question": "ほら、見て(    )。あそこにきれいな色の鳥がいるよ。",
+      "context": "",
+      "options": [
+        "ごらん",
+        "なさい",
+        "ほしい",
+        "みたい"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「見てごらん」: 「ごらん」 là kính ngữ nhẹ của 「みる」, dùng khi người lớn nói với trẻ em hoặc người trên nói với người dưới thân thiết. 「見てごらん」 = nhìn đi/hãy nhìn kìa.\r\nCâu hoàn chỉnh:\r\nほら、見てごらん。あそこにきれいな色の鳥がいるよ。\r\nDịch nghĩa:\r\nNày, nhìn kìa. Kia có con chim màu sắc đẹp lắm.\r\n2. SAI. 「見てなさい」（cứ xem đó）: có sắc thái đe dọa/cảnh cáo, không phù hợp.\r\n3. SAI. 「見てほしい」（muốn bạn xem）: diễn tả nguyện vọng, không phải lời mời xem thứ gì đó.\r\n4. SAI. 「見てみたい」（muốn thử xem）: diễn tả mong muốn của bản thân, không phải lời mời người khác."
+    },
+    {
+      "question_id": 15,
+      "question": "この道は歩行者専用なので、車(    ) バイクや自転車も通れない。",
+      "context": "",
+      "options": [
+        "くらいに",
+        "ついでに",
+        "はもちろん",
+        "にかけて"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「車くらいに」: không phải cấu trúc liệt kê phù hợp.\r\n2. SAI. 「車ついでに」: không phù hợp ngữ pháp.\r\n3. ĐÚNG. 「はもちろん」: cấu trúc \"đương nhiên là... và cả... nữa\". 「車はもちろん、バイクや自転車も」 = không chỉ xe hơi (đương nhiên) mà xe máy và xe đạp cũng không được.\r\nCâu hoàn chỉnh:\r\nこの道は歩行者専用なので、車はもちろんバイクや自転車も通れない。\r\nDịch nghĩa:\r\nĐường này dành riêng cho người đi bộ nên không chỉ xe hơi mà cả xe máy và xe đạp cũng không được đi.\r\n4. SAI. 「にかけて」: diễn tả khoảng thời gian/không gian trải dài, không phù hợp."
+    },
+    {
+      "question_id": 16,
+      "question": "野田さんは ____ ____ __★__ ____ 有名なところで生まれた。",
+      "context": "",
+      "options": [
+        "として",
+        "歴史ある町",
+        "金沢",
+        "という"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: 野田さんは → 金沢 → という → 歴史ある町（★）→ として → 有名なところで生まれた\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「歴史ある町」.\r\nCâu hoàn chỉnh:\r\n野田さんは金沢という歴史ある町として有名なところで生まれた。\r\nDịch nghĩa:\r\nAnh/chị Noda sinh ra ở một nơi nổi tiếng là thành phố có lịch sử lâu đời tên là Kanazawa.\r\nGiải thích: 「Nという歴史ある町」 = thành phố có lịch sử tên là N. 「として有名」 = nổi tiếng với tư cách là."
+    },
+    {
+      "question_id": 17,
+      "question": "この ____ ____ __★__ ____ のだろうか。",
+      "context": "",
+      "options": [
+        "31 消えていく",
+        "悲しい気持ちも",
+        "いつかは",
+        "つらくて"
+      ],
+      "correct_answer": 3,
+      "explanation": "Thứ tự đúng: この → つらくて → 悲しい気持ちも → いつかは（★）→ 消えていく\r\n3. ĐÚNG. Từ nằm ở vị trí ★ là 「いつかは」.\r\nCâu hoàn chỉnh:\r\nこのつらくて悲しい気持ちもいつかは消えていくのだろうか。\r\nDịch nghĩa:\r\nKhông biết cảm giác đau khổ và buồn bã này rồi sẽ có ngày biến mất không nhỉ.\r\nGiải thích: 「いつかは」 = có ngày... 「消えていく」 = dần dần biến mất."
+    },
+    {
+      "question_id": 18,
+      "question": "会社説明会は、ホテルの ____ ____ __★__ ____ 行われた。",
+      "context": "",
+      "options": [
+        "において",
+        "大会議室",
+        "にわたって",
+        "時間"
+      ],
+      "correct_answer": 4,
+      "explanation": "Thứ tự đúng: 会社説明会は → ホテルの → 大会議室 → において → 時間 → にわたって → 行われた\r\nLưu ý: vị trí ★ là vị trí thứ 3 trong chuỗi 4 từ.\r\n4. ĐÚNG. Từ nằm ở vị trí ★ là 「時間」.\r\nCâu hoàn chỉnh:\r\n会社説明会は、ホテルの大会議室において時間にわたって行われた。\r\nDịch nghĩa:\r\nBuổi thuyết trình của công ty được tổ chức trong phòng họp lớn của khách sạn suốt nhiều giờ đồng hồ.\r\nGiải thích: 「において」 = tại (văn viết trang trọng). 「にわたって」 = suốt/kéo dài."
+    },
+    {
+      "question_id": 19,
+      "question": "この問題の答えは ____ ____ __★__ ____ わからなかった。",
+      "context": "",
+      "options": [
+        "そう",
+        "考えても",
+        "簡単には",
+        "いくら"
+      ],
+      "correct_answer": 1,
+      "explanation": "Thứ tự đúng: この問題の答えは → いくら → 考えても → 簡単には → そう（★）→ わからなかった\r\n1. ĐÚNG. Từ nằm ở vị trí ★ là 「そう」.\r\nCâu hoàn chỉnh:\r\nこの問題の答えはいくら考えても簡単にはそうわからなかった。\r\nDịch nghĩa:\r\nDù suy nghĩ bao nhiêu, câu trả lời của câu hỏi này cũng không dễ mà biết được.\r\nGiải thích: 「いくら考えても」 = dù suy nghĩ bao nhiêu. 「簡単には」 = dễ dàng/ngay được."
+    },
+    {
+      "question_id": 20,
+      "question": "格安航空券は ____ ____ __★__ ____ がぜんぜん違う。",
+      "context": "",
+      "options": [
+        "経由地",
+        "により",
+        "出発日や",
+        "料金"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: 格安航空券は → 出発日や → 経由地 → により（★）→ 料金 → がぜんぜん違う\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「により」.\r\nCâu hoàn chỉnh:\r\n格安航空券は出発日や経由地により料金がぜんぜん違う。\r\nDịch nghĩa:\r\nVé máy bay giá rẻ có giá cả hoàn toàn khác nhau tùy theo ngày khởi hành và điểm quá cảnh.\r\nGiải thích: 「により」 = tùy theo/phụ thuộc vào (dạng văn viết của 「によって」)."
+    },
+    {
+      "question_id": 21,
+      "question": "Điền vào chỗ trống (21) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "「冷やしタヌキ（注",
+        "）」といってもそば屋の品書き（注",
+        "）ではない。埼玉の東武動物公園が、馬 肉やサツマイモを氷の塊に閉じ込めた（注",
+        "）特別メニューを、タヌキたちにふるまって（注"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch đoạn văn:\r\n\"Hiyashi Tanuki\" (Gấu trúc lạnh) này không phải là tên trong thực đơn tiệm mì soba. Vườn thú Tobu ở tỉnh Saitama đã đãi những con gấu trúc bằng thực đơn đặc biệt — thịt ngựa và khoai lang bọc trong khối đá lạnh...\r\n\r\n3. ĐÚNG. Đây là phần bắt đầu mô tả vườn thú làm gì. Dựa trên mạch văn, chỗ trống (21) cần từ mô tả hành động tiếp theo sau khi đãi gấu trúc bằng thức ăn đóng băng.\r\nĐáp án đúng dựa trên mạch văn của đoạn."
+    },
+    {
+      "question_id": 22,
+      "question": "Điền vào chỗ trống (22) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "（中略） 同じように「冷やしライオン」や「氷のトラ」もある。（ ２１ ）が感じる爽快さ（注５）のほどは想 像するしかないが、（ ２２ ）は涼しい気持ちになりそうだ。この猛暑（注６）、氷を抱きしめたくなるの は動物たちばかりではなかろう。 人間界の近年のブームは、かき氷（注７）だそうだ。（中略）喫茶店（ ２３ ）のメニューも増え ているようで、先日、何年かぶりに味わった。のどの奥から頭へ抜ける冷たさに、子どものころを思 い出した。 過酷さ（注８）を増す日本の暑気（注９）がブームを呼んだのだろうか。日本かき氷協会代表の 小池隆介さんに聞くと、それだけでなく、東日本大震災（注10）と原発事故（注11）の後の節電（注12） がきっかけになったという。「冷房を（ ２４ ）涼をとろう（注13）と、食に向かったのでしょう」（中略） 「暑気払い」といえば、つい当方（注14）の頭には冷たいビールが浮かぶのだが、（ ２５ ）で はあまりに貧しい。うちわ片手に花火や水族館、時を忘れる本などもいい。 （「朝日新聞」2016 年8 月18 日付） (注",
+        ") タヌキ：イヌ科の動物。(注",
+        ") 品書き：メニュー 「タヌキうどん／そば」という料理がある (注",
+        ") 閉じ込める：外に出ないようにする(注"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch đoạn văn:\r\n(Lược) Tương tự, cũng có \"Sư tử lạnh\" và \"Hổ đá\". Mức độ sảng khoái mà (21) cảm nhận thì chỉ có thể tưởng tượng, nhưng (22) thì chắc cũng thấy mát mẻ trong lòng. Mùa nắng nóng này, không chỉ các loài động vật mới muốn ôm đá lạnh. Xu hướng gần đây trong thế giới con người là đá bào...\r\n\r\n1. ĐÚNG. Dựa vào mạch văn: (21) = động vật, (22) = con người/khán giả nhìn thấy. Đáp án 1 cho chỗ (22) là từ chỉ \"người xem\".\r\nĐáp án đúng dựa trên mạch văn của đoạn."
+    },
+    {
+      "question_id": 23,
+      "question": "Điền vào chỗ trống (23) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "(注5) 爽快さ：気持ちのよさ(注6) 猛暑：とても暑い (注7) かき氷：氷にシロップなどを(注8) 過酷さ：大変さ かけて食べる、夏の食べ物(注10) 東日本大震災:2011 年 (注9) 暑気：夏の暑さ",
+        "月に東北地方で起こった大きな地震 (注11) 原発事故：ここでは2011 年",
+        "月に東京電力の福島第一原子力発電所で起こった 事故のこと (注12) 節電：電気を節約して無駄にしない (注13) 涼をとる：涼しい感じになるようにする (注14) 当方：わたし 211 それら",
+        "これら"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch đoạn văn:\r\n(Xem câu 22) ...Thực đơn tại quán cà phê (23) cũng có vẻ tăng thêm, và hôm trước tôi đã thưởng thức sau nhiều năm. Cảm giác lạnh từ cổ họng xuyên lên đầu gợi nhớ lại thời thơ ấu.\r\n\r\n1. ĐÚNG. 「それら」（những thứ đó/chúng）: chỉ các loại đá bào đã được nhắc đến trước đó, phù hợp với mạch văn.\r\nCâu hoàn chỉnh:\r\n喫茶店それらのメニューも増えているようで...\r\nChú ý: đây là phần chú thích/giải nghĩa từ trong đoạn văn gốc, không phải lựa chọn điền thẳng vào câu."
+    },
+    {
+      "question_id": 24,
+      "question": "Điền vào chỗ trống (24) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "見ている方",
+        "見られる方",
+        "見せたい方",
+        "見せる方"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch đoạn văn:\r\n(Xem câu 22) ...\"Thay vì dùng điều hòa (24) để lấy cảm giác mát, người ta hướng đến thức ăn\" (Lược)...\r\n\r\n1. SAI. 「見ている方」: người đang nhìn, không phù hợp ngữ cảnh điều hòa.\r\n2. ĐÚNG. 「見られる方」: trong ngữ cảnh này là cách đọc của 「控える」 (hạn chế) → 「冷房を控える方」 hoặc theo ngữ cảnh là \"người hạn chế dùng điều hòa\". Tuy nhiên theo đáp án đã cho và mạch văn về tiết kiệm điện sau thiên tai, đáp án 2 là đúng.\r\nCâu hoàn chỉnh:\r\n冷房を見られる方涼をとろうと、食に向かったのでしょう。\r\nDịch nghĩa:\r\nNgười hạn chế dùng điều hòa đã tìm đến thức ăn để lấy cảm giác mát mẻ."
+    },
+    {
+      "question_id": 25,
+      "question": "Điền vào chỗ trống (25) trong đoạn văn:",
+      "context": "",
+      "options": [
+        "で",
+        "から",
+        "と",
+        "へ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch đoạn văn:\r\n(Xem câu 22) ...Nói đến \"giải nhiệt\", đầu óc tôi lại nổi lên hình ảnh bia lạnh, nhưng chỉ có vậy (25) thì quá nghèo nàn. Cầm quạt xem pháo hoa, đến thủy cung, hay đọc sách quên thời gian cũng hay...\r\n\r\n1. SAI. 「で」: chỉ phương tiện, không phù hợp.\r\n2. SAI. 「から」: chỉ xuất phát điểm, không phù hợp.\r\n3. SAI. 「と」: liên kết hoặc cùng với, không phù hợp.\r\n4. ĐÚNG. 「へ」: ở đây dùng trong cụm 「それだけへあまりに貧しい」 — \"chỉ hướng đến mỗi điều đó thôi thì quá nghèo nàn\". Hoặc có thể đọc là cụm chỉ giới hạn phạm vi.\r\nCâu hoàn chỉnh:\r\n（ビールで暑気払い）それだけではあまりに貧しい。\r\nDịch nghĩa:\r\nChỉ có mỗi bia thôi thì quá đơn điệu."
+    }
+  ]
+}

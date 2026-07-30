@@ -1,0 +1,402 @@
+{
+  "id": "on-n2-300-de-8-211-240",
+  "code": "N2-ON-008",
+  "title": "Ôn N2 Đề 8",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "vocabulary_grammar",
+  "source": "supabase_export",
+  "questionCount": 30,
+  "questions": [
+    {
+      "question_id": 211,
+      "question": "視聴者からのリクエスト（　）、人気ランキングを作成した。",
+      "context": "",
+      "options": [
+        "とともに",
+        "にあたり",
+        "において",
+        "をもとに"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～をもとに」= dựa trên, căn cứ vào. Câu mang nghĩa dựa trên yêu cầu từ khán giả để tạo bảng xếp hạng nổi tiếng."
+    },
+    {
+      "question_id": 212,
+      "question": "川沿いに、1キロ（　）桜が植えられている。",
+      "context": "",
+      "options": [
+        "にかけて",
+        "に沿って",
+        "にわたって",
+        "にしたがって"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～にわたって」= trải dài suốt, kéo dài trong phạm vi. Ở đây hoa anh đào được trồng trải dài khoảng 1km."
+    },
+    {
+      "question_id": 213,
+      "question": "この問題は関係する二つの国（　）、周りの国々にも影響を与えた。",
+      "context": "",
+      "options": [
+        "のみならず",
+        "はともかく",
+        "もかまわず",
+        "にもかかわらず"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～のみならず」= không chỉ... mà còn.... Câu nói vấn đề ảnh hưởng không chỉ hai nước liên quan mà còn các nước xung quanh."
+    },
+    {
+      "question_id": 214,
+      "question": "誰でも褒められると嬉しくなる（　）。",
+      "context": "",
+      "options": [
+        "ことです",
+        "ものです",
+        "一方です",
+        "ところです"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～ものです」diễn tả lẽ thường/điều tự nhiên. Ai được khen thì vui là phản ứng tự nhiên."
+    },
+    {
+      "question_id": 215,
+      "question": "携帯電話の請求書をかばんに入れ（　）で、払うのを忘れていた。",
+      "context": "",
+      "options": [
+        "すぎ",
+        "っきり",
+        "まんま",
+        "っぱなし"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～っぱなし」= để nguyên trạng thái sau khi làm gì đó. Để hóa đơn trong cặp rồi quên thanh toán."
+    },
+    {
+      "question_id": 216,
+      "question": "A：こちらの商品は、定価の20％引きになりますよ。B：ということは、1万円が8,000円になる（　）。",
+      "context": "",
+      "options": [
+        "ことか",
+        "ほどか",
+        "ものか",
+        "わけか"
+      ],
+      "correct_answer": 4,
+      "explanation": "「わけか」= ra là, nghĩa là. Dùng khi hiểu ra kết quả: 10.000 yên giảm 20% tức là còn 8.000 yên."
+    },
+    {
+      "question_id": 217,
+      "question": "やると言って引き受けた（　）、今さら断れない。",
+      "context": "",
+      "options": [
+        "以上",
+        "以来",
+        "一方",
+        "最中"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～以上」= một khi đã... thì.... Đã nhận lời làm rồi thì giờ không thể từ chối."
+    },
+    {
+      "question_id": 218,
+      "question": "A：待ってたんだから、ちゃんと連絡してよ。B：僕だって待ってたよ。そっち（　）、なんで連絡くれなかったんだ。",
+      "context": "",
+      "options": [
+        "こそ",
+        "さえ",
+        "まで",
+        "より"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～こそ」= chính..., dùng để nhấn mạnh. Chính bên cậu mới là người phải liên lạc."
+    },
+    {
+      "question_id": 219,
+      "question": "必死で勉強した（　）、いい点がとれた。",
+      "context": "",
+      "options": [
+        "からには",
+        "ばかりに",
+        "かいがあって",
+        "からといって"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～かいがあって」= đáng công, có kết quả xứng đáng. Học hết sức nên đạt điểm tốt."
+    },
+    {
+      "question_id": 220,
+      "question": "こちらのキャンペーンは、今月（　）終了となります。",
+      "context": "",
+      "options": [
+        "限りで",
+        "に限り",
+        "として",
+        "にして"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～限りで」= cho tới hết... là chấm dứt/kết thúc ở mốc đó. Chương trình kết thúc trong tháng này."
+    },
+    {
+      "question_id": 221,
+      "question": "兄は夕食を食べ終わった（　）たちまち眠ってしまった。",
+      "context": "",
+      "options": [
+        "かと思うと",
+        "あまり",
+        "次第",
+        "ものなら"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～かと思うと」= vừa mới... thì đã.... Anh trai vừa ăn tối xong là ngủ ngay."
+    },
+    {
+      "question_id": 222,
+      "question": "有名なレストランが、必ずしもおいしい（　）。",
+      "context": "",
+      "options": [
+        "にすぎない",
+        "とは限らない",
+        "に違いない",
+        "わけがない"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～とは限らない」= không hẳn là/chưa chắc đã. Nhà hàng nổi tiếng chưa chắc đã ngon."
+    },
+    {
+      "question_id": 223,
+      "question": "胃の検査の（　）他も調べてもらった。",
+      "context": "",
+      "options": [
+        "ついでに",
+        "かわりに",
+        "わりに",
+        "きっかけに"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～ついでに」= nhân tiện. Nhân tiện kiểm tra dạ dày thì kiểm tra các bộ phận khác."
+    },
+    {
+      "question_id": 224,
+      "question": "今日もまた電池を買い忘れちゃった。明日（　）買わなきゃ。",
+      "context": "",
+      "options": [
+        "限り",
+        "きり",
+        "こそ",
+        "しか"
+      ],
+      "correct_answer": 3,
+      "explanation": "「こそ」nhấn mạnh “chính...”. Ở đây nhấn mạnh ngày mai nhất định phải mua."
+    },
+    {
+      "question_id": 225,
+      "question": "このマンガは暴力的な場面が多く、教育（　）問題がある。",
+      "context": "",
+      "options": [
+        "上",
+        "以上",
+        "次第",
+        "反面"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～上」= về mặt..., xét về phương diện.... Xét về phương diện giáo dục thì có vấn đề."
+    },
+    {
+      "question_id": 226,
+      "question": "もう間に合わないかと思ったが、なんとか電車に乗り遅れ（　）。",
+      "context": "",
+      "options": [
+        "ずにすんだ",
+        "かねなかった",
+        "ようがなかった",
+        "ざるを得なかった"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～ずにすんだ」= tránh được việc phải/khỏi phải.... Tưởng không kịp nhưng đã tránh được việc bị trễ tàu."
+    },
+    {
+      "question_id": 227,
+      "question": "その研究をするなら、一度は斎藤先生に会っておく（　）。",
+      "context": "",
+      "options": [
+        "までだ",
+        "ものだ",
+        "わけだ",
+        "べきだ"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～べきだ」= nên/phải làm. Nếu định thực hiện nghiên cứu đó thì nên gặp thầy Saitou một lần."
+    },
+    {
+      "question_id": 228,
+      "question": "代表に選ばれた（　）、全力をつくしてがんばります。",
+      "context": "",
+      "options": [
+        "上",
+        "上で",
+        "上に",
+        "上は"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～上は」= một khi đã... thì.... Một khi đã được chọn làm đại diện thì sẽ dốc toàn lực."
+    },
+    {
+      "question_id": 229,
+      "question": "教育は国民の権利である（　）義務でもある。",
+      "context": "",
+      "options": [
+        "限りは",
+        "のみならず",
+        "からといって",
+        "にかかわらず"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～のみならず」= không chỉ... mà còn.... Giáo dục không chỉ là quyền mà còn là nghĩa vụ."
+    },
+    {
+      "question_id": 230,
+      "question": "自分でやって（　）難しさはわからない。",
+      "context": "",
+      "options": [
+        "みてこそ",
+        "みない限り",
+        "みるからには",
+        "みたうえで"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～ない限り」= nếu không... thì không.... Nếu không tự làm thử thì không hiểu được độ khó."
+    },
+    {
+      "question_id": 231,
+      "question": "面接の結果を早く知りたくて（　）。",
+      "context": "",
+      "options": [
+        "限りない",
+        "違いない",
+        "たまらない",
+        "ほかならない"
+      ],
+      "correct_answer": 3,
+      "explanation": "「～てたまらない」= rất..., không chịu nổi. Rất nóng lòng muốn biết kết quả phỏng vấn."
+    },
+    {
+      "question_id": 232,
+      "question": "環境のために、私たちができることから始め（　）。",
+      "context": "",
+      "options": [
+        "そうじゃないか",
+        "そうもないか",
+        "ようがないか",
+        "ようじゃないか"
+      ],
+      "correct_answer": 4,
+      "explanation": "「V意向形＋じゃないか／ではないか」= chúng ta hãy cùng..., sao không... nhỉ. Rủ cùng bắt đầu từ điều có thể làm vì môi trường."
+    },
+    {
+      "question_id": 233,
+      "question": "野菜はコンビニでも（　）が、スーパーのほうが種類が多い。",
+      "context": "",
+      "options": [
+        "買えないことはない",
+        "買えるわけがない",
+        "買えるはずがない",
+        "買えないに違いない"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～ないことはない」= không phải là không.... Rau ở cửa hàng tiện lợi không phải không mua được, nhưng siêu thị nhiều loại hơn."
+    },
+    {
+      "question_id": 234,
+      "question": "おいしいものをがまん（　）やせたいとは思わない。",
+      "context": "",
+      "options": [
+        "次第で",
+        "してこそ",
+        "してまで",
+        "からして"
+      ],
+      "correct_answer": 3,
+      "explanation": "「Vて＋まで／N＋してまで」= đến mức phải.... Không muốn giảm cân đến mức phải nhịn món ngon."
+    },
+    {
+      "question_id": 235,
+      "question": "かいてはいけないと言われても、かゆくてかゆくて、かかない（　）。",
+      "context": "",
+      "options": [
+        "しかない",
+        "でならない",
+        "わけではない",
+        "ではいられない"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ではいられない」= không thể cứ không..., không thể không.... Ngứa quá nên không thể không gãi."
+    },
+    {
+      "question_id": 236,
+      "question": "知っている人に会わない（　）から、ちゃんとお化粧をしてから出かけよう。",
+      "context": "",
+      "options": [
+        "ではいられない",
+        "とも限らない",
+        "どころではない",
+        "に間違いない"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～とも限らない」= chưa chắc là không.... Không biết có thể gặp người quen hay không nên trang điểm rồi đi."
+    },
+    {
+      "question_id": 237,
+      "question": "地図で見ると近そうだが、行って（　）何分かかるかわからない。",
+      "context": "",
+      "options": [
+        "みてまでは",
+        "みようとも",
+        "みるにしては",
+        "みないことには"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ないことには」= nếu không... thì không thể.... Nếu không đi thử thì không biết mất bao nhiêu phút."
+    },
+    {
+      "question_id": 238,
+      "question": "この会社では、社員は商品を4割引で購入できる（　）。",
+      "context": "",
+      "options": [
+        "ものにされている",
+        "ものになっている",
+        "ことにされている",
+        "ことになっている"
+      ],
+      "correct_answer": 4,
+      "explanation": "「～ことになっている」= được quy định là.... Ở công ty này nhân viên được quy định có thể mua hàng giảm 40%."
+    },
+    {
+      "question_id": 239,
+      "question": "社員を採用する（　）特に重要視しているのは、コミュニケーション能力だ。",
+      "context": "",
+      "options": [
+        "上で",
+        "上に",
+        "あまり",
+        "あまりに"
+      ],
+      "correct_answer": 1,
+      "explanation": "「～上で」= khi, trong việc.... Khi tuyển nhân viên, điều được xem trọng là khả năng giao tiếp."
+    },
+    {
+      "question_id": 240,
+      "question": "会社はその製品の問題点について（　）、事故が起きるまで公表しなかった。",
+      "context": "",
+      "options": [
+        "知ってまで",
+        "知りながら",
+        "知った上に",
+        "知ったあげく"
+      ],
+      "correct_answer": 2,
+      "explanation": "「～ながら」= tuy... nhưng..., dù biết nhưng vẫn.... Công ty dù biết vấn đề của sản phẩm nhưng không công bố đến khi xảy ra tai nạn."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "excludedIds": [
+    "N3-TO-G01",
+    "N3-TO-G02",
+    "N3-TO-G03",
+    "N3-TO-G04",
+    "N3-TO-K01",
+    "N3-TO-V01",
+    "N3-TO-V02",
+    "N3-TO-V03",
+    "riki_tong_on_bai_1",
+    "riki_tong_on_bai_2",
+    "riki_tong_on_bai_3",
+    "riki_tong_on_bai_4",
+    "riki_tong_on_bai_5",
+    "riki_tong_on_bai_6",
+    "riki_tong_on_bai_7",
+    "riki_tong_on_bai_8"
+  ],
+  "exportedCount": 13,
+  "exams": [
+    {
+      "id": "de-thi-jlpt-n2202512-phan-doc-hieu",
+      "title": "Đề thi JLPT N2 202512 phần Đọc Hiểu",
+      "category": "reading",
+      "questionCount": 20,
+      "file": "exams/de-thi-jlpt-n2202512-phan-doc-hieu.json"
+    },
+    {
+      "id": "de-thi-jlpt-n2202512-phan-tu-vungngu-phap",
+      "title": "Đề thi JLPT N2 202512 phần Từ Vựng, Ngữ Pháp",
+      "category": "vocabulary_grammar",
+      "questionCount": 51,
+      "file": "exams/de-thi-jlpt-n2202512-phan-tu-vungngu-phap.json"
+    },
+    {
+      "id": "n2-test-sample",
+      "title": "N2 Test Sample",
+      "category": "vocabulary_grammar",
+      "questionCount": 2,
+      "file": "exams/n2-test-sample.json"
+    },
+    {
+      "id": "on-n2-300-de-1",
+      "title": "Ôn N2 Đề 1",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-1.json"
+    },
+    {
+      "id": "on-n2-300-de-10-271-300",
+      "title": "Ôn N2 Đề 10",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-10-271-300.json"
+    },
+    {
+      "id": "on-n2-300-de-2",
+      "title": "Ôn N2 Đề 2",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-2.json"
+    },
+    {
+      "id": "on-n2-300-de-3",
+      "title": "Ôn N2 Đề 3",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-3.json"
+    },
+    {
+      "id": "on-n2-300-de-4",
+      "title": "Ôn N2 Đề 4",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-4.json"
+    },
+    {
+      "id": "on-n2-300-de-5",
+      "title": "Ôn N2 Đề 5",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-5.json"
+    },
+    {
+      "id": "on-n2-300-de-6",
+      "title": "Ôn N2 Đề 6",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-6.json"
+    },
+    {
+      "id": "on-n2-300-de-7",
+      "title": "Ôn N2 Đề 7",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-7.json"
+    },
+    {
+      "id": "on-n2-300-de-8-211-240",
+      "title": "Ôn N2 Đề 8",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-8-211-240.json"
+    },
+    {
+      "id": "on-n2-300-de-9-241-270",
+      "title": "Ôn N2 Đề 9",
+      "category": "vocabulary_grammar",
+      "questionCount": 30,
+      "file": "exams/on-n2-300-de-9-241-270.json"
+    }
+  ]
+}

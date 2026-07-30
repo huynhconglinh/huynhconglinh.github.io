@@ -1,0 +1,336 @@
+{
+  "id": "N3-TO-V03",
+  "code": "N3-TO-V03",
+  "title": "Tổng ôn Từ vựng 3",
+  "track": "n3_review",
+  "level": "N3",
+  "topic": "vocabulary",
+  "sourceCsv": "tong_on_bai_7.csv",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "今度のレポートは、環境問題という (          )で書こうと思います。",
+      "context": "",
+      "options": [
+        "プログラム",
+        "ヒント",
+        "テーマ",
+        "インフォメーション"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. プログラム（chương trình - \"program\"）: không phù hợp ngữ cảnh viết báo cáo.\r\n2. SAI. ヒント（gợi ý - \"hint\"）: nghĩa là gợi ý/chỉ dẫn, không dùng cho chủ đề báo cáo.\r\n3. ĐÚNG. テーマ（chủ đề - \"Thema/theme\"）: nghĩa là chủ đề/đề tài. 「テーマで書く」 là cụm rất tự nhiên.\r\nCâu hoàn chỉnh:\r\n今度のレポートは、環境問題というテーマで書こうと思います。\r\nDịch nghĩa:\r\nBáo cáo lần này tôi định viết với chủ đề vấn đề môi trường.\r\n4. SAI. インフォメーション（thông tin - \"information\"）: nghĩa là thông tin, không phải chủ đề."
+    },
+    {
+      "question_id": 2,
+      "question": "初めて森さんに会ったときには、おとなしい人だという(          )を受けた。",
+      "context": "",
+      "options": [
+        "感覚",
+        "意識",
+        "印象",
+        "気分"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 感覚（かんかく - Cảm Giác - cảm giác）: chỉ cảm giác vật lý hoặc giác quan, không dùng cho ấn tượng về người.\r\n2. SAI. 意識（いしき - Ý Thức - ý thức/nhận thức）: không phù hợp với cụm 「印象を受ける」.\r\n3. ĐÚNG. 印象（いんしょう - Ấn Tượng - ấn tượng）: 「印象を受ける」 là cụm cố định nghĩa là \"có ấn tượng/nhận được ấn tượng\".\r\nCâu hoàn chỉnh:\r\n初めて森さんに会ったときには、おとなしい人だという印象を受けた。\r\nDịch nghĩa:\r\nLần đầu gặp anh Mori, tôi có ấn tượng đây là người hiền lành.\r\n4. SAI. 気分（きぶん - Khí Phần - tâm trạng）: chỉ trạng thái tinh thần/tâm trạng, không phải ấn tượng về người khác."
+    },
+    {
+      "question_id": 3,
+      "question": "森選手は、全国で1 位になることを(          )にしてがんばっている。",
+      "context": "",
+      "options": [
+        "指定",
+        "満点",
+        "一流",
+        "目標"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 指定（していい - Chỉ Định - chỉ định）: nghĩa là chỉ định/ấn định điều gì đó, không dùng để nói về mục tiêu phấn đấu.\r\n2. SAI. 満点（まんてん - Mãn Điểm - điểm tối đa）: không dùng trong ngữ cảnh này.\r\n3. SAI. 一流（いちりゅう - Nhất Lưu - hàng đầu）: không phù hợp với cụm 「～を目標にする」.\r\n4. ĐÚNG. 目標（もくひょう - Mục Tiêu - mục tiêu）: 「～を目標にする」 là cụm cố định nghĩa là đặt ra mục tiêu.\r\nCâu hoàn chỉnh:\r\n森選手は、全国で1位になることを目標にしてがんばっている。\r\nDịch nghĩa:\r\nVận động viên Mori đang cố gắng với mục tiêu trở thành số 1 toàn quốc."
+    },
+    {
+      "question_id": 4,
+      "question": "私たちの (          )は、今度の大会で1 位になることです。",
+      "context": "",
+      "options": [
+        "予報",
+        "目標",
+        "効果",
+        "完成"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 予報（よほう - Dự Báo - dự báo）: nghĩa là dự báo thời tiết/sự kiện, không phải mục tiêu.\r\n2. ĐÚNG. 目標（もくひょう - Mục Tiêu - mục tiêu）: 「目標は～することです」 là cụm rất thông dụng để nói về mục tiêu.\r\nCâu hoàn chỉnh:\r\n私たちの目標は、今度の大会で1位になることです。\r\nDịch nghĩa:\r\nMục tiêu của chúng tôi là đứng hạng nhất trong giải đấu lần này.\r\n3. SAI. 効果（こうか - Hiệu Quả - hiệu quả）: nghĩa là kết quả/tác dụng, không phải mục tiêu.\r\n4. SAI. 完成（かんせい - Hoàn Thành - hoàn thành）: không phù hợp ngữ cảnh."
+    },
+    {
+      "question_id": 5,
+      "question": "袋の底に (          )があいていたので、入れたお菓子がいくつか落ちてしまった。",
+      "context": "",
+      "options": [
+        "穴",
+        "傷",
+        "けが",
+        "汚れ"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 穴（あな - Huyệt - lỗ hổng/lỗ thủng）: 「穴があく」 = có lỗ thủng. Túi bị thủng nên kẹo rơi ra.\r\nCâu hoàn chỉnh:\r\n袋の底に穴があいていたので、入れたお菓子がいくつか落ちてしまった。\r\nDịch nghĩa:\r\nVì đáy túi bị thủng nên một số kẹo bỏ vào đã rơi mất.\r\n2. SAI. 傷（きず - Thương - vết thương/vết xước）: 「傷があく」 không phải cụm tự nhiên để nói về vật bị thủng.\r\n3. SAI. けが（怪我 - vết thương）: dùng cho người bị thương, không dùng cho đồ vật.\r\n4. SAI. 汚れ（よごれ - vết bẩn）: không phải nguyên nhân làm kẹo rơi."
+    },
+    {
+      "question_id": 6,
+      "question": "今度の旅行は、交通費が5,000 円で、ホテル代が10,000 円なので、(   )15,000 円 かかります。",
+      "context": "",
+      "options": [
+        "合計",
+        "共通",
+        "全体",
+        "集中"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 合計（ごうけい - Hợp Kế - tổng cộng）: 「合計で～円」 = tổng cộng... yên.\r\nCâu hoàn chỉnh:\r\n今度の旅行は、交通費が5,000円で、ホテル代が10,000円なので、合計15,000円かかります。\r\nDịch nghĩa:\r\nChuyến đi lần này, tiền đi lại là 5.000 yên và tiền khách sạn là 10.000 yên nên tổng cộng tốn 15.000 yên.\r\n2. SAI. 共通（きょうつう - Cộng Thông - chung/phổ biến）: không phù hợp ngữ cảnh tính tổng tiền.\r\n3. SAI. 全体（ぜんたい - Toàn Thể - toàn bộ）: gần nghĩa nhưng không dùng theo cụm 「全体で～円」 tự nhiên như 「合計で」.\r\n4. SAI. 集中（しゅうちゅう - Tập Trung - tập trung）: không liên quan."
+    },
+    {
+      "question_id": 7,
+      "question": "捕まえた虫を(          )して、形や色を記録した。",
+      "context": "",
+      "options": [
+        "観察",
+        "観光",
+        "見学",
+        "見物"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 観察（かんさつ - Quan Sát - quan sát）: 「観察する」 = quan sát tỉ mỉ, dùng trong ngữ cảnh khoa học/học tập.\r\nCâu hoàn chỉnh:\r\n捕まえた虫を観察して、形や色を記録した。\r\nDịch nghĩa:\r\nTôi đã quan sát con côn trùng bắt được và ghi lại hình dạng, màu sắc của nó.\r\n2. SAI. 観光（かんこう - Quan Quang - du lịch/tham quan）: dùng cho đi du lịch, không dùng cho việc nghiên cứu côn trùng.\r\n3. SAI. 見学（けんがく - Kiến Học - tham quan học tập）: dùng cho tham quan địa điểm/nhà máy, không dùng cho côn trùng.\r\n4. SAI. 見物（けんぶつ - Kiến Vật - xem/thưởng ngoạn）: dùng cho xem biểu diễn/cảnh vật, không dùng cho nghiên cứu."
+    },
+    {
+      "question_id": 8,
+      "question": "最近風邪が(          )ようで、学校を休む生徒が多い。",
+      "context": "",
+      "options": [
+        "派手な",
+        "活動している",
+        "盛んな",
+        "流行している"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 派手な（はでな - lòe loẹt）: không dùng cho bệnh cảm cúm.\r\n2. SAI. 活動している（đang hoạt động）: không phải cụm dùng cho bệnh lây lan.\r\n3. SAI. 盛んな（さかんな - hưng thịnh）: dùng cho hoạt động phát triển mạnh, không dùng cho dịch bệnh.\r\n4. ĐÚNG. 流行している（りゅうこう - Lưu Hành - đang lưu hành/lây lan）: 「風邪が流行する」 là cụm cố định chỉ bệnh cảm cúm đang lây lan.\r\nCâu hoàn chỉnh:\r\n最近風邪が流行しているようで、学校を休む生徒が多い。\r\nDịch nghĩa:\r\nGần đây có vẻ bệnh cảm đang lây lan nên có nhiều học sinh nghỉ học."
+    },
+    {
+      "question_id": 9,
+      "question": "友達に映画を見に行こうと誘われたが、忙しかったので(          )。",
+      "context": "",
+      "options": [
+        "断った",
+        "取り消した",
+        "否定た",
+        "禁止した"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 断った（ことわった - Đoạn - từ chối）: 「誘いを断る」 = từ chối lời mời.\r\nCâu hoàn chỉnh:\r\n友達に映画を見に行こうと誘われたが、忙しかったので断った。\r\nDịch nghĩa:\r\nBạn rủ đi xem phim nhưng vì bận nên tôi đã từ chối.\r\n2. SAI. 取り消した（とりけした - hủy bỏ）: dùng khi hủy bỏ điều đã đồng ý trước đó, không phải từ chối lời mời.\r\n3. SAI. 否定た: dạng chia này không tồn tại (phải là 「否定した」 - phủ định), và nghĩa không phù hợp.\r\n4. SAI. 禁止した（きんしした - cấm）: nghĩa là cấm đoán, không phải từ chối lời mời."
+    },
+    {
+      "question_id": 10,
+      "question": "駅前に建設中の立派なマンションが、来月ついに (          )するらしい。",
+      "context": "",
+      "options": [
+        "開場",
+        "完成",
+        "発展",
+        "進行"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 開場（かいじょう - Khai Trường - khai trương/mở cửa）: dùng cho hội trường/rạp chiếu phim, không dùng cho chung cư.\r\n2. ĐÚNG. 完成（かんせい - Hoàn Thành - hoàn thành）: 「建設が完成する」 = xây dựng xong.\r\nCâu hoàn chỉnh:\r\n駅前に建設中の立派なマンションが、来月ついに完成するらしい。\r\nDịch nghĩa:\r\nNghe nói tòa chung cư đang xây dựng trước ga cuối cùng sẽ hoàn thành vào tháng sau.\r\n3. SAI. 発展（はってん - Phát Triển - phát triển）: không dùng cho việc hoàn thành công trình.\r\n4. SAI. 進行（しんこう - Tiến Hành - tiến hành）: dùng khi đang trong quá trình, không dùng khi nói về việc hoàn thành."
+    },
+    {
+      "question_id": 11,
+      "question": "山本さんが<u>得意な</u>料理は何ですか。",
+      "context": "",
+      "options": [
+        "つくってみたい",
+        "食べたい",
+        "一番好きな",
+        "上手にできる"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「つくってみたい」（muốn thử làm）: không đồng nghĩa với 「得意な」.\r\n2. SAI. 「食べたい」（muốn ăn）: không đồng nghĩa.\r\n3. SAI. 「一番好きな」（yêu thích nhất）: gần nghĩa nhưng 「得意」 nhấn mạnh sự giỏi/thành thạo, không phải sở thích.\r\n4. ĐÚNG. 「上手にできる」（có thể làm giỏi）: 得意（とくい - Đắc Ý - giỏi/thành thạo）đồng nghĩa với \"làm tốt/làm giỏi\".\r\nCâu hoàn chỉnh:\r\n山本さんが上手にできる料理は何ですか。\r\nDịch nghĩa:\r\nAnh/chị Yamamoto nấu món gì giỏi nhất?"
+    },
+    {
+      "question_id": 12,
+      "question": "わたしの弟は<u>短気</u>です。",
+      "context": "",
+      "options": [
+        "すぐ忘れます",
+        "すぐ怒ります",
+        "すぐ泣きます",
+        "すぐ心配します"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「すぐ忘れます」（hay quên）: không đồng nghĩa với 「短気」.\r\n2. ĐÚNG. 「すぐ怒ります」（dễ nổi giận）: 短気（たんき - Đoản Khí - nóng tính）= người dễ nổi giận, mất bình tĩnh nhanh.\r\nCâu hoàn chỉnh:\r\nわたしの弟はすぐ怒ります。\r\nDịch nghĩa:\r\nEm trai tôi là người dễ nổi giận.\r\n3. SAI. 「すぐ泣きます」（dễ khóc）: không đồng nghĩa.\r\n4. SAI. 「すぐ心配します」（dễ lo lắng）: không đồng nghĩa."
+    },
+    {
+      "question_id": 13,
+      "question": "この映画は<u>かなり</u>おもしろかった。",
+      "context": "",
+      "options": [
+        "すこし",
+        "ぜんぶ",
+        "とても",
+        "まあまあ"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「すこし」（một chút）: mức độ nhỏ, ngược với 「かなり」.\r\n2. SAI. 「ぜんぶ」（toàn bộ）: chỉ phạm vi, không chỉ mức độ.\r\n3. ĐÚNG. 「とても」（rất）: かなり（相当 - Tương Đương - khá/rất）có mức độ tương đương với 「とても」.\r\nCâu hoàn chỉnh:\r\nこの映画はとてもおもしろかった。\r\nDịch nghĩa:\r\nBộ phim này thật sự rất thú vị.\r\n4. SAI. 「まあまあ」（tạm được）: mức độ trung bình, yếu hơn 「かなり」."
+    },
+    {
+      "question_id": 14,
+      "question": "こちらに<u>ご記入</u>ください。",
+      "context": "",
+      "options": [
+        "書いて",
+        "入って",
+        "おぼえて",
+        "しまって"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「書いて」（viết）: ご記入（ごきにゅう - Ký Nhập）là kính ngữ của 「書く」（かく）, nghĩa là viết vào/điền vào.\r\nCâu hoàn chỉnh:\r\nこちらに書いてください。\r\nDịch nghĩa:\r\nXin hãy viết vào đây.\r\n2. SAI. 「入って」（vào）: không đồng nghĩa.\r\n3. SAI. 「おぼえて」（ghi nhớ）: không đồng nghĩa.\r\n4. SAI. 「しまって」（cất đi）: không đồng nghĩa."
+    },
+    {
+      "question_id": 15,
+      "question": "その仕事を私一人でやるのは<u>無理</u>だ。",
+      "context": "",
+      "options": [
+        "いやだ",
+        "さびしい",
+        "できない",
+        "つまらない"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「いやだ」（không muốn/ghét）: không đồng nghĩa với 「無理」.\r\n2. SAI. 「さびしい」（cô đơn）: không đồng nghĩa.\r\n3. ĐÚNG. 「できない」（không thể）: 無理（むり - Vô Lý - bất khả thi）nghĩa là không thể/vượt quá khả năng, đồng nghĩa với 「できない」.\r\nCâu hoàn chỉnh:\r\nその仕事を私一人でやるのはできない。\r\nDịch nghĩa:\r\nMột mình tôi làm công việc đó thì không thể được.\r\n4. SAI. 「つまらない」（nhàm chán）: không đồng nghĩa."
+    },
+    {
+      "question_id": 16,
+      "question": "あの夫婦は<u>そっくり</u>だ。",
+      "context": "",
+      "options": [
+        "仲がいい",
+        "似ている",
+        "太っている",
+        "よくけんかする"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「仲がいい」（quan hệ tốt）: không đồng nghĩa với 「そっくり」.\r\n2. ĐÚNG. 「似ている」（giống nhau）: そっくり（そっくり - giống hệt/rất giống）là trạng từ/tính từ đặc biệt nghĩa là trông giống nhau đến từng chi tiết.\r\nCâu hoàn chỉnh:\r\nあの夫婦は似ている。\r\nDịch nghĩa:\r\nVợ chồng đó trông rất giống nhau.\r\n3. SAI. 「太っている」（béo）: không đồng nghĩa.\r\n4. SAI. 「よくけんかする」（hay cãi nhau）: không đồng nghĩa."
+    },
+    {
+      "question_id": 17,
+      "question": "休みの日は、<u>たまに</u>家族で外食をします。",
+      "context": "",
+      "options": [
+        "いつも",
+        "かならず",
+        "たいてい",
+        "ときどき"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「いつも」（luôn luôn）: tần suất cao, ngược với 「たまに」.\r\n2. SAI. 「かならず」（nhất định/luôn luôn）: tần suất cao, không đồng nghĩa.\r\n3. SAI. 「たいてい」（thường thường）: tần suất cao hơn 「たまに」.\r\n4. ĐÚNG. 「ときどき」（thỉnh thoảng）: たまに（偶に - Ngẫu - thỉnh thoảng）đồng nghĩa với 「ときどき」, cả hai chỉ tần suất thấp, không đều đặn.\r\nCâu hoàn chỉnh:\r\n休みの日は、ときどき家族で外食をします。\r\nDịch nghĩa:\r\nVào ngày nghỉ, thỉnh thoảng cả gia đình đi ăn ngoài."
+    },
+    {
+      "question_id": 18,
+      "question": "面接のとき、「あなたの<u>短所</u>は?」と聞かれた。",
+      "context": "",
+      "options": [
+        "趣味",
+        "悪いところ",
+        "住んでいるところ",
+        "病気について"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「趣味」（sở thích）: không đồng nghĩa.\r\n2. ĐÚNG. 「悪いところ」（điểm không tốt）: 短所（たんしょ - Đoản Sở - nhược điểm）nghĩa là điểm yếu/nhược điểm, đồng nghĩa với 「悪いところ」.\r\nCâu hoàn chỉnh:\r\n面接のとき、「あなたの悪いところは？」と聞かれた。\r\nDịch nghĩa:\r\nTrong buổi phỏng vấn, tôi được hỏi \"Điểm yếu của bạn là gì?\".\r\n3. SAI. 「住んでいるところ」（nơi đang sống）: không đồng nghĩa.\r\n4. SAI. 「病気について」（về bệnh tật）: không đồng nghĩa."
+    },
+    {
+      "question_id": 19,
+      "question": "校長先生から、何か<u>重要</u>なお知らせがあるそうだ。",
+      "context": "",
+      "options": [
+        "新しい",
+        "大切な",
+        "必要な",
+        "めずらしい"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「新しい」（mới）: không đồng nghĩa với 「重要」.\r\n2. ĐÚNG. 「大切な」（quan trọng）: 重要（じゅうよう - Trọng Yếu - quan trọng）đồng nghĩa với 「大切な」.\r\nCâu hoàn chỉnh:\r\n校長先生から、何か大切なお知らせがあるそうだ。\r\nDịch nghĩa:\r\nNghe nói hiệu trưởng có thông báo quan trọng gì đó.\r\n3. SAI. 「必要な」（cần thiết）: gần nghĩa nhưng 「重要」 nhấn mạnh tầm quan trọng/ý nghĩa, còn 「必要」 nhấn mạnh sự cần thiết.\r\n4. SAI. 「めずらしい」（hiếm/lạ）: không đồng nghĩa."
+    },
+    {
+      "question_id": 20,
+      "question": "ずっと前から探していた写真集を、やっと<u>手に入れる</u>ことができた。",
+      "context": "",
+      "options": [
+        "借りるか",
+        "さわる",
+        "見つける",
+        "自分のものにする"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「借りる」（mượn）: 「手に入れる」 nghĩa là sở hữu, không phải mượn.\r\n2. SAI. 「さわる」（chạm vào）: không đồng nghĩa.\r\n3. SAI. 「見つける」（tìm thấy）: gần nghĩa nhưng 「手に入れる」 có ý sở hữu được, còn 「見つける」 chỉ là tìm thấy.\r\n4. ĐÚNG. 「自分のものにする」（biến thành của mình）: 手に入れる（てにいれる - thủ vào tay）= sở hữu được, đồng nghĩa với 「自分のものにする」.\r\nCâu hoàn chỉnh:\r\nずっと前から探していた写真集を、やっと自分のものにすることができた。\r\nDịch nghĩa:\r\nCuốn album ảnh tìm kiếm từ lâu cuối cùng đã thành của mình rồi."
+    },
+    {
+      "question_id": 21,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「取り消す」",
+      "context": "",
+      "options": [
+        "床に落ちている大きなごみを取り消してから、掃除機を使った。",
+        "サッカーの後、シャワーを浴びて絆を取り消した。",
+        "このパンはかびが生えているので、もう取り消したほうがいい。",
+        "都合が悪くなったので、レストランの予約を取り消した。"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 取り消す（とりけす - Thu Tiêu - hủy bỏ/xóa bỏ）: không dùng cho việc dọn rác; nên dùng 「拾う」（ひろう - nhặt lên）.\r\n2. SAI. 「汗を取り消す」 không tự nhiên; để rửa sạch mồ hôi nên dùng 「汗を流す」.\r\n3. SAI. Bánh mốc nên vứt đi, dùng 「捨てる」（すてる）, không phải 「取り消す」.\r\n4. ĐÚNG. Hủy đặt bàn nhà hàng là cách dùng đúng và điển hình của 「取り消す」.\r\nCâu đúng: 都合が悪くなったので、レストランの予約を取り消した。\r\nDịch nghĩa: Vì có việc bất tiện nên tôi đã hủy đặt bàn ở nhà hàng."
+    },
+    {
+      "question_id": 22,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「親しい」",
+      "context": "",
+      "options": [
+        "森さんとは去年まで話したことがなかったが、一緒に食事をしてから親しくなった。",
+        "会社に入って1 か月たって、最近やっと新しい仕事に親しくなった。",
+        "友達からもらったこのコートは、暖かいしデザインもいいので、とても親しい。",
+        "わたしの子どもは毎日車の本を見ているので、車の種類にとても親しい。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 親しい（したしい - Thân - thân thiết）: dùng đúng để nói về mối quan hệ thân thiết giữa người với người.\r\nCâu đúng: 森さんとは去年まで話したことがなかったが、一緒に食事をしてから親しくなった。\r\nDịch nghĩa: Đến năm ngoái vẫn chưa từng nói chuyện với anh Mori, nhưng sau khi ăn cơm cùng nhau thì trở nên thân thiết.\r\n2. SAI. Để nói quen với công việc mới, nên dùng 「慣れた」（なれた - quen）, không phải 「親しくなった」.\r\n3. SAI. Để khen áo khoác, không dùng 「親しい」; nên dùng 「暖かい」（ấm áp）hoặc 「いい」.\r\n4. SAI. Để nói biết nhiều về xe, nên dùng 「詳しい」（くわしい - thông thạo）."
+    },
+    {
+      "question_id": 23,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「清潔」",
+      "context": "",
+      "options": [
+        "歌っている子どもの声がとても清潔で、感動した。",
+        "この島にはほとんど人が来ないので、清潔な自然がまだ残っている。",
+        "仕事の後にプールで泳いで、清潔な気持ちになった。",
+        "このホテルは古いが、部屋はよく掃除されていて清潔だ。"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 清潔（せいけつ - Thanh Khiết - sạch sẽ/vệ sinh）: không dùng để khen giọng trẻ em; nên dùng 「きれいな声」.\r\n2. SAI. Để nói về tự nhiên còn nguyên vẹn/trong lành, nên dùng 「豊かな自然」 hoặc 「手つかずの自然」.\r\n3. SAI. 「清潔な気持ち」 không tự nhiên; nên dùng 「さっぱりした気持ち」.\r\n4. ĐÚNG. Phòng khách sạn được dọn sạch sẽ là cách dùng đúng và điển hình của 「清潔」.\r\nCâu đúng: このホテルは古いが、部屋はよく掃除されていて清潔だ。\r\nDịch nghĩa: Khách sạn này tuy cũ nhưng phòng được dọn dẹp sạch sẽ."
+    },
+    {
+      "question_id": 24,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「身につける」",
+      "context": "",
+      "options": [
+        "山下さんはたくさんの友人を身につけている。",
+        "今回の留学では多くの知識を身につけることができたと思う。",
+        "わたしは栄養を身につけているので、とても健康だ。",
+        "毎朝、犬を身につけてこの公園を散歩している。"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 身につける（みにつける - Thân - tiếp thu/nắm vững/trang bị）: không dùng cho bạn bè; nên dùng 「友達を作る」（làm bạn）.\r\n2. ĐÚNG. Tiếp thu kiến thức trong chuyến du học là cách dùng đúng của 「身につける」.\r\nCâu đúng: 今回の留学では多くの知識を身につけることができたと思う。\r\nDịch nghĩa: Tôi nghĩ trong chuyến du học lần này tôi đã tiếp thu được nhiều kiến thức.\r\n3. SAI. Không dùng 「栄養を身につける」; nên dùng 「栄養をとる」（lấy dinh dưỡng）.\r\n4. SAI. Để nói dắt chó đi dạo, nên dùng 「犬を連れて」（đưa chó đi）."
+    },
+    {
+      "question_id": 25,
+      "question": "Hãy chọn câu sử dụng đúng từ: 「お互いに」",
+      "context": "",
+      "options": [
+        "あの夫婦は、どんなときでもお互いに協力し合って生きてきた。",
+        "昨日、お互いにエレベーターに乗った人は、小学校の時の先生だった",
+        "学校で風邪が流行していて、クラスメートはお互いに授業を休んでいる",
+        "イチゴのケーキとチョコのケーキはお互いにおいしそうで、選べない。"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. お互いに（おたがいに - Hỗ Tương - lẫn nhau/cùng nhau）: dùng đúng để diễn tả sự hỗ trợ lẫn nhau giữa hai người/hai bên.\r\nCâu đúng: あの夫婦は、どんなときでもお互いに協力し合って生きてきた。\r\nDịch nghĩa: Vợ chồng đó dù trong bất kỳ hoàn cảnh nào cũng luôn hỗ trợ lẫn nhau để sống.\r\n2. SAI. Ngữ cảnh này không cần 「お互いに」; người trong thang máy không có quan hệ tương hỗ.\r\n3. SAI. Các bạn cùng lớp nghỉ không phải hành động lẫn nhau; nên dùng 「みんな」 hoặc 「次々と」.\r\n4. SAI. Hai loại bánh không có hành động tương hỗ; nên dùng 「どちらも」（cả hai）."
+    }
+  ]
+}

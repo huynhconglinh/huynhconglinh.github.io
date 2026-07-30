@@ -1,0 +1,336 @@
+{
+  "id": "N3-TO-G01",
+  "code": "N3-TO-G01",
+  "title": "Tổng ôn Ngữ pháp 1",
+  "track": "n3_review",
+  "level": "N3",
+  "topic": "grammar",
+  "sourceCsv": "tong_on_bai_3.csv",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "この用紙は、必ず黒か青のペンで記入する(   )。",
+      "context": "",
+      "options": [
+        "こと",
+        "もの",
+        "ことか",
+        "ものか"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「～することになっている」→「～すること」: cấu trúc 「Vこと」 dùng để diễn đạt quy định/chỉ thị, nghĩa là \"phải làm...\".\r\nCâu hoàn chỉnh:\r\nこの用紙は、必ず黒か青のペンで記入すること。\r\nDịch nghĩa:\r\nPhiếu này nhất thiết phải điền bằng bút đen hoặc bút xanh.\r\n2. SAI. 「もの」 dùng để diễn tả điều hiển nhiên hoặc lời khuyên về mặt đạo đức, không dùng cho quy định hành chính cụ thể.\r\n3. SAI. 「ことか」 dùng để diễn tả sự cảm thán về mức độ (bao nhiêu...).\r\n4. SAI. 「ものか」 dùng để diễn tả sự phủ nhận quyết liệt (nhất định không...)."
+    },
+    {
+      "question_id": 2,
+      "question": "あれ? 私のジュースがない。さっきここに(   )のに。",
+      "context": "",
+      "options": [
+        "置いといた",
+        "置いてみた",
+        "置きかけた",
+        "置いちゃった"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「置いといた」（置いておいた）: cấu trúc 「～ておく」 diễn tả hành động làm trước để chuẩn bị/giữ lại. Ở đây nói rằng đã để nước ở đó rồi.\r\nCâu hoàn chỉnh:\r\nあれ？私のジュースがない。さっきここに置いといたのに。\r\nDịch nghĩa:\r\nỦa? Nước của tôi đâu rồi. Tôi đã để ở đây lúc nãy mà.\r\n2. SAI. 「置いてみた」（～てみる）: diễn tả thử làm gì đó, không phù hợp ngữ cảnh đặt để/giữ.\r\n3. SAI. 「置きかけた」（～かける）: diễn tả hành động làm dở chừng/sắp làm, không phù hợp.\r\n4. SAI. 「置いちゃった」（置いてしまった）: diễn tả hành động đã lỡ làm với hàm ý hối tiếc, không phù hợp ý muốn diễn đạt ở đây."
+    },
+    {
+      "question_id": 3,
+      "question": "その店なら、ここから5 分(   )着くと思いますよ。",
+      "context": "",
+      "options": [
+        "ごろで",
+        "ごろに",
+        "ぐらいで",
+        "ぐらいに"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「ごろで」: 「ごろ」 chỉ thời điểm ước lượng (mấy giờ, lúc nào), không dùng cho khoảng cách/thời gian di chuyển.\r\n2. SAI. 「ごろに」: tương tự, 「ごろ」 không dùng cho khoảng thời gian như \"5 phút\".\r\n3. ĐÚNG. 「ぐらいで」: 「ぐらい」 chỉ mức độ/thời lượng ước lượng, và 「で」 chỉ phương tiện/điều kiện. 「5分ぐらいで着く」 nghĩa là sẽ đến nơi trong khoảng 5 phút.\r\nCâu hoàn chỉnh:\r\nその店なら、ここから5分ぐらいで着くと思いますよ。\r\nDịch nghĩa:\r\nNếu là tiệm đó thì tôi nghĩ từ đây khoảng 5 phút là đến nơi thôi.\r\n4. SAI. 「ぐらいに」: 「に」 chỉ thời điểm cụ thể, không phù hợp để diễn tả khoảng thời gian cần thiết."
+    },
+    {
+      "question_id": 4,
+      "question": "エアコンを(   )寝て、かぜをひいてしまった。",
+      "context": "",
+      "options": [
+        "ついたまま",
+        "つきながら",
+        "つけたまま",
+        "つけながら"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「ついたまま」: 「つく」 là tự động từ (intransitive - không ai bật), không phù hợp ngữ cảnh người chủ động bật máy lạnh.\r\n2. SAI. 「つきながら」: sai vì lý do tương tự, 「つく」 là tự động từ.\r\n3. ĐÚNG. 「つけたまま」: 「つける」 là tha động từ (transitive - người bật/mở), cấu trúc 「～たまま」 diễn tả trạng thái giữ nguyên (vẫn để mở máy lạnh mà ngủ).\r\nCâu hoàn chỉnh:\r\nエアコンをつけたまま寝て、かぜをひいてしまった。\r\nDịch nghĩa:\r\nTôi ngủ mà vẫn để máy lạnh chạy nên bị cảm.\r\n4. SAI. 「つけながら」: 「ながら」 diễn tả hai hành động đồng thời đang diễn ra, không phù hợp vì không ai vừa bật máy lạnh vừa ngủ."
+    },
+    {
+      "question_id": 5,
+      "question": "子どものころ、父は出張に行く (   ) いつも私におみやげを買ってきてくれた。",
+      "context": "",
+      "options": [
+        "なら",
+        "たびに",
+        "ところ",
+        "ついでに"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「なら」: diễn tả điều kiện giả định, không phù hợp với việc diễn đạt sự lặp lại thường xuyên.\r\n2. ĐÚNG. 「たびに」: cấu trúc 「Vたびに」 nghĩa là \"mỗi khi/mỗi lần\", diễn tả điều gì đó xảy ra đều đặn mỗi khi có tình huống đó.\r\nCâu hoàn chỉnh:\r\n子どものころ、父は出張に行くたびにいつも私におみやげを買ってきてくれた。\r\nDịch nghĩa:\r\nHồi còn nhỏ, mỗi khi bố đi công tác về là luôn mua quà về cho tôi.\r\n3. SAI. 「ところ」: diễn tả thời điểm/tình huống, không có nghĩa \"mỗi khi\".\r\n4. SAI. 「ついでに」: nghĩa là \"tranh thủ/nhân tiện\", không diễn tả sự lặp lại đều đặn."
+    },
+    {
+      "question_id": 6,
+      "question": "申込書を(   )、受付の係員に渡してください。",
+      "context": "",
+      "options": [
+        "書いたとたん",
+        "書きおえたら",
+        "書きだしたら",
+        "書いたとしたら"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「書いたとたん」（とたん - ngay lập tức khi vừa...）: diễn tả điều xảy ra đột ngột ngay sau một hành động, thường mang tính bất ngờ.\r\n2. ĐÚNG. 「書きおえたら」: 「書き終える」（かきおえる - viết xong）+ 「～たら」 = sau khi viết xong thì... Phù hợp nhất với ngữ cảnh chỉ dẫn thủ tục.\r\nCâu hoàn chỉnh:\r\n申込書を書きおえたら、受付の係員に渡してください。\r\nDịch nghĩa:\r\nSau khi điền xong đơn đăng ký, hãy đưa cho nhân viên ở quầy tiếp tân.\r\n3. SAI. 「書きだしたら」（書き出す - bắt đầu viết）: ngược nghĩa, chỉ mới bắt đầu viết thì chưa nộp được.\r\n4. SAI. 「書いたとしたら」: diễn tả giả thiết (nếu giả sử viết rồi thì...), không phù hợp với chỉ dẫn thực tế."
+    },
+    {
+      "question_id": 7,
+      "question": "今日の午後から明日に(   ) 台風が日本を通過するらしい。",
+      "context": "",
+      "options": [
+        "まで",
+        "かけて",
+        "つれて",
+        "わたって"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「まで」: chỉ điểm kết thúc, không diễn tả khoảng thời gian trải dài từ điểm này đến điểm kia.\r\n2. ĐÚNG. 「～にかけて」: diễn tả khoảng thời gian/không gian trải dài (từ... đến...), thường nói về điều kéo dài liên tục.\r\nCâu hoàn chỉnh:\r\n今日の午後から明日にかけて台風が日本を通過するらしい。\r\nDịch nghĩa:\r\nNghe nói bão sẽ đi qua Nhật Bản từ chiều nay cho đến ngày mai.\r\n3. SAI. 「につれて」: diễn tả sự thay đổi theo (khi A thay đổi thì B cũng thay đổi theo).\r\n4. SAI. 「にわたって」: diễn tả phạm vi rộng/nhiều lần, thường dùng cho phạm vi không gian hoặc số lần, không tự nhiên trong ngữ cảnh thời gian ngắn như vậy."
+    },
+    {
+      "question_id": 8,
+      "question": "あの二人の結婚が本当だと (   )、大ニュースだ。",
+      "context": "",
+      "options": [
+        "いうと",
+        "いえば",
+        "したら",
+        "しても"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「というと」: diễn tả \"nói đến... thì liên tưởng đến...\", không phù hợp.\r\n2. SAI. 「といえば」: tương tự, dùng để chuyển chủ đề hoặc liên tưởng.\r\n3. ĐÚNG. 「～としたら」: diễn tả giả thiết \"nếu... thì...\". Câu này nghĩa là \"nếu việc kết hôn của hai người đó là thật thì đó là tin lớn\".\r\nCâu hoàn chỉnh:\r\nあの二人の結婚が本当だとしたら、大ニュースだ。\r\nDịch nghĩa:\r\nNếu việc kết hôn của hai người đó là thật thì đó là tin tức lớn.\r\n4. SAI. 「としても」: diễn tả nhượng bộ (dù... đi nữa thì...), không phù hợp."
+    },
+    {
+      "question_id": 9,
+      "question": "A:春に咲く花(   )何ですか。 B: やっぱり桜でしょう。",
+      "context": "",
+      "options": [
+        "といえば",
+        "としては",
+        "とすると",
+        "とすれば"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「～といえば」: cấu trúc dùng để gợi liên tưởng, \"nói đến X thì nghĩ đến...\". Câu hỏi \"hoa mùa xuân thì nghĩ đến gì?\" rất tự nhiên với 「といえば」.\r\nCâu hoàn chỉnh:\r\nA: 春に咲く花といえば何ですか。\r\nDịch nghĩa:\r\nA: Nói đến hoa nở vào mùa xuân thì là gì? B: Vẫn là hoa anh đào thôi nhỉ.\r\n2. SAI. 「としては」: diễn tả \"xét theo lập trường/tư cách là...\", không phù hợp.\r\n3. SAI. 「とすると」: diễn tả suy luận giả thiết, không phù hợp.\r\n4. SAI. 「とすれば」: tương tự 「とすると」, diễn tả điều kiện giả định."
+    },
+    {
+      "question_id": 10,
+      "question": "先週の大雪(   )被害は、予想以上に大きかった。",
+      "context": "",
+      "options": [
+        "とする",
+        "となる",
+        "による",
+        "になる"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「とする被害」: không phải cấu trúc ngữ pháp tự nhiên.\r\n2. SAI. 「となる被害」: không phải cấu trúc ngữ pháp tự nhiên.\r\n3. ĐÚNG. 「～による」: diễn tả nguyên nhân/tác nhân gây ra điều gì đó. 「大雪による被害」 = thiệt hại do tuyết dày gây ra.\r\nCâu hoàn chỉnh:\r\n先週の大雪による被害は、予想以上に大きかった。\r\nDịch nghĩa:\r\nThiệt hại do trận tuyết dày tuần trước gây ra lớn hơn dự đoán.\r\n4. SAI. 「になる被害」: không phải cấu trúc ngữ pháp tự nhiên."
+    },
+    {
+      "question_id": 11,
+      "question": "たとえ少ししか時間が(   )、絶対に会いに行きます。",
+      "context": "",
+      "options": [
+        "あったら",
+        "なくても",
+        "あるとしたら",
+        "ないとすると"
+      ],
+      "correct_answer": 2,
+      "explanation": "1. SAI. 「あったら」: điều kiện thuận, không phù hợp với 「たとえ」 (dù... đi nữa).\r\n2. ĐÚNG. 「たとえ～なくても」: cấu trúc nhượng bộ \"dù... đi nữa\". 「たとえ少ししか時間がなくても」 = dù chỉ có một ít thời gian đi nữa.\r\nCâu hoàn chỉnh:\r\nたとえ少ししか時間がなくても、絶対に会いに行きます。\r\nDịch nghĩa:\r\nDù chỉ có một ít thời gian đi nữa, tôi nhất định sẽ đến gặp.\r\n3. SAI. 「あるとしたら」: giả thiết có thời gian, không dùng với 「たとえ」.\r\n4. SAI. 「ないとすると」: suy luận từ giả thiết không có thời gian, không phù hợp với 「たとえ」."
+    },
+    {
+      "question_id": 12,
+      "question": "すみませんが、ここで(   ) いただいてもいいですか。",
+      "context": "",
+      "options": [
+        "待たせて",
+        "待たれて",
+        "待たされて",
+        "待たせられて"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「待たせていただく」: cấu trúc lịch sự 「～させていただく」 (xin phép được làm...), ở đây là xin phép được để người khác chờ một chút.\r\nCâu hoàn chỉnh:\r\nすみませんが、ここで待たせていただいてもいいですか。\r\nDịch nghĩa:\r\nXin lỗi, tôi có thể nhờ anh/chị chờ ở đây một chút được không?\r\n2. SAI. 「待たれて」: thể bị động của 「待つ」, không phù hợp ngữ cảnh.\r\n3. SAI. 「待たされて」: thể bị động khiến sai (bị bắt phải chờ - từ góc độ người chờ), không phù hợp.\r\n4. SAI. 「待たせられて」: thể bị động khiến sai phức tạp, không phù hợp ngữ cảnh."
+    },
+    {
+      "question_id": 13,
+      "question": "こちらの店が安いの(   )、あちらの店は量が多いことで評判だ。",
+      "context": "",
+      "options": [
+        "において",
+        "によって",
+        "に対して",
+        "に関して"
+      ],
+      "correct_answer": 3,
+      "explanation": "1. SAI. 「において」: diễn tả địa điểm/lĩnh vực (tại/trong...), không phù hợp.\r\n2. SAI. 「によって」: diễn tả nguyên nhân/phương tiện/tác nhân, không phù hợp để đối lập hai điều.\r\n3. ĐÚNG. 「～のに対して」: diễn tả sự tương phản/đối lập. \"Trong khi cửa hàng này rẻ thì cửa hàng kia nổi tiếng vì nhiều đồ ăn.\"\r\nCâu hoàn chỉnh:\r\nこちらの店が安いのに対して、あちらの店は量が多いことで評判だ。\r\nDịch nghĩa:\r\nTrong khi cửa hàng này rẻ thì cửa hàng kia lại nổi tiếng vì nhiều đồ.\r\n4. SAI. 「に関して」: diễn tả liên quan đến... (về vấn đề...), không phù hợp để đối lập."
+    },
+    {
+      "question_id": 14,
+      "question": "この小学校では、毎朝子どもたちに新聞を読ませる(   )にしているそうだ。",
+      "context": "",
+      "options": [
+        "こと",
+        "はず",
+        "わけ",
+        "つもり"
+      ],
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 「～ことにしている」: diễn tả quyết định/quy ước của bản thân hoặc một tổ chức (đã đặt ra quy tắc/thói quen làm điều đó).\r\nCâu hoàn chỉnh:\r\nこの小学校では、毎朝子どもたちに新聞を読ませることにしているそうだ。\r\nDịch nghĩa:\r\nNghe nói trường tiểu học này đã quy định cho học sinh đọc báo mỗi sáng.\r\n2. SAI. 「はず」: diễn tả sự kỳ vọng/dự đoán có cơ sở, không dùng để nói về quy tắc đã lập.\r\n3. SAI. 「わけ」: diễn tả lý do hiển nhiên hoặc kết luận, không phù hợp.\r\n4. SAI. 「つもり」: diễn tả ý định cá nhân, không dùng cho quy tắc của trường."
+    },
+    {
+      "question_id": 15,
+      "question": "レストランに予約の電話をした(   )、もう席がないと言われた。",
+      "context": "",
+      "options": [
+        "なら",
+        "ので",
+        "かわりに",
+        "ところ"
+      ],
+      "correct_answer": 4,
+      "explanation": "1. SAI. 「なら」: diễn tả điều kiện, không phù hợp.\r\n2. SAI. 「ので」: diễn tả lý do, nhưng câu này cần diễn tả kết quả bất ngờ khi thực hiện hành động.\r\n3. SAI. 「かわりに」: nghĩa là \"thay vào đó/bù lại\", không phù hợp.\r\n4. ĐÚNG. 「～たところ」: diễn tả \"vừa làm xong thì phát hiện ra/được biết...\", thường dùng khi kết quả là điều bất ngờ.\r\nCâu hoàn chỉnh:\r\nレストランに予約の電話をしたところ、もう席がないと言われた。\r\nDịch nghĩa:\r\nKhi gọi điện đặt bàn ở nhà hàng thì được báo là hết chỗ rồi."
+    },
+    {
+      "question_id": 16,
+      "question": "大切な ____ ____ __★__ ____ ようにノートにメモしておいた",
+      "context": "",
+      "options": [
+        "お呼びできる",
+        "間違えずに",
+        "お客様の",
+        "お名前を"
+      ],
+      "correct_answer": 2,
+      "explanation": "Thứ tự đúng: お客様の → お名前を → 間違えずに（★）→ お呼びできる\r\n2. ĐÚNG. Từ nằm ở vị trí ★ là 「間違えずに」.\r\nCâu hoàn chỉnh:\r\n大切なお客様のお名前を間違えずにお呼びできるようにノートにメモしておいた。\r\nDịch nghĩa:\r\nTôi đã ghi chú vào sổ tay để có thể gọi tên quý khách một cách chính xác.\r\nGiải thích cấu trúc: 「お名前を間違えずにお呼びできる」 = có thể gọi tên mà không nhầm lẫn. 「ように」 diễn tả mục đích."
+    },
+    {
+      "question_id": 17,
+      "question": "本日は ____ ____ __★__ ____ ありがとうございます。",
+      "context": "",
+      "options": [
+        "お忙しい",
+        "ところを",
+        "くださり",
+        "お越し"
+      ],
+      "correct_answer": 4,
+      "explanation": "Thứ tự đúng: お忙しい → ところを → お越し（★）→ くださり\r\n4. ĐÚNG. Từ nằm ở vị trí ★ là 「お越し」.\r\nCâu hoàn chỉnh:\r\n本日はお忙しいところをお越しくださりありがとうございます。\r\nDịch nghĩa:\r\nCảm ơn anh/chị đã vui lòng đến dù đang bận.\r\nGiải thích: 「お忙しいところをお越しくださる」 là cụm kính ngữ lịch sự cao, nghĩa là \"đã vui lòng đến dù đang bận rộn\"."
+    },
+    {
+      "question_id": 18,
+      "question": "はじめて会ったときは ____ ____ __★__ ____ 仲よくなれないよ。",
+      "context": "",
+      "options": [
+        "いいから",
+        "話さないと",
+        "何か",
+        "何でも"
+      ],
+      "correct_answer": 3,
+      "explanation": "Thứ tự đúng: 何でも → いいから → 何か（★）→ 話さないと\r\n3. ĐÚNG. Từ nằm ở vị trí ★ là 「何か」.\r\nCâu hoàn chỉnh:\r\nはじめて会ったときは何でもいいから何か話さないと仲よくなれないよ。\r\nDịch nghĩa:\r\nKhi mới gặp nhau lần đầu, nếu không nói điều gì đó dù là gì cũng được thì sẽ không thể thân nhau được đâu.\r\nGiải thích: 「何でもいいから何か話す」 = nói gì đó dù là gì cũng được."
+    },
+    {
+      "question_id": 19,
+      "question": "____ ____ __★__ ____ お菓子屋さんだそうだ。",
+      "context": "",
+      "options": [
+        "一番なりたい",
+        "といったら",
+        "女子児童が",
+        "職業"
+      ],
+      "correct_answer": 4,
+      "explanation": "Thứ tự đúng: 女子児童が → 一番なりたい → 職業（★）→ といったら\r\n4. ĐÚNG. Từ nằm ở vị trí ★ là 「職業」.\r\nCâu hoàn chỉnh:\r\n女子児童が一番なりたい職業といったらお菓子屋さんだそうだ。\r\nDịch nghĩa:\r\nNghe nói nghề nghiệp mà các em học sinh nữ muốn làm nhất là thợ làm bánh kẹo.\r\nGiải thích: 「～といったら」 = nói đến/nhắc đến..., dùng để nêu chủ đề đại diện."
+    },
+    {
+      "question_id": 20,
+      "question": "このゴルフ場では ____ ____ __★__ ____ プレーすることができない。",
+      "context": "",
+      "options": [
+        "だけ",
+        "選ばれた",
+        "メンバー",
+        "しか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Thứ tự đúng: 選ばれた → メンバー → だけ（★）→ しか\r\n1. ĐÚNG. Từ nằm ở vị trí ★ là 「だけ」.\r\nCâu hoàn chỉnh:\r\nこのゴルフ場では選ばれたメンバーだけしかプレーすることができない。\r\nDịch nghĩa:\r\nỞ sân golf này chỉ có những thành viên được chọn mới có thể chơi.\r\nGiải thích: 「～だけしか～ない」 là cấu trúc nhấn mạnh sự giới hạn (chỉ mỗi... mà thôi)."
+    },
+    {
+      "question_id": 21,
+      "question": "Chọn từ điền vào chỗ trống （21） trong đoạn văn.",
+      "context": "小学５、６年生は2020年度から、正式な教科として英語を学ぶ。（中略）\n読書、計算、漢字の書き取り（注１）……。埼玉県内のある公立小学校では午前８時半からの15分間をこうした学習に充てて（注２）いる。この時間帯に英語を入れると、校長は「今やっている学習は続けられない」と言う。\n５、６年生の授業は、月〜金曜の（21）火、水、金曜が６時間授業で、木曜の６時間目は委員会（注３）やクラブ活動に使う。休憩時間もせわしなく（注４）、２、３時間目の間の20分休憩は週２回、体力向上（22）、児童に縄跳び（注５）やマラソンなどをさせる。\n月曜（23）5時間だが、授業後は職員会議や外部講師を招いた研修などがある。この時間も授業にすると、「トイレに行く間（注６）も（24）」（30代教員）という教員の多忙さ（注７）に拍車がかかりかねない（注８）状況だ。（中略）\n土、日曜は各学期に1日ずつ、運動会や授業参観（注９）などで活用している。「今の状態で英語を始めるなら、土曜の授業を増やすしか時間を確保（注１０）できない。教員（25-a）児童（25-b）忙しくなり、避けたい（注１１）のだが......」とこぼす（注１２）。\n（『毎日新聞』2016年２月23日付）\n\n（注１）書き取り：漢字で正しく書く練習\n（注２）充てる：（時間を）足りていないことに使う\n（注３）委員会：小学校の特別な活動\n（注４）せわしない：たいへんいそがしい\n（注５）縄跳び：縄を使う運動・遊び\n（注６）間：時間\n（注７）多忙さ：忙しさ\n（注８）拍車がかかる：あることがますます進む\n（注９）授業参観：子どもの保護者が学校の授業を見学すること\n（注１０）確保：手に入れる\n（注１１）避ける：不都合な状態にならないようにする\n（注１２）こぼす：文句・不満を言う",
+      "options": [
+        "うち",
+        "より",
+        "ほど",
+        "くらい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dịch toàn đoạn:\nHọc sinh lớp 5 và 6 tiểu học sẽ học tiếng Anh như môn học chính thức từ năm 2020. (Lược bỏ) Đọc sách, tính toán, tập viết chữ Hán... Một trường tiểu học công lập ở tỉnh Saitama dành 15 phút từ 8 giờ 30 sáng cho các hoạt động học tập như vậy. Hiệu trưởng nói rằng nếu đưa tiếng Anh vào khung giờ này thì \"không thể tiếp tục những hoạt động học tập đang làm\". Thời khóa biểu lớp 5–6 từ thứ Hai đến thứ Sáu: thứ Ba, Tư, Sáu có 6 tiết; tiết 6 thứ Năm dùng cho （21） và hoạt động câu lạc bộ. Giờ nghỉ cũng rất bận rộn. Mỗi tuần 2 lần, vì mục đích nâng cao thể lực （22）, nhà trường cho học sinh nhảy dây, chạy marathon... Thứ Hai （23） 5 tiết, nhưng sau giờ học còn họp giáo viên, tập huấn với giảng viên ngoài... Nếu dùng cả khoảng thời gian đó cho tiết học thì tình trạng bận rộn của giáo viên — \"đến mức không có （24） thời gian đi vệ sinh\" (giáo viên ngoài 30 tuổi) — càng thêm trầm trọng. (Lược bỏ) Thứ Bảy, Chủ nhật mỗi học kỳ dùng vài ngày cho hội thao, dự giờ của phụ huynh... \"Nếu bắt đầu tiếng Anh trong tình trạng hiện nay thì chỉ còn cách tăng tiết thứ Bảy mới đủ thời gian. Giáo viên （25） học sinh cũng sẽ bận hơn, thật muốn tránh...\" — một giáo viên than thở.\n\n1. ĐÚNG. 「委員会」（いいんかい - ủy ban/sinh hoạt học sinh）: tiết 6 thứ Năm dùng cho sinh hoạt ủy ban và câu lạc bộ.\nCâu hoàn chỉnh:\n木曜の６時間目を委員会やクラブ活動に使う。\nDịch nghĩa:\nTiết 6 thứ Năm dùng cho hoạt động ủy ban và câu lạc bộ.\n2. SAI. 「職員会議」: họp giáo viên, không phải hoạt động của học sinh.\n3. SAI. 「補習授業」: tiết phụ đạo, không khớp ngữ cảnh câu lạc bộ.\n4. SAI. 「研究集会」: hội thảo nghiên cứu, không phù hợp."
+    },
+    {
+      "question_id": 22,
+      "question": "Chọn từ điền vào chỗ trống （22） trong đoạn văn.",
+      "context": "小学５、６年生は2020年度から、正式な教科として英語を学ぶ。（中略）\n読書、計算、漢字の書き取り（注１）……。埼玉県内のある公立小学校では午前８時半からの15分間をこうした学習に充てて（注２）いる。この時間帯に英語を入れると、校長は「今やっている学習は続けられない」と言う。\n５、６年生の授業は、月〜金曜の（21）火、水、金曜が６時間授業で、木曜の６時間目は委員会（注３）やクラブ活動に使う。休憩時間もせわしなく（注４）、２、３時間目の間の20分休憩は週２回、体力向上（22）、児童に縄跳び（注５）やマラソンなどをさせる。\n月曜（23）5時間だが、授業後は職員会議や外部講師を招いた研修などがある。この時間も授業にすると、「トイレに行く間（注６）も（24）」（30代教員）という教員の多忙さ（注７）に拍車がかかりかねない（注８）状況だ。（中略）\n土、日曜は各学期に1日ずつ、運動会や授業参観（注９）などで活用している。「今の状態で英語を始めるなら、土曜の授業を増やすしか時間を確保（注１０）できない。教員（25-a）児童（25-b）忙しくなり、避けたい（注１１）のだが......」とこぼす（注１２）。\n（『毎日新聞』2016年２月23日付）\n\n（注１）書き取り：漢字で正しく書く練習\n（注２）充てる：（時間を）足りていないことに使う\n（注３）委員会：小学校の特別な活動\n（注４）せわしない：たいへんいそがしい\n（注５）縄跳び：縄を使う運動・遊び\n（注６）間：時間\n（注７）多忙さ：忙しさ\n（注８）拍車がかかる：あることがますます進む\n（注９）授業参観：子どもの保護者が学校の授業を見学すること\n（注１０）確保：手に入れる\n（注１１）避ける：不都合な状態にならないようにする\n（注１２）こぼす：文句・不満を言う",
+      "options": [
+        "とともに",
+        "がないと",
+        "にかわって",
+        "のために"
+      ],
+      "correct_answer": 4,
+      "explanation": "Dịch toàn đoạn:\nHọc sinh lớp 5 và 6 tiểu học sẽ học tiếng Anh như môn học chính thức từ năm 2020. (Lược bỏ) Đọc sách, tính toán, tập viết chữ Hán... Một trường tiểu học công lập ở tỉnh Saitama dành 15 phút từ 8 giờ 30 sáng cho các hoạt động học tập như vậy. Hiệu trưởng nói rằng nếu đưa tiếng Anh vào khung giờ này thì \"không thể tiếp tục những hoạt động học tập đang làm\". Thời khóa biểu lớp 5–6 từ thứ Hai đến thứ Sáu: thứ Ba, Tư, Sáu có 6 tiết; tiết 6 thứ Năm dùng cho （21） và hoạt động câu lạc bộ. Giờ nghỉ cũng rất bận rộn. Mỗi tuần 2 lần, vì mục đích nâng cao thể lực （22）, nhà trường cho học sinh nhảy dây, chạy marathon... Thứ Hai （23） 5 tiết, nhưng sau giờ học còn họp giáo viên, tập huấn với giảng viên ngoài... Nếu dùng cả khoảng thời gian đó cho tiết học thì tình trạng bận rộn của giáo viên — \"đến mức không có （24） thời gian đi vệ sinh\" (giáo viên ngoài 30 tuổi) — càng thêm trầm trọng. (Lược bỏ) Thứ Bảy, Chủ nhật mỗi học kỳ dùng vài ngày cho hội thao, dự giờ của phụ huynh... \"Nếu bắt đầu tiếng Anh trong tình trạng hiện nay thì chỉ còn cách tăng tiết thứ Bảy mới đủ thời gian. Giáo viên （25） học sinh cũng sẽ bận hơn, thật muốn tránh...\" — một giáo viên than thở.\n\n1. SAI. 「によって」: bởi/theo phương tiện, không phù hợp.\n2. SAI. 「について」: về/liên quan đến, không diễn tả mục đích.\n3. SAI. 「にとって」: đối với..., không phù hợp.\n4. ĐÚNG. 「のため」: vì mục đích... 「体力向上のため」 = nhằm nâng cao thể lực.\nCâu hoàn chỉnh:\n週２回、体力向上のため、児童に縄跳びやマラソンなどをさせる。\nDịch nghĩa:\nMỗi tuần 2 lần, vì mục đích nâng cao thể lực, nhà trường cho học sinh nhảy dây, chạy marathon..."
+    },
+    {
+      "question_id": 23,
+      "question": "Chọn từ điền vào chỗ trống （23） trong đoạn văn.",
+      "context": "小学５、６年生は2020年度から、正式な教科として英語を学ぶ。（中略）\n読書、計算、漢字の書き取り（注１）……。埼玉県内のある公立小学校では午前８時半からの15分間をこうした学習に充てて（注２）いる。この時間帯に英語を入れると、校長は「今やっている学習は続けられない」と言う。\n５、６年生の授業は、月〜金曜の（21）火、水、金曜が６時間授業で、木曜の６時間目は委員会（注３）やクラブ活動に使う。休憩時間もせわしなく（注４）、２、３時間目の間の20分休憩は週２回、体力向上（22）、児童に縄跳び（注５）やマラソンなどをさせる。\n月曜（23）5時間だが、授業後は職員会議や外部講師を招いた研修などがある。この時間も授業にすると、「トイレに行く間（注６）も（24）」（30代教員）という教員の多忙さ（注７）に拍車がかかりかねない（注８）状況だ。（中略）\n土、日曜は各学期に1日ずつ、運動会や授業参観（注９）などで活用している。「今の状態で英語を始めるなら、土曜の授業を増やすしか時間を確保（注１０）できない。教員（25-a）児童（25-b）忙しくなり、避けたい（注１１）のだが......」とこぼす（注１２）。\n（『毎日新聞』2016年２月23日付）\n\n（注１）書き取り：漢字で正しく書く練習\n（注２）充てる：（時間を）足りていないことに使う\n（注３）委員会：小学校の特別な活動\n（注４）せわしない：たいへんいそがしい\n（注５）縄跳び：縄を使う運動・遊び\n（注６）間：時間\n（注７）多忙さ：忙しさ\n（注８）拍車がかかる：あることがますます進む\n（注９）授業参観：子どもの保護者が学校の授業を見学すること\n（注１０）確保：手に入れる\n（注１１）避ける：不都合な状態にならないようにする\n（注１２）こぼす：文句・不満を言う",
+      "options": [
+        "こそは",
+        "だけは",
+        "までは",
+        "からは"
+      ],
+      "correct_answer": 2,
+      "explanation": "Dịch toàn đoạn:\nHọc sinh lớp 5 và 6 tiểu học sẽ học tiếng Anh như môn học chính thức từ năm 2020. (Lược bỏ) Đọc sách, tính toán, tập viết chữ Hán... Một trường tiểu học công lập ở tỉnh Saitama dành 15 phút từ 8 giờ 30 sáng cho các hoạt động học tập như vậy. Hiệu trưởng nói rằng nếu đưa tiếng Anh vào khung giờ này thì \"không thể tiếp tục những hoạt động học tập đang làm\". Thời khóa biểu lớp 5–6 từ thứ Hai đến thứ Sáu: thứ Ba, Tư, Sáu có 6 tiết; tiết 6 thứ Năm dùng cho （21） và hoạt động câu lạc bộ. Giờ nghỉ cũng rất bận rộn. Mỗi tuần 2 lần, vì mục đích nâng cao thể lực （22）, nhà trường cho học sinh nhảy dây, chạy marathon... Thứ Hai （23） 5 tiết, nhưng sau giờ học còn họp giáo viên, tập huấn với giảng viên ngoài... Nếu dùng cả khoảng thời gian đó cho tiết học thì tình trạng bận rộn của giáo viên — \"đến mức không có （24） thời gian đi vệ sinh\" (giáo viên ngoài 30 tuổi) — càng thêm trầm trọng. (Lược bỏ) Thứ Bảy, Chủ nhật mỗi học kỳ dùng vài ngày cho hội thao, dự giờ của phụ huynh... \"Nếu bắt đầu tiếng Anh trong tình trạng hiện nay thì chỉ còn cách tăng tiết thứ Bảy mới đủ thời gian. Giáo viên （25） học sinh cũng sẽ bận hơn, thật muốn tránh...\" — một giáo viên than thở.\n\n1. SAI. 「に」: chỉ thời điểm cụ thể, kém tự nhiên hơn trong câu đối chiếu lịch học.\n2. ĐÚNG. 「は」: trợ từ chủ đề/đối chiếu. 「月曜は５時間だが」 = còn thứ Hai thì chỉ có 5 tiết.\nCâu hoàn chỉnh:\n月曜は５時間だが、授業後は職員会議や外部講師を招いた研修などがある。\nDịch nghĩa:\nThứ Hai thì có 5 tiết, nhưng sau giờ học còn họp giáo viên, tập huấn với giảng viên ngoài...\n3. SAI. 「で」: phương tiện/địa điểm hành động, không phù hợp.\n4. SAI. 「を」: tân ngữ, không phù hợp."
+    },
+    {
+      "question_id": 24,
+      "question": "Chọn từ điền vào chỗ trống （24） trong đoạn văn.",
+      "context": "小学５、６年生は2020年度から、正式な教科として英語を学ぶ。（中略）\n読書、計算、漢字の書き取り（注１）……。埼玉県内のある公立小学校では午前８時半からの15分間をこうした学習に充てて（注２）いる。この時間帯に英語を入れると、校長は「今やっている学習は続けられない」と言う。\n５、６年生の授業は、月〜金曜の（21）火、水、金曜が６時間授業で、木曜の６時間目は委員会（注３）やクラブ活動に使う。休憩時間もせわしなく（注４）、２、３時間目の間の20分休憩は週２回、体力向上（22）、児童に縄跳び（注５）やマラソンなどをさせる。\n月曜（23）5時間だが、授業後は職員会議や外部講師を招いた研修などがある。この時間も授業にすると、「トイレに行く間（注６）も（24）」（30代教員）という教員の多忙さ（注７）に拍車がかかりかねない（注８）状況だ。（中略）\n土、日曜は各学期に1日ずつ、運動会や授業参観（注９）などで活用している。「今の状態で英語を始めるなら、土曜の授業を増やすしか時間を確保（注１０）できない。教員（25-a）児童（25-b）忙しくなり、避けたい（注１１）のだが......」とこぼす（注１２）。\n（『毎日新聞』2016年２月23日付）\n\n（注１）書き取り：漢字で正しく書く練習\n（注２）充てる：（時間を）足りていないことに使う\n（注３）委員会：小学校の特別な活動\n（注４）せわしない：たいへんいそがしい\n（注５）縄跳び：縄を使う運動・遊び\n（注６）間：時間\n（注７）多忙さ：忙しさ\n（注８）拍車がかかる：あることがますます進む\n（注９）授業参観：子どもの保護者が学校の授業を見学すること\n（注１０）確保：手に入れる\n（注１１）避ける：不都合な状態にならないようにする\n（注１２）こぼす：文句・不満を言う",
+      "options": [
+        "あるほど",
+        "なければないほど",
+        "ないほど",
+        "あればあるほど"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch toàn đoạn:\nHọc sinh lớp 5 và 6 tiểu học sẽ học tiếng Anh như môn học chính thức từ năm 2020. (Lược bỏ) Đọc sách, tính toán, tập viết chữ Hán... Một trường tiểu học công lập ở tỉnh Saitama dành 15 phút từ 8 giờ 30 sáng cho các hoạt động học tập như vậy. Hiệu trưởng nói rằng nếu đưa tiếng Anh vào khung giờ này thì \"không thể tiếp tục những hoạt động học tập đang làm\". Thời khóa biểu lớp 5–6 từ thứ Hai đến thứ Sáu: thứ Ba, Tư, Sáu có 6 tiết; tiết 6 thứ Năm dùng cho （21） và hoạt động câu lạc bộ. Giờ nghỉ cũng rất bận rộn. Mỗi tuần 2 lần, vì mục đích nâng cao thể lực （22）, nhà trường cho học sinh nhảy dây, chạy marathon... Thứ Hai （23） 5 tiết, nhưng sau giờ học còn họp giáo viên, tập huấn với giảng viên ngoài... Nếu dùng cả khoảng thời gian đó cho tiết học thì tình trạng bận rộn của giáo viên — \"đến mức không có （24） thời gian đi vệ sinh\" (giáo viên ngoài 30 tuổi) — càng thêm trầm trọng. (Lược bỏ) Thứ Bảy, Chủ nhật mỗi học kỳ dùng vài ngày cho hội thao, dự giờ của phụ huynh... \"Nếu bắt đầu tiếng Anh trong tình trạng hiện nay thì chỉ còn cách tăng tiết thứ Bảy mới đủ thời gian. Giáo viên （25） học sinh cũng sẽ bận hơn, thật muốn tránh...\" — một giáo viên than thở.\n\n1. ĐÚNG. 「ない」: thành ngữ 「～間もない」 = thậm chí không có thời gian để...\nCâu hoàn chỉnh:\n「トイレに行く間もない」\nDịch nghĩa:\n\"Đến mức không có thời gian đi vệ sinh\"\n2. SAI. 「うち」: trong lúc/trong khoảng, không tạo thành ngữ phù hợp.\n3. SAI. 「より」: so sánh, không phù hợp sau 「間も」.\n4. SAI. 「ほど」: mức độ; nếu dùng thì cần cấu trúc khác (ví dụ 「～ほど忙しい」)."
+    },
+    {
+      "question_id": 25,
+      "question": "Chọn từ điền vào chỗ trống （25-a）（25-b） trong đoạn văn.",
+      "context": "小学５、６年生は2020年度から、正式な教科として英語を学ぶ。（中略）\n読書、計算、漢字の書き取り（注１）……。埼玉県内のある公立小学校では午前８時半からの15分間をこうした学習に充てて（注２）いる。この時間帯に英語を入れると、校長は「今やっている学習は続けられない」と言う。\n５、６年生の授業は、月〜金曜の（21）火、水、金曜が６時間授業で、木曜の６時間目は委員会（注３）やクラブ活動に使う。休憩時間もせわしなく（注４）、２、３時間目の間の20分休憩は週２回、体力向上（22）、児童に縄跳び（注５）やマラソンなどをさせる。\n月曜（23）5時間だが、授業後は職員会議や外部講師を招いた研修などがある。この時間も授業にすると、「トイレに行く間（注６）も（24）」（30代教員）という教員の多忙さ（注７）に拍車がかかりかねない（注８）状況だ。（中略）\n土、日曜は各学期に1日ずつ、運動会や授業参観（注９）などで活用している。「今の状態で英語を始めるなら、土曜の授業を増やすしか時間を確保（注１０）できない。教員（25-a）児童（25-b）忙しくなり、避けたい（注１１）のだが......」とこぼす（注１２）。\n（『毎日新聞』2016年２月23日付）\n\n（注１）書き取り：漢字で正しく書く練習\n（注２）充てる：（時間を）足りていないことに使う\n（注３）委員会：小学校の特別な活動\n（注４）せわしない：たいへんいそがしい\n（注５）縄跳び：縄を使う運動・遊び\n（注６）間：時間\n（注７）多忙さ：忙しさ\n（注８）拍車がかかる：あることがますます進む\n（注９）授業参観：子どもの保護者が学校の授業を見学すること\n（注１０）確保：手に入れる\n（注１１）避ける：不都合な状態にならないようにする\n（注１２）こぼす：文句・不満を言う",
+      "options": [
+        "a も／b と",
+        "a と／b も",
+        "a も／b も",
+        "a と／b と"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dịch toàn đoạn:\nHọc sinh lớp 5 và 6 tiểu học sẽ học tiếng Anh như môn học chính thức từ năm 2020. (Lược bỏ) Đọc sách, tính toán, tập viết chữ Hán... Một trường tiểu học công lập ở tỉnh Saitama dành 15 phút từ 8 giờ 30 sáng cho các hoạt động học tập như vậy. Hiệu trưởng nói rằng nếu đưa tiếng Anh vào khung giờ này thì \"không thể tiếp tục những hoạt động học tập đang làm\". Thời khóa biểu lớp 5–6 từ thứ Hai đến thứ Sáu: thứ Ba, Tư, Sáu có 6 tiết; tiết 6 thứ Năm dùng cho （21） và hoạt động câu lạc bộ. Giờ nghỉ cũng rất bận rộn. Mỗi tuần 2 lần, vì mục đích nâng cao thể lực （22）, nhà trường cho học sinh nhảy dây, chạy marathon... Thứ Hai （23） 5 tiết, nhưng sau giờ học còn họp giáo viên, tập huấn với giảng viên ngoài... Nếu dùng cả khoảng thời gian đó cho tiết học thì tình trạng bận rộn của giáo viên — \"đến mức không có （24） thời gian đi vệ sinh\" (giáo viên ngoài 30 tuổi) — càng thêm trầm trọng. (Lược bỏ) Thứ Bảy, Chủ nhật mỗi học kỳ dùng vài ngày cho hội thao, dự giờ của phụ huynh... \"Nếu bắt đầu tiếng Anh trong tình trạng hiện nay thì chỉ còn cách tăng tiết thứ Bảy mới đủ thời gian. Giáo viên （25） học sinh cũng sẽ bận hơn, thật muốn tránh...\" — một giáo viên than thở.\n\n1. ĐÚNG. 「とともに」: cùng với... 「教員とともに児童も」 = không chỉ giáo viên mà học sinh cũng...\nCâu hoàn chỉnh:\n教員とともに児童も忙しくなり、避けたいのだが......\nDịch nghĩa:\nKhông chỉ giáo viên mà học sinh cũng trở nên bận rộn hơn, thật muốn tránh tình trạng này...\n2. SAI. 「がないと」: nếu không có... thì, không phù hợp.\n3. SAI. 「にかわって」: thay cho..., làm lệch nghĩa câu.\n4. SAI. 「のために」: vì mục đích..., không phù hợp."
+    }
+  ]
+}
