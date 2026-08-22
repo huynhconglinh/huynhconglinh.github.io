@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D15",
+  "code": "N2-KJ-D15",
+  "title": "Kanji Junbi · Bài tập Ngày 15",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 15.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "時間がないため、説明を<u>省略</u>して、ポイントだけ伝えます。",
+      "context": "",
+      "options": [
+        "しんりゃく",
+        "せいりゃく",
+        "しょうりゃく",
+        "かいりゃく"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ しょうりゃく.\n\n省略（しょうりゃく）: giản lược / lược bớt / rút gọn.\n\nPhân biệt: 侵略（しんりゃく - xâm lược).\n\nCâu: 時間がないため、説明を省略して、ポイントだけ伝えます。\nDịch: Vì không có thời gian nên tôi xin lược bớt phần giải thích và chỉ truyền đạt những điểm cốt lõi."
+    },
+    {
+      "question_id": 2,
+      "question": "彼を<u>除いて</u>全員が賛成している。",
+      "context": "",
+      "options": [
+        "はぶいて",
+        "しぶいて",
+        "のぞいて",
+        "けずいて"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ のぞいて.\n\n除く（のぞく）: loại trừ / ngoại trừ. Cụm 「〜を除いて」: ngoại trừ...\n\nPhân biệt: 省く（はぶく - lược bỏ), 削る（けずる - gọt/cắt giảm).\n\nCâu: 彼を除いて全員が賛成している。\nDịch: Ngoại trừ anh ấy ra thì tất cả mọi người đều tán thành."
+    },
+    {
+      "question_id": 3,
+      "question": "この辛さなら<u>余裕</u>で食べられます。",
+      "context": "",
+      "options": [
+        "よゆう",
+        "よゆ",
+        "よしゅう",
+        "よかん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① よゆう.\n\n余裕（よゆう）: phần dư / sự thoải mái, thong thả (về thời gian, tiền bạc, tâm lý). Cụm 「余裕で...」: thừa sức / dư sức làm gì.\n\nPhân biệt: 予習（よしゅう - soạn bài trước), 予感（よかん - linh cảm).\n\nCâu: この辛さなら余裕で食べられます。\nDịch: Độ cay cỡ này thì tôi thừa sức ăn được."
+    },
+    {
+      "question_id": 4,
+      "question": "彼女をデートに<u>誘う</u>。",
+      "context": "",
+      "options": [
+        "さそう",
+        "そよう",
+        "きよう",
+        "かよう"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① さそう.\n\n誘う（さそう）: rủ rê / mời mọc / dụ dỗ.\n\nCâu: 彼女をデートに誘う。\nDịch: Rủ cô ấy đi hẹn hò."
+    },
+    {
+      "question_id": 5,
+      "question": "売り上げが<u>低迷</u>する。",
+      "context": "",
+      "options": [
+        "ないめい",
+        "しんめい",
+        "ていまい",
+        "ていめい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ていめい.\n\n低迷（ていめい）: trì trệ / suy sụp / ảm đạm (kinh tế, doanh thu).\n\nCâu: 売り上げが低迷する。\nDịch: Doanh số bán hàng rơi vào tình trạng trì trệ / ảm đạm."
+    },
+    {
+      "question_id": 6,
+      "question": "みなさんは、<u>占い</u>を信じますか？",
+      "context": "",
+      "options": [
+        "しらない",
+        "うらない",
+        "ふらない",
+        "くらない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② うらない.\n\n占い（うらない）: bói toán / quẻ bói. Động từ 占う（うらなう）.\n\nCâu: みなさんは、占いを信じますか？\nDịch: Mọi người có tin vào bói toán không?"
+    },
+    {
+      "question_id": 7,
+      "question": "全て<u>独占</u>する。",
+      "context": "",
+      "options": [
+        "どくぜん",
+        "かいせん",
+        "どくせん",
+        "かいぜん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ どくせん.\n\n独占（どくせん）: độc chiếm / độc quyền.\n\nPhân biệt: 改善（かいぜん - cải thiện).\n\nCâu: 全て独占する。\nDịch: Độc chiếm tất cả mọi thứ."
+    },
+    {
+      "question_id": 8,
+      "question": "面接で、いい<u>印象</u>を与えるために髪を切った。",
+      "context": "",
+      "options": [
+        "いんしょう",
+        "いんぞう",
+        "いんそう",
+        "いんきょう"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① いんしょう.\n\n印象（いんしょう）: ấn tượng. Cụm 「印象を与える」: để lại ấn tượng.\n\nCâu: 面接で、いい印象を与えるために髪を切った。\nDịch: Tôi đã cắt tóc để tạo ấn tượng tốt trong buổi phỏng vấn."
+    },
+    {
+      "question_id": 9,
+      "question": "会社から制服が<u>貸与</u>される。",
+      "context": "",
+      "options": [
+        "さいよう",
+        "さいよ",
+        "たいよう",
+        "たいよ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ たいよ.\n\n貸与（たいよ）: cho mượn / cấp cho dùng (đồng phục, thiết bị...).\n\nPhân biệt: 太陽（たいよう - mặt trời), 採用（さいよう - tuyển dụng).\n\nCâu: 会社から制服が貸与される。\nDịch: Đồng phục được công ty cấp phát (cho mượn sử dụng)."
+    },
+    {
+      "question_id": 10,
+      "question": "鈴木選手は<u>国際的</u>に活躍している。",
+      "context": "",
+      "options": [
+        "きょうさいてき",
+        "こくさいてき",
+        "こうさつてき",
+        "こくさつてき"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② こくさいてき.\n\n国際的（こくさいてき）: mang tính quốc tế.\n\nCâu: 鈴木選手は国際的に活躍している。\nDịch: Tuyển thủ Suzuki đang thi đấu / hoạt động năng nổ ở đấu trường quốc tế."
+    }
+  ]
+}

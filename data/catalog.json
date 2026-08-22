@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T06:04:41Z",
+  "updatedAt": "2026-08-22T09:20:09Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -269,6 +269,26 @@
       "topic": "kanji",
       "questionCount": 10,
       "file": "exams/N2/N2-KJ-D14.json"
+    },
+    {
+      "id": "N2-KJ-D15",
+      "code": "N2-KJ-D15",
+      "title": "Kanji Junbi · Bài tập Ngày 15",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 10,
+      "file": "exams/N2/N2-KJ-D15.json"
+    },
+    {
+      "id": "N2-KJ-D16",
+      "code": "N2-KJ-D16",
+      "title": "Kanji Junbi · Bài tập Ngày 16",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 10,
+      "file": "exams/N2/N2-KJ-D16.json"
     },
     {
       "id": "N2-29-MT01",

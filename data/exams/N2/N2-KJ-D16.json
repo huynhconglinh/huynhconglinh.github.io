@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D16",
+  "code": "N2-KJ-D16",
+  "title": "Kanji Junbi · Bài tập Ngày 16",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 16.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "食中毒になったので、<u>解毒剤</u>を飲んだ。",
+      "context": "",
+      "options": [
+        "かいどくさい",
+        "げいどくざい",
+        "げどくざい",
+        "けいどくざい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ げどくざい.\n\n解毒剤（げどくざい）: thuốc giải độc (lưu ý âm đọc đặc biệt げどく).\n\nCâu: 食中毒になったので、解毒剤を飲んだ。\nDịch: Vì bị ngộ độc thực phẩm nên tôi đã uống thuốc giải độc."
+    },
+    {
+      "question_id": 2,
+      "question": "彼女は蚊を<u>殺す</u>ことにも罪悪感を感じるらしい。",
+      "context": "",
+      "options": [
+        "ころす",
+        "つぶす",
+        "しぶす",
+        "ゆるす"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ころす.\n\n殺す（ころす）: giết / tiêu diệt (sinh vật, côn trùng).\n\nPhân biệt: 潰す（つぶす - nghiền nát/giết thời gian), 許す（ゆるす - tha thứ).\n\nCâu: 彼女は蚊を殺すことにも罪悪感を感じるらしい。\nDịch: Nghe nói ngay cả việc đập chết muỗi cô ấy cũng cảm thấy tội lỗi."
+    },
+    {
+      "question_id": 3,
+      "question": "何があっても、<u>暴力</u>はだめです。",
+      "context": "",
+      "options": [
+        "ほうりょく",
+        "ぼうりょく",
+        "ばくりょく",
+        "いりょく"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② ぼうりょく.\n\n暴力（ぼうりょく）: bạo lực.\n\nPhân biệt: 威力（いりょく - uy lực), 爆発（ばくはつ - bộc phát/nổ).\n\nCâu: 何があっても、暴力はだめです。\nDịch: Dù có bất cứ chuyện gì xảy ra thì dùng bạo lực là không được."
+    },
+    {
+      "question_id": 4,
+      "question": "近所で殺人事件があった、、なんて<u>恐ろしい</u>んだ！",
+      "context": "",
+      "options": [
+        "ふさろしい",
+        "おそろしい",
+        "いじろしい",
+        "くよろしい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② おそろしい.\n\n恐ろしい（おそろしい）: kinh khủng / khủng khiếp / đáng sợ.\n\nCâu: 近所で殺人事件があった、、なんて恐ろしいんだ！\nDịch: Vừa xảy ra vụ án giết người ở gần đây... Thật là đáng sợ quá đi!"
+    },
+    {
+      "question_id": 5,
+      "question": "両社は<u>緊密</u>な関係を築いた。",
+      "context": "",
+      "options": [
+        "きんちょう",
+        "きんみつ",
+        "せいみつ",
+        "かんちょう"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② きんみつ.\n\n緊密（きんみつ）: khăng khít / chặt chẽ / mật thiết (mối quan hệ, hợp tác).\n\nPhân biệt: 緊張（きんちょう - căng thẳng), 精密（せいみつ - tinh mật/chính xác).\n\nCâu: 両社は緊密な関係を築いた。\nDịch: Hai công ty đã xây dựng mối quan hệ hợp tác khăng khít, chặt chẽ."
+    },
+    {
+      "question_id": 6,
+      "question": "スマホの画面が<u>破損</u>した。",
+      "context": "",
+      "options": [
+        "はがい",
+        "はぞん",
+        "はそん",
+        "はかい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ はそん.\n\n破損（はそん）: hư hỏng / vỡ / sứt mẻ (vật dụng, đồ đạc).\n\nPhân biệt: 破壊（はかい - phá hoại).\n\nCâu: スマホの画面が破損した。\nDịch: Màn hình điện thoại đã bị vỡ / hư hỏng."
+    },
+    {
+      "question_id": 7,
+      "question": "コロナなので、隣の人と席を<u>離して</u>座る。",
+      "context": "",
+      "options": [
+        "くらして",
+        "ばらして",
+        "はずして",
+        "はなして"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ はなして.\n\n離す（はなす）: tách rời / cách xa / để xa ra.\n\nPhân biệt: 外す（はずす - tháo ra/tách ra), 暮らす（くらす - sinh sống), 放す（はなす - thả ra).\n\nCâu: コロナなので、隣の人と席を離して座る。\nDịch: Vì dịch Corona nên hãy ngồi cách xa ghế của người bên cạnh ra."
+    },
+    {
+      "question_id": 8,
+      "question": "どんな言い訳をしても母を<u>誤魔化す</u>ことはできなかった。",
+      "context": "",
+      "options": [
+        "ごまがす",
+        "きょまがす",
+        "くまかす",
+        "ごまかす"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ごまかす.\n\n誤魔化す（ごまかす）: lấp liếm / che đậy / đánh trống lảng / gian dối.\n\nCâu: どんな言い訳をしても母を誤魔化すことはできなかった。\nDịch: Dù có viện bất cứ cớ gì đi nữa thì tôi cũng không thể qua mặt / che mắt mẹ được."
+    },
+    {
+      "question_id": 9,
+      "question": "彼女に振られて<u>絶望</u>する。",
+      "context": "",
+      "options": [
+        "ぜつめつ",
+        "せつぼう",
+        "きゅうぼう",
+        "ぜつぼう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ぜつぼう.\n\n絶望（ぜつぼう）: tuyệt vọng.\n\nPhân biệt: 絶滅（ぜつめつ - tuyệt chủng).\n\nCâu: 彼女に振られて絶望する。\nDịch: Bị bạn gái từ chối / chia tay nên rơi vào tuyệt vọng."
+    },
+    {
+      "question_id": 10,
+      "question": "ハンドルを強く<u>握る</u>。",
+      "context": "",
+      "options": [
+        "にぎる",
+        "のこる",
+        "つかる",
+        "うける"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① にぎる.\n\n握る（にぎる）: nắm chặt / cầm lái (vô lăng, tay lái).\n\nPhân biệt: 残る（のこる - còn lại), 漬かる / 浸かる（つかる - ngâm mình).\n\nCâu: ハンドルを強く握る。\nDịch: Nắm chặt lấy vô lăng / tay lái."
+    }
+  ]
+}
