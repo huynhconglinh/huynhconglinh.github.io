@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D12",
+  "code": "N2-KJ-D12",
+  "title": "Kanji Junbi · Bài tập Ngày 12",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 12.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "仕事には<u>慣れました</u>か？",
+      "context": "",
+      "options": [
+        "なれました",
+        "くれました",
+        "あれました",
+        "ふれました"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① なれました.\n\n慣れる（なれる）: quen thuộc / quen với.\n\nCâu: 仕事には慣れましたか？\nDịch: Bạn đã quen với công việc chưa?"
+    },
+    {
+      "question_id": 2,
+      "question": "輸入品に<u>課税</u>する。",
+      "context": "",
+      "options": [
+        "がせい",
+        "かせい",
+        "かぜい",
+        "がせい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かぜい.\n\n課税（かぜい）: đánh thuế / thu thuế.\n\nCâu: 輸入品に課税する。\nDịch: Đánh thuế vào hàng nhập khẩu."
+    },
+    {
+      "question_id": 3,
+      "question": "両親が早くに亡くなったので、姉が<u>養って</u>くれた。",
+      "context": "",
+      "options": [
+        "うしなって",
+        "かしなって",
+        "やしなって",
+        "むしなって"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ やしなって.\n\n養う（やしなう）: nuôi nấng / dưỡng dục / bồi dưỡng.\n\nPhân biệt: 失う（うしなう - Thất = đánh mất).\n\nCâu: 両親が早くに亡くなったので、姉が養ってくれた。\nDịch: Vì bố mẹ mất sớm nên chị gái đã nuôi nấng tôi."
+    },
+    {
+      "question_id": 4,
+      "question": "プロサッカーチームの監督かんとくに<u>就任</u>する。",
+      "context": "",
+      "options": [
+        "しょくにん",
+        "しゅくにん",
+        "しゅうにん",
+        "じゅうにん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ しゅうにん.\n\n就任（しゅうにん）: nhậm chức / đảm nhận chức vụ.\n\nCâu: プロサッカーチームの監督に就任する。\nDịch: Nhậm chức huấn luyện viên của đội bóng đá chuyên nghiệp."
+    },
+    {
+      "question_id": 5,
+      "question": "<u>応援</u>が足りない！もっと声出して！",
+      "context": "",
+      "options": [
+        "こうえん",
+        "おうえん",
+        "きゅうえん",
+        "じょえん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② おうえん.\n\n応援（おうえん）: cổ vũ, động viên, tiếp sức.\n\nCâu: 応援が足りない！もっと声出して！\nDịch: Cổ vũ chưa đủ đâu! Hãy hô to lên nữa đi!"
+    },
+    {
+      "question_id": 6,
+      "question": "お世話になった先生の家を<u>訪ねる</u>。",
+      "context": "",
+      "options": [
+        "さがれる",
+        "つかれる",
+        "たずねる",
+        "おとずれる"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ たずねる.\n\n訪ねる（たずねる）: đến thăm (nhà/người ai đó).\n\nLưu ý: 訪れる（おとずれる） dùng cho ghé thăm nơi chốn/địa danh hoặc thời điểm/mùa màng ghé đến.\n\nCâu: お世話になった先生の家を訪ねる。\nDịch: Đến thăm nhà thầy cô giáo đã từng giúp đỡ mình."
+    },
+    {
+      "question_id": 7,
+      "question": "この会社は外国人の<u>雇用</u>が増えている。",
+      "context": "",
+      "options": [
+        "さよう",
+        "さいよう",
+        "こうよう",
+        "こよう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ こよう.\n\n雇用（こよう）: thuê dụng / tuyển dụng lao động.\n\nCâu: この会社は外国人の雇用が増えている。\nDịch: Công ty này việc tuyển dụng người nước ngoài đang gia tăng."
+    },
+    {
+      "question_id": 8,
+      "question": "スポンサーからの広告収入は年間<u>総収入</u>の４０％を占める。",
+      "context": "",
+      "options": [
+        "そうしゅにゅう",
+        "しょうしゅうにゅう",
+        "しょうしゅにゅう",
+        "そうしゅうにゅう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ そうしゅうにゅう.\n\n総収入（そうしゅうにゅう）: tổng thu nhập.\n\nCâu: スポンサーからの広告収入は年間総収入の４０％を占める。\nDịch: Doanh thu quảng cáo từ các nhà tài trợ chiếm 40% tổng thu nhập hàng năm."
+    },
+    {
+      "question_id": 9,
+      "question": "寄付金を<u>募る</u>。",
+      "context": "",
+      "options": [
+        "つのる",
+        "ふれる",
+        "くれる",
+        "はばる"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① つのる.\n\n募る（つのる）: kêu gọi / chiêu mộ / quyên góp.\n\nCâu: 寄付金を募る。\nDịch: Kêu gọi tiền quyên góp / từ thiện."
+    },
+    {
+      "question_id": 10,
+      "question": "多くの応募者から二人を<u>採った</u>。",
+      "context": "",
+      "options": [
+        "とった",
+        "さった",
+        "しった",
+        "ふった"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① とった.\n\n採る（とる）: tuyển chọn / tuyển dụng (người), hái (hoa quả).\n\nCâu: 多くの応募者から二人を採った。\nDịch: Đã tuyển chọn 2 người từ rất nhiều ứng viên."
+    }
+  ]
+}

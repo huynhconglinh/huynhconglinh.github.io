@@ -1,0 +1,153 @@
+{
+  "id": "N2-KJ-D10",
+  "code": "N2-KJ-D10",
+  "title": "Kanji Junbi · Bài tập Ngày 10",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "かなりの<u>重症</u>です。いますぐ入院してください。",
+      "context": "",
+      "options": [
+        "じゅうしょう",
+        "じゅうびょう",
+        "ちょうしょう",
+        "こうびょう"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① じゅうしょう.\n\n重症（じゅうしょう）: bệnh nặng / tình trạng nặng.\n\nCâu: かなりの重症です。いますぐ入院してください。\nDịch: Tình trạng khá nặng. Hãy nhập viện ngay."
+    },
+    {
+      "question_id": 2,
+      "question": "犯人は血まみれの<u>状態</u>で発見された。",
+      "context": "",
+      "options": [
+        "しょうたい",
+        "じょうたい",
+        "きょうたい",
+        "こうたい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② じょうたい.\n\n状態（じょうたい）: trạng thái / tình trạng.\n\nCâu: 犯人は血まみれの状態で発見された。\nDịch: Thủ phạm được phát hiện trong trạng thái đầy máu."
+    },
+    {
+      "question_id": 3,
+      "question": "フェイスブックで<u>近況</u>報告したら５０人からいいねをもらった。",
+      "context": "",
+      "options": [
+        "きんこう",
+        "きんきょ",
+        "きんきょう",
+        "きんごう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ きんきょう.\n\n近況（きんきょう）: tình hình gần đây.\n\nCâu: フェイスブックで近況報告したら５０人からいいねをもらった。\nDịch: Khi đăng cập nhật tình hình gần đây trên Facebook thì được 50 người thích."
+    },
+    {
+      "question_id": 4,
+      "question": "質のいい<u>睡眠</u>を取ることが大切だ。",
+      "context": "",
+      "options": [
+        "すいちょく",
+        "さいみん",
+        "すいみん",
+        "かいみん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ すいみん.\n\n睡眠（すいみん）: giấc ngủ.\n\nCâu: 質のいい睡眠を取ることが大切だ。\nDịch: Việc ngủ ngon / có giấc ngủ chất lượng là điều quan trọng."
+    },
+    {
+      "question_id": 5,
+      "question": "試合中に<u>負傷</u>する。",
+      "context": "",
+      "options": [
+        "ふぞう",
+        "ふしょう",
+        "ぶしょう",
+        "ふきず"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② ふしょう.\n\n負傷（ふしょう）: bị thương.\n\nCâu: 試合中に負傷する。\nDịch: Bị thương trong trận đấu."
+    },
+    {
+      "question_id": 6,
+      "question": "1時間で書類を10枚<u>処理</u>する業務処理。",
+      "context": "",
+      "options": [
+        "しょうり",
+        "しょり",
+        "せいり",
+        "ちょうり"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② しょり.\n\n処理（しょり）: xử lý.\n\nCâu: 1時間で書類を10枚処理する業務処理。\nDịch: Xử lý công việc xử lý 10 tờ tài liệu trong 1 giờ."
+    },
+    {
+      "question_id": 7,
+      "question": "抜歯する、<u>抜群</u>な成績をおさめる。",
+      "context": "",
+      "options": [
+        "ばつぐん",
+        "ばつくん",
+        "はつくん",
+        "はつぐん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ばつぐん.\n\n抜群（ばつぐん）: vượt trội / xuất sắc.\n\nCâu: 抜歯する、抜群な成績をおさめる。\nDịch: (Cùng bộ 抜) nhổ răng; đạt thành tích xuất sắc."
+    },
+    {
+      "question_id": 8,
+      "question": "<u>細菌</u>に感染される。",
+      "context": "",
+      "options": [
+        "さいきん",
+        "さいかん",
+        "ざいきん",
+        "ざいかん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① さいきん.\n\n細菌（さいきん）: vi khuẩn.\n\nCâu: 細菌に感染される。\nDịch: Bị nhiễm vi khuẩn."
+    },
+    {
+      "question_id": 9,
+      "question": "工場を<u>視察</u>する。",
+      "context": "",
+      "options": [
+        "かんさつ",
+        "けいさつ",
+        "きんさつ",
+        "しさつ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ しさつ.\n\n視察（しさつ）: thị sát / đi kiểm tra thực địa.\n\nCâu: 工場を視察する。\nDịch: Thị sát nhà máy."
+    },
+    {
+      "question_id": 10,
+      "question": "歯科と<u>眼科</u>へ行く。",
+      "context": "",
+      "options": [
+        "めがね",
+        "しか",
+        "もっか",
+        "がんか"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ がんか.\n\n眼科（がんか）: khoa mắt.\n\nCâu: 歯科と眼科へ行く。\nDịch: Đi khoa răng và khoa mắt."
+    },
+    {
+      "question_id": 11,
+      "question": "痛っ！とげが<u>刺さった</u>。",
+      "context": "",
+      "options": [
+        "あさった",
+        "きさった",
+        "しさった",
+        "ささった"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ささった.\n\n刺さる（ささる）: bị đâm / bị đâm vào.\n\nCâu: 痛っ！とげが刺さった。\nDịch: Đau quá! Gai đâm vào rồi."
+    }
+  ]
+}

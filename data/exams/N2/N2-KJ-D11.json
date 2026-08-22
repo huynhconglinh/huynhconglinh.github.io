@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D11",
+  "code": "N2-KJ-D11",
+  "title": "Kanji Junbi · Bài tập Ngày 11",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 11.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "<u>化粧</u>をすると別人のようだ。",
+      "context": "",
+      "options": [
+        "けしょう",
+        "かいしょう",
+        "かしょう",
+        "けそう"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① けしょう.\n\n化粧（けしょう）: trang điểm / hóa trang.\n\nCâu: 化粧をすると別人のようだ。\nDịch: Hễ trang điểm là trông như người khác vậy."
+    },
+    {
+      "question_id": 2,
+      "question": "<u>白髪</u>が多い。",
+      "context": "",
+      "options": [
+        "しらが",
+        "しらがみ",
+        "しろがみ",
+        "はっぱつ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① しらが.\n\n白髪（しらが）: tóc bạc.\n\nCâu: 白髪が多い。\nDịch: Có nhiều tóc bạc."
+    },
+    {
+      "question_id": 3,
+      "question": "パーティーは<u>華やか</u>に行われた。",
+      "context": "",
+      "options": [
+        "はなやか",
+        "しとやか",
+        "すみやか",
+        "すこやか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① はなやか.\n\n華やか（はなやか）: lộng lẫy / rực rỡ / hoành tráng.\n\nPhân biệt các tính từ đuôi やか:\n- しとやか（淑やか）: dịu dàng, nết na, thanh lịch.\n- すみやか（速やか）: nhanh chóng, khẩn trương.\n- すこやか（健やか）: khỏe mạnh.\n\nCâu: パーティーは華やかに行われた。\nDịch: Bữa tiệc đã được tổ chức vô cùng rực rỡ, lộng lẫy."
+    },
+    {
+      "question_id": 4,
+      "question": "<u>望遠鏡</u>をのぞく。",
+      "context": "",
+      "options": [
+        "ぼうえんきょう",
+        "ほうえんきょう",
+        "ぼうえんけい",
+        "ほうえんけい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ぼうえんきょう.\n\n望遠鏡（ぼうえんきょう）: kính viễn vọng / kính thiên văn.\n\nCâu: 望遠鏡をのぞく。\nDịch: Nhìn qua kính viễn vọng."
+    },
+    {
+      "question_id": 5,
+      "question": "<u>姿勢</u>が悪いと集中力が下がるらしい。",
+      "context": "",
+      "options": [
+        "しせい",
+        "ていせい",
+        "たいせい",
+        "しぜい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① しせい.\n\n姿勢（しせい）: tư thế, dáng điệu / thái độ.\n\nCâu: 姿勢が悪いと集中力が下がるらしい。\nDịch: Nghe nói nếu ngồi sai tư thế thì khả năng tập trung sẽ bị giảm sút."
+    },
+    {
+      "question_id": 6,
+      "question": "<u>柔軟性</u>を高めるストレッチ方法。",
+      "context": "",
+      "options": [
+        "しゅうにんせい",
+        "じゅうなんせい",
+        "しゅうなんせい",
+        "じゅうにんせい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② じゅうなんせい.\n\n柔軟性（じゅうなんせい）: tính dẻo dai / độ linh hoạt, mềm dẻo.\n\nCâu: 柔軟性を高めるストレッチ方法。\nDịch: Phương pháp giãn cơ nhằm nâng cao độ dẻo dai."
+    },
+    {
+      "question_id": 7,
+      "question": "<u>帽子</u>をかぶる。",
+      "context": "",
+      "options": [
+        "ほうし",
+        "ほうこ",
+        "ぼうし",
+        "ぼうこ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ぼうし.\n\n帽子（ぼうし）: mũ, nón.\n\nCâu: 帽子をかぶる。\nDịch: Đội mũ."
+    },
+    {
+      "question_id": 8,
+      "question": "アップルは<u>革新</u>的な商品を出し続けている。",
+      "context": "",
+      "options": [
+        "かくさい",
+        "がくさい",
+        "がくしん",
+        "かくしん"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ かくしん.\n\n革新（かくしん）: cách tân / đổi mới đột phá.\n\nCâu: アップルは革新的な商品を出し続けている。\nDịch: Apple liên tục tung ra những sản phẩm mang tính đổi mới, đột phá."
+    },
+    {
+      "question_id": 9,
+      "question": "店内を<u>装飾</u>する。",
+      "context": "",
+      "options": [
+        "しょうそく",
+        "そうしょく",
+        "さいしょく",
+        "きょうしょく"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② そうしょく.\n\n装飾（そうしょく）: trang trí / trang hoàng.\n\nCâu: 店内を装飾する。\nDịch: Trang trí bên trong cửa hàng."
+    },
+    {
+      "question_id": 10,
+      "question": "病人を<u>装う</u>。",
+      "context": "",
+      "options": [
+        "おそよう",
+        "よそおう",
+        "もよおう",
+        "ただよう"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② よそおう.\n\n装う（よそおう）: giả vờ, đóng giả / ngụy trang.\n\nPhân biệt:\n- 催す（もよおす / もよおう）: cảm thấy (buồn nôn, buồn ngủ...), tổ chức.\n- 漂う（ただよう）: trôi dạt, thoang thoảng (mùi hương), bao trùm.\n\nCâu: 病人を装う。\nDịch: Giả vờ làm người bệnh (giả ốm)."
+    }
+  ]
+}

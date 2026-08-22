@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T03:36:26Z",
+  "updatedAt": "2026-08-22T06:04:41Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -209,6 +209,96 @@
       "topic": "reading",
       "questionCount": 20,
       "file": "exams/N2/de-thi-jlpt-n2202512-phan-doc-hieu.json"
+    },
+    {
+      "id": "N2-KJ-D09",
+      "code": "N2-KJ-D09",
+      "title": "Kanji Junbi · Bài tập Ngày 9",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 11,
+      "file": "exams/N2/N2-KJ-D09.json"
+    },
+    {
+      "id": "N2-KJ-D10",
+      "code": "N2-KJ-D10",
+      "title": "Kanji Junbi · Bài tập Ngày 10",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 11,
+      "file": "exams/N2/N2-KJ-D10.json"
+    },
+    {
+      "id": "N2-KJ-D11",
+      "code": "N2-KJ-D11",
+      "title": "Kanji Junbi · Bài tập Ngày 11",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 10,
+      "file": "exams/N2/N2-KJ-D11.json"
+    },
+    {
+      "id": "N2-KJ-D12",
+      "code": "N2-KJ-D12",
+      "title": "Kanji Junbi · Bài tập Ngày 12",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 10,
+      "file": "exams/N2/N2-KJ-D12.json"
+    },
+    {
+      "id": "N2-KJ-D13",
+      "code": "N2-KJ-D13",
+      "title": "Kanji Junbi · Bài tập Ngày 13",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 10,
+      "file": "exams/N2/N2-KJ-D13.json"
+    },
+    {
+      "id": "N2-KJ-D14",
+      "code": "N2-KJ-D14",
+      "title": "Kanji Junbi · Bài tập Ngày 14",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 10,
+      "file": "exams/N2/N2-KJ-D14.json"
+    },
+    {
+      "id": "N2-29-MT01",
+      "code": "N2-29-MT01",
+      "title": "N2.29 · Minitest 1",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 30,
+      "file": "exams/N2/N2-29-MT01.json"
+    },
+    {
+      "id": "N2-29-RD01",
+      "code": "N2-29-RD01",
+      "title": "N2.29 · BTUD Đọc hiểu Bài 1",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 5,
+      "file": "exams/N2/N2-29-RD01.json"
+    },
+    {
+      "id": "N2-29-LS01",
+      "code": "N2-29-LS01",
+      "title": "N2.29 · BTUD Nghe hiểu Bài 1 · Mondai 4",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "listening",
+      "questionCount": 5,
+      "file": "exams/N2/N2-29-LS01.json"
     },
     {
       "id": "BJT-01-P1-S3",

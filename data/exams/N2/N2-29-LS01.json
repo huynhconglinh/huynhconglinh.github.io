@@ -1,0 +1,205 @@
+{
+  "id": "N2-29-LS01",
+  "code": "N2-29-LS01",
+  "title": "N2.29 · BTUD Nghe hiểu Bài 1 · Mondai 4",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "listening",
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "1番",
+      "question": "問題4　1番",
+      "context": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_answer": 1,
+      "media": {
+        "audio": "media/N2-29-LS01/q01.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "あの、もう少し音を小さくしていただけると助かるんですが。",
+          "vi": "À, nếu anh/chị chịu nhỏ tiếng giúp một chút thì em cảm ơn ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. あ、すみません。気がつかなくて。",
+          "vi": "1. À, xin lỗi. Em không để ý."
+        },
+        {
+          "role": "narrator",
+          "jp": "2. そうしていただけますか。",
+          "vi": "2. Anh/chị làm giúp điều đó được không?"
+        },
+        {
+          "role": "narrator",
+          "jp": "3. おかげさまで助かりました。",
+          "vi": "3. Nhờ anh/chị mà em đã được giúp rồi."
+        }
+      ],
+      "explanation": "Đáp án đúng: 1.\n\nCâu nói là lời nhờ nhỏ âm lượng. Đáp lại tự nhiên là xin lỗi vì không để ý (rồi sẽ chỉnh). 2 hỏi ngược người kia; 3 cảm ơn việc đã xong, không khớp lời nhờ."
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "2番",
+      "question": "問題4　2番",
+      "context": "",
+      "options": [
+        "１",
+        "２",
+        "３"
+      ],
+      "correct_answer": 2,
+      "media": {
+        "audio": "media/N2-29-LS01/q02.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "さっき見た映画、今一だったね。",
+          "vi": "Bộ phim vừa xem hơi tệ / không ra gì nhỉ."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 最近では一番良かったよね。",
+          "vi": "1. Dạo này thì đây là bộ hay nhất nhỉ."
+        },
+        {
+          "role": "narrator",
+          "jp": "2. ほんと、期待してたのにね。",
+          "vi": "2. Đúng vậy, mình còn kỳ vọng nữa chứ."
+        },
+        {
+          "role": "narrator",
+          "jp": "3. もう一回見たいってこと？",
+          "vi": "3. Ý là muốn xem lại lần nữa à?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2.\n\n今一／いまいち = không hay lắm. Đồng tình: tiếc vì đã kỳ vọng. 1 trái nghĩa; 3 hiểu nhầm thành muốn xem lại."
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "3番",
+      "question": "問題4　3番",
+      "context": "",
+      "options": [
+        "１",
+        "２",
+        "３"
+      ],
+      "correct_answer": 2,
+      "media": {
+        "audio": "media/N2-29-LS01/q03.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "どうもご迷惑をおかけしました。",
+          "vi": "Xin lỗi vì đã gây phiền."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. はい、おかげさまで。",
+          "vi": "1. Vâng, cũng nhờ mọi người mà ổn."
+        },
+        {
+          "role": "narrator",
+          "jp": "2. いいえ、とんでもない。",
+          "vi": "2. Không có gì / đâu có."
+        },
+        {
+          "role": "narrator",
+          "jp": "3. そうですか、よかったですね。",
+          "vi": "3. Vậy à, tốt quá nhỉ."
+        }
+      ],
+      "explanation": "Đáp án đúng: 2.\n\nKhi người kia xin lỗi vì làm phiền, đáp phổ biến là いいえ、とんでもない. 1 dùng khi được hỏi thăm sức khỏe/công việc; 3 khen một tin tốt, không khớp lời xin lỗi."
+    },
+    {
+      "question_id": 4,
+      "type": "listening",
+      "label": "4番",
+      "question": "問題4　4番",
+      "context": "",
+      "options": [
+        "１",
+        "２",
+        "３"
+      ],
+      "correct_answer": 2,
+      "media": {
+        "audio": "media/N2-29-LS01/q04.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "あれ、ここにあったノートパソコン、知らない？",
+          "vi": "Này, laptop để ở đây, cậu có biết không / thấy không?"
+        },
+        {
+          "role": "narrator",
+          "jp": "1. ああ、あれはいいパソコンです。",
+          "vi": "1. À, cái đó là máy tốt đấy."
+        },
+        {
+          "role": "narrator",
+          "jp": "2. あ、会議室で見ましたよ。",
+          "vi": "2. À, mình thấy ở phòng họp rồi."
+        },
+        {
+          "role": "narrator",
+          "jp": "3. 私には難しくて使えません。",
+          "vi": "3. Với mình thì khó quá, dùng không được."
+        }
+      ],
+      "explanation": "Đáp án đúng: 2.\n\n知らない？ hỏi có biết/thấy máy không (đang tìm). Trả lời vị trí: thấy ở phòng họp. 1 khen máy; 3 nói không biết dùng — đều lệch chủ đề."
+    },
+    {
+      "question_id": 5,
+      "type": "listening",
+      "label": "5番",
+      "question": "問題4　5番",
+      "context": "",
+      "options": [
+        "１",
+        "２",
+        "３"
+      ],
+      "correct_answer": 3,
+      "media": {
+        "audio": "media/N2-29-LS01/q05.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "高木さん。今度のスピーチ大会、学校の代表に選ばれたからには頑張ってくださいね。",
+          "vi": "Takagi, cuộc thi diễn thuyết lần này đã được chọn làm đại diện trường rồi thì hãy cố lên nhé."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 次は選ばれるように頑張ります。",
+          "vi": "1. Lần sau em sẽ cố để được chọn."
+        },
+        {
+          "role": "narrator",
+          "jp": "2. 選ばれるかどうかわかりませんが。",
+          "vi": "2. Không biết có được chọn hay không nữa."
+        },
+        {
+          "role": "narrator",
+          "jp": "3. 精一杯やろうと思います。",
+          "vi": "3. Em sẽ cố hết sức."
+        }
+      ],
+      "explanation": "Đáp án đúng: 3.\n\n選ばれたからには = đã được chọn rồi thì… Lời động viên 頑張ってください → đáp 精一杯やろうと思います. 1 và 2 nói như chưa được chọn."
+    }
+  ]
+}

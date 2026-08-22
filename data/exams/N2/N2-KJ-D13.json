@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D13",
+  "code": "N2-KJ-D13",
+  "title": "Kanji Junbi · Bài tập Ngày 13",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 13.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "新しい<u>企画</u>を立てる。",
+      "context": "",
+      "options": [
+        "けいかく",
+        "きかく",
+        "きがく",
+        "けいがく"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② きかく.\n\n企画（きかく）: kế hoạch / dự án / quy hoạch phát triển mới.\n\nPhân biệt: 計画（けいかく - Kế Họa).\n\nCâu: 新しい企画を立てる。\nDịch: Lập dự án / kế hoạch mới."
+    },
+    {
+      "question_id": 2,
+      "question": "この国の経済は石油の輸出に大きく<u>依存</u>している。",
+      "context": "",
+      "options": [
+        "いしょん",
+        "いぞん",
+        "いけい",
+        "いらい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② いぞん.\n\n依存（いぞん / いそん）: phụ thuộc / dựa dẫm vào.\n\nPhân biệt: 依頼（いらい - ỷ lại / yêu cầu, nhờ vả).\n\nCâu: この国の経済は石油の輸出に大きく依存している。\nDịch: Nền kinh tế nước này phụ thuộc rất lớn vào xuất khẩu dầu mỏ."
+    },
+    {
+      "question_id": 3,
+      "question": "先輩、本当に<u>頼り</u>になります。",
+      "context": "",
+      "options": [
+        "ふより",
+        "もより",
+        "たより",
+        "しより"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ たより.\n\n頼り（たより）: sự trông cậy, chỗ dựa. Cụm 「頼りになる」: đáng tin cậy.\n\nCâu: 先輩、本当に頼りになります。\nDịch: Tiền bối thật sự rất đáng tin cậy."
+    },
+    {
+      "question_id": 4,
+      "question": "仕事環境を<u>改善</u>する。",
+      "context": "",
+      "options": [
+        "かいしょう",
+        "かいせん",
+        "かいぜん",
+        "かいさん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かいぜん.\n\n改善（かいぜん）: cải thiện.\n\nPhân biệt: 解消（かいしょう - giải tỏa/hủy bỏ), 解散（かいさん - giải tán).\n\nCâu: 仕事環境を改善する。\nDịch: Cải thiện môi trường làm việc."
+    },
+    {
+      "question_id": 5,
+      "question": "この製品、海外の方から<u>評判</u>がいいです。",
+      "context": "",
+      "options": [
+        "ひょうばん",
+        "ひょうはん",
+        "ひょうか",
+        "ひょうげん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ひょうばん.\n\n評判（ひょうばん）: đánh giá / danh tiếng. Cụm 「評判がいい」: được đánh giá tốt / tiếng lành đồn xa.\n\nPhân biệt: 評価（ひょうか - đánh giá/định giá), 表現（ひょうげん - biểu hiện/diễn đạt).\n\nCâu: この製品、海外の方から評判がいいです。\nDịch: Sản phẩm này được khách hàng nước ngoài đánh giá rất tốt."
+    },
+    {
+      "question_id": 6,
+      "question": "被害の<u>金額</u>は2000万円にのぼる。",
+      "context": "",
+      "options": [
+        "きんがく",
+        "きんかく",
+        "けいかく",
+        "かんかく"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① きんがく.\n\n金額（きんがく）: số tiền / kim ngạch.\n\nCụm: 「〜にのぼる（上る）」: lên tới con số...\n\nCâu: 被害の金額は2000万円にのぼる。\nDịch: Số tiền thiệt hại lên tới 20 triệu yên."
+    },
+    {
+      "question_id": 7,
+      "question": "東京の<u>夜景</u>はとても綺麗きれいだ。",
+      "context": "",
+      "options": [
+        "ふうけい",
+        "よけい",
+        "やけい",
+        "しけい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ やけい.\n\n夜景（やけい）: cảnh đêm.\n\nPhân biệt: 風景（ふうけい - phong cảnh), 余計（よけい - dư thừa).\n\nCâu: 東京の夜景はとても綺麗だ。\nDịch: Cảnh đêm Tokyo rất đẹp."
+    },
+    {
+      "question_id": 8,
+      "question": "会議用の<u>資料</u>が足りないのであと３枚印刷してください。",
+      "context": "",
+      "options": [
+        "こりょう",
+        "ふりょう",
+        "ざいりょう",
+        "しりょう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ しりょう.\n\n資料（しりょう）: tài liệu / tư liệu.\n\nPhân biệt: 材料（ざいりょう - nguyên vật liệu), 不良（ふりょう - bất lương/hỏng).\n\nCâu: 会議用の資料が足りないのであと３枚印刷してください。\nDịch: Tài liệu dùng cho cuộc họp bị thiếu nên xin hãy in thêm 3 tờ nữa."
+    },
+    {
+      "question_id": 9,
+      "question": "彼は経営者として優れた<u>資質</u>を持っている。",
+      "context": "",
+      "options": [
+        "せひつ",
+        "せしつ",
+        "そしつ",
+        "ししつ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ししつ.\n\n資質（ししつ）: tư chất / tố chất / năng khiếu bẩm sinh.\n\nPhân biệt: 素質（そしつ - tố chất).\n\nCâu: 彼は経営者として優れた資質を持っている。\nDịch: Anh ấy sở hữu tư chất xuất sắc của một nhà kinh doanh."
+    },
+    {
+      "question_id": 10,
+      "question": "A社の<u>株</u>を1000株買う。",
+      "context": "",
+      "options": [
+        "しゅ",
+        "かぶ",
+        "けん",
+        "さい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② かぶ.\n\n株（かぶ）: cổ phiếu (ngoài ra còn có nghĩa là gốc cây).\n\nCâu: A社の株を1000株買う。\nDịch: Mua 1000 cổ phiếu của công ty A."
+    }
+  ]
+}

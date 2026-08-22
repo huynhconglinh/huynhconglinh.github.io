@@ -1,0 +1,400 @@
+{
+  "id": "N2-29-MT01",
+  "code": "N2-29-MT01",
+  "title": "N2.29 · Minitest 1",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "ストレスを<u>発散</u>する。",
+      "context": "",
+      "options": [
+        "ほっさん",
+        "はっさん",
+        "はったん",
+        "ほったん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② はっさん.\n\n発散（はっさん）: giải tỏa / phát tán.\n\nCâu: ストレスを発散する。\nDịch: Giải tỏa stress."
+    },
+    {
+      "question_id": 2,
+      "question": "木が<u>枯れて</u>しまった。",
+      "context": "",
+      "options": [
+        "きれて",
+        "くれて",
+        "うれて",
+        "かれて"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ かれて.\n\n枯れる（かれる）: héo / khô chết (cây).\n\nCâu: 木が枯れてしまった。\nDịch: Cây đã khô héo rồi."
+    },
+    {
+      "question_id": 3,
+      "question": "写真を<u>飾る</u>。",
+      "context": "",
+      "options": [
+        "かさる",
+        "きざる",
+        "かざる",
+        "いざる"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かざる.\n\n飾る（かざる）: trang trí / bày.\n\nCâu: 写真を飾る。\nDịch: Treo/bày ảnh."
+    },
+    {
+      "question_id": 4,
+      "question": "<u>紫外線</u>対策のためにUVクリームを塗る。",
+      "context": "",
+      "options": [
+        "しがいせん",
+        "じがいせん",
+        "せがいせん",
+        "せかいせん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① しがいせん.\n\n紫外線（しがいせん）: tia cực tím.\n\nCâu: 紫外線対策のためにUVクリームを塗る。\nDịch: Thoa kem chống nắng để phòng tia cực tím."
+    },
+    {
+      "question_id": 5,
+      "question": "<u>灰色</u>のウサギが地面から跳ねる。",
+      "context": "",
+      "options": [
+        "ちゃいろ",
+        "たんいろ",
+        "はいいろ",
+        "べにいろ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ はいいろ.\n\n灰色（はいいろ）: màu xám.\n\nCâu: 灰色のウサギが地面から跳ねる。\nDịch: Con thỏ xám nhảy lên từ mặt đất."
+    },
+    {
+      "question_id": 6,
+      "question": "この計画は<u>穴</u>だらけだ。",
+      "context": "",
+      "options": [
+        "おんな",
+        "あな",
+        "あんな",
+        "おな"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② あな.\n\n穴（あな）: lỗ / lỗ hổng.\n\nCâu: この計画は穴だらけだ。\nDịch: Kế hoạch này đầy lỗ hổng."
+    },
+    {
+      "question_id": 7,
+      "question": "全国の<u>河川</u>を調べる。",
+      "context": "",
+      "options": [
+        "かわがわ",
+        "かせん",
+        "かぜん",
+        "かわせん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② かせん.\n\n河川（かせん）: sông ngòi.\n\nCâu: 全国の河川を調べる。\nDịch: Điều tra sông ngòi trên toàn quốc."
+    },
+    {
+      "question_id": 8,
+      "question": "<u>震源地</u>はここから30km離れたところだ。",
+      "context": "",
+      "options": [
+        "しんげんち",
+        "じんけんち",
+        "じんけんぢ",
+        "じんげんち"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① しんげんち.\n\n震源地（しんげんち）: tâm chấn.\n\nCâu: 震源地はここから30km離れたところだ。\nDịch: Tâm chấn cách đây 30km."
+    },
+    {
+      "question_id": 9,
+      "question": "日本語から<u>解放</u>された！",
+      "context": "",
+      "options": [
+        "かいぼう",
+        "かいとう",
+        "かいほう",
+        "かいそう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かいほう.\n\n解放（かいほう）: giải phóng / được thoát khỏi.\n\nCâu: 日本語から解放された！\nDịch: Cuối cùng cũng thoát khỏi tiếng Nhật!"
+    },
+    {
+      "question_id": 10,
+      "question": "鳥が<u>巣</u>から離れる。",
+      "context": "",
+      "options": [
+        "そう",
+        "あな",
+        "す",
+        "そ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ す.\n\n巣（す）: tổ (chim).\n\nCâu: 鳥が巣から離れる。\nDịch: Chim rời khỏi tổ."
+    },
+    {
+      "question_id": 11,
+      "question": "いつか世界<u>一周</u>してみたい。",
+      "context": "",
+      "options": [
+        "いちまわり",
+        "いっしゅ",
+        "いっしゅう",
+        "いちしゅ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ いっしゅう.\n\n一周（いっしゅう）: một vòng quanh.\n\nCâu: いつか世界一周してみたい。\nDịch: Có ngày muốn đi vòng quanh thế giới."
+    },
+    {
+      "question_id": 12,
+      "question": "女性に<u>囲まれて</u>動けないぐらいだ。",
+      "context": "",
+      "options": [
+        "ふこまれて",
+        "ふくまれて",
+        "かこまれて",
+        "かくまれて"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かこまれて.\n\n囲む（かこむ）: bao quanh.\n\nCâu: 女性に囲まれて動けないぐらいだ。\nDịch: Bị phụ nữ bao quanh đến mức không cử động nổi."
+    },
+    {
+      "question_id": 13,
+      "question": "<u>お互い</u>の意見を尊重する。",
+      "context": "",
+      "options": [
+        "おちがい",
+        "おたがい",
+        "おしがい",
+        "おだかい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② おたがい.\n\nお互い（おたがい）: lẫn nhau / hai bên.\n\nCâu: お互いの意見を尊重する。\nDịch: Tôn trọng ý kiến của nhau."
+    },
+    {
+      "question_id": 14,
+      "question": "え〜ここで会うとは、<u>偶然</u>ですね。",
+      "context": "",
+      "options": [
+        "くうぜん",
+        "ぐうぜん",
+        "ぐうせん",
+        "くうせん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② ぐうぜん.\n\n偶然（ぐうぜん）: tình cờ.\n\nCâu: え〜ここで会うとは、偶然ですね。\nDịch: Ồ, gặp nhau ở đây thật tình cờ nhỉ."
+    },
+    {
+      "question_id": 15,
+      "question": "<u>官僚</u>は国の政策を作る人である。",
+      "context": "",
+      "options": [
+        "かんりょ",
+        "どうりょう",
+        "どうりょ",
+        "かんりょう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ かんりょう.\n\n官僚（かんりょう）: quan chức / bộ máy quan lại.\n\nCâu: 官僚は国の政策を作る人である。\nDịch: Quan chức là người xây dựng chính sách quốc gia."
+    },
+    {
+      "question_id": 16,
+      "question": "彼のパンツを<u>たたみ</u>ながら、ため息をついた。",
+      "context": "",
+      "options": [
+        "畳み",
+        "畠",
+        "畔",
+        "畜"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 畳み.\n\n畳む（たたむ）: gấp (quần áo…).\n\nCâu: 彼のパンツをたたみながら、ため息をついた。\nDịch: Vừa gấp quần của anh ấy vừa thở dài."
+    },
+    {
+      "question_id": 17,
+      "question": "居酒屋はコロナの<u>おんしょう</u>だ。",
+      "context": "",
+      "options": [
+        "温席",
+        "温床",
+        "湿床",
+        "混床"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 温床.\n\n温床（おんしょう）: nơi nuôi dưỡng / cái nôi (thường nghĩa xấu hoặc ẩn dụ).\n\nCâu: 居酒屋はコロナの温床だ。\nDịch: Quán izakaya là ổ / nơi dễ lây COVID."
+    },
+    {
+      "question_id": 18,
+      "question": "<u>ろうか</u>を走ってはいけません。",
+      "context": "",
+      "options": [
+        "廊本",
+        "郎下",
+        "廊下",
+        "廊戸"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 廊下.\n\n廊下（ろうか）: hành lang.\n\nCâu: ろうかを走ってはいけません。\nDịch: Không được chạy trên hành lang."
+    },
+    {
+      "question_id": 19,
+      "question": "<u>しききん</u>を払う。",
+      "context": "",
+      "options": [
+        "数金",
+        "教金",
+        "敷全",
+        "敷金"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 敷金.\n\n敷金（しききん）: tiền đặt cọc thuê nhà.\n\nCâu: しききんを払う。\nDịch: Trả tiền đặt cọc."
+    },
+    {
+      "question_id": 20,
+      "question": "立ち入り禁止<u>くいき</u>。",
+      "context": "",
+      "options": [
+        "区域",
+        "区城",
+        "医域",
+        "区城"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 区域.\n\n区域（くいき）: khu vực.\n\nCâu: 立ち入り禁止くいき。\nDịch: Khu vực cấm vào."
+    },
+    {
+      "question_id": 21,
+      "question": "価格に税金が<u>ふくまれる</u>。",
+      "context": "",
+      "options": [
+        "合まれる",
+        "含まれる",
+        "今まれる",
+        "舎まれる"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 含まれる.\n\n含まれる（ふくまれる）: được bao gồm.\n\nCâu: 価格に税金がふくまれる。\nDịch: Giá đã bao gồm thuế."
+    },
+    {
+      "question_id": 22,
+      "question": "アイスがすぐ<u>とけた</u>。",
+      "context": "",
+      "options": [
+        "浴けた",
+        "容けた",
+        "溶けた",
+        "熔けた"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 溶けた.\n\n溶ける（とける）: tan chảy.\n\nCâu: アイスがすぐとけた。\nDịch: Kem tan ngay."
+    },
+    {
+      "question_id": 23,
+      "question": "この店はいつ来ても<u>はんじょう</u>している。",
+      "context": "",
+      "options": [
+        "繁城",
+        "緊盛",
+        "繁成",
+        "繁盛"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 繁盛.\n\n繁盛（はんじょう）: đông khách / làm ăn phát đạt.\n\nCâu: この店はいつ来てもはんじょうしている。\nDịch: Quán này lúc nào đến cũng đông khách."
+    },
+    {
+      "question_id": 24,
+      "question": "鼻が<u>つまる</u>。",
+      "context": "",
+      "options": [
+        "詰まる",
+        "話まる",
+        "結まる",
+        "語まる"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 詰まる.\n\n詰まる（つまる）: bị tắc.\n\nCâu: 鼻がつまる。\nDịch: Nghẹt mũi."
+    },
+    {
+      "question_id": 25,
+      "question": "<u>かじゅう</u>100％のオレンジジュース。",
+      "context": "",
+      "options": [
+        "果計",
+        "果汁",
+        "呆汁",
+        "果汗"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 果汁.\n\n果汁（かじゅう）: nước ép trái cây.\n\nCâu: かじゅう100％のオレンジジュース。\nDịch: Nước cam 100% nước quả."
+    },
+    {
+      "question_id": 26,
+      "question": "文化祭と体育祭が<u>へいこう</u>して開催される。",
+      "context": "",
+      "options": [
+        "竝行",
+        "並衍",
+        "並行",
+        "前行"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 並行.\n\n並行（へいこう）: song song / diễn ra đồng thời.\n\nCâu: 文化祭と体育祭がへいこうして開催される。\nDịch: Lễ hội văn hóa và thể thao được tổ chức song song."
+    },
+    {
+      "question_id": 27,
+      "question": "海外へ<u>きょじゅう</u>する。",
+      "context": "",
+      "options": [
+        "届住",
+        "居往",
+        "居注",
+        "居住"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 居住.\n\n居住（きょじゅう）: cư trú / sinh sống.\n\nCâu: 海外へきょじゅうする。\nDịch: Cư trú ở nước ngoài."
+    },
+    {
+      "question_id": 28,
+      "question": "神社で心を<u>きよめる</u>。",
+      "context": "",
+      "options": [
+        "清める",
+        "晴める",
+        "情める",
+        "済める"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 清める.\n\n清める（きよめる）: thanh tẩy / làm trong sạch.\n\nCâu: 神社で心をきよめる。\nDịch: Thanh lọc tâm hồn tại đền thờ."
+    },
+    {
+      "question_id": 29,
+      "question": "田舎での<u>くらし</u>も悪くない。",
+      "context": "",
+      "options": [
+        "幕らし",
+        "暮らし",
+        "募らし",
+        "墓らし"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 暮らし.\n\n暮らし（くらし）: cuộc sống / sinh hoạt.\n\nCâu: 田舎でのくらしも悪くない。\nDịch: Cuộc sống ở nông thôn cũng không tệ."
+    },
+    {
+      "question_id": 30,
+      "question": "<u>あてな</u>を書く。",
+      "context": "",
+      "options": [
+        "苑名",
+        "腕名",
+        "宛名",
+        "完名"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 宛名.\n\n宛名（あてな）: tên người nhận (trên thư/bưu phẩm).\n\nCâu: あてなを書く。\nDịch: Viết tên người nhận."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "N2-KJ-D09",
+  "code": "N2-KJ-D09",
+  "title": "Kanji Junbi · Bài tập Ngày 9",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "朝から<u>胸騒ぎ</u>がする。嫌なことが起きなかったらいいけど。",
+      "context": "",
+      "options": [
+        "むなさわぎ",
+        "むねさわぎ",
+        "きょうそうぎ",
+        "きょうしょうぎ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① むなさわぎ.\n\n胸騒ぎ（むなさわぎ）: cảm giác bất an / linh tính xấu trong lòng.\n\nCâu: 朝から胸騒ぎがする。嫌なことが起きなかったらいいけど。\nDịch: Từ sáng đã thấy bồn chồn trong lòng. Mong là không có chuyện xấu xảy ra."
+    },
+    {
+      "question_id": 2,
+      "question": "足を<u>骨折</u>する。",
+      "context": "",
+      "options": [
+        "こくせう",
+        "こっせつ",
+        "こつせつ",
+        "こうせつ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② こっせつ.\n\n骨折（こっせつ）: gãy xương.\n\nCâu: 足を骨折する。\nDịch: Bị gãy chân."
+    },
+    {
+      "question_id": 3,
+      "question": "<u>肩書</u>だけで人を判断するのはよくない。",
+      "context": "",
+      "options": [
+        "けんしょ",
+        "かたがき",
+        "かんしょ",
+        "かたかき"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② かたがき.\n\n肩書（かたがき）: chức danh / danh vị.\n\nCâu: 肩書だけで人を判断するのはよくない。\nDịch: Chỉ nhìn chức danh để đánh giá người là không tốt."
+    },
+    {
+      "question_id": 4,
+      "question": "海を<u>背景</u>にして写真を撮った。",
+      "context": "",
+      "options": [
+        "せしき",
+        "はいけい",
+        "へいかい",
+        "かいけい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② はいけい.\n\n背景（はいけい）: nền / bối cảnh.\n\nCâu: 海を背景にして写真を撮った。\nDịch: Tôi đã chụp ảnh với biển làm nền."
+    },
+    {
+      "question_id": 5,
+      "question": "<u>心臓</u>がいたい。",
+      "context": "",
+      "options": [
+        "しんしょう",
+        "しんそう",
+        "しんぞう",
+        "しんぞ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ しんぞう.\n\n心臓（しんぞう）: tim.\n\nCâu: 心臓がいたい。\nDịch: Tim đau."
+    },
+    {
+      "question_id": 6,
+      "question": "<u>胃痛</u>がひどい。",
+      "context": "",
+      "options": [
+        "はいつう",
+        "ようつう",
+        "いつう",
+        "けんつう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ いつう.\n\n胃痛（いつう）: đau dạ dày.\n\nCâu: 胃痛がひどい。\nDịch: Đau dạ dày dữ dội."
+    },
+    {
+      "question_id": 7,
+      "question": "<u>臓器</u>移植をする。",
+      "context": "",
+      "options": [
+        "そうき",
+        "しょうき",
+        "ぞうき",
+        "ぞき"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ぞうき.\n\n臓器（ぞうき）: nội tạng.\n\nCâu: 臓器移植をする。\nDịch: Tiến hành ghép nội tạng."
+    },
+    {
+      "question_id": 8,
+      "question": "<u>健康診断</u>を受ける。",
+      "context": "",
+      "options": [
+        "けんこうしんだん",
+        "けんこうじんたん",
+        "けんこうしんたん",
+        "けんこうじんだん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① けんこうしんだん.\n\n健康診断（けんこうしんだん）: khám sức khỏe định kỳ.\n\nCâu: 健康診断を受ける。\nDịch: Đi khám sức khỏe."
+    },
+    {
+      "question_id": 9,
+      "question": "病院でお医者さんに<u>診て</u>もらう。",
+      "context": "",
+      "options": [
+        "さて",
+        "かいて",
+        "うて",
+        "みて"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ みて.\n\n診る（みる）: khám bệnh (bác sĩ khám).\n\nCâu: 病院でお医者さんに診てもらう。\nDịch: Nhờ bác sĩ khám ở bệnh viện."
+    },
+    {
+      "question_id": 10,
+      "question": "自分と<u>異なる</u>考え方を受け入れる。",
+      "context": "",
+      "options": [
+        "いなる",
+        "くだなる",
+        "ふくなる",
+        "ことなる"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ことなる.\n\n異なる（ことなる）: khác / khác biệt.\n\nCâu: 自分と異なる考え方を受け入れる。\nDịch: Chấp nhận cách nghĩ khác với mình."
+    },
+    {
+      "question_id": 11,
+      "question": "母の身元に<u>異変</u>が起きたのではないかと心配した。",
+      "context": "",
+      "options": [
+        "いへん",
+        "いべん",
+        "ぎへん",
+        "ぎべん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① いへん.\n\n異変（いへん）: sự bất thường / biến cố bất thường.\n\nCâu: 母の身元に異変が起きたのではないかと心配した。\nDịch: Tôi lo rằng có lẽ đã xảy ra chuyện bất thường liên quan đến thân phận mẹ."
+    }
+  ]
+}

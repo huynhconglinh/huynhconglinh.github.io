@@ -123,6 +123,11 @@
     );
   }
 
+  function hasOfficialKey(q) {
+    const n = Number(q && q.correct_answer);
+    return Number.isInteger(n) && n >= 1;
+  }
+
   function stopSpeech() {
     listeningSpeakToken += 1;
     if ("speechSynthesis" in window) window.speechSynthesis.cancel();
@@ -480,7 +485,9 @@
       for (const q of cached.questions) {
         const key = String(q.question_id);
         if (answerMap[key] === undefined) continue;
-        if (Number(answerMap[key]) === Number(q.correct_answer)) correct += 1;
+        if (hasOfficialKey(q) && Number(answerMap[key]) === Number(q.correct_answer)) {
+          correct += 1;
+        }
       }
     } else {
       // Dashboard: store isCorrect flags if present; else we need sidecar.
@@ -698,7 +705,9 @@
     for (const q of activeExam.questions) {
       const key = String(q.question_id);
       if (answers[key] === undefined) continue;
-      correctFlags[key] = Number(answers[key]) === Number(q.correct_answer);
+      correctFlags[key] = hasOfficialKey(q)
+        ? Number(answers[key]) === Number(q.correct_answer)
+        : false;
     }
     setExamProgress(activeExam.id, {
       currentQuestionIndex: currentIndex,
@@ -716,7 +725,9 @@
       const key = String(q.question_id);
       if (answers[key] === undefined) continue;
       answered += 1;
-      if (Number(answers[key]) === Number(q.correct_answer)) correct += 1;
+      if (hasOfficialKey(q) && Number(answers[key]) === Number(q.correct_answer)) {
+        correct += 1;
+      }
     }
     return { total, answered, correct };
   }
@@ -748,11 +759,14 @@
       btn.dataset.index = String(idx);
       const key = String(q.question_id);
       if (answers[key] !== undefined) {
-        btn.classList.add(
-          Number(answers[key]) === Number(q.correct_answer)
-            ? "correct"
-            : "incorrect"
-        );
+        if (!hasOfficialKey(q)) btn.classList.add("picked");
+        else {
+          btn.classList.add(
+            Number(answers[key]) === Number(q.correct_answer)
+              ? "correct"
+              : "incorrect"
+          );
+        }
       }
       if (idx === currentIndex) btn.classList.add("current");
       btn.addEventListener("click", () => {
@@ -827,7 +841,7 @@
               mediaAudio ||
               `<button type="button" class="btn btn-primary" id="btn-play-listening">▶ Phát hội thoại</button>`
             }
-            <span class="listening-hint">Nghe rồi chọn đáp án. Transcript hiện sau khi trả lời.</span>
+            <span class="listening-hint">Nghe rồi chọn đáp án.</span>
           </div>
         </div>`;
     }
@@ -837,7 +851,9 @@
         const num = i + 1;
         let cls = "option";
         if (hasAnswer) {
-          if (num === Number(q.correct_answer)) cls += " correct";
+          if (!hasOfficialKey(q)) {
+            cls += num === Number(selected) ? " picked" : " dim";
+          } else if (num === Number(q.correct_answer)) cls += " correct";
           else if (num === Number(selected)) cls += " incorrect";
           else cls += " dim";
         }
@@ -872,7 +888,9 @@
         ${listeningHtml}
         <div class="q-text">${q.question}</div>
         <div class="options" id="options">${optionsHtml}</div>
-        <div class="explain ${hasAnswer ? "show" : ""}" id="explain">
+        ${
+          String(q.explanation || "").trim()
+            ? `<div class="explain ${hasAnswer ? "show" : ""}" id="explain">
           <div class="explain-head">
             <h4>Giải thích</h4>
             ${
@@ -881,10 +899,10 @@
                 : ""
             }
           </div>
-          <div class="explain-body">${
-            q.explanation || "Chưa có giải thích."
-          }</div>
-        </div>
+          <div class="explain-body">${q.explanation}</div>
+        </div>`
+            : ""
+        }
         ${transcriptHtml}
       </div>
       <div class="quiz-nav">
