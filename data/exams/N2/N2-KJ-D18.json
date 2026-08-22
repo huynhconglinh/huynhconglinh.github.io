@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D18",
+  "code": "N2-KJ-D18",
+  "title": "Kanji Junbi · Bài tập Ngày 18",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 18.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "久しぶりの<u>快晴</u>で、洗濯物がよく乾く。",
+      "context": "",
+      "options": [
+        "かいせい",
+        "かいじょう",
+        "けいせい",
+        "けいじょう"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① かいせい.\n\n快晴（かいせい）: trời nắng đẹp, không gợn mây / thời tiết quang đãng.\n\nCâu: 久しぶりの快晴で、洗濯物がよく乾く。\nDịch: Đã lâu lắm rồi mới có ngày nắng đẹp thế này, quần áo phơi rất mau khô."
+    },
+    {
+      "question_id": 2,
+      "question": "彼は<u>甘い</u>ものに目がない。",
+      "context": "",
+      "options": [
+        "うまい",
+        "あまい",
+        "わるい",
+        "くらい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② あまい.\n\n甘い（あまい）: ngọt. Cụm 「〜に目がない」: cực kỳ mê / thích mê mẩn.\n\nCâu: 彼は甘いものに目がない。\nDịch: Anh ấy cực kỳ mê đồ ngọt."
+    },
+    {
+      "question_id": 3,
+      "question": "コーヒーをお湯で<u>薄めて</u>飲む。",
+      "context": "",
+      "options": [
+        "はかめて",
+        "ふかめて",
+        "うすめて",
+        "こらめて"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ うすめて.\n\n薄める（うすめる）: pha loãng / làm nhạt đi (nước, dung dịch).\n\nPhân biệt: 深める（ふかめる - làm sâu sắc thêm).\n\nCâu: コーヒーをお湯で薄めて飲む。\nDịch: Pha loãng cà phê bằng nước nóng rồi uống."
+    },
+    {
+      "question_id": 4,
+      "question": "ベトナムも、昔は<u>硬貨</u>をつかっていた。",
+      "context": "",
+      "options": [
+        "けいか",
+        "きか",
+        "かいか",
+        "こうか"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ こうか.\n\n硬貨（こうか）: tiền xu / tiền kim loại.\n\nPhân biệt: 紙幣（しへい - tiền giấy).\n\nCâu: ベトナムも、昔は硬貨をつかっていた。\nDịch: Ở Việt Nam ngày xưa cũng từng sử dụng tiền xu."
+    },
+    {
+      "question_id": 5,
+      "question": "疲れているのか、彼はいつもより動きが<u>鈍い</u>。",
+      "context": "",
+      "options": [
+        "こころよい",
+        "あまい",
+        "にぶい",
+        "うすい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ にぶい.\n\n鈍い（にぶい）: chậm chạp / cùn / lờ đờ.\n\nPhân biệt: 快い（こころよい - dễ chịu), 鋭い（するどい - sắc bén).\n\nCâu: 疲れているのか、彼はいつもより動きが鈍い。\nDịch: Có lẽ vì mệt nên cử động của anh ấy chậm chạp hơn mọi khi."
+    },
+    {
+      "question_id": 6,
+      "question": "あの人は機械に<u>詳しい</u>。",
+      "context": "",
+      "options": [
+        "かわしい",
+        "いわしい",
+        "けわしい",
+        "くわしい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ くわしい.\n\n詳しい（くわしい）: tường tận / am hiểu / chi tiết. Cụm 「〜に詳しい」: am hiểu về...\n\nPhân biệt: 険しい（けわしい - hiểm trở/gay gắt).\n\nCâu: あの人は機械に詳しい。\nDịch: Người đó rất am hiểu về máy móc."
+    },
+    {
+      "question_id": 7,
+      "question": "震災に備えて、<u>簡易</u>トイレを用意している。",
+      "context": "",
+      "options": [
+        "かんたん",
+        "かんえき",
+        "かんい",
+        "かんけい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かんい.\n\n簡易（かんい）: giản tiện / đơn giản tiện dụng. Cụm 「簡易トイレ」: nhà vệ sinh di động khẩn cấp.\n\nCâu: 震災に備えて、簡易トイレを用意している。\nDịch: Chuẩn bị sẵn nhà vệ sinh di động giản tiện để phòng khi xảy ra thảm họa động đất."
+    },
+    {
+      "question_id": 8,
+      "question": "会議の内容を<u>簡潔</u>に伝える。",
+      "context": "",
+      "options": [
+        "かんたん",
+        "かんきつ",
+        "かんけつ",
+        "かんえき"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ かんけつ.\n\n簡潔（かんけつ）: ngắn gọn / súc tích / cô đọng.\n\nCâu: 会議の内容を簡潔に伝える。\nDịch: Truyền đạt nội dung cuộc họp một cách ngắn gọn, súc tích."
+    },
+    {
+      "question_id": 9,
+      "question": "<u>勇気</u>を出して告白する。",
+      "context": "",
+      "options": [
+        "ようき",
+        "ゆかん",
+        "ゆうき",
+        "よかん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ゆうき.\n\n勇気（ゆうき）: lòng dũng cảm / dũng khí. Cụm 「勇気を出す」: lấy hết can đảm.\n\nPhân biệt: 陽気（ようき - vui vẻ/tiết trời), 予感（よかん - linh cảm).\n\nCâu: 勇気を出して告白する。\nDịch: Lấy hết can đảm để tỏ tình."
+    },
+    {
+      "question_id": 10,
+      "question": "世界三大<u>珍味</u>を食べる。",
+      "context": "",
+      "options": [
+        "ちんぴ",
+        "ちんみ",
+        "しんみ",
+        "しんび"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② ちんみ.\n\n珍味（ちんみ）: cao lương mỹ vị / món ăn ngon quý hiếm.\n\nCâu: 世界三大珍味を食べる。\nDịch: Thưởng thức ba món sơn hào hải vị trứ danh hàng đầu thế giới."
+    }
+  ]
+}

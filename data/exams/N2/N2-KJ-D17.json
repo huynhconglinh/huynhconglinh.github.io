@@ -1,0 +1,141 @@
+{
+  "id": "N2-KJ-D17",
+  "code": "N2-KJ-D17",
+  "title": "Kanji Junbi · Bài tập Ngày 17",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/Bài tập Kanji Ngày 17.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "たんすの<u>幅</u>を測る。",
+      "context": "",
+      "options": [
+        "ふ",
+        "ふく",
+        "ほぼ",
+        "はば"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ はば.\n\n幅（はば）: chiều rộng / bề ngang / phạm vi.\n\nCâu: たんすの幅を測る。\nDịch: Đo chiều rộng của cái tủ ngăn kéo."
+    },
+    {
+      "question_id": 2,
+      "question": "大手企業の裏事情を書いた本を<u>出版する</u>。",
+      "context": "",
+      "options": [
+        "しゅっばんする",
+        "しゅつはんする",
+        "しゅっぱんする",
+        "しゅうはんする"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ しゅっぱんする.\n\n出版（しゅっぱん）: xuất bản (sách, báo).\n\nCâu: 大手企業の裏事情を書いた本を出版する。\nDịch: Xuất bản cuốn sách viết về những uẩn khúc / chuyện hậu trường của các doanh nghiệp lớn."
+    },
+    {
+      "question_id": 3,
+      "question": "新しい名刺を<u>刷る</u>。",
+      "context": "",
+      "options": [
+        "する",
+        "しる",
+        "ふる",
+        "うる"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① する.\n\n刷る（する）: in ấn (danh thiếp, sách, báo). Âm On: 印刷（いんさつ).\n\nCâu: 新しい名刺を刷る。\nDịch: In danh thiếp mới."
+    },
+    {
+      "question_id": 4,
+      "question": "飛行機を<u>操縦</u>する。",
+      "context": "",
+      "options": [
+        "そうじょう",
+        "そうじゅう",
+        "そうしょう",
+        "そうしゅう"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② そうじゅう.\n\n操縦（そうじゅう）: điều khiển / lái (máy bay, tàu thuyền, máy móc lớn).\n\nCâu: 飛行機を操縦する。\nDịch: Lái / Điều khiển máy bay."
+    },
+    {
+      "question_id": 5,
+      "question": "スキーは雪山の<u>斜面</u>を滑るスポーツだ。",
+      "context": "",
+      "options": [
+        "ななめおも",
+        "ななめん",
+        "じゃめん",
+        "しゃめん"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ しゃめん.\n\n斜面（しゃめん）: sườn dốc / mặt dốc nghiêng.\n\nCâu: スキーは雪山の斜面を滑るスポーツだ。\nDịch: Trượt tuyết là môn thể thao trượt trên sườn dốc của núi tuyết."
+    },
+    {
+      "question_id": 6,
+      "question": "彼女は、<u>極端</u>に好き嫌いが多い。",
+      "context": "",
+      "options": [
+        "きょうたん",
+        "きょくたん",
+        "きょたん",
+        "きょくだん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② きょくたん.\n\n極端（きょくたん）: cực đoan / thái quá / quá mức.\n\nCâu: 彼女は、極端に好き嫌いが多い。\nDịch: Cô ấy cực kỳ kén chọn (thích và ghét nhiều thứ một cách thái quá)."
+    },
+    {
+      "question_id": 7,
+      "question": "<u>泥棒</u>をつかまえた！",
+      "context": "",
+      "options": [
+        "どろぼ",
+        "どろみず",
+        "どろぼう",
+        "でいぼう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ どろぼう.\n\n泥棒（どろぼう）: kẻ trộm / kẻ cắp.\n\nCâu: 泥棒をつかまえた！\nDịch: Đã bắt được tên trộm rồi!"
+    },
+    {
+      "question_id": 8,
+      "question": "<u>鉱山</u>でダイアモンドを掘るツアーがあるらしい。",
+      "context": "",
+      "options": [
+        "けいさん",
+        "かくさん",
+        "こうざん",
+        "こうさん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ こうざん.\n\n鉱山（こうざん）: mỏ khoáng sản / mỏ quặng.\n\nCâu: 鉱山でダイアモンドを掘るツアーがあるらしい。\nDịch: Nghe nói có tour du lịch đi đào kim cương tại mỏ quặng."
+    },
+    {
+      "question_id": 9,
+      "question": "10円玉は<u>銅</u>でできている。",
+      "context": "",
+      "options": [
+        "ぎん",
+        "きん",
+        "とう",
+        "どう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ どう.\n\n銅（どう）: kim loại đồng.\n\nPhân biệt: 金（きん - vàng), 銀（ぎん - bạc), 鉄（てつ - sắt).\n\nCâu: 10円玉は銅でできている。\nDịch: Đồng xu 10 yên được làm bằng đồng."
+    },
+    {
+      "question_id": 10,
+      "question": "ペットを<u>埋葬</u>する。",
+      "context": "",
+      "options": [
+        "まいぞう",
+        "まいそう",
+        "まいぼつ",
+        "まいほつ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② まいそう.\n\n埋葬（まいそう）: mai táng / chôn cất.\n\nPhân biệt: 埋没（まいぼつ - chìm nghỉm/vùi lấp).\n\nCâu: ペットを埋葬する。\nDịch: Chôn cất thú cưng."
+    }
+  ]
+}
