@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T09:21:28Z",
+  "updatedAt": "2026-08-23T08:09:22Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -339,6 +339,16 @@
       "topic": "listening",
       "questionCount": 5,
       "file": "exams/N2/N2-29-LS01.json"
+    },
+    {
+      "id": "N2-29-MT02",
+      "code": "N2-29-MT02",
+      "title": "N2.29 · Minitest 2",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 30,
+      "file": "exams/N2/N2-29-MT02.json"
     },
     {
       "id": "BJT-01-P1-S3",

@@ -1,0 +1,401 @@
+{
+  "id": "N2-29-MT02",
+  "code": "N2-29-MT02",
+  "title": "N2.29 · Minitest 2",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/N2.29_ Minitest 2.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "みんなで <u>輪</u>になって、躍りましょう。",
+      "context": "",
+      "options": [
+        "1. りん",
+        "2. わ",
+        "3. ろん",
+        "4. わん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② わ.\n\n輪（わ）: vòng tròn, bánh xe, vòng.\n\nCâu: みんなで 輪になって、躍りましょう。\nDịch: Mọi người hãy cùng tạo thành một vòng tròn và nhảy múa nào."
+    },
+    {
+      "question_id": 2,
+      "question": "２．船が<u>出港</u>する。",
+      "context": "",
+      "options": [
+        "1. しゅつきょう",
+        "2. しゅつこう",
+        "3. しゅっきょう",
+        "4. しゅっこう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ しゅっこう.\n\n出港（しゅっこう）: xuất cảng / rời bến.\n\nCâu: 船が出港する。\nDịch: Tàu xuất cảng."
+    },
+    {
+      "question_id": 3,
+      "question": "３．<u>中途半端</u>な仕事はよくない。",
+      "context": "",
+      "options": [
+        "1. ちゅうとはんぱ",
+        "2. ちゅうとうはんば",
+        "3. ちゅうとはんば",
+        "4. ちゅうとうはんぱ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ちゅうとはんぱ.\n\n中途半端（ちゅうとはんぱ）: nửa vời, dở dang.\n\nCâu: 中途半端な仕事はよくない。\nDịch: Công việc dở dang, nửa vời thì không tốt."
+    },
+    {
+      "question_id": 4,
+      "question": "４．<u>双方</u>が同意する。",
+      "context": "",
+      "options": [
+        "1. ふたがた",
+        "2. そうほう",
+        "3. ふたば",
+        "4. しょうほう"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② そうほう.\n\n双方（そうほう）: song phương, cả hai bên.\n\nCâu: 双方が同意する。\nDịch: Cả hai bên đều đồng ý."
+    },
+    {
+      "question_id": 5,
+      "question": "５．<u>手拍子</u>をする。",
+      "context": "",
+      "options": [
+        "1. てびょうし",
+        "2. てひょうし",
+        "3. てはくし",
+        "4. てばくし"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① てびょうし.\n\n手拍子（てびょうし）: vỗ tay theo nhịp.\n\nCâu: 手拍子をする。\nDịch: Vỗ tay theo nhịp."
+    },
+    {
+      "question_id": 6,
+      "question": "オリンピックを<u>開催</u>する。",
+      "context": "",
+      "options": [
+        "1. しゅさい",
+        "2. かいざい",
+        "3. しゅざい",
+        "4. かいさい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ かいさい.\n\n開催（かいさい）: tổ chức (sự kiện, thế vận hội).\n\nCâu: オリンピックを開催する。\nDịch: Tổ chức Thế vận hội Olympic."
+    },
+    {
+      "question_id": 7,
+      "question": "<u>気泡</u>がたくさんついている。",
+      "context": "",
+      "options": [
+        "1. けあわ",
+        "2. きあわ",
+        "3. きほう",
+        "4. きぼう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ きほう.\n\n気泡（きほう）: bọt khí.\n\nCâu: 気泡がたくさんついている。\nDịch: Có nhiều bọt khí bám vào."
+    },
+    {
+      "question_id": 8,
+      "question": "8．<u>泡風呂</u>に入る。",
+      "context": "",
+      "options": [
+        "1. あわふろ",
+        "2. あわぶろ",
+        "3. ほうふろう",
+        "4. ほうぶろ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② あわぶろ.\n\n泡風呂（あわぶろ）: bồn tắm bọt (biến âm từ ふろ thành ぶろ).\n\nCâu: 泡風呂に入る。\nDịch: Tắm bồn tắm bọt."
+    },
+    {
+      "question_id": 9,
+      "question": "9．連休中も工場は<u>稼働</u>している。",
+      "context": "",
+      "options": [
+        "1. けどう",
+        "2. かいどう",
+        "3. かんどう",
+        "4. かどう"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ かどう.\n\n稼働（かどう）: hoạt động, vận hành (máy móc, nhà máy).\n\nCâu: 連休中も工場は稼働している。\nDịch: Trong suốt kỳ nghỉ dài, nhà máy vẫn hoạt động."
+    },
+    {
+      "question_id": 10,
+      "question": "10．結婚式は<u>厳か</u>に行われた。",
+      "context": "",
+      "options": [
+        "1. きびしらか",
+        "2. おこそか",
+        "3. おごそか",
+        "4. おろそか"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ おごそか.\n\n厳か（おごそか）: uy nghiêm, trang nghiêm.\n\nCâu: 結婚式は厳かに行われた。\nDịch: Lễ cưới đã được cử hành một cách trang nghiêm."
+    },
+    {
+      "question_id": 11,
+      "question": "11．朝から<u>胸騒ぎ</u>がする。嫌なことが起きなかったらいいけど。",
+      "context": "",
+      "options": [
+        "1. むなさわぎ",
+        "2. むねさわぎ",
+        "3. きょうそうぎ",
+        "4. きょうしょうぎ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① むなさわぎ.\n\n胸騒ぎ（むなさわぎ）: bồn chồn lo lắng, linh cảm xấu.\n\nCâu: 朝から胸騒ぎがする。嫌なことが起きなかったらいいけど。\nDịch: Từ sáng đã thấy bồn chồn trong lòng. Mong là không có chuyện xấu xảy ra."
+    },
+    {
+      "question_id": 12,
+      "question": "12．足を<u>骨折</u>する。",
+      "context": "",
+      "options": [
+        "1. こくせう",
+        "2. こっせつ",
+        "3. こつせつ",
+        "4. こうせつ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② こっせつ.\n\n骨折（こっせつ）: gãy xương.\n\nCâu: 足を骨折する。\nDịch: Bị gãy xương chân."
+    },
+    {
+      "question_id": 13,
+      "question": "13．<u>肩書</u>だけで人を判断するのはよくない。",
+      "context": "",
+      "options": [
+        "1. けんしょ",
+        "2. かたがき",
+        "3. かんしょ",
+        "4. かたかき"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② かたがき.\n\n肩書（かたがき）: chức danh, danh hiệu.\n\nCâu: 肩書だけで人を判断するのはよくない。\nDịch: Chỉ đánh giá con người qua chức danh là không tốt."
+    },
+    {
+      "question_id": 14,
+      "question": "14．自分と<u>異なる</u>考え方を受け入れる。",
+      "context": "",
+      "options": [
+        "1. いなる",
+        "2. くだなる",
+        "3. ふくなる",
+        "4. ことなる"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ことなる.\n\n異なる（ことなる）: khác biệt.\n\nCâu: 自分と異なる考え方を受け入れる。\nDịch: Tiếp nhận/chấp nhận cách suy nghĩ khác với bản thân."
+    },
+    {
+      "question_id": 15,
+      "question": "15．母の身元に<u>異変</u>が起きたのではないかと心配した。",
+      "context": "",
+      "options": [
+        "1. いへん",
+        "2. いべん",
+        "3. ぎへん",
+        "4. ぎべん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① いへん.\n\n異変（いへん）: sự cố, tai họa, điều bất thường.\n\nCâu: 母の身元に異変が起きたのではないかと心配した。\nDịch: Tôi đã lo lắng rằng có chuyện bất thường xảy ra với mẹ."
+    },
+    {
+      "question_id": 16,
+      "question": "16．かなりの<u>じゅうしょう</u>です。いますぐ入院してください。",
+      "context": "",
+      "options": [
+        "1. 重症",
+        "2. 重体",
+        "3. 重篤",
+        "4. 深刻"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 重症.\n\n重症（じゅうしょう）: bệnh nặng, triệu chứng nặng.\n\nCâu: かなりのじゅうしょうです。いますぐ入院してください。\nDịch: Triệu chứng khá nặng đấy. Hãy nhập viện ngay lập tức."
+    },
+    {
+      "question_id": 17,
+      "question": "17．犯人は血まみれの<u>じょうたい</u>で発見された。",
+      "context": "",
+      "options": [
+        "1. 状況",
+        "2. 状態",
+        "3. 状勢",
+        "4. 容態"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 状態.\n\n状態（じょうたい）: trạng thái, tình trạng.\n\nCâu: 犯人は血まみれのじょうたいで発見された。\nDịch: Thủ phạm được phát hiện trong tình trạng đầy máu."
+    },
+    {
+      "question_id": 18,
+      "question": "18．フェイスブックで<u>きんきょう</u>報告したら５０人からいいねをもらった。",
+      "context": "",
+      "options": [
+        "1. 環境",
+        "2. 状況",
+        "3. 近況",
+        "4. 様子"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 近況.\n\n近況（きんきょう）: tình hình gần đây.\n\nCâu: フェイスブックできんきょう報告したら５０人からいいねをもらった。\nDịch: Khi tôi báo cáo tình hình gần đây trên Facebook, đã nhận được lượt thích từ 50 người."
+    },
+    {
+      "question_id": 19,
+      "question": "19．歯科と<u>がんか</u>へ行く。",
+      "context": "",
+      "options": [
+        "1.眼帯",
+        "2.眼球",
+        "3.眼鏡",
+        "4.眼科"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 眼科.\n\n眼科（がんか）: khoa mắt, phòng khám mắt.\n\nCâu: 歯科とがんかへ行く。\nDịch: Đi đến nha khoa và khoa mắt."
+    },
+    {
+      "question_id": 20,
+      "question": "20．痛っ！とげが<u>ささった</u>。",
+      "context": "",
+      "options": [
+        "1.刺さった",
+        "2.差さった",
+        "3.指さった",
+        "4.挿さった"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 刺さった.\n\n刺さる（ささる）: bị đâm vào, bị găm vào.\n\nCâu: 痛っ！とげがささった。\nDịch: Á đau! Bị gai đâm rồi."
+    },
+    {
+      "question_id": 21,
+      "question": "21．<u>けしょう</u>をすると別人のようだ。",
+      "context": "",
+      "options": [
+        "1. 化学",
+        "2. 化粧",
+        "3. 化粧品",
+        "4. 化石"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 化粧.\n\n化粧（けしょう）: trang điểm.\n\nCâu: けしょうをすると別人のようだ。\nDịch: Khi trang điểm trông như một người khác vậy."
+    },
+    {
+      "question_id": 22,
+      "question": "22．<u>しらが</u>が多い。",
+      "context": "",
+      "options": [
+        "1. 白紙",
+        "2. 白鳥",
+        "3. 白髪",
+        "4. 白昼"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 白髪.\n\n白髪（しらが）: tóc bạc.\n\nCâu: しらがが多い。\nDịch: Có nhiều tóc bạc."
+    },
+    {
+      "question_id": 23,
+      "question": "23．<u>ぼうえんきょう</u>をのぞく。",
+      "context": "",
+      "options": [
+        "1. 眼鏡",
+        "2. 双眼鏡",
+        "3. 顕微鏡",
+        "4. 望遠鏡"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 望遠鏡.\n\n望遠鏡（ぼうえんきょう）: kính viễn vọng.\n\nCâu: ぼうえんきょうをのぞく。\nDịch: Nhìn qua kính viễn vọng."
+    },
+    {
+      "question_id": 24,
+      "question": "24．店内を<u>そうしょく</u>する",
+      "context": "",
+      "options": [
+        "1.装飾",
+        "2.装置",
+        "3.包装",
+        "4.衣装"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 装飾.\n\n装飾（そうしょく）: trang trí.\n\nCâu: 店内をそうしょくする。\nDịch: Trang trí bên trong cửa hàng."
+    },
+    {
+      "question_id": 25,
+      "question": "25．アップルは<u>かくしん</u>的な商品を出し続けている。",
+      "context": "",
+      "options": [
+        "1.革命",
+        "2.革新",
+        "3.革製",
+        "4.改革"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 革新.\n\n革新（かくしん）: cách tân, đổi mới.\n\nCâu: アップルはかくしん的な商品を出し続けている。\nDịch: Apple tiếp tục đưa ra các sản phẩm mang tính đổi mới."
+    },
+    {
+      "question_id": 26,
+      "question": "26．輸入品に<u>かぜい</u>する。",
+      "context": "",
+      "options": [
+        "1.税金",
+        "2.課題",
+        "3.課税",
+        "4.課程"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 課税.\n\n課税（かぜい）: đánh thuế.\n\nCâu: 輸入品にかぜいする。\nDịch: Đánh thuế hàng nhập khẩu."
+    },
+    {
+      "question_id": 27,
+      "question": "27．プロサッカーチームの監督に<u>しゅうにん</u>する。",
+      "context": "",
+      "options": [
+        "1.就任",
+        "2.就職",
+        "3.主任",
+        "4.就業"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 就任.\n\n就任（しゅうにん）: nhậm chức.\n\nCâu: プロサッカーチームの監督にしゅうにんする。\nDịch: Nhậm chức huấn luyện viên của đội bóng đá chuyên nghiệp."
+    },
+    {
+      "question_id": 28,
+      "question": "28．<u>おうえん</u>が足りない！もっと声出して！",
+      "context": "",
+      "options": [
+        "1.援助",
+        "2.応用",
+        "3.対応",
+        "4.応援"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 応援.\n\n応援（おうえん）: cổ vũ, hỗ trợ.\n\nCâu: おうえんが足りない！もっと声出して！\nDịch: Cổ vũ vẫn chưa đủ! Hãy lên tiếng nhiều hơn nữa!"
+    },
+    {
+      "question_id": 29,
+      "question": "29．この会社は外国人の<u>こよう</u>が増えている。",
+      "context": "",
+      "options": [
+        "1.利用",
+        "2.雇用",
+        "3.採用",
+        "4.雇主"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 雇用.\n\n雇用（こよう）: thuê mướn, tuyển dụng.\n\nCâu: この会社は外国人のこようが増えている。\nDịch: Công ty này số lượng tuyển dụng người nước ngoài đang gia tăng."
+    },
+    {
+      "question_id": 30,
+      "question": "30．スポンサーからの広告収入は年間<u>そうしゅうにゅう</u>の４０％を占める。",
+      "context": "",
+      "options": [
+        "1.総額",
+        "2.収支",
+        "3.収入",
+        "4.総収入"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 総収入.\n\n総収入（そうしゅうにゅう）: tổng thu nhập.\n\nCâu: スポンサーからの広告収入は年間そうしゅうにゅうの４０％を占める。\nDịch: Thu nhập quảng cáo từ các nhà tài trợ chiếm 40% tổng thu nhập hàng năm."
+    }
+  ]
+}
