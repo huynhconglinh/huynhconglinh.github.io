@@ -1,0 +1,36 @@
+{
+  "id": "N2-29-RD06",
+  "code": "N2-29-RD06",
+  "title": "N2.29 · BTUD Đọc hiểu Bài 6 · Đặt câu hỏi - trả lời",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "筆者によると、働くとはどういうことか。",
+      "context": "そもそも働くとは「得る」ことなのでしょうか。\n\n私たちは働くとき、何らかの社会的役割を担っていて、その役割に応じた結果が求められます。そして、期待に応えたときに得られるものが報酬や自身の成長です。要するに、私たちは働くとき「得る」前に求められているものを「与える」ことになります。仕事の本質は得ることではなく、自分に求められているものを人に与える、すなわち「人の役に立つ」ことなのです。",
+      "options": [
+        "社会から期待された役割を果たすこと",
+        "自身の社会的役割を探すこと",
+        "仕事で得たものを人に与えること",
+        "自身の成長を求めること"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 社会から期待された役割を果たすこと\n\nGiải thích chi tiết:\nTrong bài, tác giả phân tích: \"私たちは働くとき、何らかの社会的役割を担っていて、その役割に応じた結果が求められます... 仕事の本質は得ることではなく、自分に求められているものを人に与える、すなわち「人の役に立つ」ことなのです。\" (Khi làm việc, chúng ta đảm nhận một vai trò xã hội nào đó và được yêu cầu kết quả tương ứng... Bản chất của công việc không phải là nhận được gì, mà là trao đi những gì được người khác yêu cầu/kỳ vọng ở mình, tức là \"có ích cho người khác\").\n\nPhân tích các phương án:\n- ① Đúng: Làm việc là đáp ứng kết quả/vai trò mà xã hội kỳ vọng (社会から期待された役割を果たすこと).\n- ② 自身の社会的役割を探すこと: Sai, bài nói chúng ta đang gánh vác vai trò xã hội (担っていて), không phải đi tìm kiếm.\n- ③ 仕事で得たものを人に与えること: Sai, \"thứ nhận được từ công việc\" là tiền lương và sự phát triển của bản thân (報酬や自身の成長); bài nhấn mạnh phải cho đi thứ người ta yêu cầu trước khi nhận (「得る」前に求められているものを「与える」).\n- ④ 自身の成長を求めること: Sai, sự trưởng thành chỉ là kết quả nhận lại sau khi đáp ứng kỳ vọng của người khác, không phải bản chất làm việc.\n\nDịch bài đọc:\nLiệu bản chất của làm việc có phải là \"nhận được/được hưởng\" cái gì đó hay không?\nKhi chúng ta làm việc, chúng ta đảm nhận một vai trò xã hội nào đó, và được yêu cầu những kết quả tương ứng với vai trò đó. Và thứ nhận lại được khi đáp ứng được sự kỳ vọng đó chính là thù lao và sự trưởng thành của bản thân. Tóm lại, khi làm việc, trước khi \"nhận\", chúng ta phải \"trao đi\" những gì được yêu cầu. Bản chất của công việc không phải là nhận lấy, mà là trao cho người khác những gì họ mong đợi ở mình, nói cách khác chính là \"giúp ích cho người khác\"."
+    },
+    {
+      "question_id": 2,
+      "question": "スポーツで己に勝つ（克つ）ことが必要なのはなぜか。",
+      "context": "スポーツには二種類の「勝利」があることを知っていますか。\n\n一つは言うまでもなく、競う相手に対するものです。相手の攻撃に耐え、相手の守備に頑張って攻撃をしかけます。これをせずには、勝利することは望めません。\n\nもう一つの勝利とは、弱い自分に勝つ、つまり克己です。プレーヤーは、「勝利を得るためには、ルールを守りたくない」という誘惑に絶えず直面しています。何しろルールには「勝つためには面倒なこと」がいっぱい書いてあるからです。しかし、その誘惑に負けるのは自分が弱いからです。たとえゲーム勝利を得たとしても、それが反則によるものであれば、スポーツにおける勝者とはなりません。己に勝つ（克つ）ことは、スポーツマンの必要条件なのです。",
+      "options": [
+        "相手を攻撃し、相手の攻撃から守る努力を絶えずしないと、ゲームに負けるから",
+        "数多くある、勝つためには面倒なルールをすべて覚えなければならないから",
+        "ルールを守りたくないという気持ちに負けたら、本当に勝ったと言えないから",
+        "自分は相手より弱いという気持ちになったら、ゲームに勝つことはできないから"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ルールを守りたくないという気持ちに負けたら、本当に勝ったと言えないから\n\nGiải thích chi tiết:\nTác giả giải thích về loại chiến thắng thứ hai - 克己 (thắng chính mình): Người chơi thể thao luôn phải đối mặt với cám dỗ muốn bỏ qua luật lệ để thắng (「勝利を得るためには、ルールを守りたくない」という誘惑). \"たとえゲーム勝利を得たとしても、それが反則によるものであれば、スポーツにおける勝者とはなりません。己に勝つ（克つ）ことは、スポーツマンの必要条件なのです。\" (Dù có giành chiến thắng trong trận đấu đi nữa, nhưng nếu đó là do phạm quy thì cũng không phải là người chiến thắng thực sự trong thể thao. Thắng chính mình là điều kiện tất yếu của người chơi thể thao).\n\nPhân tích các phương án:\n- ① 相手を攻撃し、相手の攻撃から守る努力を絶えずしないと、ゲームに負けるから: Đây là nói về loại chiến thắng thứ nhất (chiến thắng đối thủ), không phải nguyên nhân cần \"khắc kỷ / thắng chính mình\".\n- ② 数多くある、勝つためには面倒なルールをすべて覚えなければならないから: Bài không nói cần phải học thuộc hết mọi quy tắc phiền phức.\n- ③ Đúng: Nếu để thua tâm lý muốn phá luật thì dù có thắng trận cũng không được coi là chiến thắng thật sự trong thể thao.\n- ④ 自分は相手より弱いという気持ちになったら、ゲームに勝つことはできないから: Sai nghĩa, \"弱い自分\" trong bài là sự yếu lòng trước cám dỗ phạm luật để giành chiến thắng, không phải cảm giác thấy mình yếu hơn đối phương.\n\nDịch bài đọc:\nBạn có biết rằng trong thể thao có hai loại \"chiến thắng\" không?\nMột loại thì không cần phải nói, đó là chiến thắng đối thủ cạnh tranh. Chúng ta chịu đựng sự tấn công của đối phương và nỗ lực tấn công vào sự phòng thủ của họ. Nếu không làm điều này, bạn không thể hy vọng giành chiến thắng.\nLoại chiến thắng còn lại là chiến thắng chính sự yếu đuối của bản thân, tức là \"khắc kỷ\" (thắng chính mình). Người chơi luôn phải đối mặt với cám dỗ rằng \"để giành chiến thắng thì không muốn tuân theo luật lệ\". Bởi vì xét cho cùng, trong luật lệ có viết rất nhiều điều phiền toái cho việc chiến thắng. Tuy nhiên, việc chịu thua trước sự cám dỗ đó là do bản thân mình yếu đuối. Cho dù có giành được chiến thắng trong trận đấu, nhưng nếu điều đó là do phạm luật thì cũng không thể trở thành người chiến thắng trong thể thao. Chiến thắng bản thân (khắc kỷ) chính là điều kiện tất yếu của một người chơi thể thao."
+    }
+  ]
+}

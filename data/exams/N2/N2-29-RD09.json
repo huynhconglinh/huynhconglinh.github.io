@@ -1,0 +1,49 @@
+{
+  "id": "N2-29-RD09",
+  "code": "N2-29-RD09",
+  "title": "N2.29 · BTUD Đọc hiểu · Lý do (11/09)",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "<u>ギャップが生じる</u>のはなぜか。",
+      "context": "犬は、本能のままに働くことに喜びを感じます。獲物を探す、追いかける、取ってくるなどはその象徴的な行動です。しかし現代の人間社会では、このような行動はほとんど必要なくなってしまいました。その結果、「犬がしたいこと」と「飼い主がさせたいこと」との間に、ギャップが生じるようになってきました。",
+      "options": [
+        "犬の生まれつき持っている性質が、人間社会に合わせて変化したから",
+        "犬がしたい行動は、現代の人間社会では必要ないことが多いから",
+        "犬が喜びを感じる行動が、飼い主にはわからなくなったから",
+        "飼い主がさせたい行動は、犬にはできないことが多いから"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 犬がしたい行動は、現代の人間社会では必要ないことが多いから\n\nGiải thích chi tiết:\nTrong bài, tác giả phân tích: \"犬は、本能のままに働くことに喜びを感じます。獲物を探す、追いかける、取ってくるなどはその象徴的な行動です。しかし現代の人間社会では、このような行動はほとんど必要なくなってしまいました。その結果、「犬がしたいこと」と「飼い主がさせたいこと」との間に、ギャップが生じるようになってきました。\"\n(Chó cảm thấy vui sướng khi được làm việc theo bản năng. Tìm kiếm con mồi, đuổi theo, tha về là những hành vi điển hình. Tuy nhiên trong xã hội loài người hiện đại, những hành vi như vậy hầu như không còn cần thiết nữa. Kết quả là giữa \"điều chó muốn làm\" và \"điều chủ muốn chó làm\" đã bắt đầu nảy sinh khoảng cách).\n\nPhân tích các phương án:\n- ① 犬の生まれつき持っている性質が、人間社会に合わせて変化したから: Sai. Bản tính bẩm sinh của chó không hề thay đổi theo xã hội loài người, mà chính xã hội hiện đại không còn cần những hành vi bản năng ấy nữa.\n- ② 犬がしたい行動は、現代の人間社会では必要ないことが多いから: Đúng. Những hành vi chó muốn làm (săn đuổi con mồi theo bản năng) thì xã hội con người hiện nay phần lớn không cần nữa (ほとんど必要なくなってしまいました), dẫn đến khoảng cách giữa mong muốn của chó và của chủ nuôi.\n- ③ 犬が喜びを感じる行動が、飼い主にはわからなくなったから: Sai. Bài đọc không hề nói chủ không hiểu hay không biết hành vi khiến chó vui.\n- ④ 飼い主がさせたい行動は、犬にはできないことが多いから: Sai. Bài không đề cập đến việc chó không thể làm được điều chủ muốn.\n\nDịch bài đọc:\nChó cảm thấy vui khi được làm việc theo đúng bản năng. Việc tìm kiếm con mồi, đuổi theo, tha đồ về... là những hành vi mang tính biểu tượng cho điều đó. Tuy nhiên, trong xã hội loài người hiện đại, những hành vi như vậy hầu như không còn cần thiết nữa. Kết quả là, đã bắt đầu nảy sinh khoảng cách giữa \"điều chó muốn làm\" và \"điều người chủ muốn chó làm\"."
+    },
+    {
+      "question_id": 2,
+      "question": "筆者によると、人間はなぜ落葉を美しいと感じるのか。",
+      "context": "落葉の美しさを感じられるのは、人間の特権であろうと思う。単純に、木々が黄色や赤色に色づいていくから美しいのではない。春には生まれたての黄緑色だった若葉が、夏には濃い緑色となる。このほんの数ヵ月が、葉の人生の最盛期である。そして秋になると、自身の体を赤や黄色に変化させながら、その短い命を終え散っていくのだ。そのはかない（注1）命で、色とりどり（注2）に精一杯（注3）生きたのかと思うと、美しいと思わずにはいられない。葉の命はそれで尽きるが、厳しい冬を終えると、同じ木からまた新たな命が始まる。命とは、なんとはかなく、しかし力強いことか。\n\n（注1）はかない：長く続かない\n（注2）色とりどり：様々な色\n（注3）精一杯：一生懸命",
+      "options": [
+        "黄緑色や濃い緑色だった葉が、黄色や赤色など様々な色に変化するから",
+        "落葉を通して、人間の生活に欠かせない四季を感じることができるから",
+        "葉が生まれてから散るまで、短い命を一生懸命生きたことを感じるから",
+        "葉が落ちてしまっても、春にはまた新たな葉が生まれることを知っているから"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 葉が生まれてから散るまで、短い命を一生懸命生きたことを感じるから\n\nGiải thích chi tiết:\nTác giả giải thích lý do tại sao con người cảm nhận lá rụng mùa thu là đẹp: \"そのはかない命で、色とりどりに精一杯生きたのかと思うと、美しいと思わずにはいられない。\" (Khi nghĩ rằng với sinh mệnh ngắn ngủi mong manh ấy, chiếc lá đã dốc hết sức sống một cuộc đời muôn màu rực rỡ, ta không thể không cảm thấy đẹp đẽ).\n\nPhân tích các phương án:\n- ① 黄緑色や濃い緑色だった葉が、黄色や赤色など様々な色に変化するから: Sai. Tác giả đã phủ định ngay từ đầu: \"単純に、木々が黄色や赤色に色づいていくから美しいのではない\" (Không phải đẹp chỉ đơn thuần vì cây cối đổi sang sắc vàng hay đỏ).\n- ② 落葉を通して、人間の生活に欠かせない四季を感じることができるから: Sai. Bài viết không nhắc đến ý \"cảm nhận bốn mùa không thể thiếu đối với đời sống con người\".\n- ③ 葉が生まれてから散るまで、短い命を一生懸命生きたことを感じるから: Đúng. Hoàn toàn trùng khớp với cảm xúc của tác giả: cảm nhận được chiếc lá đã sống hết mình với sinh mạng ngắn ngủi từ mùa xuân đến mùa thu (はかない命で、精一杯生きた).\n- ④ 葉が落ちてしまっても、春にはまた新たな葉が生まれることを知っているから: Sai. Mặc dù ở đoạn cuối có nói đến việc mùa xuân sẽ có mầm sống mới từ cùng thân cây ấy, nhưng lý do trực tiếp khiến con người thấy xúc động và thấy lá rụng đẹp chính là ở câu: \"そのはかない命で、色とりどりに精一杯生きたのかと思うと、美しいと思わずにはいられない\".\n\nTừ vựng chú thích:\n- はかない：ngắn ngủi, phù du, mau tàn\n- 色とりどり：muôn màu muôn vẻ, đa dạng sắc màu\n- 精一杯：hết sức mình, dốc toàn lực\n\nDịch bài đọc:\nTôi nghĩ rằng việc có thể cảm nhận được vẻ đẹp của lá rụng là đặc quyền của con người. Đẹp không phải đơn thuần là vì cây cối chuyển màu sang vàng hay đỏ. Những chiếc lá non vừa mới sinh ra mang màu xanh vàng nhạt vào mùa xuân, sang mùa hè trở thành màu xanh thẫm. Vài tháng ngắn ngủi này chính là thời kỳ đỉnh cao rực rỡ nhất trong đời của chiếc lá. Rồi khi thu sang, vừa biến đổi thân mình sang sắc đỏ vàng, chúng vừa kết thúc sinh mạng ngắn ngủi rồi lìa cành rụng xuống. Khi nghĩ rằng với sinh mạng ngắn ngủi mong manh ấy, chiếc lá đã dốc hết sức sống trọn vẹn rực rỡ muôn màu, ta không thể không thấy nó đẹp đẽ. Sự sống của chiếc lá đến đó là khép lại, nhưng khi mùa đông khắc nghiệt qua đi, từ chính cái cây ấy một sinh mệnh mới lại bắt đầu. Sinh mạng mới ngắn ngủi, nhưng cũng thật kiên cường, mạnh mẽ biết bao!"
+    },
+    {
+      "question_id": 3,
+      "question": "春に咲くはずの桜が秋に咲くのは、なぜか。",
+      "context": "日本では、桜の花は春の象徴として人々に愛されています。しかし、本来、春に咲くはずの桜が秋に咲き、ニュースで話題になることがあります。原因として異常気象や温暖化を疑う人もいるようですが、実は葉が関係しているのです。桜は、夏の間に花の芽をすでに作っています。秋には落葉し、休眠して冬の寒さに耐えますが、落葉する前に、葉の中では休眠を誘う物質が作られます。その物質が作られる前に台風などで葉が落ちてしまったり、虫によって葉が食べられたりしてしまうと、休眠できずに、ちょうど春のような気温の秋に開花してしまうのです。",
+      "options": [
+        "異常気象や温暖化がさらに進んだため",
+        "秋の気温が春の気温と同じぐらいに高くなったため",
+        "葉の落ちる時期が、本来の時期とずれてしまったため",
+        "葉が花の芽を作るための物質を早く作り過ぎてしまったため"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 葉の落ちる時期が、本来の時期とずれてしまったため\n\nGiải thích chi tiết:\nBài đọc giải thích cơ chế hoa anh đào nở mùa thu: Bình thường, vào mùa thu trước khi rụng lá, trong lá sẽ tạo ra chất gây ngủ đông (休眠を誘う物質) để cây vượt qua mùa đông rồi nở vào mùa xuân. Tuy nhiên, nếu trước khi chất đó kịp hình thành mà lá đã bị rụng sớm (do bão hoặc bị sâu ăn lá), thì cây không thể ngủ đông được (休眠できずに). Gặp nhiệt độ ấm áp của mùa thu giống mùa xuân, hoa sẽ nở luôn.\nNhư vậy, nguyên nhân hoa nở trái mùa vào mùa thu là do thời điểm lá rụng bị sai lệch/sớm hơn thời điểm tự nhiên vốn có của nó (葉の落ちる時期が、本来の時期とずれてしまったため).\n\nPhân tích các phương án:\n- ① 異常気象や温暖化がさらに進んだため: Sai. Tác giả nêu đây là suy đoán ban đầu của nhiều người nhưng sự thật thì do lá cây gây ra (原因として異常気象や温暖化を疑う人もいるようですが、実は葉が関係しているのです).\n- ② 秋の気温が春の気温と同じぐらいに高くなったため: Sai. Nhiệt độ mùa thu dịu ấm như mùa xuân chỉ là điều kiện môi trường kích thích hoa bung nở khi cây không thể ngủ đông, không phải là nguyên nhân gốc rễ khiến cây không ngủ đông.\n- ③ 葉の落ちる時期が、本来の時期とずれてしまったため: Đúng. Lá rụng sớm hơn thời điểm thông thường trước khi kịp tổng hợp chất kích thích ngủ đông, dẫn tới cây không ngủ đông được và nở hoa vào mùa thu.\n- ④ 葉が花の芽を作るための物質を早く作り過ぎてしまったため: Sai. Nụ hoa vốn đã được hình thành xong từ mùa hè (夏の間に花の芽をすでに作っています), và chất sản sinh ở lá là chất gây ngủ đông chứ không phải chất tạo nụ hoa.\n\nDịch bài đọc:\nỞ Nhật Bản, hoa anh đào được mọi người yêu mến như một biểu tượng của mùa xuân. Tuy nhiên, có những lúc hoa anh đào vốn nở vào mùa xuân lại nở vào mùa thu, trở thành đề tài được bàn tán trên các bản tin. Có người nghi ngờ nguyên nhân là do thời tiết bất thường hoặc hiện tượng ấm lên toàn cầu, nhưng thực chất lá cây mới là yếu tố quyết định. Cây hoa anh đào đã chuẩn bị sẵn các nụ hoa trong suốt mùa hè. Vào mùa thu cây rụng lá, bước vào trạng thái ngủ đông để chịu đựng cái lạnh mùa đông; thế nhưng trước khi rụng lá, bên trong lá sẽ tiết ra một chất thúc đẩy trạng thái ngủ đông. Nếu trước khi chất đó được tạo ra mà lá đã bị rụng do bão hoặc bị sâu ăn mất, cây sẽ không thể ngủ đông được và sẽ nở hoa ngay trong mùa thu có nền nhiệt độ giống như mùa xuân."
+    }
+  ]
+}

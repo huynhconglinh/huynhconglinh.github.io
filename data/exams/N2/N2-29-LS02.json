@@ -1,0 +1,157 @@
+{
+  "id": "N2-29-LS02",
+  "code": "N2-29-LS02",
+  "title": "N2.29 · BTUD Nghe hiểu Bài 2 · Mondai 2",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "listening",
+  "source": "riki/N2.29/N2.29_ Bài tập ứng dụng Nghe hiểu - Bài 2 (19_8).mhtml",
+  "questionCount": 3,
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "1番",
+      "question": "女の人はどうして応募しないことにしましたか。",
+      "context": "",
+      "options": [
+        "勤務地が自宅から遠いから",
+        "仕事の内容が希望と違ったから",
+        "車の運転免許を持っていないから",
+        "勤務日が希望と合わないから"
+      ],
+      "correct_answer": 1,
+      "media": {
+        "audio": "media/N2-29-LS02/q01.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "女の人がスーパーの求人のチラシを見て電話しています。女の人はどうして応募しないことにしましたか。",
+          "vi": "Một người phụ nữ đang gọi điện sau khi xem tờ rơi tuyển dụng của siêu thị. Tại sao người phụ nữ quyết định không ứng tuyển?"
+        },
+        {
+          "role": "male",
+          "jp": "はい、スーパー山田、求人受付です。",
+          "vi": "Vâng, siêu thị Yamada, bộ phận tiếp nhận tuyển dụng xin nghe."
+        },
+        {
+          "role": "female",
+          "jp": "求人のチラシを見てお電話したんですが、さくら店のレジのアルバイトはまだ募集していますか。",
+          "vi": "Tôi gọi điện vì thấy tờ rơi tuyển dụng, không biết vị trí làm thêm thu ngân ở chi nhánh Sakura còn tuyển không ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "えっと、実はさくら店はすでに採用が決まりまして、募集を終了いたしました。同じ市内の南店でも募集していますが、そちらはいかがでしょうか。仕事はレジのほかに車での配達もお願いすることになるんですが…",
+          "vi": "À, thực ra chi nhánh Sakura đã tuyển đủ người và đóng tuyển dụng rồi ạ. Bên em cũng đang tuyển ở chi nhánh Minami trong cùng thành phố, bên đó được không ạ? Công việc ngoài thu ngân thì sẽ nhờ cả việc đi giao hàng bằng ô tô nữa…"
+        },
+        {
+          "role": "female",
+          "jp": "そうですか。さくら店はうちから近いのでお電話したんですが、南店だとちょっと遠いけど何とかなるかなー。仕事はレジでも配達でもいいんですが…",
+          "vi": "Vậy à. Tôi gọi vì chi nhánh Sakura gần nhà, chi nhánh Minami thì hơi xa một chút nhưng chắc vẫn thu xếp được… Công việc thu ngân hay giao hàng thì đều được nhưng mà…"
+        },
+        {
+          "role": "male",
+          "jp": "自動車の免許は持ってますか。トラックとかではなく普通乗用車の免許ですが。",
+          "vi": "Chị có bằng lái ô tô không ạ? Không phải xe tải đâu mà là bằng lái xe con thông thường thôi ạ."
+        },
+        {
+          "role": "female",
+          "jp": "はい、持っています。",
+          "vi": "Vâng, tôi có."
+        },
+        {
+          "role": "male",
+          "jp": "それで大丈夫です。それと、南店は主に週末勤務となりますが…",
+          "vi": "Vậy thì được rồi ạ. Thêm nữa là ở chi nhánh Minami chủ yếu làm việc vào cuối tuần…"
+        },
+        {
+          "role": "female",
+          "jp": "勤務日はその方がありがたいですが…うーん、ただやっぱり、もともと通いやすい場所で探してたので、すみません、今回はやめておきます。",
+          "vi": "Ngày làm việc như thế thì tôi còn tiện hơn, nhưng mà… ừm, chỉ là vốn dĩ tôi tìm nơi tiện đi lại nên xin lỗi, lần này tôi xin thôi ạ."
+        },
+        {
+          "role": "male",
+          "jp": "そうですか。またご縁があればよろしくお願いします。",
+          "vi": "Vậy ạ. Khi khác nếu có duyên rất mong được hợp tác với chị."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の人はどうして応募しないことにしましたか。",
+          "vi": "Tại sao người phụ nữ quyết định không ứng tuyển?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 勤務地が自宅から遠いから\n\n- Chi nhánh Sakura gần nhà đã đủ người; chi nhánh Minami thì xa hơn («南店だとちょっと遠い»).\n- Công việc giao hàng («レジでも配達でもいい») và bằng lái xe («持っています») cô ấy đều đáp ứng.\n- Lịch làm cuối tuần cô ấy thấy tiện («その方がありがたい»).\n- Lý do quyết định từ chối: «もともと通いやすい場所で探してたので» (muốn nơi gần/tiện đi lại)."
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "2番",
+      "question": "明日の東京の天気はどうなると言っていますか。",
+      "context": "",
+      "options": [
+        "午前中は晴れるが、午後から曇る",
+        "午前中は晴れるが、午後から雨が降る",
+        "午前中は曇りで、午後から雨が降る",
+        "朝から雨が降り、タ方から大雨になる"
+      ],
+      "correct_answer": 1,
+      "media": {
+        "audio": "media/N2-29-LS02/q02.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "テレビでアナウンサーが話しています。明日の東京の天気はどうなると言っていますか。明日です。",
+          "vi": "Phát thanh viên đang nói trên truyền hình. Thời tiết ngày mai của Tokyo được nói là sẽ như thế nào? Là ngày mai."
+        },
+        {
+          "role": "female",
+          "jp": "今日、木曜日の東京は雲ひとつない爽やかなお天気となっていますが、明日の午前中までとなりそうです。現在、南の海上に熱帯低気圧が発生しています。この影響で、週末は荒れた天気となるでしょう。東京は明日の午後から曇りとなり、明後日は朝から雨が降ったり止んだりの天気となる見込みで、夕方には大雨に変わるでしょう。",
+          "vi": "Hôm nay thứ Năm ở Tokyo thời tiết trong lành không một gợn mây, nhưng tình trạng này dự kiến chỉ kéo dài đến sáng mai. Hiện tại, một áp thấp nhiệt đới đang hình thành ở vùng biển phía nam. Do ảnh hưởng này, cuối tuần thời tiết sẽ xấu. Tokyo từ chiều mai trời sẽ nhiều mây, còn ngày kia dự kiến từ sáng sẽ có mưa lúc tạnh lúc rơi, đến chiều tối chuyển thành mưa to."
+        },
+        {
+          "role": "narrator",
+          "jp": "明日の東京の天気はどうなると言っていますか。",
+          "vi": "Thời tiết ngày mai của Tokyo được nói là sẽ như thế nào?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 午前中は晴れるが、午後から曇る\n\n- Thời tiết trong lành/nắng đẹp kéo dài đến sáng mai: «明日の午前中までとなりそうです».\n- Chiều mai bắt đầu chuyển nhiều mây: «明日の午後から曇りとなり».\n- Ngày kia (明後日) mới bắt đầu có mưa và đến chiều tối chuyển mưa to."
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "3番",
+      "question": "火事の原因は何ですか。",
+      "context": "",
+      "options": [
+        "2階でストーブの火が燃え出したこと",
+        "台所でストーブの火が燃え出したこと",
+        "台所のカーテンにストーブの火が燃え移ったこと",
+        "居間のカーテンにストーブの火が燃え移ったこと"
+      ],
+      "correct_answer": 4,
+      "media": {
+        "audio": "media/N2-29-LS02/q03.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "火事の現場でアナウンサーが話しています。火事の原因は何ですか。",
+          "vi": "Phát thanh viên đang nói tại hiện trường vụ hỏa hoạn. Nguyên nhân vụ hỏa hoạn là gì?"
+        },
+        {
+          "role": "female",
+          "jp": "こちら昨夜火事がありました現場です。台所の窓が黒く焦げて、2階の部屋のガラスも割れています。この家には子供二人と両親の4人が住んでいました。逃げる時に母親が軽い火傷を負い、近くの病院で手当てを受けています。現在火事の原因を調査中ですが、1階の居間と台所が一番ひどく燃えています。居間に置いてあったストーブにカーテンが触れ、火がつき燃えたものと思われます。",
+          "vi": "Đây là hiện trường nơi xảy ra vụ hỏa hoạn tối qua. Cửa sổ nhà bếp bị cháy đen, kính phòng tầng 2 cũng bị vỡ. Ngôi nhà này có 4 người sinh sống gồm 2 đứa con và bố mẹ. Khi chạy thoát thân, người mẹ bị bỏng nhẹ và đang được chăm sóc tại bệnh viện gần đó. Hiện nguyên nhân vụ cháy đang được điều tra, nhưng phòng khách và nhà bếp tầng 1 bị cháy nặng nhất. Người ta cho rằng rèm cửa đã chạm vào bếp lò đặt ở phòng khách, bắt lửa và bốc cháy."
+        },
+        {
+          "role": "narrator",
+          "jp": "火事の原因は何ですか。",
+          "vi": "Nguyên nhân vụ hỏa hoạn là gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 4. 居間のカーテンにストーブの火が燃え移ったこと\n\n- Trong đoạn phóng sự có nêu rõ: «居間に置いてあったストーブにカーテンが触れ、火がつき燃えたものと思われます» (rèm cửa chạm vào bếp lò ở phòng khách rồi bén lửa bốc cháy)."
+    }
+  ]
+}

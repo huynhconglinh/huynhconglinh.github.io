@@ -1,0 +1,117 @@
+{
+  "id": "N2-29-LS03",
+  "code": "N2-29-LS03",
+  "title": "N2.29 · BTUD Nghe hiểu Bài 3 · Mondai 3",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "listening",
+  "source": "riki/N2.29/N2.29_ BTUD_ Nghe hiểu bài 3 ( 26_8 ).mhtml",
+  "questionCount": 3,
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "1番",
+      "question": "問題3　1番",
+      "context": "",
+      "options": [
+        "植物の種の運ばれ方",
+        "植物の種に含まれる成分",
+        "タンポポの種の飛び方",
+        "アリが植物の種を運ぶ理由"
+      ],
+      "correct_answer": 1,
+      "media": {
+        "audio": "media/N2-29-LS03/q01.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "テレビの子供向けの番組でアナウンサーが話しています。",
+          "vi": "Một phát thanh viên đang nói chuyện trong chương trình truyền hình dành cho trẻ em."
+        },
+        {
+          "role": "female",
+          "jp": "春に野原や公園で咲くタンポポの花、可愛いですよね。咲き終わると真っ白な綿毛になって種をつけてふわふわ飛んでいきます。軽いので風に乗って遠くまで運ばれます。植物は動物のように歩けないので、いろいろな方法で仲間を増やすんです。他にも、種に甘い塊がついていて、つられてやってきたアリに運んでもらう植物、あるいは実にトゲがあり、動物の体にくっつきやすくなっていて、種の移動を助けてもらうものなどもあります。",
+          "vi": "Hoa bồ công anh nở ở cánh đồng hay công viên vào mùa xuân thật đáng yêu đúng không nào. Khi hoa tàn, nó trở thành túm lông tơ trắng muốt mang hạt và bay bồng bềnh đi. Vì nhẹ nên chúng nương theo gió và được chở đi rất xa. Thực vật không thể đi lại như động vật nên chúng nhân giống/phát triển đồng loại bằng rất nhiều phương pháp khác nhau. Ngoài ra, cũng có loài thực vật mà trên hạt có dính khối chất ngọt, khiến kiến bị thu hút tìm đến và giúp vận chuyển hạt đi; hoặc loài mà quả có gai dễ bám vào cơ thể động vật để nhờ chúng hỗ trợ di chuyển hạt."
+        },
+        {
+          "role": "narrator",
+          "jp": "この話のテーマは何ですか。\n1. 植物の種の運ばれ方\n2. 植物の種に含まれる成分\n3. タンポポの種の飛び方\n4. アリが植物の種を運ぶ理由",
+          "vi": "Chủ đề của câu chuyện này là gì?\n1. Cách thức hạt giống của thực vật được vận chuyển\n2. Thành phần chứa trong hạt thực vật\n3. Cách bay của hạt bồ công anh\n4. Lý do loài kiến vận chuyển hạt thực vật"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 植物の種の運ばれ方\n\n- Bài nói về các cách thực vật phát tán và vận chuyển hạt giống:\n  + Nhờ gió mang đi xa như hoa bồ công anh (bông tơ nhẹ).\n  + Nhờ loài kiến tha đi (trên hạt có chất ngọt thu hút kiến).\n  + Nhờ động vật mang đi (quả có gai móc bám vào lông thú).\n- Vì vậy chủ đề bao quát toàn bài chính là các phương thức vận chuyển hạt giống của thực vật (植物の種の運ばれ方)."
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "2番",
+      "question": "問題3　2番",
+      "context": "",
+      "options": [
+        "競技場を建て替えるべきだ",
+        "選手の宿泊施設を作るべきだ",
+        "古い道路や橋を整備すべきだ",
+        "別の自治体で大会を行うべきだ"
+      ],
+      "correct_answer": 3,
+      "media": {
+        "audio": "media/N2-29-LS03/q02.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "ある市の議会で議員が話しています。",
+          "vi": "Một nghị viên đang phát biểu tại hội đồng thành phố nọ."
+        },
+        {
+          "role": "male",
+          "jp": "えー、5年後にこの山川市で陸上競技の全国大会を開催することが決まっていますが、そのために新しい競技場や選手の宿泊施設を作ろうという意見が出ています。そういった声も理解できますが、市内には古くなってきた道路や橋があり、以前から危険が指摘されています。歩行者や車がスムーズに通れず、事故を招く恐れがあり、早期の整備が必要です。競技場は予定されている施設で対応できるはずですし、宿泊施設はなければ周辺の自治体に協力を依頼するなど他の手段があります。歩行者や車両の安全の確保を急ぐべきだと考えます。",
+          "vi": "Vâng, việc thành phố Yamakawa chúng ta tổ chức đại hội điền kinh toàn quốc vào 5 năm tới đã được quyết định, và đang có ý kiến cho rằng nên xây dựng sân vận động mới cũng như khu lưu trú cho các vận động viên phục vụ sự kiện đó. Tôi có thể hiểu được những ý kiến đó, tuy nhiên trong thành phố hiện nay có những cây cầu và tuyến đường đã cũ, từ trước đến nay đã bị cảnh báo là nguy hiểm. Người đi bộ và xe cộ không thể lưu thông thuận lợi, có nguy cơ gây tai nạn, nên cần được nhanh chóng tu sửa. Về sân thi đấu thì hoàn toàn có thể tận dụng các cơ sở sẵn có, còn nơi lưu trú nếu thiếu thì có thể nhờ sự hợp tác từ các địa phương lân cận hoặc các biện pháp khác. Tôi cho rằng chúng ta nên khẩn trương đảm bảo an toàn cho người đi bộ và phương tiện giao thông."
+        },
+        {
+          "role": "narrator",
+          "jp": "議員が言いたいことは何ですか。\n1. 競技場を建て替えるべきだ\n2. 選手の宿泊施設を作るべきだ\n3. 古い道路や橋を整備すべきだ\n4. 別の自治体で大会を行うべきだ",
+          "vi": "Nghị viên muốn nói điều gì nhất?\n1. Nên xây lại sân vận động\n2. Nên xây cơ sở lưu trú cho vận động viên\n3. Nên tu sửa đường sá và cầu cống cũ\n4. Nên tổ chức đại hội ở một địa phương khác"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 古い道路や橋を整備すべきだ\n\n- Nghị viên nêu rõ quan điểm: thay vì chi tiền xây sân vận động mới hay khách sạn cho đại hội thể thao, thành phố cần ưu tiên cấp bách tu sửa các tuyến đường và cây cầu đã cũ đang tiềm ẩn nguy hiểm («市内には古くなってきた道路や橋があり... 早期の整備が必要です», «歩行者や車両の安全の確保を急ぐべきだと考えます»)."
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "3番",
+      "question": "問題3　3番",
+      "context": "",
+      "options": [
+        "出世魚と呼ばれる理由",
+        "出世魚の成長の仕方",
+        "出世魚の種類",
+        "出世魚を食べる習慣"
+      ],
+      "correct_answer": 1,
+      "media": {
+        "audio": "media/N2-29-LS03/q03.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "テレビで女の人が話しています。",
+          "vi": "Một người phụ nữ đang nói chuyện trên truyền hình."
+        },
+        {
+          "role": "female",
+          "jp": "皆さんは「出世魚」という言葉を聞いたことがありますか。出世魚は「出世する魚」と書きます。出世すると言っても、魚が社長になるわけではありません。成長に応じて名前が変化するため、このように言われています。出世魚はいろいろ種類があり、代表的なブリという魚は小さい時は「ワカシ」と呼ばれ、成長するにつれて「イナダ」「ワラサ」「ブリ」と名前を変えます。昔、日本人は成長や出世に伴って名前を変える習慣がありました。魚の場合も同じようだということで、出世魚と言われるようになったのです。",
+          "vi": "Mọi người đã bao giờ nghe thấy từ 'Shusse-uo' (cá thăng tiến) chưa? Chữ Shusse-uo được viết là 'cá thăng tiến/thành đạt'. Nói là thăng tiến nhưng không có nghĩa là cá trở thành giám đốc đâu nhé. Nó được gọi như vậy là vì tên gọi thay đổi tùy theo từng giai đoạn phát triển của nó. Cá thăng tiến có nhiều loại, tiêu biểu như cá Buri khi còn nhỏ thì gọi là 'Wakashi', lớn lên dần sẽ đổi tên thành 'Inada', 'Warasa', rồi 'Buri'. Ngày xưa, người Nhật có tập quán đổi tên theo quá trình trưởng thành hoặc thăng quan tiến chức. Nhận thấy trường hợp của loài cá này cũng tương tự như vậy, nên người ta mới bắt đầu gọi chúng là 'Shusse-uo' (cá thăng tiến)."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の人は主に出世魚の何について話していますか。\n1. 出世魚と呼ばれる理由\n2. 出世魚の成長の仕方\n3. 出世魚の種類\n4. 出世魚を食べる習慣",
+          "vi": "Người phụ nữ chủ yếu đang nói về điều gì của cá xuất thế (Shusse-uo)?\n1. Lý do được gọi là cá Shusse-uo\n2. Cách thức phát triển của cá Shusse-uo\n3. Các chủng loại của cá Shusse-uo\n4. Tập quán ăn cá Shusse-uo"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 出世魚と呼ばれる理由\n\n- Toàn bài người phụ nữ giải thích nguồn gốc vì sao loại cá thay đổi tên gọi theo từng giai đoạn lớn lên lại có tên gọi là «出世魚» (cá thăng tiến), liên hệ với phong tục đổi tên khi lớn lên hoặc thăng chức của người Nhật thời xưa («成長に応じて名前が変化するため、このように言われています... ということで、出世魚と言われるようになったのです»)."
+    }
+  ]
+}

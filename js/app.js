@@ -673,6 +673,10 @@
     closeTopNavMenus();
     stopSpeech();
 
+    if (location.hash.replace(/^#/, "") !== examId) {
+      history.replaceState(null, "", `#${examId}`);
+    }
+
     $("quiz-body").innerHTML = `<div class="status-banner">Đang tải đề...</div>`;
     showView("quiz-view");
 
@@ -1069,6 +1073,9 @@
     stopSpeech();
     activeExam = null;
     activeMeta = null;
+    if (location.hash) {
+      history.replaceState(null, "", location.pathname + location.search);
+    }
     renderDashboard();
     showView("dashboard-view");
   }
@@ -1121,11 +1128,30 @@
       closeTopNavMenus();
     });
 
+    window.addEventListener("hashchange", () => {
+      const hashId = location.hash.replace(/^#/, "");
+      if (hashId && (catalog?.exams || []).some((e) => e.id === hashId)) {
+        if (!activeExam || activeExam.id !== hashId) {
+          openExam(hashId);
+        }
+      } else if (!hashId && activeExam) {
+        goDashboard();
+      }
+    });
+
     try {
       catalog = await DataLoader.loadCatalog();
       renderTopNav();
       renderDashboard();
-      showView("dashboard-view");
+
+      const initialExamId =
+        new URLSearchParams(location.search).get("exam") ||
+        location.hash.replace(/^#/, "");
+      if (initialExamId && (catalog.exams || []).some((e) => e.id === initialExamId)) {
+        openExam(initialExamId);
+      } else {
+        showView("dashboard-view");
+      }
     } catch (err) {
       console.error(err);
       $("dashboard-root").innerHTML = `<div class="status-banner error">${err.message}<br>Hãy chạy local server trong thư mục src (ví dụ: python -m http.server 5500).</div>`;
