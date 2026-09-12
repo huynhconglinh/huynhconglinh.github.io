@@ -1,0 +1,271 @@
+{
+  "id": "N2-29-MT04",
+  "code": "N2-29-MT04",
+  "title": "N2.29 · Minitest 4",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/N2.29_ Minitest 4.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "最近、RIKIという日本語学校に（　）している。",
+      "context": "",
+      "options": [
+        "注目",
+        "方針",
+        "分析",
+        "反映"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 注目.\n\n- 注目（ちゅうもく）: chú ý, quan tâm, để mắt tới. Cụm từ thông dụng: 〜に注目する / 〜に注目している (chú ý, quan tâm đến...).\n- 方針（ほうしん）: phương châm, chính sách.\n- 分析（ぶんせき）: phân tích.\n- 反映（はんえい）: phản ánh.\n\nCâu: 最近、RIKIという日本語学校に注目している。\nDịch: Dạo gần đây, tôi đang rất quan tâm / chú ý đến một trường tiếng Nhật có tên là RIKI."
+    },
+    {
+      "question_id": 2,
+      "question": "お客様からいただいた意見をサービス改善に（　）する。",
+      "context": "",
+      "options": [
+        "分析",
+        "反映",
+        "解消",
+        "改善"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 反映.\n\n- 反映（はんえい）: phản ánh, tiếp thu và áp dụng vào thực tế. Cụm từ: 〜を〜に反映する (phản ánh/áp dụng điều gì vào việc gì).\n- 分析（ぶんせき）: phân tích.\n- 解消（かいしょう）: xóa bỏ, giải tỏa.\n- 改善（かいぜん）: cải thiện (phía trước đã có 「サービス改善」 nên không lặp lại 改善する).\n\nCâu: お客様からいただいた意見をサービス改善に反映する。\nDịch: Phản ánh (áp dụng) những ý kiến nhận được từ khách hàng vào việc cải thiện chất lượng dịch vụ."
+    },
+    {
+      "question_id": 3,
+      "question": "私のストレス（　）法はカラオケに行くことです。",
+      "context": "",
+      "options": [
+        "範囲",
+        "解消",
+        "利益",
+        "方針"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 解消.\n\n- 解消（かいしょう）: giải tỏa, xóa bỏ. Từ ghép quen thuộc: ストレス解消法（ストレスかいしょうほう）: phương pháp giải tỏa stress / căng thẳng.\n- 範囲（はんい）: phạm vi.\n- 利益（りえき）: lợi nhuận, lợi ích.\n- 方針（ほうしん）: phương châm.\n\nCâu: 私のストレス解消法はカラオケに行くことです。\nDịch: Phương pháp xả stress của tôi là đi hát karaoke."
+    },
+    {
+      "question_id": 4,
+      "question": "あの政治家は（　）の声に耳を傾けている。",
+      "context": "",
+      "options": [
+        "限定",
+        "地元",
+        "演説",
+        "役目"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 地元.\n\n- 地元（じもと）: địa phương, người dân bản xứ/địa phương. Cụm từ: 地元の声（じもとのこえ）: tiếng nói, nguyện vọng của người dân địa phương. 耳を傾ける（みみをかたむける）: lắng nghe một cách chân thành.\n- 限定（げんてい）: hạn định, giới hạn.\n- 演説（えんぜつ）: diễn thuyết, phát biểu.\n- 役目（やくめ）: vai trò, trọng trách, nhiệm vụ.\n\nCâu: あの政治家は地元の声に耳を傾けている。\nDịch: Chính trị gia đó luôn lắng nghe tiếng nói của người dân địa phương."
+    },
+    {
+      "question_id": 5,
+      "question": "昨日の政治家たちの（　）はかなり激しかった。",
+      "context": "",
+      "options": [
+        "演説",
+        "論戦",
+        "じたばた",
+        "点検"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 論戦.\n\n- 論戦（ろんせん）: cuộc tranh luận, bút chiến, tranh biện nảy lửa. Đi kèm với tính từ 激しい（はげしい）: 論戦が激しい (cuộc tranh luận diễn ra gay gắt).\n- 演説（えんぜつ）: bài diễn thuyết (thường là một người phát biểu trước quần chúng).\n- じたばた: cuống cuồng, vùng vẫy, giãy giụa.\n- 点検（てんけん）: kiểm tra, rà soát, bảo dưỡng.\n\nCâu: 昨日の政治家たちの論戦はかなり激しかった。\nDịch: Cuộc tranh luận ngày hôm qua giữa các chính trị gia đã diễn ra vô cùng nảy lửa / gay gắt."
+    },
+    {
+      "question_id": 6,
+      "question": "パスワード連続（　）が続ければ、アカウントがロックされる。",
+      "context": "",
+      "options": [
+        "臆病",
+        "誤",
+        "確保",
+        "記憶"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 誤.\n\n- 誤（ご）: tiền tố/hậu tố Hán tự mang nghĩa sai, lỗi (誤入力, 誤作動, 誤認...). Trong ngữ cảnh này, 連続誤（れんぞくご）chỉ việc thao tác / nhập sai liên tiếp.\n- 臆病（おくびょう）: nhút nhát, hèn nhát.\n- 確保（かくほ）: bảo đảm, giữ vững.\n- 記憶（きおく）: trí nhớ, ký ức.\n\nCâu: パスワード連続誤が続ければ、アカウントがロックされる。\nDịch: Nếu tiếp tục nhập sai mật khẩu liên tiếp, tài khoản sẽ bị khóa."
+    },
+    {
+      "question_id": 7,
+      "question": "面接で思わぬことを聞かれて（　）し、うまく答えられなかった。",
+      "context": "",
+      "options": [
+        "動揺",
+        "信頼",
+        "尊重",
+        "充満"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 動揺.\n\n- 動揺（どうよう）: dao động, hoang mang, mất bình tĩnh, bối rối. Cụm từ: 動揺する: bị mất bình tĩnh, cuống quýt.\n- 信頼（しんらい）: sự tin cậy, lòng tin.\n- 尊重（そんちょう）: tôn trọng.\n- 充満（じゅうまん）: tràn ngập, đầy ắp (mùi hương, khói, khí ga).\n\nCâu: 面接で思わぬことを聞かれて動揺し、うまく答えられなかった。\nDịch: Trong buổi phỏng vấn, vì bị hỏi câu hỏi không ngờ tới nên tôi đã mất bình tĩnh và không thể trả lời trôi chảy."
+    },
+    {
+      "question_id": 8,
+      "question": "上司の（　）に応えていい仕事をしたい。",
+      "context": "",
+      "options": [
+        "尊重",
+        "信頼",
+        "かかりつけ",
+        "初期"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 信頼.\n\n- 信頼（しんらい）: sự tin tưởng, tín nhiệm. Cụm từ cố định: 〜の信頼に応える（しんらいにこたえる）: đáp lại sự tin tưởng, kỳ vọng của ai.\n- 尊重（そんちょう）: tôn trọng.\n- かかりつけ: quen thuộc (ví dụ: かかりつけ医 - bác sĩ quen thuộc).\n- 初期（しょき）: giai đoạn đầu, thời kỳ đầu.\n\nCâu: 上司の信頼に応えていい仕事をしたい。\nDịch: Tôi muốn hoàn thành tốt công việc để đáp lại sự tin tưởng của cấp trên."
+    },
+    {
+      "question_id": 9,
+      "question": "海外（　）する企業が増えている。",
+      "context": "",
+      "options": [
+        "改造",
+        "避難",
+        "才能",
+        "展開"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 展開.\n\n- 展開（てんかい）: mở rộng, phát triển quy mô. Cụm từ kinh doanh thông dụng: 海外展開する（かいがいてんかいする）: mở rộng hoạt động/thị trường ra nước ngoài.\n- 改造（かいぞう）: cải tạo, độ lại, tân trang.\n- 避難（ひなん）: lánh nạn, sơ tán.\n- 才能（さいのう）: tài năng, năng khiếu.\n\nCâu: 海外展開する企業が増えている。\nDịch: Các doanh nghiệp mở rộng quy mô phát triển ra nước ngoài ngày càng gia tăng."
+    },
+    {
+      "question_id": 10,
+      "question": "新聞記者は社会の変化に（　）でなければならない。",
+      "context": "",
+      "options": [
+        "転勤",
+        "敏感",
+        "油断",
+        "保存"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 敏感.\n\n- 敏感（びんかん）: nhạy bén, nhạy cảm. Cụm từ: 〜に敏感である / 敏感でなければならない (phải nhạy bén trước cái gì).\n- 転勤（てんきん）: chuyển công tác (nơi làm việc khác).\n- 油断（ゆだん）: lơ là, bất cẩn, chủ quan.\n- 保存（ほぞん）: bảo tồn, lưu trữ.\n\nCâu: 新聞記者は社会の変化に敏感でなければならない。\nDịch: Nhà báo / phóng viên báo chí phải luôn nhạy bén trước những biến chuyển của xã hội."
+    },
+    {
+      "question_id": 11,
+      "question": "こんな漢字は小学生（　　　）書けるのに、大人のあなたが書けないなんて恥ずかしいですよ。",
+      "context": "",
+      "options": [
+        "だけが",
+        "なら",
+        "でさえ",
+        "だから"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ でさえ.\n\nCấu trúc: N + でさえ: Ngay cả N, thậm chí N.\nDùng để đưa ra một ví dụ có tính chất cực đoan, nhấn mạnh rằng đến đối tượng như vậy còn làm được thì người khác hiển nhiên là phải làm được.\nỞ đây: 「小学生でさえ書ける」 = ngay cả học sinh tiểu học còn viết được.\n\nCâu: こんな漢字は小学生でさえ書けるのに、大人のあなたが書けないなんて恥ずかしいですよ。\nDịch: Chữ Hán như thế này ngay cả học sinh tiểu học còn viết được, vậy mà người lớn như anh lại không viết được thì thật xấu hổ đấy."
+    },
+    {
+      "question_id": 12,
+      "question": "君にも権利があるのだから、何も遠慮する（　　　）のだ。",
+      "context": "",
+      "options": [
+        "はずはない",
+        "ことはない",
+        "ほかはない",
+        "わけはない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② ことはない.\n\nCấu trúc: V-る + ことはない: Không cần phải V / Không việc gì phải V.\nDùng khi đưa ra lời khuyên hoặc động viên đối phương rằng không cần thiết phải làm hành động đó.\n- はずはない / わけはない: Tuyệt đối không thể có chuyện.\n- ほかはない: Chỉ còn cách là.\n\nCâu: 君にも権利があるのだから、何も遠慮することはないのだ。\nDịch: Cậu cũng có quyền lợi của mình mà, cho nên chẳng việc gì phải ngại ngùng / khách sáo cả đâu."
+    },
+    {
+      "question_id": 13,
+      "question": "田中選手は前大会に続いて、今大会でも優勝を果たした。彼の今後の活躍に周囲の期待は高まる（　　　）。",
+      "context": "",
+      "options": [
+        "わけがない",
+        "わけにはいかない",
+        "あげくだ",
+        "一方だ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 一方だ.\n\nCấu trúc: V-る + 一方だ（いっぽうだ）: Ngày càng... / Có xu hướng liên tục biến đổi theo một chiều hướng.\n- 高まる一方だ: ngày càng tăng cao, ngày một dâng cao.\n- わけがない: tuyệt đối không có lý nào.\n- わけにはいかない: không thể nào làm thế được (vì lý do đạo đức/xã hội).\n- あげく: sau một hồi... kết cục lại xấu.\n\nCâu: 田中選手は前大会に続いて、今大会でも優勝を果たした。彼の今後の活躍に周囲の期待は高まる一方だ。\nDịch: Nối tiếp giải đấu trước, tuyển thủ Tanaka lại tiếp tục giành chức vô địch ở giải đấu lần này. Sự kỳ vọng của mọi người xung quanh vào sự tỏa sáng của anh ấy trong tương lai ngày càng dâng cao."
+    },
+    {
+      "question_id": 14,
+      "question": "ここ数年の都市開発で、この辺りの森や林はなくなる（　　　）。",
+      "context": "",
+      "options": [
+        "わけがない",
+        "わけにはいかない",
+        "あげくだ",
+        "一方だ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 一方だ.\n\nCấu trúc: V-る + 一方だ: Ngày càng... / Có xu hướng liên tục biến đổi (thường theo chiều hướng tiêu cực).\n- なくなる一方だ: ngày càng biến mất đi / ngày một mai một.\n\nCâu: ここ数年の都市開発で、この辺りの森や林はなくなる一方だ。\nDịch: Do quá trình phát triển đô thị trong vài năm trở lại đây, rừng cây quanh vùng này ngày càng biến mất đi."
+    },
+    {
+      "question_id": 15,
+      "question": "小さな娘が家事を手伝って（　　　）が、実のところじゃまになるだけだった。",
+      "context": "",
+      "options": [
+        "くれようがなかった",
+        "くれようとした",
+        "もらいようがなかった",
+        "もらおうとした"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② くれようとした.\n\nCấu trúc ngữ pháp:\n- 〜てくれる: làm việc gì giúp cho mình.\n- V-意向形 + とする: cố gắng, toan, có ý định làm gì.\n=> 手伝ってくれようとした: đã cố gắng / có ý định muốn giúp việc nhà cho mẹ.\nVế sau: 「実のところじゃまになるだけだった」 (thực tế thì chỉ tổ vướng chân). Sự tương phản này diễn tả việc đứa trẻ rất có ý muốn giúp đỡ nhưng rốt cuộc lại thành vướng víu.\n(Lưu ý: 〜ようがない diễn tả không có cách nào làm được, không phù hợp ngữ cảnh).\n\nCâu: 小さな娘が家事を手伝ってくれようとしたが、実のところじゃまになるだけだった。\nDịch: Cô con gái nhỏ đã cố gắng muốn phụ giúp việc nhà, nhưng thực tế thì chỉ tổ vướng chân thêm mà thôi."
+    },
+    {
+      "question_id": 16,
+      "question": "その点は弁護士と相談した（　　　）、ご返事します。",
+      "context": "",
+      "options": [
+        "そとで",
+        "なかで",
+        "うえで",
+        "もとで"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ うえで.\n\nCấu trúc: V-た + 上で（うえで）: Sau khi... / Trên cơ sở sau khi hoàn thành A thì mới thực hiện B.\nNhấn mạnh việc tham khảo/thảo luận là bước chuẩn bị cần thiết trước khi phản hồi.\n\nCâu: その点は弁護士と相談したうえで、ご返事します。\nDịch: Về điểm đó, sau khi bàn bạc với luật sư xong, tôi sẽ trả lời lại quý vị."
+    },
+    {
+      "question_id": 17,
+      "question": "勉強は難しいし、宿題は多いし、疲れはたまる（　　　）。",
+      "context": "",
+      "options": [
+        "気味だ",
+        "一方だ",
+        "以上だ",
+        "次第だ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 一方だ.\n\nCấu trúc: V-る + 一方だ: Cứ ngày càng... (chỉ sự biến đổi tiến triển theo một chiều hướng xấu liên tục).\n- 疲れはたまる一方だ: Sự mệt mỏi cứ ngày càng tích tụ, chồng chất.\n- 気味だ（ぎみだ）: Có cảm giác hơi... (đi với N hoặc V-masu bỏ masu: 疲れ気味だ, không đi với thể từ điển たまる).\n- 以上（いじょう）は: Một khi đã... thì.\n- 次第（しだい）だ: Tùy thuộc vào / Do đó.\n\nCâu: 勉強は難しいし、宿題は多いし、疲れはたまる一方だ。\nDịch: Việc học thì khó, bài tập về nhà lại nhiều, sự mệt mỏi cứ ngày càng chồng chất."
+    },
+    {
+      "question_id": 18,
+      "question": "資金がなかなか集まらず ＿＿ ＿＿ _★_ ＿＿。",
+      "context": "",
+      "options": [
+        "あせりの色は",
+        "一方だ",
+        "濃くなる",
+        "関係者の"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 濃くなる.\n\nThứ tự đúng: 関係者の → あせりの色は → 濃くなる（★） → 一方だ\n(Thứ tự các đáp án: 4 → 1 → 3 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「濃くなる」 (lựa chọn 3).\n- Cụm từ: 「あせりの色が濃くなる」: vẻ sốt ruột, lo lắng ngày một lộ rõ / đậm nét hơn.\n- Cấu trúc: V-る + 一方だ: ngày một... => 「濃くなる一方だ」.\n- Cụm chủ ngữ: 「関係者のあせりの色」 (vẻ sốt ruột của những người có liên quan).\n\nCâu hoàn chỉnh: 資金がなかなか集まらず、関係者のあせりの色は濃くなる一方だ。\nDịch: Tiền vốn mãi mà không gom đủ, sự sốt ruột lo lắng của những người liên quan ngày một lộ rõ và tăng thêm."
+    },
+    {
+      "question_id": 19,
+      "question": "それが自分の生命を危うくする ＿＿ _★_ ＿＿　＿＿ その職を引き受けた。",
+      "context": "",
+      "options": [
+        "かもしれない",
+        "上で",
+        "十分承知した",
+        "ことを"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ことを.\n\nThứ tự đúng: かもしれない → ことを（★） → 十分承知した → 上で\n(Thứ tự các đáp án: 1 → 4 → 3 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 2: 「ことを」 (lựa chọn 4).\n- Mệnh đề phỏng đoán: 「危うくするかもしれない」 (có thể gây nguy hiểm tới).\n- Danh từ hóa mệnh đề: 「〜かもしれないことを十分承知した」 (sau khi đã nhận thức và hiểu rất rõ việc có thể...).\n- Cấu trúc: V-た + 上で: trên cơ sở đã / sau khi đã... => 「十分承知した上で、その職を引き受けた」.\n\nCâu hoàn chỉnh: それが自分の生命を危うくするかもしれないことを十分承知した上で、その職を引き受けた。\nDịch: Sau khi đã nhận thức và hiểu rất rõ rằng việc đó có thể gây nguy hiểm cho tính mạng của chính mình, người ấy vẫn nhận chức vụ đó."
+    },
+    {
+      "question_id": 20,
+      "question": "首になる危険をおかしてまで自分の ＿＿ _★_ ＿＿　＿＿ 。",
+      "context": "",
+      "options": [
+        "ない",
+        "ことは",
+        "述べる",
+        "考えを"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 述べる.\n\nThứ tự đúng: 考えを → 述べる（★） → ことは → ない\n(Thứ tự các đáp án: 4 → 3 → 2 → 1)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 2: 「述べる」 (lựa chọn 3).\n- Cụm từ: 「自分の考えを述べる」: phát biểu, bày tỏ suy nghĩ của bản thân.\n- Cấu trúc: V-る + ことはない: không việc gì phải / không cần phải... => 「述べることはない」.\n- Liên kết với vế trước: 「首になる危険をおかしてまで」: đến mức phải chấp nhận nguy cơ bị sa thải / đuổi việc.\n\nCâu hoàn chỉnh: 首になる危険をおかしてまで自分の考えを述べることはない。\nDịch: Chẳng việc gì phải mạo hiểm cả nguy cơ bị sa thải để nói ra suy nghĩ của mình."
+    }
+  ]
+}

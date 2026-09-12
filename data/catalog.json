@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T13:30:00Z",
+  "updatedAt": "2026-09-12T11:16:32Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -369,6 +369,16 @@
       "topic": "kanji",
       "questionCount": 30,
       "file": "exams/N2/N2-29-MT02.json"
+    },
+    {
+      "id": "N2-29-MT04",
+      "code": "N2-29-MT04",
+      "title": "N2.29 · Minitest 4",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 20,
+      "file": "exams/N2/N2-29-MT04.json"
     },
     {
       "id": "N2-29-RD06",
