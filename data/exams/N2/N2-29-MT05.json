@@ -1,0 +1,271 @@
+{
+  "id": "N2-29-MT05",
+  "code": "N2-29-MT05",
+  "title": "N2.29 · Minitest 5",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/N2.29_ Minitest 5.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "新人の内に先輩の知識をたくさん（　）してください。",
+      "context": "",
+      "options": [
+        "得点",
+        "予報",
+        "達成",
+        "吸収"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 吸収.\n\n- 吸収（きゅうしゅう）: hấp thu, tiếp thu (kiến thức, dưỡng chất, nước...). Cụm từ: 知識を吸収する (tiếp thu kiến thức).\n- 得点（とくてん）: ghi điểm, điểm số đạt được.\n- 予報（よほう）: dự báo (thời tiết).\n- 達成（たっせい）: đạt được (mục tiêu, kế hoạch).\n\nCâu: 新人の内に先輩の知識をたくさん吸収してください。\nDịch: Trong lúc còn là nhân viên mới, hãy tiếp thu thật nhiều kiến thức từ các tiền bối."
+    },
+    {
+      "question_id": 2,
+      "question": "東日本大震災の時、ベトナムは日本へ衣服を（　）した。",
+      "context": "",
+      "options": [
+        "選出",
+        "孤立",
+        "表現",
+        "寄付"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 寄付.\n\n- 寄付（きふ）: quyên góp, ủng hộ, đóng góp (tiền bạc, đồ đạc, quần áo...).\n- 選出（せんしゅつ）: bầu chọn, tuyển chọn.\n- 孤立（こりつ）: cô lập.\n- 表現（ひょうげん）: biểu hiện, diễn đạt, thể hiện.\n\nCâu: 東日本大震災の時、ベトナムは日本へ衣服を寄付した。\nDịch: Vào thời điểm xảy ra thảm họa động đất sóng thần phía Đông Nhật Bản, Việt Nam đã quyên góp quần áo cho Nhật Bản."
+    },
+    {
+      "question_id": 3,
+      "question": "Iphoneのケーブルの（　）は壊れやすいので注意してください。",
+      "context": "",
+      "options": [
+        "先端",
+        "明示",
+        "専属",
+        "大別"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 先端.\n\n- 先端（せんたん）: đầu, mũi, chóp, mút (đầu dây cáp, đầu bút, đầu ngón tay...).\n- 明示（めいじ）: nêu rõ, chỉ rõ.\n- 専属（せんぞく）: chuyên thuộc, độc quyền, riêng biệt.\n- 大別（たいべつ）: phân loại lớn, chia đại thể.\n\nCâu: Iphoneのケーブルの先端は壊れやすいので注意してください。\nDịch: Phần đầu cáp sạc iPhone rất dễ hỏng nên xin hãy chú ý."
+    },
+    {
+      "question_id": 4,
+      "question": "日本に行きたいというモチベーションがあるから、勉強の（　）が上がる。",
+      "context": "",
+      "options": [
+        "活気",
+        "愛情",
+        "やる気",
+        "決勝戦"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ やる気.\n\n- やる気（やるき）: hứng thú, động lực, tinh thần muốn làm việc/học tập. Cụm từ: やる気が上がる / やる気が出る (tăng động lực / có hứng thú).\n- 活気（かっき）: sự hoạt bát, sôi nổi (thường dùng cho chợ búa, đường phố, nơi chốn).\n- 愛情（あいじょう）: tình yêu thương.\n- 決勝戦（けっしょうせん）: trận chung kết.\n\nCâu: 日本に行きたいというモチベーションがあるから、勉強のやる気が上がる。\nDịch: Vì có động lực muốn đi Nhật nên tinh thần học tập của tôi tăng lên."
+    },
+    {
+      "question_id": 5,
+      "question": "高校野球で、母校が決勝戦に（　）した。",
+      "context": "",
+      "options": [
+        "放映",
+        "拡大",
+        "退場",
+        "進出"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 進出.\n\n- 進出（しんしゅつ）: tiến vào, lọt vào (vòng tiếp theo, thị trường, giải đấu). Cụm từ: 決勝戦に進出する (lọt vào trận chung kết).\n- 放映（ほうえい）: phát sóng truyền hình.\n- 拡大（かくだい）: mở rộng, phóng to.\n- 退場（たいじょう）: rời khỏi sân, bị truất quyền thi đấu.\n\nCâu: 高校野球で、母校が決勝戦に進出した。\nDịch: Trong giải bóng chày trung học, trường cũ của tôi đã lọt vào trận chung kết."
+    },
+    {
+      "question_id": 6,
+      "question": "物の値段には、（　）と供給の関係が影響している。",
+      "context": "",
+      "options": [
+        "投票",
+        "需要",
+        "半球",
+        "休憩"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 需要.\n\n- 需要（じゅよう）: nhu cầu, cầu (trong kinh tế). Cụm từ kinh tế quen thuộc: 需要と供給（じゅようときょうきゅう）: cung và cầu.\n- 投票（とうひょう）: bỏ phiếu.\n- 半球（はんきゅう）: bán cầu (Bắc bán cầu, Nam bán cầu).\n- 休憩（きゅうけい）: nghỉ giải lao.\n\nCâu: 物の値段には、需要と供給の関係が影響している。\nDịch: Giá cả hàng hóa chịu ảnh hưởng bởi mối quan hệ cung cầu."
+    },
+    {
+      "question_id": 7,
+      "question": "人生の（　）はあなたです。",
+      "context": "",
+      "options": [
+        "区切り",
+        "筆者",
+        "需要",
+        "主人公"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 主人公.\n\n- 主人公（しゅじんこう）: nhân vật chính (trong phim, truyện, hoặc nghĩa bóng là cuộc đời).\n- 区切り（くぎり）: dấu mốc, phân chia, điểm dừng.\n- 筆者（ひっしゃ）: tác giả, người viết.\n- 需要（じゅよう）: nhu cầu.\n\nCâu: 人生の主人公はあなたです。\nDịch: Nhân vật chính trong cuộc đời bạn chính là bạn."
+    },
+    {
+      "question_id": 8,
+      "question": "どんな事を勉強するのか、RIKI大学の授業（　）はこちらから確認してください。",
+      "context": "",
+      "options": [
+        "初心者",
+        "概要",
+        "役割",
+        "候補"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 概要.\n\n- 概要（がいよう）: khái yếu, tóm tắt, đề cương tổng quát. Cụm từ: 授業概要（じゅぎょうがいよう）: đề cương / tóm tắt nội dung khóa học (syllabus).\n- 初心者（しょしんしゃ）: người mới bắt đầu.\n- 役割（やくわり）: vai trò, nhiệm vụ.\n- 候補（こうほ）: ứng cử viên, dự tuyển.\n\nCâu: どんな事を勉強するのか、RIKI大学の授業概要はこちらから確認してください。\nDịch: Để biết sẽ học những gì, xin vui lòng kiểm tra tóm tắt nội dung bài học của Đại học RIKI tại đây."
+    },
+    {
+      "question_id": 9,
+      "question": "広辞苑は60年で6回（　）されている。",
+      "context": "",
+      "options": [
+        "改善",
+        "改正",
+        "改造",
+        "改訂"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 改訂.\n\n- 改訂（かいてい）: đính chính, chỉnh lý, sửa đổi bổ sung và tái bản (sách, từ điển, văn bản).\n- 改善（かいぜん）: cải thiện (tình hình, dịch vụ, chất lượng).\n- 改正（かいせい）: sửa đổi (luật lệ, quy định, chính sách).\n- 改造（かいぞう）: cải tạo, độ xe, sửa chữa nâng cấp cấu trúc.\n\nCâu: 広辞苑は60年で6回改訂されている。\nDịch: Từ điển Kojien trong 60 năm đã được tái bản chỉnh sửa 6 lần."
+    },
+    {
+      "question_id": 10,
+      "question": "１９７９年にマザーテレサはノーベル平和賞を（　）した。",
+      "context": "",
+      "options": [
+        "事業",
+        "講座",
+        "設計",
+        "受賞"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 受賞.\n\n- 受賞（じゅしょう）: nhận thưởng, đoạt giải thưởng. Cụm từ: 賞を受賞する (nhận giải thưởng).\n- 事業（じぎょう）: sự nghiệp, hoạt động kinh doanh, dự án.\n- 講座（こうざ）: khóa học, lớp học chuyên đề.\n- 設計（せっけい）: thiết kế (kỹ thuật, kiến trúc).\n\nCâu: １９７９年にマザーテレサはノーベル平和賞を受賞した。\nDịch: Năm 1979, Mẹ Teresa đã nhận giải Nobel Hòa bình."
+    },
+    {
+      "question_id": 11,
+      "question": "自分が親になってみて（　　　）、両親の愛の深さに気づいた。",
+      "context": "",
+      "options": [
+        "はじめ",
+        "はじめて",
+        "はじめで",
+        "はじめると"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② はじめて.\n\nNgữ pháp: 〜てはじめて (Chỉ sau khi... / Kể từ sau khi... thì mới nhận ra điều gì mà trước đó chưa biết/chưa để ý).\n- Cấu trúc: V-て + はじめて.\n\nCâu: 自分が親になってみてはじめて、両親の愛の深さに気づいた。\nDịch: Chỉ sau khi tự mình làm cha mẹ rồi, tôi mới thấm thía và nhận ra tình yêu thương sâu đậm của bố mẹ."
+    },
+    {
+      "question_id": 12,
+      "question": "５年間の留学（　　　）出した決断は、帰国だった。",
+      "context": "",
+      "options": [
+        "の末に",
+        "のあげくに",
+        "だけに",
+        "はじめに"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① の末に.\n\nNgữ pháp: 〜末（に） / 〜の末（に） (Sau một thời gian dài... rốt cuộc đưa ra quyết định / có kết quả).\n- N + の末に / V-た + 末に: thể hiện sau một quá trình dài suy nghĩ, trăn trở, nỗ lực thì đưa ra kết luận/quyết định (kết quả có thể tích cực hoặc trung tính).\n- Phân biệt với 〜あげく (のあげくに): thường mang sắc thái kết cục đáng tiếc, thất vọng hoặc tiêu cực. Ở đây việc đưa ra quyết định sau 5 năm du học (決断を出した) đi tự nhiên nhất với 「の末に」.\n- だけに: chính vì... nên càng...\n- はじめに: đầu tiên, trước hết.\n\nCâu: ５年間の留学の末に出した決断は、帰国だった。\nDịch: Sau 5 năm du học, quyết định mà tôi đưa ra là trở về nước."
+    },
+    {
+      "question_id": 13,
+      "question": "旅先で読む （　　　） 、気軽に読める推理小説なんかいいですね。",
+      "context": "",
+      "options": [
+        "としたら",
+        "にせよ",
+        "としても",
+        "につけ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① としたら.\n\nNgữ pháp: 〜としたら / 〜とすれば (Giả sử là... / Nếu là...).\n- Dùng để đưa ra một giả định hoặc điều kiện: \"Nếu là đọc sách ở nơi đi du lịch thì...\".\n- にせよ / としても: cho dù là, dẫu cho là (mang nghĩa nhượng bộ, không phù hợp).\n- につけ: mỗi lần... lại cảm thấy (thường đi với 見るにつけ, 思うにつけ).\n\nCâu: 旅先で読むとしたら、気軽に読める推理小説なんかいいですね。\nDịch: Nếu là đọc trong chuyến du lịch thì những cuốn tiểu thuyết trinh thám đọc nhẹ nhàng thoải mái là tuyệt nhất nhỉ."
+    },
+    {
+      "question_id": 14,
+      "question": "仮に君の話が本当だ （　　　） 、彼女はうそをついていることになる。",
+      "context": "",
+      "options": [
+        "とすれば",
+        "ことから",
+        "としても",
+        "につけ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① とすれば.\n\nNgữ pháp: 仮に〜とすれば / としたら (Giả sử như là... thì...).\n- 仮に（かりに） thường đi kèm với 〜とすれば / 〜としたら / 〜としても để đưa ra giả định.\n- 「〜とすれば」 dùng khi từ tiền đề giả định suy ra một hệ quả logic hoặc kết luận tất yếu: \"Nếu chuyện của cậu là thật -> cô ấy đang nói dối\".\n- 「〜としても」: mang ý nghĩa nhượng bộ \"ngay cả khi / cho dù là... thì (vẫn không thay đổi)\", không phù hợp với kết luận tất yếu ở vế sau.\n- ことから: vì, do (chỉ căn cứ phán đoán, không đi với 仮に).\n\nCâu: 仮に君の話が本当だとすれば、彼女はうそをついていることになる。\nDịch: Giả sử câu chuyện của cậu là thật, thì điều đó đồng nghĩa với việc cô ấy đang nói dối."
+    },
+    {
+      "question_id": 15,
+      "question": "月旅行に行ける （　　　） 行ってみたい｡",
+      "context": "",
+      "options": [
+        "ことには",
+        "わりには",
+        "ものなら",
+        "わけなら"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ものなら.\n\nNgữ pháp: V-れる + ものなら (Nếu có thể làm được điều gì khó khăn/bất khả thi thì rất muốn làm...).\n- Cấu trúc: Động từ thể khả năng + ものなら + V-たい / てみたい.\n- Thể hiện ước muốn tha thiết đối với một việc khó thực hiện trong thực tế (đi du lịch mặt trăng).\n- ことには (〜ないことには〜ない): nếu không... thì không...\n- わりには: tuy... nhưng lại... (so với mức độ thông thường).\n\nCâu: 月旅行に行けるものなら行ってみたい｡\nDịch: Nếu có thể đi du lịch mặt trăng được thì tôi rất muốn đi thử."
+    },
+    {
+      "question_id": 16,
+      "question": "今後もなお遅刻が続く（　　　）処分の対象とする。",
+      "context": "",
+      "options": [
+        "つもりなら",
+        "ためなら",
+        "はずなら",
+        "ようなら"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ようなら.\n\nNgữ pháp: 〜ようなら / ようであれば (Nếu tình trạng/sự việc cứ tiếp diễn như thế thì...).\n- Thường dùng trong các cảnh báo, quy định, thông báo xử lý: \"Nếu tình trạng đi muộn vẫn tiếp tục diễn ra thì sẽ trở thành đối tượng bị xử phạt kỷ luật\".\n- つもりなら: nếu có ý định làm gì.\n- ためなら: nếu là vì...\n- はずなら: nếu chắc chắn là (không dùng cho câu cảnh báo/điều kiện quy định như này).\n\nCâu: 今後もなお遅刻が続くようなら処分の対象とする。\nDịch: Từ nay về sau nếu tình trạng đi muộn vẫn tiếp diễn thì sẽ bị xem xét kỷ luật."
+    },
+    {
+      "question_id": 17,
+      "question": "どちらの服にしようか、さんざん迷った （　　　）、結局何も買わなかった。",
+      "context": "",
+      "options": [
+        "せいで",
+        "なかに",
+        "あげく",
+        "かぎり"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ あげく.\n\nNgữ pháp: さんざん〜あげく（に） (Sau một hồi rất nhiều... rốt cuộc thì dẫn đến kết quả đáng tiếc / không như mong đợi).\n- Cấu trúc: V-た + あげく / N + のあげく.\n- Đi kèm với từ 「さんざん」 (rất nhiều, đắn đo mãi), vế sau là kết quả không đạt được gì: \"rốt cuộc chẳng mua gì cả\".\n- せいで: tại vì / do (chỉ nguyên nhân tiêu cực, nhưng không đi với phó từさんざん dạng này).\n- かぎり: chừng nào còn...\n\nCâu: どちらの服にしようか、さんざん迷ったあげく、結局何も買わなかった。\nDịch: Sau một hồi đắn đo mãi không biết chọn bộ quần áo nào, rốt cuộc tôi chẳng mua bộ nào cả."
+    },
+    {
+      "question_id": 18,
+      "question": "この会社は設立 ___ _ ★ _ ___ ___ が伸びている。",
+      "context": "",
+      "options": [
+        "業績",
+        "され",
+        "て以来",
+        "毎年"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ て以来.\n\nVị trí sắp xếp:\nこの会社は設立 【され】 【★ て以来】 【毎年】 【業績】 が伸びている。\n(Thứ tự: ② され -> ③ て以来 -> ④ 毎年 -> ① 業績)\nVị trí ngôi sao ★ là vị trí số 2, tương ứng với đáp án ③ て以来.\n\nNgữ pháp:\n- 〜て以来（ていらい）: kể từ sau khi... thì suốt từ đó đến nay liên tục...\n- 設立されて以来（せつりつされていらい）: Kể từ khi được thành lập đến nay.\n- 業績が伸びている: thành tích/kết quả kinh doanh không ngừng tăng trưởng.\n\nCâu hoàn chỉnh: この会社は設立されて以来毎年業績が伸びている。\nDịch: Công ty này kể từ khi thành lập đến nay, năm nào kết quả kinh doanh cũng tăng trưởng."
+    },
+    {
+      "question_id": 19,
+      "question": "ちょっと信じられないことだが、 ___ ___ __ ★ __ ___ だ。",
+      "context": "",
+      "options": [
+        "としたら",
+        "事実だ",
+        "ものすごい",
+        "発見"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ものすごい.\n\nVị trí sắp xếp:\nちょっと信じられないことだが、 【事実だ】 【としたら】 【★ ものすごい】 【発見】 だ。\n(Thứ tự: ② 事実だ -> ① としたら -> ③ ものすごい -> ④ 発見)\nVị trí ngôi sao ★ là vị trí số 3, tương ứng với đáp án ③ ものすごい.\n\nNgữ pháp & cụm từ:\n- 〜としたら: Giả sử nếu là...\n- 事実だとしたら: Nếu đó là sự thật...\n- ものすごい発見だ: Quả là một phát hiện phi thường / chấn động.\n\nCâu hoàn chỉnh: ちょっと信じられないことだが、事実だとしたらものすごい発見だ。\nDịch: Dù là chuyện có hơi khó tin một chút, nhưng nếu đó là sự thật thì quả là một phát hiện chấn động."
+    },
+    {
+      "question_id": 20,
+      "question": "車も慣れてくると ___ ___ __ ★ __ ___ なる。",
+      "context": "",
+      "options": [
+        "点検を",
+        "がちに",
+        "おこたり",
+        "運転前の"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ おこたり.\n\nVị trí sắp xếp:\n車も慣れてくると 【運転前の】 【点検を】 【★ おこたり】 【がちに】 なる。\n(Thứ tự: ④ 運転前の -> ① 点検を -> ③ おこたり -> ② がちに)\nVị trí ngôi sao ★ là vị trí số 3, tương ứng với đáp án ③ おこたり.\n\nNgữ pháp & từ vựng:\n- 怠る（おこたる）: lơ là, sao nhãng, bỏ bê.\n- V-ます (bỏ ます) + がち: hay có xu hướng / dễ bị... (mang sắc thái tiêu cực).\n- おこたりがちになる: trở nên hay lơ là, xao nhãng.\n- 運転前の点検: kiểm tra (xe) trước khi lái.\n\nCâu hoàn chỉnh: 車も慣れてくると運転前の点検をおこたりがちになる。\nDịch: Khi đã quen lái xe rồi thì người ta thường có xu hướng lơ là việc kiểm tra xe trước khi lái."
+    }
+  ]
+}
