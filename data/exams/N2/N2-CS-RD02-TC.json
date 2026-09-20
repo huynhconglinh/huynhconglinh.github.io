@@ -1,0 +1,50 @@
+{
+  "id": "N2-CS-RD02-TC",
+  "code": "N2-CS-RD02-TC",
+  "title": "N2.29 · Đọc hiểu Bài 2 · BT Thực chiến (Lý do)",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "reading",
+  "source": "Riki/N2.29/Tong on va Chuyen sau/N2_Tong_On_Va_Chuyen_Sau_Doc_Hieu.xlsx (Bài 2 - BTTC)",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "問い 新聞の文字が大きくなった理由は何か。",
+      "context": "2000 年から 2001 年にかけて、全国紙として有名な新聞が、基本の活字を少し大きなものに変えました。地方紙も同じだったと思います。高齢者人口の増加が原因でしょうが、新聞を読む人の総数の中で、老眼鏡を必要とする人の割合が増えたからです。",
+      "options": [
+        "文字を大きくすることで要点がわかりやすくなること。",
+        "小さい文字が読みにくい高齢の読者が多くなったこと。",
+        "紙面に余裕ができるように記事の表現を簡略化したこと。",
+        "高齢者から情報を絞ったほうがよいという意見があったこと。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 小さい文字が読みにくい高齢の読者が多くなったこと。\n\n【Giải thích chi tiết】\n- **Đáp án đúng là ②**: Câu cuối cùng của đoạn văn chỉ rõ lý do kết thúc bằng đuôi câu nguyên nhân 「〜からです」: 「高齢者人口の増加が原因でしょうが、新聞を読む人の総数の中で、老眼鏡を必要とする人の割合が増えたからです」. \"Người cần kính lão\" chính là độc giả cao tuổi khó đọc chữ nhỏ (小さい文字が読みにくい高齢の読者), và \"tỷ lệ tăng lên\" tương đương với \"trở nên nhiều hơn\" (多くなった).\n- **Phân tích các đáp án sai**:\n  + ① Không có thông tin: Đoạn văn không hề nhắc tới việc giúp nắm bắt yếu điểm dễ dàng hơn (要点がわかりやすくなる).\n  + ③ Không có thông tin: Việc giản lược diễn đạt của bài báo (記事の表現を簡略化) là thông tin hoàn toàn tự suy diễn, không xuất hiện trong bài.\n  + ④ Không có thông tin: Không hề có chi tiết nào nói về việc người cao tuổi góp ý đòi thu hẹp thông tin (高齢者から情報を絞ったほうがよいという意見).\n\n【Kỹ thuật giải nhanh JLPT】\n1. **Đọc câu hỏi**: Tìm lý do 「新聞の文字が大きくなった理由」 (chữ trên báo to lên).\n2. **Tìm từ khóa chỉ nguyên nhân**: Cuối đoạn văn có câu chứa cấu trúc chỉ nguyên nhân trực tiếp: 「高齢者人口の増加が**原因**でしょうが、新聞を読む人の総数の中で、**老眼鏡を必要とする人の割合が増えたからです**。」\n3. **Phân tích từ đồng nghĩa**: \n- 「老眼鏡を必要とする人」 = người cần kính lão = độc giả cao tuổi khó đọc chữ nhỏ (小さい文字が読みにくい高齢の読者).\n- 「割合が増えた」 = tỷ lệ tăng lên = nhiều lên (多くなった).\n4. **Khớp phương án (30s)**: Đáp án ② khớp tuyệt đối. Loại ① (giúp hiểu yếu điểm - không có trong bài), loại ③ (đơn giản hóa bài viết - bịa đặt), loại ④ (ý kiến giảm bớt thông tin - bịa đặt).\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Lý do chữ trên báo trở nên to hơn là gì?\n① Việc làm cho chữ to hơn sẽ giúp nắm bắt các điểm chính dễ dàng hơn.\n② Độc giả cao tuổi khó đọc chữ nhỏ đã trở nên nhiều hơn.\n③ Việc đơn giản hóa cách diễn đạt của các bài viết để trang báo có khoảng trống thoáng đãng hơn.\n④ Có ý kiến từ những người cao tuổi cho rằng nên cô đọng/giảm bớt lượng thông tin.\n\n【Dịch nghĩa bài đọc】\nTừ khoảng năm 2000 đến năm 2001, các tờ báo nổi tiếng phát hành toàn quốc đã thay đổi cỡ chữ tiêu chuẩn sang cỡ chữ to hơn một chút. Tôi nghĩ các tờ báo địa phương chắc cũng tương tự. Nguyên nhân có lẽ là do sự gia tăng của dân số cao tuổi, bởi vì trong tổng số độc giả đọc báo, tỷ lệ những người cần đến kính lão đã tăng lên."
+    },
+    {
+      "question_id": 2,
+      "question": "問い 筆者によると、他人から誤解されるのはなぜか。",
+      "context": "（前略）\n「自分は他人から誤解されやすい人間だ」と感じる人は、自己イメージと他者からのイメージに乖離(注)があるのです。誤解はどうして生じるかというと、自分の方は自分の心の持ち方で判断しているのに対して、他者はその人の行動から判断しているからです。（中略）他人のこととは、外から見えることでしか判断できませんが、自分のことは、見えること(行動)と見えないこと(心の内の)とによって、判断しているのです。誤解されやすいと感じている人は、だから、自分の行動と思いに乖離があるのです。思いをそのまま行動に移せていないのです。ときには、思いと反対の行動をしていることさえあるのです。\n\n(注) 乖離：離れる",
+      "options": [
+        "自身の行動を他人の判断基準に合わせようとするから",
+        "自身の思いをそのまま行動に移してしまうから",
+        "自身と他人の思いは反対の場合があるから",
+        "自身と他人では判断基準が違うから"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 自身と他人では判断基準が違うから\n\n【Giải thích chi tiết】\n- **Đáp án đúng là ④**: Tác giả giải thích trực diện nguyên nhân hiểu lầm bằng cấu trúc hỏi - đáp: 「誤解はどうして生じるかというと、自分の方は自分の心の持ち方で判断しているのに対して、他者はその人の行動から判断しているからです」. Bản thân thì dựa vào suy nghĩ bên trong, người khác dựa vào hành vi bên ngoài; điều này có nghĩa là tiêu chuẩn đánh giá/phán đoán của hai bên hoàn toàn khác nhau (判断基準が違う). Đáp án ④ diễn đạt hoàn toàn chính xác.\n- **Phân tích các đáp án sai**:\n  + ① Không có trong bài: Tác giả không hề nói về việc cố gắng điều chỉnh hành động theo tiêu chuẩn người khác.\n  + ② Trái ngược 180° với văn bản: Trong bài viết rõ 「思いをそのまま行動に移せていないのです」 (KHÔNG THỂ chuyển hóa suy nghĩ thành hành động), trong khi đáp án ② lại nói là 「移してしまう」 (lại chuyển hóa nguyên vẹn thành hành động).\n  + ③ Sai đối tượng mâu thuẫn: Bài viết nói hành động của bản thân trái ngược với suy nghĩ của chính mình (「思いと反対の行動をしている」), chứ không phải suy nghĩ của mình trái ngược với suy nghĩ của người khác.\n\n【Kỹ thuật giải nhanh JLPT】\n1. **Đọc câu hỏi & tìm câu hỏi nguyên nhân trong bài**: Hỏi tại sao bị hiểu lầm (「他人から誤解されるのはなぜか」).\n2. **Định vị câu trả lời trực tiếp trong bài**: 「**誤解はどうして生じるかというと**、自分の方は自分の心の持ち方で判断しているのに対して、他者はその人の行動から判断している**からです**。」\n3. **Phân tích cốt lõi**: Bản thân thì xét theo tâm tư suy nghĩ (心の持ち方), còn người khác thì xét theo hành vi nhìn thấy được (行動) -> Tiêu chuẩn phán đoán của hai bên khác nhau!\n4. **Khớp phương án (30s)**: Cụm từ 「自身と他人では判断基準が違うから」 ở đáp án ④ phản ánh chính xác 100% nội dung này. Loại ① (không nói uốn theo tiêu chuẩn người khác), loại ② (trái ngược hoàn toàn với 「移せていない」), loại ③ (sai đối tượng: trong bài là hành động trái với suy nghĩ của chính mình chứ không phải suy nghĩ của mình trái với người khác).\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Theo tác giả, tại sao ta lại bị người khác hiểu lầm?\n① Vì cố gắng điều chỉnh hành động của bản thân cho phù hợp với tiêu chuẩn phán đoán của người khác.\n② Vì chuyển hóa nguyên vẹn suy nghĩ của bản thân thành hành động.\n③ Vì suy nghĩ của bản thân và người khác có những trường hợp trái ngược nhau.\n④ Vì tiêu chuẩn phán đoán giữa bản thân và người khác là khác nhau.\n\n【Dịch nghĩa bài đọc】\n(Đoạn trước lược)\nNhững người cảm thấy \"mình là người rất dễ bị người khác hiểu lầm\" là do có sự cách biệt giữa hình ảnh bản thân tự nghĩ về mình và hình ảnh mà người khác nhìn nhận về họ. Nếu hỏi vì sao sự hiểu lầm lại nảy sinh, thì đó là vì: bản thân mình thì tự phán đoán dựa trên tâm tư suy nghĩ của chính mình, trong khi người khác lại phán đoán dựa trên hành động cụ thể của người đó. (Đoạn giữa lược) Về người khác, ta chỉ có thể phán đoán qua những gì nhìn thấy từ bên ngoài; nhưng về bản thân mình, ta lại phán đoán bằng cả những điều thấy được (hành động) lẫn những điều vô hình không thấy được (trong tâm can). Chính vì vậy, người cảm thấy mình dễ bị hiểu lầm là người có sự cách biệt giữa hành động và suy nghĩ của bản thân. Họ không thể chuyển hóa suy nghĩ thành hành động tương ứng. Đôi khi, họ thậm chí còn làm những hành động hoàn toàn trái ngược với suy nghĩ của mình.\n(Chú thích: 乖離 (cách biệt): rời xa nhau)"
+    },
+    {
+      "question_id": 3,
+      "question": "問い いつも何かしていないと気が落ち着かない原因を筆者はどう考えるか。",
+      "context": "（前略）いつも何かしていないと気が落ち着かない、現代人はそんなふうになっています。\nその一つの原因は、世の中が便利になり、能率的になって、より早く仕事を仕上げることがより優れていると評価されるようになっているためと思われます。競争が激しくなって、人より早くしなければ負けてしまうという恐れを心に抱くようになったためでしょう。\nしかし、それでは心が貧しくなってしまいそうです。何も考えずにひたすら決められたことをしていて人生が楽しいはずがありません。",
+      "options": [
+        "何もしないと心が貧しくなってしまうと感じること。",
+        "早く何かを仕上げないとほかの人に勝てないと思うこと。",
+        "失った時間を取り戻さないと競争に負けてしまうと思うこと。",
+        "奪われた時間を取り戻さないと人生を楽しめないと感じること。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 早く何かを仕上げないとほかの人に勝てないと思うこと。\n\n【Giải thích chi tiết】\n- **Đáp án đúng là ②**: Căn cứ vào các câu phân tích nguyên nhân của tác giả: 「その一つの原因は...競争が激しくなって、人より早くしなければ負けてしまうという恐れを心に抱くようになったためでしょう」 (Một nguyên nhân... đó là do cạnh tranh khốc liệt khiến người ta nảy sinh nỗi sợ trong lòng rằng nếu không làm nhanh hơn người khác thì sẽ bị thua cuộc). Cụm 「人より早くしなければ負けてしまう」 đồng nghĩa hoàn toàn với 「早く何かを仕上げないとほかの人に勝てない」 ở phương án ②.\n- **Phân tích các đáp án sai**:\n  + ① Bẫy hậu quả/cảm nghĩ của tác giả: 「心が貧しくなってしまいそう」 là suy ngẫm của tác giả về tác hại tiêu cực của lối sống này ở câu tiếp theo, chứ không phải nguyên nhân khiến con người cảm thấy bất an.\n  + ③ & ④ Bịa đặt thông tin: Toàn bộ bài đọc không hề có bất kỳ câu chữ nào nhắc đến việc \"lấy lại thời gian đã mất\" (失った時間を取り戻す) hay \"thời gian bị tước đoạt\" (奪われた時間).\n\n【Kỹ thuật giải nhanh JLPT】\n1. **Đọc câu hỏi & định vị cụm từ nguyên nhân**: Hỏi nguyên nhân của 「いつも何かしていないと気が落ち着かない」.\n2. **Tìm câu chứa cấu trúc nguyên nhân**: 「その一つの**原因は**...より早く仕事を仕上げることがより優れていると評価されるようになっている**ため**と思われます。競争が激しくなって、**人より早くしなければ負けてしまうという恐れを心に抱くようになったため**でしょう。」\n3. **Phân tích từ đồng nghĩa**: 「人より早くしなければ負けてしまう」 (nếu không làm nhanh hơn người khác thì sẽ thua) = 「早く何かを仕上げないとほかの人に勝てない」 (nếu không làm xong nhanh thì không thắng được người khác).\n4. **Khớp phương án (30s)**: Đáp án ② trúng khớp hoàn toàn! Loại ① (đây là đánh giá tác hại của tác giả ở câu sau: 「しかし、それでは心が貧しくなってしまいそう」, không phải nguyên nhân), loại ③ & ④ (bịa đặt khái niệm thời gian đã mất / thời gian bị cướp đoạt).\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Tác giả cho rằng nguyên nhân khiến \"lúc nào cũng phải làm việc gì đó thì mới thấy an tâm\" là do đâu?\n① Cảm thấy rằng nếu không làm gì thì tâm hồn sẽ trở nên nghèo nàn kiệt quệ.\n② Nghĩ rằng nếu không hoàn thành việc gì đó thật nhanh thì sẽ không thắng nổi người khác.\n③ Nghĩ rằng nếu không lấy lại khoảng thời gian đã mất thì sẽ thua trong cuộc cạnh tranh.\n④ Cảm thấy rằng nếu không lấy lại khoảng thời gian đã bị tước đoạt thì không thể tận hưởng cuộc sống.\n\n【Dịch nghĩa bài đọc】\n(Đoạn trước lược) Lúc nào cũng phải làm một việc gì đó thì mới thấy an tâm, con người hiện đại ngày nay đang rơi vào trạng thái như vậy.\nMột nguyên nhân của việc này dường như là do xã hội ngày càng tiện lợi, chú trọng hiệu suất, và việc hoàn thành công việc nhanh hơn được đánh giá là ưu việt hơn. Đó có lẽ là vì sự cạnh tranh ngày càng khốc liệt, khiến người ta nảy sinh nỗi sợ hãi trong lòng rằng: nếu mình không làm nhanh hơn người khác thì mình sẽ bị thua cuộc.\nThế nhưng, cứ như vậy thì tâm hồn dường như sẽ trở nên nghèo nàn kiệt quệ. Cứ chỉ biết cắm đầu làm những việc đã được định sẵn mà chẳng buồn suy nghĩ gì thì cuộc đời làm sao mà vui vẻ cho được."
+    }
+  ]
+}

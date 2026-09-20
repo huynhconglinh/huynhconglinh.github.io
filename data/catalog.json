@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T05:58:00Z",
+  "updatedAt": "2026-09-20T07:05:28Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -409,6 +409,246 @@
       "topic": "reading",
       "questionCount": 3,
       "file": "exams/N2/N2-29-RD09.json"
+    },
+    {
+      "id": "N2-CS-RD01-TC",
+      "code": "N2-CS-RD01-TC",
+      "title": "N2.29 · Đọc hiểu Bài 1 · BT Thực chiến (Chỉ thị từ)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD01-TC.json"
+    },
+    {
+      "id": "N2-CS-RD01-UD",
+      "code": "N2-CS-RD01-UD",
+      "title": "N2.29 · Đọc hiểu Bài 1 · BT Ứng dụng (Chỉ thị từ)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD01-UD.json"
+    },
+    {
+      "id": "N2-CS-RD02-TC",
+      "code": "N2-CS-RD02-TC",
+      "title": "N2.29 · Đọc hiểu Bài 2 · BT Thực chiến (Lý do)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD02-TC.json"
+    },
+    {
+      "id": "N2-CS-RD02-UD",
+      "code": "N2-CS-RD02-UD",
+      "title": "N2.29 · Đọc hiểu Bài 2 · BT Ứng dụng (Lý do)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD02-UD.json"
+    },
+    {
+      "id": "N2-CS-RD03-TC",
+      "code": "N2-CS-RD03-TC",
+      "title": "N2.29 · Đọc hiểu Bài 3 · BT Thực chiến (Nội dung đúng)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD03-TC.json"
+    },
+    {
+      "id": "N2-CS-RD03-UD",
+      "code": "N2-CS-RD03-UD",
+      "title": "N2.29 · Đọc hiểu Bài 3 · BT Ứng dụng (Nội dung đúng)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 2,
+      "file": "exams/N2/N2-CS-RD03-UD.json"
+    },
+    {
+      "id": "N2-CS-RD04-TC",
+      "code": "N2-CS-RD04-TC",
+      "title": "N2.29 · Đọc hiểu Bài 4 · BT Thực chiến (Ý kiến tác giả 1)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD04-TC.json"
+    },
+    {
+      "id": "N2-CS-RD04-UD",
+      "code": "N2-CS-RD04-UD",
+      "title": "N2.29 · Đọc hiểu Bài 4 · BT Ứng dụng (Ý kiến tác giả 1)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD04-UD.json"
+    },
+    {
+      "id": "N2-CS-RD05-TC",
+      "code": "N2-CS-RD05-TC",
+      "title": "N2.29 · Đọc hiểu Bài 5 · BT Thực chiến (Ý kiến tác giả 2)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD05-TC.json"
+    },
+    {
+      "id": "N2-CS-RD05-UD",
+      "code": "N2-CS-RD05-UD",
+      "title": "N2.29 · Đọc hiểu Bài 5 · BT Ứng dụng (Ý kiến tác giả 2)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 2,
+      "file": "exams/N2/N2-CS-RD05-UD.json"
+    },
+    {
+      "id": "N2-CS-RD06-TC",
+      "code": "N2-CS-RD06-TC",
+      "title": "N2.29 · Đọc hiểu Bài 6 · BT Thực chiến (Ý nghĩa cụm từ)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD06-TC.json"
+    },
+    {
+      "id": "N2-CS-RD06-UD",
+      "code": "N2-CS-RD06-UD",
+      "title": "N2.29 · Đọc hiểu Bài 6 · BT Ứng dụng (Ý nghĩa cụm từ)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD06-UD.json"
+    },
+    {
+      "id": "N2-CS-RD07-TC",
+      "code": "N2-CS-RD07-TC",
+      "title": "N2.29 · Đọc hiểu Bài 7 · BT Thực chiến (Đoản văn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD07-TC.json"
+    },
+    {
+      "id": "N2-CS-RD07-UD",
+      "code": "N2-CS-RD07-UD",
+      "title": "N2.29 · Đọc hiểu Bài 7 · BT Ứng dụng (Đoản văn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD07-UD.json"
+    },
+    {
+      "id": "N2-CS-RD08-TC",
+      "code": "N2-CS-RD08-TC",
+      "title": "N2.29 · Đọc hiểu Bài 8 · BT Thực chiến (Trung văn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 4,
+      "file": "exams/N2/N2-CS-RD08-TC.json"
+    },
+    {
+      "id": "N2-CS-RD08-UD",
+      "code": "N2-CS-RD08-UD",
+      "title": "N2.29 · Đọc hiểu Bài 8 · BT Ứng dụng (Trung văn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 5,
+      "file": "exams/N2/N2-CS-RD08-UD.json"
+    },
+    {
+      "id": "N2-CS-RD09-TC",
+      "code": "N2-CS-RD09-TC",
+      "title": "N2.29 · Đọc hiểu Bài 9 · BT Thực chiến (Trường văn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 3,
+      "file": "exams/N2/N2-CS-RD09-TC.json"
+    },
+    {
+      "id": "N2-CS-RD09-UD",
+      "code": "N2-CS-RD09-UD",
+      "title": "N2.29 · Đọc hiểu Bài 9 · BT Ứng dụng (Trường văn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 6,
+      "file": "exams/N2/N2-CS-RD09-UD.json"
+    },
+    {
+      "id": "N2-CS-RD10-TC",
+      "code": "N2-CS-RD10-TC",
+      "title": "N2.29 · Đọc hiểu Bài 10 · BT Thực chiến (Ý kiến A-B)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 4,
+      "file": "exams/N2/N2-CS-RD10-TC.json"
+    },
+    {
+      "id": "N2-CS-RD10-UD",
+      "code": "N2-CS-RD10-UD",
+      "title": "N2.29 · Đọc hiểu Bài 10 · BT Ứng dụng (Ý kiến A-B)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 2,
+      "file": "exams/N2/N2-CS-RD10-UD.json"
+    },
+    {
+      "id": "N2-CS-RD11-TC",
+      "code": "N2-CS-RD11-TC",
+      "title": "N2.29 · Đọc hiểu Bài 11 · BT Thực chiến (Tìm kiếm thông tin)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 4,
+      "file": "exams/N2/N2-CS-RD11-TC.json"
+    },
+    {
+      "id": "N2-CS-RD11-UD",
+      "code": "N2-CS-RD11-UD",
+      "title": "N2.29 · Đọc hiểu Bài 11 · BT Ứng dụng (Tìm kiếm thông tin)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 2,
+      "file": "exams/N2/N2-CS-RD11-UD.json"
+    },
+    {
+      "id": "N2-CS-RD12-TC",
+      "code": "N2-CS-RD12-TC",
+      "title": "N2.29 · Đọc hiểu Bài 12 · BT Thực chiến (Tổng ôn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 4,
+      "file": "exams/N2/N2-CS-RD12-TC.json"
+    },
+    {
+      "id": "N2-CS-RD12-UD",
+      "code": "N2-CS-RD12-UD",
+      "title": "N2.29 · Đọc hiểu Bài 12 · BT Ứng dụng (Tổng ôn)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 4,
+      "file": "exams/N2/N2-CS-RD12-UD.json"
     },
     {
       "id": "BJT-01-P1-S3",
