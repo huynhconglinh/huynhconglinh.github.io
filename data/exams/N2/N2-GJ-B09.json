@@ -1,0 +1,193 @@
+{
+  "id": "N2-GJ-B09",
+  "code": "N2-GJ-B09",
+  "title": "Ngữ pháp Junbi · Bài tập Bài 9",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "grammar",
+  "source": "riki/N2.29/N2 JUNBI Bài tập ngữ pháp Bài 9.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "選挙制度を改革しない ( 　　　 )、日本の政治を変えるのは難しいと私は思っている｡",
+      "context": "",
+      "options": [
+        "ことには",
+        "ことでは",
+        "ものには",
+        "ものでは"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ことには.\n\nCấu trúc: V-ない + ことには ... ない / 難しい: Nếu không... thì không thể... / Nếu chưa hoàn thành A thì khó mà thực hiện được B (A là điều kiện tiên quyết bắt buộc).\n- 選挙制度を改革しないことには: Nếu không cải cách chế độ bầu cử.\n- Vế sau: 「日本の政治を変えるのは難しい」 (thì khó mà thay đổi nền chính trị Nhật Bản).\n\nCâu hoàn chỉnh: 選挙制度を改革しないことには、日本の政治を変えるのは難しいと私は思っている｡\nDịch: Tôi cho rằng nếu không cải cách chế độ bầu cử thì khó mà thay đổi được nền chính trị Nhật Bản."
+    },
+    {
+      "question_id": 2,
+      "question": "前もって地図で調べておいたので、道に ( 　　　) 。",
+      "context": "",
+      "options": [
+        "迷わないではいられなかった",
+        "迷わないですんだ",
+        "迷わざるをえなかった",
+        "迷わないではすまなかった"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 迷わないですんだ.\n\nCấu trúc: V-ないで + すむ (hoặc V-ずにすむ): May mà không phải... / Tránh khỏi việc... (diễn tả việc né tránh được một kết quả xấu, phiền phức).\n- 道に迷わないですんだ: May mắn là không bị lạc đường.\n\nPhân tích các phương án khác:\n- ① 〜ないではいられない: Không thể không... / Không kìm nén được cảm xúc.\n- ③ 〜ざるをえない: Đành phải / Buộc phải làm gì (dù không muốn).\n- ④ 〜ないではすまない: Không thể không làm (xét về mặt đạo đức, trách nhiệm xã hội).\n\nCâu hoàn chỉnh: 前もって地図で調べておいたので、道に迷わないですんだ。\nDịch: Nhờ đã tra cứu bản đồ từ trước nên tôi đã không bị lạc đường."
+    },
+    {
+      "question_id": 3,
+      "question": "生徒の希望 ( 　　　 )、当校ではコンピューター関連の科目を増設した｡",
+      "context": "",
+      "options": [
+        "に応じて",
+        "を前にして",
+        "のことで",
+        "をかぎりに"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① に応じて.\n\nCấu trúc: N + に応じて（におうじて）: Ứng với... / Theo như... / Đáp ứng theo... (diễn tả hành động thay đổi, bổ sung cho phù hợp với nguyện vọng, yêu cầu, lứa tuổi, ngân sách...).\n- 生徒の希望に応じて: Đáp ứng theo nguyện vọng của học sinh.\n\nPhân tích các phương án khác:\n- ② 〜を前にして: Đứng trước (kỳ thi, quyết định quan trọng...), đối diện với ai.\n- ③ 〜のことで: Về việc... (không dùng để chỉ sự đáp ứng nguyện vọng).\n- ④ 〜を限りに（をかぎりに）: Kể từ / Đến hết... (thời hạn chót, kết thúc một việc gì đó).\n\nCâu hoàn chỉnh: 生徒の希望に応じて、当校ではコンピューター関連の科目を増設した｡\nDịch: Đáp ứng theo nguyện vọng của học sinh, trường chúng tôi đã mở thêm các môn học liên quan đến máy tính."
+    },
+    {
+      "question_id": 4,
+      "question": "彼女が東大に受かる ( 　　　 )、実に信じられないことだ。",
+      "context": "",
+      "options": [
+        "かは",
+        "とは",
+        "には",
+        "では"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② とは.\n\nCấu trúc: [Thể thông thường / Mệnh đề] + とは: Cái việc... thật là... (thể hiện sự ngạc nhiên, cảm thán trước một sự việc bất ngờ ngoài dự tính, vế sau thường đi kèm 信じられない, 驚きだ, 思わなかった...).\n- 東大に受かるとは: Việc cô ấy thi đỗ Đại học Tokyo (Todai).\n\nPhân tích các phương án khác:\n- ① かは: Liệu có... hay không (dùng khi còn nghi vấn, phân vân).\n- ③ には: Để / Đối với.\n- ④ では: Nếu / Ở.\n\nCâu hoàn chỉnh: 彼女が東大に受かるとは、実に信じられないことだ。\nDịch: Việc cô ấy thi đỗ Đại học Tokyo quả thật là chuyện không thể tin nổi."
+    },
+    {
+      "question_id": 5,
+      "question": "食中毒の原因がわかった ( 　　　 )、どうやって安全を確保したらいいのだろう。",
+      "context": "",
+      "options": [
+        "にひきかえ",
+        "とはいえ",
+        "だけあって",
+        "とすれば"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② とはいえ.\n\nCấu trúc: N / Thể thông thường + とはいえ: Dẫu nói là... / Tuy rằng... nhưng... (thừa nhận vế A là thật, nhưng vế B nêu lên vấn đề, khó khăn hoặc thực tế trái ngược vẫn tồn tại).\n- 原因がわかったとはいえ: Dẫu nói là đã biết nguyên nhân gây ngộ độc thực phẩm.\n\nPhân tích các phương án khác:\n- ① 〜にひきかえ: Trái ngược hoàn toàn với... (so sánh 2 sự vật, hiện tượng đối lập).\n- ③ 〜だけあって: Quả đúng là / Thảo nào mà (khen ngợi thành tích hoặc lý do tương xứng).\n- ④ 〜とすれば: Giả sử nếu... (vế A ở đây là sự thật đã xảy ra わかった nên không dùng giả định).\n\nCâu hoàn chỉnh: 食中毒の原因がわかったとはいえ、どうやって安全を確保したらいいのだろう。\nDịch: Dẫu biết rằng đã tìm ra nguyên nhân gây ngộ độc thực phẩm, nhưng làm thế nào để đảm bảo an toàn bây giờ nhỉ?"
+    },
+    {
+      "question_id": 6,
+      "question": "彼女は小さい子供が３人もいながら（　　　） ｡",
+      "context": "",
+      "options": [
+        "夜遅くまで外で働いている",
+        "子供を大切に育てている",
+        "いつも子供と一緒にだ",
+        "離婚した"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 夜遅くまで外で働いている.\n\nCấu trúc: V-masu (bỏ masu) / N / A + ながら（も）: Tuy... nhưng... / Mặc dù... nhưng... (diễn tả sự việc, hành động trái ngược, nghịch lý so với trạng thái ở vế trước).\n- 子供が３人もいながら: Mặc dù có tới 3 con nhỏ.\n-> Theo lẽ thường sẽ khó đi làm muộn bên ngoài, nhưng vế sau lại là 「夜遅くまで外で働いている」 (cô ấy vẫn làm việc bên ngoài đến tận đêm khuya).\n\nPhân tích các phương án khác:\n- ② 子供を大切に育てている: Nuôi nấng con cẩn thận là việc tự nhiên, không mang nghĩa tương phản nghịch lý với ながら.\n- ③ いつも子供と一緒にだ: Sai ngữ pháp và là việc hiển nhiên.\n- ④ 離婚した: Không tạo thành quan hệ tương phản hợp lý với số lượng con nhỏ trong cấu trúc ながら.\n\nCâu hoàn chỉnh: 彼女は小さい子供が３人もいながら、夜遅くまで外で働いている｡\nDịch: Mặc dù có tới 3 con nhỏ, cô ấy vẫn làm việc bên ngoài đến tận đêm khuya."
+    },
+    {
+      "question_id": 7,
+      "question": "テニスコートをお使いになる ( 　　　 )、事務所でロッカーのかぎをお受け取りください。",
+      "context": "",
+      "options": [
+        "際は",
+        "にあたって",
+        "途中で",
+        "とたん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 際は.\n\nCấu trúc: V-る / V-た / N-の + 際（は）: Khi... / Trong trường hợp... (cách diễn đạt trang trọng, lịch sự, thường gặp trong các biển báo, thông báo, chỉ dẫn công cộng).\n- お使いになる際は: Khi quý khách sử dụng (sân tennis).\n\nPhân tích các phương án khác:\n- ② 〜にあたって: Nhân dịp / Trước khi bước vào sự kiện trọng đại (khai trương, kỷ niệm, kết hôn...). Dùng cho sinh hoạt đời thường nhận chìa khóa sân tennis thì 際は là tự nhiên và chính xác nhất.\n- ③ 途中で: Giữa chừng / Trong khi đang làm dở.\n- ④ 〜とたん（に）: Vừa mới... thì ngay lập tức (vế sau xảy ra đột ngột ngoài ý muốn).\n\nCâu hoàn chỉnh: テニスコートをお使いになる際は、事務所でロッカーのかぎをお受け取りください。\nDịch: Khi quý khách sử dụng sân tennis, xin vui lòng nhận chìa khóa tủ đồ tại văn phòng."
+    },
+    {
+      "question_id": 8,
+      "question": "部屋がもっと広くないことには、（　　　）。",
+      "context": "",
+      "options": [
+        "掃除が楽だ",
+        "家賃も安いはずだ",
+        "ゆっくり休む",
+        "３０人の会議には使えない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ３０人の会議には使えない.\n\nCấu trúc: 〜ないことには〜ない: Nếu không... thì không thể... (vế sau bắt buộc phải đi kèm cách diễn đạt phủ định hoặc biểu thị sự bất khả thi như 〜できない, 〜使えない, 〜無理だ).\n- 部屋がもっと広くないことには: Nếu căn phòng không rộng hơn nữa.\n-> Vế sau chỉ có đáp án ④ có hình thức phủ định: 「３０人の会議には使えない」 (thì không thể dùng cho cuộc họp 30 người được).\n\nCác phương án ①, ②, ③ đều là câu khẳng định, không đúng với quy tắc ngữ pháp của 〜ないことには.\n\nCâu hoàn chỉnh: 部屋がもっと広くないことには、３０人の会議には使えない。\nDịch: Nếu căn phòng không rộng hơn nữa thì không thể sử dụng cho cuộc họp 30 người được."
+    },
+    {
+      "question_id": 9,
+      "question": "時と場合に応じて ( 　　　 ) 。",
+      "context": "",
+      "options": [
+        "着ていく服を変えます",
+        "外出しません",
+        "友達と会う時もある",
+        "のする時間が長い"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 着ていく服を変えます.\n\nCấu trúc: N + に応じて（におうじて）: Tùy theo... / Ứng với... (thay đổi hành vi, cách ứng xử cho phù hợp với hoàn cảnh, tình huống).\n- Cụm từ cố định: 「時と場合に応じて」(Tùy theo thời gian và hoàn cảnh - TPO trong giao tiếp tiếng Nhật).\n- Đi với vế sau: 「着ていく服を変えます」 (thay đổi trang phục mặc đi).\n\nPhân tích các phương án khác:\n- ② 外出しません: Tùy thời gian hoàn cảnh thì không ra ngoài (vô nghĩa, không hợp lý).\n- ③ 友達と会う時もある: Không tạo thành câu có liên kết nghĩa phù hợp với に応じて.\n- ④ のする時間が長い: Câu sai ngữ pháp.\n\nCâu hoàn chỉnh: 時と場合に応じて着ていく服を変えます。\nDịch: Tôi thay đổi trang phục mặc đi tùy theo thời gian và hoàn cảnh."
+    },
+    {
+      "question_id": 10,
+      "question": "海の近くに生まれながら、私は（　　　）。",
+      "context": "",
+      "options": [
+        "魚が好きだ",
+        "魚が好きではない",
+        "魚とともに生きたきた",
+        "魚の種類を全部知っている"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 魚が好きではない.\n\nCấu trúc: V-masu (bỏ masu) / N + ながら（も）: Tuy... nhưng... / Mặc dù... nhưng... (nêu lên sự tương phản nghịch lý với kỳ vọng, suy nghĩ thông thường).\n- 海の近くに生まれながら: Mặc dù sinh ra ở gần biển.\n- Lẽ thường: Người sinh ra gần biển thì sẽ thích ăn cá, sành ăn hải sản.\n-> Nghịch lý ở đây: 「私は魚が好きではない」 (vậy mà tôi lại không thích cá).\n\nCác phương án ①, ③, ④ đều diễn tả kết quả thuận theo lẽ thường, không phù hợp với cấu trúc tương phản ながら.\n\nCâu hoàn chỉnh: 海の近くに生まれながら、私は魚が好きではない。\nDịch: Mặc dù sinh ra ở gần biển, vậy mà tôi lại không thích ăn cá."
+    },
+    {
+      "question_id": 11,
+      "question": "彼女が、あの悪い元彼を ＿＿ ＿＿ _★_ ＿＿ 過去にとらわれず、今を生きたほうがいい。",
+      "context": "",
+      "options": [
+        "恨んでしまう",
+        "でもないが",
+        "気持ちは",
+        "わからない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ わからない.\n\nThứ tự đúng: 恨んでしまう → 気持ちは → わからない（★） → でもないが\n(Thứ tự các đáp án: 1 → 3 → 4 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「わからない」 (lựa chọn 4).\n- Cụm danh từ: 「元彼を恨んでしまう気持ち」: cảm xúc/tâm trạng oán hận người bạn trai cũ.\n- Cấu trúc ngữ pháp: 〜ないでもない (không phải là không...): 「わからないでもない」 (không phải là không hiểu được).\n- Thêm trợ từ が để nối vế tương phản: 「気持ちはわからないでもないが」 (tâm trạng đó không phải là tôi không hiểu, nhưng mà...).\n- Vế sau: 「過去にとらわれず、今を生きたほうがいい」 (không nên bị trói buộc bởi quá khứ mà nên sống cho hiện tại thì hơn).\n\nCâu hoàn chỉnh: 彼女が、あの悪い元彼を恨んでしまう気持ちはわからないでもないが、過去にとらわれず、今を生きたほうがいい。\nDịch: Dù tâm trạng cô ấy oán hận người bạn trai cũ tệ bạc đó không phải là tôi không hiểu, nhưng cô ấy nên sống cho hiện tại thay vì bị trói buộc bởi quá khứ."
+    },
+    {
+      "question_id": 12,
+      "question": "ここで ＿＿ ＿＿ _★_ ＿＿ あとで 始末が つかなくなるに違いないのだ。",
+      "context": "",
+      "options": [
+        "おかない",
+        "何か",
+        "ことには",
+        "手を打って"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① おかない.\n\nThứ tự đúng: 何か → 手を打って → おかない（★） → ことには\n(Thứ tự các đáp án: 2 → 4 → 1 → 3)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「おかない」 (lựa chọn 1).\n- Thành ngữ / Cụm từ: 「手を打つ」: có biện pháp, ra tay xử lý đối phó.\n- Cấu trúc: V-ておく (chuẩn bị trước) => 「手を打っておく」.\n- Cấu trúc điều kiện: V-ない + ことには ... ない (Nếu không... thì không thể...): 「手を打っておかないことには」 (Nếu không chuẩn bị sẵn biện pháp nào đó từ trước...).\n- Cụm từ vế sau: 「始末がつかなくなる」: không thể thu dọn tàn cuộc / không giải quyết ổn thỏa được.\n\nCâu hoàn chỉnh: ここで何か手を打っておかないことには、あとで始末がつかなくなるに違いないのだ。\nDịch: Nếu ngay tại thời điểm này không đưa ra biện pháp gì đối phó, thì sau này chắc chắn sẽ không thể giải quyết ổn thỏa được."
+    },
+    {
+      "question_id": 13,
+      "question": "＿＿ ＿＿ _★_ ＿＿ 、商売はようやく安定してきた。",
+      "context": "",
+      "options": [
+        "とはいえ",
+        "まだまだ",
+        "注文が多い",
+        "安い製品の"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 注文が多い.\n\nThứ tự đúng: まだまだ → 安い製品の → 注文が多い（★） → とはいえ\n(Thứ tự các đáp án: 2 → 4 → 3 → 1)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「注文が多い」 (lựa chọn 3).\n- Cụm từ: 「安い製品の注文」: đơn đặt hàng sản phẩm rẻ tiền.\n- Phó từ 「まだまだ」 (vẫn còn...): 「まだまだ安い製品の注文が多い」 (vẫn còn nhiều đơn đặt hàng sản phẩm rẻ tiền).\n- Cấu trúc: [Thể thông thường] + とはいえ: Dẫu nói là... nhưng... => 「注文が多いとはいえ」.\n- Vế sau: 「商売はようやく安定してきた」 (việc kinh doanh cuối cùng cũng đã dần ổn định).\n\nCâu hoàn chỉnh: まだまだ安い製品の注文が多いとはいえ、商売はようやく安定してきた。\nDịch: Dẫu biết rằng phần lớn vẫn là đơn đặt hàng cho các sản phẩm giá rẻ, nhưng việc kinh doanh rốt cuộc cũng đã dần ổn định."
+    },
+    {
+      "question_id": 14,
+      "question": "大雨が ＿＿ ＿＿ _★_ ＿＿ 自転車で出かけた。",
+      "context": "",
+      "options": [
+        "わかって",
+        "降ると",
+        "まり子は",
+        "いながら"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ いながら.\n\nThứ tự đúng: 降ると → わかって → いながら（★） → まり子は\n(Thứ tự các đáp án: 2 → 1 → 4 → 3)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「いながら」 (lựa chọn 4).\n- Mệnh đề: 「大雨が降ると」: rằng trời sẽ mưa to.\n- Cấu trúc: V-masu (bỏ masu) + ながら (biết rõ... vậy mà...): 「わかっていながら」 (dù biết rõ là...).\n- Chủ ngữ mệnh đề chính: 「まり子は」 đi sau mệnh đề nhượng bộ: 「大雨が降るとわかっていながら、まり子は自転車で出かけた。」\n- Diễn tả hành động ngược với lẽ thường: biết trời sẽ mưa to vậy mà Mariko vẫn đạp xe ra ngoài.\n\nCâu hoàn chỉnh: 大雨が降るとわかっていながら、まり子は自転車で出かけた。\nDịch: Dù biết rõ là trời sẽ mưa to, vậy mà Mariko vẫn đi ra ngoài bằng xe đạp."
+    }
+  ]
+}
