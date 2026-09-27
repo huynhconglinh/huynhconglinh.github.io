@@ -1,5 +1,6 @@
 const TRACK_LABELS = {
   n3_review: "Tổng ôn N3",
+  "N2.29": "N2.29",
   n2_29: "N2.29",
   n2_main: "Luyện N2",
   bjt: "BJT",
@@ -7,6 +8,7 @@ const TRACK_LABELS = {
 
 const TRACK_DESCRIPTIONS = {
   n3_review: "Ôn lại kiến thức N3 trước khi vào N2",
+  "N2.29": "Bài tập và đề thi khóa N2.29",
   n2_29: "Bài tập và đề thi khóa N2.29",
   n2_main: "Đề luyện trình độ N2",
   bjt: "Business Japanese Proficiency Test",
@@ -30,4 +32,4 @@ const TOPIC_ORDER = [
   "listening",
 ];
 
-const TRACK_ORDER = ["n3_review", "n2_29", "n2_main", "bjt"];
+const TRACK_ORDER = ["n3_review", "N2.29", "n2_29", "n2_main", "bjt"];
