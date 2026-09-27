@@ -1,0 +1,271 @@
+{
+  "id": "N2-29-MT06",
+  "code": "N2-29-MT06",
+  "title": "N2.29 · Minitest 6",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/N2.29_ Minitest 6.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "この商品は（　）後１週間以内であれば、返品可能です。",
+      "context": "",
+      "options": [
+        "講演",
+        "再発",
+        "購入",
+        "覚悟"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 購入.\n\n- 購入（こうにゅう）: mua vào, mua hàng. Cụm từ: 購入後 (sau khi mua hàng).\n- 講演（こうえん）: bài giảng, diễn thuyết.\n- 再発（さいはつ）: tái phát (bệnh tật, sự cố).\n- 覚悟（かくご）: chuẩn bị tinh thần, sẵn sàng đương đầu.\n\nCâu: この商品は購入後１週間以内であれば、返品可能です。\nDịch: Sản phẩm này trong vòng 1 tuần sau khi mua nếu có vấn đề thì có thể đổi trả được."
+    },
+    {
+      "question_id": 2,
+      "question": "節約のために、毎日使った金額を（　）しています。",
+      "context": "",
+      "options": [
+        "勤務",
+        "記録",
+        "手数料",
+        "要点"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 記録.\n\n- 記録（きろく）: ghi chép, ghi lại, kỷ lục. Cụm từ: 金額を記録する (ghi lại số tiền).\n- 勤務（きんむ）: làm việc, công tác.\n- 手数料（てすうりょう）: tiền hoa hồng, lệ phí dịch vụ.\n- 要点（ようてん）: điểm mấu chốt, cốt lõi.\n\nCâu: 節約のために、毎日使った金額を記録しています。\nDịch: Để tiết kiệm, tôi ghi chép lại số tiền đã tiêu mỗi ngày."
+    },
+    {
+      "question_id": 3,
+      "question": "電力会社は一般家庭に電力を（　）する。",
+      "context": "",
+      "options": [
+        "設備",
+        "供給",
+        "建設",
+        "延期"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 供給.\n\n- 供給（きょうきゅう）: cung cấp, cung ứng. Cụm từ: 電力を供給する (cung cấp điện năng).\n- 設備（せつび）: thiết bị, trang thiết bị.\n- 建設（けんせつ）: xây dựng, kiến thiết.\n- 延期（えんき）: trì hoãn, hoãn lại.\n\nCâu: 電力会社は一般家庭に電力を供給する。\nDịch: Công ty điện lực cung cấp điện năng cho các hộ gia đình thông thường."
+    },
+    {
+      "question_id": 4,
+      "question": "インターネットで（　）すれば、たいていのことは調べられる。",
+      "context": "",
+      "options": [
+        "検索",
+        "記号",
+        "大半",
+        "省エネ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 検索.\n\n- 検索（けんさく）: tra cứu, tìm kiếm (trên mạng, từ điển). Cụm từ: インターネットで検索する (tìm kiếm trên Internet).\n- 記号（きごう）: ký hiệu, dấu hiệu.\n- 大半（たいはん）: phần lớn, đại đa số.\n- 省エネ（しょうエネ）: tiết kiệm năng lượng.\n\nCâu: インターネットで検索すれば、たいていのことは調べられる。\nDịch: Nếu tìm kiếm trên Internet thì hầu hết mọi việc đều có thể tra cứu được."
+    },
+    {
+      "question_id": 5,
+      "question": "不正を行った社員が（　）された。",
+      "context": "",
+      "options": [
+        "休養",
+        "処分",
+        "同僚",
+        "見事"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 処分.\n\n- 処分（しょぶん）: xử phạt, xử lý kỷ luật, vứt bỏ. Cụm từ: 処分される (bị kỷ luật/xử lý phạt).\n- 休養（きゅうよう）: nghỉ ngơi tẩm bổ, dưỡng sức.\n- 同僚（どうりょう）: đồng nghiệp.\n- 見事（みごと）: tuyệt vời, xuất sắc, hoàn toàn.\n\nCâu: 不正を行った社員が処分された。\nDịch: Nhân viên có hành vi bất chính đã bị xử lý kỷ luật."
+    },
+    {
+      "question_id": 6,
+      "question": "重役たちは、田中氏を次期社長に（　）した。",
+      "context": "",
+      "options": [
+        "負担",
+        "おじぎ",
+        "推薦",
+        "妊娠"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 推薦.\n\n- 推薦（すいせん）: tiến cử, giới thiệu, đề bạt. Cụm từ: 次期社長に推薦する (tiến cử làm giám đốc nhiệm kỳ tới).\n- 負担（ふたん）: gánh vác, chịu chi phí/trách nhiệm.\n- おじぎ（お辞儀）: cúi đầu chào.\n- 妊娠（にんしん）: mang thai, có bầu.\n\nCâu: 重役たちは、田中氏を次期社長に推薦した。\nDịch: Các ủy viên ban điều hành đã tiến cử ông Tanaka làm giám đốc nhiệm kỳ tiếp theo."
+    },
+    {
+      "question_id": 7,
+      "question": "エアコンの温度を26度に（　）する。",
+      "context": "",
+      "options": [
+        "設置",
+        "設定",
+        "制度",
+        "作業"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 設定.\n\n- 設定（せってい）: cài đặt, thiết lập (thông số, nhiệt độ, chế độ). Cụm từ: 温度を26度に設定する (cài đặt nhiệt độ ở mức 26 độ).\n- 設置（せっち）: lắp đặt thiết bị vật lý, thành lập cơ sở.\n- 制度（せいど）: chế độ, hệ thống.\n- 作業（さぎょう）: thao tác, công việc tay chân.\n\nCâu: エアコンの温度を26度に設定する。\nDịch: Cài đặt nhiệt độ điều hòa ở mức 26 độ."
+    },
+    {
+      "question_id": 8,
+      "question": "日本に郵便の（　）できたのは明治時代だ。",
+      "context": "",
+      "options": [
+        "人工",
+        "制度",
+        "作業",
+        "設定"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 制度.\n\n- 制度（せいど）: chế độ, hệ thống thể chế. Cụm từ: 郵便の制度 (hệ thống bưu chính/chế độ bưu điện).\n- 人工（じんこう）: nhân tạo.\n- 作業（さぎょう）: thao tác, công việc.\n- 設定（せってい）: thiết lập, cài đặt.\n\nCâu: 日本に郵便の制度ができたのは明治時代だ。\nDịch: Hệ thống bưu chính được thành lập ở Nhật Bản là vào thời kỳ Minh Trị."
+    },
+    {
+      "question_id": 9,
+      "question": "学力より人物（　）の会社が増えつつある。",
+      "context": "",
+      "options": [
+        "設定",
+        "制度",
+        "重視",
+        "遺伝"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 重視.\n\n- 重視（じゅうし）: chú trọng, coi trọng. Cụm từ ghép: 人物重視 (chú trọng nhân cách/tố chất con người).\n- 設定（せってい）: cài đặt, thiết lập.\n- 制度（せいど）: chế độ.\n- 遺伝（いでん）: di truyền.\n\nCâu: 学力より人物重視の会社が増えつつある。\nDịch: Các công ty coi trọng nhân cách hơn học lực đang ngày càng tăng lên."
+    },
+    {
+      "question_id": 10,
+      "question": "大会は予定どおり（　）された。",
+      "context": "",
+      "options": [
+        "実施",
+        "熱中",
+        "対立",
+        "価値"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 実施.\n\n- 実施（じっし）: thực thi, tiến hành, tổ chức. Cụm từ: 予定どおり実施される (được tổ chức theo đúng như dự kiến).\n- 熱中（ねっちゅう）: say mê, nhiệt tình vào việc gì.\n- 対立（たいりつ）: đối lập, mâu thuẫn.\n- 価値（かち）: giá trị.\n\nCâu: 大会は予定どおり実施された。\nDịch: Đại hội đã được tiến hành theo đúng như kế hoạch dự kiến."
+    },
+    {
+      "question_id": 11,
+      "question": "彼女は今朝家を出て行ったきり、（　　　）。",
+      "context": "",
+      "options": [
+        "帰って来た",
+        "帰って来るしかない",
+        "帰って来よう",
+        "帰って来なかった"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 帰って来なかった.\n\nCấu trúc: V-た + きり ... ない: Kể từ khi... thì suốt từ đó tới giờ không... (hành động A xảy ra rồi giữ nguyên tình trạng đó, hành động B mong đợi không hề xảy ra, vế sau bắt buộc đi với phủ định).\n- 家を出て行ったきり: Sau khi rời khỏi nhà.\n- Vế sau phủ định: 「帰って来なかった」 (đã không thấy quay về nữa).\n\nCâu: 彼女は今朝家を出て行ったきり、帰って来なかった。\nDịch: Sáng nay cô ấy rời khỏi nhà rồi bặt tăm không thấy quay về nữa."
+    },
+    {
+      "question_id": 12,
+      "question": "この先生が、いくつ自分の呼び方を持っている（　　　）、少なく見ても７種もあるのである。",
+      "context": "",
+      "options": [
+        "からといって",
+        "かというと",
+        "ことなく",
+        "はずだが"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② かというと.\n\nCấu trúc: [N / Thể thông thường] + かというと / かといえば: Nếu hỏi là... / Hỏi vì sao / Bao nhiêu thì... (đưa ra nghi vấn ở vế trước rồi tự mình trả lời, giải thích chi tiết ở vế sau).\n- いくつ自分の呼び方を持っているかというと: Nếu hỏi thầy có bao nhiêu cách gọi bản thân thì...\n- Vế sau: 「少なく見ても７種もあるのである」 (nhìn tối thiểu cũng có tới 7 kiểu xưng hô).\n\nPhân tích các phương án khác:\n- ① からといって: Dẫu nói là vì... (thường đi với phủ định わけではない).\n- ③ ことなく: Không hề làm gì (＝ないで).\n- ④ はずだが: Đáng lẽ ra là... nhưng.\n\nCâu: この先生が、いくつ自分の呼び方を持っているかというと、少なく見ても７種もあるのである。\nDịch: Nếu hỏi thầy giáo này có bao nhiêu cách tự xưng bản thân, thì tính sơ qua cũng có tới 7 kiểu."
+    },
+    {
+      "question_id": 13,
+      "question": "特殊な照明効果を用いる（　　　）その劇のムードは盛りあがった。",
+      "context": "",
+      "options": [
+        "ことで",
+        "ことか",
+        "もので",
+        "ものか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ことで.\n\nCấu trúc: V-る / N-の + ことで: Bằng việc / Nhờ có việc... (chỉ phương thức, phương tiện hoặc nguyên nhân dẫn đến một kết quả tốt).\n- 特殊な照明効果を用いることで: Nhờ việc sử dụng hiệu ứng ánh sáng đặc biệt.\n- Vế sau: 「その劇のムードは盛りあがった」 (bầu không khí của vở kịch đã trở nên sôi nổi/cuốn hút hơn).\n\nPhân tích các phương án khác:\n- ② ことか: Biết bao nhiêu (đi kèm どんなに / なんと trong câu cảm thán).\n- ③ もので: Thường dùng giải thích nguyên nhân khách quan, biện bạch cho bản thân (dạng 〜もので / 〜ものだから).\n- ④ ものか: Tuyệt đối không / Làm sao mà... được (phủ định gay gắt).\n\nCâu: 特殊な照明効果を用いることでその劇のムードは盛りあがった。\nDịch: Nhờ áp dụng hiệu ứng ánh sáng đặc biệt, bầu không khí của vở kịch đã trở nên vô cùng lôi cuốn."
+    },
+    {
+      "question_id": 14,
+      "question": "人は無いものを欲しがる（　　　）。",
+      "context": "",
+      "options": [
+        "ことか",
+        "ものだ",
+        "ことはない",
+        "ものがある"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② ものだ.\n\nCấu trúc: V-る / A + ものだ: Bản chất là / Đương nhiên là... / Thường là... (nói về chân lý, quy luật tự nhiên, bản tính tâm lý thông thường của con người hay xã hội).\n- 無いものを欲しがるものだ: Con người ta thường hay khao khát những thứ mình không có.\n\nPhân tích các phương án khác:\n- ① ことか: Biết bao (cảm thán).\n- ③ ことはない: Không việc gì phải / Không cần phải.\n- ④ ものがある: Có cảm giác... / Có gì đó rất...\n\nCâu: 人は無いものを欲しがるものだ。\nDịch: Con người ta thường hay thèm muốn những thứ mà mình không có."
+    },
+    {
+      "question_id": 15,
+      "question": "景気が回復しつつ（　　　）ことは、企業の設備投資が増えていることでもわかる。",
+      "context": "",
+      "options": [
+        "いる",
+        "みる",
+        "ある",
+        "する"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ある.\n\nCấu trúc cố định: V-masu (bỏ masu) + つつある: Đang dần dần... / Đang từng bước... (chỉ sự biến đổi đang diễn ra theo một hướng nào đó).\n- Cụm từ: 「回復しつつある」: đang dần hồi phục.\n- Cấu trúc ngữ pháp này luôn đi với `ある`, không bao giờ kết hợp với いる, みる, する.\n\nCâu: 景気が回復しつつあることは、企業の設備投資が増えていることでもわかる。\nDịch: Việc tình hình kinh tế đang dần hồi phục có thể nhận thấy qua việc đầu tư trang thiết bị của các doanh nghiệp đang ngày càng tăng."
+    },
+    {
+      "question_id": 16,
+      "question": "もはや後に戻ることはできない。前に進む（　　　）ないのだ。",
+      "context": "",
+      "options": [
+        "だけ",
+        "しか",
+        "ばかり",
+        "のみ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② しか.\n\nCấu trúc: V-る + しかない: Chỉ còn cách... / Đành phải... (không còn con đường hay giải pháp nào khác ngoài cách này).\n- Vế trước: 「もはや後に戻ることはできない」 (Đã không còn có thể quay đầu lại được nữa).\n- Vế sau: 「前に進むしかないのだ」 (Chỉ còn cách tiến lên phía trước mà thôi).\n- Đuôi câu đã có `ないのだ` nên từ điền vào chỗ trống là `しか`.\n\nCâu: もはや後に戻ることはできない。前に進むしかないのだ。\nDịch: Giờ không thể quay lại được nữa rồi. Chỉ còn cách tiến về phía trước mà thôi."
+    },
+    {
+      "question_id": 17,
+      "question": "注射はきらいだけど、早く治すためにがまんする（　　　）。",
+      "context": "",
+      "options": [
+        "はずはない",
+        "ことはない",
+        "しかない",
+        "さえない"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ しかない.\n\nCấu trúc: V-る + しかない: Chỉ còn cách / Buộc phải...\n- がまんするしかない: Chỉ còn cách cắn răng chịu đựng.\n\nPhân tích các phương án khác:\n- ① はずはない: Không thể nào có chuyện.\n- ② ことはない: Không việc gì phải.\n- ④ さえない: Thậm chí cả... cũng không.\n\nCâu: 注射はきらいだけど、早く治すためにがまんするしかない。\nDịch: Tôi rất ghét tiêm, nhưng để nhanh khỏi bệnh thì chỉ còn cách ráng chịu đựng thôi."
+    },
+    {
+      "question_id": 18,
+      "question": "彼の ＿＿ ＿＿ _★_ ＿＿ ことだ。",
+      "context": "",
+      "options": [
+        "言うこと",
+        "それはありうる",
+        "すると",
+        "から"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ すると.\n\nThứ tự đúng: 言うこと → から → すると（★） → それはありうる\n(Thứ tự các đáp án: 1 → 4 → 3 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「すると」 (lựa chọn 3).\n- Cụm từ: 「彼の言うこと」 (những điều anh ấy nói).\n- Cấu trúc: 〜からすると / 〜からすれば (xét từ... mà nói): 「言うことからすると」 (xét từ những gì anh ấy nói).\n- Vế sau nối với ことだ: 「それはありうることだ」 (đó là điều hoàn toàn có thể xảy ra).\n\nCâu hoàn chỉnh: 彼の言うことからすると、それはありうることだ。\nDịch: Xét từ những điều anh ấy nói thì đó là chuyện hoàn toàn có thể xảy ra."
+    },
+    {
+      "question_id": 19,
+      "question": "彼からは形式的な ＿＿ ＿＿ _★_ ＿＿ 。",
+      "context": "",
+      "options": [
+        "転勤",
+        "一つ来た",
+        "あいさつ状が",
+        "きりだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 一つ来た.\n\nThứ tự đúng: 転勤 → あいさつ状が → 一つ来た（★） → きりだ\n(Thứ tự các đáp án: 1 → 3 → 2 → 4)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「一つ来た」 (lựa chọn 2).\n- Cụm danh từ: 「形式的な転勤あいさつ状」 (thư chào hỏi báo chuyển công tác mang tính thủ tục).\n- Cấu trúc: V-た + きりだ: chỉ làm đúng một lần đó rồi suốt từ đấy không còn nữa => 「一つ来たきりだ」 (chỉ có duy nhất một lá thư gửi tới rồi thôi).\n\nCâu hoàn chỉnh: 彼からは形式的な転勤あいさつ状が一つ来たきりだ。\nDịch: Từ phía anh ấy chỉ gửi tới duy nhất một bức thư báo chuyển công tác mang tính thủ tục, rồi từ đó bặt vô âm tín."
+    },
+    {
+      "question_id": 20,
+      "question": "果物屋にはスイカとメロンが ＿＿ ＿＿ _★_ ＿＿ いなかった。",
+      "context": "",
+      "options": [
+        "１個",
+        "しか",
+        "ずつ",
+        "残って"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② しか.\n\nThứ tự đúng: １個 → ずつ → しか（★） → 残って\n(Thứ tự các đáp án: 1 → 3 → 2 → 4)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「しか」 (lựa chọn 2).\n- Lượng từ + ずつ: 「１個ずつ」 (mỗi loại 1 quả).\n- Cấu trúc: 〜しか ... ない (chỉ... không hơn): 「１個ずつしか残っていなかった」 (chỉ còn lại mỗi loại 1 quả duy nhất).\n\nCâu hoàn chỉnh: 果物屋にはスイカとメロンが１個ずつしか残っていなかった。\nDịch: Ở cửa hàng hoa quả chỉ còn lại đúng mỗi loại dưa hấu và dưa lưới một quả duy nhất."
+    }
+  ]
+}
