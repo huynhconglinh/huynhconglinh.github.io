@@ -1,0 +1,281 @@
+{
+  "id": "JTEST-154-AC-LS01",
+  "code": "JTEST-154-AC-LS01",
+  "title": "J.TEST 154 (A-C) · Nghe hiểu · Phần 1 (Tranh ảnh)",
+  "track": "jtest",
+  "level": "JTEST A-C",
+  "topic": "listening",
+  "questionCount": 10,
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "1番",
+      "question": "女性は何をしていますか。",
+      "context": "Aの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/A.png"
+      },
+      "options": [
+        "注文の品を運んでいます。",
+        "食器をしまっています。",
+        "皿を交換しています。",
+        "メニューを変更しています。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Aの写真を見てください。問題1。女性は何をしていますか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、注文の品を運んでいます。２、食器をしまっています。３、皿を交換しています。４、メニューを変更しています。"
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "2番",
+      "question": "正しい説明はどれですか。",
+      "context": "Aの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/A.png"
+      },
+      "options": [
+        "女性はお盆を持っています。",
+        "女性は派手なエプロンをつけています。",
+        "店内が真っ暗です。",
+        "飲み物が溢れ出しています。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Aの写真を見てください。問題2。正しい説明はどれですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、女性はお盆を持っています。２、女性は派手なエプロンをつけています。３、店内が真っ暗です。４、飲み物が溢れ出しています。"
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "3番",
+      "question": "ここはどこですか。",
+      "context": "Bの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/B.png"
+      },
+      "options": [
+        "海水浴場です。",
+        "競技場です。",
+        "劇場です。",
+        "牧場です。"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Bの写真を見てください。問題3。ここはどこですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、海水浴場です。２、競技場です。３、劇場です。４、牧場です。"
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "type": "listening",
+      "label": "4番",
+      "question": "正しい説明はどれですか。",
+      "context": "Bの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/B.png"
+      },
+      "options": [
+        "馬が横たわっています。",
+        "馬がお尻を向けています。",
+        "馬がずぶ濡れになっています。",
+        "馬が飛び跳ねています。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Bの写真を見てください。問題4。正しい説明はどれですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、馬が横たわっています。２、馬がお尻を向けています。３、馬がずぶ濡れになっています。４、馬が飛び跳ねています。"
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "type": "listening",
+      "label": "5番",
+      "question": "これは何ですか。",
+      "context": "Cの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/C.png"
+      },
+      "options": [
+        "鉄砲です。",
+        "小銭です。",
+        "まな板です。",
+        "つり革です。"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Cの写真を見てください。問題5。これは何ですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、鉄砲です。２、小銭です。３、まな板です。４、つり革です。"
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "type": "listening",
+      "label": "6番",
+      "question": "正しい説明はどれですか。",
+      "context": "Cの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/C.png"
+      },
+      "options": [
+        "丸めて体に挟みます。",
+        "なでて体を労ります。",
+        "つかまって体を支えます。",
+        "潰して体にこすりつけます。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Cの写真を見てください。問題6。正しい説明はどれですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、丸めて体に挟みます。２、なでて体を労ります。３、つかまって体を支えます。４、潰して体にこすりつけます。"
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "type": "listening",
+      "label": "7番",
+      "question": "ここはどこですか。",
+      "context": "Dの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/D.png"
+      },
+      "options": [
+        "物置です。",
+        "老人ホームです。",
+        "リサイクル工場です。",
+        "不動産屋です。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Dの写真を見てください。問題7。ここはどこですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、物置です。２、老人ホームです。３、リサイクル工場です。４、不動産屋です。"
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "type": "listening",
+      "label": "8番",
+      "question": "作業員について、正しい説明はどれですか。",
+      "context": "Dの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/D.png"
+      },
+      "options": [
+        "防護服を身につけています。",
+        "ペットボトルをゆすいでいます。",
+        "みすぼらしい格好をしています。",
+        "ヘルメットを塗装しています。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Dの写真を見てください。問題8。作業員について、正しい説明はどれですか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、防護服を身につけています。２、ペットボトルをゆすいでいます。３、みすぼらしい格好をしています。４、ヘルメットを塗装しています。"
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "type": "listening",
+      "label": "9番",
+      "question": "相手に何時に来るか聞く時、何と言いますか。",
+      "context": "Eの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/E.png"
+      },
+      "options": [
+        "何時頃伺いますか。",
+        "何時頃いらっしゃいますか。",
+        "何時頃参られますか。",
+        "何時頃ご参上なさいますか。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Eの写真を見てください。問題9。相手に何時に来るか聞く時、何と言いますか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、何時頃伺いますか。２、何時頃いらっしゃいますか。３、何時頃参られますか。４、何時頃ご参上なさいますか。"
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "type": "listening",
+      "label": "10番",
+      "question": "上司に資料を渡す時、何と言いますか。",
+      "context": "Fの写真を見てください。",
+      "media": {
+        "image": "media/exams/Jtest/JTEST-154-AC/F.png"
+      },
+      "options": [
+        "恐れ入りますが、おいとましてもよろしいでしょうか。",
+        "お手すきの際にお目通しいただけますでしょうか。",
+        "私に携わらせていただけませんでしょうか。",
+        "全てお見通しかとは存じますが…。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "Fの写真を見てください。問題10。上司に資料を渡す時、何と言いますか。"
+        },
+        {
+          "role": "narrator",
+          "jp": "１、恐れ入りますが、おいとましてもよろしいでしょうか。２、お手すきの際にお目通しいただけますでしょうか。３、私に携わらせていただけませんでしょうか。４、全てお見通しかとは存じますが…。"
+        }
+      ]
+    }
+  ]
+}

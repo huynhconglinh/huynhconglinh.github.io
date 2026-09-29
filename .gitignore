@@ -40,3 +40,4 @@ tools/
 old/
 PLAN-JSON-V2.md
 *.note.txt
+data/exams/**/SampleTest/

@@ -709,6 +709,76 @@
       "topic": "reading",
       "questionCount": 15,
       "file": "exams/BJT/BJT-01-P3-S3.json"
+    },
+    {
+      "id": "JTEST-154-AC-VG",
+      "code": "JTEST-154-AC-VG",
+      "title": "J.TEST 154 (A-C) · Ngữ pháp & Từ vựng",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "vocabulary_grammar",
+      "questionCount": 40,
+      "file": "exams/Jtest/JTEST-154-AC-VG.json"
+    },
+    {
+      "id": "JTEST-154-AC-RD",
+      "code": "JTEST-154-AC-RD",
+      "title": "J.TEST 154 (A-C) · Đọc hiểu",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "reading",
+      "questionCount": 20,
+      "file": "exams/Jtest/JTEST-154-AC-RD.json"
+    },
+    {
+      "id": "JTEST-154-AC-KJ",
+      "code": "JTEST-154-AC-KJ",
+      "title": "J.TEST 154 (A-C) · Hán tự A",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "kanji",
+      "questionCount": 15,
+      "file": "exams/Jtest/JTEST-154-AC-KJ.json"
+    },
+    {
+      "id": "JTEST-154-AC-LS01",
+      "code": "JTEST-154-AC-LS01",
+      "title": "J.TEST 154 (A-C) · Nghe hiểu · Phần 1 (Tranh ảnh)",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "listening",
+      "questionCount": 10,
+      "file": "exams/Jtest/JTEST-154-AC-LS01.json"
+    },
+    {
+      "id": "JTEST-154-AC-LS02",
+      "code": "JTEST-154-AC-LS02",
+      "title": "J.TEST 154 (A-C) · Nghe hiểu · Phần 2 (Biểu đồ)",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "listening",
+      "questionCount": 10,
+      "file": "exams/Jtest/JTEST-154-AC-LS02.json"
+    },
+    {
+      "id": "JTEST-154-AC-LS03",
+      "code": "JTEST-154-AC-LS03",
+      "title": "J.TEST 154 (A-C) · Nghe hiểu · Phần 3 (Đối đáp)",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "listening",
+      "questionCount": 20,
+      "file": "exams/Jtest/JTEST-154-AC-LS03.json"
+    },
+    {
+      "id": "JTEST-154-AC-LS04",
+      "code": "JTEST-154-AC-LS04",
+      "title": "J.TEST 154 (A-C) · Nghe hiểu · Phần 4 (Hội thoại & Thuyết minh)",
+      "track": "jtest",
+      "level": "JTEST A-C",
+      "topic": "listening",
+      "questionCount": 15,
+      "file": "exams/Jtest/JTEST-154-AC-LS04.json"
     }
   ]
 }

@@ -1,0 +1,491 @@
+{
+  "id": "JTEST-154-AC-VG",
+  "code": "JTEST-154-AC-VG",
+  "title": "J.TEST 154 (A-C) · Ngữ pháp & Từ vựng",
+  "track": "jtest",
+  "level": "JTEST A-C",
+  "topic": "vocabulary_grammar",
+  "questionCount": 40,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "何度この仕事をやめようと（   ）ことか。",
+      "context": "",
+      "options": [
+        "考え",
+        "考えた",
+        "考えよう",
+        "考えの"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 2,
+      "question": "女性の方（   ）、デザートが無料でつきます。",
+      "context": "",
+      "options": [
+        "にかぎり",
+        "かいなか",
+        "しだいで",
+        "だけあって"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 3,
+      "question": "今後、景気はどんどん悪くなる（   ）だろう。",
+      "context": "",
+      "options": [
+        "きり",
+        "あまり",
+        "ばかり",
+        "つつある"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 4,
+      "question": "私の秘密を彼だけには（   ）ざるを得ない。",
+      "context": "",
+      "options": [
+        "話さ",
+        "話し",
+        "話す",
+        "話せ"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 5,
+      "question": "両親の期待（   ）こたえて弁護士になった。",
+      "context": "",
+      "options": [
+        "を",
+        "から",
+        "と",
+        "に"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 6,
+      "question": "子供の頃、近くの川で兄とよく（   ）ものだ。",
+      "context": "",
+      "options": [
+        "泳いで",
+        "泳いだ",
+        "泳ぎ",
+        "泳ぐ"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 7,
+      "question": "休める（   ）なら休みたいが、今は人が足りないので無理だ。",
+      "context": "",
+      "options": [
+        "わけ",
+        "うち",
+        "ところ",
+        "もの"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 8,
+      "question": "ズボンの裾が泥（   ）になった。",
+      "context": "",
+      "options": [
+        "まみれ",
+        "のきざし",
+        "がてら",
+        "のきわみ"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 9,
+      "question": "田中さんは仕事が（   ）とかで、パーティーに来ないそうだ。",
+      "context": "",
+      "options": [
+        "忙しい",
+        "忙しく",
+        "忙しかった",
+        "忙しくて"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 10,
+      "question": "彼の（   ）にたえないうわさが広まっている。",
+      "context": "",
+      "options": [
+        "聞き",
+        "聞く",
+        "聞いた",
+        "聞いて"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 11,
+      "question": "彼女は鬼（   ）ごとき形相で睨んでいた。",
+      "context": "",
+      "options": [
+        "に",
+        "まで",
+        "の",
+        "にも"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 12,
+      "question": "彼女は誰にも挨拶する（   ）なしに、部屋を出て行った。",
+      "context": "",
+      "options": [
+        "ところ",
+        "はず",
+        "もの",
+        "こと"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 13,
+      "question": "この地方は台風が多い。今年（   ）いたっては５度も上陸した。",
+      "context": "",
+      "options": [
+        "も",
+        "に",
+        "を",
+        "と"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 14,
+      "question": "村田さんは家業を継ぐ（   ）言って、先月、会社を辞めて実家に戻った。",
+      "context": "",
+      "options": [
+        "分には",
+        "とか何とか",
+        "のなんの",
+        "やしない"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 15,
+      "question": "60歳の誕生日（    ）新しい会社を作った。",
+      "context": "",
+      "options": [
+        "を機に",
+        "をたよりに",
+        "をなおざりにして",
+        "を押して"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 16,
+      "question": "山本：「最近、岡さん、会社を（   ）どうしたんだろう」野村：「奥さんの体調が悪いらしいよ」",
+      "context": "",
+      "options": [
+        "休んでまで",
+        "休むわりに",
+        "休むに違いないけど",
+        "休みがちだけど"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 17,
+      "question": "森田：「阿部さんと近藤さんが隣の席になったらしい」川野：「それはまずいな。あの二人は顔を合わせたら（   ）よ」",
+      "context": "",
+      "options": [
+        "いつもけんかせずじまいだ",
+        "けんかしかねない",
+        "けんかするだけましだ",
+        "けんかしないに越したことはない"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 18,
+      "question": "Ａ：「来月は旅行、行けそう？」 Ｂ：「ごめん。忙しいから（   ）週末も休めないと思う」",
+      "context": "",
+      "options": [
+        "旅行どころか",
+        "旅行とはうってかわって",
+        "旅行に応じて",
+        "旅行に加えて"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 19,
+      "question": "木村：「先月入社した長谷川さん、失敗が多くて困るな」高橋：「（   ）。少しずつ慣れていくと思う。もう少し様子をみようよ」",
+      "context": "",
+      "options": [
+        "彼なりに頑張っているよ",
+        "彼は仕事どころではないよ",
+        "彼は頑張らずともいいよ",
+        "彼は自分の仕事をしたまでだよ"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 20,
+      "question": "鈴木：「課長ったら、データの入ったＵＳＢをなくしたんですって」吉野：「（   ）失態ですね」",
+      "context": "",
+      "options": [
+        "管理職はおろか",
+        "管理職ならまだしも",
+        "管理職としてあるまじき",
+        "管理職ではあるまいし"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 21,
+      "question": "急な出張で、（   ）姉の結婚式に出席できなくなるかもしれない。",
+      "context": "",
+      "options": [
+        "せっかく",
+        "まるで",
+        "まもなく",
+        "もしかしたら"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 22,
+      "question": "机にコーヒーを（   ）しまった。",
+      "context": "",
+      "options": [
+        "整えて",
+        "逆らって",
+        "崩れて",
+        "こぼして"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 23,
+      "question": "部長は周りの人から（   ）されている。",
+      "context": "",
+      "options": [
+        "分担",
+        "受信",
+        "信頼",
+        "行儀"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 24,
+      "question": "この町は海に面しているが、漁業より（   ）業が盛んだ。",
+      "context": "",
+      "options": [
+        "木",
+        "林",
+        "森",
+        "山"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 25,
+      "question": "こちらは本日の（   ）商品となっております。",
+      "context": "",
+      "options": [
+        "目印",
+        "目安",
+        "目上",
+        "目玉"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 26,
+      "question": "台風に（   ）、社員は早めに帰ってください。",
+      "context": "",
+      "options": [
+        "備えて",
+        "なじんで",
+        "耐えて",
+        "達して"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 27,
+      "question": "（   ）を見てイベントを知ったお客様が多い。",
+      "context": "",
+      "options": [
+        "キャップ",
+        "トレイ",
+        "ビラ",
+        "ロープ"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 28,
+      "question": "毎回お礼状を送ってくる彼は、本当に（   ）人だ。",
+      "context": "",
+      "options": [
+        "まめな",
+        "大柄な",
+        "気まぐれな",
+        "無礼な"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 29,
+      "question": "10時（   ）に会社に着いた。",
+      "context": "",
+      "options": [
+        "ひところ",
+        "きっかり",
+        "とっさ",
+        "がらんと"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 30,
+      "question": "顔から（   ）が出るほど恥ずかしい思いをした。",
+      "context": "",
+      "options": [
+        "水",
+        "火",
+        "石",
+        "血"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 31,
+      "question": "残っていた料理を一人で食べきった。",
+      "context": "",
+      "options": [
+        "全部食べた",
+        "食べ始めた",
+        "食べたかった",
+        "食べていた"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 32,
+      "question": "話を聞いて、がっかりした。",
+      "context": "",
+      "options": [
+        "感動した",
+        "失望した",
+        "怒った",
+        "泣いた"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 33,
+      "question": "井上さんはＺ社の新商品について知り抜いている。",
+      "context": "",
+      "options": [
+        "よく知っている",
+        "知りたいと思っている",
+        "ほとんど知らない",
+        "知る必要がある"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 34,
+      "question": "私の女房は40歳だ。",
+      "context": "",
+      "options": [
+        "妻",
+        "娘",
+        "姪",
+        "母"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 35,
+      "question": "これからはもっと節約して生活しようと思う。",
+      "context": "",
+      "options": [
+        "好きなように",
+        "無駄なお金を使わないように",
+        "休まず働いて",
+        "時間を大切に"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 36,
+      "question": "口をつぐめ。",
+      "context": "",
+      "options": [
+        "大声で叫べ",
+        "決して笑うな",
+        "何も話すな",
+        "正直に言え"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 37,
+      "question": "彼は厚かましい人だ。",
+      "context": "",
+      "options": [
+        "そそっかしい",
+        "図々しい",
+        "だらしない",
+        "頼もしい"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 38,
+      "question": "吉野さんはいつも黙々と仕事をしている。",
+      "context": "",
+      "options": [
+        "とても嫌そうに",
+        "楽しそうに",
+        "ゆっくりと",
+        "だまって"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 39,
+      "question": "彼の活躍を願ってやまない。",
+      "context": "",
+      "options": [
+        "心から願っている",
+        "願っていたが叶わなかった",
+        "願っていないわけではない",
+        "願ってもしょうがない"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 40,
+      "question": "金子さんは会議中、上の空だった。",
+      "context": "",
+      "options": [
+        "何も話さなかった",
+        "居眠りをしていた",
+        "上ばかり見ていた",
+        "集中していなかった"
+      ],
+      "correct_answer": 4
+    }
+  ]
+}

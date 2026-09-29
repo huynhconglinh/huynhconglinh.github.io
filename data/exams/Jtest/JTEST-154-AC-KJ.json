@@ -1,0 +1,191 @@
+{
+  "id": "JTEST-154-AC-KJ",
+  "code": "JTEST-154-AC-KJ",
+  "title": "J.TEST 154 (A-C) · Hán tự A",
+  "track": "jtest",
+  "level": "JTEST A-C",
+  "topic": "kanji",
+  "questionCount": 15,
+  "questions": [
+    {
+      "question_id": 61,
+      "question": "部長にそうだんした。",
+      "context": "",
+      "options": [
+        "相談",
+        "要求",
+        "確認",
+        "解説"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 62,
+      "question": "彼の仕事は丁寧だが、とてもおそい。",
+      "context": "",
+      "options": [
+        "怖い",
+        "狭い",
+        "遅い",
+        "汚い"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 63,
+      "question": "作品にふれてはいけない。",
+      "context": "",
+      "options": [
+        "触れて",
+        "優れて",
+        "壊れて",
+        "断れて"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 64,
+      "question": "そのコップにこおりを入れて。",
+      "context": "",
+      "options": [
+        "塩",
+        "氷",
+        "毛",
+        "虫"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 65,
+      "question": "うちの犬はとてもかしこい。",
+      "context": "",
+      "options": [
+        "甘い",
+        "幼い",
+        "賢い",
+        "荒い"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 66,
+      "question": "部長をそんけいしている。",
+      "context": "",
+      "options": [
+        "尊敬",
+        "敬慕",
+        "尊厳",
+        "賞賛"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 67,
+      "question": "それぞれのこせいを伸ばす。",
+      "context": "",
+      "options": [
+        "性格",
+        "適性",
+        "個性",
+        "関係"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question_id": 68,
+      "question": "あせらないで長い目で見守ろう。",
+      "context": "",
+      "options": [
+        "汗らない",
+        "燥らない",
+        "促らない",
+        "焦らない"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 69,
+      "question": "この仕事、ぼくにやらせてください。",
+      "context": "",
+      "options": [
+        "僕",
+        "奴",
+        "婿",
+        "嫁"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 70,
+      "question": "こちらの資料をはいしゃくしてもよろしいですか。",
+      "context": "",
+      "options": [
+        "盃借",
+        "拝借",
+        "貸借",
+        "俳借"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 71,
+      "question": "昨日出した申請書はきゃっかされたようだ。",
+      "context": "",
+      "options": [
+        "却下",
+        "放棄",
+        "廃棄",
+        "消火"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_id": 72,
+      "question": "ぬるま湯につかっていては出世しない。",
+      "context": "",
+      "options": [
+        "遣かって",
+        "漬かって",
+        "培かって",
+        "浸かって"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 73,
+      "question": "山本さんとはめんしきがない。",
+      "context": "",
+      "options": [
+        "綿織",
+        "面識",
+        "免震",
+        "免疫"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_id": 74,
+      "question": "皆の前で得意の歌をひろうした。",
+      "context": "",
+      "options": [
+        "暴露",
+        "慰労",
+        "翻弄",
+        "披露"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_id": 75,
+      "question": "社長はどのようにおっしゃっているのですか。",
+      "context": "",
+      "options": [
+        "扱って",
+        "喋って",
+        "仰って",
+        "狙って"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}
