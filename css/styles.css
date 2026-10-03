@@ -801,6 +801,14 @@ body::before {
   line-height: 1.7;
 }
 
+.q-text u,
+.passage-body u {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+  font-weight: 600;
+}
+
 .options {
   display: grid;
   grid-template-columns: 1fr 1fr;

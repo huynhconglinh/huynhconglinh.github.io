@@ -27,10 +27,13 @@
     const footnotes =
       footnoteStart >= 0 ? text.slice(footnoteStart).trim() : "";
 
+    const renderSafeFormatted = (str) =>
+      escapeHtml(str).replace(/&lt;(\/?[ub])&gt;/gi, "<$1>");
+
     const bodyHtml = body
       .split(/\n+/)
       .filter(Boolean)
-      .map((p) => `<p class="passage-p">${escapeHtml(p)}</p>`)
+      .map((p) => `<p class="passage-p">${renderSafeFormatted(p)}</p>`)
       .join("");
 
     let footnotesHtml = "";
@@ -40,7 +43,7 @@
         <div class="passage-footnotes">
           <div class="passage-footnotes-label">Chú thích</div>
           ${items
-            .map((item) => `<div class="passage-footnote">${escapeHtml(item)}</div>`)
+            .map((item) => `<div class="passage-footnote">${renderSafeFormatted(item)}</div>`)
             .join("")}
         </div>`;
     }

@@ -9,7 +9,7 @@
   "questions": [
     {
       "question_id": 61,
-      "question": "部長にそうだんした。",
+      "question": "部長に<u>そうだん</u>した。",
       "context": "",
       "options": [
         "相談",
@@ -17,11 +17,12 @@
         "確認",
         "解説"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. そうだん (相談 - Tương Đàm) nghĩa là thảo luận, bàn bạc, trao đổi ý kiến.\n- Câu hoàn chỉnh: 部長に相談した。\n- Dịch nghĩa: Tôi đã thảo luận / xin ý kiến trưởng phòng.\n2. SAI. 要求 (ようきゅう - Yêu cầu)\n3. SAI. 確認 (かくにん - Xác nhận)\n4. SAI. 解説 (かいせつ - Giải thích)"
     },
     {
       "question_id": 62,
-      "question": "彼の仕事は丁寧だが、とてもおそい。",
+      "question": "彼の仕事は丁寧だが、とても<u>おそい</u>。",
       "context": "",
       "options": [
         "怖い",
@@ -29,11 +30,12 @@
         "遅い",
         "汚い"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. おそい (遅い - Trì) nghĩa là chậm chạp, muộn.\n- Câu hoàn chỉnh: 彼の仕事は丁寧だが、とても遅い。\n- Dịch nghĩa: Công việc của anh ấy cẩn thận nhưng rất chậm.\n1. SAI. 怖い (こわい - Khủng - sợ hãi)\n2. SAI. 狭い (せまい - Hiệp - chật hẹp)\n4. SAI. 汚い (きたない - Ô - bẩn thỉu)"
     },
     {
       "question_id": 63,
-      "question": "作品にふれてはいけない。",
+      "question": "作品に<u>ふれて</u>はいけない。",
       "context": "",
       "options": [
         "触れて",
@@ -41,11 +43,12 @@
         "壊れて",
         "断れて"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. ふれる (触れる - Xúc) nghĩa là chạm vào, sờ vào. Ngữ pháp 「V-てはいけない」: Cấm / không được làm gì.\n- Câu hoàn chỉnh: 作品に触れてはいけない。\n- Dịch nghĩa: Không được chạm vào tác phẩm.\n2. SAI. 優れて (すぐれて - Ưu - ưu tú, xuất sắc)\n3. SAI. 壊れて (こわれて - Hoại - hỏng, vỡ)\n4. SAI. 断れて (thể khả năng của 断る - từ chối)"
     },
     {
       "question_id": 64,
-      "question": "そのコップにこおりを入れて。",
+      "question": "そのコップに<u>こおり</u>を入れて。",
       "context": "",
       "options": [
         "塩",
@@ -53,11 +56,12 @@
         "毛",
         "虫"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. こおり (氷 - Băng) nghĩa là đá lạnh, nước đá.\n- Câu hoàn chỉnh: そのコップに氷を入れて。\n- Dịch nghĩa: Hãy cho đá vào chiếc cốc đó.\n1. SAI. 塩 (しお - Diêm - muối)\n3. SAI. 毛 (け - Mao - lông, tóc)\n4. SAI. 虫 (むし - Trùng - sâu bọ, côn trùng)"
     },
     {
       "question_id": 65,
-      "question": "うちの犬はとてもかしこい。",
+      "question": "うちの犬はとても<u>かしこい</u>。",
       "context": "",
       "options": [
         "甘い",
@@ -65,11 +69,12 @@
         "賢い",
         "荒い"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. かしこい (賢い - Hiền) nghĩa là thông minh, khôn ngoan, lanh lợi.\n- Câu hoàn chỉnh: うちの犬はとても賢い。\n- Dịch nghĩa: Con chó nhà tôi rất thông minh.\n1. SAI. 甘い (あまい - Cam - ngọt, nuông chiều)\n2. SAI. 幼い (おさない - Ấu - thơ ngây, non nớt)\n4. SAI. 荒い (あらい - Hoang - thô bạo, dữ dội)"
     },
     {
       "question_id": 66,
-      "question": "部長をそんけいしている。",
+      "question": "部長を<u>そんけい</u>している。",
       "context": "",
       "options": [
         "尊敬",
@@ -77,11 +82,12 @@
         "尊厳",
         "賞賛"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. そんけい (尊敬 - Tôn Kính) nghĩa là tôn kính, kính trọng.\n- Câu hoàn chỉnh: 部長を尊敬している。\n- Dịch nghĩa: Tôi rất kính trọng trưởng phòng.\n2. SAI. 敬慕 (けいぼ - Kính Mộ - kính yêu, ngưỡng mộ)\n3. SAI. 尊厳 (そんげん - Tôn Nghiêm - phẩm giá, uy nghiêm)\n4. SAI. 賞賛 (しょうさん - Thưởng Tán - khen ngợi, tán thưởng)"
     },
     {
       "question_id": 67,
-      "question": "それぞれのこせいを伸ばす。",
+      "question": "それぞれの<u>こせい</u>を伸ばす。",
       "context": "",
       "options": [
         "性格",
@@ -89,11 +95,12 @@
         "個性",
         "関係"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. こせい (個性 - Cá Tính) nghĩa là cá tính, nét đặc trưng riêng biệt.\n- Câu hoàn chỉnh: それぞれの個性を伸ばす。\n- Dịch nghĩa: Phát triển cá tính riêng của mỗi người.\n1. SAI. 性格 (せいかく - Tính Cách)\n2. SAI. 適性 (てきせい - Thích Tính - năng khiếu, sự phù hợp)\n4. SAI. 関係 (かんけい - Quan Hệ)"
     },
     {
       "question_id": 68,
-      "question": "あせらないで長い目で見守ろう。",
+      "question": "<u>あせらない</u>で長い目で見守ろう。",
       "context": "",
       "options": [
         "汗らない",
@@ -101,11 +108,12 @@
         "促らない",
         "焦らない"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. あせる (焦る - Tiêu) nghĩa là nôn nóng, sốt ruột.\n- Câu hoàn chỉnh: 焦らないで長い目で見守ろう。\n- Dịch nghĩa: Đừng sốt ruột, hãy kiên nhẫn dõi theo về lâu dài.\n1. SAI. 汗 (Hãn - mồ hôi)\n2. SAI. 燥 (Táo - trong 乾燥: khô ráo)\n3. SAI. 促 (Xúc - trong 促す: thúc giục)"
     },
     {
       "question_id": 69,
-      "question": "この仕事、ぼくにやらせてください。",
+      "question": "この仕事、<u>ぼく</u>にやらせてください。",
       "context": "",
       "options": [
         "僕",
@@ -113,11 +121,12 @@
         "婿",
         "嫁"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. ぼく (僕 - Bộc) nghĩa là tôi (đại từ nhân xưng ngôi thứ nhất nam giới).\n- Câu hoàn chỉnh: この仕事、僕にやらせてください。\n- Dịch nghĩa: Công việc này, xin hãy để tôi làm.\n2. SAI. 奴 (やつ - Nô - gã đó, kẻ đó)\n3. SAI. 婿 (むこ - Tế - con rể)\n4. SAI. 嫁 (よめ - Giá - con dâu)"
     },
     {
       "question_id": 70,
-      "question": "こちらの資料をはいしゃくしてもよろしいですか。",
+      "question": "こちらの資料を<u>はいしゃく</u>してもよろしいですか。",
       "context": "",
       "options": [
         "盃借",
@@ -125,11 +134,12 @@
         "貸借",
         "俳借"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. はいしゃく (拝借 - Bái Tá) là khiêm nhường ngữ của 借りる (mượn, xem nhờ).\n- Câu hoàn chỉnh: こちらの資料を拝借してもよろしいですか。\n- Dịch nghĩa: Tôi có thể xin phép mượn xem tài liệu này được không ạ?\n1. SAI. 盃 (Bôi - chén rượu)\n3. SAI. 貸借 (たいしゃく - Thải Tá - việc vay mượn)\n4. SAI. 俳借 (từ không có nghĩa)"
     },
     {
       "question_id": 71,
-      "question": "昨日出した申請書はきゃっかされたようだ。",
+      "question": "昨日出した申請書は<u>きゃっか</u>されたようだ。",
       "context": "",
       "options": [
         "却下",
@@ -137,11 +147,12 @@
         "廃棄",
         "消火"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. きゃっか (却下 - Khước Hạ) nghĩa là bác bỏ, từ chối đơn từ/yêu cầu.\n- Câu hoàn chỉnh: 昨日出した申請書は却下されたようだ。\n- Dịch nghĩa: Đơn xin nộp hôm qua hình như đã bị bác bỏ rồi.\n2. SAI. 放棄 (ほうき - Phóng Khí - từ bỏ quyền lợi/trách nhiệm)\n3. SAI. 廃棄 (はいき - Phế Khí - vứt bỏ, hủy rác/đồ vật)\n4. SAI. 消火 (しょうか - Tiêu Hỏa - dập lửa)"
     },
     {
       "question_id": 72,
-      "question": "ぬるま湯につかっていては出世しない。",
+      "question": "ぬるま湯に<u>つかって</u>いては出世しない。",
       "context": "",
       "options": [
         "遣かって",
@@ -149,11 +160,12 @@
         "培かって",
         "浸かって"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. つかる (浸かる - Tẩm) nghĩa là ngâm mình. Quán dụng ngữ 「ぬるま湯に浸かる」 (ngâm trong nước ấm vừa phải) ví với việc sống trong vùng an toàn, thỏa hiệp không chịu nỗ lực thăng tiến.\n- Câu hoàn chỉnh: ぬるま湯に浸かっていては出世しない。\n- Dịch nghĩa: Cứ dậm chân trong vùng an toàn thì chẳng thể thăng tiến được.\n1. SAI. 遣 (trong 派遣: phái cử)\n2. SAI. 漬 (trong 漬物: dưa muối)\n3. SAI. 培 (trong 培う: trau dồi, bồi dưỡng)"
     },
     {
       "question_id": 73,
-      "question": "山本さんとはめんしきがない。",
+      "question": "山本さんとは<u>めんしき</u>がない。",
       "context": "",
       "options": [
         "綿織",
@@ -161,11 +173,12 @@
         "免震",
         "免疫"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. めんしき (面識 - Diện Thức) nghĩa là quen biết (biết mặt). Cụm 「面識がない」: Không quen biết.\n- Câu hoàn chỉnh: 山本さんとは面識がない。\n- Dịch nghĩa: Tôi không quen biết anh Yamamoto.\n1. SAI. 綿織 (めんおり - Miên Chức - dệt bông)\n3. SAI. 免震 (めんしん - Miễn Chấn - chống động đất)\n4. SAI. 免疫 (めんえき - Miễn Dịch)"
     },
     {
       "question_id": 74,
-      "question": "皆の前で得意の歌をひろうした。",
+      "question": "皆の前で得意の歌を<u>ひろう</u>した。",
       "context": "",
       "options": [
         "暴露",
@@ -173,11 +186,12 @@
         "翻弄",
         "披露"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. ひろう (披露 - Phi Lộ) nghĩa là biểu diễn, trình diễn hoặc công bố ra trước mọi người.\n- Câu hoàn chỉnh: 皆の前で得意の歌を披露した。\n- Dịch nghĩa: Tôi đã biểu diễn bài hát sở trường trước mặt mọi người.\n1. SAI. 暴露 (ばくろ - Bạo Lộ - vạch trần bí mật)\n2. SAI. 慰労 (いろう - Úy Lao - tri ân, khao thưởng công lao)\n3. SAI. 翻弄 (ほんろう - Phiên Lộng - đùa giỡn, thao túng)"
     },
     {
       "question_id": 75,
-      "question": "社長はどのようにおっしゃっているのですか。",
+      "question": "社長はどのように<u>おっしゃって</u>いるのですか。",
       "context": "",
       "options": [
         "扱って",
@@ -185,7 +199,8 @@
         "仰って",
         "狙って"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. おっしゃる (仰る - Ngưỡng) là tôn kính ngữ của 言う (nói), thể te là おっしゃって.\n- Câu hoàn chỉnh: 社長はどのようにおっしゃっているのですか。\n- Dịch nghĩa: Giám đốc đã nói như thế nào vậy ạ?\n1. SAI. 扱って (あつかって - Tráp - đối xử, xử lý)\n2. SAI. 喋って (しゃべって - Điệp - nói chuyện, tán gẫu)\n4. SAI. 狙って (ねらって - Thư - nhắm vào)"
     }
   ]
 }

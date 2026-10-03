@@ -17,7 +17,8 @@
         "考えよう",
         "考えの"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Cấu trúc 「何度／どんなに／どれほど…V-たことか」: Biết bao nhiêu lần / biết nhường nào... (dùng thể quá khứ V-た để cảm thán sâu sắc về trải nghiệm trong quá khứ).\n- Câu hoàn chỉnh: 何度この仕事をやめようと考えたことか。\n- Dịch nghĩa: Đã biết bao nhiêu lần tôi từng nghĩ sẽ từ bỏ công việc này."
     },
     {
       "question_id": 2,
@@ -29,7 +30,8 @@
         "しだいで",
         "だけあって"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「N + に限り」: Chỉ riêng đối với N / chỉ giới hạn trong N (văn phong trang trọng, thường dùng trong thông báo, dịch vụ).\n- Câu hoàn chỉnh: 女性の方に限り、デザートが無料でつきます。\n- Dịch nghĩa: Chỉ riêng các khách hàng nữ mới được tặng kèm món tráng miệng miễn phí."
     },
     {
       "question_id": 3,
@@ -41,7 +43,8 @@
         "ばかり",
         "つつある"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. Cấu trúc 「V-る + ばかりだ」: Có xu hướng ngày càng... (thường đi với biến chuyển xấu, tiêu cực).\n- Câu hoàn chỉnh: 今後、景気はどんどん悪くなるばかりだろう。\n- Dịch nghĩa: Từ nay về sau, tình hình kinh tế có lẽ sẽ ngày càng xấu đi."
     },
     {
       "question_id": 4,
@@ -53,7 +56,8 @@
         "話す",
         "話せ"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「V-ない (bỏ ない) + ざるを得ない」: Đành phải / buộc lòng phải làm V (dù không muốn). Động từ 話す biến thành 話さない -> 話さざるを得ない.\n- Câu hoàn chỉnh: 私の秘密を彼だけには話さざるを得ない。\n- Dịch nghĩa: Tôi đành phải nói bí mật của mình cho duy nhất anh ấy."
     },
     {
       "question_id": 5,
@@ -65,7 +69,8 @@
         "と",
         "に"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. Cấu trúc 「N + にこたえて (に応えて)」: Đáp lại / đáp ứng (kỳ vọng, nguyện vọng, yêu cầu).\n- Câu hoàn chỉnh: 両親の期待にこたえて弁護士になった。\n- Dịch nghĩa: Để đáp lại kỳ vọng của cha mẹ, tôi đã trở thành luật sư."
     },
     {
       "question_id": 6,
@@ -77,7 +82,8 @@
         "泳ぎ",
         "泳ぐ"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Cấu trúc 「V-たものだ」: Hồi tưởng thói quen hay làm trong quá khứ (ngày xưa thường hay...).\n- Câu hoàn chỉnh: 子供の頃、近くの川で兄とよく泳いだものだ。\n- Dịch nghĩa: Hồi còn nhỏ, tôi thường hay đi bơi với anh trai ở con sông gần nhà."
     },
     {
       "question_id": 7,
@@ -89,7 +95,8 @@
         "ところ",
         "もの"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. Cấu trúc 「V-khả năng + ものなら」: Nếu có thể... thì (giả định một điều khó hoặc không thể thực hiện). 休める (thể khả năng) + ものなら.\n- Câu hoàn chỉnh: 休めるものなら休みたいが、今は人が足りないので無理だ。\n- Dịch nghĩa: Nếu mà nghỉ được thì tôi cũng muốn nghỉ, nhưng hiện tại thiếu người nên không thể."
     },
     {
       "question_id": 8,
@@ -101,7 +108,8 @@
         "がてら",
         "のきわみ"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「N + まみれ」: Dính đầy / bao phủ toàn là chất bẩn bề mặt (bùn đất, máu, mồ hôi, bụi bặm).\n- Câu hoàn chỉnh: ズボンの裾が泥まみれになった。\n- Dịch nghĩa: Gấu quần dính đầy bùn đất."
     },
     {
       "question_id": 9,
@@ -113,7 +121,8 @@
         "忙しかった",
         "忙しくて"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「Thể thông thường + とかで」: Nghe đâu là vì... (dẫn lại lý do một cách gián tiếp, không chắc chắn). Tính từ 忙しい giữ nguyên thể thông thường.\n- Câu hoàn chỉnh: 田中さんは仕事が忙しいとかで、パーティーに来ないそうだ。\n- Dịch nghĩa: Nghe nói anh Tanaka vì bận việc hay gì đó nên sẽ không đến bữa tiệc."
     },
     {
       "question_id": 10,
@@ -125,7 +134,8 @@
         "聞いた",
         "聞いて"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Cấu trúc 「V-る + にたえない (に堪えない)」: Không thể chịu đựng nổi / không nỡ (nhìn, nghe). 「聞くにたえない」: chướng tai, không nỡ nghe.\n- Câu hoàn chỉnh: 彼の聞くにたえないうわさが広まっている。\n- Dịch nghĩa: Lời đồn tai tiếng khó nghe về anh ấy đang lan truyền."
     },
     {
       "question_id": 11,
@@ -137,7 +147,8 @@
         "の",
         "にも"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. Cấu trúc 「N + のごとき + N」: Như là / giống như là (văn viết cổ trang trọng, tương đương ような).\n- Câu hoàn chỉnh: 彼女は鬼のごとき形相で睨んでいた。\n- Dịch nghĩa: Cô ấy trừng mắt nhìn với nét mặt hung dữ như quỷ dữ."
     },
     {
       "question_id": 12,
@@ -149,7 +160,8 @@
         "もの",
         "こと"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. Cấu trúc 「V-る + ことなしに」: Mà không hề... (tương đương với V-ないで).\n- Câu hoàn chỉnh: 彼女は誰にも挨拶することなしに、部屋を出て行った。\n- Dịch nghĩa: Cô ấy rời khỏi phòng mà chẳng hề chào hỏi bất kỳ ai."
     },
     {
       "question_id": 13,
@@ -161,7 +173,8 @@
         "を",
         "と"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Cấu trúc 「N + にいたっては (に至っては)」: Đến như... / thậm chí đến mức như... (nêu ra trường hợp cực đoan, điển hình nhất).\n- Câu hoàn chỉnh: この地方は台風が多い。今年に至っては５度も上陸した。\n- Dịch nghĩa: Khu vực này nhiều bão. Đến như năm nay đã có tới 5 cơn bão đổ bộ."
     },
     {
       "question_id": 14,
@@ -173,7 +186,8 @@
         "のなんの",
         "やしない"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Cấu trúc 「〜とか何とか言って」: Nói những lý do đại loại như... (viện cớ, trình bày mơ hồ).\n- Câu hoàn chỉnh: 村田さんは家業を継ぐとか何とか言って、先月、会社を辞めて実家に戻った。\n- Dịch nghĩa: Anh Murata nói đại loại là về tiếp quản việc gia đình, tháng trước đã nghỉ việc về quê."
     },
     {
       "question_id": 15,
@@ -185,7 +199,8 @@
         "をなおざりにして",
         "を押して"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「N + を機に (をきに)」: Nhân dịp / nhân cơ hội... (lấy một sự kiện làm mốc để bắt đầu sự thay đổi hoặc việc mới).\n- Câu hoàn chỉnh: 60歳の誕生日を機に新しい会社を作った。\n- Dịch nghĩa: Nhân dịp sinh nhật tuổi 60, tôi đã thành lập công ty mới."
     },
     {
       "question_id": 16,
@@ -197,7 +212,8 @@
         "休むに違いないけど",
         "休みがちだけど"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. Cấu trúc 「V-ます (bỏ ます) + がち」: Thường hay / có khuynh hướng (diễn tả tình trạng không tốt hay lặp lại). 「休みがち」: hay nghỉ, thường xuyên vắng mặt.\n- Câu hoàn chỉnh: 「最近、岡さん、会社を休みがちだけどどうしたんだろう」\n- Dịch nghĩa: Gần đây anh Oka hay nghỉ làm, không biết có chuyện gì vậy nhỉ?"
     },
     {
       "question_id": 17,
@@ -209,7 +225,8 @@
         "けんかするだけましだ",
         "けんかしないに越したことはない"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Cấu trúc 「V-ます + かねない」: Rất có nguy cơ / có thể sẽ xảy ra (kết quả xấu, tiêu cực).\n- Câu hoàn chỉnh: 「それはまずいな。あの二人は顔を合わせたらけんかしかねないよ」\n- Dịch nghĩa: Thế thì gay go đấy. Hai người đó mà chạm mặt nhau thì rất dễ cãi vã."
     },
     {
       "question_id": 18,
@@ -221,7 +238,8 @@
         "旅行に応じて",
         "旅行に加えて"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「N + どころか」: Nói chi đến... / đừng nói đến... (ngay cả vế sau còn không làm được).\n- Câu hoàn chỉnh: 「ごめん。忙しいから旅行どころか週末も休めないと思う」\n- Dịch nghĩa: Xin lỗi nhé. Bận quá nên nói chi đi du lịch, ngay cả cuối tuần chắc tớ cũng không được nghỉ."
     },
     {
       "question_id": 19,
@@ -233,7 +251,8 @@
         "彼は頑張らずともいいよ",
         "彼は自分の仕事をしたまでだよ"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. Cấu trúc 「N + なりに」: Theo cách / theo khả năng của N. 「彼なりに頑張っている」: Cậu ấy cũng đang cố gắng hết sức theo khả năng của mình rồi.\n- Câu hoàn chỉnh: 「彼なりに頑張っているよ。少しずつ慣れていくと思う。もう少し様子をみようよ」\n- Dịch nghĩa: Cậu ấy cũng đang cố hết sức theo cách của mình mà. Tôi nghĩ cậu ấy sẽ dần quen thôi, hãy theo dõi thêm chút nữa xem sao."
     },
     {
       "question_id": 20,
@@ -245,7 +264,8 @@
         "管理職としてあるまじき",
         "管理職ではあるまいし"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. Cấu trúc 「N + としてあるまじき + N」: Không thể chấp nhận được đối với tư cách là... / không nên có ở...\n- Câu hoàn chỉnh: 「管理職としてあるまじき失態ですね」\n- Dịch nghĩa: Đó là một sai lầm đáng trách không thể chấp nhận được đối với cương vị cấp quản lý."
     },
     {
       "question_id": 21,
@@ -257,7 +277,8 @@
         "まもなく",
         "もしかしたら"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. Cấu trúc 「もしかしたら…かもしれない」: Có lẽ / không chừng là (đi cặp ăn khớp với nhau).\n- Câu hoàn chỉnh: 急な出張で、もしかしたら姉の結婚式に出席できなくなるかもしれない。\n- Dịch nghĩa: Vì chuyến công tác đột xuất, không chừng tôi sẽ không thể tham dự lễ cưới của chị gái."
     },
     {
       "question_id": 22,
@@ -269,7 +290,8 @@
         "崩れて",
         "こぼして"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. こぼす (零す - làm đổ, làm tràn chất lỏng).\n- Câu hoàn chỉnh: 机にコーヒーをこぼしてしまった。\n- Dịch nghĩa: Tôi lỡ làm đổ cà phê ra bàn mất rồi."
     },
     {
       "question_id": 23,
@@ -281,7 +303,8 @@
         "信頼",
         "行儀"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. しんらい (信頼 - Tín Lại): Sự tin cậy, tín nhiệm.\n- Câu hoàn chỉnh: 部長は周りの人から信頼されている。\n- Dịch nghĩa: Trưởng phòng được mọi người xung quanh rất tin cậy."
     },
     {
       "question_id": 24,
@@ -293,7 +316,8 @@
         "森",
         "山"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. 林業 (りんぎょう - Lâm Nghiệp): Nghề trồng rừng, khai thác rừng. Trong câu đối chiếu với 漁業 (ぎょぎょう - Ngư nghiệp).\n- Câu hoàn chỉnh: この町は海に面しているが、漁業より林業が盛んだ。\n- Dịch nghĩa: Thị trấn này giáp biển nhưng ngành lâm nghiệp lại phát triển hơn ngư nghiệp."
     },
     {
       "question_id": 25,
@@ -305,7 +329,8 @@
         "目上",
         "目玉"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. 目玉商品 (めだましょうひん): Sản phẩm chủ lực / mặt hàng giảm giá tâm điểm để thu hút khách.\n- Câu hoàn chỉnh: こちらは本日の目玉商品となっております。\n- Dịch nghĩa: Đây là mặt hàng khuyến mãi tâm điểm của ngày hôm nay ạ."
     },
     {
       "question_id": 26,
@@ -317,7 +342,8 @@
         "耐えて",
         "達して"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 〜に備える (そなえる - chuẩn bị ứng phó, phòng ngừa).\n- Câu hoàn chỉnh: 台風に備えて、社員は早めに帰ってください。\n- Dịch nghĩa: Để chuẩn bị phòng chống bão, các nhân viên hãy về sớm."
     },
     {
       "question_id": 27,
@@ -329,7 +355,8 @@
         "ビラ",
         "ロープ"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. ビラ (tờ rơi quảng cáo, tờ bướm) = チラシ.\n- Câu hoàn chỉnh: ビラを見てイベントを知ったお客様が多い。\n- Dịch nghĩa: Có nhiều khách hàng biết đến sự kiện nhờ xem tờ rơi."
     },
     {
       "question_id": 28,
@@ -341,7 +368,8 @@
         "気まぐれな",
         "無礼な"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. まめな人 (người chu đáo, siêng năng, tỉ mỉ, chịu khó để ý quan tâm người khác).\n- Câu hoàn chỉnh: 毎回お礼状を送ってくる彼は、本当にまめな人だ。\n- Dịch nghĩa: Lần nào anh ấy cũng gửi thư cảm ơn, thật là một người chu đáo."
     },
     {
       "question_id": 29,
@@ -353,7 +381,8 @@
         "とっさ",
         "がらんと"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. きっかり (đúng, chính xác thời gian/số lượng). 10時きっかり: đúng 10 giờ.\n- Câu hoàn chỉnh: 10時きっかりに会社に着いた。\n- Dịch nghĩa: Tôi đã đến công ty vào đúng 10 giờ."
     },
     {
       "question_id": 30,
@@ -365,11 +394,12 @@
         "石",
         "血"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. Quán dụng ngữ 「顔から火が出る」: Xấu hổ đến mức đỏ bừng cả mặt (như lửa bốc ra từ mặt).\n- Câu hoàn chỉnh: 顔から火が出るほど恥ずかしい思いをした。\n- Dịch nghĩa: Tôi đã trải qua cảm giác xấu hổ đến đỏ bừng cả mặt."
     },
     {
       "question_id": 31,
-      "question": "残っていた料理を一人で食べきった。",
+      "question": "残っていた料理を一人で<u>食べきった</u>。",
       "context": "",
       "options": [
         "全部食べた",
@@ -377,11 +407,12 @@
         "食べたかった",
         "食べていた"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 食べきった = 全部食べた (Ăn sạch, ăn hết sạch). Ngữ pháp V-きる: làm trọn vẹn, hết sạch đến cùng.\n- Câu hoàn chỉnh: 残っていた料理を一人で全部食べた。\n- Dịch nghĩa: Tôi đã một mình ăn hết sạch chỗ thức ăn còn thừa."
     },
     {
       "question_id": 32,
-      "question": "話を聞いて、がっかりした。",
+      "question": "話を聞いて、<u>がっかりした</u>。",
       "context": "",
       "options": [
         "感動した",
@@ -389,11 +420,12 @@
         "怒った",
         "泣いた"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. がっかりした = 失望した (Thất vọng, chán nản).\n- Câu hoàn chỉnh: 話を聞いて、失望した。\n- Dịch nghĩa: Nghe xong câu chuyện, tôi thấy rất thất vọng."
     },
     {
       "question_id": 33,
-      "question": "井上さんはＺ社の新商品について知り抜いている。",
+      "question": "井上さんはＺ社の新商品について<u>知り抜いている</u>。",
       "context": "",
       "options": [
         "よく知っている",
@@ -401,11 +433,12 @@
         "ほとんど知らない",
         "知る必要がある"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 知り抜いている = よく知っている (Hiểu rất rõ, tường tận thấu đáo). Cấu trúc V-ぬく: làm tới nơi tới chốn.\n- Câu hoàn chỉnh: 井上さんはＺ社の新商品についてよく知っている。\n- Dịch nghĩa: Anh Inoue hiểu rất rõ tường tận về sản phẩm mới của công ty Z."
     },
     {
       "question_id": 34,
-      "question": "私の女房は40歳だ。",
+      "question": "私の<u>女房</u>は40歳だ。",
       "context": "",
       "options": [
         "妻",
@@ -413,11 +446,12 @@
         "姪",
         "母"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 女房 (にょうぼう) = 妻 (つま - vợ).\n- Câu hoàn chỉnh: 私の妻は40歳だ。\n- Dịch nghĩa: Vợ tôi 40 tuổi."
     },
     {
       "question_id": 35,
-      "question": "これからはもっと節約して生活しようと思う。",
+      "question": "これからはもっと<u>節約して</u>生活しようと思う。",
       "context": "",
       "options": [
         "好きなように",
@@ -425,11 +459,12 @@
         "休まず働いて",
         "時間を大切に"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. 節約して = 無駄なお金を使わないように (Tiết kiệm, không chi tiêu lãng phí).\n- Câu hoàn chỉnh: これからはもっと無駄なお金を使わないように生活しようと思う。\n- Dịch nghĩa: Tôi nghĩ từ nay mình sẽ sinh hoạt tiết kiệm hơn, không tiêu xài lãng phí."
     },
     {
       "question_id": 36,
-      "question": "口をつぐめ。",
+      "question": "<u>口をつぐめ</u>。",
       "context": "",
       "options": [
         "大声で叫べ",
@@ -437,11 +472,12 @@
         "何も話すな",
         "正直に言え"
       ],
-      "correct_answer": 3
+      "correct_answer": 3,
+      "explanation": "3. ĐÚNG. 口をつぐめ = 何も話すな (Ngậm miệng lại, im đi, không được nói gì).\n- Câu hoàn chỉnh: 何も話すな。\n- Dịch nghĩa: Câm miệng lại! / Đừng nói gì cả!"
     },
     {
       "question_id": 37,
-      "question": "彼は厚かましい人だ。",
+      "question": "彼は<u>厚かましい</u>人だ。",
       "context": "",
       "options": [
         "そそっかしい",
@@ -449,11 +485,12 @@
         "だらしない",
         "頼もしい"
       ],
-      "correct_answer": 2
+      "correct_answer": 2,
+      "explanation": "2. ĐÚNG. 厚かましい (あつかましい) = 図々しい (ずうずうしい - trơ tráo, mặt dày, vô liêm sỉ).\n- Câu hoàn chỉnh: 彼は図々しい人だ。\n- Dịch nghĩa: Hắn là kẻ mặt dày trơ tráo."
     },
     {
       "question_id": 38,
-      "question": "吉野さんはいつも黙々と仕事をしている。",
+      "question": "吉野さんはいつも<u>黙々と</u>仕事をしている。",
       "context": "",
       "options": [
         "とても嫌そうに",
@@ -461,11 +498,12 @@
         "ゆっくりと",
         "だまって"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. 黙々と (もくもくと) = だまって (lặng lẽ, cặm cụi, không nói lời nào mà tập trung làm việc).\n- Câu hoàn chỉnh: 吉野さんはいつもだまって仕事をしている。\n- Dịch nghĩa: Anh Yoshino lúc nào cũng cặm cụi lặng lẽ làm việc."
     },
     {
       "question_id": 39,
-      "question": "彼の活躍を願ってやまない。",
+      "question": "彼の活躍を<u>願ってやまない</u>。",
       "context": "",
       "options": [
         "心から願っている",
@@ -473,11 +511,12 @@
         "願っていないわけではない",
         "願ってもしょうがない"
       ],
-      "correct_answer": 1
+      "correct_answer": 1,
+      "explanation": "1. ĐÚNG. 願ってやまない = 心から願っている (Hết lòng / thành tâm cầu chúc). Cấu trúc V-てやまない: luôn tha thiết, không nguôi.\n- Câu hoàn chỉnh: 彼の活躍を心から願っている。\n- Dịch nghĩa: Tôi hết lòng cầu chúc cho sự thành công tỏa sáng của anh ấy."
     },
     {
       "question_id": 40,
-      "question": "金子さんは会議中、上の空だった。",
+      "question": "金子さんは会議中、<u>上の空</u>だった。",
       "context": "",
       "options": [
         "何も話さなかった",
@@ -485,7 +524,8 @@
         "上ばかり見ていた",
         "集中していなかった"
       ],
-      "correct_answer": 4
+      "correct_answer": 4,
+      "explanation": "4. ĐÚNG. 上の空 (うわのそら) = 集中していなかった (Tâm trí để tận đâu đâu, lơ đễnh, mất tập trung).\n- Câu hoàn chỉnh: 金子さんは会議中、集中していなかった。\n- Dịch nghĩa: Anh Kaneko trong suốt cuộc họp tâm trí cứ để tận đâu đâu, không hề tập trung."
     }
   ]
 }
