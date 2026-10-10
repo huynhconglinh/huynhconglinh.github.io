@@ -5,9 +5,10 @@
 
 /* App Container */
 .fc-app {
-  max-width: 1160px;
-  margin: 0 auto;
-  padding: 18px 16px 64px;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 28px 18px 64px;
 }
 
 /* Hero Section */
@@ -231,20 +232,8 @@
 
 .fc-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 16px;
-}
-
-@media (min-width: 640px) {
-  .fc-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (min-width: 980px) {
-  .fc-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 
 /* Deck Card */
