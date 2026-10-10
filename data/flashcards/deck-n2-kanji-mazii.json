@@ -1,0 +1,2763 @@
+{
+  "id": "n2-kanji-mazii",
+  "cards": [
+    {
+      "id": "k_1",
+      "term": "散",
+      "reading": "ちる・ちらす・ちらかる",
+      "meaning": "phân tán, rải ra",
+      "hanviet": "TÁN/TẢN"
+    },
+    {
+      "id": "k_2",
+      "term": "咲",
+      "reading": "さく",
+      "meaning": "nở (hoa)",
+      "hanviet": "TIẾU"
+    },
+    {
+      "id": "k_3",
+      "term": "枝",
+      "reading": "えだ・し",
+      "meaning": "cành, nhánh cây",
+      "hanviet": "CHI/KÌ"
+    },
+    {
+      "id": "k_4",
+      "term": "飾",
+      "reading": "かざる・しょく",
+      "meaning": "trang trí",
+      "hanviet": "SỨC"
+    },
+    {
+      "id": "k_5",
+      "term": "枯",
+      "reading": "かれる",
+      "meaning": "khô héo",
+      "hanviet": "KHÔ"
+    },
+    {
+      "id": "k_6",
+      "term": "桜",
+      "reading": "さくら",
+      "meaning": "hoa anh đào",
+      "hanviet": "ANH"
+    },
+    {
+      "id": "k_7",
+      "term": "梅",
+      "reading": "うめ・ばい",
+      "meaning": "hoa mai",
+      "hanviet": "MAI"
+    },
+    {
+      "id": "k_8",
+      "term": "美",
+      "reading": "うつくしい・びみ",
+      "meaning": "đẹp",
+      "hanviet": "MĨ"
+    },
+    {
+      "id": "k_9",
+      "term": "香",
+      "reading": "かおるかおりか・こうきょう",
+      "meaning": "hương thơm",
+      "hanviet": "HƯƠNG"
+    },
+    {
+      "id": "k_10",
+      "term": "紫",
+      "reading": "むらさき・し",
+      "meaning": "màu tím",
+      "hanviet": "TỬ"
+    },
+    {
+      "id": "k_11",
+      "term": "紅",
+      "reading": "べに",
+      "meaning": "màu đỏ/hồng",
+      "hanviet": "HỒNG"
+    },
+    {
+      "id": "k_12",
+      "term": "灰",
+      "reading": "はい",
+      "meaning": "tro",
+      "hanviet": "HÔI"
+    },
+    {
+      "id": "k_13",
+      "term": "鮮",
+      "reading": "あざやか・せん",
+      "meaning": "tươi,鮮明",
+      "hanviet": "TIÊN"
+    },
+    {
+      "id": "k_14",
+      "term": "彩",
+      "reading": "いろどる・さい",
+      "meaning": "tô điểm, màu sắc",
+      "hanviet": "THẢI/THÁI"
+    },
+    {
+      "id": "k_15",
+      "term": "凍",
+      "reading": "こおる・とう",
+      "meaning": "đông cứng",
+      "hanviet": "ĐỐNG"
+    },
+    {
+      "id": "k_16",
+      "term": "河",
+      "reading": "かわ",
+      "meaning": "sông",
+      "hanviet": "HÀ"
+    },
+    {
+      "id": "k_17",
+      "term": "源",
+      "reading": "みなもと",
+      "meaning": "nguồn, nguồn gốc",
+      "hanviet": "NGUYÊN"
+    },
+    {
+      "id": "k_18",
+      "term": "沈",
+      "reading": "しずむしずめる・ちん",
+      "meaning": "chìm",
+      "hanviet": "TRẦM"
+    },
+    {
+      "id": "k_19",
+      "term": "沿",
+      "reading": "そう",
+      "meaning": "dọc theo",
+      "hanviet": "DUYÊN"
+    },
+    {
+      "id": "k_20",
+      "term": "飼",
+      "reading": "かう・し",
+      "meaning": "nuôi",
+      "hanviet": "TỰ"
+    },
+    {
+      "id": "k_21",
+      "term": "畜",
+      "reading": "ちく",
+      "meaning": "gia súc",
+      "hanviet": "SÚC/HÚC"
+    },
+    {
+      "id": "k_22",
+      "term": "猫",
+      "reading": "ねこ・びょう",
+      "meaning": "mèo",
+      "hanviet": "MIÊU"
+    },
+    {
+      "id": "k_23",
+      "term": "羊",
+      "reading": "ひつじ・よう",
+      "meaning": "cừu",
+      "hanviet": "DƯƠNG"
+    },
+    {
+      "id": "k_24",
+      "term": "豚",
+      "reading": "ぶた・とん",
+      "meaning": "lợn",
+      "hanviet": "ĐỒN/ĐỘN"
+    },
+    {
+      "id": "k_25",
+      "term": "放",
+      "reading": "はなす・ほう",
+      "meaning": "thả, giải phóng",
+      "hanviet": "PHÓNG/PHỎNG"
+    },
+    {
+      "id": "k_26",
+      "term": "穴",
+      "reading": "あな",
+      "meaning": "lỗ, hang",
+      "hanviet": "HUYỆT"
+    },
+    {
+      "id": "k_27",
+      "term": "巣",
+      "reading": "す",
+      "meaning": "tổ",
+      "hanviet": "SÀO"
+    },
+    {
+      "id": "k_28",
+      "term": "周",
+      "reading": "まわり・しゆう",
+      "meaning": "xung quanh",
+      "hanviet": "CHU"
+    },
+    {
+      "id": "k_29",
+      "term": "囲",
+      "reading": "かこむ・い",
+      "meaning": "vây quanh",
+      "hanviet": "VI"
+    },
+    {
+      "id": "k_30",
+      "term": "互",
+      "reading": "たがい",
+      "meaning": "lẫn nhau",
+      "hanviet": "HỖ"
+    },
+    {
+      "id": "k_31",
+      "term": "我",
+      "reading": "われわが・が",
+      "meaning": "ta, tôi",
+      "hanviet": "NGÃ"
+    },
+    {
+      "id": "k_32",
+      "term": "皆",
+      "reading": "みんな",
+      "meaning": "mọi người",
+      "hanviet": "GIAI"
+    },
+    {
+      "id": "k_33",
+      "term": "緒",
+      "reading": "しょちょ",
+      "meaning": "đầu mối, cùng nhau",
+      "hanviet": "TỰ"
+    },
+    {
+      "id": "k_34",
+      "term": "援",
+      "reading": "えん",
+      "meaning": "hỗ trợ",
+      "hanviet": "VIÊN/VIỆN"
+    },
+    {
+      "id": "k_35",
+      "term": "抱",
+      "reading": "だくいだくかかえる・ほう",
+      "meaning": "ôm, mang",
+      "hanviet": "BÃO"
+    },
+    {
+      "id": "k_36",
+      "term": "氏",
+      "reading": "し",
+      "meaning": "họ",
+      "hanviet": "THỊ/CHI"
+    },
+    {
+      "id": "k_37",
+      "term": "孫",
+      "reading": "まご・そん",
+      "meaning": "cháu",
+      "hanviet": "TÔN/TỐN"
+    },
+    {
+      "id": "k_38",
+      "term": "祖",
+      "reading": "そ",
+      "meaning": "tổ tiên",
+      "hanviet": "TỔ"
+    },
+    {
+      "id": "k_39",
+      "term": "僕",
+      "reading": "ぼく",
+      "meaning": "tôi",
+      "hanviet": "PHÓ/BỘC"
+    },
+    {
+      "id": "k_40",
+      "term": "僚",
+      "reading": "りょう",
+      "meaning": "đồng nghiệp",
+      "hanviet": "LIÊU"
+    },
+    {
+      "id": "k_41",
+      "term": "輩",
+      "reading": "はい",
+      "meaning": "bối, thế hệ",
+      "hanviet": "BỐI"
+    },
+    {
+      "id": "k_42",
+      "term": "誰",
+      "reading": "だれ",
+      "meaning": "ai",
+      "hanviet": "THÙY"
+    },
+    {
+      "id": "k_43",
+      "term": "畳",
+      "reading": "たたむたたみ・じょう",
+      "meaning": "chiếu tatami, gấp",
+      "hanviet": "ĐIỆP"
+    },
+    {
+      "id": "k_44",
+      "term": "床",
+      "reading": "とこゆか",
+      "meaning": "sàn, giường",
+      "hanviet": "SÀNG"
+    },
+    {
+      "id": "k_45",
+      "term": "軒",
+      "reading": "のき",
+      "meaning": "căn nhà, hiên",
+      "hanviet": "HIÊN"
+    },
+    {
+      "id": "k_46",
+      "term": "玄",
+      "reading": "げん",
+      "meaning": "huyền, đen",
+      "hanviet": "HUYỀN"
+    },
+    {
+      "id": "k_47",
+      "term": "壁",
+      "reading": "かべ・へき",
+      "meaning": "tường, rào cản",
+      "hanviet": "BÍCH"
+    },
+    {
+      "id": "k_48",
+      "term": "契",
+      "reading": "けい",
+      "meaning": "giao ước",
+      "hanviet": "KHẾ"
+    },
+    {
+      "id": "k_49",
+      "term": "証",
+      "reading": "あかし",
+      "meaning": "chứng minh, bằng chứng",
+      "hanviet": "CHỨNG"
+    },
+    {
+      "id": "k_50",
+      "term": "域",
+      "reading": "いき",
+      "meaning": "khu vực",
+      "hanviet": "VỰC"
+    },
+    {
+      "id": "k_51",
+      "term": "届",
+      "reading": "とどけるとどく",
+      "meaning": "đến, giao tới",
+      "hanviet": "GIỚI"
+    },
+    {
+      "id": "k_52",
+      "term": "招",
+      "reading": "まねく・しょう",
+      "meaning": "mời",
+      "hanviet": "CHIÊU / THIÊU / THIỀU"
+    },
+    {
+      "id": "k_53",
+      "term": "贈",
+      "reading": "おくる・ぞう",
+      "meaning": "tặng",
+      "hanviet": "TẶNG"
+    },
+    {
+      "id": "k_54",
+      "term": "寮",
+      "reading": "りょう",
+      "meaning": "ký túc xá",
+      "hanviet": "LIÊU"
+    },
+    {
+      "id": "k_55",
+      "term": "隣",
+      "reading": "となるとなり",
+      "meaning": "bên cạnh, hàng xóm",
+      "hanviet": "LÂN"
+    },
+    {
+      "id": "k_56",
+      "term": "狭",
+      "reading": "せまいせばめる",
+      "meaning": "hẹp",
+      "hanviet": "HIỆP"
+    },
+    {
+      "id": "k_57",
+      "term": "含",
+      "reading": "ふくむふくめる",
+      "meaning": "bao gồm, chứa",
+      "hanviet": "HÀM"
+    },
+    {
+      "id": "k_58",
+      "term": "溶",
+      "reading": "とけるとくとかす",
+      "meaning": "tan, hòa tan",
+      "hanviet": "DONG /DUNG"
+    },
+    {
+      "id": "k_59",
+      "term": "汁",
+      "reading": "しるつゆ",
+      "meaning": "nước/súp",
+      "hanviet": "TRẤP / HIỆP"
+    },
+    {
+      "id": "k_60",
+      "term": "盛",
+      "reading": "もるさかるさかん・せいじょう",
+      "meaning": "thịnh, đầy,盛 lên",
+      "hanviet": "THỊNH"
+    },
+    {
+      "id": "k_61",
+      "term": "詰",
+      "reading": "つめるつむつまる",
+      "meaning": "nhồi, chật, dồn",
+      "hanviet": "CẤT"
+    },
+    {
+      "id": "k_62",
+      "term": "瓶",
+      "reading": "びん",
+      "meaning": "chai, lọ",
+      "hanviet": "BÌNH"
+    },
+    {
+      "id": "k_63",
+      "term": "粒",
+      "reading": "つぶ",
+      "meaning": "hạt",
+      "hanviet": "LẠP"
+    },
+    {
+      "id": "k_64",
+      "term": "酢",
+      "reading": "す",
+      "meaning": "giấm",
+      "hanviet": "TẠC"
+    },
+    {
+      "id": "k_65",
+      "term": "糖",
+      "reading": "とう",
+      "meaning": "đường",
+      "hanviet": "ĐƯỜNG"
+    },
+    {
+      "id": "k_66",
+      "term": "脂",
+      "reading": "あぶら・し",
+      "meaning": "mỡ",
+      "hanviet": "CHI"
+    },
+    {
+      "id": "k_67",
+      "term": "肪",
+      "reading": "ぼう",
+      "meaning": "chất béo",
+      "hanviet": "PHƯƠNG"
+    },
+    {
+      "id": "k_68",
+      "term": "筋",
+      "reading": "すじ・きん",
+      "meaning": "cơ, gân",
+      "hanviet": "CÂN"
+    },
+    {
+      "id": "k_69",
+      "term": "節",
+      "reading": "せつせち",
+      "meaning": "đốt, tiết",
+      "hanviet": "TIẾT/TIỆT"
+    },
+    {
+      "id": "k_70",
+      "term": "並",
+      "reading": "ならぶならべるなみ",
+      "meaning": "xếp hàng, ngang bằng",
+      "hanviet": "TỊNH/TINH"
+    },
+    {
+      "id": "k_71",
+      "term": "巻",
+      "reading": "まくまき",
+      "meaning": "cuộn",
+      "hanviet": "QUYỂN"
+    },
+    {
+      "id": "k_72",
+      "term": "居",
+      "reading": "いる",
+      "meaning": "ở",
+      "hanviet": "CƯ/KÍ"
+    },
+    {
+      "id": "k_73",
+      "term": "清",
+      "reading": "きよいきよまるきよめる",
+      "meaning": "sạch, trong",
+      "hanviet": "THANH"
+    },
+    {
+      "id": "k_74",
+      "term": "掃",
+      "reading": "はく",
+      "meaning": "quét, dọn",
+      "hanviet": "TẢO"
+    },
+    {
+      "id": "k_75",
+      "term": "宝",
+      "reading": "たから",
+      "meaning": "báu vật",
+      "hanviet": "BẢO"
+    },
+    {
+      "id": "k_76",
+      "term": "城",
+      "reading": "しろ",
+      "meaning": "thành, lâu đài",
+      "hanviet": "THÀNH"
+    },
+    {
+      "id": "k_77",
+      "term": "栄",
+      "reading": "さかえる",
+      "meaning": "thịnh vượng",
+      "hanviet": "VINH"
+    },
+    {
+      "id": "k_78",
+      "term": "蔵",
+      "reading": "くら",
+      "meaning": "kho, cất giữ",
+      "hanviet": "TÀNG"
+    },
+    {
+      "id": "k_79",
+      "term": "士",
+      "reading": "さむらい",
+      "meaning": "sĩ",
+      "hanviet": "SĨ"
+    },
+    {
+      "id": "k_80",
+      "term": "封",
+      "reading": "ふう",
+      "meaning": "niêm phong",
+      "hanviet": "PHONG"
+    },
+    {
+      "id": "k_81",
+      "term": "筒",
+      "reading": "つつ",
+      "meaning": "ống",
+      "hanviet": "ĐỒNG"
+    },
+    {
+      "id": "k_82",
+      "term": "歳",
+      "reading": "さい・とし",
+      "meaning": "tuổi",
+      "hanviet": "TUẾ"
+    },
+    {
+      "id": "k_83",
+      "term": "暮",
+      "reading": "くれくらし",
+      "meaning": "sống,暮 chiều",
+      "hanviet": "MỘ"
+    },
+    {
+      "id": "k_84",
+      "term": "宛",
+      "reading": "あてあて",
+      "meaning": "gửi tới, hướng tới",
+      "hanviet": "UYỂN/UYÊN"
+    },
+    {
+      "id": "k_85",
+      "term": "菓",
+      "reading": "か",
+      "meaning": "bánh, quả",
+      "hanviet": "QUẢ"
+    },
+    {
+      "id": "k_86",
+      "term": "輪",
+      "reading": "わ",
+      "meaning": "vòng, bánh xe",
+      "hanviet": "LUÂN"
+    },
+    {
+      "id": "k_87",
+      "term": "港",
+      "reading": "みなと",
+      "meaning": "cảng",
+      "hanviet": "CẢNG"
+    },
+    {
+      "id": "k_88",
+      "term": "途",
+      "reading": "と",
+      "meaning": "đường,途",
+      "hanviet": "ĐỒ"
+    },
+    {
+      "id": "k_89",
+      "term": "標",
+      "reading": "しるし・ひょう",
+      "meaning": "dấu, mục tiêu",
+      "hanviet": "TIÊU/PHIẾU"
+    },
+    {
+      "id": "k_90",
+      "term": "普",
+      "reading": "ふ",
+      "meaning": "phổ biến",
+      "hanviet": "PHỔ"
+    },
+    {
+      "id": "k_91",
+      "term": "渋",
+      "reading": "しぶるしぶい",
+      "meaning": "chát, khó chịu",
+      "hanviet": "SÁP"
+    },
+    {
+      "id": "k_92",
+      "term": "滞",
+      "reading": "とどこおる",
+      "meaning": "ứ đọng",
+      "hanviet": "TRỆ"
+    },
+    {
+      "id": "k_93",
+      "term": "街",
+      "reading": "まち",
+      "meaning": "phố",
+      "hanviet": "NHAI"
+    },
+    {
+      "id": "k_94",
+      "term": "往",
+      "reading": "おう",
+      "meaning": "đi qua",
+      "hanviet": "VÃNG"
+    },
+    {
+      "id": "k_95",
+      "term": "距",
+      "reading": "きょ",
+      "meaning": "khoảng cách",
+      "hanviet": "CỰ"
+    },
+    {
+      "id": "k_96",
+      "term": "灯",
+      "reading": "ともするあかり",
+      "meaning": "đèn, thắp",
+      "hanviet": "ĐĂNG"
+    },
+    {
+      "id": "k_97",
+      "term": "妊",
+      "reading": "にん",
+      "meaning": "mang thai",
+      "hanviet": "NHÂM"
+    },
+    {
+      "id": "k_98",
+      "term": "娠",
+      "reading": "しん",
+      "meaning": "mang thai",
+      "hanviet": "THẦN"
+    },
+    {
+      "id": "k_99",
+      "term": "双",
+      "reading": "ふた・そう",
+      "meaning": "đôi",
+      "hanviet": "SONG"
+    },
+    {
+      "id": "k_100",
+      "term": "誕",
+      "reading": "たん",
+      "meaning": "sinh, ra đời",
+      "hanviet": "ĐẢN"
+    },
+    {
+      "id": "k_101",
+      "term": "拍",
+      "reading": "はくひょう",
+      "meaning": "nhịp, vỗ",
+      "hanviet": "PHÁCH"
+    },
+    {
+      "id": "k_102",
+      "term": "催",
+      "reading": "さい",
+      "meaning": "thúc giục, tổ chức",
+      "hanviet": "THÔI"
+    },
+    {
+      "id": "k_103",
+      "term": "渇",
+      "reading": "かわく・かつ",
+      "meaning": "khát",
+      "hanviet": "KHÁT"
+    },
+    {
+      "id": "k_104",
+      "term": "騒",
+      "reading": "さわぐ・そう",
+      "meaning": "ồn ào",
+      "hanviet": "TAO"
+    },
+    {
+      "id": "k_105",
+      "term": "延",
+      "reading": "のびる・のばす",
+      "meaning": "kéo dài",
+      "hanviet": "DUYÊN"
+    },
+    {
+      "id": "k_106",
+      "term": "更",
+      "reading": "さら・ふける・こう",
+      "meaning": "thay đổi, hơn nữa",
+      "hanviet": "CANH/ CÁNH"
+    },
+    {
+      "id": "k_107",
+      "term": "徹",
+      "reading": "てつ",
+      "meaning": "triệt để",
+      "hanviet": "TRIỆT"
+    },
+    {
+      "id": "k_108",
+      "term": "憶",
+      "reading": "おく",
+      "meaning": "nhớ, hồi ức",
+      "hanviet": "ỨC"
+    },
+    {
+      "id": "k_109",
+      "term": "携",
+      "reading": "たずさえる",
+      "meaning": "mang theo",
+      "hanviet": "HUỀ"
+    },
+    {
+      "id": "k_110",
+      "term": "即",
+      "reading": "そく",
+      "meaning": "tức thì",
+      "hanviet": "TỨC"
+    },
+    {
+      "id": "k_111",
+      "term": "稼",
+      "reading": "かせぐ",
+      "meaning": "kiếm lời, làm việc",
+      "hanviet": "GIÁ"
+    },
+    {
+      "id": "k_112",
+      "term": "需",
+      "reading": "じゅ",
+      "meaning": "cần, nhu cầu",
+      "hanviet": "NHU"
+    },
+    {
+      "id": "k_113",
+      "term": "拒",
+      "reading": "こばむ",
+      "meaning": "từ chối",
+      "hanviet": "CỰ"
+    },
+    {
+      "id": "k_114",
+      "term": "厳",
+      "reading": "きびしい・おごそか",
+      "meaning": "nghiêm khắc",
+      "hanviet": "NGHIÊM"
+    },
+    {
+      "id": "k_115",
+      "term": "背",
+      "reading": "せ・そむく",
+      "meaning": "lưng, quay lưng",
+      "hanviet": "BỐI / BỘI"
+    },
+    {
+      "id": "k_116",
+      "term": "肩",
+      "reading": "かた",
+      "meaning": "vai",
+      "hanviet": "KIÊN"
+    },
+    {
+      "id": "k_117",
+      "term": "胸",
+      "reading": "むね",
+      "meaning": "ngực",
+      "hanviet": "HUNG"
+    },
+    {
+      "id": "k_118",
+      "term": "腰",
+      "reading": "こし",
+      "meaning": "eo",
+      "hanviet": "YÊU"
+    },
+    {
+      "id": "k_119",
+      "term": "脳",
+      "reading": "のう",
+      "meaning": "não",
+      "hanviet": "NÃO"
+    },
+    {
+      "id": "k_120",
+      "term": "臓",
+      "reading": "ぞう",
+      "meaning": "nội tạng",
+      "hanviet": "TẠNG"
+    },
+    {
+      "id": "k_121",
+      "term": "胃",
+      "reading": "い",
+      "meaning": "dạ dày",
+      "hanviet": "VỊ"
+    },
+    {
+      "id": "k_122",
+      "term": "骨",
+      "reading": "ほね",
+      "meaning": "xương",
+      "hanviet": "CỐT"
+    },
+    {
+      "id": "k_123",
+      "term": "康",
+      "reading": "こう",
+      "meaning": "khỏe mạnh",
+      "hanviet": "KHANG/KHƯƠNG"
+    },
+    {
+      "id": "k_124",
+      "term": "診",
+      "reading": "みる",
+      "meaning": "chẩn đoán",
+      "hanviet": "CHẨN"
+    },
+    {
+      "id": "k_125",
+      "term": "療",
+      "reading": "りょう",
+      "meaning": "điều trị",
+      "hanviet": "LIỆU"
+    },
+    {
+      "id": "k_126",
+      "term": "異",
+      "reading": "ことなる",
+      "meaning": "khác",
+      "hanviet": "DỊ/DI"
+    },
+    {
+      "id": "k_127",
+      "term": "症",
+      "reading": "しょう",
+      "meaning": "triệu chứng",
+      "hanviet": "CHỨNG"
+    },
+    {
+      "id": "k_128",
+      "term": "状",
+      "reading": "じょう",
+      "meaning": "trạng thái",
+      "hanviet": "TRẠNG"
+    },
+    {
+      "id": "k_129",
+      "term": "況",
+      "reading": "きょう",
+      "meaning": "tình hình",
+      "hanviet": "HUỐNG"
+    },
+    {
+      "id": "k_130",
+      "term": "態",
+      "reading": "たい",
+      "meaning": "trạng thái",
+      "hanviet": "THÁI"
+    },
+    {
+      "id": "k_131",
+      "term": "睡",
+      "reading": "すい",
+      "meaning": "ngủ",
+      "hanviet": "THỤY"
+    },
+    {
+      "id": "k_132",
+      "term": "喫",
+      "reading": "きつ",
+      "meaning": "ăn/uống, hút",
+      "hanviet": "KHIẾT"
+    },
+    {
+      "id": "k_133",
+      "term": "傷",
+      "reading": "きず・しょう",
+      "meaning": "thương tích",
+      "hanviet": "THƯƠNG"
+    },
+    {
+      "id": "k_134",
+      "term": "処",
+      "reading": "ところ・しょ",
+      "meaning": "xử lý",
+      "hanviet": "XỨ"
+    },
+    {
+      "id": "k_135",
+      "term": "針",
+      "reading": "はり・しん",
+      "meaning": "kim, mũi kim",
+      "hanviet": "CHÂM"
+    },
+    {
+      "id": "k_136",
+      "term": "抜",
+      "reading": "ぬくぬかすぬける・ばつ",
+      "meaning": "rút, nhổ",
+      "hanviet": "BẠT"
+    },
+    {
+      "id": "k_137",
+      "term": "菌",
+      "reading": "きん",
+      "meaning": "vi khuẩn, nấm",
+      "hanviet": "KHUẨN"
+    },
+    {
+      "id": "k_138",
+      "term": "剤",
+      "reading": "ざい",
+      "meaning": "chất/thuốc",
+      "hanviet": "TỄ"
+    },
+    {
+      "id": "k_139",
+      "term": "看",
+      "reading": "みる・かん",
+      "meaning": "trông, chăm sóc",
+      "hanviet": "KHAN"
+    },
+    {
+      "id": "k_140",
+      "term": "視",
+      "reading": "みる・し",
+      "meaning": "nhìn, thị giác",
+      "hanviet": "THỊ"
+    },
+    {
+      "id": "k_141",
+      "term": "眼",
+      "reading": "がん",
+      "meaning": "mắt",
+      "hanviet": "NHÃN"
+    },
+    {
+      "id": "k_142",
+      "term": "刺",
+      "reading": "さすささるさし・し",
+      "meaning": "đâm, châm",
+      "hanviet": "THÍCH"
+    },
+    {
+      "id": "k_143",
+      "term": "肌",
+      "reading": "はだ",
+      "meaning": "da",
+      "hanviet": "CƠ"
+    },
+    {
+      "id": "k_144",
+      "term": "粧",
+      "reading": "しょう",
+      "meaning": "trang điểm",
+      "hanviet": "TRANG"
+    },
+    {
+      "id": "k_145",
+      "term": "髪",
+      "reading": "しょう",
+      "meaning": "tóc",
+      "hanviet": "PHÁT"
+    },
+    {
+      "id": "k_146",
+      "term": "華",
+      "reading": "はな・か",
+      "meaning": "hoa, lộng lẫy",
+      "hanviet": "HOA"
+    },
+    {
+      "id": "k_147",
+      "term": "鏡",
+      "reading": "かがみ・きょう",
+      "meaning": "gương",
+      "hanviet": "KÍNH"
+    },
+    {
+      "id": "k_148",
+      "term": "勢",
+      "reading": "いきおい・せいぜい",
+      "meaning": "thế, sức勢",
+      "hanviet": "THẾ"
+    },
+    {
+      "id": "k_149",
+      "term": "柔",
+      "reading": "やわらかい・じゅう",
+      "meaning": "mềm mại",
+      "hanviet": "NHU"
+    },
+    {
+      "id": "k_150",
+      "term": "軟",
+      "reading": "やわらかい・なん",
+      "meaning": "mềm",
+      "hanviet": "NHUYỄN"
+    },
+    {
+      "id": "k_151",
+      "term": "帽",
+      "reading": "ぼう",
+      "meaning": "mũ",
+      "hanviet": "MẠO"
+    },
+    {
+      "id": "k_152",
+      "term": "傘",
+      "reading": "かさ・さん",
+      "meaning": "ô, dù",
+      "hanviet": "TÁN/TẢN"
+    },
+    {
+      "id": "k_153",
+      "term": "革",
+      "reading": "かわ・かく",
+      "meaning": "da, cách mạng",
+      "hanviet": "CÁCH"
+    },
+    {
+      "id": "k_154",
+      "term": "靴",
+      "reading": "くつぐつ",
+      "meaning": "giày",
+      "hanviet": "NGOA"
+    },
+    {
+      "id": "k_155",
+      "term": "柄",
+      "reading": "がら",
+      "meaning": "hoa văn, phẩm chất",
+      "hanviet": "BÍNH"
+    },
+    {
+      "id": "k_156",
+      "term": "装",
+      "reading": "よそおう・しょうそう",
+      "meaning": "trang phục, trang trí",
+      "hanviet": "TRANG"
+    },
+    {
+      "id": "k_157",
+      "term": "慣",
+      "reading": "なれる・かん",
+      "meaning": "quen",
+      "hanviet": "QUÁN"
+    },
+    {
+      "id": "k_158",
+      "term": "競",
+      "reading": "きそう・きょう",
+      "meaning": "cạnh tranh",
+      "hanviet": "CẠNH"
+    },
+    {
+      "id": "k_159",
+      "term": "養",
+      "reading": "やしなう・よう",
+      "meaning": "nuôi dưỡng",
+      "hanviet": "DƯỠNG / DƯỢNG"
+    },
+    {
+      "id": "k_160",
+      "term": "課",
+      "reading": "かす・か",
+      "meaning": "bài học, phân công",
+      "hanviet": "KHÓA"
+    },
+    {
+      "id": "k_161",
+      "term": "論",
+      "reading": "ろん",
+      "meaning": "luận, tranh luận",
+      "hanviet": "LUẬN"
+    },
+    {
+      "id": "k_162",
+      "term": "就",
+      "reading": "つく・しゅう",
+      "meaning": "bắt đầu làm, nhận việc",
+      "hanviet": "TỰU"
+    },
+    {
+      "id": "k_163",
+      "term": "従",
+      "reading": "したがう・じゅう",
+      "meaning": "theo, tuân theo",
+      "hanviet": "TÙNG"
+    },
+    {
+      "id": "k_164",
+      "term": "応",
+      "reading": "こたえる・おう",
+      "meaning": "đáp ứng",
+      "hanviet": "ỨNG"
+    },
+    {
+      "id": "k_165",
+      "term": "訪",
+      "reading": "おとずれるたずねる・ほう",
+      "meaning": "thăm, hỏi",
+      "hanviet": "PHÓNG/PHỎNG"
+    },
+    {
+      "id": "k_166",
+      "term": "採",
+      "reading": "とる・さい",
+      "meaning": "thu nhận, tuyển chọn",
+      "hanviet": "THẢI/THÁI"
+    },
+    {
+      "id": "k_167",
+      "term": "募",
+      "reading": "つのる・ぼ",
+      "meaning": "tuyển, kêu gọi",
+      "hanviet": "MỘ"
+    },
+    {
+      "id": "k_168",
+      "term": "雇",
+      "reading": "やとう・こ",
+      "meaning": "thuê",
+      "hanviet": "CỐ"
+    },
+    {
+      "id": "k_169",
+      "term": "総",
+      "reading": "そう",
+      "meaning": "tổng, toàn bộ",
+      "hanviet": "TỔNG"
+    },
+    {
+      "id": "k_170",
+      "term": "企",
+      "reading": "き",
+      "meaning": "lập kế hoạch",
+      "hanviet": "XÍ"
+    },
+    {
+      "id": "k_171",
+      "term": "依",
+      "reading": "い",
+      "meaning": "dựa vào",
+      "hanviet": "Y/Ỷ"
+    },
+    {
+      "id": "k_172",
+      "term": "頼",
+      "reading": "たのむたよるたのもしい・らい",
+      "meaning": "nhờ, tin cậy",
+      "hanviet": "LẠI"
+    },
+    {
+      "id": "k_173",
+      "term": "比",
+      "reading": "くらべる・ひ",
+      "meaning": "so sánh",
+      "hanviet": "BỈ / TỈ"
+    },
+    {
+      "id": "k_174",
+      "term": "較",
+      "reading": "かく",
+      "meaning": "so sánh",
+      "hanviet": "GIÁC/GIẢO"
+    },
+    {
+      "id": "k_175",
+      "term": "評",
+      "reading": "ひょう",
+      "meaning": "đánh giá",
+      "hanviet": "BÌNH"
+    },
+    {
+      "id": "k_176",
+      "term": "善",
+      "reading": "ぜん",
+      "meaning": "thiện, tốt",
+      "hanviet": "THIỆN"
+    },
+    {
+      "id": "k_177",
+      "term": "努",
+      "reading": "つとめる・ど",
+      "meaning": "nỗ lực",
+      "hanviet": "NỖ"
+    },
+    {
+      "id": "k_178",
+      "term": "購",
+      "reading": "こう",
+      "meaning": "mua, thu mua",
+      "hanviet": "CẤU"
+    },
+    {
+      "id": "k_179",
+      "term": "額",
+      "reading": "ひたい・がく",
+      "meaning": "số tiền, trán",
+      "hanviet": "CẤU"
+    },
+    {
+      "id": "k_180",
+      "term": "納",
+      "reading": "おさめるおさまる・のうなっ",
+      "meaning": "nộp, đưa vào",
+      "hanviet": "NẠP"
+    },
+    {
+      "id": "k_181",
+      "term": "景",
+      "reading": "けい",
+      "meaning": "cảnh",
+      "hanviet": "CẢNH"
+    },
+    {
+      "id": "k_182",
+      "term": "資",
+      "reading": "し",
+      "meaning": "tài sản, nguồn vốn",
+      "hanviet": "TƯ"
+    },
+    {
+      "id": "k_183",
+      "term": "益",
+      "reading": "ます・えき",
+      "meaning": "lợi ích, lợi nhuận",
+      "hanviet": "ÍCH"
+    },
+    {
+      "id": "k_184",
+      "term": "株",
+      "reading": "かぶ",
+      "meaning": "cổ phần, gốc cây",
+      "hanviet": "CHU / CHÂU"
+    },
+    {
+      "id": "k_185",
+      "term": "増",
+      "reading": "ふえるますふやす・ぞう",
+      "meaning": "tăng",
+      "hanviet": "TĂNG"
+    },
+    {
+      "id": "k_186",
+      "term": "損",
+      "reading": "そこなうそこねるそん・そん",
+      "meaning": "tổn thất",
+      "hanviet": "TỔN"
+    },
+    {
+      "id": "k_187",
+      "term": "拡",
+      "reading": "かく",
+      "meaning": "mở rộng",
+      "hanviet": "KHUẾCH"
+    },
+    {
+      "id": "k_188",
+      "term": "縮",
+      "reading": "ちぢまるちぢめる・しゅく",
+      "meaning": "thu nhỏ",
+      "hanviet": "SÚC"
+    },
+    {
+      "id": "k_189",
+      "term": "焦",
+      "reading": "こげるこがすこがれる・しょう",
+      "meaning": "cháy, sốt ruột",
+      "hanviet": "TIÊU / TIỀU"
+    },
+    {
+      "id": "k_190",
+      "term": "刑",
+      "reading": "けい",
+      "meaning": "hình phạt",
+      "hanviet": "HÌNH"
+    },
+    {
+      "id": "k_191",
+      "term": "捜",
+      "reading": "さがす・そう",
+      "meaning": "tìm kiếm",
+      "hanviet": "SƯU"
+    },
+    {
+      "id": "k_192",
+      "term": "裁",
+      "reading": "さばく・さい",
+      "meaning": "phán xét, cắt may",
+      "hanviet": "TÀI"
+    },
+    {
+      "id": "k_193",
+      "term": "削",
+      "reading": "けずる・さく",
+      "meaning": "cắt bớt",
+      "hanviet": "TƯỚC"
+    },
+    {
+      "id": "k_194",
+      "term": "戻",
+      "reading": "もどるもどす",
+      "meaning": "trở lại",
+      "hanviet": "LỆ"
+    },
+    {
+      "id": "k_195",
+      "term": "換",
+      "reading": "かわるかえる・かん",
+      "meaning": "đổi",
+      "hanviet": "HOÁN"
+    },
+    {
+      "id": "k_196",
+      "term": "替",
+      "reading": "かえるかわる",
+      "meaning": "thay thế",
+      "hanviet": "THẾ"
+    },
+    {
+      "id": "k_197",
+      "term": "抽",
+      "reading": "ちゅう",
+      "meaning": "rút ra",
+      "hanviet": "TRỪU"
+    },
+    {
+      "id": "k_198",
+      "term": "略",
+      "reading": "りゃく",
+      "meaning": "lược bỏ, viết tắt",
+      "hanviet": "LƯỢC"
+    },
+    {
+      "id": "k_199",
+      "term": "充",
+      "reading": "あてる・じゅう",
+      "meaning": "lấp đầy, cung cấp",
+      "hanviet": "SUNG"
+    },
+    {
+      "id": "k_200",
+      "term": "除",
+      "reading": "のぞく・じょじ",
+      "meaning": "loại trừ",
+      "hanviet": "TRỪ"
+    },
+    {
+      "id": "k_201",
+      "term": "余",
+      "reading": "あまるあます・よ",
+      "meaning": "dư thừa",
+      "hanviet": "DƯ"
+    },
+    {
+      "id": "k_202",
+      "term": "誘",
+      "reading": "さそう・ゆう",
+      "meaning": "mời, dụ",
+      "hanviet": "DỤ"
+    },
+    {
+      "id": "k_203",
+      "term": "勧",
+      "reading": "すすめる・かん",
+      "meaning": "khuyên, khuyến khích",
+      "hanviet": "KHUYẾN"
+    },
+    {
+      "id": "k_204",
+      "term": "寄",
+      "reading": "よるよせる・き",
+      "meaning": "đến gần, gửi",
+      "hanviet": "KÍ"
+    },
+    {
+      "id": "k_205",
+      "term": "迷",
+      "reading": "まよう・めい",
+      "meaning": "lạc, bối rối",
+      "hanviet": "MÊ"
+    },
+    {
+      "id": "k_206",
+      "term": "占",
+      "reading": "うらなうしめる・せん",
+      "meaning": "chiếm, bói",
+      "hanviet": "CHIÊM"
+    },
+    {
+      "id": "k_207",
+      "term": "印",
+      "reading": "しるし・いん",
+      "meaning": "dấu, con dấu",
+      "hanviet": "ẤN"
+    },
+    {
+      "id": "k_208",
+      "term": "与",
+      "reading": "あたえる・よ",
+      "meaning": "cho",
+      "hanviet": "DỮ/DỰ"
+    },
+    {
+      "id": "k_209",
+      "term": "齢",
+      "reading": "れい",
+      "meaning": "tuổi",
+      "hanviet": "LINH"
+    },
+    {
+      "id": "k_210",
+      "term": "籍",
+      "reading": "せき",
+      "meaning": "hộ tịch, danh sách",
+      "hanviet": "TỊCH"
+    },
+    {
+      "id": "k_211",
+      "term": "際",
+      "reading": "さいきわぎわ",
+      "meaning": "khi, ranh giới",
+      "hanviet": "TẾ"
+    },
+    {
+      "id": "k_212",
+      "term": "毒",
+      "reading": "どく",
+      "meaning": "độc",
+      "hanviet": "ĐỘC"
+    },
+    {
+      "id": "k_213",
+      "term": "殺",
+      "reading": "ころす・さつ",
+      "meaning": "giết",
+      "hanviet": "SÁT/TÁT"
+    },
+    {
+      "id": "k_214",
+      "term": "暴",
+      "reading": "ぼうばく",
+      "meaning": "bạo lực, dữ dội",
+      "hanviet": "BẠO/BỘC"
+    },
+    {
+      "id": "k_215",
+      "term": "恐",
+      "reading": "おそろしい・きょう",
+      "meaning": "sợ, khủng",
+      "hanviet": "KHỦNG"
+    },
+    {
+      "id": "k_216",
+      "term": "嫌",
+      "reading": "きらいいや・けんげん",
+      "meaning": "ghét, không thích",
+      "hanviet": "HIỀM"
+    },
+    {
+      "id": "k_217",
+      "term": "緊",
+      "reading": "きん",
+      "meaning": "căng, khẩn",
+      "hanviet": "KHẨN"
+    },
+    {
+      "id": "k_218",
+      "term": "破",
+      "reading": "やぶれる・は",
+      "meaning": "phá, rách",
+      "hanviet": "PHÁ"
+    },
+    {
+      "id": "k_219",
+      "term": "別",
+      "reading": "わかれる・べつ",
+      "meaning": "chia, khác biệt",
+      "hanviet": "BIỆT"
+    },
+    {
+      "id": "k_220",
+      "term": "離",
+      "reading": "はなれる",
+      "meaning": "rời, xa",
+      "hanviet": "LI"
+    },
+    {
+      "id": "k_221",
+      "term": "叫",
+      "reading": "さけぶ",
+      "meaning": "kêu, hét",
+      "hanviet": "KHIẾU"
+    },
+    {
+      "id": "k_222",
+      "term": "誤",
+      "reading": "あやまる・ご",
+      "meaning": "sai lầm",
+      "hanviet": "NGỘ"
+    },
+    {
+      "id": "k_223",
+      "term": "謝",
+      "reading": "あやまる・しゃ",
+      "meaning": "xin lỗi",
+      "hanviet": "TẠ"
+    },
+    {
+      "id": "k_224",
+      "term": "励",
+      "reading": "はげますはげむ・れい",
+      "meaning": "khích lệ, cố gắng",
+      "hanviet": "LỆ"
+    },
+    {
+      "id": "k_225",
+      "term": "冗",
+      "reading": "じょう",
+      "meaning": "thừa, rườm rà",
+      "hanviet": "NHŨNG"
+    },
+    {
+      "id": "k_226",
+      "term": "握",
+      "reading": "にぎる・あく",
+      "meaning": "nắm",
+      "hanviet": "ÁC"
+    },
+    {
+      "id": "k_227",
+      "term": "絶",
+      "reading": "たえるたつ・ぜつ",
+      "meaning": "tuyệt, chấm dứt",
+      "hanviet": "TUYỆT"
+    },
+    {
+      "id": "k_228",
+      "term": "片",
+      "reading": "かた・へん",
+      "meaning": "mảnh, một phía",
+      "hanviet": "PHIẾN"
+    },
+    {
+      "id": "k_229",
+      "term": "裏",
+      "reading": "うら・り",
+      "meaning": "mặt sau",
+      "hanviet": "LÍ"
+    },
+    {
+      "id": "k_230",
+      "term": "幅",
+      "reading": "はば・ふくぷく",
+      "meaning": "chiều rộng",
+      "hanviet": "PHÚC"
+    },
+    {
+      "id": "k_231",
+      "term": "版",
+      "reading": "はん",
+      "meaning": "bản, phiên bản",
+      "hanviet": "BẢN"
+    },
+    {
+      "id": "k_232",
+      "term": "刷",
+      "reading": "する・さつ",
+      "meaning": "in",
+      "hanviet": "XOÁT/LOÁT"
+    },
+    {
+      "id": "k_233",
+      "term": "枠",
+      "reading": "わく",
+      "meaning": "khung",
+      "hanviet": "KHUNG"
+    },
+    {
+      "id": "k_234",
+      "term": "縦",
+      "reading": "たて・じゅう",
+      "meaning": "dọc",
+      "hanviet": "TÚNG"
+    },
+    {
+      "id": "k_235",
+      "term": "斜",
+      "reading": "ななめ・しゃ",
+      "meaning": "chéo",
+      "hanviet": "TÀ"
+    },
+    {
+      "id": "k_236",
+      "term": "端",
+      "reading": "はし・たん",
+      "meaning": "đầu, mép",
+      "hanviet": "ĐOAN"
+    },
+    {
+      "id": "k_237",
+      "term": "掘",
+      "reading": "ほる・くつ",
+      "meaning": "đào",
+      "hanviet": "QUẬT"
+    },
+    {
+      "id": "k_238",
+      "term": "埋",
+      "reading": "うめる・まい",
+      "meaning": "chôn, lấp",
+      "hanviet": "MAI"
+    },
+    {
+      "id": "k_239",
+      "term": "泥",
+      "reading": "どろ・でい",
+      "meaning": "bùn",
+      "hanviet": "NÊ"
+    },
+    {
+      "id": "k_240",
+      "term": "炭",
+      "reading": "すみ・たん",
+      "meaning": "than",
+      "hanviet": "THÁN"
+    },
+    {
+      "id": "k_241",
+      "term": "鉱",
+      "reading": "こう",
+      "meaning": "khoáng sản",
+      "hanviet": "KHOÁNG"
+    },
+    {
+      "id": "k_242",
+      "term": "銅",
+      "reading": "どう",
+      "meaning": "đồng",
+      "hanviet": "ĐỒNG"
+    },
+    {
+      "id": "k_243",
+      "term": "純",
+      "reading": "じゅん",
+      "meaning": "thuần",
+      "hanviet": "THUẦN"
+    },
+    {
+      "id": "k_244",
+      "term": "快",
+      "reading": "こころよい・かい",
+      "meaning": "thoải mái",
+      "hanviet": "KHOÁI"
+    },
+    {
+      "id": "k_245",
+      "term": "甘",
+      "reading": "あまいあまえる",
+      "meaning": "ngọt",
+      "hanviet": "CAM"
+    },
+    {
+      "id": "k_246",
+      "term": "薄",
+      "reading": "うすいうすめる・はく",
+      "meaning": "mỏng",
+      "hanviet": "BẠC / BÁC"
+    },
+    {
+      "id": "k_247",
+      "term": "硬",
+      "reading": "かたい・こう",
+      "meaning": "cứng",
+      "hanviet": "NGẠNH"
+    },
+    {
+      "id": "k_248",
+      "term": "鋭",
+      "reading": "するどい・えい",
+      "meaning": "sắc bén",
+      "hanviet": "NHUỆ"
+    },
+    {
+      "id": "k_249",
+      "term": "鈍",
+      "reading": "にぶいにび・どん",
+      "meaning": "cùn, chậm",
+      "hanviet": "ĐỘN"
+    },
+    {
+      "id": "k_250",
+      "term": "詳",
+      "reading": "くわしい・しょう",
+      "meaning": "chi tiết",
+      "hanviet": "TƯỜNG"
+    },
+    {
+      "id": "k_251",
+      "term": "簡",
+      "reading": "かん",
+      "meaning": "đơn giản",
+      "hanviet": "GIẢN"
+    },
+    {
+      "id": "k_252",
+      "term": "潔",
+      "reading": "いさぎよい・けつ",
+      "meaning": "trong sạch, dứt khoát",
+      "hanviet": "KHIẾT"
+    },
+    {
+      "id": "k_253",
+      "term": "頑",
+      "reading": "かたく・がん",
+      "meaning": "ngoan cố",
+      "hanviet": "NGOAN"
+    },
+    {
+      "id": "k_254",
+      "term": "勇",
+      "reading": "いさましい・ゆう",
+      "meaning": "dũng cảm",
+      "hanviet": "DŨNG"
+    },
+    {
+      "id": "k_255",
+      "term": "賢",
+      "reading": "かしこい・けん",
+      "meaning": "thông minh",
+      "hanviet": "HIỀN"
+    },
+    {
+      "id": "k_256",
+      "term": "珍",
+      "reading": "めずらしい・ちん",
+      "meaning": "hiếm,珍 quý",
+      "hanviet": "TRÂN"
+    },
+    {
+      "id": "k_257",
+      "term": "宇",
+      "reading": "う",
+      "meaning": "vũ trụ",
+      "hanviet": "VŨ"
+    },
+    {
+      "id": "k_258",
+      "term": "宙",
+      "reading": "ちゅう",
+      "meaning": "trụ, không trung",
+      "hanviet": "TRỤ"
+    },
+    {
+      "id": "k_259",
+      "term": "環",
+      "reading": "かん",
+      "meaning": "vòng, môi trường",
+      "hanviet": "HOÀN"
+    },
+    {
+      "id": "k_260",
+      "term": "境",
+      "reading": "さかい・きょうけい",
+      "meaning": "ranh giới, môi trường",
+      "hanviet": "CẢNH"
+    },
+    {
+      "id": "k_261",
+      "term": "極",
+      "reading": "きわめる・きょく",
+      "meaning": "cực, hết mức",
+      "hanviet": "CỰC"
+    },
+    {
+      "id": "k_262",
+      "term": "昇",
+      "reading": "のぼる・しょう",
+      "meaning": "tăng lên",
+      "hanviet": "THĂNG"
+    },
+    {
+      "id": "k_263",
+      "term": "乾",
+      "reading": "かわく・かん",
+      "meaning": "khô",
+      "hanviet": "KIỀN"
+    },
+    {
+      "id": "k_264",
+      "term": "燥",
+      "reading": "そう",
+      "meaning": "khô ráo",
+      "hanviet": "TÁO"
+    },
+    {
+      "id": "k_265",
+      "term": "湿",
+      "reading": "しめる・しつ",
+      "meaning": "ẩm ướt",
+      "hanviet": "THẤP/CHẬP"
+    },
+    {
+      "id": "k_266",
+      "term": "涼",
+      "reading": "すずしい・りょう",
+      "meaning": "mát",
+      "hanviet": "LƯƠNG"
+    },
+    {
+      "id": "k_267",
+      "term": "雷",
+      "reading": "かみなり・らい",
+      "meaning": "sấm",
+      "hanviet": "LÔI"
+    },
+    {
+      "id": "k_268",
+      "term": "嵐",
+      "reading": "あらし",
+      "meaning": "bão",
+      "hanviet": "LAM"
+    },
+    {
+      "id": "k_269",
+      "term": "漁",
+      "reading": "ぎょりょう",
+      "meaning": "đánh bắt cá",
+      "hanviet": "NGƯ"
+    },
+    {
+      "id": "k_270",
+      "term": "航",
+      "reading": "こう",
+      "meaning": "đi biển, hàng hải",
+      "hanviet": "HÀNG"
+    },
+    {
+      "id": "k_271",
+      "term": "融",
+      "reading": "ゆう",
+      "meaning": "tan, hòa nhập",
+      "hanviet": "DUNG/DONG"
+    },
+    {
+      "id": "k_272",
+      "term": "層",
+      "reading": "そう",
+      "meaning": "tầng",
+      "hanviet": "TẰNG"
+    },
+    {
+      "id": "k_273",
+      "term": "砂",
+      "reading": "すな・さしゃ",
+      "meaning": "cát",
+      "hanviet": "SA"
+    },
+    {
+      "id": "k_274",
+      "term": "災",
+      "reading": "さい",
+      "meaning": "tai họa",
+      "hanviet": "TAI"
+    },
+    {
+      "id": "k_275",
+      "term": "害",
+      "reading": "がい",
+      "meaning": "thiệt hại",
+      "hanviet": "HẠI"
+    },
+    {
+      "id": "k_276",
+      "term": "防",
+      "reading": "ふせぐ・ぼう",
+      "meaning": "phòng ngừa",
+      "hanviet": "PHÒNG"
+    },
+    {
+      "id": "k_277",
+      "term": "影",
+      "reading": "かげ・えい",
+      "meaning": "bóng, ảnh hưởng",
+      "hanviet": "ẢNH"
+    },
+    {
+      "id": "k_278",
+      "term": "響",
+      "reading": "ひびく・きょう",
+      "meaning": "ảnh hưởng",
+      "hanviet": "HƯỞNG"
+    },
+    {
+      "id": "k_279",
+      "term": "被",
+      "reading": "かぶる・ひ",
+      "meaning": "bị, chịu",
+      "hanviet": "BỊ"
+    },
+    {
+      "id": "k_280",
+      "term": "壊",
+      "reading": "こわす・かい",
+      "meaning": "phá hỏng",
+      "hanviet": "HOẠI"
+    },
+    {
+      "id": "k_281",
+      "term": "傾",
+      "reading": "かたむく・けい",
+      "meaning": "nghiêng",
+      "hanviet": "KHUYNH"
+    },
+    {
+      "id": "k_282",
+      "term": "崩",
+      "reading": "くずれる・ほう",
+      "meaning": "sụp đổ",
+      "hanviet": "BĂNG"
+    },
+    {
+      "id": "k_283",
+      "term": "洪",
+      "reading": "こう",
+      "meaning": "lũ lớn",
+      "hanviet": "HỒNG"
+    },
+    {
+      "id": "k_284",
+      "term": "津",
+      "reading": "つ",
+      "meaning": "bến, cảng",
+      "hanviet": "TÂN"
+    },
+    {
+      "id": "k_285",
+      "term": "荒",
+      "reading": "あれる・こう",
+      "meaning": "hoang, dữ dội",
+      "hanviet": "HOANG"
+    },
+    {
+      "id": "k_286",
+      "term": "激",
+      "reading": "げしい・げき",
+      "meaning": "mãnh liệt",
+      "hanviet": "KÍCH"
+    },
+    {
+      "id": "k_287",
+      "term": "尊",
+      "reading": "とうとぶとうとい・そん",
+      "meaning": "tôn trọng",
+      "hanviet": "TÔN"
+    },
+    {
+      "id": "k_288",
+      "term": "敬",
+      "reading": "うやまう・けい",
+      "meaning": "kính trọng",
+      "hanviet": "KÍNH"
+    },
+    {
+      "id": "k_289",
+      "term": "参",
+      "reading": "まいる・さん",
+      "meaning": "tham gia, đi/đến (khiêm nhường)",
+      "hanviet": "THAM"
+    },
+    {
+      "id": "k_290",
+      "term": "致",
+      "reading": "いたす・ち",
+      "meaning": "gây, làm cho",
+      "hanviet": "TRÍ"
+    },
+    {
+      "id": "k_291",
+      "term": "召",
+      "reading": "めす",
+      "meaning": "gọi, triệu",
+      "hanviet": "TRIỆU"
+    },
+    {
+      "id": "k_292",
+      "term": "拝",
+      "reading": "おがむ・はい",
+      "meaning": "bái, cúi lạy",
+      "hanviet": "BÁI"
+    },
+    {
+      "id": "k_293",
+      "term": "了",
+      "reading": "りょう",
+      "meaning": "xong, hoàn tất",
+      "hanviet": "LIỄU"
+    },
+    {
+      "id": "k_294",
+      "term": "承",
+      "reading": "うけたまわる・しょう",
+      "meaning": "nhận,承 lời",
+      "hanviet": "THỪA"
+    },
+    {
+      "id": "k_295",
+      "term": "伺",
+      "reading": "うかがう",
+      "meaning": "hỏi, thăm dò",
+      "hanviet": "TÝ/TỨ"
+    },
+    {
+      "id": "k_296",
+      "term": "頂",
+      "reading": "いただく・ちょう",
+      "meaning": "nhận, đỉnh",
+      "hanviet": "ĐÍNH"
+    },
+    {
+      "id": "k_297",
+      "term": "照",
+      "reading": "てらすてれる・しょう",
+      "meaning": "chiếu sáng, soi",
+      "hanviet": "CHIẾU"
+    },
+    {
+      "id": "k_298",
+      "term": "貨",
+      "reading": "か",
+      "meaning": "hàng hóa",
+      "hanviet": "HÓA"
+    },
+    {
+      "id": "k_299",
+      "term": "振",
+      "reading": "ふる・しん",
+      "meaning": "vung, rung",
+      "hanviet": "CHẤN"
+    },
+    {
+      "id": "k_300",
+      "term": "判",
+      "reading": "はんばんぱん",
+      "meaning": "phán xét, phán định",
+      "hanviet": "PHÁN"
+    },
+    {
+      "id": "k_301",
+      "term": "劇",
+      "reading": "げき",
+      "meaning": "kịch",
+      "hanviet": "KỊCH"
+    },
+    {
+      "id": "k_302",
+      "term": "舞",
+      "reading": "まうまい・ぶ",
+      "meaning": "múa",
+      "hanviet": "VŨ"
+    },
+    {
+      "id": "k_303",
+      "term": "堂",
+      "reading": "どう",
+      "meaning": "đường, sảnh",
+      "hanviet": "ĐƯỜNG"
+    },
+    {
+      "id": "k_304",
+      "term": "展",
+      "reading": "てん",
+      "meaning": "triển khai, mở rộng",
+      "hanviet": "TRIỂN"
+    },
+    {
+      "id": "k_305",
+      "term": "跡",
+      "reading": "あと・せき",
+      "meaning": "dấu vết",
+      "hanviet": "TÍCH"
+    },
+    {
+      "id": "k_306",
+      "term": "祈",
+      "reading": "いのる・き",
+      "meaning": "cầu nguyện",
+      "hanviet": "KÌ"
+    },
+    {
+      "id": "k_307",
+      "term": "恵",
+      "reading": "めぐむ・けいえ",
+      "meaning": "ban ơn",
+      "hanviet": "HUỆ"
+    },
+    {
+      "id": "k_308",
+      "term": "至",
+      "reading": "いたる・し",
+      "meaning": "đạt tới",
+      "hanviet": "CHÍ"
+    },
+    {
+      "id": "k_309",
+      "term": "警",
+      "reading": "けい",
+      "meaning": "cảnh sát, cảnh báo",
+      "hanviet": "CẢNH"
+    },
+    {
+      "id": "k_310",
+      "term": "署",
+      "reading": "しょ",
+      "meaning": "sở, cơ quan",
+      "hanviet": "THỰ"
+    },
+    {
+      "id": "k_311",
+      "term": "乱",
+      "reading": "みだれるみだす・らん",
+      "meaning": "rối loạn",
+      "hanviet": "LOẠN"
+    },
+    {
+      "id": "k_312",
+      "term": "扱",
+      "reading": "あつかう",
+      "meaning": "xử lý,扱扱",
+      "hanviet": "TRÁP/HẤP"
+    },
+    {
+      "id": "k_313",
+      "term": "及",
+      "reading": "およぶ・きゅう",
+      "meaning": "đạt tới, ảnh hưởng",
+      "hanviet": "CẬP"
+    },
+    {
+      "id": "k_314",
+      "term": "講",
+      "reading": "こう",
+      "meaning": "giảng, bài giảng",
+      "hanviet": "GIẢNG"
+    },
+    {
+      "id": "k_315",
+      "term": "義",
+      "reading": "ぎ",
+      "meaning": "nghĩa, đạo nghĩa",
+      "hanviet": "NGHĨA"
+    },
+    {
+      "id": "k_316",
+      "term": "導",
+      "reading": "みちびく・どう",
+      "meaning": "dẫn dắt",
+      "hanviet": "ĐẠO"
+    },
+    {
+      "id": "k_317",
+      "term": "専",
+      "reading": "もっぱら・せん",
+      "meaning": "chuyên, chuyên tâm",
+      "hanviet": "CHUYÊN"
+    },
+    {
+      "id": "k_318",
+      "term": "限",
+      "reading": "かぎる・げん",
+      "meaning": "giới hạn",
+      "hanviet": "HẠN"
+    },
+    {
+      "id": "k_319",
+      "term": "修",
+      "reading": "しゅう",
+      "meaning": "sửa chữa, tu dưỡng",
+      "hanviet": "TU"
+    },
+    {
+      "id": "k_320",
+      "term": "述",
+      "reading": "のべる・じゅつ",
+      "meaning": "thuật, trình bày",
+      "hanviet": "THUẬT"
+    },
+    {
+      "id": "k_321",
+      "term": "将",
+      "reading": "しょう",
+      "meaning": "tướng, sẽ",
+      "hanviet": "TƯƠNG"
+    },
+    {
+      "id": "k_322",
+      "term": "博",
+      "reading": "はくばく",
+      "meaning": "rộng, uyên bác",
+      "hanviet": "BÁC"
+    },
+    {
+      "id": "k_323",
+      "term": "策",
+      "reading": "さく",
+      "meaning": "biện pháp, sách lược",
+      "hanviet": "SÁCH"
+    },
+    {
+      "id": "k_324",
+      "term": "基",
+      "reading": "もと・き",
+      "meaning": "cơ sở",
+      "hanviet": "CƠ"
+    },
+    {
+      "id": "k_325",
+      "term": "句",
+      "reading": "く",
+      "meaning": "câu",
+      "hanviet": "CÚ"
+    },
+    {
+      "id": "k_326",
+      "term": "詞",
+      "reading": "し",
+      "meaning": "từ, lời",
+      "hanviet": "TỪ"
+    },
+    {
+      "id": "k_327",
+      "term": "覧",
+      "reading": "らん",
+      "meaning": "xem, mục lục",
+      "hanviet": "LÃM"
+    },
+    {
+      "id": "k_328",
+      "term": "簿",
+      "reading": "ぼ",
+      "meaning": "sổ, danh bạ",
+      "hanviet": "BỘ/BẠC"
+    },
+    {
+      "id": "k_329",
+      "term": "塾",
+      "reading": "じゅく",
+      "meaning": "trường luyện thi",
+      "hanviet": "THỤC"
+    },
+    {
+      "id": "k_330",
+      "term": "党",
+      "reading": "とう",
+      "meaning": "đảng",
+      "hanviet": "ĐẢNG"
+    },
+    {
+      "id": "k_331",
+      "term": "民",
+      "reading": "みん",
+      "meaning": "dân",
+      "hanviet": "DÂN"
+    },
+    {
+      "id": "k_332",
+      "term": "挙",
+      "reading": "あげる・きょ",
+      "meaning": "giơ, tiến hành",
+      "hanviet": "CỬ"
+    },
+    {
+      "id": "k_333",
+      "term": "委",
+      "reading": "ゆだねる・い",
+      "meaning": "ủy thác",
+      "hanviet": "ỦY/UY"
+    },
+    {
+      "id": "k_334",
+      "term": "権",
+      "reading": "けん",
+      "meaning": "quyền",
+      "hanviet": "QUYỀN"
+    },
+    {
+      "id": "k_335",
+      "term": "票",
+      "reading": "ひょう",
+      "meaning": "phiếu",
+      "hanviet": "PHIẾU"
+    },
+    {
+      "id": "k_336",
+      "term": "統",
+      "reading": "とう",
+      "meaning": "thống nhất",
+      "hanviet": "THỐNG"
+    },
+    {
+      "id": "k_337",
+      "term": "序",
+      "reading": "じょ",
+      "meaning": "thứ tự",
+      "hanviet": "TỰ"
+    },
+    {
+      "id": "k_338",
+      "term": "批",
+      "reading": "ひ",
+      "meaning": "phê bình",
+      "hanviet": "PHÊ"
+    },
+    {
+      "id": "k_339",
+      "term": "条",
+      "reading": "じょう",
+      "meaning": "điều, khoản",
+      "hanviet": "ĐIỀU"
+    },
+    {
+      "id": "k_340",
+      "term": "司",
+      "reading": "し",
+      "meaning": "phụ trách, tư lệnh",
+      "hanviet": "TI"
+    },
+    {
+      "id": "k_341",
+      "term": "省",
+      "reading": "はぶくかえりみる・しょうせい",
+      "meaning": "tỉnh,省 lược",
+      "hanviet": "TỈNH"
+    },
+    {
+      "id": "k_342",
+      "term": "庁",
+      "reading": "ちょう",
+      "meaning": "cơ quan",
+      "hanviet": "SẢNH"
+    },
+    {
+      "id": "k_343",
+      "term": "敵",
+      "reading": "てき",
+      "meaning": "kẻ địch",
+      "hanviet": "ĐỊCH"
+    },
+    {
+      "id": "k_344",
+      "term": "領",
+      "reading": "りょう",
+      "meaning": "lĩnh vực, lãnh thổ",
+      "hanviet": "LĨNH"
+    },
+    {
+      "id": "k_345",
+      "term": "侵",
+      "reading": "おかす・しん",
+      "meaning": "xâm phạm",
+      "hanviet": "XÂM"
+    },
+    {
+      "id": "k_346",
+      "term": "銃",
+      "reading": "つつ・じゅう",
+      "meaning": "súng",
+      "hanviet": "SÚNG"
+    },
+    {
+      "id": "k_347",
+      "term": "護",
+      "reading": "ご",
+      "meaning": "bảo vệ",
+      "hanviet": "HỘ"
+    },
+    {
+      "id": "k_348",
+      "term": "衛",
+      "reading": "えい",
+      "meaning": "vệ, bảo vệ",
+      "hanviet": "VỆ"
+    },
+    {
+      "id": "k_349",
+      "term": "屈",
+      "reading": "くつ",
+      "meaning": "khuất, cúi",
+      "hanviet": "KHUẤT/QUẬT"
+    },
+    {
+      "id": "k_350",
+      "term": "却",
+      "reading": "きゃく",
+      "meaning": "từ chối, ngược lại",
+      "hanviet": "KHƯỚC"
+    },
+    {
+      "id": "k_351",
+      "term": "攻",
+      "reading": "せめる・こう",
+      "meaning": "tấn công",
+      "hanviet": "CÔNG"
+    },
+    {
+      "id": "k_352",
+      "term": "撃",
+      "reading": "うつ・げき",
+      "meaning": "đánh, bắn",
+      "hanviet": "KÍCH"
+    },
+    {
+      "id": "k_353",
+      "term": "爆",
+      "reading": "ばく",
+      "meaning": "nổ,爆",
+      "hanviet": "BẠO/BẠC/BỘC"
+    },
+    {
+      "id": "k_354",
+      "term": "討",
+      "reading": "とう",
+      "meaning": "thảo luận, đánh",
+      "hanviet": "THẢO"
+    },
+    {
+      "id": "k_355",
+      "term": "射",
+      "reading": "しゃ",
+      "meaning": "bắn, xạ",
+      "hanviet": "XẠ/DẠ/DỊCH"
+    },
+    {
+      "id": "k_356",
+      "term": "武",
+      "reading": "ぶ",
+      "meaning": "võ, quân sự",
+      "hanviet": "VŨ/VÕ"
+    },
+    {
+      "id": "k_357",
+      "term": "模",
+      "reading": "ぼも",
+      "meaning": "mô, mô hình",
+      "hanviet": "MÔ"
+    },
+    {
+      "id": "k_358",
+      "term": "範",
+      "reading": "はん",
+      "meaning": "phạm, khuôn mẫu",
+      "hanviet": "PHẠM"
+    },
+    {
+      "id": "k_359",
+      "term": "幼",
+      "reading": "おさない・よう",
+      "meaning": "nhỏ,幼 thơ",
+      "hanviet": "ẤU"
+    },
+    {
+      "id": "k_360",
+      "term": "稚",
+      "reading": "ち",
+      "meaning": "non nớt",
+      "hanviet": "TRĨ"
+    },
+    {
+      "id": "k_361",
+      "term": "継",
+      "reading": "つぐ・けい",
+      "meaning": "kế, tiếp tục",
+      "hanviet": "KẾ"
+    },
+    {
+      "id": "k_362",
+      "term": "恥",
+      "reading": "はじはずかしい",
+      "meaning": "xấu hổ",
+      "hanviet": "SỈ"
+    },
+    {
+      "id": "k_363",
+      "term": "旬",
+      "reading": "しゅんじゅん",
+      "meaning": "tuần,旬",
+      "hanviet": "TUẦN"
+    },
+    {
+      "id": "k_364",
+      "term": "補",
+      "reading": "おぎなう・ほ",
+      "meaning": "bổ sung",
+      "hanviet": "BỔ"
+    },
+    {
+      "id": "k_365",
+      "term": "隠",
+      "reading": "かくれるかくす・いん",
+      "meaning": "ẩn, giấu",
+      "hanviet": "ẨN"
+    },
+    {
+      "id": "k_366",
+      "term": "劣",
+      "reading": "おとる・れつ",
+      "meaning": "kém, thua",
+      "hanviet": "LIỆT"
+    },
+    {
+      "id": "k_367",
+      "term": "継",
+      "reading": "つぐ・けい",
+      "meaning": "kế, tiếp tục",
+      "hanviet": "KẾ"
+    },
+    {
+      "id": "k_368",
+      "term": "伴",
+      "reading": "ともなう・はんばん",
+      "meaning": "đi cùng",
+      "hanviet": "BẠN"
+    },
+    {
+      "id": "k_369",
+      "term": "絞",
+      "reading": "しまるしめるしぼる・こう",
+      "meaning": "siết, vắt",
+      "hanviet": "GIẢO/HÀO"
+    },
+    {
+      "id": "k_370",
+      "term": "憎",
+      "reading": "にくいにくむ・ぞう",
+      "meaning": "ghét",
+      "hanviet": "TĂNG"
+    },
+    {
+      "id": "k_371",
+      "term": "率",
+      "reading": "ひきいる・そつりつ",
+      "meaning": "tỷ lệ, dẫn dắt",
+      "hanviet": "SUẤT/LUẬT"
+    },
+    {
+      "id": "k_372",
+      "term": "垂",
+      "reading": "たれる・すい",
+      "meaning": "rủ xuống",
+      "hanviet": "THÙY"
+    },
+    {
+      "id": "k_373",
+      "term": "拠",
+      "reading": "きょこ",
+      "meaning": "căn cứ",
+      "hanviet": "CỨ"
+    },
+    {
+      "id": "k_374",
+      "term": "抵",
+      "reading": "てい",
+      "meaning": "chống lại",
+      "hanviet": "ĐỂ/CHỈ"
+    },
+    {
+      "id": "k_375",
+      "term": "墓",
+      "reading": "はか・ぼ",
+      "meaning": "mộ",
+      "hanviet": "MỘ"
+    },
+    {
+      "id": "k_376",
+      "term": "揚",
+      "reading": "あげる・よう",
+      "meaning": "nâng, giương",
+      "hanviet": "DƯƠNG"
+    },
+    {
+      "id": "k_377",
+      "term": "偉",
+      "reading": "えらい・い",
+      "meaning": "vĩ đại",
+      "hanviet": "VI"
+    },
+    {
+      "id": "k_378",
+      "term": "請",
+      "reading": "うける・せい",
+      "meaning": "thỉnh cầu",
+      "hanviet": "THỈNH"
+    },
+    {
+      "id": "k_379",
+      "term": "属",
+      "reading": "ぞく",
+      "meaning": "thuộc về",
+      "hanviet": "THUỘC"
+    },
+    {
+      "id": "k_380",
+      "term": "免",
+      "reading": "まぬがれる・めん",
+      "meaning": "miễn, tránh",
+      "hanviet": "MIỄN/VẤN"
+    },
+    {
+      "id": "k_381",
+      "term": "剣",
+      "reading": "けん",
+      "meaning": "kiếm",
+      "hanviet": "KIẾM"
+    },
+    {
+      "id": "k_382",
+      "term": "辞",
+      "reading": "やめる・じ",
+      "meaning": "từ bỏ,辞 chức",
+      "hanviet": "TỪ"
+    },
+    {
+      "id": "k_383",
+      "term": "適",
+      "reading": "てき",
+      "meaning": "thích hợp",
+      "hanviet": "THÍCH"
+    },
+    {
+      "id": "k_384",
+      "term": "儀",
+      "reading": "ぎ",
+      "meaning": "nghi lễ",
+      "hanviet": "NGHI"
+    },
+    {
+      "id": "k_385",
+      "term": "施",
+      "reading": "ほどこす・せし",
+      "meaning": "thi hành, ban phát",
+      "hanviet": "THI/THÍ"
+    },
+    {
+      "id": "k_386",
+      "term": "推",
+      "reading": "おす・すい",
+      "meaning": "đề xuất, suy đoán",
+      "hanviet": "THÔI/SUY"
+    },
+    {
+      "id": "k_387",
+      "term": "副",
+      "reading": "ふく",
+      "meaning": "phó, phụ",
+      "hanviet": "PHÓ"
+    },
+    {
+      "id": "k_388",
+      "term": "滴",
+      "reading": "てき",
+      "meaning": "giọt",
+      "hanviet": "TÍCH/TRÍCH"
+    },
+    {
+      "id": "k_389",
+      "term": "密",
+      "reading": "ひそか・みつ",
+      "meaning": "mật, kín",
+      "hanviet": "MẬT"
+    },
+    {
+      "id": "k_390",
+      "term": "陽",
+      "reading": "ひ・よう",
+      "meaning": "mặt trời, dương",
+      "hanviet": "DƯƠNG"
+    },
+    {
+      "id": "k_391",
+      "term": "乏",
+      "reading": "ぼう",
+      "meaning": "thiếu thốn",
+      "hanviet": "PHẠP"
+    },
+    {
+      "id": "k_392",
+      "term": "築",
+      "reading": "きずく・ちく",
+      "meaning": "xây dựng",
+      "hanviet": "TRÚC"
+    },
+    {
+      "id": "k_393",
+      "term": "識",
+      "reading": "しき",
+      "meaning": "nhận biết, kiến thức",
+      "hanviet": "THỨC"
+    },
+    {
+      "id": "k_394",
+      "term": "擦",
+      "reading": "こする・さつ",
+      "meaning": "cọ xát",
+      "hanviet": "SÁT"
+    }
+  ]
+}

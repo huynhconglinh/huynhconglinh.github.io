@@ -1,0 +1,113 @@
+{
+  "id": "n2-grammar-core",
+  "cards": [
+    {
+      "id": "g2_1",
+      "term": "〜をはじめ",
+      "reading": "〜をはじめ",
+      "meaning": "Trước tiên phải kể đến... / Tiêu biểu là...",
+      "formation": "N + をはじめ（として） / をはじめとする + N",
+      "example": "上野動物園にはパンダをはじめ、多くの人気動物がいる。",
+      "exampleVi": "Sở thú Ueno có nhiều động vật được yêu thích, tiêu biểu nhất là gấu trúc."
+    },
+    {
+      "id": "g2_2",
+      "term": "〜に違いない",
+      "reading": "〜にちがいない",
+      "meaning": "Chắc chắn là... (phán đoán có căn cứ vững chắc)",
+      "formation": "Thể thông thường (V/A/N bỏ だ) + に違いない",
+      "example": "現場に指紋が残っているから、犯人はこの男に違いない。",
+      "exampleVi": "Vì dấu vân tay còn lưu lại hiện trường nên thủ phạm chắc chắn là gã này."
+    },
+    {
+      "id": "g2_3",
+      "term": "〜わけがない",
+      "reading": "〜わけがない",
+      "meaning": "Tuyệt đối không thể có chuyện... / Làm sao mà...",
+      "formation": "Thể thông thường (Na な / N の) + わけがない",
+      "example": "あんなに真面目な彼が、嘘をつくわけがない。",
+      "exampleVi": "Một người nghiêm túc như anh ấy tuyệt đối không thể nói dối."
+    },
+    {
+      "id": "g2_4",
+      "term": "〜どころではない",
+      "reading": "〜どころではない",
+      "meaning": "Không phải lúc để... / Tâm trí đâu mà...",
+      "formation": "V-る / N + どころではない",
+      "example": "明日がJLPTの試験本番なので、遊んでいるどころではない。",
+      "exampleVi": "Ngày mai là ngày thi JLPT chính thức rồi nên không phải lúc đi chơi."
+    },
+    {
+      "id": "g2_5",
+      "term": "〜を通じて",
+      "reading": "〜をつうじて",
+      "meaning": "Thông qua... / Suốt trong khoảng thời gian...",
+      "formation": "N + を通じて / を通して",
+      "example": "留学生活を通じて、多くの大切な友人ができた。",
+      "exampleVi": "Thông qua cuộc sống du học, tôi đã có thêm nhiều người bạn quý giá."
+    },
+    {
+      "id": "g2_6",
+      "term": "〜に伴って",
+      "reading": "〜にともなって",
+      "meaning": "Cùng với sự thay đổi của... kéo theo...",
+      "formation": "V-る / N + に伴って / に伴い",
+      "example": "人口の増加に伴って、住宅需要が急激に高まっている。",
+      "exampleVi": "Cùng với sự gia tăng dân số, nhu cầu nhà ở đang tăng vọt."
+    },
+    {
+      "id": "g2_7",
+      "term": "〜に沿って",
+      "reading": "〜にそって",
+      "meaning": "Men theo / Dựa theo, bám sát theo (kế hoạch, phương châm)",
+      "formation": "N + に沿って / に沿い / に沿った + N",
+      "example": "決められた計画に沿って、プロジェクトを着実に進めます。",
+      "exampleVi": "Bám sát theo kế hoạch đã đề ra, chúng tôi triển khai dự án một cách vững chắc."
+    },
+    {
+      "id": "g2_8",
+      "term": "〜に基づいて",
+      "reading": "〜にもとづいて",
+      "meaning": "Dựa trên cơ sở / Căn cứ theo...",
+      "formation": "N + に基づいて / に基づき / に基づいた + N",
+      "example": "最新の調査データに基づいて、今後の販売戦略を立てる。",
+      "exampleVi": "Căn cứ theo số liệu khảo sát mới nhất, chúng tôi lập chiến lược bán hàng tương lai."
+    },
+    {
+      "id": "g2_9",
+      "term": "〜わけにはいかない",
+      "reading": "〜わけにはいかない",
+      "meaning": "Không thể... (do lương tâm, đạo đức, áp lực xã hội)",
+      "formation": "V-る + わけにはいかない",
+      "example": "大切な会議があるから、風邪でも休むわけにはいかない。",
+      "exampleVi": "Vì có cuộc họp quan trọng nên dù bị cảm tôi cũng không thể nghỉ được."
+    },
+    {
+      "id": "g2_10",
+      "term": "〜ずにいられない",
+      "reading": "〜ずにいられない",
+      "meaning": "Không thể không... / Không kìm nén được...",
+      "formation": "V-ない (bỏ ない) + ずにいられない (しない ➔ せずに)",
+      "example": "彼の滑稽な行動を見て、誰もが笑わずにいられなかった。",
+      "exampleVi": "Nhìn hành động hài hước của anh ta, không ai có thể nhịn cười được."
+    },
+    {
+      "id": "g2_11",
+      "term": "〜反面",
+      "reading": "〜はんめん",
+      "meaning": "Mặt khác / Ngược lại (hai mặt đối lập của một vấn đề)",
+      "formation": "Thể thông thường (Na な/である | N である) + 反面",
+      "example": "都市部は便利な反面、生活費が非常に高い。",
+      "exampleVi": "Đô thị tiện nghi nhưng mặt khác chi phí sinh hoạt lại cực kỳ đắt đỏ."
+    },
+    {
+      "id": "g2_12",
+      "term": "〜をめぐって",
+      "reading": "〜をめぐって",
+      "meaning": "Xoay quanh tranh luận / mâu thuẫn về...",
+      "formation": "N + をめぐって / をめぐる + N",
+      "example": "遺産の相続をめぐって、兄弟の間で激しい争いが起きた。",
+      "exampleVi": "Xoay quanh việc thừa kế tài sản, tranh chấp gay gắt đã xảy ra giữa các anh em."
+    }
+  ]
+}

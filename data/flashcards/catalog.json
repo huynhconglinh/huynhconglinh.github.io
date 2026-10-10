@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "decks": [
+    {
+      "id": "n2-kanji-mazii",
+      "title": "394 Hán tự N2 Trọng điểm (Mazii)",
+      "type": "kanji",
+      "level": "N2",
+      "description": "Trích xuất từ bộ Mazii N2 thực tế. Kèm âm Hán-Việt, âm On/Kun và ngữ cảnh sử dụng.",
+      "cardCount": 394,
+      "file": "flashcards/deck-n2-kanji-mazii.json"
+    },
+    {
+      "id": "n2-vocab-mazii",
+      "title": "935 Từ vựng N2 Thường gặp (Mazii)",
+      "type": "vocabulary",
+      "level": "N2",
+      "description": "935 từ vựng N2 xuất hiện nhiều nhất trong đề thi JLPT và đời sống hàng ngày.",
+      "cardCount": 935,
+      "file": "flashcards/deck-n2-vocab-mazii.json"
+    },
+    {
+      "id": "n2-vocab-riki",
+      "title": "342 Từ vựng N2 Taisaku (Riki)",
+      "type": "vocabulary",
+      "level": "N2",
+      "description": "342 từ vựng cấp độ N2 chuyên sâu theo giáo trình luyện đề bám sát kỳ thi Riki.",
+      "cardCount": 342,
+      "file": "flashcards/deck-n2-vocab-riki.json"
+    },
+    {
+      "id": "n2-grammar-core",
+      "title": "Ngữ pháp N2 Trọng điểm (Dokkai & Bunpou)",
+      "type": "grammar",
+      "level": "N2",
+      "description": "Mẫu câu ngữ pháp N2 then chốt, kèm công thức kết hợp, câu ví dụ và âm thanh phát âm.",
+      "cardCount": 12,
+      "file": "flashcards/deck-n2-grammar-core.json"
+    },
+    {
+      "id": "n3-grammar-core",
+      "title": "Ngữ pháp N3 Trọng điểm (Tổng ôn)",
+      "type": "grammar",
+      "level": "N3",
+      "description": "Các mẫu ngữ pháp N3 xuất hiện nhiều nhất trong đề thi và hội thoại thực tế.",
+      "cardCount": 5,
+      "file": "flashcards/deck-n3-grammar-core.json"
+    }
+  ]
+}

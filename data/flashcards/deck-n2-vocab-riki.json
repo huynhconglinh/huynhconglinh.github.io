@@ -1,0 +1,2399 @@
+{
+  "id": "n2-vocab-riki",
+  "cards": [
+    {
+      "id": "rv_1",
+      "term": "整合性",
+      "reading": "せいごうせい",
+      "meaning": "sự toàn vẹn; sự bền chặt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_2",
+      "term": "領域",
+      "reading": "りょういき",
+      "meaning": "lãnh thổ; lĩnh vực; vùng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_3",
+      "term": "珍味",
+      "reading": "ちんみ",
+      "meaning": "đồ ăn ngon; cao lương mỹ vị",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_4",
+      "term": "簡易",
+      "reading": "かんい",
+      "meaning": "giản dị; đơn giản; đơn sơ; giản đơn; dễ dàng; di động; ngắn gọn; vắn tắt; rút gọn; sự giản dị; đơn giản",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_5",
+      "term": "鈍い",
+      "reading": "にぶい のろい おそい",
+      "meaning": "chậm chạp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_6",
+      "term": "薄め",
+      "reading": "うすめ",
+      "meaning": "nhạt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_7",
+      "term": "快晴",
+      "reading": "かいせい",
+      "meaning": "thời tiết đẹp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_8",
+      "term": "挙動",
+      "reading": "きょどう",
+      "meaning": "cử động",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_9",
+      "term": "参照",
+      "reading": "さんしょう",
+      "meaning": "sự tham chiếu; sự tham khảo; tham chiếu; tham khảo",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_10",
+      "term": "気分転換",
+      "reading": "きぶんてんかん",
+      "meaning": "thay đổi không khí; thay đổi tâm trạng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_11",
+      "term": "凍結",
+      "reading": "とうけつ",
+      "meaning": "sự đông cứng; đóng băng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_12",
+      "term": "河川",
+      "reading": "かせん",
+      "meaning": "sông ngòi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_13",
+      "term": "監督",
+      "reading": "かんとく",
+      "meaning": "đạo diễn; huấn luyện viên; người quản đốc; quản đốc; giám đốc; sự chỉ đạo; sự giám sát; chỉ đạo; giám sát",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_14",
+      "term": "紫外線",
+      "reading": "しがいせん",
+      "meaning": "tia tử ngoại; tia uv; tia cực tím",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_15",
+      "term": "拘束",
+      "reading": "こうそく",
+      "meaning": "sự câu thúc; sự ràng buộc; sự bắt ép",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_16",
+      "term": "解放",
+      "reading": "かいほう",
+      "meaning": "giải cấp phát; giải phóng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_17",
+      "term": "抜粋",
+      "reading": "ばっすい",
+      "meaning": "đoạn trích",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_18",
+      "term": "引用",
+      "reading": "いんよう",
+      "meaning": "sự trích dẫn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_19",
+      "term": "トリガー",
+      "reading": "トリガー",
+      "meaning": "cò súng; nút bấm máy ảnh; kích hoạt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_20",
+      "term": "要素",
+      "reading": "ようそ",
+      "meaning": "yếu tố; nhân tố; phần tử",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_21",
+      "term": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "khoảnh khắc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_22",
+      "term": "旧",
+      "reading": "きゅう ふる もと",
+      "meaning": "âm lịch; cũ; cũ kỹ; cổ; cựu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_23",
+      "term": "新規",
+      "reading": "しんき",
+      "meaning": "mới lạ; mới mẻ; sự mới lạ; mới lạ; sự mới mẻ; mới mẻ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_24",
+      "term": "在宅",
+      "reading": "ざいたく",
+      "meaning": "hiện thân bên trong; ở nhà",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_25",
+      "term": "届く",
+      "reading": "とどく",
+      "meaning": "chu đáo; tỉ mỉ; cẩn thận; đạt được; đến; đến nơi; tầm với",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_26",
+      "term": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "xuất khẩu; vận chuyển ra ngoài",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_27",
+      "term": "スクラム",
+      "reading": "スクラム",
+      "meaning": "scrum; scrummage; mô hình phát triển phần mềm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_28",
+      "term": "多分",
+      "reading": "たぶん",
+      "meaning": "đa phần; rất nhiều; rất lớn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_29",
+      "term": "取引先",
+      "reading": "とりひきさき",
+      "meaning": "khách hàng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_30",
+      "term": "早速",
+      "reading": "さそく さっそく",
+      "meaning": "ngay lập tức; không một chút chần chờ; nhanh trí; nhanh nhẹn; linh hoạt; tháo vát; nhạy bén",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_31",
+      "term": "児童",
+      "reading": "じどう",
+      "meaning": "nhi đồng; thiếu nhi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_32",
+      "term": "経緯",
+      "reading": "たてぬき けいい いきさつ たてよこ",
+      "meaning": "nguồn cơn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_33",
+      "term": "お互いに",
+      "reading": "おたがいに",
+      "meaning": "lẫn nhau; từ cả hai phía",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_34",
+      "term": "身につける",
+      "reading": "みにつける",
+      "meaning": "tiếp thu các kiến thức; kỹ năng..; mặc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_35",
+      "term": "取り消す",
+      "reading": "とりけす",
+      "meaning": "xóa bỏ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_36",
+      "term": "滞在",
+      "reading": "たいざい",
+      "meaning": "sự lưu lại; sự tạm trú",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_37",
+      "term": "握る",
+      "reading": "にぎる",
+      "meaning": "bắt; bíu; nắm; túm; tóm vào; cầm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_38",
+      "term": "観察",
+      "reading": "かんさつ",
+      "meaning": "sự quan sát; quan sát; sự theo dõi; theo dõi; sự theo sát; theo sát; sự theo dõi; sự quan sát; sự theo dõi; sự quan sát",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_39",
+      "term": "訳す",
+      "reading": "やくす",
+      "meaning": "dịch",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_40",
+      "term": "横",
+      "reading": "よこ",
+      "meaning": "bề ngang; bên cạnh; chiều ngang",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_41",
+      "term": "薬局",
+      "reading": "やっきょく",
+      "meaning": "tiệm thuốc; dược khoa; khoa bào chế; hiệu thuốc; phòng bào chế; trạm phát thuốc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_42",
+      "term": "預け",
+      "reading": "あずけ",
+      "meaning": "sự trông nom; sự giữ gìn bảo quản",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_43",
+      "term": "計算",
+      "reading": "けいさん",
+      "meaning": "kế; kế toán; sự tính toán; tính toán; thanh toán; tính toán; kế toán; tính toán",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_44",
+      "term": "過去",
+      "reading": "かこ",
+      "meaning": "quá khứ; ; qua; trước",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_45",
+      "term": "呼吸",
+      "reading": "こきゅう",
+      "meaning": "hơi thở; sự hô hấp; sự hít thở; hô hấp; hít thở; hô hấp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_46",
+      "term": "湖",
+      "reading": "こ みずうみ",
+      "meaning": "hồ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_47",
+      "term": "渋滞",
+      "reading": "じゅうたい",
+      "meaning": "sự kẹt xe; sự tắc nghẽn giao thông",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_48",
+      "term": "愛着",
+      "reading": "あいちゃく あいじゃく",
+      "meaning": "yêu tha thiết; sự quyến luyến; sự bịn rịn; quyến luyến; bịn rịn; yêu mến; thân thương; gắn bó",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_49",
+      "term": "和やか",
+      "reading": "にこやか なごやか",
+      "meaning": "sự êm dịu; sự hòa nhã; sự ôn hoà; thân mật; thân thiện; hòa nhã; thư thái; vui vẻ; hòa thuận; ôn hoà",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_50",
+      "term": "プラモデル",
+      "reading": "プラモデル",
+      "meaning": "mô hình nhựa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_51",
+      "term": "繰り返す",
+      "reading": "くりかえす",
+      "meaning": "lặp lại",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_52",
+      "term": "定期的",
+      "reading": "ていきてき",
+      "meaning": "định kỳ; có tính định kỳ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_53",
+      "term": "視聴者",
+      "reading": "しちょうしゃ",
+      "meaning": "khán giả; thính giả; người nghe; người xem",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_54",
+      "term": "名刺",
+      "reading": "めいし",
+      "meaning": "danh thiếp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_55",
+      "term": "交換",
+      "reading": "こうかん",
+      "meaning": "chuyển đổi; giao hoán; sự trao đổi; đổi chác; trao đổi; đổi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_56",
+      "term": "贈り物",
+      "reading": "おくりもの",
+      "meaning": "đồ lễ; món quà; quà tặng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_57",
+      "term": "どころではない",
+      "reading": "どころではない",
+      "meaning": "không phải lúc để.....; nói gì đến chuyện; việc...",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_58",
+      "term": "所ではない",
+      "reading": "どころではない",
+      "meaning": "miệt mài quá hoặc bận rộn để thậm chí nghĩ về ~;~ ra khỏi câu hỏi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_59",
+      "term": "すら",
+      "reading": "すら",
+      "meaning": "thậm chí; ngay cả; lại còn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_60",
+      "term": "さえ",
+      "reading": "さえ",
+      "meaning": "thậm chí; ngay cả; lại còn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_61",
+      "term": "育児休暇",
+      "reading": "いくじきゅうか",
+      "meaning": "nghỉ thai sản; nghỉ giữ trẻ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_62",
+      "term": "先立ち",
+      "reading": "さきだち",
+      "meaning": "trước",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_63",
+      "term": "だらけ",
+      "reading": "だらけ",
+      "meaning": "toàn là; vương đầy; dính đầy; chồng chất",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_64",
+      "term": "にともなって",
+      "reading": "",
+      "meaning": "Cùng với/Vì... nên...",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_65",
+      "term": "直後",
+      "reading": "ちょくご",
+      "meaning": "đi theo ngay sau",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_66",
+      "term": "削除",
+      "reading": "さくじょ",
+      "meaning": "sự gạch bỏ; sự xóa bỏ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_67",
+      "term": "間隔",
+      "reading": "かんかく",
+      "meaning": "cách quãng; khoảng cách; sự gián cách; sự ngăn cách",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_68",
+      "term": "災害",
+      "reading": "さいがい",
+      "meaning": "tai nạn; sóng gió; thảm họa; tai hoạ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_69",
+      "term": "豊か",
+      "reading": "ゆたか",
+      "meaning": "phong phú; dư dả; giàu có; sự phong phú; sự dư dật; sự giàu có",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_70",
+      "term": "徐々",
+      "reading": "じょじょ",
+      "meaning": "dần dần; đều đều; chậm chạp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_71",
+      "term": "郊外",
+      "reading": "こうがい",
+      "meaning": "ngoại ô; ngoại thành",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_72",
+      "term": "都心",
+      "reading": "としん",
+      "meaning": "trung tâm thành phố; trung tâm đô thị",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_73",
+      "term": "大型",
+      "reading": "おおがた",
+      "meaning": "loại lớn; cỡ lớn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_74",
+      "term": "話し合う",
+      "reading": "はなしあう",
+      "meaning": "bàn bạc; bàn luận; thảo luận; trao đổi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_75",
+      "term": "私有地",
+      "reading": "しゆうち",
+      "meaning": "đất thuộc sở hữu cá nhân",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_76",
+      "term": "海中",
+      "reading": "わたなか かいちゅう",
+      "meaning": "trong lòng biển; trên biển",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_77",
+      "term": "出来上がる",
+      "reading": "できあがる",
+      "meaning": "được hoàn thành; làm xong",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_78",
+      "term": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "sự cảm tạ; sự cảm ơn; sự biết ơn; cảm tạ; cảm ơn; lòng biết ơn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_79",
+      "term": "難病",
+      "reading": "なんびょう",
+      "meaning": "bệnh nan y; bệnh khó chữa; bệnh nan y; bệnh khó chữa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_80",
+      "term": "付近",
+      "reading": "ふきん",
+      "meaning": "gần; phụ cận; kế cận",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_81",
+      "term": "工事",
+      "reading": "こうじ",
+      "meaning": "công sự; công trường xây dựng; công trường",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_82",
+      "term": "戦う",
+      "reading": "たたかう",
+      "meaning": "chiến đấu; chọi; đánh nhau; giao chiến; chiến đấu chống lại; tranh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_83",
+      "term": "泥",
+      "reading": "ひじ どろ",
+      "meaning": "bùn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_84",
+      "term": "伴う",
+      "reading": "ともなう",
+      "meaning": "dìu dắt; phát sinh; có; theo; tương xứng; cân bằng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_85",
+      "term": "落つ",
+      "reading": "おつ",
+      "meaning": "rơi xuống; rớt xuống",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_86",
+      "term": "単位",
+      "reading": "たんい",
+      "meaning": "tín chỉ ; học phần; đơn vị",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_87",
+      "term": "落とし主",
+      "reading": "おとしぬし",
+      "meaning": "người mất; chủ nhân vật thất lạc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_88",
+      "term": "充電式",
+      "reading": "じゅうでんしき",
+      "meaning": "có thể sạc lại; điện sạc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_89",
+      "term": "躓く",
+      "reading": "つまづく つまずく",
+      "meaning": "vấp; ngã",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_90",
+      "term": "優れる",
+      "reading": "すぐれる",
+      "meaning": "ưu; ưu việt; xuất sắc; trác việt; tốt; giỏi; 勝れる",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_91",
+      "term": "疾っくに",
+      "reading": "とっくに",
+      "meaning": "thời gian dài trước đây; xa xưa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_92",
+      "term": "迷う",
+      "reading": "まよう",
+      "meaning": "bị lúng túng; không hiểu; lạc đường; mê hoặc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_93",
+      "term": "理系",
+      "reading": "りけい",
+      "meaning": "khoa học tự nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_94",
+      "term": "文系",
+      "reading": "ぶんけい",
+      "meaning": "khoa học xã hội",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_95",
+      "term": "躊躇う",
+      "reading": "ためらう",
+      "meaning": "do dự; chần chừ; lưỡng lự",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_96",
+      "term": "慌ただしい",
+      "reading": "あわただしい",
+      "meaning": "bận rộn; bận tối mắt tối mũi; bận túi bụi; bất ổn; không ổn định; không yên ổn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_97",
+      "term": "迷惑",
+      "reading": "めいわく",
+      "meaning": "phiền; sự phiền hà; sự quấy rầy; sự làm phiền; phiền hà; quấy rầy",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_98",
+      "term": "態と",
+      "reading": "わざと",
+      "meaning": "một cách có mục đích; cố ý; cố tình",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_99",
+      "term": "洗剤",
+      "reading": "せんざい",
+      "meaning": "chất tẩy rửa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_100",
+      "term": "面積",
+      "reading": "めんせき",
+      "meaning": "diện tích",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_101",
+      "term": "ながら",
+      "reading": "ながら",
+      "meaning": "dù; dù cho; mặc dù; vừa làm việc này vừa làm việc khác",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_102",
+      "term": "昔",
+      "reading": "むかし",
+      "meaning": "cổ; đời xưa; hồi xưa; khi xưa; ngày xưa; thuở xưa; xưa; xưa kia",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_103",
+      "term": "遠い",
+      "reading": "とおい",
+      "meaning": "hẻo; viễn; xa lắc; xa xăm; xa; xa xôi; xa xa; không rõ; nghễnh ngãng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_104",
+      "term": "兼ねる",
+      "reading": "かねる",
+      "meaning": "gồm có; gồm; kiêm; kiêm nhiệm; kết hợp; khó; khó có thể; không thể; không thể được; khó khăn; không dám",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_105",
+      "term": "兼ねない",
+      "reading": "かねない",
+      "meaning": "không thể nói không làm; có thể; không đặt nó đã qua anh ấy",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_106",
+      "term": "なら",
+      "reading": "なら",
+      "meaning": "nếu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_107",
+      "term": "がてら",
+      "reading": "がてら",
+      "meaning": "trong cùng một dịp; cùng một lúc; tình cờ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_108",
+      "term": "厄介",
+      "reading": "やっかい",
+      "meaning": "phiền hà; rắc rối; gây lo âu; phụ thuộc; sự phiền hà; sự rắc rối; sự gây lo âu; việc làm gánh nặng; sự phụ thuộc; sự chịu ơn; sự nương tựa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_109",
+      "term": "にも関わらず",
+      "reading": "にもかかわらず",
+      "meaning": "mặc dù; bất kể",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_110",
+      "term": "ともかくも",
+      "reading": "ともかくも",
+      "meaning": "thế nào cũng được; cách nào cũng được; dầu sao chăng nữa; dù thế nào đi nữa; đại khái; qua loa; tuỳ tiện; được chăng hay chớ; cẩu thả; lộn xộn; lung tung",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_111",
+      "term": "のみならず",
+      "reading": "のみならず",
+      "meaning": "không chỉ...mà còn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_112",
+      "term": "予想",
+      "reading": "よそう",
+      "meaning": "sự báo trước; linh cảm; sự dự báo; sự tiên đoán; sự dự đoán",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_113",
+      "term": "大成功",
+      "reading": "だいせいこう",
+      "meaning": "thành công khổng lồ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_114",
+      "term": "宝くじ",
+      "reading": "たからくじ",
+      "meaning": "vé số; xổ số",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_115",
+      "term": "大当たり",
+      "reading": "おおあたり",
+      "meaning": "thành công lớn; trúng cử; trúng tuyển; trúng cuộc; trúng lớn; giải thưởng lớn; mùa màng bội thu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_116",
+      "term": "遠慮なく",
+      "reading": "えんりょなく",
+      "meaning": "không có hạn chế",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_117",
+      "term": "召し上がる",
+      "reading": "めしあがる",
+      "meaning": "ăn; dùng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_118",
+      "term": "どうにか",
+      "reading": "どうにか",
+      "meaning": "bằng cách nào đó; như thế nào đó",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_119",
+      "term": "なんとか",
+      "reading": "なんとか",
+      "meaning": "vì lý do này khác; không biết làm sao; bằng cách này cách khác; thế nào cũng được; cách nào cũng được; dầu sao chăng nữa; dù thế nào đi nữa; đại khái; qua loa; tuỳ tiện; được chăng hay chớ; cẩu thả; lộn xộn; lung tung",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_120",
+      "term": "危険な",
+      "reading": "きけんな",
+      "meaning": "gập gềnh; gian nguy; hiểm hóc; hiểm nghèo; hiểm trở; ngặt nghèo; nguy bách; nguy hiểm; nguy kịch",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_121",
+      "term": "近々",
+      "reading": "きんきん ちかぢか",
+      "meaning": "sự gần kề",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_122",
+      "term": "増す",
+      "reading": "ます",
+      "meaning": "làm tăng lên; làm hơn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_123",
+      "term": "引き受ける",
+      "reading": "ひきうける",
+      "meaning": "đảm nhận; đảm nhiệm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_124",
+      "term": "大分",
+      "reading": "だいぶ おおいた だいぶん",
+      "meaning": "đáng kể; đáng chú ý; nhiều; khá",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_125",
+      "term": "感覚",
+      "reading": "かんかく",
+      "meaning": "cảm giác",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_126",
+      "term": "伺う",
+      "reading": "うかがう",
+      "meaning": "đến thăm; hỏi; hỏi thăm; nghe; thăm hỏi; thăm viếng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_127",
+      "term": "ご無沙汰",
+      "reading": "ごぶさた",
+      "meaning": "không thư từ liên lạc trong một thời gian",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_128",
+      "term": "卑怯",
+      "reading": "ひきょう",
+      "meaning": "bần tiện; hèn nhát; sự bần tiện; sự hèn nhát",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_129",
+      "term": "一段と",
+      "reading": "いちだんと",
+      "meaning": "hơn rất nhiều; hơn một bậc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_130",
+      "term": "益",
+      "reading": "ますます やく えき よう",
+      "meaning": "lợi ích; tác dụng; ngày càng; càng ngày càng; hơn bao giờ hết; thêm nữa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_131",
+      "term": "年寄り",
+      "reading": "としより",
+      "meaning": "người già; trưởng thôn; cố vấn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_132",
+      "term": "作曲家",
+      "reading": "さっきょくか",
+      "meaning": "người sáng tác; nhà soạn nhạc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_133",
+      "term": "腹が立つ",
+      "reading": "はらがたつ",
+      "meaning": "tức giận",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_134",
+      "term": "懸命",
+      "reading": "けんめい",
+      "meaning": "háo hức; hăm hở; thiết tha; sự nỗ lực; sự cố gắng hết mình",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_135",
+      "term": "潰す",
+      "reading": "つぶす",
+      "meaning": "nghiền; làm bẹp; đập bẹp; giết; làm mất; làm mất thể diện; làm mất mặt; bịt; bít; lấp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_136",
+      "term": "事情",
+      "reading": "じじょう",
+      "meaning": "lí do; nguyên cớ; tình hình; sự tình",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_137",
+      "term": "上達",
+      "reading": "じょうたつ",
+      "meaning": "sự tiến bộ; sự tiến triển",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_138",
+      "term": "目指",
+      "reading": "まなざし めざし",
+      "meaning": "tập trung vào; làm lốm đốm; tầm nhìn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_139",
+      "term": "作法",
+      "reading": "さくほう さほう",
+      "meaning": "thái độ; phép xã giao; quy cũ; lễ tiết; lễ phép; cách làm; phương pháp chế tạo; cách sáng tác; phương pháp sáng tác",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_140",
+      "term": "目立つ",
+      "reading": "めだつ",
+      "meaning": "nổi lên; nổi bật",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_141",
+      "term": "話題作",
+      "reading": "わだいさく",
+      "meaning": "tác phẩm nổi tiếng; xôn xao dư luận; bom tấn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_142",
+      "term": "費やす",
+      "reading": "ついやす",
+      "meaning": "dùng; chi dùng; tiêu hao; lãng phí",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_143",
+      "term": "然も",
+      "reading": "しかも さも",
+      "meaning": "hơn nữa; như vậy; như thế; cứ như thể; quả là; trông có vẻ; hết sức; vô cùng; thật sự",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_144",
+      "term": "誰か",
+      "reading": "だれか",
+      "meaning": "ai đó; một ai đó",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_145",
+      "term": "確信",
+      "reading": "かくしん",
+      "meaning": "sự tin tưởng; sự bảo đảm; vững bụng; vững dạ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_146",
+      "term": "独特",
+      "reading": "どくとく",
+      "meaning": "độc đáo; sự độc đáo",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_147",
+      "term": "従って",
+      "reading": "したがって",
+      "meaning": "sở dĩ; vì vậy; do vậy; vì thế; suy ra; cho nên",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_148",
+      "term": "有無",
+      "reading": "ゆうむ うむ",
+      "meaning": "tồn tại hay không tồn tại",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_149",
+      "term": "類推する",
+      "reading": "るいすい",
+      "meaning": "nhận biết sự giống nhau",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_150",
+      "term": "築く",
+      "reading": "つく きずく",
+      "meaning": "xây dựng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_151",
+      "term": "抑える",
+      "reading": "おさえる",
+      "meaning": "kìm nén; kiềm chế; hạn chế; nắm bắt; nắm giữ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_152",
+      "term": "本音",
+      "reading": "ほんね",
+      "meaning": "ý định thực sự; động cơ; thật tâm; thật lòng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_153",
+      "term": "ギクシャク",
+      "reading": "ギクシャク",
+      "meaning": "lúng túng; vất vả; chua chát; sự căng thẳng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_154",
+      "term": "訓読み",
+      "reading": "くんよみ",
+      "meaning": "cách đọc âm hán trong tiếng nhật",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_155",
+      "term": "該当",
+      "reading": "がいとう",
+      "meaning": "sự tương ứng; sự liên quan; sự tương thích",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_156",
+      "term": "更新",
+      "reading": "こうしん",
+      "meaning": "gia hạn; sự đổi mới; sự cập nhật; đổi mới; cập nhật",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_157",
+      "term": "怖い",
+      "reading": "こわい",
+      "meaning": "hãi hùng; sợ; đáng sợ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_158",
+      "term": "コンクール",
+      "reading": "コンクール",
+      "meaning": "công-cua; chuyến lưu diễn hòa nhạc lớn; cuộc thi âm nhạc lớn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_159",
+      "term": "訪ねる",
+      "reading": "たずねる",
+      "meaning": "thăm; ghé thăm; viếng thăm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_160",
+      "term": "に沿って",
+      "reading": "にそって",
+      "meaning": "dọc theo; song song với; phù hợp với",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_161",
+      "term": "に従って",
+      "reading": "にしたがって",
+      "meaning": "theo x; rồi y",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_162",
+      "term": "一晩中",
+      "reading": "ひとばんじゅう",
+      "meaning": "cả đêm; suốt cả đêm; suốt đêm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_163",
+      "term": "費用",
+      "reading": "ひよう",
+      "meaning": "lệ phí; chi phí; phí; tổn phí",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_164",
+      "term": "売上",
+      "reading": "うりあげ",
+      "meaning": "số thu nhập; tiền lời; lãi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_165",
+      "term": "景気",
+      "reading": "けいき",
+      "meaning": "tình hình; tình trạng; tình hình kinh tế; tình hình kinh tế; tình trạng kinh tế",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_166",
+      "term": "台風",
+      "reading": "たいふう",
+      "meaning": "bão bùng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_167",
+      "term": "導入",
+      "reading": "どうにゅう",
+      "meaning": "sự đưa vào ; sự giới thiệu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_168",
+      "term": "主",
+      "reading": "にし おも ぬし しゅ す あるじ しゅう のし",
+      "meaning": "chủ; chúa; địa chủ; ngươi; mày; đằng ấy; chính; chủ yếu; quan trọng; nhân vật chính; vai chính; viết tắt của omo-ado; hậu tố biểu thị sự thân mật hoặc tôn trọng nhẹ; trụ trì; sư trưởng; chủ nhân; lãnh chúa; cấp trên; chủ nhân; người sở hữu; người phụ trách",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_169",
+      "term": "一層",
+      "reading": "いっそう いちそう",
+      "meaning": "hơn nhiều; hơn một tầng; hơn một bậc; sự hơn một bậc; thêm một bậc; tầm cao mới",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_170",
+      "term": "一旦",
+      "reading": "いったん",
+      "meaning": "một khi; tạm; một chút",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_171",
+      "term": "一切",
+      "reading": "いっさい いっせつ",
+      "meaning": "hoàn toàn; toàn bộ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_172",
+      "term": "につき",
+      "reading": "",
+      "meaning": "Vì/Ứng với mỗi/Về",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_173",
+      "term": "にほかならない/からにほかならない",
+      "reading": "",
+      "meaning": "Chính là/Chính là vì",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_174",
+      "term": "下らない",
+      "reading": "くだらない",
+      "meaning": "vô nghĩa; tầm phào; vô vị",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_175",
+      "term": "尖る",
+      "reading": "とがる とんがる",
+      "meaning": "nhọn sắc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_176",
+      "term": "一転",
+      "reading": "いってん",
+      "meaning": "một sự quay; đầy đủ thay đổi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_177",
+      "term": "書籍",
+      "reading": "しょじゃく しょせき",
+      "meaning": "sách vở; thư tịch; cuốn sách; sách; tài liệu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_178",
+      "term": "油断",
+      "reading": "ゆだん",
+      "meaning": "sự cẩu thả; sự lơ đễnh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_179",
+      "term": "すぐに",
+      "reading": "すぐに",
+      "meaning": "ngay khi; ngay lập tức; tức thì; trực tiếp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_180",
+      "term": "忽ち",
+      "reading": "たちまち",
+      "meaning": "ngay lập tức; đột nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_181",
+      "term": "物体ない",
+      "reading": "もったいない",
+      "meaning": "lãng phí; hoang phí; tốn phí; phạm thần; phạm thánh; báng bổ; xúc phạm vật thánh; ăn trộm đồ thờ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_182",
+      "term": "面倒くさい",
+      "reading": "めんどくさい めんどうくさい",
+      "meaning": "phiền hà; rắc rối",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_183",
+      "term": "惜しい",
+      "reading": "おしい",
+      "meaning": "quý giá; yêu quý; quý trọng; tiếc; thương tiếc; đáng tiếc; lãng phí",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_184",
+      "term": "俯向く",
+      "reading": "うつむく",
+      "meaning": "cúi đầu nhìn xuống",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_185",
+      "term": "身近",
+      "reading": "みぢか",
+      "meaning": "sự thân cận; thân cận",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_186",
+      "term": "重大",
+      "reading": "じゅうだい",
+      "meaning": "sự trọng đại; sự quan trọng; trọng đại; quan trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_187",
+      "term": "深刻",
+      "reading": "しんこく",
+      "meaning": "sự nghiêm trọng; nghiêm trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_188",
+      "term": "仕上げる",
+      "reading": "しあげる",
+      "meaning": "đánh bóng; hoàn thiện; hoàn thành",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_189",
+      "term": "人々",
+      "reading": "ひとびと にんにん ひとひと",
+      "meaning": "con nhỏ; mỗi người; mọi người; con người",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_190",
+      "term": "各自",
+      "reading": "かくじ",
+      "meaning": "mỗi; mỗi cái riêng rẽ; riêng; mỗi cá nhân",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_191",
+      "term": "苦情",
+      "reading": "くじょう",
+      "meaning": "sự than phiền; lời than phiền",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_192",
+      "term": "文句",
+      "reading": "もんく",
+      "meaning": "sự kêu ca; sự phàn nàn; sự than phiền",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_193",
+      "term": "不平",
+      "reading": "ふへい",
+      "meaning": "bất bình; không thỏa mãn; sự bất bình; sự không thỏa mãn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_194",
+      "term": "仕舞う",
+      "reading": "しまう じまう",
+      "meaning": "cất đi; đưa vào",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_195",
+      "term": "収納",
+      "reading": "しゅうのう",
+      "meaning": "thu hoạch; thu nạp; thu dọn; tủ đựng; hộp đựng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_196",
+      "term": "偉ぶる",
+      "reading": "えらぶる",
+      "meaning": "vênh vang",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_197",
+      "term": "威張る",
+      "reading": "いばる えばる",
+      "meaning": "kiêu ngạo; kiêu hãnh; kiêu căng; hợm hĩnh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_198",
+      "term": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "cách cư xử",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_199",
+      "term": "大体",
+      "reading": "だいたい",
+      "meaning": "cái đại thể; sự vạch ra những đường nét chính; sự phác thảo; cỡ chừng; đại khái; độ chừng; ước chừng; ước độ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_200",
+      "term": "凡そ",
+      "reading": "およそ おおよそ",
+      "meaning": "đại khái; ước độ; nhìn chung là; chung chung; khoảng; sự tóm tắt; sự đại khái",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_201",
+      "term": "仕種",
+      "reading": "しぐさ",
+      "meaning": "hành vi; ra hiệu; hành động",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_202",
+      "term": "仕草",
+      "reading": "しぐさ 仕種",
+      "meaning": "hoạt động; hành động; ra hiệu; chịu; sự nghiên cứu; hành vi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_203",
+      "term": "段々",
+      "reading": "だんだん ぎざぎざ",
+      "meaning": "dần dần; lởm chởm; có hình răng cưa; khía; ngoằn ngoèo; zích zắc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_204",
+      "term": "次第に",
+      "reading": "しだいに",
+      "meaning": "dần dần; từ từ; từng bước một",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_205",
+      "term": "期限切れ",
+      "reading": "きげんぎれ きげんきれ",
+      "meaning": "hết hạn sử dụng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_206",
+      "term": "変換",
+      "reading": "へんかん",
+      "meaning": "sự biến đổi; sự hoán chuyển; sự nghịch đảo",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_207",
+      "term": "うとうと",
+      "reading": "うとうと",
+      "meaning": "lơ mơ; mơ màng; gà gật; ngủ gà ngủ gật; ngủ gật; sự lơ mơ; sự mơ màng; sự ngủ gật",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_208",
+      "term": "ぐうぐう",
+      "reading": "ぐうぐう",
+      "meaning": "chỉ trạng thái ngủ rất sâu; rất say",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_209",
+      "term": "すやすや",
+      "reading": "すやすや",
+      "meaning": "ngủ yên; ngủ ngon",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_210",
+      "term": "ぐっすり",
+      "reading": "ぐっすり",
+      "meaning": "trạng thái ngủ say; ngủ ngon",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_211",
+      "term": "有効",
+      "reading": "ゆうこう",
+      "meaning": "hữu hiệu; có hiệu quả; sự hữu hiệu; sự có hiệu quả",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_212",
+      "term": "思い込み",
+      "reading": "おもいこみ",
+      "meaning": "ấn tượng sai",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_213",
+      "term": "編集",
+      "reading": "へんしゅう",
+      "meaning": "sự biên tập",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_214",
+      "term": "閲覧",
+      "reading": "えつらん",
+      "meaning": "sự đọc; sự duyệt lãm; xem",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_215",
+      "term": "図鑑",
+      "reading": "ずかん",
+      "meaning": "từ điển bằng hình ảnh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_216",
+      "term": "こだわる",
+      "reading": "こだわる",
+      "meaning": "suy nghĩ nhiều; để ý chi tiết; kĩ càng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_217",
+      "term": "必ずしも",
+      "reading": "かならずしも",
+      "meaning": "không nhất định; vị tất; chưa hẳn thế",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_218",
+      "term": "働く",
+      "reading": "はたらく",
+      "meaning": "làm lụng; lao động; hoạt động; phạm ; làm việc; làm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_219",
+      "term": "署名する",
+      "reading": "しょめいする",
+      "meaning": "ký",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_220",
+      "term": "ガラス",
+      "reading": "ガラス",
+      "meaning": "kính; kính; tấm kính; cái cốc thủy tinh; thủy tinh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_221",
+      "term": "エプロン",
+      "reading": "エプロン",
+      "meaning": "cái tạp dề; tạp dề",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_222",
+      "term": "束ねる",
+      "reading": "たばねる つかねる",
+      "meaning": "buộc thành bó; bó lại; cai trị; điều hành; quản lý; khoanh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_223",
+      "term": "詰まる",
+      "reading": "つまる",
+      "meaning": "lấp đầy; chất đầy; tắc; nghẹt; bị rút ngắn lại; bị co lại; bức bối; bế tắc",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_224",
+      "term": "克服",
+      "reading": "こくふく",
+      "meaning": "sự khắc phục; sự chinh phục; khắc phục; chinh phục",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_225",
+      "term": "潰れる",
+      "reading": "つぶれる",
+      "meaning": "bị nghiền nát; bị tàn phá; bị huỷ; bị phá sản; sụp; sập; tốn thời gian",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_226",
+      "term": "きょろきょろ",
+      "reading": "きょろきょろ",
+      "meaning": "đứng ngồi không yên; đi đi lại lại; bồn chồn; sự bồn chồn; sự đứng ngồi không yên; bồn chồn; nóng ruột; đứng ngồi không yên",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_227",
+      "term": "くよくよ",
+      "reading": "くよくよ",
+      "meaning": "lo lắng; không yên tâm; bồn chồn; sự lo lắng; sự không yên tâm; sự bồn chồn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_228",
+      "term": "接する",
+      "reading": "せっする",
+      "meaning": "nhận; tiếp nhận; tiếp đãi; tiếp giáp; tiếp xúc; giao tiếp; tiếp xúc; tiếp xúc với",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_229",
+      "term": "心強い",
+      "reading": "こころづよい",
+      "meaning": "yên tâm; vững lòng; lý trí; khó bị cảm xúc chi phối; kiên định; kiên cường",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_230",
+      "term": "快い",
+      "reading": "こころよい",
+      "meaning": "dễ chịu; vui lòng; thoải mái; ngon",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_231",
+      "term": "無断",
+      "reading": "むだん",
+      "meaning": "việc không có sự cho phép; việc không có sự báo trước; việc không được phép",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_232",
+      "term": "やる気",
+      "reading": "やるき",
+      "meaning": "động lực; hứng thú",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_233",
+      "term": "張り切る",
+      "reading": "はりきる",
+      "meaning": "đầy sinh khí; hăng hái",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_234",
+      "term": "はっきり",
+      "reading": "はっきり",
+      "meaning": "rõ; rõ ràng; rõ ràng; rành rọt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_235",
+      "term": "誤り",
+      "reading": "あやまり",
+      "meaning": "lỗi lầm; nhầm; nhầm lẫn; lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_236",
+      "term": "謝る",
+      "reading": "あやまる",
+      "meaning": "xin lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_237",
+      "term": "お詫び",
+      "reading": "おわび",
+      "meaning": "lời xin lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_238",
+      "term": "はらはら",
+      "reading": "はらはら",
+      "meaning": "áy náy. lo lắng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_239",
+      "term": "ぶらぶら",
+      "reading": "ぶらぶら",
+      "meaning": "đung đưa; đong đưa; nặng trĩu; quanh quẩn không làm gì; thất nghiệp; ngồi không",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_240",
+      "term": "すらすら",
+      "reading": "すらすら",
+      "meaning": "trơn tru; trôi chảy",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_241",
+      "term": "果たして",
+      "reading": "はたして",
+      "meaning": "quả nhiên; quả thật",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_242",
+      "term": "徐々に",
+      "reading": "じょじょに",
+      "meaning": "chầm chậm; thong thả từng chút một",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_243",
+      "term": "不良",
+      "reading": "ふりょう",
+      "meaning": "bất hảo; không tốt; lưu manh; bất lương; không tốt; không đạt; phẩm chất không tốt; lưu manh; bất lương",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_244",
+      "term": "探索",
+      "reading": "たんさく",
+      "meaning": "sự tìm kiếm; sự điều tra",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_245",
+      "term": "経路",
+      "reading": "けいろ",
+      "meaning": "đường đi; kênh ; đường",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_246",
+      "term": "重ねて",
+      "reading": "かさねて",
+      "meaning": "lặp đi lặp lại nhiều lần; chồng lên nhau",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_247",
+      "term": "迫る",
+      "reading": "せる せまる",
+      "meaning": "cưỡng bức; giục; thúc giục; gấp gáp; cấp bách; bí bách; tiến sát; áp sát; đến gần; tiếp cận; bám sát nút",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_248",
+      "term": "寄る",
+      "reading": "よる よそる",
+      "meaning": "tụ tập; gặp gỡ; chồng chất; xích lại gần; dựa vào; ghé qua; đẩy đối thủ vào vị trí đã sắp xếp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_249",
+      "term": "土台",
+      "reading": "どだい",
+      "meaning": "nền tảng; cơ sở; nền; móng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_250",
+      "term": "抜く",
+      "reading": "ぬく",
+      "meaning": "bạt; bứt; chọn trích; công phá; đoạt lấy; đến cùng; lược bớt; giảm bớt; bỏ bớt; nhổ; rút; tháo; vượt qua; đuổi kịp; xóa bỏ; xuyên qua; vượt quá mốc giá; mức giá",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_251",
+      "term": "過ごす",
+      "reading": "すごす",
+      "meaning": "trải qua; sống",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_252",
+      "term": "街",
+      "reading": "まち がい",
+      "meaning": "phố phường; phố xá; phố; thị trấn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_253",
+      "term": "真冬",
+      "reading": "まふゆ",
+      "meaning": "giữa mùa đông",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_254",
+      "term": "賢明",
+      "reading": "けんめい",
+      "meaning": "khôn ngoan; khéo léo; thông minh; hiền minh; sáng suốt; cao tay; khôn ngoan; thông minh; sự sáng suốt; sự khôn ngoan; sự khôn khéo; sự khéo léo; sáng suốt; khôn khéo; khôn ngoan; khéo léo",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_255",
+      "term": "家庭菜園",
+      "reading": "かていさいえん",
+      "meaning": "vườn rau",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_256",
+      "term": "クリア",
+      "reading": "クリア",
+      "meaning": "rõ ràng; hoàn toàn; thông thoáng; trong sạch; làm sạch",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_257",
+      "term": "様子",
+      "reading": "ようす",
+      "meaning": "bộ dáng; bộ dạng; bộ tịch; dáng; hình bóng; thái độ; 態度; trạng thái; 状態; vẻ bề ngoài; phong thái; dáng vẻ; 外見",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_258",
+      "term": "不正",
+      "reading": "ふせい",
+      "meaning": "bất chánh; việc làm bất chính; việc xấu; việc phi pháp; bất chính; xấu; không chính đáng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_259",
+      "term": "関与",
+      "reading": "かんよ",
+      "meaning": "sự tham dự; tham dự; sự tham gia; sự liên quan; liên quan",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_260",
+      "term": "取引",
+      "reading": "とりひき",
+      "meaning": "sự giao dịch; sự mua bán",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_261",
+      "term": "役員",
+      "reading": "やくいん",
+      "meaning": "viên chức; cán bộ ; ủy viên ban chấp hành; ủy viên ban quản trị",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_262",
+      "term": "誓う",
+      "reading": "ちかう うけう",
+      "meaning": "thề; thệ; thề nguyền",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_263",
+      "term": "仮採用",
+      "reading": "かりさいよう",
+      "meaning": "sự tuyển dụng tạm; tuyển dụng tập sự; sự chỉ định tạm thời",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_264",
+      "term": "異業種",
+      "reading": "いぎょうしゅ",
+      "meaning": "ngành nghề khác nhau",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_265",
+      "term": "すっかり",
+      "reading": "すっかり",
+      "meaning": "hoàn toàn; toàn bộ; hết cả",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_266",
+      "term": "研修",
+      "reading": "けんしゅう",
+      "meaning": "đào tạo; huấn luyện",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_267",
+      "term": "たっぷり",
+      "reading": "たっぷり",
+      "meaning": "đầy ắp; ăm ắp; đầy tràn; đầy đủ; đầy; sự đầy ắp; sự ăm ắp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_268",
+      "term": "段階",
+      "reading": "きだはし だんかい きざはし",
+      "meaning": "bậc; bực; bực thềm; bước; pha; giai đoạn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_269",
+      "term": "怒り",
+      "reading": "おこり いかり",
+      "meaning": "căm; phẫn nộ; tức giận; sự phẫn nộ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_270",
+      "term": "反対",
+      "reading": "はんたい",
+      "meaning": "đối; mặt đối diện; mặt bên; ngược lại",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_271",
+      "term": "抗議",
+      "reading": "こうぎ",
+      "meaning": "sự kháng nghị; sự phản đối; sự phàn nàn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_272",
+      "term": "生命",
+      "reading": "せいめい",
+      "meaning": "bản mạng; bản mệnh; sinh mạng; sinh mệnh; tính mạng; sự sống",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_273",
+      "term": "何しろ",
+      "reading": "なにしろ",
+      "meaning": "dù thế nào đi nữa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_274",
+      "term": "総務課",
+      "reading": "そうむか",
+      "meaning": "mục những quan hệ chung",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_275",
+      "term": "廊下",
+      "reading": "ろうか",
+      "meaning": "hành lang; khe núi; hẻm núi hẹp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_276",
+      "term": "奪う",
+      "reading": "うばう",
+      "meaning": "cướp; cướp đi; đoạt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_277",
+      "term": "避難訓練",
+      "reading": "ひなんくんれん",
+      "meaning": "cuộc huấn luyện tránh nạn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_278",
+      "term": "慌てる",
+      "reading": "あわてる",
+      "meaning": "trở nên lộn xộn; vội vàng; luống cuống; bối rối",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_279",
+      "term": "人工的",
+      "reading": "じんこうてき",
+      "meaning": "nhân tạo; khác thường",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_280",
+      "term": "候補",
+      "reading": "こうほ",
+      "meaning": "dự khuyết; sự ứng cử; ứng cử",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_281",
+      "term": "権限",
+      "reading": "けんげん",
+      "meaning": "căn nguyên; quyền hạn; thẩm quyền; quyền",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_282",
+      "term": "椅子",
+      "reading": "いす いし",
+      "meaning": "ghế; cái ghế; ghế",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_283",
+      "term": "長所",
+      "reading": "ちょうしょ ながところ ながどころ",
+      "meaning": "sở trường; điểm mạnh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_284",
+      "term": "魅力",
+      "reading": "みりょく",
+      "meaning": "ma lực; quyến rũ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_285",
+      "term": "通常",
+      "reading": "つうじょう",
+      "meaning": "bình thường; luân thường; thông lệ; thông thường; thường thường; thường; 通常` in vietnamese is `thông thường`",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_286",
+      "term": "英雄",
+      "reading": "えいゆう ひでお",
+      "meaning": "anh hùng; hào hùng; tuấn kiệt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_287",
+      "term": "麻酔",
+      "reading": "ますい",
+      "meaning": "thuốc mê; trạng thái mất cảm giác; sự mê; sự tê; gây mê",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_288",
+      "term": "読者",
+      "reading": "どくしゃ",
+      "meaning": "bạn đọc; độc giả",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_289",
+      "term": "懐疑",
+      "reading": "かいぎ",
+      "meaning": "hoài nghi; nghi ngờ; nghi vấn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_290",
+      "term": "言葉",
+      "reading": "けとば ことば",
+      "meaning": "câu nói; ngôn ngữ; tiếng nói; lời ăn tiếng nói; từ ngữ; lời nói; lời",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_291",
+      "term": "大枠",
+      "reading": "おおわく",
+      "meaning": "đại khái; tổng quan",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_292",
+      "term": "助かる",
+      "reading": "たすかる",
+      "meaning": "được cứu sống; được giúp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_293",
+      "term": "見積",
+      "reading": "みつもり",
+      "meaning": "báo giá",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_294",
+      "term": "適応",
+      "reading": "てきおう",
+      "meaning": "sự thích ứng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_295",
+      "term": "耕す",
+      "reading": "たがやす",
+      "meaning": "canh tác; cày bừa; cày cấy",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_296",
+      "term": "総会",
+      "reading": "そうかい",
+      "meaning": "cuộc tổng hội họp; đại hội cổ đông; đại hội đồng; tổng hội",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_297",
+      "term": "協力",
+      "reading": "きょうりょく",
+      "meaning": "chung sức; sự hợp tác; hợp tác; sự hiệp lực; hiệp lực",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_298",
+      "term": "拝む",
+      "reading": "おがむ",
+      "meaning": "chắp tay; mong cầu; cầu mong; chiêm ngưỡng; cúi lạy; cúi đầu lạy; khấu đầu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_299",
+      "term": "測定",
+      "reading": "そくてい",
+      "meaning": "việc đo đạc có sử dụng máy móc; thiết bị; đo lường",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_300",
+      "term": "検温",
+      "reading": "けんおん",
+      "meaning": "sự đo thân nhiệt; sự kiểm tra thân nhiệt",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_301",
+      "term": "高血圧",
+      "reading": "こうけつあつ",
+      "meaning": "bệnh huyết áp cao; cao huyết áp; huyết áp cao; tăng huyết áp; lên tăng-xông; cao huyết áp",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_302",
+      "term": "食費",
+      "reading": "しょくひ",
+      "meaning": "tiền cơm tháng; tiền ăn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_303",
+      "term": "都会",
+      "reading": "とかい",
+      "meaning": "đô hội; đô thị; thành; thành thị; thành phố",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_304",
+      "term": "未経験",
+      "reading": "みけいけん",
+      "meaning": "chưa có kinh nghiệm; chưa từng làm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_305",
+      "term": "意義深い",
+      "reading": "いぎふかい いぎぶかい",
+      "meaning": "đầy đủ ý nghĩa; có ý nghĩa; ý nghĩa sâu sắc; quan trọng; đáng kể",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_306",
+      "term": "現時点",
+      "reading": "げんじてん",
+      "meaning": "hiện hữu chỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_307",
+      "term": "親近感",
+      "reading": "しんきんかん",
+      "meaning": "cảm giác thân thuộc; cảm giác gần gũi",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_308",
+      "term": "光熱費",
+      "reading": "こうねつひ",
+      "meaning": "tiền điện và nhiên liệu; chi phí cho điện chiếu sáng và nhiên liệu; chi phí điện năng và nhiên liệu; chi phí tiền điện và nhiên liệu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_309",
+      "term": "育ち",
+      "reading": "そだち",
+      "meaning": "sự lớn lên; sự phát triển",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_310",
+      "term": "虫",
+      "reading": "むし",
+      "meaning": "con sâu; côn trùng; sâu; sâu bọ; trùng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_311",
+      "term": "署名",
+      "reading": "しょめい",
+      "meaning": "bí danh; chữ ký; đề tên",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_312",
+      "term": "判定",
+      "reading": "はんてい",
+      "meaning": "sự phán đoán; sự phân định",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_313",
+      "term": "覚える",
+      "reading": "おぼえる",
+      "meaning": "cảm thấy; học; học thuộc; nhớ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_314",
+      "term": "肯定",
+      "reading": "こうてい",
+      "meaning": "sự khẳng định",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_315",
+      "term": "塾",
+      "reading": "じゅく",
+      "meaning": "lớp học thêm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_316",
+      "term": "楽",
+      "reading": "がく らく",
+      "meaning": "thoải mái; dễ chịu",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_317",
+      "term": "交流",
+      "reading": "こうりゅう",
+      "meaning": "sự giao lưu; giao lưu; dòng điện xoay chiều",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_318",
+      "term": "簡単",
+      "reading": "かんたん",
+      "meaning": "đơn giản; dễ dàng; dễ",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_319",
+      "term": "世界中",
+      "reading": "せかいちゅう せかいじゅう",
+      "meaning": "khắp thế giới",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_320",
+      "term": "開く",
+      "reading": "ひらく あく",
+      "meaning": "mở; mở cửa",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_321",
+      "term": "大勢",
+      "reading": "たいせい たいぜい おおぜい",
+      "meaning": "đại chúng; phần lớn mọi người; đám đông; nhiều người",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_322",
+      "term": "降り",
+      "reading": "くだり おり ぶり ふり",
+      "meaning": "sự rơi xuống; việc xuống",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_323",
+      "term": "終点",
+      "reading": "しゅうてん",
+      "meaning": "trạm cuối cùng; ga cuối cùng; điểm cuối cùng; bến cuối cùng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_324",
+      "term": "忘れがたい",
+      "reading": "わすれがたい",
+      "meaning": "khó quên",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_325",
+      "term": "思い出",
+      "reading": "おもいで",
+      "meaning": "sự hồi tưởng; hồi ức; sự nhớ lại; kỷ niệm; ký ức",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_326",
+      "term": "夜型",
+      "reading": "よるがた",
+      "meaning": "về đêm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_327",
+      "term": "非表示",
+      "reading": "ひひょうじ",
+      "meaning": "to hide; không hiển thị; ẩn",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_328",
+      "term": "可決",
+      "reading": "かけつ",
+      "meaning": "sự chấp nhận; sự phê chuẩn; sự tán thành",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_329",
+      "term": "否決",
+      "reading": "ひけつ",
+      "meaning": "sự phủ quyết",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_330",
+      "term": "従業員",
+      "reading": "じゅうぎょういん",
+      "meaning": "nhân viên; công nhân; người làm thuê",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_331",
+      "term": "常識",
+      "reading": "じょうしき",
+      "meaning": "kiến thức thông thường; sự bình thường; thường thức",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_332",
+      "term": "返済",
+      "reading": "へんさい",
+      "meaning": "hoàn trả; việc trả; việc thanh toán hết",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_333",
+      "term": "比較",
+      "reading": "ひかく",
+      "meaning": "sự so sánh",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_334",
+      "term": "立場",
+      "reading": "たちば たてば",
+      "meaning": "lập trường",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_335",
+      "term": "素顔",
+      "reading": "そがん すがお",
+      "meaning": "khuôn mặt tự nhiên; khuôn mặt không trang điểm",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_336",
+      "term": "単身",
+      "reading": "たんしん",
+      "meaning": "một mình; tự lực; ra khỏi từ nhà",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_337",
+      "term": "町内",
+      "reading": "ちょうない まちうち",
+      "meaning": "trong phố; trong khu vực; trong vùng",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_338",
+      "term": "不愉快",
+      "reading": "ふゆかい",
+      "meaning": "không khoan khoái; không thích thú\nsự không khoan khoái; sự không thích thú.",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_339",
+      "term": "察",
+      "reading": "",
+      "meaning": "SÁT",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_340",
+      "term": "祭",
+      "reading": "",
+      "meaning": "TẾ, SÁI",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_341",
+      "term": "偏",
+      "reading": "",
+      "meaning": "THIÊN",
+      "hanviet": ""
+    },
+    {
+      "id": "rv_342",
+      "term": "編",
+      "reading": "",
+      "meaning": "BIÊN",
+      "hanviet": ""
+    }
+  ]
+}

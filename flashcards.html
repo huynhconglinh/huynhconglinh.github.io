@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flashcard Học Từ Vựng & Ngữ Pháp | NihongoShiken</title>
+  <meta name="description" content="Ôn luyện từ vựng, Hán tự và ngữ pháp tiếng Nhật JLPT qua thẻ Flashcard 3D thông minh, phát âm tiếng Nhật và lặp lại ngắt quãng (SRS).">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230f766e'/%3E%3Ctext x='32' y='42' text-anchor='middle' fill='white' font-size='20' font-family='Segoe UI,sans-serif' font-weight='700'%3EN3%3C/text%3E%3C/svg%3E">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/styles.css?v=20261010_01">
+  <link rel="stylesheet" href="css/flashcards.css?v=20261010_01">
+</head>
+<body>
+  <div class="app fc-app">
+
+    <!-- ======================================================== -->
+    <!-- SITE HEADER -->
+    <!-- ======================================================== -->
+    <header class="site-header">
+      <div class="brand" id="brand" onclick="location.href='index.html'" title="Về trang chủ đề thi">
+        <h1>Nihongo<span>Shiken</span></h1>
+      </div>
+
+      <nav class="top-nav" id="top-nav" aria-label="Điều hướng Flashcard">
+        <div class="header-tools">
+          <a href="index.html" class="nav-trigger" style="text-decoration:none;">← Luyện đề JLPT</a>
+          <button type="button" class="nav-link-flashcard" style="cursor:default;">🎴 Flashcard</button>
+
+          <div class="nav-group nav-group-tools" id="progress-menu-group">
+            <button type="button" class="nav-trigger" id="btn-progress-trigger">Tiến độ</button>
+            <div class="nav-list nav-list-tools">
+              <button type="button" class="nav-link nav-link-tool" id="btn-export-progress">
+                <span class="nav-link-title">💾 Xuất sao lưu</span>
+              </button>
+              <button type="button" class="nav-link nav-link-tool" id="btn-import-progress">
+                <span class="nav-link-title">📥 Nhập tiến độ</span>
+              </button>
+            </div>
+          </div>
+          <input type="file" id="progress-import-file" accept="application/json,.json" hidden>
+        </div>
+      </nav>
+    </header>
+
+    <!-- ======================================================== -->
+    <!-- HERO BANNER -->
+    <!-- ======================================================== -->
+    <section class="fc-hero">
+      <div class="fc-hero-text">
+        <div class="fc-hero-badge">🎴 Flashcard Tương Tác 3D</div>
+        <h2 class="fc-hero-title">Ôn luyện Từ vựng & Ngữ pháp JLPT</h2>
+        <p class="fc-hero-desc">
+          Học tập chủ động qua thẻ 3D lật 2 chiều, phát âm tiếng Nhật giọng chuẩn, tích hợp thuật ngữ ngữ pháp và câu ví dụ sinh động.
+        </p>
+      </div>
+
+      <div class="fc-stats-widget">
+        <div class="fc-stat-col ok">
+          <div class="fc-stat-num" id="stat-mastered">0</div>
+          <div class="fc-stat-label">Đã thuộc</div>
+        </div>
+        <div class="fc-stat-divider"></div>
+        <div class="fc-stat-col warn">
+          <div class="fc-stat-num" id="stat-learning">0</div>
+          <div class="fc-stat-label">Cần ôn</div>
+        </div>
+        <div class="fc-stat-divider"></div>
+        <div class="fc-stat-col info">
+          <div class="fc-stat-num" id="stat-total-learned">0</div>
+          <div class="fc-stat-label">Đã học</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================== -->
+    <!-- TOOLBAR: SEARCH & FILTERS -->
+    <!-- ======================================================== -->
+    <section class="fc-toolbar">
+      <div class="fc-search-wrap">
+        <span class="fc-search-icon">🔍</span>
+        <input 
+          type="text" 
+          id="search-input" 
+          class="fc-search-input" 
+          placeholder="Tìm bộ thẻ, cấp độ (N2, N3)..."
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="fc-filters">
+        <!-- Level Filter -->
+        <div class="fc-pill-group">
+          <button type="button" class="fc-pill-btn filter-btn-level active" data-level="all">Tất cả cấp độ</button>
+          <button type="button" class="fc-pill-btn filter-btn-level" data-level="N2">N2</button>
+          <button type="button" class="fc-pill-btn filter-btn-level" data-level="N3">N3</button>
+        </div>
+
+        <!-- Type Filter -->
+        <div class="fc-pill-group">
+          <button type="button" class="fc-pill-btn filter-btn-type active" data-type="all">Tất cả loại</button>
+          <button type="button" class="fc-pill-btn filter-btn-type" data-type="vocabulary">🔤 Từ vựng</button>
+          <button type="button" class="fc-pill-btn filter-btn-type" data-type="kanji">⛩️ Hán tự</button>
+          <button type="button" class="fc-pill-btn filter-btn-type" data-type="grammar">📌 Ngữ pháp</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================== -->
+    <!-- DECKS LIST -->
+    <!-- ======================================================== -->
+    <div class="fc-section-head">
+      <span>Danh Sách Bộ Thẻ (<span id="visible-count">0</span>)</span>
+      <span style="font-weight: normal; text-transform: none;">Tiến độ lưu cục bộ trên máy của bạn</span>
+    </div>
+
+    <div class="fc-grid" id="decks-container">
+      <!-- Injected by js/flashcards.js -->
+    </div>
+
+    <!-- Empty State -->
+    <div class="fc-empty-box" id="empty-state" style="display: none;">
+      <div class="fc-empty-icon">🔍</div>
+      <h3 class="fc-empty-title">Không tìm thấy bộ thẻ nào</h3>
+      <p class="fc-empty-desc">Vui lòng thay đổi từ khóa hoặc bỏ lọc cấp độ / loại thẻ.</p>
+      <button type="button" class="fc-btn-study" id="btn-reset-filters" style="display:inline-flex; width:auto; margin:0 auto;">
+        Xem tất cả bộ thẻ
+      </button>
+    </div>
+
+  </div>
+
+  <!-- ======================================================== -->
+  <!-- MODAL: INTERACTIVE FLASHCARD STUDY PLAYER -->
+  <!-- ======================================================== -->
+  <div class="fc-modal-overlay hidden" id="study-modal">
+    <div class="fc-player-modal">
+      
+      <!-- Player Header -->
+      <div class="fc-player-head">
+        <div class="fc-player-info">
+          <span class="fc-badge" id="player-badge"></span>
+          <div class="fc-player-titles">
+            <h3 id="player-deck-title">Đang tải...</h3>
+            <div class="fc-player-sub" id="player-counter">Thẻ 1 / 10</div>
+          </div>
+        </div>
+
+        <div class="fc-player-tools">
+          <!-- Direction toggle -->
+          <button type="button" class="fc-btn-tool" id="btn-toggle-direction" title="Đổi mặt câu hỏi">
+            ⇄ <span id="label-direction">Nhật ➔ Việt</span>
+          </button>
+
+          <!-- Help Shortcuts Button & Popover -->
+          <div style="position: relative;">
+            <button type="button" class="fc-btn-tool icon-only" id="btn-help-shortcuts" title="Xem phím tắt">?</button>
+            <div class="fc-popover hidden" id="help-popover">
+              <div class="fc-popover-head">
+                <span>💡 Phím tắt học thẻ</span>
+                <button type="button" class="fc-btn-close" id="btn-close-help" style="padding:0; font-size:1rem;">&times;</button>
+              </div>
+              <div class="fc-popover-row">
+                <span>Lật mặt thẻ:</span>
+                <span class="fc-kbd">Space / Click</span>
+              </div>
+              <div class="fc-popover-row">
+                <span>Thẻ trước / sau:</span>
+                <span class="fc-kbd">← / →</span>
+              </div>
+              <div style="border-top:1px solid #f1f5f9; padding-top:6px; display:flex; flex-direction:column; gap:6px;">
+                <div style="font-size:0.68rem; font-weight:700; color:#94a3b8; text-transform:uppercase;">Đánh giá nhớ:</div>
+                <div class="fc-popover-row">
+                  <span>🔴 Chưa thuộc:</span>
+                  <span class="fc-kbd">Phím 1</span>
+                </div>
+                <div class="fc-popover-row">
+                  <span>🟡 Chưa chắc:</span>
+                  <span class="fc-kbd">Phím 2</span>
+                </div>
+                <div class="fc-popover-row">
+                  <span>🟢 Đã thuộc:</span>
+                  <span class="fc-kbd">Phím 3</span>
+                </div>
+              </div>
+              <div class="fc-popover-row" style="border-top:1px solid #f1f5f9; padding-top:6px;">
+                <span>Thoát:</span>
+                <span class="fc-kbd">Esc</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Close button -->
+          <button type="button" class="fc-btn-close" id="btn-close-player" title="Đóng">&times;</button>
+        </div>
+      </div>
+
+      <!-- Slim Progress Bar -->
+      <div class="fc-player-bar-wrap">
+        <div class="fc-player-bar" id="player-progress-bar" style="width: 10%;"></div>
+      </div>
+
+      <!-- Player Stage -->
+      <div class="fc-player-stage">
+        
+        <!-- Center Stage: [ < ] [ 3D Flashcard ] [ > ] -->
+        <div class="fc-card-row">
+          <button type="button" class="fc-nav-arrow" id="btn-prev-card" title="Thẻ trước (←)" aria-label="Thẻ trước">‹</button>
+
+          <div class="fc-flip-card" id="flashcard-element">
+            
+            <!-- FRONT SIDE -->
+            <div class="fc-card-face front" id="card-front">
+              <div class="fc-face-top">
+                <span class="fc-tag-face">MẶT TRƯỚC</span>
+                <span>Bấm vào thẻ hoặc phím Space để lật</span>
+              </div>
+
+              <div class="fc-face-center">
+                <div class="fc-term-display" id="card-term"></div>
+                <div class="fc-hint-display" id="card-front-hint"></div>
+              </div>
+
+              <div>
+                <button type="button" class="fc-btn-speak" id="btn-speak-front">
+                  <span>🔊 Phát âm (Audio)</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- BACK SIDE -->
+            <div class="fc-card-face back" id="card-back">
+              <div class="fc-face-top">
+                <span class="fc-tag-face back-tag">MẶT SAU (KẾT QUẢ)</span>
+                <button type="button" class="fc-btn-tool icon-only" id="btn-speak-back" title="Nghe phát âm">🔊</button>
+              </div>
+
+              <div class="fc-back-body">
+                <div class="fc-reading-display" id="card-reading"></div>
+                <div class="fc-hanviet-tag" id="card-hanviet-wrap" style="display:none;">
+                  Âm Hán-Việt: <span id="card-hanviet"></span>
+                </div>
+                <div class="fc-meaning-display" id="card-meaning"></div>
+
+                <!-- Grammar rule -->
+                <div class="fc-formation-box" id="card-formation-wrap" style="display:none;">
+                  <div class="fc-formation-title">📌 Cách kết hợp:</div>
+                  <div class="fc-formation-text" id="card-formation"></div>
+                </div>
+
+                <!-- Example Sentence with dedicated audio button -->
+                <div class="fc-example-box" id="card-example-wrap" style="display:none;">
+                  <div class="fc-example-head">
+                    <div class="fc-example-ja" id="card-example-ja"></div>
+                    <button type="button" class="fc-btn-speak-ex" id="btn-speak-example" title="Nghe câu ví dụ">
+                      <span>🔊 Đọc ví dụ</span>
+                    </button>
+                  </div>
+                  <div class="fc-example-vi" id="card-example-vi"></div>
+                </div>
+              </div>
+
+              <div class="fc-flip-hint">Bấm vào thẻ để lật lại mặt trước</div>
+            </div>
+
+          </div>
+
+          <button type="button" class="fc-nav-arrow" id="btn-next-card" title="Thẻ tiếp theo (→)" aria-label="Thẻ sau">›</button>
+        </div>
+
+        <!-- 3 Equal-Width Rating Buttons Row (Matching card width) -->
+        <div class="fc-ratings-row">
+          <button type="button" class="fc-rating-btn again" id="btn-rating-again">
+            <span class="fc-rating-title">🔴 Chưa thuộc</span>
+            <span class="fc-rating-sub">Học lại</span>
+          </button>
+
+          <button type="button" class="fc-rating-btn hard" id="btn-rating-hard">
+            <span class="fc-rating-title">🟡 Chưa chắc</span>
+            <span class="fc-rating-sub">Ôn thêm</span>
+          </button>
+
+          <button type="button" class="fc-rating-btn good" id="btn-rating-good">
+            <span class="fc-rating-title">🟢 Đã thuộc</span>
+            <span class="fc-rating-sub">Đã nhớ</span>
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <script src="js/flashcards.js?v=20261010_02"></script>
+</body>
+</html>

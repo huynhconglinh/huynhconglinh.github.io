@@ -1,0 +1,6550 @@
+{
+  "id": "n2-vocab-mazii",
+  "cards": [
+    {
+      "id": "v_1",
+      "term": "評判",
+      "reading": "ひょうばん",
+      "meaning": "Đánh giá/Có tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_2",
+      "term": "雑談",
+      "reading": "ざつだん",
+      "meaning": "Nói chuyện phiếm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_3",
+      "term": "おしゃべり",
+      "reading": "おしゃべり",
+      "meaning": "Nói chuyện/ / Hoạt ngôn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_4",
+      "term": "取材",
+      "reading": "しゅざい",
+      "meaning": "Phỏng vấn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_5",
+      "term": "きっかけ",
+      "reading": "きっかけ",
+      "meaning": "Nguyên cớ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_6",
+      "term": "続出",
+      "reading": "ぞくしゅつ",
+      "meaning": "Liên tiếp xuất hiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_7",
+      "term": "外見",
+      "reading": "がいけん",
+      "meaning": "Ngoại hình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_8",
+      "term": "上昇",
+      "reading": "じょうしょう",
+      "meaning": "Sự tăng lên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_9",
+      "term": "見解",
+      "reading": "けんかい",
+      "meaning": "Quan điểm, ý kiến / (khi xử lý vấn đề)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_10",
+      "term": "普及",
+      "reading": "ふきゅう",
+      "meaning": "Phổ cập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_11",
+      "term": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "Chú ý/Quan tâm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_12",
+      "term": "分析",
+      "reading": "ぶんせき",
+      "meaning": "Phân tích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_13",
+      "term": "反映",
+      "reading": "はんえい",
+      "meaning": "Phản ánh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_14",
+      "term": "強み",
+      "reading": "つよみ",
+      "meaning": "Sở trường, điểm mạnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_15",
+      "term": "回復",
+      "reading": "かいふく",
+      "meaning": "Hồi phục",
+      "hanviet": ""
+    },
+    {
+      "id": "v_16",
+      "term": "方針",
+      "reading": "ほうしん",
+      "meaning": "Phương châm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_17",
+      "term": "範囲",
+      "reading": "はんい",
+      "meaning": "Phạm vi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_18",
+      "term": "利益",
+      "reading": "りえき",
+      "meaning": "Lợi ích/Lợi nhuận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_19",
+      "term": "解消",
+      "reading": "かいしょう",
+      "meaning": "Giải tỏa, hủy bỏ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_20",
+      "term": "改善",
+      "reading": "かいぜん",
+      "meaning": "Cải thiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_21",
+      "term": "視野",
+      "reading": "しや",
+      "meaning": "Tầm nhìn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_22",
+      "term": "機能",
+      "reading": "きのう",
+      "meaning": "Tính năng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_23",
+      "term": "世間",
+      "reading": "せけん",
+      "meaning": "Xã hội",
+      "hanviet": ""
+    },
+    {
+      "id": "v_24",
+      "term": "違反",
+      "reading": "いはん",
+      "meaning": "Vi phạm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_25",
+      "term": "素質",
+      "reading": "そしつ",
+      "meaning": "Tố chất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_26",
+      "term": "辞退",
+      "reading": "じたい",
+      "meaning": "Rút lui",
+      "hanviet": ""
+    },
+    {
+      "id": "v_27",
+      "term": "改正",
+      "reading": "かいせい",
+      "meaning": "Sửa đổi (Pháp luật)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_28",
+      "term": "夢中",
+      "reading": "むちゅう",
+      "meaning": "Say sưa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_29",
+      "term": "日中",
+      "reading": "にっちゅう",
+      "meaning": "Ban ngày",
+      "hanviet": ""
+    },
+    {
+      "id": "v_30",
+      "term": "矛盾",
+      "reading": "むじゅん",
+      "meaning": "Mâu thuẫn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_31",
+      "term": "交代",
+      "reading": "こうたい",
+      "meaning": "Thay phiên nhau",
+      "hanviet": ""
+    },
+    {
+      "id": "v_32",
+      "term": "合図",
+      "reading": "あいず",
+      "meaning": "Tín hiệu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_33",
+      "term": "愚痴",
+      "reading": "ぐち",
+      "meaning": "Than vãn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_34",
+      "term": "場面",
+      "reading": "ばめん",
+      "meaning": "Cảnh, tình trạng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_35",
+      "term": "成長",
+      "reading": "せいちょう",
+      "meaning": "Trưởng thành",
+      "hanviet": ""
+    },
+    {
+      "id": "v_36",
+      "term": "追加",
+      "reading": "ついか",
+      "meaning": "Thêm vào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_37",
+      "term": "廃止",
+      "reading": "はいし",
+      "meaning": "Hủy bỏ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_38",
+      "term": "心強い",
+      "reading": "こころづよい",
+      "meaning": "Mạnh mẽ, vững tâm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_39",
+      "term": "解散",
+      "reading": "かいさん",
+      "meaning": "Giải tán / Giải thể, tan rã (công ty)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_40",
+      "term": "意欲",
+      "reading": "いよく",
+      "meaning": "Sự mong muốn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_41",
+      "term": "専念",
+      "reading": "せんねん",
+      "meaning": "Sự say mê",
+      "hanviet": ""
+    },
+    {
+      "id": "v_42",
+      "term": "格好",
+      "reading": "かっこう",
+      "meaning": "Diện mạo/Gây ấn tượng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_43",
+      "term": "提示",
+      "reading": "ていじ",
+      "meaning": "Xuất trình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_44",
+      "term": "分野",
+      "reading": "ぶんや",
+      "meaning": "Lĩnh vực",
+      "hanviet": ""
+    },
+    {
+      "id": "v_45",
+      "term": "中継",
+      "reading": "ちゅうけい",
+      "meaning": "Phát thanh, phát sóng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_46",
+      "term": "見当",
+      "reading": "けんとう",
+      "meaning": "Dự đoán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_47",
+      "term": "比例",
+      "reading": "ひれい",
+      "meaning": "Tỷ lệ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_48",
+      "term": "ふもと",
+      "reading": "ふもと",
+      "meaning": "Chân núi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_49",
+      "term": "補足",
+      "reading": "ほそく",
+      "meaning": "Bổ túc, bổ sung",
+      "hanviet": ""
+    },
+    {
+      "id": "v_50",
+      "term": "催促",
+      "reading": "さいそく",
+      "meaning": "Thúc giục, hối thúc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_51",
+      "term": "導入",
+      "reading": "どうにゅう",
+      "meaning": "Đưa vào/Dẫn nhập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_52",
+      "term": "体格",
+      "reading": "たいかく",
+      "meaning": "Cử chỉ, vóc dáng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_53",
+      "term": "勘定",
+      "reading": "かんじょう",
+      "meaning": "Sự thanh toán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_54",
+      "term": "人通り",
+      "reading": "ひとどおり",
+      "meaning": "Lượng người đi lại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_55",
+      "term": "訂正",
+      "reading": "ていせい",
+      "meaning": "Đính chính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_56",
+      "term": "用心",
+      "reading": "ようじん",
+      "meaning": "Dụng tâm, cẩn trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_57",
+      "term": "会見",
+      "reading": "かいけん",
+      "meaning": "Phỏng vấn, họp báo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_58",
+      "term": "支持",
+      "reading": "しじ",
+      "meaning": "Ủng hộ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_59",
+      "term": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "Biện minh, lý do lý trấu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_60",
+      "term": "特色",
+      "reading": "とくしょく",
+      "meaning": "Đặc sắc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_61",
+      "term": "所有",
+      "reading": "しょゆう",
+      "meaning": "Sở hữu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_62",
+      "term": "収納",
+      "reading": "しゅうのう",
+      "meaning": "Sự cất trữ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_63",
+      "term": "用途",
+      "reading": "ようと",
+      "meaning": "Công dụng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_64",
+      "term": "行方",
+      "reading": "ゆくえ",
+      "meaning": "Tung tích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_65",
+      "term": "予測",
+      "reading": "よそく",
+      "meaning": "Dự đoán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_66",
+      "term": "完了",
+      "reading": "かんりょう",
+      "meaning": "Hoàn thành",
+      "hanviet": ""
+    },
+    {
+      "id": "v_67",
+      "term": "相違",
+      "reading": "そうい",
+      "meaning": "Khác nhau",
+      "hanviet": ""
+    },
+    {
+      "id": "v_68",
+      "term": "作成",
+      "reading": "さくせい",
+      "meaning": "Soạn thảo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_69",
+      "term": "中断",
+      "reading": "ちゅうだん",
+      "meaning": "Gián đoạn, tạm dừng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_70",
+      "term": "収穫",
+      "reading": "しゅうかく",
+      "meaning": "Gặt hái, thu hoạch",
+      "hanviet": ""
+    },
+    {
+      "id": "v_71",
+      "term": "衝突",
+      "reading": "しょうとつ",
+      "meaning": "Xung đột",
+      "hanviet": ""
+    },
+    {
+      "id": "v_72",
+      "term": "発達",
+      "reading": "はったつ",
+      "meaning": "Phát triển/Mạnh dần lên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_73",
+      "term": "引退",
+      "reading": "いんたい",
+      "meaning": "Nghỉ hưu, giải nghệ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_74",
+      "term": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "Thuận lợi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_75",
+      "term": "提供",
+      "reading": "ていきょう",
+      "meaning": "Cung cấp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_76",
+      "term": "邪魔",
+      "reading": "じゃま",
+      "meaning": "Cản trở",
+      "hanviet": ""
+    },
+    {
+      "id": "v_77",
+      "term": "息抜き",
+      "reading": "いきぬき",
+      "meaning": "Đổi gió, nghỉ ngơi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_78",
+      "term": "延長",
+      "reading": "えんちょう",
+      "meaning": "Kéo dài",
+      "hanviet": ""
+    },
+    {
+      "id": "v_79",
+      "term": "目上",
+      "reading": "めうえ",
+      "meaning": "Người trên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_80",
+      "term": "反省",
+      "reading": "はんせい",
+      "meaning": "Kiểm điểm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_81",
+      "term": "確保",
+      "reading": "かくほ",
+      "meaning": "Duy trì/Bắt giữ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_82",
+      "term": "契機",
+      "reading": "けいき",
+      "meaning": "Thời cơ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_83",
+      "term": "謝り",
+      "reading": "あやまり",
+      "meaning": "Sai, nhầm, lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_84",
+      "term": "臆病",
+      "reading": "おくびょう",
+      "meaning": "Hèn nhát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_85",
+      "term": "頂上",
+      "reading": "ちょうじょう",
+      "meaning": "Đỉnh (dốc, núi,...)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_86",
+      "term": "節約",
+      "reading": "せつやく",
+      "meaning": "Tiết kiệm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_87",
+      "term": "苦情",
+      "reading": "くじょう",
+      "meaning": "Than phiền, phàn nàn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_88",
+      "term": "名所",
+      "reading": "めいしょ",
+      "meaning": "Nơi nổi tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_89",
+      "term": "記憶",
+      "reading": "きおく",
+      "meaning": "Kí ức",
+      "hanviet": ""
+    },
+    {
+      "id": "v_90",
+      "term": "不平",
+      "reading": "ふへい",
+      "meaning": "Than phiền",
+      "hanviet": ""
+    },
+    {
+      "id": "v_91",
+      "term": "限定",
+      "reading": "げんてい",
+      "meaning": "Giới hạn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_92",
+      "term": "論戦",
+      "reading": "ろんせん",
+      "meaning": "Tranh cãi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_93",
+      "term": "独特",
+      "reading": "どくとく",
+      "meaning": "Độc đáo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_94",
+      "term": "じたばた",
+      "reading": "じたばた",
+      "meaning": "Vùng vẫy, vật lộn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_95",
+      "term": "役目",
+      "reading": "やくめ",
+      "meaning": "Vai trò, bổn phận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_96",
+      "term": "最寄り",
+      "reading": "もより",
+      "meaning": "Gần nhất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_97",
+      "term": "解約",
+      "reading": "かいやく",
+      "meaning": "Huỷ hợp đồng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_98",
+      "term": "演説",
+      "reading": "えんぜつ",
+      "meaning": "Diễn thuyết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_99",
+      "term": "点検",
+      "reading": "てんけん",
+      "meaning": "Bảo dưỡng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_100",
+      "term": "地元",
+      "reading": "じもと",
+      "meaning": "Địa phương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_101",
+      "term": "敏感",
+      "reading": "びんかん",
+      "meaning": "Nhạy cảm, mẫn cảm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_102",
+      "term": "保存",
+      "reading": "ほぞん",
+      "meaning": "Lưu, save file/Bảo quản",
+      "hanviet": ""
+    },
+    {
+      "id": "v_103",
+      "term": "日課",
+      "reading": "にっか",
+      "meaning": "Thói quen hàng ngày",
+      "hanviet": ""
+    },
+    {
+      "id": "v_104",
+      "term": "油断",
+      "reading": "ゆだん",
+      "meaning": "Cẩu thả, lơ là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_105",
+      "term": "分担",
+      "reading": "ぶんたん",
+      "meaning": "Phân chia công việc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_106",
+      "term": "同情",
+      "reading": "どうじょう",
+      "meaning": "Đồng cảm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_107",
+      "term": "初歩",
+      "reading": "しょほ",
+      "meaning": "Đánh giá/Có tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_108",
+      "term": "本物",
+      "reading": "ほんもの",
+      "meaning": "Đồ thật",
+      "hanviet": ""
+    },
+    {
+      "id": "v_109",
+      "term": "あこがれ",
+      "reading": "あこがれ",
+      "meaning": "Ao ước, ngưỡng mộ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_110",
+      "term": "転勤",
+      "reading": "てんきん",
+      "meaning": "Chuyển công tác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_111",
+      "term": "栽培",
+      "reading": "さいばい",
+      "meaning": "Trồng trọt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_112",
+      "term": "動揺",
+      "reading": "どうよう",
+      "meaning": "Bất an",
+      "hanviet": ""
+    },
+    {
+      "id": "v_113",
+      "term": "かかりつけ",
+      "reading": "かかりつけ",
+      "meaning": "cá nhân, gia đình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_114",
+      "term": "特殊",
+      "reading": "とくしゅ",
+      "meaning": "Đặc biệt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_115",
+      "term": "素材",
+      "reading": "そざい",
+      "meaning": "Nguyên vật liệu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_116",
+      "term": "充満",
+      "reading": "じゅうまん",
+      "meaning": "Tràn đầy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_117",
+      "term": "信頼",
+      "reading": "しんらい",
+      "meaning": "Sự tin tưởng, tin cậy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_118",
+      "term": "尊重",
+      "reading": "そんちょう",
+      "meaning": "Tôn trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_119",
+      "term": "初期",
+      "reading": "しょき",
+      "meaning": "Thời gian đầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_120",
+      "term": "欠陥",
+      "reading": "けっかん",
+      "meaning": "Thiếu sót, lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_121",
+      "term": "評価",
+      "reading": "ひょうか",
+      "meaning": "Đánh giá",
+      "hanviet": ""
+    },
+    {
+      "id": "v_122",
+      "term": "診断",
+      "reading": "しんだん",
+      "meaning": "Chẩn đoán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_123",
+      "term": "権利",
+      "reading": "けんり",
+      "meaning": "Quyền lợi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_124",
+      "term": "増大",
+      "reading": "ぞうだい",
+      "meaning": "Tăng lên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_125",
+      "term": "上達",
+      "reading": "じょうたつ",
+      "meaning": "Đánh giá/Có tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_126",
+      "term": "視察",
+      "reading": "しさつ",
+      "meaning": "Đánh giá/Có tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_127",
+      "term": "削除",
+      "reading": "さくじょ",
+      "meaning": "Xóa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_128",
+      "term": "減量",
+      "reading": "げんりょう",
+      "meaning": "Giảm (cân, trọng lượng)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_129",
+      "term": "整備",
+      "reading": "せいび",
+      "meaning": "Bảo dưỡng, bảo trì",
+      "hanviet": ""
+    },
+    {
+      "id": "v_130",
+      "term": "視線",
+      "reading": "しせん",
+      "meaning": "Ánh nhìn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_131",
+      "term": "才能",
+      "reading": "さいのう",
+      "meaning": "Tài năng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_132",
+      "term": "効用",
+      "reading": "こうよう",
+      "meaning": "Hiệu quả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_133",
+      "term": "効力",
+      "reading": "こうりょく",
+      "meaning": "Hiệu lực",
+      "hanviet": ""
+    },
+    {
+      "id": "v_134",
+      "term": "避難",
+      "reading": "ひなん",
+      "meaning": "Tị nạn, sơ tán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_135",
+      "term": "盗難",
+      "reading": "とうなん",
+      "meaning": "Vụ cướp, vụ trộm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_136",
+      "term": "改造",
+      "reading": "かいぞう",
+      "meaning": "Cải tạo, tân trang",
+      "hanviet": ""
+    },
+    {
+      "id": "v_137",
+      "term": "転換",
+      "reading": "てんかん",
+      "meaning": "Chuyển đổi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_138",
+      "term": "非難",
+      "reading": "ひなん",
+      "meaning": "Chỉ trích, phê phán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_139",
+      "term": "要所",
+      "reading": "ようしょ",
+      "meaning": "Điểm quan trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_140",
+      "term": "展開",
+      "reading": "てんかい",
+      "meaning": "Diễn biến (phim, truyện) / /Mở rộng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_141",
+      "term": "解放",
+      "reading": "かいほう",
+      "meaning": "Giải phóng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_142",
+      "term": "退出",
+      "reading": "たいしゅつ",
+      "meaning": "Thoát ra, rời khỏi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_143",
+      "term": "意図",
+      "reading": "いと",
+      "meaning": "Ý đồ, mục đích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_144",
+      "term": "根気",
+      "reading": "こんき",
+      "meaning": "Kiên nhẫn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_145",
+      "term": "統一",
+      "reading": "とういつ",
+      "meaning": "Thống nhất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_146",
+      "term": "特定",
+      "reading": "とくてい",
+      "meaning": "Xác định rõ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_147",
+      "term": "容姿",
+      "reading": "ようし",
+      "meaning": "Diện mạo, / dáng vẻ bề ngoài",
+      "hanviet": ""
+    },
+    {
+      "id": "v_148",
+      "term": "発想",
+      "reading": "はっそう",
+      "meaning": "Ý tưởng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_149",
+      "term": "仮定",
+      "reading": "かてい",
+      "meaning": "Giả định",
+      "hanviet": ""
+    },
+    {
+      "id": "v_150",
+      "term": "目印",
+      "reading": "めじるし",
+      "meaning": "Mốc chỉ đường",
+      "hanviet": ""
+    },
+    {
+      "id": "v_151",
+      "term": "対応",
+      "reading": "たいおう",
+      "meaning": "Xử lý (với khách)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_152",
+      "term": "特徴",
+      "reading": "とくちょう",
+      "meaning": "Đặc trưng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_153",
+      "term": "向こう",
+      "reading": "むこう",
+      "meaning": "Phía trước; phía đối diện / Hướng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_154",
+      "term": "引用",
+      "reading": "いんよう",
+      "meaning": "Trích dẫn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_155",
+      "term": "吸収",
+      "reading": "きゅうしゅう",
+      "meaning": "Hấp thu (dinh dưỡng) / Thấm hút (mồ hôi) / Tiếp thu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_156",
+      "term": "性能",
+      "reading": "せいのう",
+      "meaning": "Tính năng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_157",
+      "term": "得点",
+      "reading": "とくてん",
+      "meaning": "Sự ghi điểm, điểm số",
+      "hanviet": ""
+    },
+    {
+      "id": "v_158",
+      "term": "予報",
+      "reading": "よほう",
+      "meaning": "Dự báo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_159",
+      "term": "実現",
+      "reading": "じつげん",
+      "meaning": "Thực hiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_160",
+      "term": "達成",
+      "reading": "たっせい",
+      "meaning": "Đạt được",
+      "hanviet": ""
+    },
+    {
+      "id": "v_161",
+      "term": "対比",
+      "reading": "たいひ",
+      "meaning": "So sánh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_162",
+      "term": "大別",
+      "reading": "たいべつ",
+      "meaning": "Cách biệt lớn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_163",
+      "term": "伝染",
+      "reading": "でんせん",
+      "meaning": "Truyền nhiễm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_164",
+      "term": "選出",
+      "reading": "せんしゅつ",
+      "meaning": "Chọn ra",
+      "hanviet": ""
+    },
+    {
+      "id": "v_165",
+      "term": "寄付",
+      "reading": "きふ",
+      "meaning": "Quyên góp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_166",
+      "term": "先端",
+      "reading": "せんたん",
+      "meaning": "Mũi nhọn, đầu mút / Tiên tiến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_167",
+      "term": "表現",
+      "reading": "ひょうげん",
+      "meaning": "Biểu hiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_168",
+      "term": "明示",
+      "reading": "めいじ",
+      "meaning": "Biểu hiện rõ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_169",
+      "term": "専属",
+      "reading": "せんぞく",
+      "meaning": "Chuyên ngành, độc / quyền",
+      "hanviet": ""
+    },
+    {
+      "id": "v_170",
+      "term": "孤立",
+      "reading": "こりつ",
+      "meaning": "Cô lập, độc lập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_171",
+      "term": "分別",
+      "reading": "ぶんべつ",
+      "meaning": "Phân loại (Rác)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_172",
+      "term": "区分",
+      "reading": "くぶん",
+      "meaning": "Phân ra, chia ra / (công việc)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_173",
+      "term": "現状",
+      "reading": "げんじょう",
+      "meaning": "Hiện trạng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_174",
+      "term": "移行",
+      "reading": "いこう",
+      "meaning": "Di chuyển",
+      "hanviet": ""
+    },
+    {
+      "id": "v_175",
+      "term": "移住",
+      "reading": "いじゅう",
+      "meaning": "Di trú, di cư",
+      "hanviet": ""
+    },
+    {
+      "id": "v_176",
+      "term": "養成",
+      "reading": "ようせい",
+      "meaning": "Đào tạo, nuôi dưỡng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_177",
+      "term": "考慮",
+      "reading": "こうりょ",
+      "meaning": "Sự xem xét, suy tính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_178",
+      "term": "測定",
+      "reading": "そくてい",
+      "meaning": "Đo đạc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_179",
+      "term": "提案",
+      "reading": "ていあん",
+      "meaning": "Đề án",
+      "hanviet": ""
+    },
+    {
+      "id": "v_180",
+      "term": "信仰",
+      "reading": "しんこう",
+      "meaning": "Tín ngưỡng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_181",
+      "term": "定着",
+      "reading": "ていちゃく",
+      "meaning": "Định hình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_182",
+      "term": "愛情",
+      "reading": "あいじょう",
+      "meaning": "Tình yêu thương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_183",
+      "term": "判断",
+      "reading": "はんだん",
+      "meaning": "Phán đoán, đánh giá",
+      "hanviet": ""
+    },
+    {
+      "id": "v_184",
+      "term": "凸凹",
+      "reading": "でこぼこ",
+      "meaning": "Lồi lõm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_185",
+      "term": "教育",
+      "reading": "きょういく",
+      "meaning": "Giáo dục",
+      "hanviet": ""
+    },
+    {
+      "id": "v_186",
+      "term": "大臣",
+      "reading": "だいじん",
+      "meaning": "Bộ trưởng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_187",
+      "term": "やる気",
+      "reading": "きやる",
+      "meaning": "Hứng thú",
+      "hanviet": ""
+    },
+    {
+      "id": "v_188",
+      "term": "指摘",
+      "reading": "してき",
+      "meaning": "Chỉ ra",
+      "hanviet": ""
+    },
+    {
+      "id": "v_189",
+      "term": "決勝戦",
+      "reading": "けっしょうせん",
+      "meaning": "Trận chung kết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_190",
+      "term": "活気",
+      "reading": "かっき",
+      "meaning": "Sự hoạt bát, sức sống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_191",
+      "term": "放映",
+      "reading": "ほうえい",
+      "meaning": "Sự phát sóng (một bộ / phim...)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_192",
+      "term": "採用",
+      "reading": "さいよう",
+      "meaning": "Tuyển dụng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_193",
+      "term": "進出",
+      "reading": "しんしゅつ",
+      "meaning": "Vươn ra/Sự tiến lên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_194",
+      "term": "俳優",
+      "reading": "はいゆう",
+      "meaning": "Diễn viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_195",
+      "term": "組織",
+      "reading": "そしき",
+      "meaning": "Tổ chức/ / Hệ thống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_196",
+      "term": "真夏",
+      "reading": "まなつ",
+      "meaning": "Giữa mùa hè",
+      "hanviet": ""
+    },
+    {
+      "id": "v_197",
+      "term": "政党",
+      "reading": "せいとう",
+      "meaning": "Chính đảng, Đảng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_198",
+      "term": "退場",
+      "reading": "たいじょう",
+      "meaning": "Sự rời khỏi (trận đấu, / hội trường)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_199",
+      "term": "拡大",
+      "reading": "かくだい",
+      "meaning": "Sự mở rộng, lan rộng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_200",
+      "term": "向上",
+      "reading": "こうじょう",
+      "meaning": "Sự tăng cường, nâng / cao, tiến triển",
+      "hanviet": ""
+    },
+    {
+      "id": "v_201",
+      "term": "需要",
+      "reading": "じゅよう",
+      "meaning": "Nhu cầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_202",
+      "term": "半球",
+      "reading": "はんきゅう",
+      "meaning": "Bán cầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_203",
+      "term": "投票",
+      "reading": "とうひょう",
+      "meaning": "Bỏ phiếu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_204",
+      "term": "主人公",
+      "reading": "しゅじんこう",
+      "meaning": "Nhân vật chính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_205",
+      "term": "区切り",
+      "reading": "くぎり",
+      "meaning": "Sự phân chia",
+      "hanviet": ""
+    },
+    {
+      "id": "v_206",
+      "term": "雷",
+      "reading": "かみなり",
+      "meaning": "Sấm sét",
+      "hanviet": ""
+    },
+    {
+      "id": "v_207",
+      "term": "試し",
+      "reading": "ためし",
+      "meaning": "Việc thử",
+      "hanviet": ""
+    },
+    {
+      "id": "v_208",
+      "term": "保障",
+      "reading": "ほしょう",
+      "meaning": "Sự bảo đảm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_209",
+      "term": "筆者",
+      "reading": "ひっしゃ",
+      "meaning": "Tác giả, người viết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_210",
+      "term": "休憩",
+      "reading": "きゅうけい",
+      "meaning": "Nghỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_211",
+      "term": "歌謡曲",
+      "reading": "かようきょく",
+      "meaning": "Bài hát đồng ca",
+      "hanviet": ""
+    },
+    {
+      "id": "v_212",
+      "term": "候補",
+      "reading": "こうほ",
+      "meaning": "Ứng cử viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_213",
+      "term": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "Phân phối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_214",
+      "term": "状況",
+      "reading": "じょうきょう",
+      "meaning": "Tình hình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_215",
+      "term": "概要",
+      "reading": "がいよう",
+      "meaning": "Tóm lược, khái quát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_216",
+      "term": "役割",
+      "reading": "やくわり",
+      "meaning": "Vai trò",
+      "hanviet": ""
+    },
+    {
+      "id": "v_217",
+      "term": "異文化",
+      "reading": "いぶんか",
+      "meaning": "văn hóa khác biệt, nền văn hóa khác nhau",
+      "hanviet": ""
+    },
+    {
+      "id": "v_218",
+      "term": "初心者",
+      "reading": "しょしんしゃ",
+      "meaning": "Người mới",
+      "hanviet": ""
+    },
+    {
+      "id": "v_219",
+      "term": "いたずら",
+      "reading": "いたずら",
+      "meaning": "Trò nghịch ngợm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_220",
+      "term": "対等",
+      "reading": "たいとう",
+      "meaning": "Sự tương đương, ngang / bằng / Ø",
+      "hanviet": ""
+    },
+    {
+      "id": "v_221",
+      "term": "鶴",
+      "reading": "つる",
+      "meaning": "Con sếu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_222",
+      "term": "用具",
+      "reading": "ようぐ",
+      "meaning": "Dụng cụ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_223",
+      "term": "舌",
+      "reading": "した",
+      "meaning": "Lưỡi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_224",
+      "term": "原稿",
+      "reading": "げんこう",
+      "meaning": "Bản thảo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_225",
+      "term": "改訂",
+      "reading": "かいてい",
+      "meaning": "Sự đính chính, sửa đổi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_226",
+      "term": "証拠",
+      "reading": "しょうこ",
+      "meaning": "Chứng cứ, bằng chứng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_227",
+      "term": "撮影",
+      "reading": "さつえい",
+      "meaning": "Sự chụp ảnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_228",
+      "term": "批判",
+      "reading": "ひはん",
+      "meaning": "Sự phê phán, phê bình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_229",
+      "term": "思考",
+      "reading": "しこう",
+      "meaning": "suy nghĩ, tư duy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_230",
+      "term": "高層",
+      "reading": "こうそう",
+      "meaning": "Cao tầng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_231",
+      "term": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "Nộp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_232",
+      "term": "議論",
+      "reading": "ぎろん",
+      "meaning": "Sự thảo luận, tranh luận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_233",
+      "term": "姿",
+      "reading": "すがた",
+      "meaning": "Bóng dáng/ / Vẻ bề ngoài, diện / mạo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_234",
+      "term": "共同",
+      "reading": "きょうどう",
+      "meaning": "Sự hợp tác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_235",
+      "term": "転職",
+      "reading": "てんしょく",
+      "meaning": "Sự đổi nghề, / chuyển việc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_236",
+      "term": "日差し",
+      "reading": "ひざし",
+      "meaning": "ánh nắng, ánh sáng mặt trời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_237",
+      "term": "絵画展",
+      "reading": "かいがてん",
+      "meaning": "Triển lãm nghệ thuật",
+      "hanviet": ""
+    },
+    {
+      "id": "v_238",
+      "term": "採集",
+      "reading": "さいしゅう",
+      "meaning": "Sự sưu tập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_239",
+      "term": "取得",
+      "reading": "しゅとく",
+      "meaning": "Sự giành được, / lấy được",
+      "hanviet": ""
+    },
+    {
+      "id": "v_240",
+      "term": "天候",
+      "reading": "てんこう",
+      "meaning": "Thời tiết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_241",
+      "term": "疑問",
+      "reading": "ぎもん",
+      "meaning": "Sự nghi vấn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_242",
+      "term": "専攻",
+      "reading": "せんこう",
+      "meaning": "Chuyên môn, / chuyên ngành",
+      "hanviet": ""
+    },
+    {
+      "id": "v_243",
+      "term": "防犯",
+      "reading": "ぼうはん",
+      "meaning": "Sự phòng chống / tội phạm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_244",
+      "term": "事業",
+      "reading": "じぎょう",
+      "meaning": "Công tác, công việc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_245",
+      "term": "予想",
+      "reading": "よそう",
+      "meaning": "Dự đoán",
+      "hanviet": ""
+    },
+    {
+      "id": "v_246",
+      "term": "誤解",
+      "reading": "ごかい",
+      "meaning": "Sự hiểu lầm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_247",
+      "term": "気候",
+      "reading": "きこう",
+      "meaning": "Khí hậu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_248",
+      "term": "講座",
+      "reading": "こうざ",
+      "meaning": "Khóa học",
+      "hanviet": ""
+    },
+    {
+      "id": "v_249",
+      "term": "設計",
+      "reading": "せっけい",
+      "meaning": "Sự thiết kế",
+      "hanviet": ""
+    },
+    {
+      "id": "v_250",
+      "term": "受賞",
+      "reading": "じゅしょう",
+      "meaning": "Sự đoạt giải",
+      "hanviet": ""
+    },
+    {
+      "id": "v_251",
+      "term": "要点",
+      "reading": "ようてん",
+      "meaning": "Điểm trọng yếu, / phần quan trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_252",
+      "term": "購入",
+      "reading": "こうにゅう",
+      "meaning": "Việc mua",
+      "hanviet": ""
+    },
+    {
+      "id": "v_253",
+      "term": "再発",
+      "reading": "さいはつ",
+      "meaning": "Sự tái phát, tái diễn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_254",
+      "term": "講演",
+      "reading": "こうえん",
+      "meaning": "Bài giảng, diễn giảng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_255",
+      "term": "対策",
+      "reading": "たいさく",
+      "meaning": "Biện pháp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_256",
+      "term": "優先",
+      "reading": "ゆうせん",
+      "meaning": "Sự ưu tiên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_257",
+      "term": "勤務",
+      "reading": "きんむ",
+      "meaning": "Công việc, làm việc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_258",
+      "term": "覚悟",
+      "reading": "かくご",
+      "meaning": "Sự sẵn sàng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_259",
+      "term": "手数料",
+      "reading": "てすうりょう",
+      "meaning": "Tiền dịch vụ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_260",
+      "term": "記録",
+      "reading": "きろく",
+      "meaning": "Sự ghi chép/ / Kỷ lục",
+      "hanviet": ""
+    },
+    {
+      "id": "v_261",
+      "term": "免許",
+      "reading": "めんきょ",
+      "meaning": "Giấy phép",
+      "hanviet": ""
+    },
+    {
+      "id": "v_262",
+      "term": "手前",
+      "reading": "てまえ",
+      "meaning": "Phía trước mặt/ / (thời điểm) Ngay trước",
+      "hanviet": ""
+    },
+    {
+      "id": "v_263",
+      "term": "演技",
+      "reading": "えんぎ",
+      "meaning": "Giả vờ / /Diễn xuất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_264",
+      "term": "監督",
+      "reading": "かんとく",
+      "meaning": "Người/sự chỉ đạo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_265",
+      "term": "出場",
+      "reading": "しゅつじょう",
+      "meaning": "Ra mắt, trình diễn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_266",
+      "term": "選択",
+      "reading": "せんたく",
+      "meaning": "Sự lựa chọn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_267",
+      "term": "演奏",
+      "reading": "えんそう",
+      "meaning": "Sự trình diễn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_268",
+      "term": "仕組み",
+      "reading": "しくみ",
+      "meaning": "Cấu tạo, cơ chế",
+      "hanviet": ""
+    },
+    {
+      "id": "v_269",
+      "term": "一変",
+      "reading": "いっぺん",
+      "meaning": "Sự thay đổi / (hoàn toàn)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_270",
+      "term": "援助",
+      "reading": "えんじょ",
+      "meaning": "Sự viện trợ, giúp đỡ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_271",
+      "term": "伝言",
+      "reading": "でんごん",
+      "meaning": "Lời nhắn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_272",
+      "term": "真実",
+      "reading": "しんじつ",
+      "meaning": "Sự chân thật",
+      "hanviet": ""
+    },
+    {
+      "id": "v_273",
+      "term": "でたらめ",
+      "reading": "でたらめ",
+      "meaning": "bừa bãi, nhảm nhí, lung tung",
+      "hanviet": ""
+    },
+    {
+      "id": "v_274",
+      "term": "各々",
+      "reading": "おのおの",
+      "meaning": "Mỗi, từng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_275",
+      "term": "打ち合わせ",
+      "reading": "うあちわせ",
+      "meaning": "Cuộc họp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_276",
+      "term": "礼儀",
+      "reading": "れいぎ",
+      "meaning": "Lễ nghi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_277",
+      "term": "訓練",
+      "reading": "くんれん",
+      "meaning": "Sự huấn luyện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_278",
+      "term": "娯楽",
+      "reading": "ごらく",
+      "meaning": "Trò giải trí, trò tiêu khiển",
+      "hanviet": ""
+    },
+    {
+      "id": "v_279",
+      "term": "当たり前",
+      "reading": "あまえたり",
+      "meaning": "Đương nhiên, / bình thường",
+      "hanviet": ""
+    },
+    {
+      "id": "v_280",
+      "term": "あちこち",
+      "reading": "あちこち",
+      "meaning": "Khắp nơi, khắp chốn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_281",
+      "term": "あらすじ",
+      "reading": "あらすじ",
+      "meaning": "Tóm tắt, cốt truyện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_282",
+      "term": "呑気",
+      "reading": "のんき",
+      "meaning": "Vô tư, bình tĩnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_283",
+      "term": "普段",
+      "reading": "ふだん",
+      "meaning": "Bình thường, thường lệ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_284",
+      "term": "黒字",
+      "reading": "くろじ",
+      "meaning": "Lãi, thặng dư",
+      "hanviet": ""
+    },
+    {
+      "id": "v_285",
+      "term": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "Sự cảm tạ, lòng biết ơn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_286",
+      "term": "拒否",
+      "reading": "きょひ",
+      "meaning": "Sự cự tuyệt, từ chối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_287",
+      "term": "景色",
+      "reading": "けしき",
+      "meaning": "Phong cảnh, cảnh sắc / (thiên nhiên)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_288",
+      "term": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "Ngoại thương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_289",
+      "term": "防災",
+      "reading": "ぼうさい",
+      "meaning": "Phòng chống thiên tai",
+      "hanviet": ""
+    },
+    {
+      "id": "v_290",
+      "term": "装置",
+      "reading": "そうち",
+      "meaning": "Thiết bị",
+      "hanviet": ""
+    },
+    {
+      "id": "v_291",
+      "term": "治療",
+      "reading": "ちりょう",
+      "meaning": "Sự điều trị",
+      "hanviet": ""
+    },
+    {
+      "id": "v_292",
+      "term": "医療",
+      "reading": "いりょう",
+      "meaning": "Y tế",
+      "hanviet": ""
+    },
+    {
+      "id": "v_293",
+      "term": "針",
+      "reading": "はり",
+      "meaning": "Kim, mũi kim",
+      "hanviet": ""
+    },
+    {
+      "id": "v_294",
+      "term": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "Sự kiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_295",
+      "term": "供給",
+      "reading": "きょうきゅう",
+      "meaning": "Sự cung cấp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_296",
+      "term": "設備",
+      "reading": "せつび",
+      "meaning": "Sự trang bị, cơ sở",
+      "hanviet": ""
+    },
+    {
+      "id": "v_297",
+      "term": "建設",
+      "reading": "けんせつ",
+      "meaning": "Xây dựng, kiến thiết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_298",
+      "term": "印刷",
+      "reading": "いんさつ",
+      "meaning": "In ấn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_299",
+      "term": "貨物",
+      "reading": "かもつ",
+      "meaning": "Hàng hóa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_300",
+      "term": "延期",
+      "reading": "えんき",
+      "meaning": "Sự trì hoãn, hoãn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_301",
+      "term": "機嫌",
+      "reading": "きげん",
+      "meaning": "Sắc mặt, tâm trạng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_302",
+      "term": "規制",
+      "reading": "きせい",
+      "meaning": "Quy định, quy tắc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_303",
+      "term": "皮膚",
+      "reading": "ひふ",
+      "meaning": "Vươn ra/Sự tiến lên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_304",
+      "term": "熱演",
+      "reading": "ねつえん",
+      "meaning": "Trình diễn nhiệt tình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_305",
+      "term": "就職",
+      "reading": "しゅうしょく",
+      "meaning": "Tìm việc, xin việc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_306",
+      "term": "構造",
+      "reading": "こうぞう",
+      "meaning": "Cấu trúc, cấu tạo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_307",
+      "term": "更新",
+      "reading": "こうしん",
+      "meaning": "Gia hạn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_308",
+      "term": "予防",
+      "reading": "よぼう",
+      "meaning": "Sự dự phòng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_309",
+      "term": "警備",
+      "reading": "けいび",
+      "meaning": "Cảnh giác, phòng bị, / bảo vệ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_310",
+      "term": "賃貸",
+      "reading": "ちんたい",
+      "meaning": "Sự cho thuê",
+      "hanviet": ""
+    },
+    {
+      "id": "v_311",
+      "term": "差別",
+      "reading": "さべつ",
+      "meaning": "Sự phân biệt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_312",
+      "term": "標準",
+      "reading": "ひょうじゅん",
+      "meaning": "Tiêu chuẩn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_313",
+      "term": "名誉",
+      "reading": "めいよ",
+      "meaning": "Danh dự",
+      "hanviet": ""
+    },
+    {
+      "id": "v_314",
+      "term": "豊富",
+      "reading": "ほうふ",
+      "meaning": "Phong phú, giàu có",
+      "hanviet": ""
+    },
+    {
+      "id": "v_315",
+      "term": "平等",
+      "reading": "びょうどう",
+      "meaning": "Sự bình đẳng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_316",
+      "term": "症状",
+      "reading": "しょうじょう",
+      "meaning": "Triệu chứng bệnh, / tình trạng bệnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_317",
+      "term": "見出し",
+      "reading": "みだし",
+      "meaning": "Đầu đề, tựa đề",
+      "hanviet": ""
+    },
+    {
+      "id": "v_318",
+      "term": "結論",
+      "reading": "けつろん",
+      "meaning": "Kết luận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_319",
+      "term": "未熟",
+      "reading": "みじゅく",
+      "meaning": "(Trái cây) chưa chín, / còn non/ / Chưa thành thạo, non / nớt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_320",
+      "term": "壁",
+      "reading": "かべ",
+      "meaning": "Bức tường, rào cản",
+      "hanviet": ""
+    },
+    {
+      "id": "v_321",
+      "term": "景気",
+      "reading": "けいき",
+      "meaning": "Tình hình kinh tế",
+      "hanviet": ""
+    },
+    {
+      "id": "v_322",
+      "term": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "Sự chiêu mộ, / tuyển dụng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_323",
+      "term": "活発",
+      "reading": "かっぱつ",
+      "meaning": "Hoạt bát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_324",
+      "term": "手間",
+      "reading": "てま",
+      "meaning": "Công sức, thời gian",
+      "hanviet": ""
+    },
+    {
+      "id": "v_325",
+      "term": "感覚",
+      "reading": "かんかく",
+      "meaning": "Cảm giác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_326",
+      "term": "余裕",
+      "reading": "よゆう",
+      "meaning": "Thảnh thơi, thong thả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_327",
+      "term": "講師",
+      "reading": "こうし",
+      "meaning": "Giảng viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_328",
+      "term": "低下",
+      "reading": "ていか",
+      "meaning": "Sự suy giảm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_329",
+      "term": "赤字",
+      "reading": "あかじ",
+      "meaning": "Lỗ, thâm hụt thương mại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_330",
+      "term": "要求",
+      "reading": "ようきゅう",
+      "meaning": "Yêu cầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_331",
+      "term": "見事",
+      "reading": "みごと",
+      "meaning": "Vẻ đẹp, sự quyến rũ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_332",
+      "term": "休養",
+      "reading": "きゅうよう",
+      "meaning": "Sự nghỉ ngơi, tĩnh / dưỡng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_333",
+      "term": "肌",
+      "reading": "はだ",
+      "meaning": "Da",
+      "hanviet": ""
+    },
+    {
+      "id": "v_334",
+      "term": "生きがい",
+      "reading": "いきがい",
+      "meaning": "Lẽ sống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_335",
+      "term": "食卓",
+      "reading": "しょくたく",
+      "meaning": "Bàn ăn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_336",
+      "term": "味方",
+      "reading": "みかた",
+      "meaning": "Bạn, đồng minh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_337",
+      "term": "同僚",
+      "reading": "どうりょう",
+      "meaning": "Đồng nghiệp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_338",
+      "term": "人物",
+      "reading": "じんぶつ",
+      "meaning": "Nhân vật, con người",
+      "hanviet": ""
+    },
+    {
+      "id": "v_339",
+      "term": "しわ",
+      "reading": "しわ",
+      "meaning": "Nếp nhăn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_340",
+      "term": "処分",
+      "reading": "しょぶん",
+      "meaning": "Sự tống khứ, bỏ đi/ / Sự phạt, trừng phạt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_341",
+      "term": "負担",
+      "reading": "ふたん",
+      "meaning": "Sự gánh vác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_342",
+      "term": "省エネ",
+      "reading": "しょう",
+      "meaning": "Tiết kiệm năng lượng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_343",
+      "term": "海水浴",
+      "reading": "かいすいよく",
+      "meaning": "Sự tắm biển",
+      "hanviet": ""
+    },
+    {
+      "id": "v_344",
+      "term": "妊娠",
+      "reading": "にんしん",
+      "meaning": "Có thai, thai nghén",
+      "hanviet": ""
+    },
+    {
+      "id": "v_345",
+      "term": "大半",
+      "reading": "たいはん",
+      "meaning": "Quá nửa, phần lớn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_346",
+      "term": "おじぎ",
+      "reading": "おじぎ",
+      "meaning": "Cúi chào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_347",
+      "term": "推薦",
+      "reading": "すいせん",
+      "meaning": "Sự giới thiệu, tiến cử",
+      "hanviet": ""
+    },
+    {
+      "id": "v_348",
+      "term": "記号",
+      "reading": "きごう",
+      "meaning": "Ký hiệu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_349",
+      "term": "勘",
+      "reading": "かん",
+      "meaning": "Trực giác, linh cảm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_350",
+      "term": "検索",
+      "reading": "けんさく",
+      "meaning": "Tra cứu thông tin",
+      "hanviet": ""
+    },
+    {
+      "id": "v_351",
+      "term": "設定",
+      "reading": "せってい",
+      "meaning": "Sự thiết lập, / thành lập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_352",
+      "term": "遺伝",
+      "reading": "いでん",
+      "meaning": "Di truyền",
+      "hanviet": ""
+    },
+    {
+      "id": "v_353",
+      "term": "後日",
+      "reading": "ごじつ",
+      "meaning": "Hôm sau, / hôm khác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_354",
+      "term": "制度",
+      "reading": "せいど",
+      "meaning": "Chế độ, / quy chế",
+      "hanviet": ""
+    },
+    {
+      "id": "v_355",
+      "term": "作業",
+      "reading": "さぎょう",
+      "meaning": "Công việc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_356",
+      "term": "至急",
+      "reading": "しきゅう",
+      "meaning": "Cấp tốc, / hỏa tốc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_357",
+      "term": "年月",
+      "reading": "ねんげつ",
+      "meaning": "Nhiều năm, / năm tháng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_358",
+      "term": "人工",
+      "reading": "じんこう",
+      "meaning": "Nhân tạo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_359",
+      "term": "天然",
+      "reading": "てんねん",
+      "meaning": "Tự nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_360",
+      "term": "重視",
+      "reading": "じゅうし",
+      "meaning": "Sự coi trọng, / chú trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_361",
+      "term": "対立",
+      "reading": "たいりつ",
+      "meaning": "Sự đối lập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_362",
+      "term": "面積",
+      "reading": "めんせき",
+      "meaning": "Diện tích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_363",
+      "term": "熱中",
+      "reading": "ねっちゅう",
+      "meaning": "Mải mê, chăm chú",
+      "hanviet": ""
+    },
+    {
+      "id": "v_364",
+      "term": "日光",
+      "reading": "にっこう",
+      "meaning": "Ánh mặt trời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_365",
+      "term": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "Vùng xung quanh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_366",
+      "term": "元",
+      "reading": "もと",
+      "meaning": "Vốn dĩ, ban đầu/ / Nguyên .../ / Cơ sở, căn nguyên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_367",
+      "term": "見た目",
+      "reading": "みため",
+      "meaning": "Vẻ bề ngoài, / dáng vẻ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_368",
+      "term": "夜中",
+      "reading": "よなか",
+      "meaning": "Nửa đêm, / ban đêm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_369",
+      "term": "実施",
+      "reading": "じっし",
+      "meaning": "Sự thực hiện, / thực thi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_370",
+      "term": "価値",
+      "reading": "かち",
+      "meaning": "Giá trị",
+      "hanviet": ""
+    },
+    {
+      "id": "v_371",
+      "term": "義務",
+      "reading": "ぎむ",
+      "meaning": "Nghĩa vụ, bổn phận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_372",
+      "term": "背景",
+      "reading": "はいけい",
+      "meaning": "Phông nền/ / Bối cảnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_373",
+      "term": "起動",
+      "reading": "きどう",
+      "meaning": "Sự khởi động",
+      "hanviet": ""
+    },
+    {
+      "id": "v_374",
+      "term": "操作",
+      "reading": "そうさ",
+      "meaning": "Sự thao tác, / vận hành",
+      "hanviet": ""
+    },
+    {
+      "id": "v_375",
+      "term": "著者",
+      "reading": "ちょしゃ",
+      "meaning": "Tác giả, nhà văn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_376",
+      "term": "診察",
+      "reading": "しんさつ",
+      "meaning": "Sự khám bệnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_377",
+      "term": "批評",
+      "reading": "ひひょう",
+      "meaning": "Sự bình luận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_378",
+      "term": "出世",
+      "reading": "しゅっせ",
+      "meaning": "Sự thăng tiến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_379",
+      "term": "宿泊",
+      "reading": "しゅくはく",
+      "meaning": "Ở trọ, ngủ trọ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_380",
+      "term": "便・便",
+      "reading": "びん・べん",
+      "meaning": "Phương tiện / vận chuyển / Tiện ích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_381",
+      "term": "収集",
+      "reading": "しゅうしゅう",
+      "meaning": "Thu thập/ / Thu gom (rác)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_382",
+      "term": "参考",
+      "reading": "さんこう",
+      "meaning": "Sự tham khảo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_383",
+      "term": "汚染",
+      "reading": "おせん",
+      "meaning": "Ô nhiễm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_384",
+      "term": "土地",
+      "reading": "とち",
+      "meaning": "Mảnh đất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_385",
+      "term": "公共",
+      "reading": "こうきょう",
+      "meaning": "Công cộng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_386",
+      "term": "本来",
+      "reading": "ほんらい",
+      "meaning": "Bản chất, / nguồn gốc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_387",
+      "term": "理想",
+      "reading": "りそう",
+      "meaning": "Lý tưởng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_388",
+      "term": "大気",
+      "reading": "たいき",
+      "meaning": "Khí quyển",
+      "hanviet": ""
+    },
+    {
+      "id": "v_389",
+      "term": "名作",
+      "reading": "めいさく",
+      "meaning": "Danh tác/Tác phẩm nổi / tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_390",
+      "term": "劇場",
+      "reading": "げきじょう",
+      "meaning": "Nhà hát kịch",
+      "hanviet": ""
+    },
+    {
+      "id": "v_391",
+      "term": "休講",
+      "reading": "きゅうこう",
+      "meaning": "Sự nghỉ dạy, / ngừng lên lớp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_392",
+      "term": "全身",
+      "reading": "ぜんしん",
+      "meaning": "Toàn thân",
+      "hanviet": ""
+    },
+    {
+      "id": "v_393",
+      "term": "能率",
+      "reading": "のうりつ",
+      "meaning": "Năng suất, hiệu quả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_394",
+      "term": "(銀行)口座",
+      "reading": "ぎんこうこうざ",
+      "meaning": "Tài khoản (ngân hàng)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_395",
+      "term": "製造",
+      "reading": "せいぞう",
+      "meaning": "Chế tạo, sản xuất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_396",
+      "term": "国会",
+      "reading": "こっかい",
+      "meaning": "Quốc hội",
+      "hanviet": ""
+    },
+    {
+      "id": "v_397",
+      "term": "図形",
+      "reading": "ずけい",
+      "meaning": "Hình vẽ, biểu đồ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_398",
+      "term": "好き嫌い",
+      "reading": "すきらきい",
+      "meaning": "Sự thích và ghét, / kén chọn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_399",
+      "term": "思い込み",
+      "reading": "おもこいみ",
+      "meaning": "Lầm tưởng, định kiến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_400",
+      "term": "通知",
+      "reading": "つうち",
+      "meaning": "Sự thông báo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_401",
+      "term": "反抗",
+      "reading": "はんこう",
+      "meaning": "Sự phản kháng/ / Nổi loạn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_402",
+      "term": "無駄",
+      "reading": "むだ",
+      "meaning": "Vô ích, không hiệu quả, / lãng phí",
+      "hanviet": ""
+    },
+    {
+      "id": "v_403",
+      "term": "休暇",
+      "reading": "きゅうか",
+      "meaning": "Kì nghỉ (có phép)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_404",
+      "term": "眺める",
+      "reading": "ながめる",
+      "meaning": "Nhìn, ngắm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_405",
+      "term": "感心する",
+      "reading": "かんしんする",
+      "meaning": "Ngưỡng mộ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_406",
+      "term": "発揮",
+      "reading": "はっき",
+      "meaning": "Phát huy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_407",
+      "term": "尽きる",
+      "reading": "つきる",
+      "meaning": "Cạn kiệt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_408",
+      "term": "相次ぐ",
+      "reading": "あいつぐ",
+      "meaning": "Liên tục/Nối tiếp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_409",
+      "term": "外す",
+      "reading": "はずす",
+      "meaning": "Loại bỏ / Trượt, không trúng / (đích)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_410",
+      "term": "保つ",
+      "reading": "たもつ",
+      "meaning": "Bảo vệ/Duy trì",
+      "hanviet": ""
+    },
+    {
+      "id": "v_411",
+      "term": "詰まる",
+      "reading": "つまる",
+      "meaning": "Kẹt, ngạt/ / Dày đặc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_412",
+      "term": "縮む",
+      "reading": "ちぢむ",
+      "meaning": "Co lại/ / Rút ngắn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_413",
+      "term": "叶う",
+      "reading": "かのう",
+      "meaning": "Trở thành sự thực",
+      "hanviet": ""
+    },
+    {
+      "id": "v_414",
+      "term": "追う",
+      "reading": "おう",
+      "meaning": "Đuổi, đuổi theo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_415",
+      "term": "俯く",
+      "reading": "うつむく",
+      "meaning": "Cúi đầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_416",
+      "term": "湿る",
+      "reading": "しめる",
+      "meaning": "Ẩm ướt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_417",
+      "term": "誤る",
+      "reading": "あやまる",
+      "meaning": "Mắc lỗi, sai lầm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_418",
+      "term": "塞ぐ",
+      "reading": "ふさぐ",
+      "meaning": "Chặn (đường), bịt / Đóng chặt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_419",
+      "term": "終える",
+      "reading": "おえる",
+      "meaning": "Hoàn thành, / kết thúc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_420",
+      "term": "偏る",
+      "reading": "かたよる",
+      "meaning": "Nghiêng, thiếu / Thiên về / Lệch lạc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_421",
+      "term": "つまずく",
+      "reading": "つまずく",
+      "meaning": "Vấp, ngã",
+      "hanviet": ""
+    },
+    {
+      "id": "v_422",
+      "term": "目指す",
+      "reading": "めざす",
+      "meaning": "Nhắm đến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_423",
+      "term": "蓄える",
+      "reading": "たくわえる",
+      "meaning": "Tích trữ / Tích lũy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_424",
+      "term": "異なる",
+      "reading": "ことなる",
+      "meaning": "Khác, khác với",
+      "hanviet": ""
+    },
+    {
+      "id": "v_425",
+      "term": "面する",
+      "reading": "めんする",
+      "meaning": "Hướng về/Đối diện với",
+      "hanviet": ""
+    },
+    {
+      "id": "v_426",
+      "term": "甘やかす",
+      "reading": "あまやかす",
+      "meaning": "Nuông chiều",
+      "hanviet": ""
+    },
+    {
+      "id": "v_427",
+      "term": "にごる",
+      "reading": "にごる",
+      "meaning": "Đục/Ngả màu / Khàn, đục",
+      "hanviet": ""
+    },
+    {
+      "id": "v_428",
+      "term": "つぶす",
+      "reading": "つぶす",
+      "meaning": "Đập bẹp / Giết thời gian / Phá sản",
+      "hanviet": ""
+    },
+    {
+      "id": "v_429",
+      "term": "ささやく",
+      "reading": "ささやく",
+      "meaning": "Thì thầm, xì xào / Bàn tán, đồn đại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_430",
+      "term": "生じる",
+      "reading": "しょうじる",
+      "meaning": "Phát sinh, nảy sinh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_431",
+      "term": "さびる",
+      "reading": "さびる",
+      "meaning": "Gỉ, mai một",
+      "hanviet": ""
+    },
+    {
+      "id": "v_432",
+      "term": "悔やむ",
+      "reading": "くやむ",
+      "meaning": "Hối hận, tiếc nuối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_433",
+      "term": "譲る",
+      "reading": "ゆずる",
+      "meaning": "Nhường",
+      "hanviet": ""
+    },
+    {
+      "id": "v_434",
+      "term": "略す",
+      "reading": "りゃくす",
+      "meaning": "Lược bỏ, viết tắt / : Xóa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_435",
+      "term": "覆う",
+      "reading": "おおう",
+      "meaning": "Che phủ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_436",
+      "term": "接する",
+      "reading": "せっする",
+      "meaning": "Tiếp giáp, bên cạnh / Tiếp xúc, chạm / Tiếp đãi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_437",
+      "term": "衰える",
+      "reading": "おとろえる",
+      "meaning": "Sa sút, suy nhược",
+      "hanviet": ""
+    },
+    {
+      "id": "v_438",
+      "term": "うなずく",
+      "reading": "うなずく",
+      "meaning": "Gật đầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_439",
+      "term": "染みる",
+      "reading": "しみる",
+      "meaning": "Bám (mùi,...), thấm / Ngấm (thuốc) / Ngấm (vào tim)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_440",
+      "term": "めくる",
+      "reading": "めくる",
+      "meaning": "Lật lên, giở / Vén, xắn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_441",
+      "term": "いじる",
+      "reading": "いじる",
+      "meaning": "Chạm, vuốt / Chỉnh sửa, thay đổi / Trêu đùa / Táy máy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_442",
+      "term": "構う",
+      "reading": "かまう",
+      "meaning": "Quan tâm đến / Để tâm, để ý",
+      "hanviet": ""
+    },
+    {
+      "id": "v_443",
+      "term": "納める",
+      "reading": "おさめる",
+      "meaning": "Đóng, nộp / Cung cấp (sản phẩm)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_444",
+      "term": "潜る",
+      "reading": "もぐる",
+      "meaning": "Lặn, chui xuống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_445",
+      "term": "埋まる",
+      "reading": "うまる",
+      "meaning": "Bị vùi lấp / Bị lấp đầy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_446",
+      "term": "至る",
+      "reading": "いたる",
+      "meaning": "Đạt tới, đạt đến, cho tới",
+      "hanviet": ""
+    },
+    {
+      "id": "v_447",
+      "term": "挟む",
+      "reading": "はさむ",
+      "meaning": "Kẹp vào, chèn vào / Chen ngang",
+      "hanviet": ""
+    },
+    {
+      "id": "v_448",
+      "term": "省く",
+      "reading": "はぶく",
+      "meaning": "Loại bỏ (thứ không cần / thiết) / Lược bớt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_449",
+      "term": "傾く",
+      "reading": "かたむく",
+      "meaning": "Nghiêng / ngả (bóng) / Điêu đứng / Có khuynh hướng, / hướng về",
+      "hanviet": ""
+    },
+    {
+      "id": "v_450",
+      "term": "添える",
+      "reading": "そえる",
+      "meaning": "Thêm vào, kèm theo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_451",
+      "term": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "Vương vãi, bừa bộn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_452",
+      "term": "抱える",
+      "reading": "かかえる",
+      "meaning": "Ôm, cầm trong tay / Đối mặt với",
+      "hanviet": ""
+    },
+    {
+      "id": "v_453",
+      "term": "揃う",
+      "reading": "そろう",
+      "meaning": "Tập trung (Đầy đủ) / Đồng bộ, thống nhất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_454",
+      "term": "欠かす",
+      "reading": "かかさず",
+      "meaning": "Bỏ qua, làm thiếu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_455",
+      "term": "隠れる",
+      "reading": "かくれる",
+      "meaning": "Trốn, ẩn náu / Che,Giấu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_456",
+      "term": "とらえる",
+      "reading": "とらえる",
+      "meaning": "Bắt, bắt giữ / Nắm bắt, chiếm lấy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_457",
+      "term": "招く",
+      "reading": "まねく",
+      "meaning": "Mời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_458",
+      "term": "似る",
+      "reading": "にる",
+      "meaning": "Giống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_459",
+      "term": "崩れる",
+      "reading": "くずれる",
+      "meaning": "Đổ vỡ, đổ nhào / Phá (tiền chẵn → lẻ, / đội hình)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_460",
+      "term": "睨む",
+      "reading": "にらむ",
+      "meaning": "Lườm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_461",
+      "term": "屈む",
+      "reading": "かがむ",
+      "meaning": "Khom lưng, cúi gập / người",
+      "hanviet": ""
+    },
+    {
+      "id": "v_462",
+      "term": "訪ねる",
+      "reading": "たずねる",
+      "meaning": "Thăm, ghé thăm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_463",
+      "term": "狙う",
+      "reading": "ねらう",
+      "meaning": "Ngắm, nhắm (mục đích)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_464",
+      "term": "生かす",
+      "reading": "いかす",
+      "meaning": "Làm sống lại, hồi sinh / Phát huy, tận dụng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_465",
+      "term": "しびれる",
+      "reading": "しびれる",
+      "meaning": "Tê, tê liệt / Tê liệt, si mê",
+      "hanviet": ""
+    },
+    {
+      "id": "v_466",
+      "term": "まく",
+      "reading": "まく",
+      "meaning": "Gieo hạt / Gieo (nguyên nhân)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_467",
+      "term": "収める",
+      "reading": "おさめる",
+      "meaning": "Cất, tàng trữ / Thu được, giành được",
+      "hanviet": ""
+    },
+    {
+      "id": "v_468",
+      "term": "扱う",
+      "reading": "あつかう",
+      "meaning": "Thao tác / Xử lý, bán / Đối phó, giải quyết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_469",
+      "term": "就く",
+      "reading": "つく",
+      "meaning": "Nhậm (chức, vị trí) / Tiếp nhận (công việc)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_470",
+      "term": "恵まれる",
+      "reading": "めぐまれる",
+      "meaning": "Được ban cho",
+      "hanviet": ""
+    },
+    {
+      "id": "v_471",
+      "term": "導く",
+      "reading": "みちびく",
+      "meaning": "Dẫn đường, chỉ lối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_472",
+      "term": "努める",
+      "reading": "つとめる",
+      "meaning": "Cố gắng, nỗ lực",
+      "hanviet": ""
+    },
+    {
+      "id": "v_473",
+      "term": "傷む",
+      "reading": "いたむ",
+      "meaning": "Bị hỏng / Bị thương tích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_474",
+      "term": "演じる",
+      "reading": "えんじる",
+      "meaning": "Diễn, đóng vai",
+      "hanviet": ""
+    },
+    {
+      "id": "v_475",
+      "term": "述べる",
+      "reading": "のべる",
+      "meaning": "Tuyên bố, nói, bày tỏ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_476",
+      "term": "けなす",
+      "reading": "けなす",
+      "meaning": "Gièm pha, chê bai",
+      "hanviet": ""
+    },
+    {
+      "id": "v_477",
+      "term": "築く",
+      "reading": "きずく",
+      "meaning": "Gây dựng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_478",
+      "term": "限る",
+      "reading": "かぎる",
+      "meaning": "Chỉ~ / Chỉ khi, đúng lúc~ / Chưa chắc đã~",
+      "hanviet": ""
+    },
+    {
+      "id": "v_479",
+      "term": "依頼する",
+      "reading": "いらいする",
+      "meaning": "Nhờ vả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_480",
+      "term": "報じる",
+      "reading": "ほうじる",
+      "meaning": "Thông báo (qua phương / tiện truyền thông)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_481",
+      "term": "詫びる",
+      "reading": "わびる",
+      "meaning": "Xin lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_482",
+      "term": "威張る",
+      "reading": "いばる",
+      "meaning": "Ba hoa, khoác lác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_483",
+      "term": "破る",
+      "reading": "やぶる",
+      "meaning": "Làm rách / Phá (luật,...) / Phá (kỷ lục)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_484",
+      "term": "一致する",
+      "reading": "いっちする",
+      "meaning": "Giống nhau, / thống nhất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_485",
+      "term": "主張する",
+      "reading": "しゅちょうする",
+      "meaning": "Chủ trương, / quan điểm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_486",
+      "term": "参る",
+      "reading": "まいる",
+      "meaning": "Đi, viếng thăm (khiêm / nhường ngữ) / Thua, đầu hàng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_487",
+      "term": "くるむ",
+      "reading": "くるむ",
+      "meaning": "Cuộn, túm, gói, bọc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_488",
+      "term": "担ぐ",
+      "reading": "かつぐ",
+      "meaning": "Khiêng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_489",
+      "term": "担う",
+      "reading": "になう",
+      "meaning": "Gánh vác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_490",
+      "term": "移転する",
+      "reading": "いてんする",
+      "meaning": "Dời, di chuyển",
+      "hanviet": ""
+    },
+    {
+      "id": "v_491",
+      "term": "及ぶ",
+      "reading": "およぶ",
+      "meaning": "Ảnh hưởng, lan rộng / Không cần~",
+      "hanviet": ""
+    },
+    {
+      "id": "v_492",
+      "term": "済ます",
+      "reading": "すます",
+      "meaning": "Hoàn tất / (Cũng xong, cũng được)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_493",
+      "term": "怠ける",
+      "reading": "なまける",
+      "meaning": "Làm biếng, lười",
+      "hanviet": ""
+    },
+    {
+      "id": "v_494",
+      "term": "調整する",
+      "reading": "ちょうせいする",
+      "meaning": "Điều tiết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_495",
+      "term": "貢献する",
+      "reading": "こうけんする",
+      "meaning": "Cống hiến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_496",
+      "term": "備える",
+      "reading": "そなえる",
+      "meaning": "Chuẩn bị, phòng bị",
+      "hanviet": ""
+    },
+    {
+      "id": "v_497",
+      "term": "諦める",
+      "reading": "あきらめる",
+      "meaning": "Từ bỏ, bỏ cuộc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_498",
+      "term": "あきれる",
+      "reading": "あきれる",
+      "meaning": "Ngạc nhiên, sốc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_499",
+      "term": "与える",
+      "reading": "あたえる",
+      "meaning": "Trao, cho / (cách nói lịch sự)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_500",
+      "term": "温める",
+      "reading": "あたためる",
+      "meaning": "Làm ấm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_501",
+      "term": "寛ぐ",
+      "reading": "くつろぐ",
+      "meaning": "Nghỉ ngơi, thư giãn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_502",
+      "term": "儲ける",
+      "reading": "もうける",
+      "meaning": "Kiếm tiền, kiếm lời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_503",
+      "term": "控える",
+      "reading": "ひかえる",
+      "meaning": "1. Kiềm chế, điều độ / 2. Chờ đợi đến lượt / Chuẩn bị, sắp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_504",
+      "term": "実る",
+      "reading": "みのる",
+      "meaning": "Ra hoa kết trái/ / Đạt kết quả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_505",
+      "term": "改める",
+      "reading": "あらためる",
+      "meaning": "Làm lại/ / Sửa đổi, cải thiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_506",
+      "term": "補う",
+      "reading": "おぎなう",
+      "meaning": "Đền bù, bổ sung",
+      "hanviet": ""
+    },
+    {
+      "id": "v_507",
+      "term": "触れる",
+      "reading": "ふれる",
+      "meaning": "Chạm, tiếp xúc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_508",
+      "term": "敗れる",
+      "reading": "やぶれる",
+      "meaning": "Thua, bị đánh bại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_509",
+      "term": "雇う",
+      "reading": "やとう",
+      "meaning": "Thuê",
+      "hanviet": ""
+    },
+    {
+      "id": "v_510",
+      "term": "恐れる",
+      "reading": "おそれる",
+      "meaning": "Lo sợ, e ngại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_511",
+      "term": "適する",
+      "reading": "てきする",
+      "meaning": "Thích hợp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_512",
+      "term": "乱れる",
+      "reading": "みだれる",
+      "meaning": "Rối, lộn xộn/ / Bị đảo lộn, bị xáo trộn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_513",
+      "term": "防ぐ",
+      "reading": "ふせぐ",
+      "meaning": "Dự phòng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_514",
+      "term": "割る",
+      "reading": "わる",
+      "meaning": "Làm vỡ/ / Chia ra, phân chia",
+      "hanviet": ""
+    },
+    {
+      "id": "v_515",
+      "term": "悩む",
+      "reading": "なやむ",
+      "meaning": "Trăn trở với ~",
+      "hanviet": ""
+    },
+    {
+      "id": "v_516",
+      "term": "積む",
+      "reading": "つむ",
+      "meaning": "Chất đống, xếp chồng/ / Tích lũy (kinh nghiệm)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_517",
+      "term": "尋ねる",
+      "reading": "たずねる",
+      "meaning": "Chạm, tiếp xúc/ / Hỏi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_518",
+      "term": "焦げる",
+      "reading": "こげる",
+      "meaning": "Bị cháy, cháy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_519",
+      "term": "測る",
+      "reading": "はかる",
+      "meaning": "Đo đếm, ước chừng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_520",
+      "term": "計る",
+      "reading": "はかる",
+      "meaning": "Đo đếm, ước chừng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_521",
+      "term": "量る",
+      "reading": "はかる",
+      "meaning": "cân, đo (khối lượng, dung tích)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_522",
+      "term": "広まる",
+      "reading": "ひろまる",
+      "meaning": "Được lan truyền",
+      "hanviet": ""
+    },
+    {
+      "id": "v_523",
+      "term": "認める",
+      "reading": "みとめる",
+      "meaning": "Công nhận, thừa nhận/ / Nhận thấy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_524",
+      "term": "潰れる",
+      "reading": "つぶれる",
+      "meaning": "Bị nghiền nát, bị tàn phá/ / Phá sản/ / Tốn thời gian / (Say) sấp mặt, tí bỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_525",
+      "term": "見つめる",
+      "reading": "みつめる",
+      "meaning": "Nhìn chăm chú, chằm / chằm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_526",
+      "term": "荒れる",
+      "reading": "あれる",
+      "meaning": "Hỗn loạn/ / Nứt nẻ, khô nẻ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_527",
+      "term": "暴れる",
+      "reading": "あばれる",
+      "meaning": "Quấy, làm rùm beng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_528",
+      "term": "責める",
+      "reading": "せめる",
+      "meaning": "Trách móc, đổ lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_529",
+      "term": "避ける",
+      "reading": "さける",
+      "meaning": "Chạm, tiếp xúc/ / Tránh, né",
+      "hanviet": ""
+    },
+    {
+      "id": "v_530",
+      "term": "すれ違う",
+      "reading": "すれちがう",
+      "meaning": "Đi lướt qua, đi ngược / chiều/ / Lệch, mâu thuẫn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_531",
+      "term": "ためらう",
+      "reading": "ためらう",
+      "meaning": "Do dự, lưỡng lự",
+      "hanviet": ""
+    },
+    {
+      "id": "v_532",
+      "term": "かじる",
+      "reading": "かじる",
+      "meaning": "Cắn, gặm nhấm/ / Học một chút",
+      "hanviet": ""
+    },
+    {
+      "id": "v_533",
+      "term": "攻める",
+      "reading": "せめる",
+      "meaning": "Tấn công, công kích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_534",
+      "term": "はがす",
+      "reading": "はがす",
+      "meaning": "Bóc ra, mở ra/ / Tách ra",
+      "hanviet": ""
+    },
+    {
+      "id": "v_535",
+      "term": "つかむ",
+      "reading": "つかむ",
+      "meaning": "Có trong tay",
+      "hanviet": ""
+    },
+    {
+      "id": "v_536",
+      "term": "かわいがる",
+      "reading": "かわいがる",
+      "meaning": "Nâng niu, yêu thương / Cưng chiều",
+      "hanviet": ""
+    },
+    {
+      "id": "v_537",
+      "term": "祈る",
+      "reading": "いのる",
+      "meaning": "Cầu nguyện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_538",
+      "term": "ひっくり返す",
+      "reading": "ひっくりかえす",
+      "meaning": "Đảo lộn, lật ngược",
+      "hanviet": ""
+    },
+    {
+      "id": "v_539",
+      "term": "しゃがむ",
+      "reading": "しゃがむ",
+      "meaning": "Ngồi xổm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_540",
+      "term": "裏切る",
+      "reading": "うらぎる",
+      "meaning": "Phản bội / Đi ngược lại (kỳ vọng, / lời hứa)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_541",
+      "term": "ふざける",
+      "reading": "ふざける",
+      "meaning": "Đùa cợt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_542",
+      "term": "なぐさめる",
+      "reading": "なぐさめる",
+      "meaning": "An ủi, động viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_543",
+      "term": "恨む",
+      "reading": "うらむ",
+      "meaning": "Hận, căm ghét",
+      "hanviet": ""
+    },
+    {
+      "id": "v_544",
+      "term": "除く",
+      "reading": "のぞく",
+      "meaning": "Loại trừ / Ngoại trừ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_545",
+      "term": "用いる",
+      "reading": "もちいる",
+      "meaning": "Dùng, sử dụng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_546",
+      "term": "耐える",
+      "reading": "たえる",
+      "meaning": "Chịu đựng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_547",
+      "term": "訴える",
+      "reading": "うったえる",
+      "meaning": "Kiện tụng/ / Nhấn mạnh/ / Tác động",
+      "hanviet": ""
+    },
+    {
+      "id": "v_548",
+      "term": "巡る",
+      "reading": "めぐる",
+      "meaning": "Vòng quanh/ / Dạo quanh / Xoay quanh (vấn đề gì / đó)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_549",
+      "term": "負う",
+      "reading": "おう",
+      "meaning": "Gánh vác, nợ nần/ / Bị thương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_550",
+      "term": "脅かす",
+      "reading": "おどかす",
+      "meaning": "Hù dọa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_551",
+      "term": "近寄る",
+      "reading": "ちかよる",
+      "meaning": "Tới gần, lại gần / Tiếp cận, đến gần (để / làm quen)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_552",
+      "term": "占める",
+      "reading": "しめる",
+      "meaning": "Chiếm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_553",
+      "term": "薄める",
+      "reading": "うすめる",
+      "meaning": "Làm cho nhạt đi, làm / cho thưa bớt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_554",
+      "term": "傷つく",
+      "reading": "きずつく",
+      "meaning": "Bị xước, bị mẻ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_555",
+      "term": "求める",
+      "reading": "もとめる",
+      "meaning": "1. Tìm kiếm / 2. Yêu cầu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_556",
+      "term": "ずれる",
+      "reading": "ずれる",
+      "meaning": "1. Bị chệch, lệch / 2. Khác thường",
+      "hanviet": ""
+    },
+    {
+      "id": "v_557",
+      "term": "支える",
+      "reading": "ささえる",
+      "meaning": "Ủng hộ, chống đỡ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_558",
+      "term": "頼る",
+      "reading": "たよる",
+      "meaning": "Phụ thuộc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_559",
+      "term": "逆らう",
+      "reading": "さからう",
+      "meaning": "Ngược lại/Chống đối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_560",
+      "term": "捻る",
+      "reading": "ひねる",
+      "meaning": "1. Vặn / 2. Vặn, xoay (cơ thể) / 3. Vắt (óc)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_561",
+      "term": "静まる",
+      "reading": "しずまる",
+      "meaning": "Lắng xuống, dịu đi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_562",
+      "term": "転がる",
+      "reading": "ころがる",
+      "meaning": "1. Lăn lông lốc / 2. Lăn lộn / 3. Rải rác / 4. Tràn lan",
+      "hanviet": ""
+    },
+    {
+      "id": "v_563",
+      "term": "憧れる",
+      "reading": "あこがれる",
+      "meaning": "Ngưỡng mộ, thần tượng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_564",
+      "term": "味わう",
+      "reading": "あじわう",
+      "meaning": "Nếm, thưởng thức / Trải nghiệm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_565",
+      "term": "設ける",
+      "reading": "もうける",
+      "meaning": "1. Tạo ra / 2. Trang bị, chuẩn bị / 3. Thiết lập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_566",
+      "term": "震える",
+      "reading": "ふるえる",
+      "meaning": "Run rẩy, rung động",
+      "hanviet": ""
+    },
+    {
+      "id": "v_567",
+      "term": "誓う",
+      "reading": "ちかう",
+      "meaning": "Thề",
+      "hanviet": ""
+    },
+    {
+      "id": "v_568",
+      "term": "むかつく",
+      "reading": "むかつく",
+      "meaning": "Phụ thuộc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_569",
+      "term": "呼び止める",
+      "reading": "よびとめる",
+      "meaning": "Gọi lại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_570",
+      "term": "仕上げる",
+      "reading": "しあげる",
+      "meaning": "Hoàn thiện, hoàn thành",
+      "hanviet": ""
+    },
+    {
+      "id": "v_571",
+      "term": "割り込む",
+      "reading": "わりこむ",
+      "meaning": "Chen vào, xen ngang",
+      "hanviet": ""
+    },
+    {
+      "id": "v_572",
+      "term": "差し支える",
+      "reading": "さしつかえる",
+      "meaning": "Gây cản trở, làm phiền",
+      "hanviet": ""
+    },
+    {
+      "id": "v_573",
+      "term": "買い占める",
+      "reading": "かいしめる",
+      "meaning": "Mua hết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_574",
+      "term": "思い切る",
+      "reading": "おもいきる",
+      "meaning": "Quyết định",
+      "hanviet": ""
+    },
+    {
+      "id": "v_575",
+      "term": "振り向く",
+      "reading": "ふりむく",
+      "meaning": "Ngoảnh mặt, quay lại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_576",
+      "term": "思いつく",
+      "reading": "おもいつく",
+      "meaning": "Nghĩ ra",
+      "hanviet": ""
+    },
+    {
+      "id": "v_577",
+      "term": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "Kéo lại, níu kéo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_578",
+      "term": "打ち消す",
+      "reading": "うちけす",
+      "meaning": "1. Phủ nhận, cự tuyệt / 2. Xóa bỏ (nhấn mạnh)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_579",
+      "term": "飛び散る",
+      "reading": "とびちる",
+      "meaning": "Bay lả tả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_580",
+      "term": "乗り継ぐ",
+      "reading": "のりつぐ",
+      "meaning": "Đổi chuyến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_581",
+      "term": "落ち込む",
+      "reading": "おちこむ",
+      "meaning": "1. Sa sút / 2. Buồn bã, suy sụp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_582",
+      "term": "引き返す",
+      "reading": "ひきかえす",
+      "meaning": "Quay trở lại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_583",
+      "term": "打ち明ける",
+      "reading": "うちあける",
+      "meaning": "Bật mí, hé lộ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_584",
+      "term": "目立つ",
+      "reading": "めだつ",
+      "meaning": "Nổi bật, dễ lộ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_585",
+      "term": "詰め込む",
+      "reading": "つめこむ",
+      "meaning": "Nhét vào, nhồi nhét",
+      "hanviet": ""
+    },
+    {
+      "id": "v_586",
+      "term": "見分ける",
+      "reading": "みわける",
+      "meaning": "Phân biệt, làm rõ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_587",
+      "term": "突っ込む",
+      "reading": "つっこむ",
+      "meaning": "Cắm vào, đâm vào/ / Chỉ trích, moi móc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_588",
+      "term": "くっ付く",
+      "reading": "くっつく",
+      "meaning": "Phủ nhận, cự tuyệt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_589",
+      "term": "引っかかる",
+      "reading": "ひっかかる",
+      "meaning": "Bị mắc vào, mắc kẹt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_590",
+      "term": "持ち寄る",
+      "reading": "もちよる",
+      "meaning": "Gom lại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_591",
+      "term": "当てはまる",
+      "reading": "あてはまる",
+      "meaning": "H / ợ / p, phù h / p",
+      "hanviet": ""
+    },
+    {
+      "id": "v_592",
+      "term": "付け加える",
+      "reading": "つけくわえる",
+      "meaning": "Thêm vào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_593",
+      "term": "行き着く",
+      "reading": "いきつく",
+      "meaning": "Đến nơi, đạt tới",
+      "hanviet": ""
+    },
+    {
+      "id": "v_594",
+      "term": "上回る",
+      "reading": "うわまわる",
+      "meaning": "Vượt quá",
+      "hanviet": ""
+    },
+    {
+      "id": "v_595",
+      "term": "飛び越える",
+      "reading": "とびこえる",
+      "meaning": "Nhảy qua",
+      "hanviet": ""
+    },
+    {
+      "id": "v_596",
+      "term": "見渡す",
+      "reading": "みわたす",
+      "meaning": "Nhìn tổng thể, bao quát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_597",
+      "term": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "Áp dụng, đưa vào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_598",
+      "term": "立ち上げる",
+      "reading": "たちあげる",
+      "meaning": "Khởi động / Bắt đầu, thành lập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_599",
+      "term": "打ち上げる",
+      "reading": "うちあげる",
+      "meaning": "Phóng, bắn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_600",
+      "term": "冷え込む",
+      "reading": "ひえこむ",
+      "meaning": "Lạnh / Đóng băng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_601",
+      "term": "取り壊す",
+      "reading": "とりこわす",
+      "meaning": "Phá bỏ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_602",
+      "term": "積み重ねる",
+      "reading": "つみかさねる",
+      "meaning": "Chất đống, tích luỹ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_603",
+      "term": "建て替える",
+      "reading": "たてかえる",
+      "meaning": "Xây lại, xây dựng lại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_604",
+      "term": "切り替える",
+      "reading": "きりかえる",
+      "meaning": "Sửa đổi, thay thế",
+      "hanviet": ""
+    },
+    {
+      "id": "v_605",
+      "term": "受け持つ",
+      "reading": "うけもつ",
+      "meaning": "Đảm nhiệm, phụ trách",
+      "hanviet": ""
+    },
+    {
+      "id": "v_606",
+      "term": "取り上げる",
+      "reading": "とりあげる",
+      "meaning": "Cầm, nhấc / Cướp, tước đi / Nhắc tới, bàn tới",
+      "hanviet": ""
+    },
+    {
+      "id": "v_607",
+      "term": "繰り返す",
+      "reading": "くりかえす",
+      "meaning": "Đảm nhiệm, phụ trách",
+      "hanviet": ""
+    },
+    {
+      "id": "v_608",
+      "term": "思いがけない",
+      "reading": "おもいがけない",
+      "meaning": "Ngoài dự tính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_609",
+      "term": "手ごろ",
+      "reading": "てごろ",
+      "meaning": "Vừa phải, hợp lí",
+      "hanviet": ""
+    },
+    {
+      "id": "v_610",
+      "term": "不公平",
+      "reading": "ふこうへい",
+      "meaning": "Không công bằng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_611",
+      "term": "正式",
+      "reading": "せいしき",
+      "meaning": "Chính thức",
+      "hanviet": ""
+    },
+    {
+      "id": "v_612",
+      "term": "質素",
+      "reading": "しっそ",
+      "meaning": "Giản dị",
+      "hanviet": ""
+    },
+    {
+      "id": "v_613",
+      "term": "詳細",
+      "reading": "しょうさい",
+      "meaning": "Chi tiết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_614",
+      "term": "大幅",
+      "reading": "おおはば",
+      "meaning": "Đáng kể, tương đối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_615",
+      "term": "透明",
+      "reading": "とうめい",
+      "meaning": "Trong suốt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_616",
+      "term": "乱暴",
+      "reading": "らんぼう",
+      "meaning": "Cục tính, vô lễ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_617",
+      "term": "合同",
+      "reading": "ごうどう",
+      "meaning": "Kết hợp, cùng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_618",
+      "term": "鮮やか",
+      "reading": "あざやか",
+      "meaning": "Rực rỡ, rõ nét",
+      "hanviet": ""
+    },
+    {
+      "id": "v_619",
+      "term": "賢い",
+      "reading": "かしこい",
+      "meaning": "Thông minh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_620",
+      "term": "相応しい",
+      "reading": "ふさわしい",
+      "meaning": "Phù hợp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_621",
+      "term": "乏しい",
+      "reading": "とぼしい",
+      "meaning": "Thiếu sót, không đủ, / nghèo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_622",
+      "term": "慌ただしい",
+      "reading": "あわただしい",
+      "meaning": "Bận tối mắt tối mũi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_623",
+      "term": "物足りない",
+      "reading": "ものたりない",
+      "meaning": "Thích hợp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_624",
+      "term": "やかましい",
+      "reading": "やかましい",
+      "meaning": "Ồn ào / Khó tính, khắt khe",
+      "hanviet": ""
+    },
+    {
+      "id": "v_625",
+      "term": "騒がしい",
+      "reading": "さわがしい",
+      "meaning": "Ồn ào, huyên náo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_626",
+      "term": "〜を騒がす",
+      "reading": "〜をさわがす",
+      "meaning": "Ồn ào, gây xôn xao dư / luận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_627",
+      "term": "輝かしい",
+      "reading": "かがやかしい",
+      "meaning": "Tươi sáng, rực rỡ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_628",
+      "term": "たくましい",
+      "reading": "たくましい",
+      "meaning": "Mạnh mẽ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_629",
+      "term": "頼もしい",
+      "reading": "たのもしい",
+      "meaning": "Đáng tin cậy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_630",
+      "term": "ずるい",
+      "reading": "ずるい",
+      "meaning": "Ranh mãnh, quỷ quyệt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_631",
+      "term": "そそっかしい",
+      "reading": "そそっかしい",
+      "meaning": "Hấp tấp, vội vàng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_632",
+      "term": "くどい",
+      "reading": "くどい",
+      "meaning": "Dài dòng, lắm lời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_633",
+      "term": "痛ましい",
+      "reading": "いたましい",
+      "meaning": "Buồn, đau đớn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_634",
+      "term": "哀れな",
+      "reading": "あわれな",
+      "meaning": "Đáng thương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_635",
+      "term": "重苦しい",
+      "reading": "おもくるしい",
+      "meaning": "Nặng nề, khó chịu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_636",
+      "term": "ずうずうしい",
+      "reading": "ずうずうしい",
+      "meaning": "Trơ trẽn, vô liêm sỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_637",
+      "term": "厚かましい",
+      "reading": "あつかましい",
+      "meaning": "Mặt dày, trơ trẽn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_638",
+      "term": "険しい",
+      "reading": "けわしい",
+      "meaning": "Dựng đứng, dốc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_639",
+      "term": "緩やか",
+      "reading": "ゆるやか",
+      "meaning": "(Dốc) thoải",
+      "hanviet": ""
+    },
+    {
+      "id": "v_640",
+      "term": "分厚い",
+      "reading": "ぶあつい",
+      "meaning": "Cồng kềnh, dày",
+      "hanviet": ""
+    },
+    {
+      "id": "v_641",
+      "term": "弱々しい",
+      "reading": "よわよわしい",
+      "meaning": "Còm nhom, yếu ớt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_642",
+      "term": "情けない",
+      "reading": "なさけない",
+      "meaning": "1. Thất vọng, thảm hại / 2. Không quan tâm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_643",
+      "term": "等しい",
+      "reading": "ひとしい",
+      "meaning": "Bằng nhau, tương tự",
+      "hanviet": ""
+    },
+    {
+      "id": "v_644",
+      "term": "羨ましい",
+      "reading": "うらやましい",
+      "meaning": "Thèm muốn, ghen tị",
+      "hanviet": ""
+    },
+    {
+      "id": "v_645",
+      "term": "くだらない",
+      "reading": "くだらない",
+      "meaning": "Vô nghĩa, tầm phào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_646",
+      "term": "すまない",
+      "reading": "すまない",
+      "meaning": "Xin lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_647",
+      "term": "騒がしい",
+      "reading": "さわがしい",
+      "meaning": "Inh ỏi, ồn ào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_648",
+      "term": "みっともない",
+      "reading": "みっともない",
+      "meaning": "Đáng xấu hổ, khó coi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_649",
+      "term": "貧しい",
+      "reading": "まずしい",
+      "meaning": "Nghèo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_650",
+      "term": "幼い",
+      "reading": "おさない",
+      "meaning": "Trẻ con, ngây thơ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_651",
+      "term": "またとない",
+      "reading": "またとない",
+      "meaning": "Duy nhất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_652",
+      "term": "偉い",
+      "reading": "えらい",
+      "meaning": "1. Người có chức vụ cao / 2. Giỏi, tuyệt vời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_653",
+      "term": "詳しい",
+      "reading": "くわしい",
+      "meaning": "Chi tiết, am hiểu về...",
+      "hanviet": ""
+    },
+    {
+      "id": "v_654",
+      "term": "目覚ましい",
+      "reading": "めざましい",
+      "meaning": "Nổi bật, vượt bậc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_655",
+      "term": "曖昧な",
+      "reading": "あいまいな",
+      "meaning": "Mơ hồ, mông lung",
+      "hanviet": ""
+    },
+    {
+      "id": "v_656",
+      "term": "有効",
+      "reading": "ゆうこう",
+      "meaning": "Hữu hiệu, có hiệu quả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_657",
+      "term": "大げさ",
+      "reading": "おおげさ",
+      "meaning": "Phóng đại, phô trương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_658",
+      "term": "深刻",
+      "reading": "しんこく",
+      "meaning": "Nghiêm trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_659",
+      "term": "温厚",
+      "reading": "おんこう",
+      "meaning": "Dịu dàng, hòa nhã",
+      "hanviet": ""
+    },
+    {
+      "id": "v_660",
+      "term": "勝手",
+      "reading": "かって",
+      "meaning": "Ích kỉ, tự tiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_661",
+      "term": "慎重",
+      "reading": "しんちょう",
+      "meaning": "Thận trọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_662",
+      "term": "優秀",
+      "reading": "ゆうしゅう",
+      "meaning": "Ưu tú",
+      "hanviet": ""
+    },
+    {
+      "id": "v_663",
+      "term": "奇妙",
+      "reading": "きみょう",
+      "meaning": "Thêm vào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_664",
+      "term": "適度",
+      "reading": "てきど",
+      "meaning": "Chừng mực, điều độ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_665",
+      "term": "冷静",
+      "reading": "れいせい",
+      "meaning": "Bình tĩnh, điềm tĩnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_666",
+      "term": "贅沢",
+      "reading": "ぜいたく",
+      "meaning": "Xa xỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_667",
+      "term": "必死",
+      "reading": "ひっし",
+      "meaning": "Quyết tâm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_668",
+      "term": "頑丈",
+      "reading": "がんじょう",
+      "meaning": "Chặt chẽ, bền vững",
+      "hanviet": ""
+    },
+    {
+      "id": "v_669",
+      "term": "手軽",
+      "reading": "てがる",
+      "meaning": "Nhẹ nhàng, đơn giản",
+      "hanviet": ""
+    },
+    {
+      "id": "v_670",
+      "term": "柔軟",
+      "reading": "じゅうなん",
+      "meaning": "Mềm dẻo / Linh hoạt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_671",
+      "term": "小柄",
+      "reading": "こがら",
+      "meaning": "Lùn, nhỏ con",
+      "hanviet": ""
+    },
+    {
+      "id": "v_672",
+      "term": "無口",
+      "reading": "むくち",
+      "meaning": "Ít nói, kín tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_673",
+      "term": "温暖",
+      "reading": "おんだん",
+      "meaning": "Ấm áp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_674",
+      "term": "安易",
+      "reading": "あんい",
+      "meaning": "Thoải mái",
+      "hanviet": ""
+    },
+    {
+      "id": "v_675",
+      "term": "愉快",
+      "reading": "ゆかい",
+      "meaning": "Vui nhộn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_676",
+      "term": "過剰",
+      "reading": "かじょう",
+      "meaning": "Quá mức, thái quá",
+      "hanviet": ""
+    },
+    {
+      "id": "v_677",
+      "term": "有利",
+      "reading": "ゆうり",
+      "meaning": "Có lợi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_678",
+      "term": "利口",
+      "reading": "りこう",
+      "meaning": "Lanh lợi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_679",
+      "term": "多才",
+      "reading": "たさい",
+      "meaning": "Đa tài",
+      "hanviet": ""
+    },
+    {
+      "id": "v_680",
+      "term": "物騒",
+      "reading": "ぶっそう",
+      "meaning": "Nguy hiểm, loạn lạc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_681",
+      "term": "いい加減",
+      "reading": "かげんいい",
+      "meaning": "Vô trách nhiệm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_682",
+      "term": "真剣",
+      "reading": "しんけん",
+      "meaning": "Nghiêm chỉnh, đúng đắn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_683",
+      "term": "優良",
+      "reading": "ゆうりょう",
+      "meaning": "Ưu tú, xuất sắc, tốt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_684",
+      "term": "余計",
+      "reading": "よけい",
+      "meaning": "Nhiều hơn, thêm / Thừa thãi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_685",
+      "term": "頑固",
+      "reading": "がんこ",
+      "meaning": "Cứng đầu, bảo thủ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_686",
+      "term": "簡略",
+      "reading": "かんりゃく",
+      "meaning": "Xa xỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_687",
+      "term": "好調",
+      "reading": "こうちょう",
+      "meaning": "Trạng thái tốt, có triển / vọng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_688",
+      "term": "わずか",
+      "reading": "わずか",
+      "meaning": "Chỉ một chút",
+      "hanviet": ""
+    },
+    {
+      "id": "v_689",
+      "term": "円満",
+      "reading": "えんまん",
+      "meaning": "Viên mãn, êm đẹp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_690",
+      "term": "率直",
+      "reading": "そっちょく",
+      "meaning": "Thật thà, ngay thẳng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_691",
+      "term": "不規則",
+      "reading": "ふきそく",
+      "meaning": "Bất quy tắc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_692",
+      "term": "鮮明",
+      "reading": "せんめい",
+      "meaning": "Rõ ràng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_693",
+      "term": "滑らか",
+      "reading": "なめらか",
+      "meaning": "Trơn tru",
+      "hanviet": ""
+    },
+    {
+      "id": "v_694",
+      "term": "ありがち",
+      "reading": "ありがち",
+      "meaning": "Hay xảy ra, phổ biến",
+      "hanviet": ""
+    },
+    {
+      "id": "v_695",
+      "term": "あやふや",
+      "reading": "あやふや",
+      "meaning": "Không rõ ràng, mơ hồ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_696",
+      "term": "大まか",
+      "reading": "おおまか",
+      "meaning": "Chung chung, sơ lược",
+      "hanviet": ""
+    },
+    {
+      "id": "v_697",
+      "term": "急速",
+      "reading": "きゅうそく",
+      "meaning": "Cấp tốc, nhanh chóng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_698",
+      "term": "器用",
+      "reading": "きよう",
+      "meaning": "Khéo léo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_699",
+      "term": "的確",
+      "reading": "てきかく",
+      "meaning": "Rõ ràng, chính xác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_700",
+      "term": "強引",
+      "reading": "ごういん",
+      "meaning": "Cưỡng ép, bắt buộc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_701",
+      "term": "豪華",
+      "reading": "ごうか",
+      "meaning": "Hào nhoáng, phô trương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_702",
+      "term": "穏やか",
+      "reading": "おだやか",
+      "meaning": "Điềm đạm, yên ả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_703",
+      "term": "偉大",
+      "reading": "いだい",
+      "meaning": "Vĩ đại, xuất chúng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_704",
+      "term": "内気",
+      "reading": "うちき",
+      "meaning": "Xấu hổ, ngượng ngùng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_705",
+      "term": "明らか",
+      "reading": "あきらか",
+      "meaning": "Rõ ràng, hiển nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_706",
+      "term": "厄介",
+      "reading": "やっかい",
+      "meaning": "Phiền hà, rắc rối",
+      "hanviet": ""
+    },
+    {
+      "id": "v_707",
+      "term": "そっくり",
+      "reading": "そっくり",
+      "meaning": "Chính xác, giống như",
+      "hanviet": ""
+    },
+    {
+      "id": "v_708",
+      "term": "稀",
+      "reading": "まれ",
+      "meaning": "Hiếm có",
+      "hanviet": ""
+    },
+    {
+      "id": "v_709",
+      "term": "密接",
+      "reading": "みっせつ",
+      "meaning": "Mật thiết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_710",
+      "term": "極端",
+      "reading": "きょくたん",
+      "meaning": "Cực đoan",
+      "hanviet": ""
+    },
+    {
+      "id": "v_711",
+      "term": "抽象的",
+      "reading": "ちゅうしょうてき",
+      "meaning": "Trừu tượng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_712",
+      "term": "主な",
+      "reading": "おもな",
+      "meaning": "Chủ yếu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_713",
+      "term": "快適",
+      "reading": "かいてき",
+      "meaning": "Sảng khoái, dễ chịu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_714",
+      "term": "確か",
+      "reading": "たしか",
+      "meaning": "Chính xác, chuẩn / Chắc là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_715",
+      "term": "有難い",
+      "reading": "ありがたい",
+      "meaning": "HỮU NAN / Biết ơn, cảm kích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_716",
+      "term": "めでたい",
+      "reading": "めでたい",
+      "meaning": "Vui vẻ, hạnh phúc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_717",
+      "term": "ばかばかしい",
+      "reading": "ばかばかしい",
+      "meaning": "Tào lao, vô bổ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_718",
+      "term": "面倒くさい",
+      "reading": "めんどうくさい",
+      "meaning": "DIỆN ĐẢO / Phiền phức",
+      "hanviet": ""
+    },
+    {
+      "id": "v_719",
+      "term": "弱気な",
+      "reading": "よわきな",
+      "meaning": "NHƯỢC KHÍ / Nhát gan, nhút nhát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_720",
+      "term": "強気",
+      "reading": "つよき",
+      "meaning": "CƯỜNG KHÍ / Vững chắc, kiên định",
+      "hanviet": ""
+    },
+    {
+      "id": "v_721",
+      "term": "粗末",
+      "reading": "そまつ",
+      "meaning": "THÔ MẠT / Lãng phí, coi thường",
+      "hanviet": ""
+    },
+    {
+      "id": "v_722",
+      "term": "貴重な",
+      "reading": "きちょうな",
+      "meaning": "QUÝ TRỌNG / Quý báu, đáng giá",
+      "hanviet": ""
+    },
+    {
+      "id": "v_723",
+      "term": "惨め",
+      "reading": "みじめ",
+      "meaning": "THẢM / Đáng thương, / đáng buồn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_724",
+      "term": "さすが",
+      "reading": "さすが",
+      "meaning": "Quả là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_725",
+      "term": "気楽な",
+      "reading": "きらくな",
+      "meaning": "KHÍ LẠC / Thoải mái",
+      "hanviet": ""
+    },
+    {
+      "id": "v_726",
+      "term": "欲張り",
+      "reading": "よくばり",
+      "meaning": "DỤC TRƯƠNG / Tham lam",
+      "hanviet": ""
+    },
+    {
+      "id": "v_727",
+      "term": "謙虚",
+      "reading": "けんきょ",
+      "meaning": "KHIÊM HƯ / Khiêm tốn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_728",
+      "term": "言わば",
+      "reading": "いわば",
+      "meaning": "NGÔN / Có thể nói như là / Ví dụ như là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_729",
+      "term": "絶えず",
+      "reading": "たえず",
+      "meaning": "TUYỆT / Liên miên, liên tục",
+      "hanviet": ""
+    },
+    {
+      "id": "v_730",
+      "term": "いよいよ",
+      "reading": "いよいよ",
+      "meaning": "Cuối cùng thì...",
+      "hanviet": ""
+    },
+    {
+      "id": "v_731",
+      "term": "とうとう",
+      "reading": "とうとう",
+      "meaning": "Cuối cùng, sau cùng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_732",
+      "term": "徐々に",
+      "reading": "じょじょに",
+      "meaning": "TỪ / Chầm chậm, dần dần",
+      "hanviet": ""
+    },
+    {
+      "id": "v_733",
+      "term": "たびたび",
+      "reading": "たびたび",
+      "meaning": "Thường xuyên lặp lại / (nhiều lần)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_734",
+      "term": "ぶかぶか",
+      "reading": "ぶかぶか",
+      "meaning": "Rộng thùng thình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_735",
+      "term": "ぼんやり",
+      "reading": "ぼんやり",
+      "meaning": "Mờ ảo, không rõ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_736",
+      "term": "ほぼ",
+      "reading": "ほぼ",
+      "meaning": "Gần như, hầu hết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_737",
+      "term": "せめて",
+      "reading": "せめて",
+      "meaning": "Ít nhất thì",
+      "hanviet": ""
+    },
+    {
+      "id": "v_738",
+      "term": "割と",
+      "reading": "わりと",
+      "meaning": "CÁT / Tương đối, khá là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_739",
+      "term": "くたくた",
+      "reading": "くたくた",
+      "meaning": "Mệt mỏi, phờ phạc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_740",
+      "term": "わずかに",
+      "reading": "わずかに",
+      "meaning": "Hơi, chỉ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_741",
+      "term": "いきなり",
+      "reading": "いきなり",
+      "meaning": "Đột ngột",
+      "hanviet": ""
+    },
+    {
+      "id": "v_742",
+      "term": "とっくに",
+      "reading": "とっくに",
+      "meaning": "Thời gian dài trước đây",
+      "hanviet": ""
+    },
+    {
+      "id": "v_743",
+      "term": "ごろごろ",
+      "reading": "ごろごろ",
+      "meaning": "1. Thong thả, thư thái / 2. (Vật to lăn) Lông lốc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_744",
+      "term": "直ちに",
+      "reading": "ただちに",
+      "meaning": "TRỰC / Ngay lập tức",
+      "hanviet": ""
+    },
+    {
+      "id": "v_745",
+      "term": "着々と",
+      "reading": "ちゃくちゃくと",
+      "meaning": "TRỨ / (Công việc) Ổn định",
+      "hanviet": ""
+    },
+    {
+      "id": "v_746",
+      "term": "そうとう",
+      "reading": "そうとう",
+      "meaning": "Rất, khá là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_747",
+      "term": "かさかさ",
+      "reading": "かさかさ",
+      "meaning": "(Da) Khô ráp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_748",
+      "term": "さっさと",
+      "reading": "さっさと",
+      "meaning": "Nhanh chóng, / khẩn trương",
+      "hanviet": ""
+    },
+    {
+      "id": "v_749",
+      "term": "自ら",
+      "reading": "みずから",
+      "meaning": "TỰ / Tự mình, đích thân",
+      "hanviet": ""
+    },
+    {
+      "id": "v_750",
+      "term": "生き生き",
+      "reading": "いきいき",
+      "meaning": "SINH / Năng động, / đầy sức sống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_751",
+      "term": "あいにく",
+      "reading": "あいにく",
+      "meaning": "Không may, / thật đáng tiếc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_752",
+      "term": "案の定",
+      "reading": "あんのじょう",
+      "meaning": "ÁN ĐỊNH / Quả nhiên, / đúng như dự tính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_753",
+      "term": "依然として",
+      "reading": "いぜんとして",
+      "meaning": "Y NHIÊN / Như trước đây / đã như vậy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_754",
+      "term": "予め",
+      "reading": "あらかじめ",
+      "meaning": "DƯ / Sẵn sàng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_755",
+      "term": "間際",
+      "reading": "まぎわ",
+      "meaning": "GIAN TẾ / Ngay trước khi, / lúc sắp sửa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_756",
+      "term": "たちまち",
+      "reading": "たちまち",
+      "meaning": "Ngay lập tức, đột nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_757",
+      "term": "こつこつ",
+      "reading": "こつこつ",
+      "meaning": "Chăm chỉ, từng chút một",
+      "hanviet": ""
+    },
+    {
+      "id": "v_758",
+      "term": "一気に",
+      "reading": "いっきに",
+      "meaning": "NHẤT KHÍ / Một lần, một hơi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_759",
+      "term": "うとうと",
+      "reading": "うとうと",
+      "meaning": "Lơ mơ, mơ màng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_760",
+      "term": "たまに",
+      "reading": "たまに",
+      "meaning": "Thi thoảng, đôi khi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_761",
+      "term": "たまたま",
+      "reading": "たまたま",
+      "meaning": "Tình cờ, ngẫu nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_762",
+      "term": "びっしょり",
+      "reading": "びっしょり",
+      "meaning": "Ướt sũng, sũng nước",
+      "hanviet": ""
+    },
+    {
+      "id": "v_763",
+      "term": "おそらく",
+      "reading": "おそらく",
+      "meaning": "Có lẽ, e rằng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_764",
+      "term": "やや",
+      "reading": "やや",
+      "meaning": "Một chút, một ít",
+      "hanviet": ""
+    },
+    {
+      "id": "v_765",
+      "term": "かつて",
+      "reading": "かつて",
+      "meaning": "Đã từng, trước kia",
+      "hanviet": ""
+    },
+    {
+      "id": "v_766",
+      "term": "一旦",
+      "reading": "いったん",
+      "meaning": "NHẤT ĐÁN / Một khi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_767",
+      "term": "じかに",
+      "reading": "じかに",
+      "meaning": "Trực tiếp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_768",
+      "term": "ぐったり",
+      "reading": "ぐったり",
+      "meaning": "Mệt mỏi rã rời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_769",
+      "term": "常に",
+      "reading": "つねに",
+      "meaning": "THƯỜNG / Thường thường, luôn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_770",
+      "term": "ひそひそ",
+      "reading": "ひそひそ",
+      "meaning": "Khe khẽ, thì thầm, / rón rén",
+      "hanviet": ""
+    },
+    {
+      "id": "v_771",
+      "term": "一斉に",
+      "reading": "いっせいに",
+      "meaning": "NHẤT TỀ / Cùng một lúc, đồng loạt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_772",
+      "term": "当分",
+      "reading": "とうぶん",
+      "meaning": "ĐƯƠNG PHÂN / Như hiện tại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_773",
+      "term": "一転",
+      "reading": "いってん",
+      "meaning": "NHẤT CHUYỂN / Thay đổi hoàn toàn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_774",
+      "term": "きっぱり",
+      "reading": "きっぱり",
+      "meaning": "Dứt khoát, thẳng thừng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_775",
+      "term": "精一杯",
+      "reading": "せいいっぱい",
+      "meaning": "TINH NHẤT BÔI / Với tất cả sức mạnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_776",
+      "term": "即座に",
+      "reading": "そくざに",
+      "meaning": "TỨC TOẠ / Ngay lập tức",
+      "hanviet": ""
+    },
+    {
+      "id": "v_777",
+      "term": "ごちゃごちゃ",
+      "reading": "ごちゃごちゃ",
+      "meaning": "Xáo trộn lung tung",
+      "hanviet": ""
+    },
+    {
+      "id": "v_778",
+      "term": "一層",
+      "reading": "いっそう",
+      "meaning": "NHẤT TẰNG / Hơn nhiều, hơn một bậc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_779",
+      "term": "ぎっしり",
+      "reading": "ぎっしり",
+      "meaning": "Lèn chặt, đầy ắp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_780",
+      "term": "ぐるぐる",
+      "reading": "ぐるぐる",
+      "meaning": "Vòng vòng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_781",
+      "term": "順々に",
+      "reading": "じゅんじゅんに",
+      "meaning": "THUẬN / Theo trình tự lần lượt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_782",
+      "term": "軽々と",
+      "reading": "かるがると",
+      "meaning": "KHINH / Nhẹ nhàng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_783",
+      "term": "細々と",
+      "reading": "ほそぼそと",
+      "meaning": "TẾ / 1. Nhỏ, yếu ớt / 2. Chi tiết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_784",
+      "term": "まもなく",
+      "reading": "まもなく",
+      "meaning": "Sắp, chốc lát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_785",
+      "term": "ぐんぐん",
+      "reading": "ぐんぐん",
+      "meaning": "Nhanh chóng, mau lẹ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_786",
+      "term": "ふんわり",
+      "reading": "ふんわり",
+      "meaning": "Mềm mại, bồng bềnh",
+      "hanviet": ""
+    },
+    {
+      "id": "v_787",
+      "term": "うっすら",
+      "reading": "うっすら",
+      "meaning": "Hơi, mờ nhạt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_788",
+      "term": "しっとり",
+      "reading": "しっとり",
+      "meaning": "Ẩm ướt, ẩm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_789",
+      "term": "どうりで",
+      "reading": "どうりで",
+      "meaning": "Hèn chi, thảo nào",
+      "hanviet": ""
+    },
+    {
+      "id": "v_790",
+      "term": "ゆらゆら",
+      "reading": "ゆらゆら",
+      "meaning": "Lắc lư, phất phơ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_791",
+      "term": "さらさら",
+      "reading": "さらさら",
+      "meaning": "1. Mềm mại, mượt mà / 2. Róc rách",
+      "hanviet": ""
+    },
+    {
+      "id": "v_792",
+      "term": "すらすら",
+      "reading": "すらすら",
+      "meaning": "Trươn tru, trôi chảy",
+      "hanviet": ""
+    },
+    {
+      "id": "v_793",
+      "term": "続々と",
+      "reading": "ぞくぞくと",
+      "meaning": "TỤC / Liên tục",
+      "hanviet": ""
+    },
+    {
+      "id": "v_794",
+      "term": "少なくとも",
+      "reading": "すくなくとも",
+      "meaning": "THIỂU / Ít nhất, chí ít là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_795",
+      "term": "先々",
+      "reading": "さきざき",
+      "meaning": "TIÊN / Sau này, tương lai xa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_796",
+      "term": "知らず",
+      "reading": "しらず",
+      "meaning": "TRI / Không bị ảnh hưởng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_797",
+      "term": "一時的に",
+      "reading": "いちじてきに",
+      "meaning": "NHẤT THÌ ĐÍCH / Tạm thời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_798",
+      "term": "ばっさり",
+      "reading": "ばっさり",
+      "meaning": "Kiên quyết, quyết liệt, / hoàn toàn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_799",
+      "term": "ぎざぎざ",
+      "reading": "ぎざぎざ",
+      "meaning": "Hình răng cưa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_800",
+      "term": "いちいち",
+      "reading": "いちいち",
+      "meaning": "Từng cái một, chi li",
+      "hanviet": ""
+    },
+    {
+      "id": "v_801",
+      "term": "きょろきょろ",
+      "reading": "きょろきょろ",
+      "meaning": "Bồn chồn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_802",
+      "term": "今頃",
+      "reading": "いまごろ",
+      "meaning": "KIM KHOẢNH / Khoảng thời gian này",
+      "hanviet": ""
+    },
+    {
+      "id": "v_803",
+      "term": "どうせ",
+      "reading": "どうせ",
+      "meaning": "Đằng nào thì",
+      "hanviet": ""
+    },
+    {
+      "id": "v_804",
+      "term": "それぞれ",
+      "reading": "それぞれ",
+      "meaning": "Lần lượt mỗi, từng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_805",
+      "term": "がっしり",
+      "reading": "がっしり",
+      "meaning": "Chắc chắn, chắc nịch",
+      "hanviet": ""
+    },
+    {
+      "id": "v_806",
+      "term": "うっかり",
+      "reading": "うっかり",
+      "meaning": "Lơ đễnh, lỡ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_807",
+      "term": "ほんの",
+      "reading": "ほんの",
+      "meaning": "Chỉ, chỉ là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_808",
+      "term": "あらゆる",
+      "reading": "あらゆる",
+      "meaning": "Mọi, tất cả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_809",
+      "term": "いずれ",
+      "reading": "いずれ",
+      "meaning": "1. Sớm muộn... / 2. Cái nào cũng, bất kỳ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_810",
+      "term": "見事に",
+      "reading": "みごとに",
+      "meaning": "KIẾN SỰ / 1 cách tuyệt vời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_811",
+      "term": "改めて",
+      "reading": "あらためて",
+      "meaning": "CẢI / Một lần nữa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_812",
+      "term": "何となく",
+      "reading": "なんとなく",
+      "meaning": "HÀ / Bằng cách nào đó",
+      "hanviet": ""
+    },
+    {
+      "id": "v_813",
+      "term": "次第に",
+      "reading": "しだいに",
+      "meaning": "THỨ ĐỆ / 1. Dần dần, từ từ / 2. Ngay sau khi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_814",
+      "term": "ようやく",
+      "reading": "ようやく",
+      "meaning": "Cuối cùng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_815",
+      "term": "いわゆる",
+      "reading": "いわゆる",
+      "meaning": "Cái gọi là...",
+      "hanviet": ""
+    },
+    {
+      "id": "v_816",
+      "term": "幾分",
+      "reading": "いくぶん",
+      "meaning": "KI PHÂN / 1. Một phần / 2. Một chút",
+      "hanviet": ""
+    },
+    {
+      "id": "v_817",
+      "term": "一段と",
+      "reading": "いちだんと",
+      "meaning": "NHẤT ĐOẠN / Hơn hẳn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_818",
+      "term": "大いに",
+      "reading": "おおいに",
+      "meaning": "ĐẠI / Nhiều, lớn, rất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_819",
+      "term": "せいぜい",
+      "reading": "せいぜい",
+      "meaning": "1. Tối đa, cùng lắm chỉ / 2. Nhiều nhất có thể",
+      "hanviet": ""
+    },
+    {
+      "id": "v_820",
+      "term": "とりあえず",
+      "reading": "とりあえず",
+      "meaning": "Trước hết",
+      "hanviet": ""
+    },
+    {
+      "id": "v_821",
+      "term": "既に",
+      "reading": "すでに",
+      "meaning": "KÍ / Đã, đã rồi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_822",
+      "term": "にわかに",
+      "reading": "にわかに",
+      "meaning": "Bỗng nhiên, đột ngột",
+      "hanviet": ""
+    },
+    {
+      "id": "v_823",
+      "term": "再三",
+      "reading": "さいさん",
+      "meaning": "TÁI TAM / Dăm ba bận, vài lần",
+      "hanviet": ""
+    },
+    {
+      "id": "v_824",
+      "term": "しょっちゅう",
+      "reading": "しょっちゅう",
+      "meaning": "Thường xuyên, hay",
+      "hanviet": ""
+    },
+    {
+      "id": "v_825",
+      "term": "単に",
+      "reading": "たんに",
+      "meaning": "ĐƠN / Đơn thuần là...",
+      "hanviet": ""
+    },
+    {
+      "id": "v_826",
+      "term": "あれこれ",
+      "reading": "あれこれ",
+      "meaning": "Cái này cái kia",
+      "hanviet": ""
+    },
+    {
+      "id": "v_827",
+      "term": "およそ",
+      "reading": "およそ",
+      "meaning": "Đại khái, khoảng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_828",
+      "term": "さらに",
+      "reading": "さらに",
+      "meaning": "Hơn nữa, ngoài ra",
+      "hanviet": ""
+    },
+    {
+      "id": "v_829",
+      "term": "最も",
+      "reading": "もっとも",
+      "meaning": "TỐI / Nhất, vô cùng / Đương nhiên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_830",
+      "term": "万一",
+      "reading": "まんいち",
+      "meaning": "VẠN NHẤT / Ngộ nhỡ, bất trắc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_831",
+      "term": "めったに",
+      "reading": "めったに",
+      "meaning": "Hiếm khi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_832",
+      "term": "そのうち",
+      "reading": "そのうち",
+      "meaning": "Sớm muộn...",
+      "hanviet": ""
+    },
+    {
+      "id": "v_833",
+      "term": "むしろ",
+      "reading": "むしろ",
+      "meaning": "Ngược lại/Thà...",
+      "hanviet": ""
+    },
+    {
+      "id": "v_834",
+      "term": "かえって",
+      "reading": "かえって",
+      "meaning": "Đánh giá/Có tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_835",
+      "term": "なんだか",
+      "reading": "なんだか",
+      "meaning": "Một ít, một chút, hơi hơi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_836",
+      "term": "やがて",
+      "reading": "やがて",
+      "meaning": "Chẳng mấy chốc, / sắp sửa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_837",
+      "term": "今に",
+      "reading": "いまに",
+      "meaning": "KIM / 1. Tương lai gần, sắp / 2. Một ngày nào đó (thể / hiện quyết tâm)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_838",
+      "term": "果たして",
+      "reading": "はたして",
+      "meaning": "QUẢ / Rốt cuộc là",
+      "hanviet": ""
+    },
+    {
+      "id": "v_839",
+      "term": "ばったり",
+      "reading": "ばったり",
+      "meaning": "Bất ngờ (gặp ai đó) / Đột nhiên (kết thúc)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_840",
+      "term": "ひとまず",
+      "reading": "ひとまず",
+      "meaning": "Trong lúc này, tạm thời",
+      "hanviet": ""
+    },
+    {
+      "id": "v_841",
+      "term": "しばしば",
+      "reading": "しばしば",
+      "meaning": "Thường xuyên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_842",
+      "term": "しーんと",
+      "reading": "しーんと",
+      "meaning": "im lặng, tĩnh mịch, phăng phắc",
+      "hanviet": ""
+    },
+    {
+      "id": "v_843",
+      "term": "しんと",
+      "reading": "しんと",
+      "meaning": "Im như tờ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_844",
+      "term": "めっきり",
+      "reading": "めっきり",
+      "meaning": "(Thay đổi) đáng kể",
+      "hanviet": ""
+    },
+    {
+      "id": "v_845",
+      "term": "なお",
+      "reading": "なお",
+      "meaning": "1. Ngoài ra, thêm vào đó / 2. Hơn nữa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_846",
+      "term": "ずらりと",
+      "reading": "ずらりと",
+      "meaning": "(Xếp) thành một hàng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_847",
+      "term": "わざわざ",
+      "reading": "わざわざ",
+      "meaning": "Cất công",
+      "hanviet": ""
+    },
+    {
+      "id": "v_848",
+      "term": "わざと",
+      "reading": "わざと",
+      "meaning": "Cố ý, có mục đích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_849",
+      "term": "もしかすると",
+      "reading": "もしかすると",
+      "meaning": "Có lẽ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_850",
+      "term": "すっと",
+      "reading": "すっと",
+      "meaning": "Nhanh như chớp / Nhẹ nhàng, thoải mái",
+      "hanviet": ""
+    },
+    {
+      "id": "v_851",
+      "term": "どうやら",
+      "reading": "どうやら",
+      "meaning": "Dường như, có vẻ như",
+      "hanviet": ""
+    },
+    {
+      "id": "v_852",
+      "term": "未だに",
+      "reading": "いまだに",
+      "meaning": "Ngay cả bây giờ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_853",
+      "term": "まさに",
+      "reading": "まさに",
+      "meaning": "Đúng đắn, chính xác",
+      "hanviet": ""
+    },
+    {
+      "id": "v_854",
+      "term": "しかも",
+      "reading": "しかも",
+      "meaning": "Hơn nữa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_855",
+      "term": "にやにや",
+      "reading": "にやにや",
+      "meaning": "Cười toe toét",
+      "hanviet": ""
+    },
+    {
+      "id": "v_856",
+      "term": "たった",
+      "reading": "たった",
+      "meaning": "Chỉ vẻn vẹn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_857",
+      "term": "事前に",
+      "reading": "じぜんに",
+      "meaning": "Trước",
+      "hanviet": ""
+    },
+    {
+      "id": "v_858",
+      "term": "ぐっと",
+      "reading": "ぐっと",
+      "meaning": "Hết mình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_859",
+      "term": "どうしても",
+      "reading": "どうしても",
+      "meaning": "Bằng mọi giá",
+      "hanviet": ""
+    },
+    {
+      "id": "v_860",
+      "term": "こっそり",
+      "reading": "こっそり",
+      "meaning": "Vụng trộm, lén lút",
+      "hanviet": ""
+    },
+    {
+      "id": "v_861",
+      "term": "ところで",
+      "reading": "ところで",
+      "meaning": "Thế còn, nhân tiện",
+      "hanviet": ""
+    },
+    {
+      "id": "v_862",
+      "term": "フロント",
+      "reading": "ふろんと",
+      "meaning": "1. Phía trước / 2. Quầy tiếp tân, lễ tân",
+      "hanviet": ""
+    },
+    {
+      "id": "v_863",
+      "term": "リハビリ",
+      "reading": "りはびり",
+      "meaning": "Phục hồi chức năng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_864",
+      "term": "オーバー",
+      "reading": "おーばー",
+      "meaning": "1. Vượt quá dự tính / 2. Nói phét, nói phóng / đại / 3. Áo khoác ngoài",
+      "hanviet": ""
+    },
+    {
+      "id": "v_865",
+      "term": "サイレン",
+      "reading": "さいれん",
+      "meaning": "Còi báo động",
+      "hanviet": ""
+    },
+    {
+      "id": "v_866",
+      "term": "サイン",
+      "reading": "さいん",
+      "meaning": "1. Chữ ký / 2. Dấu hiệu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_867",
+      "term": "フレッシュ",
+      "reading": "ふれっしゅ",
+      "meaning": "Tươi mới, tươi ngon",
+      "hanviet": ""
+    },
+    {
+      "id": "v_868",
+      "term": "マイペース",
+      "reading": "まいぺーす",
+      "meaning": "My pace / Theo ý riêng của mình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_869",
+      "term": "シーズン",
+      "reading": "しーずん",
+      "meaning": "Mùa (bóng đá, du lịch)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_870",
+      "term": "レンタル",
+      "reading": "れんたる",
+      "meaning": "Sự cho thuê",
+      "hanviet": ""
+    },
+    {
+      "id": "v_871",
+      "term": "ブーム",
+      "reading": "ぶーむ",
+      "meaning": "Sự bùng nổ, thịnh hành",
+      "hanviet": ""
+    },
+    {
+      "id": "v_872",
+      "term": "スムーズ",
+      "reading": "すむーず",
+      "meaning": "Trôi chảy, trơn tru",
+      "hanviet": ""
+    },
+    {
+      "id": "v_873",
+      "term": "プラン",
+      "reading": "ぷらん",
+      "meaning": "Kế hoạch",
+      "hanviet": ""
+    },
+    {
+      "id": "v_874",
+      "term": "パンク",
+      "reading": "ぱんく",
+      "meaning": "Xịt lốp xe",
+      "hanviet": ""
+    },
+    {
+      "id": "v_875",
+      "term": "リラックス",
+      "reading": "りらっくす",
+      "meaning": "Sự nghỉ ngơi, thư giãn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_876",
+      "term": "テンポ",
+      "reading": "てんぽ",
+      "meaning": "Nhịp độ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_877",
+      "term": "アピール",
+      "reading": "あぴーる",
+      "meaning": "Sự thu hút",
+      "hanviet": ""
+    },
+    {
+      "id": "v_878",
+      "term": "アレンジ",
+      "reading": "あれんじ",
+      "meaning": "sắp xếp, bài trí, biến tấu (arrange)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_879",
+      "term": "スペース",
+      "reading": "すぺーす",
+      "meaning": "Khoảng trống, / không gian",
+      "hanviet": ""
+    },
+    {
+      "id": "v_880",
+      "term": "テクニック",
+      "reading": "てくにっく",
+      "meaning": "Kỹ thuật, tiểu xảo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_881",
+      "term": "プレッシャー",
+      "reading": "ぷれっしゃー",
+      "meaning": "Áp lực, sức ép tâm lý",
+      "hanviet": ""
+    },
+    {
+      "id": "v_882",
+      "term": "ハード",
+      "reading": "はーど",
+      "meaning": "Khó khăn, bận rộn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_883",
+      "term": "ターゲット",
+      "reading": "たーげっと",
+      "meaning": "mục tiêu, đối tượng nhắm tới (target)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_884",
+      "term": "ガイド",
+      "reading": "がいど",
+      "meaning": "Hướng dẫn",
+      "hanviet": ""
+    },
+    {
+      "id": "v_885",
+      "term": "シリーズ",
+      "reading": "しりーず",
+      "meaning": "Series, sê-ri",
+      "hanviet": ""
+    },
+    {
+      "id": "v_886",
+      "term": "クリア",
+      "reading": "くりあ",
+      "meaning": "1. Rõ ràng / 2. (Màu) trong suốt / 3. Thắng (trò chơi, thể / thao)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_887",
+      "term": "ストライキ",
+      "reading": "すとらいき",
+      "meaning": "Đình công",
+      "hanviet": ""
+    },
+    {
+      "id": "v_888",
+      "term": "ライバル",
+      "reading": "らいばる",
+      "meaning": "Đối thủ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_889",
+      "term": "ゲスト",
+      "reading": "げすと",
+      "meaning": "Đánh giá/Có tiếng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_890",
+      "term": "エラー",
+      "reading": "えらー",
+      "meaning": "Lỗi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_891",
+      "term": "インストール",
+      "reading": "いんすとーる",
+      "meaning": "Lắp đặt/Cài đặt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_892",
+      "term": "チャージ",
+      "reading": "ちゃーじ",
+      "meaning": "Nạp (tiền), sạc (pin)",
+      "hanviet": ""
+    },
+    {
+      "id": "v_893",
+      "term": "評判",
+      "reading": "ひょうばん",
+      "meaning": "1. Đánh giá/Có tiếng / 2. Sự vào lưới, tới đích",
+      "hanviet": ""
+    },
+    {
+      "id": "v_894",
+      "term": "インパクト",
+      "reading": "いんぱくと",
+      "meaning": "Ấn tượng, tác động",
+      "hanviet": ""
+    },
+    {
+      "id": "v_895",
+      "term": "ペンキ",
+      "reading": "ぺんき",
+      "meaning": "Sơn, vôi màu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_896",
+      "term": "ダム",
+      "reading": "だむ",
+      "meaning": "Con đập",
+      "hanviet": ""
+    },
+    {
+      "id": "v_897",
+      "term": "セロテープ",
+      "reading": "せろてーぷ",
+      "meaning": "Băng dính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_898",
+      "term": "リポーター",
+      "reading": "りぽーたー",
+      "meaning": "Phóng viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_899",
+      "term": "ムード",
+      "reading": "むーど",
+      "meaning": "Tâm trạng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_900",
+      "term": "タイヤ",
+      "reading": "たいや",
+      "meaning": "Lốp xe",
+      "hanviet": ""
+    },
+    {
+      "id": "v_901",
+      "term": "ダウン",
+      "reading": "だうん",
+      "meaning": "Đi xuống, giảm / Mệt, kiệt sức",
+      "hanviet": ""
+    },
+    {
+      "id": "v_902",
+      "term": "インテリア",
+      "reading": "いんてりあ",
+      "meaning": "Nội thất",
+      "hanviet": ""
+    },
+    {
+      "id": "v_903",
+      "term": "カルシウム",
+      "reading": "かるしうむ",
+      "meaning": "Can xi",
+      "hanviet": ""
+    },
+    {
+      "id": "v_904",
+      "term": "スタッフ",
+      "reading": "すたっふ",
+      "meaning": "Nhân viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_905",
+      "term": "ダメージ",
+      "reading": "だめーじ",
+      "meaning": "Sự phá huỷ, phá hoại",
+      "hanviet": ""
+    },
+    {
+      "id": "v_906",
+      "term": "コンプレックス",
+      "reading": "こんぷれっくす",
+      "meaning": "Mặc cảm, tự ti",
+      "hanviet": ""
+    },
+    {
+      "id": "v_907",
+      "term": "コスト",
+      "reading": "こすと",
+      "meaning": "Giá cả",
+      "hanviet": ""
+    },
+    {
+      "id": "v_908",
+      "term": "プラスチック",
+      "reading": "ぷらすちっく",
+      "meaning": "Nhựa",
+      "hanviet": ""
+    },
+    {
+      "id": "v_909",
+      "term": "レンズ",
+      "reading": "れんず",
+      "meaning": "Mắt kính, thấu kính",
+      "hanviet": ""
+    },
+    {
+      "id": "v_910",
+      "term": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaning": "Chiếu sáng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_911",
+      "term": "マッチ",
+      "reading": "まっち",
+      "meaning": "Diêm / Trận đấu / Phù hợp",
+      "hanviet": ""
+    },
+    {
+      "id": "v_912",
+      "term": "ノーマル",
+      "reading": "のーまる",
+      "meaning": "Bình thường",
+      "hanviet": ""
+    },
+    {
+      "id": "v_913",
+      "term": "ルーズ",
+      "reading": "るーず",
+      "meaning": "Lỏng lẻo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_914",
+      "term": "ストレス",
+      "reading": "すとれす",
+      "meaning": "Căng thẳng, áp lực",
+      "hanviet": ""
+    },
+    {
+      "id": "v_915",
+      "term": "カット",
+      "reading": "かっと",
+      "meaning": "Cắt",
+      "hanviet": ""
+    },
+    {
+      "id": "v_916",
+      "term": "コントロール",
+      "reading": "こんとろーる",
+      "meaning": "Kiểm soát, quản lý",
+      "hanviet": ""
+    },
+    {
+      "id": "v_917",
+      "term": "アイデア",
+      "reading": "あいであ",
+      "meaning": "Ý tưởng",
+      "hanviet": ""
+    },
+    {
+      "id": "v_918",
+      "term": "チャンス",
+      "reading": "ちゃんす",
+      "meaning": "Cơ hội",
+      "hanviet": ""
+    },
+    {
+      "id": "v_919",
+      "term": "スケジュール",
+      "reading": "すけじゅーる",
+      "meaning": "Thời khoá biểu, lịch trình",
+      "hanviet": ""
+    },
+    {
+      "id": "v_920",
+      "term": "システム",
+      "reading": "しすてむ",
+      "meaning": "Hệ thống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_921",
+      "term": "モニター",
+      "reading": "もにたー",
+      "meaning": "1. Màn hình / 2. Người khảo sát chất / lượng sản phẩm / 3. Giám sát, quan sát",
+      "hanviet": ""
+    },
+    {
+      "id": "v_922",
+      "term": "ベテラン",
+      "reading": "べてらん",
+      "meaning": "Người kỳ cựu, / có kinh nghiệm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_923",
+      "term": "コメント",
+      "reading": "こめんと",
+      "meaning": "Bình luận",
+      "hanviet": ""
+    },
+    {
+      "id": "v_924",
+      "term": "パターン",
+      "reading": "ぱたーん",
+      "meaning": "Hoa văn, hình mẫu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_925",
+      "term": "キャンパス",
+      "reading": "きゃんぱす",
+      "meaning": "Khuôn viên",
+      "hanviet": ""
+    },
+    {
+      "id": "v_926",
+      "term": "フォント",
+      "reading": "ふぉんと",
+      "meaning": "Phông chữ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_927",
+      "term": "デモ",
+      "reading": "でも",
+      "meaning": "1. Biểu tình / 2. Thử nghiệm",
+      "hanviet": ""
+    },
+    {
+      "id": "v_928",
+      "term": "テロ",
+      "reading": "てろ",
+      "meaning": "Khủng bố, kẻ khủng bố",
+      "hanviet": ""
+    },
+    {
+      "id": "v_929",
+      "term": "エコ",
+      "reading": "えこ",
+      "meaning": "Sinh thái",
+      "hanviet": ""
+    },
+    {
+      "id": "v_930",
+      "term": "センス",
+      "reading": "せんす",
+      "meaning": "Có khiếu thẩm mỹ",
+      "hanviet": ""
+    },
+    {
+      "id": "v_931",
+      "term": "フリーサイズ",
+      "reading": "ふりーさいず",
+      "meaning": "Free size",
+      "hanviet": ""
+    },
+    {
+      "id": "v_932",
+      "term": "リズム",
+      "reading": "りずむ",
+      "meaning": "Nhịp điệu, tiết tấu",
+      "hanviet": ""
+    },
+    {
+      "id": "v_933",
+      "term": "ユニーク",
+      "reading": "ゆにーく",
+      "meaning": "Duy nhất, độc đáo",
+      "hanviet": ""
+    },
+    {
+      "id": "v_934",
+      "term": "ダウンロード",
+      "reading": "だうんろーど",
+      "meaning": "Tải xuống",
+      "hanviet": ""
+    },
+    {
+      "id": "v_935",
+      "term": "イラスト",
+      "reading": "いらすと",
+      "meaning": "Hình minh họa",
+      "hanviet": ""
+    }
+  ]
+}

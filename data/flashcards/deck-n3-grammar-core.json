@@ -1,0 +1,50 @@
+{
+  "id": "n3-grammar-core",
+  "cards": [
+    {
+      "id": "g3_1",
+      "term": "〜たまま",
+      "reading": "〜たまま",
+      "meaning": "Cứ để nguyên trạng thái... (mà làm việc khác)",
+      "formation": "V-た / V-ない + まま | N + のまま",
+      "example": "エアコンをつけたまま寝て、かぜをひいてしまった。",
+      "exampleVi": "Tôi ngủ mà vẫn để máy lạnh mở nên bị cảm."
+    },
+    {
+      "id": "g3_2",
+      "term": "〜こと",
+      "reading": "〜こと",
+      "meaning": "Phải làm... / Quy định (chỉ thị trong quy chế, bảng tin)",
+      "formation": "V-る / V-ない + こと",
+      "example": "この用紙は、必ず黒か青のペンで記入すること。",
+      "exampleVi": "Tờ giấy này nhất thiết phải điền bằng bút đen hoặc xanh."
+    },
+    {
+      "id": "g3_3",
+      "term": "〜ておく（置いとく）",
+      "reading": "〜ておく",
+      "meaning": "Làm sẵn / Chuẩn bị trước / Để nguyên vậy",
+      "formation": "V-て + おく",
+      "example": "さっきここにジュースを置いといたのに。",
+      "exampleVi": "Lúc nãy tôi đã để lon nước ở đây rồi mà."
+    },
+    {
+      "id": "g3_4",
+      "term": "〜ぎみ（気味）",
+      "reading": "〜ぎみ",
+      "meaning": "Có vẻ hơi / Có xu hướng (thường mang nét tiêu cực)",
+      "formation": "V-bỏ ます / N + 気味",
+      "example": "最近風邪気味で、喉が痛い。",
+      "exampleVi": "Dạo này hơi có triệu chứng cảm, cổ họng bị đau."
+    },
+    {
+      "id": "g3_5",
+      "term": "〜を中心に",
+      "reading": "〜をちゅうしんに",
+      "meaning": "Lấy... làm trung tâm / Trọng tâm là...",
+      "formation": "N + を中心に（して）",
+      "example": "若者を中心にしたイベントが開催された。",
+      "exampleVi": "Sự kiện lấy giới trẻ làm trung tâm đã được tổ chức."
+    }
+  ]
+}
