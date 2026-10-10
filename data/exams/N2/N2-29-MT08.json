@@ -1,0 +1,271 @@
+{
+  "id": "N2-29-MT08",
+  "code": "N2-29-MT08",
+  "title": "N2.29 · Minitest 8",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "kanji",
+  "source": "riki/N2.29/N2.29_ Minitest 8.html",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "さくらんぼが（　）季節になりましたね。",
+      "context": "",
+      "options": [
+        "実る",
+        "儲ける",
+        "補う",
+        "控える"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 実る.\n\n- 実る（みのる）: chín, ra quả, kết trái; (nghĩa bóng) đơm hoa kết trái, mang lại kết quả tốt đẹp. Cụm từ: 果物／さくらんぼが実る (trái cây / cherry chín, kết trái), 努力が実る (nỗ lực đơm hoa kết trái).\n- 儲ける（もうける）: kiếm lời, kiếm được nhiều tiền.\n- 補う（おぎなう）: bổ sung, bù đắp (thiếu sót, hao hụt, dinh dưỡng: 栄養／不足を補う).\n- 控える（ひかえる）: kiềm chế, hạn chế (tiêu thụ, hành động: 塩分／外出を控える); chờ đến lượt.\n\nCâu: さくらんぼが実る季節になりましたね。\nDịch: Đã đến mùa cherry chín rồi nhỉ."
+    },
+    {
+      "question_id": 2,
+      "question": "思い出のコップを（　）しまった。",
+      "context": "",
+      "options": [
+        "積んで",
+        "乱れて",
+        "尋ねて",
+        "割って"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 割って.\n\n- 割る（わる）: làm vỡ, làm bể (đồ thủy tinh, sành sứ, trứng), chia nhỏ. Cụm từ: コップを割る (làm vỡ cốc).\n- 積む（つむ）: chất lên, tích lũy (kinh nghiệm: 経験を積む, chất hàng: 荷物を積む).\n- 乱れる（みだれる）: bị xáo trộn, rối loạn, mất trật tự (trật tự, hàng ngũ: 列が乱れる, tâm trạng: 心が乱れる).\n- 尋ねる（たずねる）: hỏi thăm, hỏi chuyện (hỏi đường: 道を尋ねる).\n\nCâu: 思い出のコップを割ってしまった。\nDịch: Tôi lỡ làm vỡ mất chiếc cốc kỷ niệm rồi."
+    },
+    {
+      "question_id": 3,
+      "question": "新しい方法を（　）やってみよう。",
+      "context": "",
+      "options": [
+        "用いて",
+        "巡って",
+        "耐えて",
+        "おどかして"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 用いて.\n\n- 用いる（もちいる）: sử dụng, áp dụng, vận dụng (phương pháp, công nghệ, nhân tài: 方法／技術／人を用いる). Cụm từ: 新しい方法を用いて (áp dụng phương pháp mới).\n- 巡る（めぐる）: đi quanh; xoay quanh (tranh cãi về vấn đề gì: 問題を巡って).\n- 耐える（たえる）: chịu đựng, nhẫn nhịn (khổ cực, đau đớn: 苦痛／寒さに耐える).\n- 脅かす／脅す（おどかす）: hù dọa, làm hoảng sợ.\n\nCâu: 新しい方法を用いてやってみよう。\nDịch: Chúng ta hãy thử làm bằng cách áp dụng phương pháp mới xem sao."
+    },
+    {
+      "question_id": 4,
+      "question": "（　）のが怖くて告白できない…。",
+      "context": "",
+      "options": [
+        "ずれる",
+        "傷つく",
+        "静まる",
+        "転がる"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 傷つく.\n\n- 傷つく（きずつく）: bị thương, bị tổn thương (về thể chất lẫn tinh thần, tình cảm). Cụm từ: 傷つくのが怖い (sợ bị tổn thương).\n- ずれる: trượt, lệch khỏi vị trí hoặc thời gian (lệch giờ: 時間がずれる, lệch trọng tâm: 焦点がずれる).\n- 静まる（しずまる）: lắng xuống, trở nên yên tĩnh, dịu lại (cơn bão/tiếng ồn lắng xuống: 嵐／騒ぎが静まる).\n- 転がる（ころがる）: lăn, ngã lăn ra, lăn lóc (quả bóng lăn: ボールが転がる).\n\nCâu: 傷つくのが怖くて告白できない…。\nDịch: Tôi sợ bị tổn thương nên không thể mở lời tỏ tình được..."
+    },
+    {
+      "question_id": 5,
+      "question": "上野さんは先輩社員を（　）部長になった。",
+      "context": "",
+      "options": [
+        "取り壊して",
+        "飛び越えて",
+        "飛び散って",
+        "取り入れて"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 飛び越えて.\n\n- 飛び越える（とびこえる）: nhảy qua chướng ngại vật; (nghĩa bóng) thăng tiến vượt cấp, vượt mặt (các bậc tiền bối, người đi trước). Cụm từ: 先輩社員を飛び越えて部長になる (vượt qua các đồng nghiệp tiền bối để lên chức trưởng phòng).\n- 取り壊す（とりこわす）: phá dỡ, đập bỏ (tòa nhà, công trình: 建物を解体・取り壊す).\n- 飛び散る（とびちる）: bắn tung tóe, văng tứ tung (tia lửa, mảnh vỡ: 火花／破片が飛び散る).\n- 取り入れる（とりいれる）: tiếp thu, áp dụng (ý kiến, công nghệ: 意見／技術を取り入れる).\n\nCâu: 上野さんは先輩社員を飛び越えて部長になった。\nDịch: Anh Ueno đã vượt qua các nhân viên tiền bối để trở thành trưởng phòng."
+    },
+    {
+      "question_id": 6,
+      "question": "山に登って平野を（　）。",
+      "context": "",
+      "options": [
+        "積み重ねる",
+        "立ち上げる",
+        "見分ける",
+        "見渡す"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 見渡す.\n\n- 見渡す（みわたす）: phóng tầm mắt nhìn bao quát, nhìn quanh khắp một vùng rộng lớn. Cụm từ: 平野／景色を見渡す (phóng tầm mắt bao quát toàn vùng đồng bằng / ngắm nhìn toàn cảnh).\n- 積み重ねる（つみかさねる）: chất chồng lên, tích lũy dần (kinh nghiệm, nỗ lực: 努力／経験を積み重ねる).\n- 立ち上げる（たちあげる）: khởi động (hệ thống/phần mềm: システムを立ち上げる), thành lập (dự án, công ty: 新規事業を立ち上げる).\n- 見分ける（みわける）: phân biệt, nhận biết rõ (thật giả, tốt xấu: 本物と偽物を見分ける).\n\nCâu: 山に登って平野を見渡す。\nDịch: Leo lên đỉnh núi và phóng tầm mắt nhìn bao quát cả vùng đồng bằng."
+    },
+    {
+      "question_id": 7,
+      "question": "食料品の（　）値上げが庶民の生活を直撃。",
+      "context": "",
+      "options": [
+        "大幅な",
+        "詳細",
+        "手ごろ",
+        "賢い"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 大幅な.\n\n- 大幅な（おおはばな）: lớn, đáng kể, với quy mô lớn, biên độ rộng. Cụm từ: 大幅な値上げ (việc tăng giá mạnh / tăng giá trên diện rộng), 大幅に削減する (cắt giảm mạnh).\n- 詳細（しょうさい）: chi tiết, tường tận (tính từ đuôi な hoặc danh từ: 詳細な説明).\n- 手ごろ（てごろな）: vừa phải, phải chăng, hợp túi tiền (giá cả phải chăng: 手ごろな価格).\n- 賢い（かしこい）: thông minh, khôn ngoan, lanh lợi.\n\nCâu: 食料品の大幅な値上げが庶民の生活を直撃。\nDịch: Việc tăng giá mạnh của các mặt hàng thực phẩm đã giáng đòn trực tiếp vào cuộc sống của người dân thường."
+    },
+    {
+      "question_id": 8,
+      "question": "若い女性が「（　）された」と警察に訴えた。",
+      "context": "",
+      "options": [
+        "不公平",
+        "質素",
+        "乱暴",
+        "正式"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 乱暴.\n\n- 乱暴（らんぼう）: bạo lực, hung bạo, thô bạo. Cụm từ: 乱暴する／乱暴される: hành hung, dùng bạo lực, hoặc xâm hại tình dục. 「乱暴された」: bị xâm hại / bị hành hung thô bạo.\n- 不公平（ふこうへい）: bất công, không công bằng.\n- 質素（しっそ）: giản dị, mộc mạc, đạm bạc (cuộc sống giản dị: 質素な暮らし).\n- 正式（せいしき）: chính thức (thông báo chính thức: 正式な発表).\n\nCâu: 若い女性が「乱暴された」と警察に訴えた。\nDịch: Người phụ nữ trẻ đã trình báo với cảnh sát rằng mình \"bị xâm hại / hành hung\"."
+    },
+    {
+      "question_id": 9,
+      "question": "僕は英語が話せないから、留学経験がある山田くんと一緒だと（　）よ。",
+      "context": "",
+      "options": [
+        "すまない",
+        "厚かましい",
+        "頼もしい",
+        "騒がしい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 頼もしい.\n\n- 頼もしい（たのもしい）: đáng tin cậy, vững tâm, an tâm (vì có người giỏi, có năng lực ở bên cạnh). Cụm từ: 山田くんと一緒だと頼もしい (có cậu Yamada đi cùng thì thấy yên tâm / đáng tin cậy lắm).\n- すまない: có lỗi, áy náy (đồng nghĩa với 申し訳ない).\n- 厚かましい（あつかましい）: trơ trẽn, mặt dày, không biết xấu hổ.\n- 騒がしい（さわがしい）: ồn ào, om sòm, náo động.\n\nCâu: 僕は英語が話せないから、留学経験がある山田くんと一緒だと頼もしいよ。\nDịch: Vì tớ không nói được tiếng Anh nên đi cùng với cậu Yamada từng đi du học thì yên tâm / thấy vững lòng lắm đấy."
+    },
+    {
+      "question_id": 10,
+      "question": "彼女は、ミス・ユニバースという（　）経歴を持っている。",
+      "context": "",
+      "options": [
+        "輝かしい",
+        "痛ましい",
+        "羨ましい",
+        "幼い"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 輝かしい.\n\n- 輝かしい（かがやかしい）: rực rỡ, vẻ vang, huy hoàng, lấp lánh. Cụm từ: 輝かしい経歴／功績 (sự nghiệp/thành tích huy hoàng, rực rỡ).\n- 痛ましい（いたましい）: đau lòng, thương tâm, xót xa (vụ tai nạn thương tâm: 痛ましい事故).\n- 羨ましい（うらやましい）: ghen tị, thèm muốn, ngưỡng mộ (muốn được như người khác).\n- 幼い（おさない）: thơ ấu, non nớt, ngây thơ (suy nghĩ non nớt: 幼い考え).\n\nCâu: 彼女は、ミス・ユニバースという輝かしい経歴を持っている。\nDịch: Cô ấy sở hữu một lý lịch rực rỡ khi từng đạt danh hiệu Hoa hậu Hoàn vũ (Miss Universe)."
+    },
+    {
+      "question_id": 11,
+      "question": "このサッカー大会には、男女（　）、参加することができる。",
+      "context": "",
+      "options": [
+        "にとどまらず",
+        "を問わず",
+        "ばかりか",
+        "にしろ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② を問わず.\n\nCấu trúc: N + を問わず（をとわず）: Bất kể, không phân biệt, không màng tới... Thường đi với các cặp danh từ đối lập hoặc chỉ phạm vi như: 男女 (nam nữ), 年齢 (tuổi tác), 国籍 (quốc tịch), 昼夜 (ngày đêm).\n- 「男女を問わず」: Không phân biệt nam nữ, bất kể nam hay nữ.\n\nPhân tích các phương án khác:\n- ① にとどまらず: Không dừng lại ở... mà còn lan rộng ra (chỉ quy mô ảnh hưởng).\n- ③ ばかりか: Không những... mà còn (vế sau bổ sung thêm điều bất ngờ/mức độ cao hơn).\n- ④ にしろ: Dẫu cho là... hay là... (thường dùng A にしろ B にしろ).\n\nCâu: このサッカー大会には、男女を問わず、参加することができる。\nDịch: Tại giải bóng đá này, bất kể là nam hay nữ đều có thể tham gia."
+    },
+    {
+      "question_id": 12,
+      "question": "ご両親（　）家族の皆さんによろしくお伝えください。",
+      "context": "",
+      "options": [
+        "をはじめ",
+        "からして",
+        "のために",
+        "はさておき"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① をはじめ.\n\nCấu trúc: N + をはじめ（として）: Trước tiên phải kể đến N, tiêu biểu nhất là N... (đưa ra ví dụ đại diện hàng đầu trong một tập hợp).\n- 「ご両親をはじめ家族の皆さん」: Gửi lời hỏi thăm tới cả gia đình, trước hết là hai bác (bố mẹ).\n\nPhân tích các phương án khác:\n- ② からして: Ngay từ... đã (đưa ra một chi tiết nhỏ để đánh giá toàn thể, thường mang nghĩa tiêu cực hoặc phán đoán).\n- ③ のために: Vì / Để cho (chỉ mục đích hoặc nguyên nhân).\n- ④ はさておき: Tạm thời gác lại A sang một bên... (chưa bàn tới A vội).\n\nCâu: ご両親をはじめ家族の皆さんによろしくお伝えください。\nDịch: Xin hãy gửi lời hỏi thăm của tôi tới tất cả mọi người trong gia đình, trước hết là hai bác."
+    },
+    {
+      "question_id": 13,
+      "question": "熱い料理ならこぼして周りの人にやけどをさせてしまうことも（　）。",
+      "context": "",
+      "options": [
+        "しうる",
+        "しえない",
+        "ありうる",
+        "ありえない"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ありうる.\n\nCấu trúc: V-masu bỏ masu + うる／える: Có khả năng xảy ra, có thể xảy ra.\n- Với động từ 「ある」, dạng biểu thị khả năng là 「ありうる／ありえる」: Có thể có / Hoàn toàn có thể xảy ra.\n- Dạng phủ định là 「ありえない」: Không thể nào xảy ra.\n- Trong câu: 「やけどをさせてしまうこともありうる」: Chuyện làm người xung quanh bị bỏng cũng là điều hoàn toàn có thể xảy ra.\n\nPhân tích các phương án khác:\n- ① しうる: Thể hiện khả năng làm được của động từ する (không đi với việc một sự việc xảy ra \"こと\").\n- ② しえない: Không thể làm được (phủ định của する + うる).\n- ④ ありえない: Không thể nào xảy ra (trái ngược với logic cảnh báo an toàn).\n\nCâu: 熱い料理ならこぼして周りの人にやけどをさせてしまうこともありうる。\nDịch: Nếu là món ăn nóng thì việc làm đổ và khiến những người xung quanh bị bỏng cũng hoàn toàn có thể xảy ra."
+    },
+    {
+      "question_id": 14,
+      "question": "この文章の書き方（　）書いた人は絶対ナムさんに違いない。",
+      "context": "",
+      "options": [
+        "をして",
+        "からは",
+        "をもって",
+        "からして"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ からして.\n\nCấu trúc: N + からして: Nhìn từ / Xét từ... (đưa ra một căn cứ, dấu hiệu cụ thể để đưa ra phán đoán, đánh giá tổng thể).\n- 「書き方からして...に違いない」: Xét từ lối hành văn / cách viết này thì chắc chắn người viết là anh Nam.\n\nPhân tích các phương án khác:\n- ① をして: Khiến cho... / Sai khiến ai làm gì (thường dùng dạng Nをして...せしめる).\n- ② からは: Từ... thì (không tạo thành mẫu ngữ pháp nêu căn cứ phán đoán tự nhiên như からして).\n- ③ をもって: Bằng phương tiện gì / Tại mốc thời gian nào (ví dụ: これをもって終了します).\n\nCâu: この文章の書き方からして書いた人は絶対ナムさんに違いない。\nDịch: Xét từ lối viết của bài văn này, người viết chắc chắn trăm phần trăm là anh Nam."
+    },
+    {
+      "question_id": 15,
+      "question": "今回の選挙では、環境税（　）候補者たちの意見が対立している。",
+      "context": "",
+      "options": [
+        "に対して",
+        "をめぐって",
+        "にかけて",
+        "について"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② をめぐって.\n\nCấu trúc: N + をめぐって: Xoay quanh vấn đề N (thường đi với các động từ chỉ sự tranh cãi, đối lập, bất đồng, thảo luận như: 対立している, 議論する, 争う).\n- 「環境税をめぐって候補者たちの意見が対立している」: Ý kiến của các ứng cử viên đang đối lập nhau xoay quanh vấn đề thuế môi trường.\n\nPhân tích các phương án khác:\n- ① に対して: Đối với... (hướng thái độ/hành động về một đối tượng, hoặc chỉ sự tương phản giữa hai vế).\n- ③ にかけて: Từ... đến... (chỉ khoảng thời gian hoặc không gian tương đối).\n- ④ について: Về... (chỉ đơn thuần giới thiệu đề tài thảo luận/nghiên cứu, không làm nổi bật sắc thái mâu thuẫn hay tranh cãi gay gắt như をめぐって).\n\nCâu: 今回の選挙では、環境税をめぐって候補者たちの意見が対立している。\nDịch: Trong cuộc bầu cử lần này, ý kiến của các ứng cử viên đang đối lập nhau gay gắt xoay quanh thuế môi trường."
+    },
+    {
+      "question_id": 16,
+      "question": "相手から折り返しの連絡がない（　）、不安になる必要はありません。",
+      "context": "",
+      "options": [
+        "と思うと",
+        "からには",
+        "とならんで",
+        "からといって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ からといって.\n\nCấu trúc: [Thể thông thường] + からといって...ない: Không phải cứ vì... mà... / Dẫu chỉ vì... thì cũng không hẳn là... (vế sau thường đi kèm dạng phủ định như: わけではない, とは限らない, 必要はない).\n- 「連絡がないからといって、不安になる必要はありません」: Không phải cứ vì đối phương chưa liên lạc lại mà bạn phải lo lắng đâu.\n\nPhân tích các phương án khác:\n- ① と思うと: Vừa mới... thì ngay lập tức (chỉ sự việc diễn biến bất ngờ ngay sau đó).\n- ② からには: Một khi đã... thì phải (thể hiện quyết tâm, nghĩa vụ: 以上は／からには).\n- ③ とならんで: Cùng với... / Đứng ngang hàng với... (sánh vai cùng ai).\n\nCâu: 相手から折り返しの連絡がないからといって、不安になる必要はありません。\nDịch: Không phải cứ vì đối phương chưa gọi lại mà bạn phải lo lắng đâu."
+    },
+    {
+      "question_id": 17,
+      "question": "この仕事はやり方（　）もっと早く終わらせることができるかもしれない。",
+      "context": "",
+      "options": [
+        "にしたがって",
+        "次第では",
+        "に応じて",
+        "によって"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 次第では.\n\nCấu trúc: N + 次第では: Tùy thuộc vào N (thì có thể dẫn đến một kết quả/khả năng cụ thể, thường đi kèm: かもしれない, もある, が決まる).\n- 「やり方次第ではもっと早く終わらせることができるかもしれない」: Tùy vào cách làm, có thể chúng ta sẽ hoàn thành công việc này nhanh hơn đấy.\n\nPhân tích các phương án khác:\n- ① にしたがって: Cùng với việc... (sự biến đổi kéo theo) hoặc tuân theo (chỉ dẫn, luật lệ).\n- ③ に応じて: Ứng với, tương ứng với (tùy theo từng đối tượng/yêu cầu cụ thể: 収入に応じて).\n- ④ によって: Tùy vào (nếu dùng によって thường kết hợp với さまざまだ／異なる; còn đưa ra một khả năng cụ thể một chiều thì 次第では là cách dùng tự nhiên và chuẩn xác nhất).\n\nCâu: この仕事はやり方次第ではもっと早く終わらせることができるかもしれない。\nDịch: Công việc này tùy thuộc vào cách làm mà có lẽ chúng ta có thể hoàn thành sớm hơn đấy."
+    },
+    {
+      "question_id": 18,
+      "question": "その展覧会では ＿＿ ＿＿ __★__ ＿＿ 紹介している。",
+      "context": "",
+      "options": [
+        "を問わず",
+        "を広く",
+        "有名無名",
+        "日本の現代画"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 日本の現代画.\n\nThứ tự đúng: 有名無名 (3) → を問わず (1) → 日本の現代画 (4, ★) → を広く (2)\n(Thứ tự các đáp án: 3 → 1 → 4 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「日本の現代画」 (lựa chọn 4).\n- Cấu trúc ngữ pháp: N + を問わず: Không phân biệt, bất kể...\n- Ghép cụm: 「有名無名を問わず」 (bất kể nổi tiếng hay vô danh).\n- Bổ ngữ cho động từ 紹介している: 「日本の現代画を広く紹介している」 (giới thiệu rộng rãi các tác phẩm hội họa hiện đại Nhật Bản).\n- Ghép hoàn chỉnh câu: 「その展覧会では 有名無名を問わず 日本の現代画を広く 紹介している。」\n\nCâu hoàn chỉnh: その展覧会では有名無名を問わず日本の現代画を広く紹介している。\nDịch: Tại triển lãm đó, người ta giới thiệu rộng rãi hội họa đương đại Nhật Bản, không phân biệt là của tác giả nổi tiếng hay vô danh."
+    },
+    {
+      "question_id": 19,
+      "question": "きみが ＿＿ ＿＿ __★__ ＿＿ 許さないだろう。",
+      "context": "",
+      "options": [
+        "ことを",
+        "彼女はきみの",
+        "謝らない",
+        "かぎり"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 彼女はきみの.\n\nThứ tự đúng: 謝らない (3) → かぎり (4) → 彼女はきみの (2, ★) → ことを (1)\n(Thứ tự các đáp án: 3 → 4 → 2 → 1)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「彼女はきみの」 (lựa chọn 2).\n- Cấu trúc ngữ pháp: V-ない + かぎり: Chừng nào mà chưa... thì... / Nếu không... thì sẽ không...\n- Vế điều kiện: 「きみが謝らないかぎり」 (Chừng nào cậu chưa xin lỗi).\n- Vế chính: 「彼女はきみのことを許さないだろう」 (cô ấy sẽ không tha thứ cho cậu đâu).\n\nCâu hoàn chỉnh: きみが謝らないかぎり彼女はきみのことを許さないだろう。\nDịch: Chừng nào cậu chưa xin lỗi thì cô ấy sẽ không tha thứ cho cậu đâu."
+    },
+    {
+      "question_id": 20,
+      "question": "国籍の子どもたちは名前、服装、 ＿＿ ＿＿ __★__ ＿＿ になることもある。",
+      "context": "",
+      "options": [
+        "いじめの対象",
+        "ことばづかい",
+        "が違う",
+        "ことから"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ことから.\n\nThứ tự đúng: ことばづかい (2) → が違う (3) → ことから (4, ★) → いじめの対象 (1)\n(Thứ tự các đáp án: 2 → 3 → 4 → 1)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3: 「ことから」 (lựa chọn 4).\n- Liệt kê các yếu tố: 「名前、服装、ことばづかいが違う」 (tên gọi, trang phục, và cách ăn nói/dùng từ khác biệt).\n- Cấu trúc ngữ pháp: [Thể thông thường] + ことから: Do... / Chính từ lý do là... nên dẫn đến kết quả (nêu nguyên nhân, khởi nguồn của sự việc).\n- Đi với cụm danh từ: 「いじめの対象になる」 (trở thành mục tiêu bị bắt nạt).\n- Lưu ý: Lựa chọn 2 trong đề gốc viết là 「ことばづか」, dạng chuẩn xác đầy đủ là 「ことばづかい」（言葉遣い: cách dùng từ, cách ăn nói）.\n\nCâu hoàn chỉnh: 国籍の子どもたちは名前、服装、ことばづかいが違うことからいじめの対象になることもある。\nDịch: Những đứa trẻ (mang quốc tịch khác) đôi khi trở thành đối tượng bị bắt nạt chỉ vì tên gọi, trang phục hay cách ăn nói khác biệt."
+    }
+  ]
+}

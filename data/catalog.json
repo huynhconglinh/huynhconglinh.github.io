@@ -421,6 +421,16 @@
       "file": "exams/N2/N2-29-MT07.json"
     },
     {
+      "id": "N2-29-MT08",
+      "code": "N2-29-MT08",
+      "title": "N2.29 · Minitest 8",
+      "track": "N2.29",
+      "level": "N2",
+      "topic": "kanji",
+      "questionCount": 20,
+      "file": "exams/N2/N2-29-MT08.json"
+    },
+    {
       "id": "N2-29-RD06",
       "code": "N2-29-RD06",
       "title": "N2.29 · BTUD Đọc hiểu Bài 6 · Đặt câu hỏi - trả lời",
