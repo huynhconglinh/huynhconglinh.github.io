@@ -1,0 +1,193 @@
+{
+  "id": "N2-GJ-B14",
+  "code": "N2-GJ-B14",
+  "title": "Ngữ pháp Junbi · Bài tập Bài 14",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "grammar",
+  "source": "riki/N2.29/N2 JUNBI Bài tập ngữ pháp Bài 14.html",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "（　　　）うそをつかないことだ。",
+      "context": "",
+      "options": [
+        "信頼関係を作るのは",
+        "信用される人というのは",
+        "人に信用されたいのなら",
+        "人を信用するために"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 人に信用されたいのなら.\n\nCấu trúc: [Mục đích / Điều kiện] + たいのなら（〜たいなら） ... V-る / V-ない + ことだ: Nếu muốn... thì nên / cách tốt nhất là... (dùng khi đưa ra lời khuyên chân thành hoặc hướng dẫn cách thức tốt nhất để đạt được mục tiêu).\n- 人に信用されたいのなら: Nếu muốn được mọi người tin tưởng.\n- Vế sau: 「うそをつかないことだ」 (thì tốt nhất là không nên nói dối).\n\nPhân tích các phương án khác:\n- ① 信頼関係を作るのは: Thiếu sắc thái điều kiện phù hợp đi với lời khuyên 〜ことだ.\n- ② 信用される人というのは: Định nghĩa về người được tin tưởng thì vế sau phải là danh từ chỉ người (ví dụ: うそをつかない人だ).\n- ④ 人を信用するために: Để mình tin người khác (ngược hướng ý nghĩa, ở đây là mình muốn được người khác tin tưởng).\n\nCâu hoàn chỉnh: 人に信用されたいのならうそをつかないことだ。\nDịch: Nếu muốn được người khác tin tưởng thì tốt nhất bạn không nên nói dối."
+    },
+    {
+      "question_id": 2,
+      "question": "（　　　）車からおりたかと思うと、海に向かって走り出した。",
+      "context": "",
+      "options": [
+        "私は",
+        "私たちは",
+        "あの子は",
+        "私と田中さん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ あの子は.\n\nCấu trúc: V-た + かと思うと（= かと思ったら）: Vừa mới... thì ngay lập tức... (diễn tả hai hành động, biến đổi nối tiếp nhau rất nhanh trong khoảnh khắc khiến người nói bất ngờ).\n- Quy tắc quan trọng: Chủ ngữ của mệnh đề trong cấu trúc này KHÔNG ĐƯỢC là ngôi thứ nhất (người nói: 私, 私たち...), vì người nói là người quan sát hiện tượng của người khác hoặc tự nhiên bên ngoài, không dùng cho hành động có chủ ý của bản thân.\n- Do đó, chủ ngữ bắt buộc phải là ngôi thứ ba: 「あの子は」 (đứa bé đó).\n\nPhân tích các phương án khác:\n- ① 私は / ② 私たちは / ④ 私と田中さん: Đều chứa ngôi thứ nhất, vi phạm quy tắc dùng của cấu trúc 〜かと思うと.\n\nCâu hoàn chỉnh: あの子は車からおりたかと思うと、海に向かって走り出した。\nDịch: Đứa bé đó vừa mới bước xuống xe một cái là đã lập tức chạy ào về phía biển."
+    },
+    {
+      "question_id": 3,
+      "question": "弟のアパートにはエアコンどころか（　　　）。",
+      "context": "",
+      "options": [
+        "車がある",
+        "車がない",
+        "テレビはある",
+        "扇風機(せんぷうき)もない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 扇風機(せんぷうき)もない.\n\nCấu trúc: A どころか B も〜ない: Đừng nói tới A, ngay cả B [ở mức độ cơ bản hơn/thấp hơn] cũng không có / không thể (nhấn mạnh tình trạng thiếu thốn hoặc mức độ tệ hơn nhiều so với dự tính).\n- A: エアコン (điều hòa / máy lạnh - tiện nghi cao hơn).\n- B: 扇風機 (quạt máy - đồ dùng thiết yếu, rẻ hơn nhiều).\n- Ghép: Đừng nói tới điều hòa, ngay cả quạt máy cũng chẳng có.\n\nPhân tích các phương án khác:\n- ① 車がある: Sai về mặt phủ định của どころか.\n- ② 車がない: Xe hơi có giá trị lớn hơn nhiều so với điều hòa, đi ngược quy luật so sánh giảm dần của cấu trúc.\n- ③ テレビはある: Phải dùng câu mang ý nghĩa phủ định も〜ない.\n\nCâu hoàn chỉnh: 弟のアパートにはエアコンどころか扇風機もない。\nDịch: Căn hộ của em trai tôi đừng nói tới máy lạnh, ngay cả cái quạt máy cũng không có."
+    },
+    {
+      "question_id": 4,
+      "question": "何年も会っていない友達を突然訪ねていったら、（　　　）驚くことか。",
+      "context": "",
+      "options": [
+        "なんと",
+        "どんなに",
+        "いくら",
+        "とりあえず"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② どんなに.\n\nCấu trúc: どんなに / どれほど + [V / Tính từ] + ことか: ... biết bao / biết nhường nào! (thể hiện cảm thán sâu sắc về mức độ cảm xúc, sự ngạc nhiên).\n- どんなに驚くことか: Chắc sẽ ngạc nhiên biết bao!\n\nPhân tích các phương án khác:\n- ① なんと: Thường đi với なんと〜だろう / なんという... (không phải mẫu kết hợp kinh điển của bài học này như どんなに...ことか).\n- ③ いくら: Thường đi với mẫu nhượng bộ いくら〜ても (dù cho... bao nhiêu chăng nữa).\n- ④ とりあえず: Trước mắt / tạm thời (không mang ý cảm thán mức độ).\n\nCâu hoàn chỉnh: 何年も会っていない友達を突然訪ねていったら、どんなに驚くことか。\nDịch: Nếu bất ngờ đến thăm người bạn nhiều năm không gặp, chắc bạn ấy sẽ ngạc nhiên biết nhường nào!"
+    },
+    {
+      "question_id": 5,
+      "question": "環境問題は、（　　　）のみならず、地球全体の問題である。",
+      "context": "",
+      "options": [
+        "我が国",
+        "私",
+        "人間",
+        "田中さん"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 我が国.\n\nCấu trúc: N + のみならず（= だけでなく）: Không chỉ... mà còn... (văn phong trang trọng, diễn tả sự việc không chỉ giới hạn ở phạm vi A mà còn mở rộng ra cả phạm vi B lớn hơn).\n- Vế sau là: 「地球全体の問題である」 (là vấn đề của toàn bộ Trái Đất).\n- Đối ứng tương xứng ở vế trước là phạm vi một quốc gia: 「我が国」（わがくに: đất nước chúng ta / nước mình).\n\nPhân tích các phương án khác:\n- ② 私 / ④ 田中さん: Cá nhân đơn lẻ, không tương xứng với văn phong nghị luận môi trường toàn cầu.\n- ③ 人間: Toàn nhân loại thì bao trùm cả trái đất chứ không mang tính đối ứng hẹp - rộng như quốc gia với toàn cầu.\n\nCâu hoàn chỉnh: 環境問題は、我が国のみならず、地球全体の問題である。\nDịch: Vấn đề môi trường không chỉ là vấn đề riêng của nước ta, mà là vấn đề của toàn thể Trái Đất."
+    },
+    {
+      "question_id": 6,
+      "question": "野球の練習を（　　　）、体調が悪くなってしまった。",
+      "context": "",
+      "options": [
+        "しつつあるとき",
+        "しつつ",
+        "している最中に",
+        "しているのに"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ している最中に.\n\nCấu trúc: V-ている + 最中に（さいちゅうに）: Đúng vào lúc đang... thì (có sự việc bất ngờ khác ập đến hoặc xen ngang làm gián đoạn).\n- 野球の練習をしている最中に: Đúng lúc đang luyện tập bóng chày.\n- Vế sau: 「体調が悪くなってしまった」 (bỗng nhiên tôi thấy trong người không khỏe).\n\nPhân tích các phương án khác:\n- ① しつつあるとき: 〜つつある dùng cho xu hướng biến đổi dần dần (ấm lên, tăng lên...), không dùng cho hành động cụ thể.\n- ② しつつ: Vừa làm vừa... / mặc dù (không diễn đạt sự xen ngang bất ngờ).\n- ④ しているのに: Mặc dù đang... (không đúng ý nghĩa thời điểm xảy ra sự cố).\n\nCâu hoàn chỉnh: 野球の練習をしている最中に、体調が悪くなってしまった。\nDịch: Đúng vào lúc đang tập luyện bóng chày thì tôi bỗng thấy trong người không khỏe."
+    },
+    {
+      "question_id": 7,
+      "question": "サッカーの試合が始まったかと思うとテレビの前に（　　　）。",
+      "context": "",
+      "options": [
+        "人が大勢集まってきた",
+        "集まろうよ",
+        "座っていいですか",
+        "座ったらいいです"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 人が大勢集まってきた.\n\nCấu trúc: V-た + かと思うと: Vừa mới... thì ngay lập tức... (kể lại sự việc khách quan diễn ra kế tiếp cực nhanh).\n- Quy tắc: Vế sau của 〜かと思うと KHÔNG ĐƯỢC dùng câu thể hiện ý chí, mệnh lệnh, rủ rê, nhờ vả hay xin phép (như 〜よう, 〜てください, 〜いいですか...).\n- Do đó, phương án miêu tả một sự việc, hiện tượng khách quan diễn ra lập tức là ① 「人が大勢集まってきた」 (rất đông người đã kéo đến).\n\nPhân tích các phương án khác:\n- ② 集まろうよ: Rủ rê (sai quy tắc ngữ pháp).\n- ③ 座っていいですか: Xin phép (sai quy tắc ngữ pháp).\n- ④ 座ったらいいです: Đưa ra lời khuyên (sai quy tắc ngữ pháp).\n\nCâu hoàn chỉnh: サッカーの試合が始まったかと思うとテレビの前に人が大勢集まってきた。\nDịch: Trận đấu bóng đá vừa mới bắt đầu thì mọi người đã kéo đến đông nghịt trước màn hình tivi."
+    },
+    {
+      "question_id": 8,
+      "question": "最後の最後に逆転負けしたなんて、どれほど（　　　）。",
+      "context": "",
+      "options": [
+        "悔しいことか",
+        "悔しいものだ",
+        "悔しいものがある",
+        "悔しいものか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 悔しいことか.\n\nCấu trúc: どれほど + [Tính từ / V] + ことか: ... biết bao / biết nhường nào! (thể hiện sự cảm thán, đồng cảm hoặc tiếc nuối sâu sắc trước mức độ của cảm xúc).\n- どれほど悔しいことか: Cảm thấy tiếc nuối, cay đắng biết bao!\n\nPhân tích các phương án khác:\n- ② 〜ものだ: Diễn tả chân lý thông thường hoặc thói quen trong quá khứ.\n- ③ 〜ものがある: Có cảm giác... (không dùng sau phó từ cảm thán mức độ どれほど).\n- ④ 〜ものか: Tuyệt đối không... / Làm sao mà... được! (mang ý phủ định gay gắt, ví dụ: 諦めるものか - quyết không bỏ cuộc).\n\nCâu hoàn chỉnh: 最後の最後に逆転負けしたなんて、どれほど悔しいことか。\nDịch: Bị lội ngược dòng thua vào đúng những giây phút cuối cùng thì cảm thấy cay đắng, tiếc nuối biết nhường nào!"
+    },
+    {
+      "question_id": 9,
+      "question": "海が好きな母のことだから、（　　　）。",
+      "context": "",
+      "options": [
+        "今頃はハワイで楽しんでいるだろう",
+        "海で遊ぶのをとても楽しみにしている",
+        "海に行けてよかったと言っている",
+        "いつかハワイに行きたいと言いました"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 今頃はハワイで楽しんでいるだろう.\n\nCấu trúc: N + のことだから: Vì là N [người mà tính cách, sở thích đã rất rõ ràng] nên chắc chắn là...\n- Quy tắc: Vế sau của cấu trúc 〜のことだから luôn là một PHỎNG ĐOÁN, SUY ĐOÁN của người nói, thường kết thúc bằng các đuôi câu như 「〜だろう」, 「〜に違いない」, 「〜はずだ」.\n- Chỉ có phương án ① chứa đuôi suy đoán: 「〜楽しんでいるだろう」 (chắc là đang tận hưởng vui vẻ).\n\nPhân tích các phương án khác:\n- ② 楽しみにしている: Câu trần thuật trạng thái hiện tại, không phải suy đoán.\n- ③ 言っている / ④ 言いました: Tường thuật lời nói thực tế, không phải suy đoán của người nói.\n\nCâu hoàn chỉnh: 海が好きな母のことだから、今頃はハワイで楽しんでいるだろう。\nDịch: Vì là mẹ vốn rất thích biển nên chắc giờ này mẹ đang vui chơi thỏa thích ở Hawaii rồi."
+    },
+    {
+      "question_id": 10,
+      "question": "私は外国旅行どころか（　　　）。",
+      "context": "",
+      "options": [
+        "国内旅行には何度も行った",
+        "国内旅行もめったにできない",
+        "国内旅行に行ってみたい",
+        "国内旅行も行きたかった"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 国内旅行もめったにできない.\n\nCấu trúc: A どころか B も〜ない: Đừng nói tới A, ngay cả B cũng chẳng thể / hiếm khi (nhấn mạnh tình trạng thực tế còn kém xa so với mức mong đợi).\n- A: 外国旅行 (du lịch nước ngoài).\n- B: 国内旅行 (du lịch trong nước).\n- Vế sau cần dạng phủ định: 「国内旅行もめったにできない」 (ngay cả du lịch trong nước cũng hiếm khi được đi).\n\nPhân tích các phương án khác:\n- ① 国内旅行には何度も行った: Đi ngược lại hoàn toàn với logic ngữ nghĩa của cấu trúc どころか.\n- ③ 国内旅行に行ってみたい: Thể hiện nguyện vọng, không khớp cấu trúc.\n- ④ 国内旅行も行きたかった: Thể hiện mong muốn trong quá khứ.\n\nCâu hoàn chỉnh: 私は外国旅行どころか国内旅行もめったにできない。\nDịch: Tôi thì đừng nói đến việc đi du lịch nước ngoài, ngay cả du lịch trong nước cũng hiếm khi được đi."
+    },
+    {
+      "question_id": 11,
+      "question": "＿＿ _★_ ＿＿ ＿＿ 喜んでボランティアに参加してくれるでしょう。",
+      "context": "",
+      "options": [
+        "心の",
+        "のことだから",
+        "小林さん",
+        "優しい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 優しい.\n\nThứ tự đúng: 心の (1) → 優しい (4 - ★) → 小林さん (3) → のことだから (2)\n(Thứ tự các đáp án: 1 → 4 → 3 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 2 trong đề bài: 「優しい」 (lựa chọn 4).\n- Cụm danh từ: 「心の優しい小林さん」: anh Kobayashi có tấm lòng nhân hậu, tốt bụng.\n- Cấu trúc ngữ pháp: N + のことだから (Vì là người có đặc điểm như vậy nên chắc chắn...): 「小林さんのことだから」.\n- Vế sau là phỏng đoán: 「喜んでボランティアに参加してくれるでしょう」 (chắc hẳn sẽ vui vẻ tham gia hoạt động tình nguyện thôi).\n\nCâu hoàn chỉnh: 心の優しい小林さんのことだから、喜んでボランティアに参加してくれるでしょう。\nDịch: Vì là anh Kobayashi vốn có tấm lòng nhân hậu, nên chắc hẳn anh ấy sẽ vui vẻ nhận lời tham gia hoạt động tình nguyện thôi."
+    },
+    {
+      "question_id": 12,
+      "question": "今の給料は ＿＿ _★_ ＿＿ ＿＿ 。",
+      "context": "",
+      "options": [
+        "家を買う",
+        "どころか",
+        "食事も",
+        "足りない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② どころか.\n\nThứ tự đúng: 家を買う (1) → どころか (2 - ★) → 食事も (3) → 足りない (4)\n(Thứ tự các đáp án: 1 → 2 → 3 → 4)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 2 trong đề bài: 「どころか」 (lựa chọn 2).\n- Cấu trúc ngữ pháp: V-る + どころか ... も〜ない / 足りない: Đừng nói đến việc... ngay cả... cũng không đủ.\n- 「家を買うどころか」: Đừng nói đến việc mua nhà.\n- 「食事も足りない」: Ngay cả tiền ăn uống hàng ngày cũng không đủ trang trải.\n\nCâu hoàn chỉnh: 今の給料は家を買うどころか食事も足りない。\nDịch: Với mức lương hiện tại thì đừng nói đến chuyện mua nhà, ngay cả tiền ăn uống cũng không đủ sống."
+    },
+    {
+      "question_id": 13,
+      "question": "＿＿ _★_ ＿＿ ＿＿ 新たな問題が飛び出してきた。",
+      "context": "",
+      "options": [
+        "また",
+        "と思ったら",
+        "解決した",
+        "その問題が"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 解決した.\n\nThứ tự đúng: その問題が (4) → 解決した (3 - ★) → と思ったら (2) → また (1)\n(Thứ tự các đáp án: 4 → 3 → 2 → 1)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 2 trong đề bài: 「解決した」 (lựa chọn 3).\n- Cấu trúc ngữ pháp: V-た + と思ったら: Vừa mới ngỡ là / vừa mới thấy... thì ngay lập tức...\n- Mệnh đề trước: 「その問題が解決したと思ったら」 (vừa mới tưởng vấn đề đó đã được giải quyết êm xuôi).\n- Vế sau diễn tả sự việc tiếp diễn bất ngờ: 「また新たな問題が飛び出してきた」 (thì lại nảy sinh một vấn đề mới khác).\n\nCâu hoàn chỉnh: その問題が解決したと思ったらまた新たな問題が飛び出してきた。\nDịch: Vừa mới tưởng là vấn đề đó đã được giải quyết xong xuôi thì lại nảy sinh một rắc rối mới."
+    },
+    {
+      "question_id": 14,
+      "question": "この時期は ＿＿ ＿＿ _★_ ＿＿ こともあるから、傘を持って行ったほうがいいよ。",
+      "context": "",
+      "options": [
+        "晴れていた",
+        "雨が降り出す",
+        "急に",
+        "かと思ったら"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 急に.\n\nThứ tự đúng: 晴れていた (1) → かと思ったら (4) → 急に (3 - ★) → 雨が降り出す (2)\n(Thứ tự các đáp án: 1 → 4 → 3 → 2)\n\nGiải thích chi tiết:\n- Vị trí ngôi sao ★ là vị trí thứ 3 trong đề bài: 「急に」 (lựa chọn 3).\n- Cấu trúc ngữ pháp: V-た + かと思ったら: Vừa mới... thì ngay lập tức...\n- 「晴れていたかと思ったら」: Vừa mới thấy trời còn nắng ráo.\n- 「急に雨が降り出すこともある」: Thế mà đùng một cái trời lại đổ mưa cũng nên.\n- Vế khuyên nhủ: 「傘を持って行ったほうがいいよ」 (nên mang ô theo thì hơn).\n\nCâu hoàn chỉnh: この時期は晴れていたかと思ったら急に雨が降り出すこともあるから、傘を持って行ったほうがいいよ。\nDịch: Vào thời điểm này trong năm, vừa mới thấy trời nắng ráo đó mà đùng một cái mưa lại có thể đổ xuống bất cứ lúc nào, nên bạn mang theo ô thì hơn nhé."
+    }
+  ]
+}

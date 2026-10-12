@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T13:40:00Z",
+  "updatedAt": "2026-10-12T14:15:00Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -319,6 +319,16 @@
       "topic": "grammar",
       "questionCount": 14,
       "file": "exams/N2/N2-GJ-B09.json"
+    },
+    {
+      "id": "N2-GJ-B14",
+      "code": "N2-GJ-B14",
+      "title": "Ngữ pháp Junbi · Bài tập Bài 14",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "grammar",
+      "questionCount": 14,
+      "file": "exams/N2/N2-GJ-B14.json"
     },
     {
       "id": "N2-GJ-B15",
