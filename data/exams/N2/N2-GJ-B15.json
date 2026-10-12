@@ -1,0 +1,141 @@
+{
+  "id": "N2-GJ-B15",
+  "code": "N2-GJ-B15",
+  "title": "Ngữ pháp Junbi · Bài tập Bài 15",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "grammar",
+  "source": "riki/N2.29/N2 JUNBI BÀI TẬP NGỮ PHÁP BÀI 15.html",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "チケットのご予約は、音声案内に（ 　  　）手続きを行ってください。",
+      "context": "",
+      "options": [
+        "もとに",
+        "応じて",
+        "つれて",
+        "沿って"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 沿って.\n\nCấu trúc: N + に沿って（にそって）: Theo... / Dựa theo... / Tuân theo... (làm theo đúng trình tự, hướng dẫn, kế hoạch, phương châm đã định sẵn).\n- 音声案内に沿って: Theo sự hướng dẫn của hệ thống chỉ dẫn giọng nói (audio guidance).\n\nPhân tích các phương án khác:\n- ① 〜をもとに（して）: Dựa trên cơ sở, chất liệu, căn cứ (thường đi với trợ từ を, ví dụ: 事実をもとに映画を作る).\n- ② 〜に応じて: Tùy theo, ứng với (thay đổi linh hoạt theo lứa tuổi, ngân sách, nguyện vọng...).\n- ③ 〜につれて: Cùng với việc... (kéo theo sự thay đổi tỷ lệ thuận, biến đổi tự nhiên).\n\nCâu hoàn chỉnh: チケットのご予約は、音声案内に沿って手続きを行ってください。\nDịch: Để đặt vé, xin vui lòng làm theo hướng dẫn bằng giọng nói để tiến hành thủ tục."
+    },
+    {
+      "question_id": 2,
+      "question": "この映画のラストシーンには、（　　　）いられなかった。",
+      "context": "",
+      "options": [
+        "感動しないでは",
+        "感動できないでは",
+        "感動しては",
+        "感動させないでは"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 感動しないでは.\n\nCấu trúc: V-ないではいられない（= V-ずにはいられない）: Không thể không... / Không kìm nén được cảm xúc muốn làm V (diễn tả cảm xúc, phản xạ tự nhiên từ nội tâm bộc phát ra mà bản thân không thể kiềm chế được).\n- 感動する → Thể ない: 感動しない → 感動しないではいられなかった (không kìm được xúc động / không thể không cảm động).\n\nPhân tích các phương án khác:\n- ② 感動できないでは: Sai dạng kết hợp ngữ pháp.\n- ③ 感動しては: 〜てはいられない mang nghĩa \"không thể cứ mãi làm việc gì trong tình huống cấp bách\" (ví dụ: のんびり待ってはいられない - không thể thong thả chờ đợi được nữa).\n- ④ 感動させないでは: Thể sai khiến (làm cho ai cảm động), không phù hợp với chủ ngữ tự bản thân mình cảm động.\n\nCâu hoàn chỉnh: この映画のラストシーンには、感動しないではいられなかった。\nDịch: Trước cảnh cuối của bộ phim này, tôi không thể kìm nén được sự xúc động."
+    },
+    {
+      "question_id": 3,
+      "question": "ご両親が厳しいことを言うのは、あなたのことを（　　　）にほかならない。",
+      "context": "",
+      "options": [
+        "心配すること",
+        "心配している",
+        "心配しているから",
+        "心配しているからだ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 心配しているから.\n\nCấu trúc: 〜のは、〜からにほかならない: Sở dĩ... chính là vì... / Không gì khác ngoài lý do là... (dùng để nhấn mạnh lý do cốt lõi, duy nhất của sự việc).\n- Khi câu bắt đầu bằng 「〜のは」 để nêu lý do, vế sau sẽ kết hợp thành 「〜からにほかならない」.\n- Lưu ý: Không dùng だ trước にほかならない (loại ④ 心配しているからだ vì sai ngữ pháp kết hợp trợ từ に).\n\nPhân tích các phương án khác:\n- ① 心配すること: Thiếu から chỉ lý do tương ứng với mệnh đề 「〜のは」 ở đầu câu.\n- ② 心配している: Thiếu から chỉ lý do.\n\nCâu hoàn chỉnh: ご両親が厳しいことを言うのは、あなたのことを心配しているからにほかならない。\nDịch: Việc bố mẹ nói những lời nghiêm khắc với bạn chính là vì họ lo lắng cho bạn, không có lý do nào khác."
+    },
+    {
+      "question_id": 4,
+      "question": "文章を書くことは（　　　）にほかならない。",
+      "context": "",
+      "options": [
+        "楽しみ",
+        "楽しい",
+        "難しくないの",
+        "考えること"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 考えること.\n\nCấu trúc: N + にほかならない / V-る + ことにほかならない: Chính là... / Không gì khác ngoài... (dùng để khẳng định bản chất, ý nghĩa cốt lõi của một việc).\n- 文章を書くことは考えることにほかならない: Viết văn chính là việc tư duy, suy nghĩ (khẳng định bản chất của hành động viết).\n\nPhân tích các phương án khác:\n- ① 楽しみ: Sự vui thích (về mặt ý nghĩa, viết văn không đơn thuần chỉ là niềm vui giải trí, mà là hoạt động tư duy cốt lõi; đồng thời đây là câu khẳng định bản chất kinh điển trong văn học/triết học).\n- ② 楽しい: Tính từ đuôi い không thể bổ nghĩa trực tiếp cho にほかならない.\n- ③ 難しくないの: Sai ngữ pháp kết hợp.\n\nCâu hoàn chỉnh: 文章を書くことは考えることにほかならない。\nDịch: Viết văn chính là việc tư duy (suy nghĩ), không gì khác ngoài điều đó."
+    },
+    {
+      "question_id": 5,
+      "question": "（　　　）わりにいい成績が残せた。",
+      "context": "",
+      "options": [
+        "３時間練習した",
+        "たくさん練習した",
+        "いつも練習する",
+        "あまり練習しなかった"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ あまり練習しなかった.\n\nCấu trúc: [Thể thông thường] + わりに（は）: So với... thì... / Tuy... vậy mà... (diễn tả sự chênh lệch, không tương xứng giữa mức độ ở vế trước và kết quả đạt được ở vế sau ngoài dự đoán).\n- Vế sau là: 「いい成績が残せた」 (đã đạt được thành tích tốt).\n- Để tạo sự tương phản bất ngờ với kết quả tốt, vế trước phải là điều kiện bất lợi: 「あまり練習しなかった」 (không luyện tập nhiều lắm).\n\nPhân tích các phương án khác:\n- ① ３時間練習した: Không mang sắc thái tương phản rõ rệt về mức độ.\n- ② たくさん練習した: Luyện tập nhiều mà được kết quả tốt là quy luật tất yếu thuận chiều, không dùng わりに.\n- ③ いつも練習する: Luôn luyện tập mà đạt kết quả tốt cũng là thuận chiều.\n\nCâu hoàn chỉnh: あまり練習しなかったわりにいい成績が残せた。\nDịch: So với việc không luyện tập mấy thì tôi đã đạt được kết quả khá tốt."
+    },
+    {
+      "question_id": 6,
+      "question": "（　　　）を抜きにしては、この町の活気は取り戻せないだろう。",
+      "context": "",
+      "options": [
+        "自然海外",
+        "観光事業の収入",
+        "土地の値上がり",
+        "地元民"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 観光事業の収入.\n\nCấu trúc: N + を抜きにしては（をぬきにしては）... ない: Nếu không có N / Nếu bỏ qua N thì không thể... (nhấn mạnh tầm quan trọng thiết yếu, không thể thiếu của N đối với kết quả phía sau).\n- 観光事業の収入: Nguồn thu từ ngành du lịch.\n- Vế sau: 「この町の活気は取り戻せないだろう」 (khó mà lấy lại được sự sôi động, nhộn nhịp cho thị trấn này).\n- Ghép lại: Nếu không có nguồn thu từ hoạt động du lịch thì thị trấn này khó lòng lấy lại sự phồn vinh, nhộn nhịp.\n\nPhân tích các phương án khác:\n- ① 自然海外: Cụm từ không có nghĩa chuẩn trong ngữ cảnh này.\n- ③ 土地の値上がり: Việc giá đất tăng (không phải yếu tố chủ chốt mang lại sức sống/hoạt khí cho cả thị trấn).\n- ④ 地元民: Nếu dùng người dân thì phải là 「地元民の協力／努力」 (sự hợp tác/nỗ lực của người dân địa phương), không để danh từ trần như vậy.\n\nCâu hoàn chỉnh: 観光事業の収入を抜きにしては、この町の活気は取り戻せないだろう。\nDịch: Nếu không có nguồn thu từ ngành du lịch, thị trấn này chắc chắn khó mà lấy lại được sự sôi động."
+    },
+    {
+      "question_id": 7,
+      "question": "新人の店員たちはマニュアルに（　　　）やり方でお客様に応対している。",
+      "context": "",
+      "options": [
+        "沿って",
+        "沿った",
+        "沿っての",
+        "沿ったの"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 沿った.\n\nCấu trúc:\n- N1 + に沿って + Động từ: làm gì đó men theo / tuân theo N1.\n- N1 + に沿った + N2: N2 bám sát / tuân theo N1 (dạng bổ nghĩa cho danh từ - 連体修飾).\n- Ở đây sau chỗ trống là danh từ 「やり方」 (cách thức, phương pháp), do đó phải dùng dạng bổ nghĩa danh từ là 「沿った」.\n\nPhân tích các phương án khác:\n- ① 沿って: Dạng liên từ/phó từ nối vế, không bổ nghĩa trực tiếp cho danh từ やり方.\n- ③ 沿っての: Sai ngữ pháp kết hợp.\n- ④ 沿ったの: Thừa trợ từ の.\n\nCâu hoàn chỉnh: 新人の店員たちはマニュアルに沿ったやり方でお客様に応対している。\nDịch: Các nhân viên mới đang tiếp khách theo cách thức tuân thủ đúng sách hướng dẫn."
+    },
+    {
+      "question_id": 8,
+      "question": "今日は会議があるので（　　　）。",
+      "context": "",
+      "options": [
+        "出動せずにはいられない",
+        "出勤しないではいられない",
+        "出勤しなければならない",
+        "出勤してください"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 出勤しなければならない.\n\nCấu trúc và ngữ nghĩa:\n- Cấu trúc 〜なければならない: Phải... (diễn tả nghĩa vụ, bổn phận bắt buộc phải thực hiện do hoàn cảnh khách quan hoặc quy định).\n- Ở đây do có lý do công việc: 「今日は会議があるので」 (Hôm nay vì có cuộc họp) => Kết quả tất yếu mang tính nghĩa vụ là phải đi làm: 「出勤しなければならない」.\n\nPhân tích bẫy ngữ pháp giữa 〜ないではいられない và 〜なければならない:\n- Cấu trúc 〜ないではいられない / 〜ずにはいられない chỉ dùng cho cảm xúc, phản xạ nội tâm bộc phát không kiềm chế được (như buồn cười, lo lắng, rơi nước mắt...); tuyệt đối KHÔNG dùng cho hành động mang tính nghĩa vụ, công việc như đi làm (loại ②).\n- ① 出動せずにはいられない: Sai từ vựng (出動 là xuất quân, xe cứu hỏa/cảnh sát xuất kích) và sai ngữ pháp cảm xúc.\n- ④ 出勤してください: Câu yêu cầu người khác, không phù hợp khi tự nói về lý do của bản thân có cuộc họp.\n\nCâu hoàn chỉnh: 今日は会議があるので出勤しなければならない。\nDịch: Hôm nay vì có cuộc họp nên tôi phải đi làm."
+    },
+    {
+      "question_id": 9,
+      "question": "ジョンさんは試験に合格したにしては、（　　）。",
+      "context": "",
+      "options": [
+        "大喜びしている",
+        "嬉しくなさそうだ",
+        "国へ帰ってしまった",
+        "国へ帰っている"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 嬉しくなさそうだ.\n\nCấu trúc: [Thể thông thường] + にしては: Vậy mà / Thế mà... (diễn tả sự việc ở vế sau đi ngược lại với thực tế, tiêu chuẩn thông thường của sự việc nêu ở vế trước).\n- Vế trước: 「試験に合格した」 (đã thi đỗ kỳ thi) -> Thông thường thi đỗ sẽ rất vui mừng, phấn khởi.\n- Đi với 「にしては」 thì vế sau phải trái với lẽ thường: 「嬉しくなさそうだ」 (trông có vẻ chẳng vui vẻ gì cả).\n\nPhân tích các phương án khác:\n- ① 大喜びしている: Vui mừng khôn xiết (kết quả thuận theo lẽ thường, không đi với にしては).\n- ③ 国へ帰ってしまった / ④ 国へ帰っている: Về nước (không thể hiện sự tương phản tâm trạng đối với việc thi đỗ).\n\nCâu hoàn chỉnh: ジョンさんは試験に合格したにしては、嬉しくなさそうだ。\nDịch: Anh John thi đỗ kỳ thi rồi thế mà trông có vẻ chẳng vui vẻ gì."
+    },
+    {
+      "question_id": 10,
+      "question": "周りの人たちの援助を抜きにしては、（　　）。",
+      "context": "",
+      "options": [
+        "彼は不幸だっただろう",
+        "彼はもっと自由だっただろう",
+        "今の彼はいなかったろう",
+        "今の彼はいつも楽しかっただろう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 今の彼はいなかったろう.\n\nCấu trúc: N + を抜きにしては ... ない: Nếu không có N / Nếu thiếu đi N thì không thể... (nhấn mạnh sự biết ơn, ca ngợi sự giúp đỡ hoặc yếu tố quan trọng quyết định).\n- 周りの人たちの援助: Sự giúp đỡ, viện trợ của những người xung quanh.\n- Cụm từ quen thuộc: 「今の彼はいなかったろう（＝いなかっただろう）」: Đã không có anh ấy của ngày hôm nay.\n\nPhân tích các phương án khác:\n- ① 彼は不幸だっただろう: Không mang cấu trúc phủ định triệt để điển hình của を抜きにしては.\n- ② 彼はもっと自由だっただろう: Không phù hợp với ngữ cảnh ca ngợi sự giúp đỡ.\n- ④ 今の彼はいつも楽しかっただろう: Sai cả về nghĩa lẫn thể khẳng định.\n\nCâu hoàn chỉnh: 周りの人たちの援助を抜きにしては、今の彼はいなかったろう。\nDịch: Nếu không có sự giúp đỡ của những người xung quanh thì có lẽ đã không có anh ấy của ngày hôm nay."
+    }
+  ]
+}
