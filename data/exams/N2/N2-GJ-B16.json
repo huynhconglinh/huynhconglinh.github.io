@@ -1,0 +1,465 @@
+{
+  "id": "N2-GJ-B16",
+  "code": "N2-GJ-B16",
+  "title": "Ngữ pháp Junbi · Bài tập Bài 16",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "grammar",
+  "source": "riki/N2.29/N2 JUNBI BÀI TẬP NGỮ PHÁP BÀI 16.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "この町では（　　）といった交通手段が発達している。",
+      "context": "",
+      "options": [
+        "地下鉄",
+        "地下鉄やバス",
+        "地下鉄とバス",
+        "地下鉄とかバスとか"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 地下鉄やバス.\n\nCấu trúc: N1 や N2 といった + Danh từ chung: Những [danh từ chung] như là N1 hay N2... (dùng để đưa ra một vài ví dụ tiêu biểu đại diện cho nhóm danh từ đứng sau).\n- 地下鉄やバスといった交通手段: Những phương tiện giao thông như tàu điện ngầm hay xe buýt.\n\nPhân tích các phương án khác:\n- ① 地下鉄: Chỉ có 1 danh từ đơn lẻ, không dùng といった để liệt kê tiêu biểu (nếu 1 cái cụ thể định danh thì dùng という).\n- ③ 地下鉄とバス: Trợ từ と dùng để liệt kê toàn bộ, không đi kèm với cấu trúc nêu ví dụ đại diện といった.\n- ④ 地下鉄とかバスとか: とか〜とか là cách liệt kê khẩu ngữ đã bao hàm nghĩa \"như là...\", không kết hợp chồng với といった.\n\nCâu hoàn chỉnh: この町では地下鉄やバスといった交通手段が発達している。\nDịch: Ở thị trấn này, các phương tiện giao thông như tàu điện ngầm hay xe buýt rất phát triển."
+    },
+    {
+      "question_id": 2,
+      "question": "へー、新しいデジカメ買ったんですか。そうそう、（　　）っていえば、この間私、写真コンテストで賞をとったんですよ。",
+      "context": "",
+      "options": [
+        "コンテスト",
+        "買った",
+        "カメラ",
+        "賞"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ カメラ.\n\nCấu trúc: N + といえば（khẩu ngữ: 〜っていえば）: Nhắc đến N mới nhớ... (dùng khi bắt lấy một từ khóa, chủ đề vừa xuất hiện trong câu chuyện để mở rộng sang một thông tin liên quan).\n- Ở câu trước có nhắc đến 「新しいデジカメ」(máy ảnh kỹ thuật số mới), nên người nói nhắc lại chủ đề 「カメラっていえば」(Nhắc đến máy ảnh mới nhớ...) để khoe chuyện đạt giải cuộc thi ảnh.\n\nPhân tích các phương án khác:\n- ① コンテスト / ④ 賞: Chưa được nhắc đến ở câu trước nên không thể dùng 〜っていえば để nối tiếp chủ đề.\n- ② 買った: Không phù hợp làm từ khóa liên tưởng sang chuyện đạt giải cuộc thi ảnh.\n\nCâu hoàn chỉnh: へー、新しいデジカメ買ったんですか。そうそう、カメラっていえば、この間私、写真コンテストで賞をとったんですよ。\nDịch: Ồ, bạn mới mua máy ảnh kỹ thuật số mới đấy à? À phải rồi, nhắc đến máy ảnh mới nhớ, dạo vừa rồi tôi đã giành được giải thưởng trong cuộc thi nhiếp ảnh đấy."
+    },
+    {
+      "question_id": 3,
+      "question": "ここに身分を証明するものが必要と書いてありますが、身分を証明するものというとパスポートでも（　　）。",
+      "context": "",
+      "options": [
+        "いいでしょうか",
+        "いいです",
+        "いいですよ",
+        "いいですね"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① いいでしょうか.\n\nCấu trúc: N + というと: Nói là N thì... (dùng khi lặp lại cụm từ vừa nghe/nhìn thấy để hỏi xác nhận lại nội dung cụ thể hoặc định nghĩa của nó).\n- 身分を証明するものというとパスポートでもいいでしょうか: Nói là giấy tờ chứng minh nhân thân thì dùng hộ chiếu có được không ạ?\n\nPhân tích các phương án khác:\n- ② いいです / ③ いいですよ / ④ いいですね: Đều là câu khẳng định/trả lời, không phù hợp với ngữ cảnh người đọc thông báo đang đặt câu hỏi xác nhận.\n\nCâu hoàn chỉnh: ここに身分を証明するものが必要と書いてありますが、身分を証明するものというとパスポートでもいいでしょうか。\nDịch: Ở đây có ghi là cần giấy tờ chứng minh nhân thân, nói là giấy tờ chứng minh nhân thân thì hộ chiếu có được không ạ?"
+    },
+    {
+      "question_id": 4,
+      "question": "バラの花と言ったら（　　）。",
+      "context": "",
+      "options": [
+        "今、とても綺麗ですね",
+        "痛いとげのことを考えます",
+        "いつごろ咲きますか",
+        "私は大好きです"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 痛いとげのことを考えます.\n\nCấu trúc: N + といったら（= といえば / というと）: Nhắc đến N là (người ta nghĩ/liên tưởng ngay đến...).\n- バラの花と言ったら痛いとげのことを考えます: Nhắc đến hoa hồng là tôi nghĩ ngay đến những chiếc gai nhọn đau.\n\nPhân tích các phương án khác:\n- ① 今、とても綺麗ですね / ③ いつごろ咲きますか / ④ 私は大好きです: Không diễn tả sự liên tưởng đặc trưng từ danh từ N.\n\nCâu hoàn chỉnh: バラの花と言ったら痛いとげのことを考えます。\nDịch: Hễ nhắc đến hoa hồng là tôi lại nghĩ tới những chiếc gai nhọn đau."
+    },
+    {
+      "question_id": 5,
+      "question": "彼と仲がいいと言っても、（　　）。",
+      "context": "",
+      "options": [
+        "結婚は考えていない",
+        "結婚を考えている",
+        "よくいろいろなことを話す",
+        "あまり話さない"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 結婚は考えていない.\n\nCấu trúc: 〜といっても: Tuy nói là... nhưng thực ra... (dùng để đính chính rằng thực tế mức độ không cao như người nghe dễ lầm tưởng từ mệnh đề trước).\n- 彼と仲がいいと言っても、結婚は考えていない: Tuy nói là thân thiết với anh ấy, nhưng tôi không nghĩ đến chuyện kết hôn.\n\nPhân tích các phương án khác:\n- ② 結婚を考えている / ③ よくいろいろなことを話す: Thuận chiều với việc thân thiết, không dùng 〜といっても.\n- ④ あまり話さない: Mâu thuẫn hoàn toàn với tiền đề 仲がいい (thân nhau).\n\nCâu hoàn chỉnh: 彼と仲がいいと言っても、結婚は考えていない。\nDịch: Tuy nói là có mối quan hệ thân thiết với anh ấy, nhưng tôi chưa nghĩ đến chuyện kết hôn."
+    },
+    {
+      "question_id": 6,
+      "question": "子供からと言って、（　　）だめだ。",
+      "context": "",
+      "options": [
+        "甘やかしては",
+        "もっと優しくしなければ",
+        "もっと褒められないでは",
+        "大人と同じに扱っては"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 甘やかしては.\n\nCấu trúc: 〜からといって ... べきではない / てはだめだ / とは限らない: Không phải cứ vì lý do... mà lại...\n- 子供（だ）からと言って、甘やかしてはだめだ: Không phải cứ vì là trẻ con mà nuông chiều quá mức là được đâu.\n\nPhân tích các phương án khác:\n- ② もっと優しくしなければ / ③ もっと褒められないでは: Sai ngữ pháp và ý nghĩa khi ghép với だめだ.\n- ④ 大人と同じに扱っては: Với trẻ con thì không đối xử giống hệt người lớn là điều đương nhiên, không mang nghĩa răn đe \"vì là trẻ con mà làm thế là không được\".\n\nCâu hoàn chỉnh: 子供からと言って、甘やかしてはだめだ。\nDịch: Không phải cứ vì là trẻ con mà nuông chiều là được đâu."
+    },
+    {
+      "question_id": 7,
+      "question": "結婚に年齢差は（　　）、やはり年の差結婚をした人を見ると色々考えてしまう。",
+      "context": "",
+      "options": [
+        "問題がないと言えば",
+        "私からと言って",
+        "関係ないとはいえ",
+        "関係と言ったら"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 関係ないとはいえ.\n\nCấu trúc: 〜とはいえ: Mặc dù nói là... nhưng thực tế vẫn... (thừa nhận mệnh đề trước là đúng về mặt lý thuyết/chung chung, nhưng thực tế vẫn có cảm nghĩ khác ở vế sau).\n- 結婚に年齢差は関係ないとはいえ: Mặc dù nói rằng sự chênh lệch tuổi tác không liên quan đến hôn nhân.\n\nPhân tích các phương án khác:\n- ① 問題がないと言えば: 〜といえば không mang nghĩa nhượng bộ tương phản với vế sau.\n- ② 私からと言って / ④ 関係と言ったら: Sai cấu trúc và ngữ nghĩa.\n\nCâu hoàn chỉnh: 結婚に年齢差は関係ないとはいえ、やはり年の差結婚をした人を見ると色々考えてしまう。\nDịch: Mặc dù nói rằng tuổi tác chênh lệch không thành vấn đề trong hôn nhân, nhưng quả thực khi nhìn những người kết hôn chênh lệch tuổi tác tôi vẫn không khỏi suy nghĩ nhiều điều."
+    },
+    {
+      "question_id": 8,
+      "question": "これはレモネード（　　）飲み物だ。",
+      "context": "",
+      "options": [
+        "といった",
+        "という",
+        "といって",
+        "といわれた"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② という.\n\nCấu trúc: A + という + N: N có tên gọi là A.\n- Vì 「これ」(cái này) chỉ một thức uống cụ thể có tên là 「レモネード」(nước chanh), ta phải dùng 「という」 để định danh tên gọi.\n\nPhân tích các phương án khác:\n- ① といった: Dùng để liệt kê ví dụ đại diện cho một nhóm, không dùng để giới thiệu tên gọi của một vật cụ thể.\n- ③ といって: Không bổ nghĩa trực tiếp cho danh từ 飲み物.\n- ④ といわれた: Thể bị động quá khứ, không tự nhiên khi giới thiệu tên đồ uống.\n\nCâu hoàn chỉnh: これはレモネードという飲み物だ。\nDịch: Đây là thức uống có tên gọi là Lemonade (nước chanh)."
+    },
+    {
+      "question_id": 9,
+      "question": "うちから学校まで（　　）けど、いい運動になるから、たいてい歩いていきます。",
+      "context": "",
+      "options": [
+        "遠いと言えば遠い",
+        "遠いと言えば近い",
+        "遠いと言えばそんなに遠くない",
+        "遠いと言えばそんなに近くない"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 遠いと言えば遠い.\n\nCấu trúc: A といえば A（が／けど）: Nói là A thì cũng A thật đấy, nhưng... (dùng khi thừa nhận một phần tính chất A nhưng không hoàn toàn tuyệt đối, kèm theo lời giải thích ở vế sau).\n- 遠いと言えば遠いけど: Nói là xa thì cũng xa thật đấy, nhưng...\n\nPhân tích các phương án khác:\n- ② / ③ / ④: Cấu trúc cố định bắt buộc lặp lại chính từ A trước và sau といえば (A といえば A).\n\nCâu hoàn chỉnh: うちから学校まで遠いと言えば遠いけど、いい運動になるから、たいてい歩いていきます。\nDịch: Từ nhà tôi đến trường nói là xa thì cũng xa thật đấy, nhưng vì là dịp tập thể dục tốt nên tôi thường đi bộ."
+    },
+    {
+      "question_id": 10,
+      "question": "学生生活は（　　）、テニスサークルにより、友達も増え、毎日が楽しい。",
+      "context": "",
+      "options": [
+        "といっても",
+        "としたら",
+        "というと",
+        "としても"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ というと.\n\nCấu trúc: N はというと: Còn về phần N thì... / Nhắc đến N thì sao? (dùng để nêu N lên làm chủ đề rồi diễn giải tình hình thực tế của N ở vế sau).\n- 学生生活はというと: Còn về cuộc sống sinh viên thì...\n\nPhân tích các phương án khác:\n- ① といっても / ② としたら / ④ としても: Không kết hợp sau trợ từ は（Nは〜） để mở chủ đề như Nはというと.\n\nCâu hoàn chỉnh: 学生生活はというと、テニスサークルにより、友達も増え、毎日が楽しい。\nDịch: Còn về cuộc sống sinh viên thì nhờ có câu lạc bộ tennis mà tôi có thêm nhiều bạn bè, mỗi ngày đều rất vui."
+    },
+    {
+      "question_id": 11,
+      "question": "（　　）といっても、前に何回か会ったことがあるだけです。",
+      "context": "",
+      "options": [
+        "彼女とは親しくない",
+        "彼女を知らない",
+        "彼女を知らなかった",
+        "彼女を知っている"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 彼女を知っている.\n\nCấu trúc: 〜といっても ... だけだ: Tuy nói là... nhưng thực ra chỉ...\n- Vế sau là: 「前に何回か会ったことがあるだけです」(thực ra chỉ mới gặp vài lần trước đây thôi).\n- Do đó vế trước phải là lời nhận định dễ gây hiểu lầm là quen thân: 「彼女を知っているといっても」(Tuy nói là quen biết cô ấy).\n\nPhân tích các phương án khác:\n- ① 彼女とは親しくない / ② 彼女を知らない / ③ 彼女を知らなかった: Nếu đã nói ngay từ đầu là không quen/không thân thì không dùng 〜といっても để giảm nhẹ mức độ thành \"chỉ mới gặp vài lần\".\n\nCâu hoàn chỉnh: 彼女を知っているといっても、前に何回か会ったことがあるだけです。\nDịch: Tuy nói là quen biết cô ấy, nhưng thực ra tôi chỉ mới gặp vài lần trước đây thôi."
+    },
+    {
+      "question_id": 12,
+      "question": "成績がいいからと言って、（　　）。",
+      "context": "",
+      "options": [
+        "就職は心配ない",
+        "就職ができない",
+        "就職しないとは限らない",
+        "就職ができるとは限らない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 就職ができるとは限らない.\n\nCấu trúc: 〜からといって ... とは限らない: Không phải cứ vì... mà nhất định sẽ...\n- 成績がいいからと言って、就職ができるとは限らない: Không phải cứ thành tích học tập tốt là chắc chắn sẽ xin được việc.\n\nPhân tích các phương án khác:\n- ① 就職は心配ない: Đi với からといって vế sau phải mang nghĩa phủ định kết luận một chiều.\n- ② 就職ができない: Khẳng định cực đoan \"không thể xin việc\" là sai nghĩa.\n- ③ 就職しないとは限らない: Sai logic ngữ nghĩa.\n\nCâu hoàn chỉnh: 成績がいいからと言って、就職ができるとは限らない。\nDịch: Không phải cứ vì thành tích học tập tốt mà chắc chắn sẽ xin được việc làm."
+    },
+    {
+      "question_id": 13,
+      "question": "過ぎたことは悔やんでも仕方がない。（　　）、思い出すとつい涙が出てしまう。",
+      "context": "",
+      "options": [
+        "とは言いながら",
+        "それを知っているが",
+        "たとえそうであっても",
+        "そうであっても"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① とは言いながら.\n\nCấu trúc: （そう）とは言いながら: Tuy nói là vậy nhưng... (đặt ở đầu câu sau để đón nhận lại toàn bộ nội dung câu trước, thể hiện sự mâu thuẫn giữa lý trí và cảm xúc thực tế).\n- Câu trước: Chuyện đã qua có hối tiếc cũng chẳng ích gì.\n- Câu sau: とは言いながら、思い出すとつい涙が出てしまう (Tuy nói là vậy, nhưng hễ nhớ lại là nước mắt lại bất giác trào ra).\n\nCâu hoàn chỉnh: 過ぎたことは悔やんでも仕方がない。とは言いながら、思い出すとつい涙が出てしまう。\nDịch: Chuyện đã qua có hối tiếc cũng chẳng ích gì. Tuy nói là vậy, nhưng mỗi khi nhớ lại là nước mắt cứ thế trào ra."
+    },
+    {
+      "question_id": 14,
+      "question": "東京のマンションは（　　）、相変わらずローンを組んで購入する人は多い。",
+      "context": "",
+      "options": [
+        "とても高いといわれて",
+        "高すぎるとはいいながら",
+        "値段からと言って高いだが",
+        "自分たちにとって住みやすいから"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 高すぎるとはいいながら.\n\nCấu trúc: 〜とはいいながら（= 〜とはいえ）: Mặc dù nói là... nhưng vẫn...\n- Vế sau: 「相変わらずローンを組んで購入する人は多い」(số người vay trả góp để mua vẫn nhiều như trước).\n- Vế trước nêu thực tế trái ngược: 「高すぎるとはいいながら」(Mặc dù được nói là quá đắt đỏ).\n\nPhân tích các phương án khác:\n- ① とても高いといわれて: 〜て mang nghĩa nguyên nhân hoặc nối tiếp thuận chiều, không diễn tả sự tương phản với 相変わらず〜多い.\n- ③ 値段からと言って高いだが: Sai ngữ pháp (tính từ đuôi い không đi với だが).\n- ④ 自分たちにとって住みやすいから: Không phù hợp với phó từ 相変わらず (vẫn cứ như trước bất chấp trở ngại).\n\nCâu hoàn chỉnh: 東京のマンションは高すぎるとはいいながら、相変わらずローンを組んで購入する人は多い。\nDịch: Chung cư ở Tokyo mặc dù nói là quá đắt đỏ, nhưng số người vay trả góp để mua vẫn nhiều như trước."
+    },
+    {
+      "question_id": 15,
+      "question": "あのレストランは、（　　）からして私は好きになれなかった。",
+      "context": "",
+      "options": [
+        "料理",
+        "食器の色",
+        "味",
+        "飲み物"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 食器の色.\n\nCấu trúc: N + からして: Ngay từ cái N (một chi tiết nhỏ, yếu tố phụ ban đầu) thôi là đã... (huống chi những yếu tố chính khác).\n- Đối với một nhà hàng, món ăn (料理), hương vị (味), đồ uống (飲み物) là những yếu tố chính yếu; còn 「食器の色」(màu sắc của bát đĩa) là một chi tiết nhỏ bên ngoài.\n- Dùng 「食器の色からして」 để nhấn mạnh: chưa cần bàn đến món ăn ngon hay dở, ngay từ màu sắc bát đĩa thôi là tôi đã không thích nổi rồi.\n\nCâu hoàn chỉnh: あのレストランは、食器の色からして私は好きになれなかった。\nDịch: Nhà hàng đó, ngay từ màu sắc của bát đĩa thôi là tôi đã không thể thích nổi rồi."
+    },
+    {
+      "question_id": 16,
+      "question": "もし彼があの風邪薬を（　　）としたら、今頃は眠くなっているはずだ。",
+      "context": "",
+      "options": [
+        "飲む",
+        "飲んだ",
+        "飲もう",
+        "飲まれた"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 飲んだ.\n\nCấu trúc: （もし）[Thể thông thường] + としたら: Giả sử như... thì...\n- Vế sau là 「今頃は眠くなっているはずだ」(giờ này chắc hẳn là đang buồn ngủ rồi) -> Để giờ này thuốc phát huy tác dụng gây buồn ngủ thì hành động uống thuốc phải được giả định là ĐÃ diễn ra trước đó.\n- Do đó, động từ trước としたら phải chia ở thể quá khứ: 「飲んだとしたら」.\n\nCâu hoàn chỉnh: もし彼があの風邪薬を飲んだとしたら、今頃は眠くなっているはずだ。\nDịch: Giả sử anh ấy đã uống thuốc cảm đó rồi thì giờ này chắc hẳn đang buồn ngủ."
+    },
+    {
+      "question_id": 17,
+      "question": "この計画を実行するとすれば、（　　）。",
+      "context": "",
+      "options": [
+        "ぜひ手伝ってください",
+        "貯金を全部おろそう",
+        "お金がたくさんかかります",
+        "いくらぐらいかかりますか"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ いくらぐらいかかりますか.\n\nCấu trúc: 〜とすれば / 〜としたら / 〜とすると: Giả sử như... thì... (đặt ra một giả định để đưa ra phán đoán, suy luận hoặc đặt câu hỏi về điều kiện/kết quả trong trường hợp giả định đó).\n- Trong giáo trình Shin Kanzen Master N2 (Bài 15), câu mẫu chuẩn của cấu trúc này là: 「この計画を実行するとすれば、いくらぐらいかかりますか」(Nếu giả sử thực hiện kế hoạch này thì sẽ tốn khoảng bao nhiêu tiền?).\n\nPhân tích các phương án khác:\n- ① ぜひ手伝ってください: Câu yêu cầu/nhờ vả không đi ở vế sau của 〜とすれば.\n- ② 貯金を全部おろそう: Câu ý chí không đi với 〜とすれば.\n- ③ お金がたくさんかかります: Khi đưa ra nhận định giả định với 〜とすれば thì cuối câu thường dùng dạng suy đoán (〜だろう / 〜ことになる) hoặc câu hỏi nghi vấn (〜か), không dùng câu khẳng định thực tế trần trụi như かかります.\n\nCâu hoàn chỉnh: この計画を実行するとすれば、いくらぐらいかかりますか。\nDịch: Giả sử thực hiện kế hoạch này thì sẽ tốn khoảng bao nhiêu tiền?"
+    },
+    {
+      "question_id": 18,
+      "question": "（　　）にしても（　　）にしても、この店は込んでいる。",
+      "context": "",
+      "options": [
+        "平日／夜",
+        "毎日／ときどき",
+        "平日／週末",
+        "毎日／休日"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 平日／週末.\n\nCấu trúc: A にしても B にしても: Dù là A hay là B thì cũng... (nêu hai trường hợp đối lập hoặc tiêu biểu cùng phạm trù để khẳng định trong bất kỳ trường hợp nào kết quả phía sau cũng giống nhau).\n- 「平日」(ngày thường) và 「週末」(cuối tuần) là cặp từ đối lập cùng phạm trù thời gian trong tuần.\n\nPhân tích các phương án khác:\n- ① 平日／夜: Không cùng cấp độ đối lập (ngày trong tuần vs buổi tối).\n- ② 毎日／ときどき / ④ 毎日／休日: 毎日 (mỗi ngày) đã bao hàm tất cả các ngày nên không đặt sóng đôi kiểu A hay B.\n\nCâu hoàn chỉnh: 平日にしても週末にしても、この店は込んでいる。\nDịch: Dù là ngày thường hay cuối tuần thì quán này cũng đều đông khách."
+    },
+    {
+      "question_id": 19,
+      "question": "いつも派手な服を着ているさゆりさんにしては、（　　）。",
+      "context": "",
+      "options": [
+        "服をたくさん持っている",
+        "今日は素敵な服を着ている",
+        "今日の服はシンプルだ",
+        "いつも素敵な服を着る"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 今日の服はシンプルだ.\n\nCấu trúc: N + にしては: So với chuẩn mực của N thì... / Tuy là N thế mà... (diễn tả một thực tế trái ngược với những gì người ta thường hình dung về N).\n- Vế trước: 「いつも派手な服を着ているさゆりさんにしては」(So với một người lúc nào cũng mặc đồ sặc sỡ như chị Sayuri).\n- Vế sau phải là sự khác lạ trái với thói quen đó: 「今日の服はシンプルだ」(trang phục hôm nay lại rất giản dị).\n\nCâu hoàn chỉnh: いつも派手な服を着ているさゆりさんにしては、今日の服はシンプルだ。\nDịch: So với một người lúc nào cũng mặc đồ sặc sỡ như chị Sayuri thì bộ đồ hôm nay của chị ấy lại thật giản dị."
+    },
+    {
+      "question_id": 20,
+      "question": "食べても太らないなんて、私（　　）夢のような話です。",
+      "context": "",
+      "options": [
+        "からすると",
+        "からと言って",
+        "にとって",
+        "に対して"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① からすると.\n\nCấu trúc: N + からすると / からすれば: Nhìn từ góc độ / Đứng ở lập trường của N thì... (dùng để đưa ra nhận định, cảm nghĩ khi xét từ hoàn cảnh, lập trường của N).\n- 私からすると夢のような話です: Nhìn từ lập trường của tôi (một người dễ tăng cân) thì chuyện ăn mà không béo quả là chuyện như mơ.\n\nPhân tích các phương án khác:\n- ② からと言って: Không đi trực tiếp sau danh từ không có だ và mang nghĩa \"không phải cứ vì...\".\n- ③ にとって: Thường dùng để nêu đánh giá giá trị/mức độ quan trọng (như 大切だ, 必要だ, 難しい); trong bài học này trọng tâm kiểm tra mẫu câu chỉ góc nhìn/lập trường 〜からすると.\n- ④ に対して: Đối với / Trái ngược với (chỉ hướng tác động hoặc sự đối lập).\n\nCâu hoàn chỉnh: 食べても太らないなんて、私からすると夢のような話です。\nDịch: Chuyện ăn mà không bị béo, nhìn từ lập trường của tôi thì đúng là chuyện như trong mơ."
+    },
+    {
+      "question_id": 21,
+      "question": "この服は（　　）、色からしてどうも私には合いそうもない。",
+      "context": "",
+      "options": [
+        "サイズもデザインも満足だが",
+        "デザインちょっと悪いだが",
+        "気に入っているのだが",
+        "デザインはもちろん"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ デザインはもちろん.\n\nCấu trúc: A はもちろん、B からして〜: A thì khỏi phải bàn (đương nhiên là không hợp rồi), ngay từ cái B thôi cũng đã thấy không hợp...\n- Đặc điểm quan trọng của 「N からして」: Dùng một yếu tố ban đầu/nhỏ để nhấn mạnh rằng TOÀN BỘ sự vật đều mang cùng một tính chất (thường là tiêu cực).\n- Do đó, vế trước KHÔNG THỂ khen ngợi chiếc áo (loại ① 「サイズもデザインも満足だが」 và ③ 「気に入っているのだが」 vì mâu thuẫn với sắc thái phủ định toàn bộ của 色からして).\n- Loại ② vì sai ngữ pháp (悪いだが).\n\nCâu hoàn chỉnh: この服はデザインはもちろん、色からしてどうも私には合いそうもない。\nDịch: Bộ đồ này kiểu dáng thì khỏi nói rồi, ngay từ màu sắc thôi là đã thấy không hợp với tôi chút nào."
+    },
+    {
+      "question_id": 22,
+      "question": "早く卒業したいと思っているが、本当に卒業する（　　）寂しさを感じるだろう。",
+      "context": "",
+      "options": [
+        "となったら",
+        "とすれば",
+        "とすると",
+        "としたら"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① となったら.\n\nCấu trúc: V-る + となったら / となれば / となると: Một khi thực sự đến lúc phải... / Khi chuyện đó thực sự xảy ra thì...\n- Khác với 〜としたら / 〜とすれば / 〜とすると (giả định thuần túy trên lý thuyết), cấu trúc 「〜となったら」 nhấn mạnh cảm xúc hoặc phản ứng khi đối diện với tình huống đó trở thành hiện thực (đi kèm với 「本当に」: khi thực sự đến lúc tốt nghiệp).\n\nCâu hoàn chỉnh: 早く卒業したいと思っているが、本当に卒業するとなったら寂しさを感じるだろう。\nDịch: Tôi vẫn nghĩ là muốn mau chóng tốt nghiệp, nhưng một khi thực sự đến lúc phải tốt nghiệp thì chắc sẽ cảm thấy buồn và trống trải lắm."
+    },
+    {
+      "question_id": 23,
+      "question": "課長、海外出張となれば、（　　）。",
+      "context": "",
+      "options": [
+        "連れて行ってください",
+        "準備が大変ですね",
+        "いつ帰りますか",
+        "お手伝いしましょうか"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 準備が大変ですね.\n\nCấu trúc: N / V-る + となれば: Một khi đã là... thì... (nhấn mạnh khi đứng trước một sự kiện lớn hoặc tình huống đặc biệt thì kéo theo những vất vả, thay đổi tương ứng).\n- Quy tắc: Vế sau của 〜となれば là câu nhận định, đánh giá về tình huống đó, KHÔNG dùng câu mệnh lệnh, yêu cầu, rủ rê hay câu hỏi thông tin đơn thuần.\n- Do đó ② 「準備が大変ですね」(chắc hẳn việc chuẩn bị sẽ vất vả lắm nhỉ) là đáp án chính xác.\n\nCâu hoàn chỉnh: 課長、海外出張となれば、準備が大変ですね。\nDịch: Thưa trưởng phòng, một khi đã đi công tác nước ngoài thì khâu chuẩn bị hẳn là vất vả lắm nhỉ."
+    },
+    {
+      "question_id": 24,
+      "question": "私はフルタイムで働きたいし、夫（　　）、そのほうが心強いだろう。",
+      "context": "",
+      "options": [
+        "にしたら",
+        "にしても",
+        "にしては",
+        "にすれば"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② にしても.\n\nCấu trúc: N + にしたら / にすれば / にしても: Đứng ở lập trường của N thì...\n- Điểm khác biệt: Trong khi 「にしたら」 và 「にすれば」 hoàn toàn tương đương nhau, thì 「にしても」 có thêm sắc thái của trợ từ 「も」(cũng: \"mà đứng về phía N thì cũng...\").\n- Ở đây vế trước có 「私はフルタイムで働きたいし」(Bản thân tôi muốn làm việc toàn thời gian, mà...), nên vế sau thêm lập trường của người chồng có cùng mong muốn/lợi ích: 「夫にしても、そのほうが心強いだろう」(mà về phía chồng tôi cũng thế, như vậy hẳn anh ấy sẽ thấy yên tâm hơn).\n\nCâu hoàn chỉnh: 私はフルタイムで働きたいし、夫にしても、そのほうが心強いだろう。\nDịch: Bản thân tôi muốn đi làm toàn thời gian, mà đứng về phía chồng tôi cũng vậy, như thế hẳn anh ấy sẽ cảm thấy yên tâm hơn."
+    },
+    {
+      "question_id": 25,
+      "question": "彼女は今日初めてテニスをしたのだそうだ。初めてにしては、（　　）。",
+      "context": "",
+      "options": [
+        "上手だ",
+        "うまくない",
+        "今日の試合で勝った",
+        "ちょっと下手だ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 上手だ.\n\nCấu trúc: 初めてにしては: So với việc mới làm lần đầu tiên thì... (kết quả thực tế trái với dự đoán thông thường).\n- Thông thường mới chơi tennis lần đầu sẽ đánh kém; vì dùng 「初めてにしては」 nên vế sau phải là lời khen bất ngờ về năng lực: 「上手だ」(đánh giỏi/khéo).\n\nPhân tích các phương án khác:\n- ② うまくない / ④ ちょっと下手だ: Mới chơi lần đầu mà không giỏi là chuyện đương nhiên, không dùng にしては.\n- ③ 今日の試合で勝った: 〜にしては đi với tính từ/trạng thái đánh giá mức độ (上手だ) chứ không nêu sự kiện đơn lẻ như vậy.\n\nCâu hoàn chỉnh: 彼女は今日初めてテニスをしたのだそうだ。初めてにしては、上手だ。\nDịch: Nghe nói hôm nay cô ấy mới chơi tennis lần đầu tiên. So với lần đầu tiên thì cô ấy đánh giỏi thật."
+    },
+    {
+      "question_id": 26,
+      "question": "雨が降っているのもかまわず、選手たちは（　　）。",
+      "context": "",
+      "options": [
+        "練習を続けている",
+        "練習を続けましょう",
+        "練習を続けろう",
+        "練習を続ける"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 練習を続けている.\n\nCấu trúc: 〜のもかまわず: Bất chấp / Mặc kệ việc... (miêu tả ai đó cứ tiếp tục thực hiện hành động mà không bận tâm đến hoàn cảnh bất lợi xung quanh).\n- Quy tắc: Vế sau miêu tả hành động thực tế đang diễn ra hoặc đã diễn ra của chủ thể, KHÔNG dùng câu rủ rê (② 続けましょう) hay mệnh lệnh (③ 続けろう).\n- Đang mưa mà các tuyển thủ vẫn tiếp tục tập luyện -> dùng thì tiếp diễn 「練習を続けている」.\n\nCâu hoàn chỉnh: 雨が降っているのもかまわず、選手たちは練習を続けている。\nDịch: Bất chấp trời đang mưa, các tuyển thủ vẫn tiếp tục luyện tập."
+    },
+    {
+      "question_id": 27,
+      "question": "このスポーツは年齢を問わず、（　　）。",
+      "context": "",
+      "options": [
+        "誰でも楽しめます",
+        "いつでも楽しめます",
+        "どこでも楽しめます"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 誰でも楽しめます.\n\nCấu trúc: N + を問わず（をとわず）: Bất kể / Không phân biệt N.\n- Vế trước là 「年齢を問わず」(không phân biệt tuổi tác) -> tương ứng với đối tượng con người ở mọi lứa tuổi là 「誰でも楽しめます」(bất kỳ ai cũng có thể yêu thích/tham gia được).\n\nPhân tích các phương án khác:\n- ② いつでも楽しめます: いつでも (bất cứ lúc nào) tương ứng với thời gian (季節や時間を問わず).\n- ③ どこでも楽しめます: どこでも (bất cứ ở đâu) tương ứng với địa điểm (場所を問わず).\n\nCâu hoàn chỉnh: このスポーツは年齢を問わず、誰でも楽しめます。\nDịch: Môn thể thao này không phân biệt tuổi tác, bất kỳ ai cũng có thể chơi và tận hưởng được."
+    },
+    {
+      "question_id": 28,
+      "question": "友だちは私より成績が（　　）、試験で実力が出せずに、不合格になった。",
+      "context": "",
+      "options": [
+        "良かったにかかわらず",
+        "良かったにもかかわらず",
+        "良くにもかかわらず",
+        "良くにかかわらず"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 良かったにもかかわらず.\n\nCấu trúc: [Thể thông thường] + にもかかわらず: Mặc dù... thế nhưng... (chỉ sự tương phản nghịch lý giữa hai vế).\n- Lưu ý phân biệt:\n  + 「〜にかかわらず」: Bất kể / Không phụ thuộc vào... (chỉ đi với Danh từ hoặc cặp đối lập, KHÔNG đi sau tính từ chia quá khứ như 良かった).\n  + 「〜にもかかわらず」: Mặc dù... (đi sau mệnh đề tính từ, động từ, danh từ).\n- Tính từ いい chia thể quá khứ thông thường là 「良かった」 + 「にもかかわらず」.\n\nCâu hoàn chỉnh: 友だちは私より成績が良かったにもかかわらず、試験で実力が出せずに、不合格になった。\nDịch: Người bạn của tôi mặc dù có thành tích tốt hơn tôi, nhưng trong kỳ thi lại không phát huy được thực lực nên đã bị trượt."
+    },
+    {
+      "question_id": 29,
+      "question": "小さな子供たちが一生懸命っている姿を見て、（　　）いられなかった。",
+      "context": "",
+      "options": [
+        "笑顔にさせずには",
+        "笑顔にならずには",
+        "笑顔にされずには",
+        "笑顔にせずには"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 笑顔にならずには.\n\nCấu trúc: V-ずにはいられない（= V-ないではいられない）: Không thể không... / Không kìm được mà tự nhiên...\n- Cụm từ \"nở nụ cười / mỉm cười\" của bản thân người nói là 「笑顔になる」(trở nên tươi cười).\n- Chia sang thể ず: 笑顔になる → 笑顔にならず + にはいられなかった.\n\nPhân tích các phương án khác:\n- ① 笑顔にさせずには / ③ 笑顔にされずには / ④ 笑顔にせずには: Sai cách dùng tự động từ/tha động từ và thể sai khiến/bị động.\n\nCâu hoàn chỉnh: 小さな子供たちが一生懸命っている姿を見て、笑顔にならずにはいられなかった。\nDịch: Nhìn dáng vẻ các em nhỏ đang cố gắng hết sức, tôi không thể không nở nụ cười."
+    },
+    {
+      "question_id": 30,
+      "question": "平日しか病院の予約がとれなかったので、仕事（　　）を得なかった。",
+      "context": "",
+      "options": [
+        "せざる",
+        "させざる",
+        "されざる",
+        "休まざる"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 休まざる.\n\nCấu trúc: V-ない (bỏ ない) + ざるを得ない（ざるをえない）: Đành phải... / Buộc phải... (dù không muốn nhưng do hoàn cảnh bắt buộc không còn cách nào khác).\n- Vì chỉ đặt được lịch khám bệnh vào ngày thường (平日しか病院の予約がとれなかった), nên buộc phải xin nghỉ làm: 仕事を休む → 休まない → 「休まざるを得なかった」.\n\nCâu hoàn chỉnh: 平日しか病院の予約がとれなかったので、仕事休まざるを得なかった。\nDịch: Vì chỉ đặt được lịch hẹn bệnh viện vào ngày thường nên tôi đành phải nghỉ làm."
+    },
+    {
+      "question_id": 31,
+      "question": "天候がよくないのもかまわず、（　　）。",
+      "context": "",
+      "options": [
+        "ようこそおいでくださいました",
+        "彼は釣りに出かけて行った",
+        "どうしても出かけなければならない",
+        "出かけてはいけない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 彼は釣りに出かけて行った.\n\nCấu trúc: 〜のもかまわず: Bất chấp / Mặc kệ việc... (vế sau diễn tả hành động thực tế đã thực hiện bất chấp trở ngại ở vế trước).\n- 天候がよくないのもかまわず、彼は釣りに出かけて行った: Bất chấp thời tiết không tốt, anh ấy vẫn cứ đi câu cá.\n\nPhân tích các phương án khác:\n- ① ようこそおいでくださいました: Lời chào khách đến chơi, không dùng のもかまわず (thiếu lịch sự với khách).\n- ③ どうしても出かけなければならない / ④ 出かけてはいけない: Vế sau của のもかまわず không đi với câu nghĩa vụ hay cấm đoán.\n\nCâu hoàn chỉnh: 天候がよくないのもかまわず、彼は釣りに出かけて行った。\nDịch: Bất chấp thời tiết không thuận lợi, anh ấy vẫn đi câu cá."
+    },
+    {
+      "question_id": 32,
+      "question": "私は季節を問わず、（　　）。",
+      "context": "",
+      "options": [
+        "特に冬山に登ることが好きだ",
+        "どんな季節も好きだ",
+        "山登りをすることが好きだ",
+        "どんな季節も山登りをすることができる"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 山登りをすることが好きだ.\n\nCấu trúc: N + を問わず: Bất kể / Không phân biệt N (bản thân 季節を問わず đã mang nghĩa \"bất kể mùa nào / vào mọi mùa\").\n- Do đó vế sau chỉ cần nêu hoạt động diễn ra quanh năm: 「山登りをすることが好きだ」(thích leo núi).\n\nPhân tích các phương án khác:\n- ① 特に冬山に登ることが好きだ: Mâu thuẫn với 季節を問わず (vì chỉ đặc biệt thích núi mùa đông).\n- ② どんな季節も好きだ / ④ どんな季節も山登りをすることができる: Lặp từ thừa thãi (どんな季節も bị trùng nghĩa với 季節を問わず).\n\nCâu hoàn chỉnh: 私は季節を問わず、山登りをすることが好きだ。\nDịch: Tôi thích leo núi bất kể mùa nào trong năm."
+    },
+    {
+      "question_id": 33,
+      "question": "ここにある商品は大きさにかかわらず、（　　）。",
+      "context": "",
+      "options": [
+        "どれでも５００円です",
+        "高いのも安いのもあります",
+        "どれがいいですか",
+        "サイズもデザインも満足だが"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① どれでも５００円です.\n\nCấu trúc: N + にかかわらず: Bất kể / Không phụ thuộc vào N (kết quả phía sau đều đồng nhất như nhau cho mọi trường hợp).\n- 大きさにかかわらず、どれでも５００円です: Không phân biệt kích cỡ to hay nhỏ, món nào cũng đồng giá 500 yên.\n\nPhân tích các phương án khác:\n- ② 高いのも安いのもあります: Có đắt có rẻ (không thể hiện sự đồng nhất bất kể kích cỡ).\n- ③ どれがいいですか / ④ サイズもデザインも満足だが: Không phù hợp ngữ pháp và ý nghĩa.\n\nCâu hoàn chỉnh: ここにある商品は大きさにかかわらず、どれでも５００円です。\nDịch: Hàng hóa ở đây không phân biệt kích cỡ, cái nào cũng 500 yên."
+    },
+    {
+      "question_id": 34,
+      "question": "今日は会議があるので（　　）。",
+      "context": "",
+      "options": [
+        "出勤せずにはいられない",
+        "出勤しないではいられない",
+        "出勤しなければならない",
+        "出勤しないほうがいい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 出勤しなければならない.\n\nCấu trúc: 〜なければならない: Phải... (diễn tả nghĩa vụ, trách nhiệm bắt buộc do công việc, quy định).\n- Vì hôm nay có cuộc họp (今日は会議があるので) nên tôi phải đi làm (出勤しなければならない).\n\nLưu ý phân biệt bẫy ngữ pháp:\n- ① 出勤せずにはいられない / ② 出勤しないではいられない: Cấu trúc 〜ずにはいられない / 〜ないではいられない chỉ dùng cho cảm xúc hoặc phản xạ tự nhiên trào dâng không kìm nén được (như bật cười, rơi nước mắt...), KHÔNG dùng cho nghĩa vụ công việc như đi làm.\n\nCâu hoàn chỉnh: 今日は会議があるので出勤しなければならない。\nDịch: Hôm nay vì có cuộc họp nên tôi phải đi làm."
+    },
+    {
+      "question_id": 35,
+      "question": "地球上から戦争を（　　）。",
+      "context": "",
+      "options": [
+        "なくさなければならない",
+        "なくさざるを得ない",
+        "なくさないわけにはいかない",
+        "なくさないではいられない"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① なくさなければならない.\n\nCấu trúc: 〜なければならない: Phải / Cần phải... (dùng để khẳng định bổn phận, mục tiêu chung mang tính đạo lý tất yếu của nhân loại: Phải xóa bỏ chiến tranh khỏi Trái Đất).\n\nPhân tích tại sao các phương án khác sai:\n- ② なくさざるを得ない: 〜ざるを得ない mang nghĩa \"dù không muốn nhưng đành phải bấm bụng làm vì hoàn cảnh ép buộc\", hoàn toàn sai sắc thái khi nói về việc xóa bỏ chiến tranh.\n- ③ なくさないわけにはいかない: 〜ないわけにはいかない dùng cho trách nhiệm/tình huống cá nhân cụ thể (ví dụ: vì đã hứa nên không thể không đi), không dùng cho mục tiêu vĩ mô của nhân loại.\n- ④ なくさないではいられない: Chỉ dùng cho cảm xúc/phản xạ tâm lý tự phát cá nhân.\n\nCâu hoàn chỉnh: 地球上から戦争をなくさなければならない。\nDịch: Chúng ta phải xóa bỏ chiến tranh khỏi Trái Đất."
+    }
+  ]
+}

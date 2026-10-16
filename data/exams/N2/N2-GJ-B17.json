@@ -1,0 +1,388 @@
+{
+  "id": "N2-GJ-B17",
+  "code": "N2-GJ-B17",
+  "title": "Ngữ pháp Junbi · Bài tập Bài 17",
+  "track": "n2_main",
+  "level": "N2",
+  "topic": "grammar",
+  "source": "riki/N2.29/N2 JUNBI BÀI TẬP NGỮ PHÁP BÀI 17.mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "今日の試験、できなかった。（　　）、仕方がない。",
+      "context": "",
+      "options": [
+        "勉強しなかったんだもん",
+        "勉強しなかったものか",
+        "勉強するので",
+        "勉強しなかったんだ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 勉強しなかったんだもん.\n\nCấu trúc: 〜もの / 〜もん（thường đi dưới dạng 〜んだもの / 〜んだもん）: Tại vì... mà (dùng trong văn nói thân mật để nêu lý do biện명 cho kết quả không tốt trước đó).\n- 勉強しなかったんだもん、仕方がない: Tại vì mình đã không học bài mà, biết làm sao được.\n\nPhân tích các phương án khác:\n- ② 勉強しなかったものか: 〜ものか mang nghĩa phủ định mạnh (\"đời nào...\"), sai nghĩa.\n- ③ 勉強するので: Sai thì và sai nghĩa.\n- ④ 勉強しなかったんだ: Câu kết thúc bằng んだ không nối trực tiếp bằng dấu phẩy với 仕方がない mà thiếu liên từ chỉ nguyên nhân.\n\nCâu hoàn chỉnh: 今日の試験、できなかった。勉強しなかったんだもん、仕方がない。\nDịch: Bài thi hôm nay mình không làm được rồi. Tại vì chẳng chịu học bài mà, đành chịu thôi."
+    },
+    {
+      "question_id": 2,
+      "question": "お兄ちゃんなんかに（　　）もんか。",
+      "context": "",
+      "options": [
+        "負ける",
+        "勝つ",
+        "負けない",
+        "勝たない"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 負ける.\n\nCấu trúc: V-る + ものか / もんか: Đời nào... / Làm sao mà... được! (dùng thể khẳng định trước ものか/もんか để выразить ý phủ định mạnh mẽ và quyết tâm không chịu thua).\n- お兄ちゃんなんかに負けるもんか（＝絶対に負けない）: Đời nào em chịu thua cỡ như anh trai chứ!\n\nPhân tích các phương án khác:\n- ② 勝つ: 勝つもんか thành \"Đời nào thắng được\" (ngược với sắc thái coi thường お兄ちゃんなんかに).\n- ③ 負けない / ④ 勝たない: Không dùng thể phủ định trước もんか trong mẫu câu quyết tâm này.\n\nCâu hoàn chỉnh: お兄ちゃんなんかに負けるもんか。\nDịch: Đời nào em lại chịu thua anh trai chứ!"
+    },
+    {
+      "question_id": 3,
+      "question": "兄はいい会社に（　　）ものの、仕事にはあまり熱心ではない。",
+      "context": "",
+      "options": [
+        "就職する",
+        "就職した",
+        "就職しない",
+        "就職"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 就職した.\n\nCấu trúc: [Thể thông thường] + ものの: Mặc dù... nhưng... (thừa nhận một sự việc đã xảy ra ở vế trước, nhưng vế sau lại diễn ra trái với kỳ vọng).\n- Vì anh trai ĐÃ vào làm ở công ty tốt rồi và hiện tại không nhiệt tình với công việc nên động từ trước ものの phải ở thể quá khứ: 「就職したものの」.\n\nCâu hoàn chỉnh: 兄はいい会社に就職したものの、仕事にはあまり熱心ではない。\nDịch: Anh trai tôi tuy đã xin vào làm được ở một công ty tốt, nhưng lại chẳng mấy nhiệt tình với công việc."
+    },
+    {
+      "question_id": 4,
+      "question": "国にいたころ（　　）家族でハイキングに行ったものです。",
+      "context": "",
+      "options": [
+        "一度",
+        "よく",
+        "いつか",
+        "いつでも"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② よく.\n\nCấu trúc: （昔は）よく + V-た + ものだ / ものです: Ngày xưa thường hay... (dùng để hồi tưởng lại một thói quen, hành động lặp đi lặp lại nhiều lần trong quá khứ).\n- Đi kèm với phó từ chỉ tần suất 「よく」(thường xuyên).\n- Lưu ý: Không dùng với 「一度」(một lần - nếu 1 lần thì dùng 〜たことがある), cũng không dùng với từ chỉ tương lai như 「いつか」.\n\nCâu hoàn chỉnh: 国にいたころよく家族でハイキングに行ったものです。\nDịch: Hồi còn ở trong nước, gia đình tôi thường hay cùng nhau đi bộ đường dài (hiking)."
+    },
+    {
+      "question_id": 5,
+      "question": "高い服をもったいないからと着ないでいるのは、それこそもったいない （　　）。",
+      "context": "",
+      "options": [
+        "ことか",
+        "ものか",
+        "というものだ",
+        "ということだ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ というものだ.\n\nCấu trúc: [Thể thông thường] + というものだ: Đúng thực sự là... / Mới chính là... (dùng để khẳng định bản chất của sự việc hoặc đưa ra nhận định xác đáng).\n- 高い服をもったいないからと着ないでいるのは、それこそもったいないというものだ: Quần áo đắt tiền mà vì tiếc không dám mặc thì chính điều đó mới thực sự gọi là lãng phí.\n\nPhân tích các phương án khác:\n- ① ことか: Cảm thán đi với từ để hỏi (どんなに〜ことか).\n- ② ものか: Phủ định mạnh (Đời nào...).\n- ④ ということだ: Mang nghĩa truyền đạt thông tin (nghe nói là) hoặc giải thích ý nghĩa, không nhấn mạnh nhận định chủ quan sắc bén như というものだ.\n\nCâu hoàn chỉnh: 高い服をもったいないからと着ないでいるのは、それこそもったいないというものだ。\nDịch: Mua quần áo đắt tiền mà cứ tiếc không mặc thì chính việc đó mới thực sự là lãng phí."
+    },
+    {
+      "question_id": 6,
+      "question": "タクシーで行けば（　　）というものではない。",
+      "context": "",
+      "options": [
+        "20分でかかる",
+        "早く着る",
+        "1500円必要だ",
+        "待つ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 早く着る (trong đề gốc của Riki gõ nhầm từ 早く着く).\n\nCấu trúc: 〜ば ... というものではない: Không phải cứ... là nhất định sẽ... (dùng để phủ định một suy nghĩ đơn giản một chiều rằng chỉ cần thỏa mãn điều kiện vế trước là đương nhiên đạt được kết quả tốt ở vế sau).\n- タクシーで行けば早く着く（着る）というものではない: Không phải cứ đi bằng taxi là chắc chắn sẽ đến sớm đâu (vì còn có thể kẹt xe...).\n\nPhân tích các phương án khác:\n- ① 20分でかかる / ③ 1500円必要だ / ④ 待つ: Không phải là mục đích/lợi ích kỳ vọng khi đi taxi để phủ định bằng 〜というものではない.\n\nCâu hoàn chỉnh: タクシーで行けば早く着く（着る）というものではない。\nDịch: Không phải cứ đi taxi là chắc chắn sẽ tới nơi sớm đâu."
+    },
+    {
+      "question_id": 7,
+      "question": "政治家には、もう少し国民の気持ちを（　　）。",
+      "context": "",
+      "options": [
+        "分かってほしいものだ",
+        "分かることになる",
+        "分かることにする",
+        "分かるようになる"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 分かってほしいものだ.\n\nCấu trúc: [Người] には ... V-てほしいものだ: Mong sao [ai đó] hãy... (bày tỏ niềm mong mỏi, kỳ vọng chân thành đối với một đối tượng).\n- 政治家には、もう少し国民の気持ちを分かってほしいものだ: Mong sao các nhà chính trị hãy thấu hiểu tâm tư của người dân thêm một chút nữa.\n\nCâu hoàn chỉnh: 政治家には、もう少し国民の気持ちを分かってほしいものだ。\nDịch: Tôi thực sự mong các chính trị gia hãy thấu hiểu tâm tư của người dân hơn một chút."
+    },
+    {
+      "question_id": 8,
+      "question": "学生の頃はよくアルバイトで稼いだお金で遠くまで旅行しに（　　）。",
+      "context": "",
+      "options": [
+        "行ったものだ",
+        "行ったことがある",
+        "行きました",
+        "行った時を思い出す"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 行ったものだ.\n\nCấu trúc: （学生の頃は）よく + V-た + ものだ: Hồi còn là sinh viên tôi thường hay... (hồi tưởng lại thói quen trong quá khứ với cảm xúc hoài niệm).\n- Dấu hiệu nhận biết rõ nhất là cụm 「学生の頃はよく...」 ở đầu câu.\n\nPhân tích các phương án khác:\n- ② 行ったことがある: Chỉ kinh nghiệm \"đã từng đi\", không đi kèm với よく (thường xuyên).\n- ③ 行きました / ④ 行った時を思い出す: Không thể hiện cấu trúc hồi tưởng thói quen 〜たものだ.\n\nCâu hoàn chỉnh: 学生の頃はよくアルバイトで稼いだお金で遠くまで旅行しに行ったものだ。\nDịch: Hồi còn là sinh viên, tôi thường hay dùng số tiền kiếm được từ việc làm thêm để đi du lịch xa."
+    },
+    {
+      "question_id": 9,
+      "question": "マンションで犬が飼えるものなら（　　）。",
+      "context": "",
+      "options": [
+        "僕が世話をするよ",
+        "僕は飼いたいよ",
+        "うれしいな",
+        "いいのに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 僕は飼いたいよ.\n\nCấu trúc: [Động từ thể khả năng] + ものなら + [Mong muốn / Ý chí (thường lặp lại chính động từ đó ở dạng 〜たい / 〜てみたい)]: Nếu như có thể... thì tôi cũng muốn... (giả định một điều thực tế rất khó hoặc không thể thực hiện được để bày tỏ khao khát).\n- マンションで犬が飼えるものなら僕は飼いたいよ: Nếu ở chung cư mà nuôi được chó thì tôi cũng muốn nuôi lắm (thực tế là chung cư cấm nuôi).\n\nCâu hoàn chỉnh: マンションで犬が飼えるものなら僕は飼いたいよ。\nDịch: Nếu ở chung cư mà nuôi được chó thì tôi cũng muốn nuôi lắm chứ."
+    },
+    {
+      "question_id": 10,
+      "question": "そんな（　　）を言わないでください。",
+      "context": "",
+      "options": [
+        "無理",
+        "無理なもの",
+        "無理なの",
+        "無理なこと"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 無理なこと.\n\nCấu trúc và cách dùng 「こと」 vs 「もの」:\n- Danh từ hình thức 「こと」 được dùng để chỉ nội dung lời nói, suy nghĩ, sự việc trừu tượng (đi với các động từ như 言う, 考える, 頼む...).\n- 「そんな無理なことを言わないでください」: Xin đừng nói những điều vô lý / quá sức như vậy.\n- Lưu ý: Dù có cụm cố định 無理を言う, nhưng khi có từ chỉ định 「そんな」 đứng trước để bổ nghĩa cho nội dung cụ thể của lời nói trong bài phân biệt もの/こと thì dùng 「そんな無理なこと」.\n\nCâu hoàn chỉnh: そんな無理なことを言わないでください。\nDịch: Xin đừng nói những điều vô lý (quá sức) như thế."
+    },
+    {
+      "question_id": 11,
+      "question": "事故にあった全員の命が助かった。本当に（　　）ことだ。",
+      "context": "",
+      "options": [
+        "うれしい",
+        "喜んだ",
+        "命は大切な",
+        "幸運だ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① うれしい.\n\nCấu trúc: [Tính từ chỉ cảm xúc] + ことだ: Thật là một điều... biết bao! (dùng để bày tỏ sự xúc động, cảm thán của người nói trước một sự việc).\n- 本当にうれしいことだ: Thật là một điều đáng mừng biết bao!\n\nPhân tích các phương án khác:\n- ② 喜んだ: Động từ quá khứ không dùng trong mẫu cảm thán này.\n- ③ 命は大切な: Không phải tính từ bày tỏ cảm xúc trực tiếp trước sự việc được cứu sống.\n- ④ 幸運だ: Tính từ đuôi な khi đứng trước danh từ こと phải chia thành 「幸運なことだ」(nếu để 幸運だことだ là sai ngữ pháp).\n\nCâu hoàn chỉnh: 事故にあった全員の命が助かった。本当にうれしいことだ。\nDịch: Toàn bộ những người gặp tai nạn đều đã được cứu sống. Thật là một điều đáng mừng biết bao!"
+    },
+    {
+      "question_id": 12,
+      "question": "ここは無料駐車場だから、お金を（　　）よね。",
+      "context": "",
+      "options": [
+        "払わないことです",
+        "払うべきではありません",
+        "払うことはありません",
+        "払わないでいけません"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 払うことはありません.\n\nCấu trúc: V-る + ことはない / ことはありません: Không cần thiết phải...（＝払う必要はありません）.\n- ここは無料駐車場だから、お金を払うことはありませんよね: Vì đây là bãi đỗ xe miễn phí nên không cần phải trả tiền nhỉ.\n\nPhân tích các phương án khác:\n- ① 払わないことです: 〜ないことだ là lời khuyên \"không nên làm gì\".\n- ② 払うべきではありません: \"Không được phép / không nên trả tiền\" về mặt đạo lý.\n- ④ 払わないでいけません: Sai ngữ pháp.\n\nCâu hoàn chỉnh: ここは無料駐車場だから、お金を払うことはありませんよね。\nDịch: Vì đây là bãi đỗ xe miễn phí nên không cần phải trả tiền đâu nhỉ."
+    },
+    {
+      "question_id": 13,
+      "question": "この曲は素晴らしい。今まで（　　）聞いたことか。",
+      "context": "",
+      "options": [
+        "何度か",
+        "何度で",
+        "何度も",
+        "何度"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 何度.\n\nCấu trúc: [Từ nghi vấn: 何度 / 何回 / どれほど / どんなに...] + V-た + ことか: Không biết đã... bao nhiêu lần rồi! / Biết bao!\n- Quy tắc: Đi với 「〜ことか」 ở cuối câu cảm thán, từ để hỏi phải giữ nguyên dạng 「何度」(bao nhiêu lần), không thêm trợ từ か hay も.\n\nCâu hoàn chỉnh: この曲は素晴らしい。今まで何度聞いたことか。\nDịch: Bản nhạc này thật tuyệt vời. Từ trước đến nay không biết tôi đã nghe nó bao nhiêu lần rồi!"
+    },
+    {
+      "question_id": 14,
+      "question": "（　　）、あの人は実年齢４５歳らしい。２５歳くらいに見える。",
+      "context": "",
+      "options": [
+        "驚いたことに",
+        "驚いたのに",
+        "驚いたのだが",
+        "驚いたこと"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 驚いたことに.\n\nCấu trúc: [Động từ V-た / Tính từ chỉ cảm xúc] + ことに、〜: Đáng ngạc nhiên là... / Thật bất ngờ là... (đặt ở đầu câu để dẫn dắt cảm xúc của người nói trước sự thật nêu ở vế sau).\n- 驚いたことに、あの人は実年齢４５歳らしい: Đáng ngạc nhiên là người đó nghe nói tuổi thật đã 45 tuổi rồi.\n\nCâu hoàn chỉnh: 驚いたことに、あの人は実年齢４５歳らしい。２５歳くらいに見える。\nDịch: Thật đáng kinh ngạc, nghe nói người đó tuổi thật là 45 tuổi. Trông chỉ như khoảng 25 tuổi thôi."
+    },
+    {
+      "question_id": 15,
+      "question": "日本語が話せないことには（　　）。",
+      "context": "",
+      "options": [
+        "入学試験に落ちてしまった",
+        "進学も就職も難しいだろう",
+        "もっと勉強しなければならない",
+        "彼が日本人でないことが分かった"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 進学も就職も難しいだろう.\n\nCấu trúc: V-ない + ことには ... ない / 難しい: Nếu không... thì không thể / rất khó... (nêu điều kiện tiên quyết bắt buộc; nếu điều kiện đó chưa được đáp ứng thì vế sau không thể thực hiện được).\n- 日本語が話せないことには進学も就職も難しいだろう: Nếu không nói được tiếng Nhật thì việc học lên cao hay xin việc đều sẽ khó khăn.\n\nPhân tích các phương án khác:\n- ① / ④: Vế sau của 〜ないことには không dùng câu kể lại sự việc đã xảy ra trong quá khứ.\n- ③ もっと勉強しなければならない: Không dùng câu nghĩa vụ ở vế sau của 〜ないことには.\n\nCâu hoàn chỉnh: 日本語が話せないことには進学も就職も難しいだろう。\nDịch: Nếu không nói được tiếng Nhật thì có lẽ cả việc học lên lẫn việc đi làm đều sẽ khó khăn."
+    },
+    {
+      "question_id": 16,
+      "question": "海が好きな母のことだから、（　　）。",
+      "context": "",
+      "options": [
+        "今頃はハワイで楽しんでいるだろう",
+        "海で遊ぶのをとても楽しみにしている",
+        "海に行けてよかったと言っている",
+        "海に行ってみる"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 今頃はハワイで楽しんでいるだろう.\n\nCấu trúc: N + のことだから ... だろう / はずだ / に違いない: Vì là N (vốn có tính cách, sở thích quen thuộc như vậy) nên chắc hẳn là...\n- Quy tắc: Vế sau bắt buộc phải là câu suy đoán của người nói (〜だろう, 〜はずだ), KHÔNG dùng câu miêu tả sự thật khách quan hay câu ý chí.\n\nCâu hoàn chỉnh: 海が好きな母のことだから、今頃はハワイで楽しんでいるだろう。\nDịch: Với một người yêu biển như mẹ tôi thì giờ này chắc hẳn bà đang tận hưởng vui vẻ ở Hawaii rồi."
+    },
+    {
+      "question_id": 17,
+      "question": "携帯電話は便利なことは便利ですが、（　　）。",
+      "context": "",
+      "options": [
+        "なくてもいいと思います",
+        "好きにならずにいられません",
+        "持たないわけにはいきません",
+        "使用しなければならない"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① なくてもいいと思います.\n\nCấu trúc: X ことは X が、Y: X thì cũng X thật đấy, nhưng mà Y (thừa nhận tính chất X ở vế trước là đúng, nhưng vế sau đưa ra ý kiến bảo lưu hoặc ngược lại).\n- 携帯電話は便利なことは便利ですが、なくてもいいと思います: Điện thoại di động tiện thì có tiện thật đấy, nhưng tôi nghĩ không có cũng không sao.\n\nPhân tích các phương án khác:\n- ② / ③ / ④: Đều mang nghĩa thuận chiều với sự tiện lợi (phải có, phải dùng), mâu thuẫn với liên từ nghịch đảo が.\n\nCâu hoàn chỉnh: 携帯電話は便利なことは便利ですが、なくてもいいと思います。\nDịch: Điện thoại di động tiện thì cũng tiện thật đấy, nhưng tôi nghĩ không có cũng được."
+    },
+    {
+      "question_id": 18,
+      "question": "独身で続けるのは一人で寂しく（　　）。",
+      "context": "",
+      "options": [
+        "きっと死ぬだろう",
+        "死は避けられない",
+        "死んでいると思う",
+        "死ぬということだ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 死ぬということだ.\n\nCấu trúc: [Mệnh đề A] のは [Mệnh đề B] ということだ: Việc A có nghĩa là B / đồng nghĩa với việc B (dùng khi tóm lược, định nghĩa lại bản chất hoặc hệ quả tất yếu của A).\n- 独身で続けるのは一人で寂しく死ぬということだ: Tiếp tục sống độc thân đồng nghĩa với việc sẽ chết trong cô đơn một mình.\n\nCâu hoàn chỉnh: 独身で続けるのは一人で寂しく死ぬということだ。\nDịch: Tiếp tục sống độc thân có nghĩa là sẽ chết một mình trong cô quạnh."
+    },
+    {
+      "question_id": 19,
+      "question": "今度の旅行、参加申し込みをしたものの、（　　）。",
+      "context": "",
+      "options": [
+        "行くかどうかまだ迷っている",
+        "行かないことにしよう",
+        "行かなければならない",
+        "チャンセルをお願いします"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 行くかどうかまだ迷っている.\n\nCấu trúc: V-た + ものの: Tuy đã... nhưng... (vế sau nêu trạng thái thực tế trái với dự kiến thông thường; KHÔNG dùng câu ý chí, quyết định hay yêu cầu như 〜よう, 〜お願いします).\n- 今度の旅行、参加申し込みをしたものの、行くかどうかまだ迷っている: Chuyến du lịch tới đây tuy tôi đã đăng ký tham gia rồi, nhưng vẫn còn đang phân vân không biết có đi hay không.\n\nCâu hoàn chỉnh: 今度の旅行、参加申し込みをしたものの、行くかどうかまだ迷っている。\nDịch: Chuyến du lịch lần này, tuy tôi đã đăng ký tham gia rồi nhưng vẫn đang phân vân không biết có nên đi hay không."
+    },
+    {
+      "question_id": 20,
+      "question": "ラーメンを３杯も（　　）食べられるものだ。",
+      "context": "",
+      "options": [
+        "そんなに",
+        "どうして",
+        "よく",
+        "たくさん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ よく.\n\nCấu trúc: よく + [Thể khả năng] + ものだ: Sao mà có thể... được giỏi/tài thật đấy! (bày tỏ sự ngạc nhiên, thán phục hoặc cảm thán trước một khả năng khác thường).\n- ラーメンを３杯もよく食べられるものだ: Ăn được tận 3 bát mì ramen thì đúng là tài thật đấy!\n\nCâu hoàn chỉnh: ラーメンを３杯もよく食べられるものだ。\nDịch: Ăn hết được tận 3 bát mì ramen thì đúng là nể thật đấy!"
+    },
+    {
+      "question_id": 21,
+      "question": "一か月夏休みがあればいいなあと思うが、それは普通の会社員には（　　）というものだ。",
+      "context": "",
+      "options": [
+        "ぜいたく",
+        "うれしい",
+        "うらやましい",
+        "たのしい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ぜいたく.\n\nCấu trúc: 〜というものだ: Đúng là... / Phải gọi là... (đưa ra nhận định mang tính khách quan, chuẩn mực chung về bản chất sự việc).\n- Quy tắc: Không dùng các tính từ chỉ cảm xúc chủ quan nhất thời như うれしい, うらやましい, たのしい trước 〜というものだ.\n- 普通の会社員にはぜいたくというものだ: Đối với nhân viên công ty bình thường thì đó đúng là một sự xa xỉ.\n\nCâu hoàn chỉnh: 一か月夏休みがあればいいなあと思うが、それは普通の会社員にはぜいたくというものだ。\nDịch: Tôi ước giá mà có kỳ nghỉ hè kéo dài một tháng, nhưng đối với một nhân viên văn phòng bình thường thì đó quả là điều xa xỉ."
+    },
+    {
+      "question_id": 22,
+      "question": "責任をとって（　　）というものではない。それでは何も解決しない。",
+      "context": "",
+      "options": [
+        "辞めればそれですむ",
+        "辞めなくてもすむ",
+        "辞めてはいけない",
+        "辞めてもいい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 辞めればそれですむ.\n\nCấu trúc: 〜ば ... というものではない: Không phải cứ... là xong / là giải quyết được đâu.\n- 責任をとって辞めればそれですむというものではない: Không phải cứ nhận trách nhiệm rồi xin nghỉ việc là xong chuyện đâu. Làm thế cũng chẳng giải quyết được gì.\n\nCâu hoàn chỉnh: 責任をとって辞めればそれですむというものではない。それでは何も解決しない。\nDịch: Không phải cứ nhận trách nhiệm bằng cách từ chức là xong chuyện đâu. Làm như vậy cũng chẳng giải quyết được vấn đề gì."
+    },
+    {
+      "question_id": 23,
+      "question": "もう高校３年なんだから、サッカーばかりしてないで、（　　）。",
+      "context": "",
+      "options": [
+        "少しは勉強したいものだよ。",
+        "少しは勉強したがるものだよ。",
+        "少しは勉強してほしいものだよ。",
+        "少しは勉強することになるよ。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 少しは勉強してほしいものだよ。.\n\nCấu trúc: V-てほしいものだ: Mong sao (người nghe / đối tượng khác) hãy làm V.\n- Người nói đang khuyên bảo học sinh lớp 12 (高校３年): Đừng có suốt ngày chỉ đá bóng nữa, mong con/em hãy học hành một chút đi (少しは勉強してほしいものだよ).\n- Loại ① (勉強したいものだ là mong muốn của chính bản thân người nói).\n\nCâu hoàn chỉnh: もう高校３年なんだから、サッカーばかりしてないで、少しは勉強してほしいものだよ。\nDịch: Đã học lớp 12 rồi đấy, đừng có suốt ngày chỉ mải đá bóng nữa, bố/mẹ mong con hãy học hành một chút đi."
+    },
+    {
+      "question_id": 24,
+      "question": "100歳まで生きられるものなら（　　）。",
+      "context": "",
+      "options": [
+        "ぜひ生きてみたい",
+        "もっと健康に気をつけよう",
+        "市長からお祝いがもらえる",
+        "素晴らしい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ぜひ生きてみたい.\n\nCấu trúc: [Động từ khả năng] + ものなら + [Mong muốn 〜たい / 〜てみたい]: Nếu như có thể... thì tôi nhất định muốn...\n- 100歳まで生きられるものならぜひ生きてみたい: Nếu như có thể sống được đến 100 tuổi thì tôi rất muốn sống thử xem sao.\n\nCâu hoàn chỉnh: 100歳まで生きられるものならぜひ生きてみたい。\nDịch: Nếu có thể sống được đến 100 tuổi thì tôi cũng rất muốn sống thử xem sao."
+    },
+    {
+      "question_id": 25,
+      "question": "定年後は夫婦で海外旅行ですか。まあ、それは（　　）ことですね。",
+      "context": "",
+      "options": [
+        "同じ趣味の",
+        "けっこうな",
+        "お金が必要だ",
+        "準備が大変だね"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② けっこうな.\n\nCấu trúc: それは + [Tính từ đánh giá/cảm xúc] + ことですね: Ồ, đó thật là một điều tuyệt vời / đáng mừng quá nhỉ!\n- 「けっこうなことですね」(Thế thì tuyệt quá / tốt quá còn gì bằng ạ) là câu cảm thán lịch sự rất thông dụng trong hội thoại khi chúc mừng dự định tốt đẹp của người đối diện.\n\nCâu hoàn chỉnh: 定年後は夫婦で海外旅行ですか。まあ、それはけっこうなことですね。\nDịch: Sau khi nghỉ hưu hai vợ chồng sẽ đi du lịch nước ngoài ạ? Ôi, thế thì thật là tuyệt quá nhỉ."
+    },
+    {
+      "question_id": 26,
+      "question": "来週木曜日に健康診断を行います。当日は朝ご飯を（　　）。",
+      "context": "",
+      "options": [
+        "食べることはありません",
+        "食べないでください",
+        "食べるものではありません",
+        "食べたほうがいい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 食べないでください.\n\nCấu trúc và phân biệt bẫy ngữ pháp:\n- Đây là thông báo hướng dẫn quy định cụ thể cho ngày khám sức khỏe, do đó phải dùng câu yêu cầu trực tiếp: 「食べないでください」(Xin vui lòng không ăn sáng).\n- Tại sao ① 食べることはありません sai? Vì 〜ことはない mang nghĩa \"không cần phải làm gì\" (nhưng ăn cũng không sao), không mang nghĩa yêu cầu nhịn ăn.\n- Tại sao ③ 食べるものではありません sai? Vì 〜ものではない dùng cho quy tắc đạo đức, thường thức xã hội chung (ví dụ: không nên nói xấu người khác), không dùng cho chỉ thị y tế cụ thể trong một ngày.\n\nCâu hoàn chỉnh: 来週木曜日に健康診断を行います。当日は朝ご飯を食べないでください。\nDịch: Thứ Năm tuần sau sẽ tiến hành khám sức khỏe. Vào ngày hôm đó xin vui lòng không ăn sáng."
+    },
+    {
+      "question_id": 27,
+      "question": "何年もあっていない友達を突然訪ねて行ったら、（　　）驚くことだろう。",
+      "context": "",
+      "options": [
+        "なんと",
+        "どんなに",
+        "いくら",
+        "そんなに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② どんなに.\n\nCấu trúc: どんなに / どれほど + [Động từ / Tính từ] + ことだろう / ことか: Chắc hẳn sẽ... biết bao! / biết nhường nào!\n- どんなに驚くことだろう: Chắc hẳn bạn ấy sẽ ngạc nhiên biết bao!\n\nCâu hoàn chỉnh: 何年もあっていない友達を突然訪ねて行ったら、どんなに驚くことだろう。\nDịch: Nếu bất ngờ đến thăm người bạn nhiều năm chưa gặp, chắc hẳn bạn ấy sẽ ngạc nhiên biết nhường nào."
+    },
+    {
+      "question_id": 28,
+      "question": "石田さんは昨年国際的なコンクールに優勝した（　　）、多くの人に知られるようになった。",
+      "context": "",
+      "options": [
+        "ことから",
+        "ことなら",
+        "ことには",
+        "ことだから"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ことから.\n\nCấu trúc: [Thể thông thường] + ことから: Từ việc... / Do nguyên nhân là... (dùng để chỉ nguyên nhân, nguồn gốc dẫn đến một kết quả, sự thay đổi hoặc tên gọi).\n- 優勝したことから、多くの人に知られるようになった: Từ việc giành chức vô địch tại cuộc thi quốc tế năm ngoái, anh Ishida đã trở nên nổi tiếng và được nhiều người biết đến.\n\nCâu hoàn chỉnh: 石田さんは昨年国際的なコンクールに優勝したことから、多くの人に知られるようになった。\nDịch: Nhờ việc giành chiến thắng trong cuộc thi quốc tế vào năm ngoái mà anh Ishida đã được nhiều người biết đến."
+    },
+    {
+      "question_id": 29,
+      "question": "栄養士の彼女のことだから、食べ物には十分（　　）。",
+      "context": "",
+      "options": [
+        "気を付けている",
+        "気を付けてほしい",
+        "気を付けているはずだ",
+        "気を付けられている"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 気を付けているはずだ.\n\nCấu trúc: N + のことだから ... はずだ / だろう / に違いない: Vì là N (người mà mình hiểu rõ tính cách/chuyên môn) nên chắc chắn là...\n- Vế trước là 「栄養士の彼女のことだから」(Vì là cô ấy - vốn là một chuyên gia dinh dưỡng), nên vế sau phải kết thúc bằng cấu trúc suy đoán chắc chắn 「気を付けているはずだ」(chắc chắn là rất chú ý đến chuyện ăn uống).\n\nCâu hoàn chỉnh: 栄養士の彼女のことだから、食べ物には十分気を付けているはずだ。\nDịch: Vì cô ấy là chuyên gia dinh dưỡng nên chắc chắn cô ấy rất chú ý đến vấn đề ăn uống."
+    }
+  ]
+}
