@@ -311,6 +311,16 @@
       "file": "exams/N2/N2-KJ-D18.json"
     },
     {
+      "id": "N2-VJ-B15",
+      "code": "N2-VJ-B15",
+      "title": "Từ vựng Junbi · Bài tập Bài 15: Tính từ (701 - 720) Phó từ (721 - 750)",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary",
+      "questionCount": 25,
+      "file": "exams/N2/N2-VJ-B15.json"
+    },
+    {
       "id": "N2-GJ-B09",
       "code": "N2-GJ-B09",
       "title": "Ngữ pháp Junbi · Bài tập Bài 9",
