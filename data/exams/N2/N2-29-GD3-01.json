@@ -1,0 +1,675 @@
+{
+  "id": "N2-29-GD3-01",
+  "code": "N2-29-GD3-01",
+  "title": "N2.29 · Test cuối Giai đoạn 3 · Phát đề số 1",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "vocabulary_grammar",
+  "source": "riki/N2.29/TEST CUỐI GIAI ĐOẠN 3 N2 T12_2026 (PHÁT ĐỀ SỐ 1).mhtml",
+  "questionCount": 51,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "建物の入口に<u>警備</u>の人がいます。",
+      "context": "",
+      "options": [
+        "けいひ",
+        "けいび",
+        "けひ",
+        "けび"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② けいび\n\n- 警備（けいび - CẢNH BỊ）: việc canh gác, bảo vệ, an ninh (警備の人 / 警備員: nhân viên bảo vệ).\n- Lưu ý: Chữ 備 đọc là 「び」(có tenten), phân biệt với 経費（けいひ - KINH PHÍ）.\n\nCâu hoàn chỉnh: 建物の入口に警備の人がいます。\nDịch: Ở lối vào tòa nhà có nhân viên bảo vệ."
+    },
+    {
+      "question_id": 2,
+      "question": "絵を見て、想像力が<u>刺激</u>されました。",
+      "context": "",
+      "options": [
+        "じえき",
+        "じげき",
+        "しえき",
+        "しげき"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ しげき\n\n- 刺激（しげき - THÍCH KÍCH）: sự kích thích, khích lệ (想像力が刺激される: trí tưởng tượng được kích thích/khơi gợi).\n- Lưu ý: 刺 đọc là 「し」(không có tenten), 激 đọc là 「げき」(có tenten).\n\nCâu hoàn chỉnh: 絵を見て、想像力が刺激されました。\nDịch: Xem bức tranh xong, trí tưởng tượng của tôi đã được khơi gợi (kích thích)."
+    },
+    {
+      "question_id": 3,
+      "question": "ここが<u>外れて</u>いますけど、どうしたんですか。",
+      "context": "",
+      "options": [
+        "はずれて",
+        "みだれて",
+        "やぶれて",
+        "つぶれて"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① はずれて\n\n- 外れる（はずれる - NGOẠI）: bị tuột ra, bị bung ra, bị trật khỏi vị trí (ボタンが外れる: tuột cúc áo).\n- Các từ khác:\n  + 乱れる（みだれる - LOẠN）: rối loạn, bừa bộn.\n  + 破れる（やぶれて - PHÁ）: bị rách.\n  + 潰れる（つぶれて - HỘI）: bị bẹp, bị nghiền nát, phá sản.\n\nCâu hoàn chỉnh: ここが外れていますけど、どうしたんですか。\nDịch: Chỗ này bị bung (tuột) ra rồi, có chuyện gì thế ạ?"
+    },
+    {
+      "question_id": 4,
+      "question": "私は<u>世間</u>の目を気にしすぎていたようだ。",
+      "context": "",
+      "options": [
+        "せかん",
+        "せけん",
+        "せいかん",
+        "せいはん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② せけん\n\n- 世間（せけん - THẾ GIAN）: xã hội, người đời, thiên hạ.\n- Cụm cố định: 世間の目（せけんのめ）を気にする: để ý ánh mắt của người đời / sợ miệng lưỡi thiên hạ.\n\nCâu hoàn chỉnh: 私は世間の目を気にしすぎていたようだ。\nDịch: Có vẻ như tôi đã quá bận tâm đến ánh mắt của người đời."
+    },
+    {
+      "question_id": 5,
+      "question": "本田さんはとても<u>勇ましい</u>人だ。",
+      "context": "",
+      "options": [
+        "たくましい",
+        "やかましい",
+        "いさましい",
+        "あつかましい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ いさましい\n\n- 勇ましい（いさましい - DŨNG）: dũng cảm, gan dạ, hùng dũng.\n- Các từ khác:\n  + たくましい（逞しい）: cường tráng, vạm vỡ, kiên cường.\n  + やかましい（喧しい）: ồn ào, ầm ĩ; lắm lời, khắt khe.\n  + あつかましい（厚かましい）: mặt dày, trơ trẽn.\n\nCâu hoàn chỉnh: 本田さんはとても勇ましい人だ。\nDịch: Anh Honda là một người rất dũng cảm."
+    },
+    {
+      "question_id": 6,
+      "question": "彼にはお金持ちになりたいという<u>よく</u>がない。",
+      "context": "",
+      "options": [
+        "欲",
+        "望",
+        "求",
+        "情"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 欲\n\n- 欲（よく - DỤC）: lòng ham muốn, tham vọng (欲がある / 欲がない: có / không có lòng tham hay ham muốn).\n- Các chữ Hán khác:\n  + 望（ぼう / のぞみ - VỌNG）: hy vọng, ước vọng.\n  + 求（きゅう / もとめ - CẦU）: yêu cầu, mưu cầu.\n  + 情（じょう / なさけ - TÌNH）: tình cảm.\n\nCâu hoàn chỉnh: 彼にはお金持ちになりたいという欲がない。\nDịch: Anh ấy không có ham muốn trở thành người giàu có."
+    },
+    {
+      "question_id": 7,
+      "question": "私の職業は、<u>はいゆう</u>です。",
+      "context": "",
+      "options": [
+        "非憂",
+        "非優",
+        "俳憂",
+        "俳優"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 俳優\n\n- 俳優（はいゆう - BÀI ƯU）: diễn viên.\n- Lưu ý: Cả hai chữ 俳 và 優 đều có bộ Nhân đứng (亻); tránh nhầm chữ 優 (ƯU - ưu tú, dịu dàng) với chữ 憂 (ƯU - ưu sầu, lo lắng).\n\nCâu hoàn chỉnh: 私の職業は、俳優です。\nDịch: Nghề nghiệp của tôi là diễn viên."
+    },
+    {
+      "question_id": 8,
+      "question": "中山さんは、家族と<u>はなれて</u>、一人で暮らしているらしい。",
+      "context": "",
+      "options": [
+        "逃れて",
+        "別れて",
+        "離れて",
+        "避けて"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 離れて\n\n- 離れる（はなれる - LY）: rời xa, cách xa (家族と離れて暮らす: sống xa gia đình).\n- Các từ khác:\n  + 逃れる（のがれる - ĐÀO）: trốn thoát, thoát khỏi.\n  + 別れる（わかれる - BIỆT）: chia tay, ly biệt.\n  + 避ける（さける - TỴ）: tránh né.\n\nCâu hoàn chỉnh: 中山さんは、家族と離れて、一人で暮らしているらしい。\nDịch: Nghe nói anh Nakayama đang sống một mình xa gia đình."
+    },
+    {
+      "question_id": 9,
+      "question": "病院で健康<u>しんだん</u>を受けた。",
+      "context": "",
+      "options": [
+        "身断",
+        "診断",
+        "身談",
+        "診談"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 診断\n\n- 診断（しんだん - CHẨN ĐOÁN）: sự chẩn đoán, khám bệnh → 健康診断（けんこうしんだん）を受ける: đi khám sức khỏe.\n\nCâu hoàn chỉnh: 病院で健康診断を受けた。\nDịch: Tôi đã đi khám sức khỏe ở bệnh viện."
+    },
+    {
+      "question_id": 10,
+      "question": "AとBは、大きさが<u>ひとしい</u>。",
+      "context": "",
+      "options": [
+        "並しい",
+        "等しい",
+        "似しい",
+        "比しい"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 等しい\n\n- 等しい（ひとしい - ĐẲNG）: bằng nhau, ngang nhau, tương đương.\n- Lưu ý: 並ぶ（ならぶ）, 似る（にる）, 比べる（くらべる）không có cách đọc ひとしい.\n\nCâu hoàn chỉnh: AとBは、大きさが等しい。\nDịch: A và B có kích thước bằng nhau."
+    },
+    {
+      "question_id": 11,
+      "question": "（　　　）制度には、大きな問題があります。",
+      "context": "",
+      "options": [
+        "近",
+        "在",
+        "常",
+        "現"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 現\n\n- Tiền tố 現〜（げん - HIỆN）+ Danh từ: hiện tại, đương nhiệm, hiện hành (ví dụ: 現制度 = chế độ hiện hành, 現社長 = giám đốc đương nhiệm, 現段階 = giai đoạn hiện tại).\n\nCâu hoàn chỉnh: 現制度には、大きな問題があります。\nDịch: Chế độ (hệ thống quy định) hiện hành có vấn đề lớn."
+    },
+    {
+      "question_id": 12,
+      "question": "伯父は、電車の中で財布を盗まれてから用心（　　　）なった。",
+      "context": "",
+      "options": [
+        "濃く",
+        "強く",
+        "深く",
+        "高く"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 深く\n\n- Hậu tố 〜深い（〜ぶかい）: sâu sắc, giàu tính... → 用心深い（ようじんぶかい）: cẩn trọng, cảnh giác cao (chia kết hợp với なる thành 用心深くなった).\n- Các từ ghép tương tự với 〜深い: 興味深い (giàu tính thú vị), 疑い深い (đa nghi), 欲深い (tham lam).\n\nCâu hoàn chỉnh: 伯父は、電車の中で財布を盗まれてから用心深くなった。\nDịch: Bác trai tôi kể từ sau khi bị móc túi trên tàu điện thì đã trở nên rất cẩn trọng (cảnh giác cao)."
+    },
+    {
+      "question_id": 13,
+      "question": "このアンケートでは、（　　　）団体の活動についてお尋ねします。",
+      "context": "",
+      "options": [
+        "貴",
+        "尊",
+        "敬",
+        "偉"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 貴\n\n- Tiền tố kính ngữ 貴〜（き - QUÝ）: dùng trong văn viết trang trọng (thư từ, phiếu khảo sát) để tôn kính tổ chức của đối phương, tương đương với \"Quý...\" trong tiếng Việt:\n  + 貴団体（きだんたい）: Quý đoàn thể / Quý tổ chức.\n  + 貴社（きしゃ）: Quý công ty.\n  + 貴校（きこう）: Quý trường.\n\nCâu hoàn chỉnh: このアンケートでは、貴団体の活動についてお尋ねします。\nDịch: Trong bảng khảo sát này, chúng tôi xin phép hỏi về hoạt động của Quý tổ chức."
+    },
+    {
+      "question_id": 14,
+      "question": "規則（　　　）した場合は、罰金を払わなければならない。",
+      "context": "",
+      "options": [
+        "相違",
+        "対決",
+        "違反",
+        "対抗"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 違反\n\nTừ vựng:\n- 違反（いはん - VI PHẠN）: sự vi phạm (規則違反: vi phạm nội quy/quy tắc; スピード違反: vi phạm tốc độ).\n- 相違（そうい - TƯƠNG VI）: sự khác biệt, bất đồng.\n- 対決（たいけつ - ĐỐI QUYẾT）: sự đối đầu, quyết đấu.\n- 対抗（たいこう - ĐỐI KHÁNG）: sự đối kháng, cạnh tranh lại.\n\nCâu hoàn chỉnh: 規則違反した場合は、罰金を払わなければならない。\nDịch: Trong trường hợp vi phạm quy tắc thì phải nộp tiền phạt."
+    },
+    {
+      "question_id": 15,
+      "question": "この体育館は、ロッカーやシャワーなどの（　　　）がそろっている。",
+      "context": "",
+      "options": [
+        "用具",
+        "物体",
+        "設備",
+        "容器"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 設備\n\nTừ vựng:\n- 設備（せつび - THIẾT BỊ）: trang thiết bị, cơ sở vật chất gắn liền với tòa nhà (như tủ đồ ロッカー, vòi tắm シャワー, điều hòa...).\n- 用具（ようぐ - DỤNG CỤ）: dụng cụ cầm tay (như vợt, bóng, dụng cụ thể thao).\n- 物体（ぶったい - VẬT THỂ）: vật thể.\n- 容器（ようき - DUNG KHÍ）: đồ chứa, hộp đựng.\n\nCâu hoàn chỉnh: この体育館は、ロッカーやシャワーなどの設備がそろっている。\nDịch: Nhà thi đấu thể thao này có đầy đủ các trang thiết bị như tủ gửi đồ hay phòng tắm vòi sen."
+    },
+    {
+      "question_id": 16,
+      "question": "化粧品メーカーが健康食品の分野に（　　　）して成功した例もある。",
+      "context": "",
+      "options": [
+        "到達",
+        "転勤",
+        "直行",
+        "進出"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 進出\n\nTừ vựng:\n- 進出（しんしゅつ - TIẾN XUẤT）: vươn ra, mở rộng, thâm nhập vào thị trường / lĩnh vực mới (新しい分野／海外に進出する).\n- 到達（とうたつ - ĐÁO ĐẠT）: đạt tới (đỉnh núi, mục tiêu, mức độ).\n- 転勤（てんきん - CHUYỂN CẦN）: chuyển công tác.\n- 直行（ちょっこう - TRỰC HÀNH）: đi thẳng đến nơi.\n\nCâu hoàn chỉnh: 化粧品メーカーが健康食品の分野に進出して成功した例もある。\nDịch: Cũng có những trường hợp hãng sản xuất mỹ phẩm lấn sân sang lĩnh vực thực phẩm bảo vệ sức khỏe và gặt hái thành công."
+    },
+    {
+      "question_id": 17,
+      "question": "この時期に雪が降ることはあるが、積もることは（　　　）だ。",
+      "context": "",
+      "options": [
+        "まれ",
+        "なだらか",
+        "ささやか",
+        "かすか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① まれ\n\nTừ vựng:\n- まれ（稀 - HY）: hiếm, hiếm hoi (〜ことはまれだ: hiếm khi xảy ra chuyện...).\n- なだらか: thoai thoải (dốc đồi).\n- ささやか: nhỏ bé, khiêm tốn, giản dị (ささやかな幸せ／贈り物).\n- かすか（微か）: lờ mờ, thoang thoảng, yếu ớt (かすかな音／光／記憶).\n\nCâu hoàn chỉnh: この時期に雪が降ることはあるが、積もることはまれだ。\nDịch: Vào thời điểm này trong năm cũng có lúc tuyết rơi, nhưng việc tuyết phủ dày (đọng lại) thì rất hiếm."
+    },
+    {
+      "question_id": 18,
+      "question": "家の隣で夜遅くまでマンション建設工事が行われてうるさいので、建設会社に（　　　）の電話をした。",
+      "context": "",
+      "options": [
+        "悪口",
+        "苦情",
+        "反論",
+        "皮肉"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 苦情\n\nTừ vựng:\n- 苦情（くじょう - KHỔ TÌNH）: lời phàn nàn, khiếu nại (苦情を言う / 苦情の電話をする: gọi điện phàn nàn/khiếu nại).\n- 悪口（わるぐち）: lời nói xấu.\n- 反論（はんろん - PHẢN LUẬN）: sự phản bác.\n- 皮肉（ひにく - BÌ NHỤC）: sự mỉa mai, châm biếm.\n\nCâu hoàn chỉnh: 家の隣で夜遅くまでマンション建設工事が行われてうるさいので、建設会社に苦情の電話をした。\nDịch: Vì ngay cạnh nhà có công trình xây dựng chung cư làm việc đến tận đêm khuya gây ồn ào, nên tôi đã gọi điện khiếu nại (phàn nàn) với công ty xây dựng."
+    },
+    {
+      "question_id": 19,
+      "question": "箱の中には、隙間なく（　　　）お菓子が詰まっていた。",
+      "context": "",
+      "options": [
+        "どしどし",
+        "どっしり",
+        "うじゃうじゃ",
+        "ぎっしり"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ ぎっしり\n\nTừ vựng:\n- ぎっしり: đầy ắp, chật kín không còn khe hở (隙間なくぎっしり詰まっている: xếp chật ních không còn kẽ hở).\n- どしどし: liên tục, ồ ạt, đừng ngại ngần (どしどしご応募ください).\n- どっしり: nặng trịch, bề thế, vững chãi.\n- うじゃうじゃ: lúc nhúc, nhung nhúc (sâu bọ, côn trùng).\n\nCâu hoàn chỉnh: 箱の中には、隙間なくぎっしりお菓子が詰まっていた。\nDịch: Bên trong chiếc hộp có bánh kẹo được xếp đầy ắp không còn một kẽ hở."
+    },
+    {
+      "question_id": 20,
+      "question": "私は前回の実験の結果にずっと疑問を（　　　）いる。",
+      "context": "",
+      "options": [
+        "いだいて",
+        "にぎって",
+        "たもって",
+        "そなえて"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① いだいて\n\nTừ vựng & Cụm cố định:\n- 抱く（いだく - BÃO）: ôm ấp, mang trong lòng (suy nghĩ, cảm xúc) → Cụm cố định: 「疑問／不満／希望／夢を抱く」 (mang nỗi nghi ngờ / bất mãn / hy vọng / ước mơ).\n- 握る（にぎる - ÁC）: nắm giữ (tay, bí mật, quyền lực).\n- 保つ（たもつ - BẢO）: duy trì, giữ gìn.\n- 備える（そなえる - BỊ）: trang bị, chuẩn bị đề phòng.\n\nCâu hoàn chỉnh: 私は前回の実験の結果にずっと疑問を抱いている。\nDịch: Tôi vẫn luôn mang nỗi hoài nghi về kết quả của cuộc thí nghiệm lần trước."
+    },
+    {
+      "question_id": 21,
+      "question": "あの選手には<u>テクニック</u>がある。",
+      "context": "",
+      "options": [
+        "自信",
+        "技術",
+        "経験",
+        "体力"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 技術\n\n- テクニック (technique): kỹ thuật, kỹ năng điêu luyện = 技術（ぎじゅつ - KỸ THUẬT）.\n- Các từ khác:\n  + ① 自信（じしん）: sự tự tin.\n  + ③ 経験（けいけん）: kinh nghiệm.\n  + ④ 体力（たいりょく）: thể lực.\n\nCâu hoàn chỉnh: あの選手にはテクニック（＝技術）がある。\nDịch: Tuyển thủ đó có kỹ thuật rất tốt."
+    },
+    {
+      "question_id": 22,
+      "question": "ここには大量の<u>書籍</u>が収められている。",
+      "context": "",
+      "options": [
+        "新聞",
+        "絵",
+        "本",
+        "手紙"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 本\n\n- 書籍（しょせき - THƯ TỊCH）: sách vở, ấn phẩm sách = 本（ほん）.\n- Các từ khác: ① 新聞 (báo), ② 絵 (tranh), ④ 手紙 (thư).\n\nCâu hoàn chỉnh: ここには大量の書籍（＝本）が収められている。\nDịch: Ở đây lưu trữ một số lượng lớn sách vở."
+    },
+    {
+      "question_id": 23,
+      "question": "今年になって国の方針が<u>一転した</u>。",
+      "context": "",
+      "options": [
+        "すっかり変わった",
+        "少し変わった",
+        "やっと決まった",
+        "すぐに決まった"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① すっかり変わった\n\n- 一転する（いってんする - NHẤT CHUYỂN）: xoay chuyển 180 độ, thay đổi hoàn toàn = すっかり変わる.\n- Các phương án khác:\n  + ② 少し変わった: thay đổi một chút.\n  + ③ やっと決まった: cuối cùng cũng được quyết định.\n  + ④ すぐに決まった: được quyết định ngay lập tức.\n\nCâu hoàn chỉnh: 今年になって国の方針が一転した（＝すっかり変わった）。\nDịch: Sang năm nay, phương châm của quốc gia đã thay đổi hoàn toàn."
+    },
+    {
+      "question_id": 24,
+      "question": "この道具は先が<u>とがって</u>いる。",
+      "context": "",
+      "options": [
+        "柔らかくなって",
+        "細くなって",
+        "硬くなって",
+        "太くなって"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 細くなって\n\n- とがる（尖る - TIÊM）: nhọn hoắt, thon nhỏ lại ở phần đầu/mũi = 先が細くなって鋭くなっている.\n- Các phương án khác: ① 柔らかくなって (mềm đi), ③ 硬くなって (cứng lại), ④ 太くなって (to/dày lên).\n\nCâu hoàn chỉnh: この道具は先がとがっている（＝細くなっている）。\nDịch: Dụng cụ này có phần đầu nhọn (thon nhỏ lại)."
+    },
+    {
+      "question_id": 25,
+      "question": "彼がしていることは<u>くだらない</u>。",
+      "context": "",
+      "options": [
+        "効果がない",
+        "目的がない",
+        "変化がない",
+        "価値がない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 価値がない\n\n- くだらない: vô bổ, nhảm nhí, tầm phào, không có giá trị = 価値がない（かちがない） / ばかばかしい.\n- Các phương án khác: ① 効果がない (không có hiệu quả), ② 目的がない (không có mục đích), ③ 変化がない (không có sự thay đổi).\n\nCâu hoàn chỉnh: 彼がしていることはくだらない（＝価値がない）。\nDịch: Việc anh ta đang làm thật vô bổ (chẳng có giá trị gì)."
+    },
+    {
+      "question_id": 26,
+      "question": "頑固",
+      "context": "",
+      "options": [
+        "木村さんはとても頑固で、自分の考えを変えない。",
+        "瓶のふたが頑固で、いくら力を入れても開かない。",
+        "兄は体が頑固なので、風邪をほとんどひかない。",
+        "相手チームの守りがとても頑固で、点が取れない。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 木村さんはとても頑固で、自分の考えを変えない。\n\nCách dùng từ 「頑固（がんこ - NGOAN CỐ）」:\n- Nghĩa: Ngoan cố, bảo thủ, cứng đầu (khăng khăng giữ ý kiến/thói quen của mình không chịu thay đổi). Ngoài ra còn dùng trong cụm 頑固な汚れ (vết bẩn cứng đầu).\n- ① ĐÚNG: \"Anh Kimura rất bảo thủ (cứng đầu), không chịu thay đổi suy nghĩ của mình.\"\n- ② SAI: Nắp lọ chặt không mở được phải dùng 「固い（かたい）」.\n- ③ SAI: Cơ thể khỏe mạnh phải dùng 「丈夫（じょうぶ）」 hoặc 「頑丈（がんじょう）」.\n- ④ SAI: Hàng phòng ngự kiên cố/vững chắc phải dùng 「堅い／固い（かたい）」 hoặc 「鉄壁（てっぺき）」."
+    },
+    {
+      "question_id": 27,
+      "question": "打ち合わせ",
+      "context": "",
+      "options": [
+        "本日11時から、来月の講演会の打ち合わせを行います。",
+        "高校生のころはよく、親友と互いの悩みの打ち合わせをしました。",
+        "ホテルに電話をして、眼鏡の忘れ物がないか打ち合わせをしました。",
+        "実験の後、失敗の原因について打ち合わせを行いました。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 本日11時から、来月の講演会の打ち合わせを行います。\n\nCách dùng từ 「打ち合わせ（うちあわせ）」:\n- Nghĩa: Cuộc họp bàn trước, trao đổi thống nhất kế hoạch/công việc trước khi sự kiện diễn ra.\n- ① ĐÚNG: \"Từ 11 giờ hôm nay sẽ tiến hành họp bàn trước cho buổi diễn thuyết tháng sau.\"\n- ② SAI: Tâm sự nỗi niềm với bạn thân phải dùng 「相談（そうだん）」 hoặc 「話し合い」.\n- ③ SAI: Gọi điện hỏi khách sạn về đồ bỏ quên phải dùng 「問い合わせ（といあわせ）」 hoặc 「確認（かくにん）」.\n- ④ SAI: Thảo luận tìm nguyên nhân thất bại sau thí nghiệm phải dùng 「話し合い」 hoặc 「検討（けんとう）」 (vì 打ち合わせ chỉ dùng cho việc bàn bạc chuẩn bị TRƯỚC công việc)."
+    },
+    {
+      "question_id": 28,
+      "question": "中断",
+      "context": "",
+      "options": [
+        "急に仕事が入ってしまい、レストランの予約を中断した。",
+        "部屋のカーテンを閉めて、太陽の光を中断した。",
+        "雨が強くなってきたので、やむまで試合を中断した。",
+        "今日は用事があるため、友人からの誘いを中断した。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 雨が強くなってきたので、やむまで試合を中断した。\n\nCách dùng từ 「中断（ちゅうだん - TRUNG ĐOẠN）」:\n- Nghĩa: Tạm dừng, gián đoạn giữa chừng một hoạt động đang diễn ra (trận đấu, cuộc họp, công trình...).\n- ③ ĐÚNG: \"Vì mưa nặng hạt dần nên đã tạm dừng trận đấu cho đến khi tạnh.\"\n- ① SAI: Hủy đặt bàn nhà hàng phải dùng 「キャンセルした」 hoặc 「取り消した」.\n- ② SAI: Chắn ánh sáng mặt trời phải dùng 「遮った（さえぎった）」 hoặc 「遮断（しゃだん）した」.\n- ④ SAI: Từ chối lời rủ của bạn phải dùng 「断った（ことわった）」."
+    },
+    {
+      "question_id": 29,
+      "question": "ベテラン",
+      "context": "",
+      "options": [
+        "あのベテランの電車は、今まで多くのお客さんを乗せてきた。",
+        "大野先生は、この学校で昔から教えているベテランの先生だ。",
+        "このベテランの時計は、もう生産していないので貴重だ。",
+        "ここは、私が生まれる前からあるベテランのレストランだ。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 大野先生は、この学校で昔から教えているベテランの先生だ。\n\nCách dùng từ 「ベテラン (veteran)」:\n- Nghĩa: Người kỳ cựu, lão luyện, dày dạn kinh nghiệm trong một nghề nghiệp/lĩnh vực. Chỉ dùng cho CON NGƯỜI, tuyệt đối không dùng cho đồ vật hay cửa hàng.\n- ② ĐÚNG: \"Thầy Ohno là một giáo viên kỳ cựu đã giảng dạy ở ngôi trường này từ xưa.\"\n- ①, ③ SAI: Tàu điện hay đồng hồ cũ/lâu đời dùng 「古い」, 「旧型の」, 「年代物の」.\n- ④ SAI: Nhà hàng lâu đời dùng 「老舗（しにせ）のレストラン」 hoặc 「昔からあるレストラン」."
+    },
+    {
+      "question_id": 30,
+      "question": "荒れる",
+      "context": "",
+      "options": [
+        "この靴は10年履き続けているから、かなり荒れている。",
+        "入院で仕事を休んでいたので、営業成績は荒れてしまった。",
+        "冷蔵庫に入れておいたのに、りんごが荒れてしまった。",
+        "今日は海が荒れていて、船で釣りに行くことはできない。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 今日は海が荒れていて、船で釣りに行くことはできない。\n\nCách dùng từ 「荒れる（あれる - HOANG）」:\n- Nghĩa: (1) Biển động, sóng to gió lớn, thời tiết bão bùng (海／天気が荒れる); (2) Da dẻ khô ráp, nứt nẻ (肌／手が荒れる); (3) Nhà cửa/ruộng vườn hoang tàn; (4) Cuộc sống/tính khí trở nên bất ổn, bạo lực.\n- ④ ĐÚNG: \"Hôm nay biển động dữ dội nên không thể đi thuyền ra câu cá được.\"\n- ① SAI: Giày đi 10 năm bị hỏng/sờn cũ phải dùng 「傷んでいる（いたんでいる）」 hoặc 「ボロボロになっている」.\n- ② SAI: Thành tích kinh doanh sụt giảm phải dùng 「落ちてしまった」 hoặc 「下がってしまった」.\n- ③ SAI: Quả táo bị hỏng/thối phải dùng 「傷んでしまった」 hoặc 「腐ってしまった」."
+    },
+    {
+      "question_id": 31,
+      "question": "先週末は、（　　　）かけだった3冊の本をすべて最後まで読んだ。",
+      "context": "",
+      "options": [
+        "読む",
+        "読み",
+        "読んで",
+        "読んだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 読み\n\nCấu trúc: V-ます (bỏ ます) + かけ（の + N / だ）: đang làm dở dang, chưa xong.\n- 読む → 読みます → 読みかけだった3冊の本 (3 cuốn sách đang đọc dở).\n\nCâu hoàn chỉnh: 先週末は、読みかけだった3冊の本をすべて最後まで読んだ。\nDịch: Cuối tuần trước, tôi đã đọc hết đến trang cuối cùng cả 3 cuốn sách đang đọc dở."
+    },
+    {
+      "question_id": 32,
+      "question": "子供のころはピーマンが嫌いだったが、今は嫌いではない。（　　　）好きな野菜の一つだ。",
+      "context": "",
+      "options": [
+        "むしろ",
+        "いったい",
+        "そのうち",
+        "ちっとも"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① むしろ\n\nCấu trúc & Phó từ:\n- むしろ: đúng hơn là, trái lại còn... (thường đứng sau câu phủ định 「A ではない。むしろ B だ」: không phải A, mà đúng hơn/trái lại còn là B).\n- Ở đây: Bây giờ tôi không còn ghét ớt chuông nữa (今は嫌いではない). Trái lại, nó còn là một trong những loại rau tôi yêu thích (むしろ好きな野菜の一つだ).\n- Các từ khác:\n  + いったい: rốt cuộc thì (dùng trong câu nghi vấn).\n  + そのうち: chẳng bao lâu nữa, sớm muộn gì cũng.\n  + ちっとも (+ phủ định): hoàn toàn không.\n\nCâu hoàn chỉnh: 子供のころはピーマンが嫌いだったが、今は嫌いではない。むしろ好きな野菜の一つだ。\nDịch: Hồi nhỏ tôi ghét ớt chuông, nhưng bây giờ thì không ghét nữa. Trái lại, nó còn là một trong những loại rau tôi thích."
+    },
+    {
+      "question_id": 33,
+      "question": "来年3月の完成（　　　）、新しい体育館の建設工事が着々と進んでいる。",
+      "context": "",
+      "options": [
+        "を込めて",
+        "に際して",
+        "を通じて",
+        "に向けて"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ に向けて\n\nCấu trúc: N + に向けて（にむけて）: hướng tới mục tiêu N (tiến hành các hoạt động nhằm đạt được mục tiêu hoặc mốc sự kiện N).\n- 来年3月の完成に向けて: hướng tới mục tiêu hoàn thành vào tháng 3 năm sau.\n- Các cấu trúc khác:\n  + ① 〜を込めて: gửi gắm, dồn hết (tình cảm, tấm lòng: 愛／感謝／心を込めて).\n  + ② 〜に際して: nhân dịp, khi bước vào sự kiện.\n  + ③ 〜を通じて: thông qua; suốt cả.\n\nCâu hoàn chỉnh: 来年3月の完成に向けて、新しい体育館の建設工事が着々と進んでいる。\nDịch: Hướng tới mục tiêu hoàn thành vào tháng 3 năm sau, công trình xây dựng nhà thi đấu mới đang tiến triển từng bước vững chắc."
+    },
+    {
+      "question_id": 34,
+      "question": "(携帯電話の店で)\n父「どれにしようかな。通話ができれば十分なんだけど」\n息子「通話ができるだけ（　　　）これにしたら？」",
+      "context": "",
+      "options": [
+        "がいいと",
+        "でいいなら",
+        "でいいけど",
+        "がいいのに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② でいいなら\n\nCấu trúc: 〜だけでいいなら: nếu chỉ cần... là được (là đủ) thì...\n- Người bố nói: 「通話ができれば十分なんだけど」(Chỉ cần gọi điện được là đủ rồi).\n- Người con tiếp lời điều kiện của bố để gợi ý: 「通話ができるだけでいいなら、これにしたら？」(Nếu chỉ cần nghe gọi được thôi là ổn thì bố chọn cái này đi?).\n\nCâu hoàn chỉnh: 息子「通話ができるだけでいいならこれにしたら？」\nDịch: (Tại cửa hàng điện thoại)\nBố: \"Chọn cái nào bây giờ nhỉ. Chỉ cần gọi điện được là đủ rồi.\"\nCon trai: \"Nếu chỉ cần gọi điện được thôi là ổn thì bố lấy cái này nhé?\""
+    },
+    {
+      "question_id": 35,
+      "question": "課長に、次の会議までにこの資料を（　　　）言われた。",
+      "context": "",
+      "options": [
+        "読んでおくように",
+        "読んでおきなさい",
+        "読んでくるか",
+        "読んでこい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 読んでおくように\n\nCấu trúc: V-るように言われる / 注意される / 頼まれる: được bảo / được dặn / được yêu cầu là hãy làm V (câu tường thuật gián tiếp mệnh lệnh hoặc lời nhắc nhở).\n- Vì không có trợ từ trích dẫn trực tiếp 「と」 kèm dấu ngoặc kép 「...」, nên không dùng câu mệnh lệnh trực tiếp như ② hay ④, mà dùng dạng gián tiếp 「読んでおくように言われた」.\n\nCâu hoàn chỉnh: 課長に、次の会議までにこの資料を読んでおくように言われた。\nDịch: Tôi được Trưởng phòng dặn là phải đọc trước tài liệu này trước cuộc họp tiếp theo."
+    },
+    {
+      "question_id": 36,
+      "question": "休みの日（　　　）、昼過ぎまで寝ているのはよくないと思う。",
+      "context": "",
+      "options": [
+        "どころか",
+        "かというと",
+        "にしては",
+        "だからといって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ だからといって\n\nCấu trúc: [Mệnh đề] + からといって（N だからといって）: dù có vì lý do là... đi chăng nữa thì cũng không thể...\n- 休みの日だからといって、昼過ぎまで寝ているのはよくないと思う: Dù có là ngày nghỉ đi chăng nữa thì việc ngủ nướng đến tận quá trưa cũng không tốt.\n- Các cấu trúc khác:\n  + ① 〜どころか: đừng nói đến..., mà thậm chí còn...\n  + ② 〜かというと: nếu hỏi có phải là... không thì...\n  + ③ 〜にしては: so với tiêu chuẩn thì...\n\nCâu hoàn chỉnh: 休みの日だからといって、昼過ぎまで寝ているのはよくないと思う。\nDịch: Tôi nghĩ rằng dù có là ngày nghỉ đi chăng nữa thì việc ngủ đến tận quá trưa cũng không tốt."
+    },
+    {
+      "question_id": 37,
+      "question": "先月から食堂でアルバイトを始めた。お客さんがおいしいと（　　　）、うれしくなり、もっと頑張ろうと思える。",
+      "context": "",
+      "options": [
+        "言ってあげるたびに",
+        "言ってあげるように",
+        "言ってくれるたびに",
+        "言ってくれるように"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 言ってくれるたびに\n\nPhân tích ngữ pháp:\n1. Cho - nhận (〜てあげる vs 〜てくれる):\n   - Chủ ngữ của hành động nói lời khen 「おいしいと言う」 là khách hàng (お客さんが), và người nhận niềm vui là người nói (tôi) → phải dùng 「言ってくれる」(khách nói cho mình nghe). Loại ① và ②.\n2. 〜たびに (mỗi lần) vs 〜ように (để mà):\n   - Vế sau là 「うれしくなり、もっと頑張ろうと思える」(cảm thấy vui và có động lực cố gắng hơn) → diễn tả cứ mỗi lần khách khen ngon là lại thấy vui → dùng 「言ってくれるたびに」.\n\nCâu hoàn chỉnh: 先月から食堂でアルバイトを始めた。お客さんがおいしいと言ってくれるたびに、うれしくなり、もっと頑張ろうと思える。\nDịch: Tôi bắt đầu làm thêm ở quán ăn từ tháng trước. Mỗi lần khách hàng khen ngon là tôi lại thấy vui và muốn cố gắng nhiều hơn nữa."
+    },
+    {
+      "question_id": 38,
+      "question": "(映画館で)\n夫「席の番号、忘れちゃった。何番（　　　）？」\n妻「Jの14と15だよ」",
+      "context": "",
+      "options": [
+        "だったよね",
+        "だっけ",
+        "じゃなかったの",
+        "なんじゃないか"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② だっけ\n\nCấu trúc: 〜っけ（だっけ / だったっけ）: ...ấy nhỉ?\n- Dùng trong hội thoại thân mật khi người nói từng biết một thông tin nhưng tạm thời quên mất (「席の番号、忘れちゃった」) và hỏi lại đối phương để xác nhận:\n  + 「何番だっけ？」 = \"Số mấy ấy nhỉ?\"\n- Các phương án khác:\n  + ① だったよね: dùng khi mình vẫn nhớ một con số cụ thể và hỏi xác nhận (ví dụ: 14番だったよね？), không đi sau từ nghi vấn 何番 khi đã quên sạch.\n  + ③ じゃなかったの / ④ なんじゃないか: không hợp ngữ pháp và ngữ cảnh.\n\nCâu hoàn chỉnh: 夫「席の番号、忘れちゃった。何番だっけ？」\nDịch: (Tại rạp chiếu phim)\nChồng: \"Anh quên mất số ghế rồi. Số mấy ấy nhỉ?\"\nVợ: \"Là ghế số 14 và 15 hàng J đấy.\""
+    },
+    {
+      "question_id": 39,
+      "question": "「倉庫の中を片付けなければ」と前からずっと思っているのだが、忙しくてなかなか（　　　）。",
+      "context": "",
+      "options": [
+        "できずにいる",
+        "できるだろうか",
+        "できないこともない",
+        "できるのではないか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① できずにいる\n\nCấu trúc: V-ずにいる（= V-ないでいる）: vẫn cứ ở trong tình trạng chưa làm V.\n- Khi đi với động từ khả năng (できる → できずにいる), cấu trúc này diễn tả ý: dù rất muốn làm từ lâu nhưng vì lý do nào đó (忙しくて - vì bận rộn) nên mãi vẫn chưa thể thực hiện được (なかなかできずにいる).\n\nCâu hoàn chỉnh: 「倉庫の中を片付けなければ」と前からずっと思っているのだが、忙しくてなかなかできずにいる。\nDịch: Từ lâu tôi vẫn luôn nghĩ là \"Phải dọn dẹp bên trong nhà kho thôi\", thế nhưng vì bận quá nên mãi vẫn chưa làm được."
+    },
+    {
+      "question_id": 40,
+      "question": "(劇場内のアナウンスで)\nスタッフ「お客様にご案内（　　　）。ただいま、一階ロビーにおいて、公演パンフレットを販売しております。ぜひご利用ください」",
+      "context": "",
+      "options": [
+        "なさいます",
+        "うけたまわります",
+        "申し上げます",
+        "おっしゃいます"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 申し上げます\n\nCấu trúc kính ngữ:\n- Khiêm nhường ngữ trang trọng: お／ご + N + 申し上げます (nhún nhường hành động của bản thân/nhà hát hướng tới khách hàng).\n- Cụm thông báo kinh điển: 「お客様にご案内申し上げます」(Chúng tôi xin trân trọng thông báo tới quý khách).\n- Các phương án khác:\n  + ① なさいます / ④ おっしゃいます: Tôn kính ngữ (dùng cho hành động của khách hàng, không dùng cho hành động của nhân viên).\n  + ② うけたまわります（承ります）: Khiêm nhường ngữ của 引き受ける / 聞く (tiếp nhận đơn đặt hàng, lắng nghe yêu cầu), không đi với ご案内.\n\nCâu hoàn chỉnh: スタッフ「お客様にご案内申し上げます。ただいま、一階ロビーにおいて、公演パンフレットを販売しております。ぜひご利用ください」\nDịch: (Trong thông báo tại nhà hát)\nNhân viên: \"Chúng tôi xin trân trọng thông báo tới quý khách. Hiện tại, ở sảnh tầng 1 chúng tôi đang bán ấn phẩm giới thiệu buổi biểu diễn (pamphlet). Kính mời quý khách ghé mua.\""
+    },
+    {
+      "question_id": 41,
+      "question": "昨日はかなり風が強くて、何度も帽子を（　　　）。",
+      "context": "",
+      "options": [
+        "飛ばされたところだ",
+        "飛んでいったところだ",
+        "飛ばされそうになった",
+        "飛んでいきそうになった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 飛ばされそうになった\n\nPhân tích ngữ pháp:\n1. Dấu hiệu trợ từ 「を」 trong 「帽子を」:\n   - Vì đứng trước chỗ trống là tân ngữ 「帽子を」, nên vị ngữ phải là cấu trúc bị động gián tiếp (bị động bị hại): 「（風に）帽子を飛ばされる」(bị gió thổi bay mũ). Tự động từ 「飛んでいく」 đi với trợ từ 「が」(帽子が飛んでいく), nên loại ngay ② và ④.\n2. Dấu hiệu phó từ 「何度も」(nhiều lần):\n   - Vì có 「何度も」(nhiều lần), nên mũ chưa bị bay mất hẳn mà là \"nhiều lần suýt nữa bị gió thổi bay mất mũ\": 「何度も帽子を飛ばされそうになった」(V-ます + そうになる = suýt nữa thì...).\n\nCâu hoàn chỉnh: 昨日はかなり風が強くて、何度も帽子を飛ばされそうになった。\nDịch: Hôm qua gió khá mạnh nên đã mấy lần tôi suýt bị gió thổi bay mất mũ."
+    },
+    {
+      "question_id": 42,
+      "question": "昨日、最近評判のレストランに行った。サービスと雰囲気はとてもよかったが、味は（　　　）。",
+      "context": "",
+      "options": [
+        "期待していなかったせいでだ",
+        "期待していたからではなかった",
+        "期待していなかったはずだ",
+        "期待していたほどではなかった"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 期待していたほどではなかった\n\nCấu trúc: 〜ほどではない / 〜ほどではなかった: không đến mức như...\n- Ngữ cảnh: Đi ăn ở một nhà hàng đang nổi tiếng gần đây (最近評判のレストラン). Dịch vụ và không gian thì rất tuyệt, NHƯNG (が) hương vị món ăn thì \"không ngon đến mức như tôi đã kỳ vọng\" (味は期待していたほどではなかった).\n\nCâu hoàn chỉnh: 昨日、最近評判のレストランに行った。サービスと雰囲気はとてもよかったが、味は期待していたほどではなかった。\nDịch: Hôm qua tôi đã đến một nhà hàng đang có tiếng gần đây. Dịch vụ và bầu không khí thì rất tốt, nhưng hương vị thì không được như tôi kỳ vọng."
+    },
+    {
+      "question_id": 43,
+      "question": "私はとにかく勉強が嫌いで、学校があまり好きではない子供だった。そんな ＿＿ ＿★＿ ＿＿ ＿＿ きっかけだった。",
+      "context": "",
+      "options": [
+        "ある先生との",
+        "教師になりたいと思ったのは",
+        "私が",
+        "出会いが"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 教師になりたいと思ったのは\nThứ tự đúng: 私が → 教師になりたいと思ったのは（★） → ある先生との → 出会いが\n\nPhân tích cấu trúc:\n- Từ chỉ định 「そんな」 (như thế — tức là một đứa trẻ ghét học và không thích trường lớp) bổ nghĩa cho đại từ nhân xưng 「私が」: 「そんな私が」(Một người như tôi mà...).\n- Chủ đề của câu sử dụng cấu trúc 「〜のは、…がきっかけだった」(Sở dĩ tôi... là bắt nguồn từ cơ duyên...): 「そんな私が教師になりたいと思ったのは」(Sở dĩ một đứa trẻ như tôi lại muốn trở thành giáo viên là...).\n- Cụm danh từ chỉ nguyên nhân/cơ duyên: 「ある先生との出会いがきっかけだった」(là bắt nguồn từ cuộc gặp gỡ với một người thầy).\n\nCâu hoàn chỉnh: そんな私が教師になりたいと思ったのはある先生との出会いがきっかけだった。\nDịch: Dù sao thì tôi cũng từng là một đứa trẻ ghét học và chẳng mấy thích trường lớp. Sở dĩ một người như tôi lại muốn trở thành giáo viên là bắt nguồn từ cuộc gặp gỡ với một người thầy."
+    },
+    {
+      "question_id": 44,
+      "question": "若いときに努力して ＿＿ ＿＿ ＿★＿ ＿＿ なって必ず将来役に立つと思う。",
+      "context": "",
+      "options": [
+        "経験は",
+        "目標を",
+        "自信と",
+        "達成した"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 経験は\nThứ tự đúng: 目標を → 達成した → 経験は（★） → 自信と\n\nPhân tích cấu trúc:\n- Cụm động từ bổ nghĩa cho danh từ 「経験」: 「（若いときに努力して）目標を達成した経験は」(Kinh nghiệm nỗ lực và đạt được mục tiêu khi còn trẻ...).\n- Phía sau chỗ trống có 「なって」 → kết hợp với 「自信と」 tạo thành cụm 「自信となって」(trở thành sự tự tin).\n\nCâu hoàn chỉnh: 若いときに努力して目標を達成した経験は自信となって必ず将来役に立つと思う。\nDịch: Tôi nghĩ rằng trải nghiệm nỗ lực và đạt được mục tiêu khi còn trẻ sẽ trở thành sự tự tin và nhất định sẽ giúp ích trong tương lai."
+    },
+    {
+      "question_id": 45,
+      "question": "この町では、都心で家を借りる ＿＿ ＿＿ ＿★＿ ＿＿ 家が借りられる。",
+      "context": "",
+      "options": [
+        "場合",
+        "半分程度の",
+        "家賃で",
+        "と比べて"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 半分程度の\nThứ tự đúng: 場合 → と比べて → 半分程度の（★） → 家賃で\n\nPhân tích cấu trúc:\n- Sau mệnh đề động từ 「都心で家を借りる」 cần danh từ 「場合」 + cấu trúc so sánh 「と比べて」: 「都心で家を借りる場合と比べて」(So với trường hợp thuê nhà ở trung tâm thành phố...).\n- Cụm chỉ mức giá thuê: 「半分程度の家賃で（家が借りられる）」(có thể thuê được nhà với mức tiền thuê chỉ bằng khoảng một nửa).\n\nCâu hoàn chỉnh: この町では、都心で家を借りる場合と比べて半分程度の家賃で家が借りられる。\nDịch: Ở thị trấn này, so với trường hợp thuê nhà ở trung tâm thành phố thì có thể thuê được nhà với mức tiền thuê chỉ bằng khoảng một nửa."
+    },
+    {
+      "question_id": 46,
+      "question": "＿＿ ＿＿ ＿★＿ ＿＿ 酸素や栄養が十分に細胞に届かなくなってしまう。",
+      "context": "",
+      "options": [
+        "運ばれる",
+        "悪くなると",
+        "血液の流れが",
+        "血液によって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 血液によって\nThứ tự đúng: 血液の流れが → 悪くなると → 血液によって（★） → 運ばれる\n\nPhân tích cấu trúc:\n- Mệnh đề điều kiện ở đầu câu: 「血液の流れが悪くなると」(Khi lưu thông máu trở nên kém đi thì...).\n- Mệnh đề định ngữ bổ nghĩa cho 「酸素や栄養」(oxy và chất dinh dưỡng): 「血液によって運ばれる（酸素や栄養）」(oxy và chất dinh dưỡng được vận chuyển bởi máu).\n\nCâu hoàn chỉnh: 血液の流れが悪くなると血液によって運ばれる酸素や栄養が十分に細胞に届かなくなってしまう。\nDịch: Khi sự lưu thông máu trở nên kém đi, oxy và chất dinh dưỡng được vận chuyển bởi máu sẽ không còn đến được đầy đủ các tế bào nữa."
+    },
+    {
+      "question_id": 47,
+      "question": "さくら駅周辺の再開発事業を行う ＿＿ ＿＿ ＿★＿ ＿＿ 予定だ。",
+      "context": "",
+      "options": [
+        "さくら市は",
+        "に先立って",
+        "関係者に対する",
+        "説明会を開催する"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 関係者に対する\nThứ tự đúng: に先立って → さくら市は → 関係者に対する（★） → 説明会を開催する\n\nPhân tích cấu trúc:\n- Động từ nguyên dạng 「再開発事業を行う」 kết hợp với mẫu ngữ pháp N2 「V-る + に先立って」(trước khi tiến hành...).\n- Chủ ngữ của câu: 「さくら市は」(Thành phố Sakura...).\n- Cụm vị ngữ bổ nghĩa cho 「予定だ」: 「関係者に対する説明会を開催する（予定だ）」(dự định sẽ tổ chức buổi họp giải trình dành cho những người có liên quan).\n\nCâu hoàn chỉnh: さくら駅周辺の再開発事業を行うに先立ってさくら市は関係者に対する説明会を開催する予定だ。\nDịch: Trước khi tiến hành dự án tái phát triển khu vực xung quanh ga Sakura, thành phố Sakura dự định sẽ tổ chức buổi họp thông tin dành cho các bên liên quan."
+    },
+    {
+      "question_id": 48,
+      "question": "【48】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "context": "現代人は座りすぎだとよく言われます。皆がずっと席に座ってパソコンで作業をしているという職場も珍しくないのではないでしょうか。座りすぎが様々な体の不調の原因になるという研究報告も【48】。座りすぎは、日本人の4人に1人が抱えているという腰の痛みの原因にもなると考えられています。\n座っている姿勢（しせい）は体にあまり負担（ふたん）がかかっていないと思うかもしれません。【49】、座り方によっては、実は立っているときの2倍もの負担（ふたん）が腰にかかるのだそうです。座っている時間が長くなるほど、腰への負担も大きくなり、それが腰痛（ようつう）につながります。かといって、ずっと立ったまま仕事をするというのも現実的ではありません。長時間立っていると、足に疲れがたまってしまうという問題もあります。大切なのは、【50】姿勢（しせい）を長く続けないことです。理想は30分に1回、少なくとも1時間に1回立って、少し動くのがいいとされています。\n実際に、仕事中に時々立って動くようにしてみた人の多くが、腰痛（ようつう）の改善や疲れを感じにくいといった効果を感じているようです。座りっぱなしを避け、時々立って体を動かすことは、気軽にできる腰痛対策（ようつうたいさく）であり、仕事中の集中力維持にもつながります。職場で座っている時間が長い人は、【51】。",
+      "options": [
+        "増えそうでした",
+        "増えてきました",
+        "増えていきました",
+        "増えたところでした"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 増えてきました\n\nPhân tích ngữ pháp:\n- Đoạn 1 đang nói về thực trạng hiện nay (「現代人は座りすぎだとよく言われます」).\n- Để diễn tả một xu hướng bắt đầu từ trong quá khứ và ngày càng tăng lên tính đến thời điểm hiện tại, tiếng Nhật dùng cấu trúc 「V-てきました」: 「座りすぎが様々な体の不調の原因になるという研究報告も増えてきました」(Các báo cáo nghiên cứu chỉ ra rằng việc ngồi quá nhiều là nguyên nhân gây ra nhiều chứng bất ổn của cơ thể cũng ngày càng tăng lên).\n- Các phương án khác đều chia ở thì quá khứ hoàn tất (でした / いきました) không phù hợp với mạch văn hiện tại của toàn đoạn."
+    },
+    {
+      "question_id": 49,
+      "question": "【49】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "context": "現代人は座りすぎだとよく言われます。皆がずっと席に座ってパソコンで作業をしているという職場も珍しくないのではないでしょうか。座りすぎが様々な体の不調の原因になるという研究報告も【48】。座りすぎは、日本人の4人に1人が抱えているという腰の痛みの原因にもなると考えられています。\n座っている姿勢（しせい）は体にあまり負担（ふたん）がかかっていないと思うかもしれません。【49】、座り方によっては、実は立っているときの2倍もの負担（ふたん）が腰にかかるのだそうです。座っている時間が長くなるほど、腰への負担も大きくなり、それが腰痛（ようつう）につながります。かといって、ずっと立ったまま仕事をするというのも現実的ではありません。長時間立っていると、足に疲れがたまってしまうという問題もあります。大切なのは、【50】姿勢（しせい）を長く続けないことです。理想は30分に1回、少なくとも1時間に1回立って、少し動くのがいいとされています。\n実際に、仕事中に時々立って動くようにしてみた人の多くが、腰痛（ようつう）の改善や疲れを感じにくいといった効果を感じているようです。座りっぱなしを避け、時々立って体を動かすことは、気軽にできる腰痛対策（ようつうたいさく）であり、仕事中の集中力維持にもつながります。職場で座っている時間が長い人は、【51】。",
+      "options": [
+        "つまり",
+        "しかも",
+        "ところが",
+        "というのは"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ ところが\n\nPhân tích liên từ:\n- Câu trước 【49】: 「座っている姿勢は体にあまり負担がかかっていないと思うかもしれません。」(Có lẽ bạn nghĩ rằng tư thế ngồi không gây nhiều gánh nặng cho cơ thể).\n- Câu sau 【49】: 「座り方によっては、実は立っているときの2倍もの負担が腰にかかるのだそうです。」(Tuy nhiên thực tế là tùy vào cách ngồi mà vùng thắt lưng phải chịu gánh nặng gấp tới 2 lần so với khi đứng).\n- Hai vế mang ý nghĩa trái ngược với suy nghĩ/dự đoán thông thường (kèm dấu hiệu 「〜と思うかもしれません。ところが、実は…」) → Dùng liên từ nghịch tiếp 「ところが」(Thế nhưng / Ấy vậy mà).\n- Các từ khác:\n  + ① つまり: tóm lại là, tức là.\n  + ② しかも: hơn nữa, không những thế.\n  + ④ というのは: sở dĩ như vậy là vì."
+    },
+    {
+      "question_id": 50,
+      "question": "【50】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "context": "現代人は座りすぎだとよく言われます。皆がずっと席に座ってパソコンで作業をしているという職場も珍しくないのではないでしょうか。座りすぎが様々な体の不調の原因になるという研究報告も【48】。座りすぎは、日本人の4人に1人が抱えているという腰の痛みの原因にもなると考えられています。\n座っている姿勢（しせい）は体にあまり負担（ふたん）がかかっていないと思うかもしれません。【49】、座り方によっては、実は立っているときの2倍もの負担（ふたん）が腰にかかるのだそうです。座っている時間が長くなるほど、腰への負担も大きくなり、それが腰痛（ようつう）につながります。かといって、ずっと立ったまま仕事をするというのも現実的ではありません。長時間立っていると、足に疲れがたまってしまうという問題もあります。大切なのは、【50】姿勢（しせい）を長く続けないことです。理想は30分に1回、少なくとも1時間に1回立って、少し動くのがいいとされています。\n実際に、仕事中に時々立って動くようにしてみた人の多くが、腰痛（ようつう）の改善や疲れを感じにくいといった効果を感じているようです。座りっぱなしを避け、時々立って体を動かすことは、気軽にできる腰痛対策（ようつうたいさく）であり、仕事中の集中力維持にもつながります。職場で座っている時間が長い人は、【51】。",
+      "options": [
+        "同じ",
+        "違う",
+        "この",
+        "以下の"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 同じ\n\nPhân tích mạch văn:\n- Trước 【50】, tác giả nêu hai thái cực:\n  1. Ngồi càng lâu thì thắt lưng càng chịu tải lớn gây đau lưng (座っている時間が長くなるほど、腰への負担も大きくなり...).\n  2. Ngược lại, nếu cứ đứng suốt để làm việc thì chân lại bị mỏi (かといって、ずっと立ったまま仕事をするというのも... 長時間立っていると、足に疲れがたまってしまう).\n- Từ đó rút ra kết luận ở câu chứa 【50】: Điều quan trọng là KHÔNG duy trì CÙNG MỘT tư thế trong thời gian dài (「大切なのは、【同じ】姿勢を長く続けないことです」), mà cứ 30 phút hoặc ít nhất 1 tiếng nên đứng dậy vận động một chút.\n- Nếu chọn ③ 「この姿勢」 sẽ chỉ quy chiếu vào tư thế đứng ở câu ngay trước đó, không bao quát được cả việc ngồi lâu lẫn đứng lâu."
+    },
+    {
+      "question_id": 51,
+      "question": "【51】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "context": "現代人は座りすぎだとよく言われます。皆がずっと席に座ってパソコンで作業をしているという職場も珍しくないのではないでしょうか。座りすぎが様々な体の不調の原因になるという研究報告も【48】。座りすぎは、日本人の4人に1人が抱えているという腰の痛みの原因にもなると考えられています。\n座っている姿勢（しせい）は体にあまり負担（ふたん）がかかっていないと思うかもしれません。【49】、座り方によっては、実は立っているときの2倍もの負担（ふたん）が腰にかかるのだそうです。座っている時間が長くなるほど、腰への負担も大きくなり、それが腰痛（ようつう）につながります。かといって、ずっと立ったまま仕事をするというのも現実的ではありません。長時間立っていると、足に疲れがたまってしまうという問題もあります。大切なのは、【50】姿勢（しせい）を長く続けないことです。理想は30分に1回、少なくとも1時間に1回立って、少し動くのがいいとされています。\n実際に、仕事中に時々立って動くようにしてみた人の多くが、腰痛（ようつう）の改善や疲れを感じにくいといった効果を感じているようです。座りっぱなしを避け、時々立って体を動かすことは、気軽にできる腰痛対策（ようつうたいさく）であり、仕事中の集中力維持にもつながります。職場で座っている時間が長い人は、【51】。",
+      "options": [
+        "試してもいいですか",
+        "試したらいいのでしょうか",
+        "試してみればよかったですか",
+        "試してみてはいかがでしょうか"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 試してみてはいかがでしょうか\n\nPhân tích câu kết bài:\n- Câu cuối bài hướng tới người đọc để đưa ra lời khuyên/đề xuất nhẹ nhàng: 「職場で座っている時間が長い人は、【試してみてはいかがでしょうか】。/ Những người có thời gian ngồi lâu ở nơi làm việc, sao không thử áp dụng xem sao?」.\n- Cấu trúc 「V-てみてはいかがでしょうか」 là mẫu câu đề xuất lịch sự rất điển hình ở cuối các bài viết phổ biến kiến thức sức khỏe/đời sống.\n- Các phương án ①, ②, ③ đều là câu hỏi xin phép hoặc hỏi ý kiến của bản thân người nói nên hoàn toàn sai ngữ cảnh."
+    }
+  ]
+}
