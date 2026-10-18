@@ -1,0 +1,272 @@
+{
+  "id": "N2-29-GD3-01-RD",
+  "code": "N2-29-GD3-01-RD",
+  "title": "N2.29 · Test cuối Giai đoạn 3 · Phát đề số 1 · Đọc hiểu",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "reading",
+  "source": "riki/N2.29/TEST CUỐI GIAI ĐOẠN 3 N2 T12_2026 (PHÁT ĐỀ SỐ 1)_Đọc hiểu.mhtml",
+  "questionCount": 20,
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "５２．筆者の考えに合うのはどれか。",
+      "context": "人物の情報を集めるときはひとりの意見だけでなく、複数の意見を聞くのは、そうしないと、人物の全体像がわからないからだ。情景や物体を眺める時、人の判断はあまり変わらない。しかし、人物を見る時、人が感じる印象はかなり違うのである。ある人物のプロフィール（注）を書くのならば、ひとりが会いに行っただけでは不完全だ。ふたりで会いに行って、それぞれがどういう印象を持ったのかを合わせた方がいい。採用の面接を複数で行うのも、同じ理由からだと思う。\n\n（注）プロフィール：人物の紹介",
+      "options": [
+        "物も人物も、複数の意見を聞いて判断することが必要だ。",
+        "物を見る時より人物を見る時の方が、人が持つ印象は正確だ。",
+        "人物の印象は、見る状況によって異なる。",
+        "人物を判断するには、ひとりが持つ印象だけでは不十分だ。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 人物を判断するには、ひとりが持つ印象だけでは不十分だ。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (④):\n  - Tác giả lập luận: khi quan sát quang cảnh hay sự vật thì phán đoán của mọi người ít khi khác nhau, nhưng khi nhìn nhận một con người thì ấn tượng của mỗi người lại rất khác nhau (人物を見る時、人が感じる印象はかなり違う).\n  - Do đó: 'ある人物のプロフィールを書くのならば、ひとりが会いに行っただけでは不完全だ。ふたりで会いに行って、それぞれがどういう印象を持ったのかを合わせた方がいい' (Nếu viết bài giới thiệu về một người, chỉ một người đến gặp thôi là chưa hoàn chỉnh. Nên có hai người cùng gặp rồi kết hợp các ấn tượng lại).\n  - Điều này đồng nghĩa với việc: Để phán đoán, đánh giá một con người thì chỉ dựa vào ấn tượng của duy nhất một người là chưa đủ (ひとりが持つ印象だけでは不十分だ). Phương án ④ phản ánh chính xác 100% quan điểm của tác giả.\n• Phân tích các phương án sai:\n  - ① Bẫy gộp đối tượng: Tác giả khẳng định khi nhìn sự vật/quang cảnh thì phán đoán của mọi người hầu như không thay đổi (情景や物体を眺める時、人の判断はあまり変わらない), do đó không cần thiết phải nghe nhiều ý kiến đối với cả đồ vật.\n  - ② Bẫy so sánh sai lệch: Bài không hề so sánh mức độ 'chính xác' của ấn tượng giữa người và vật, mà nhấn mạnh ấn tượng về con người có sự khác biệt lớn giữa những người cùng quan sát.\n  - ③ Bẫy ngữ cảnh: Bài nói ấn tượng khác nhau là do người nhìn khác nhau (mỗi người một cảm nhận), chứ không phải do hoàn cảnh/tình huống quan sát thay đổi.\n\n【Dịch bài đọc】\nKhi thu thập thông tin về một nhân vật, sở dĩ ta không chỉ nghe ý kiến của một người mà phải lắng nghe nhiều ý kiến là vì nếu không làm vậy thì sẽ không thể nắm bắt được bức tranh toàn cảnh về nhân vật đó. Khi ngắm nhìn quang cảnh hay đồ vật, phán đoán của con người hầu như không mấy thay đổi. Thế nhưng, khi nhìn nhận một con người, ấn tượng mà mỗi người cảm nhận được lại rất khác nhau. Nếu định viết bài giới thiệu về một nhân vật nào đó, chỉ một người đi gặp thì chưa hoàn chỉnh. Tốt hơn là nên có hai người cùng đến gặp và kết hợp ấn tượng của từng người lại với nhau. Tôi nghĩ việc phỏng vấn tuyển dụng được tiến hành bởi nhiều người cũng xuất phát từ chính lý do này."
+    },
+    {
+      "question_id": 2,
+      "question": "５３．このお知らせで伝えたいことは何か。",
+      "context": "以下は、ある大学のホームページに掲載されたお知らせである。\n\n山森大学＞お知らせ\n8月10日\n移転作業に伴うパソコン自習室の利用について\n先日お知らせしたように、キャンパスの整備にあたり、現在2号館のパソコン自習室が4号館に移転します。移転作業に伴い、利用は9月5日までになるとお知らせしましたが、工事期間の変更により8月31日に閉室することになりました。移転先の利用開始は10月1日で変更ありません。移転が完了するまでは、6号館のパソコン自習室、および図書館の情報検索室をご利用ください。\n問い合わせ先：情報支援センター\n電話：071-992-8555",
+      "options": [
+        "9月5日から2号館のパソコン自習室が利用できなくなること。",
+        "10月1日から6号館のパソコン自習室が利用できること。",
+        "2号館のパソコン自習室の閉室日が早まったこと。",
+        "4号館のパソコン自習室の利用開始日が早まったこと。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 2号館のパソコン自習室の閉室日が早まったこと。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (③):\n  - Thông báo nêu rõ trọng tâm thay đổi: '利用は9月5日までになるとお知らせしましたが、工事期間の変更により8月31日に閉室することになりました' (Trước đó đã thông báo mở đến ngày 5/9, nhưng do thay đổi thời gian thi công nên sẽ đóng cửa vào ngày 31/8).\n  - Như vậy, ngày đóng cửa phòng tự học máy tính ở tòa số 2 đã bị đẩy sớm lên (早まった, từ 5/9 chuyển sớm thành 31/8). Phương án ③ diễn đạt hoàn toàn chính xác mục đích cốt lõi của thông báo này.\n• Phân tích các phương án sai:\n  - ① Sai mốc thời gian: Phòng tự học tòa 2 không thể sử dụng từ ngày 1/9 (đóng cửa từ 31/8), chứ không phải bắt đầu không dùng được từ ngày 5/9.\n  - ② Bẫy địa điểm: Tòa 6 là địa điểm dùng tạm trong thời gian chuyển dời; ngày 1/10 là ngày mở cửa phòng mới tại tòa số 4.\n  - ④ Sai sự thật: Ngày bắt đầu sử dụng phòng tự học ở tòa 4 vẫn là ngày 1/10 không hề thay đổi ('移転先の利用開始は10月1日で変更ありません'), không hề bị đẩy sớm lên.\n\n【Dịch bài đọc】\nĐại học Yamamori > Thông báo\nNgày 10 tháng 8\nVề việc sử dụng phòng tự học máy tính do công tác di dời\nNhư đã thông báo gần đây, phục vụ cho việc chỉnh trang khuôn viên trường, phòng tự học máy tính hiện tại ở tòa nhà số 2 sẽ được chuyển sang tòa nhà số 4. Trước đây chúng tôi đã thông báo phòng sẽ mở đến ngày 5 tháng 9 phục vụ việc di dời, tuy nhiên do thay đổi thời gian thi công nên phòng sẽ đóng cửa vào ngày 31 tháng 8. Thời gian bắt đầu sử dụng địa điểm mới tại tòa số 4 vẫn là ngày 1 tháng 10 không thay đổi. Trong thời gian chờ chuyển giao hoàn tất, xin vui lòng sử dụng phòng tự học máy tính ở tòa nhà số 6 hoặc phòng tra cứu thông tin của thư viện."
+    },
+    {
+      "question_id": 3,
+      "question": "５４．金魚の飼い方について、筆者の説明に合うのはどれか。",
+      "context": "以下は、金魚の飼い方について書かれた文章である。\n\n水温が下がると消化機能も低下するので、えさをあまり多く与えると消化不良を起こして体調をくずしてしまいます。\n屋内の水槽（注1）で飼育（注2）している場合でも、水温が10度以下になると金魚の動きは鈍くなり、えさもあまりほしがらなくなります。\nヒーターを入れて、飼育水の温度を18〜20度に保てば、金魚は活発に泳いでえさもよく食べるようになり、一年中元気な金魚と接することができます。\n\n（注1）水槽：生物を飼うために水を入れた容器\n（注2）飼育する：飼う",
+      "options": [
+        "えさの量を適切に調整すれば、金魚は活発に泳ぐ。",
+        "屋内より屋外で飼ったほうが、金魚はえさをよく食べる。",
+        "水温を適切にしておけば、金魚はえさをよく食べる。",
+        "水温とえさの量を一定に保てば、金魚は活発に泳ぐ。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 水温を適切にしておけば、金魚はえさをよく食べる。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (③):\n  - Tác giả phân tích mối quan hệ giữa nhiệt độ nước và khả năng ăn uống của cá: khi nước lạnh dưới 10 độ thì cá vận động chậm và ít đòi ăn. Ngược lại: 'ヒーターを入れて、飼育水の温度を18〜20度に保てば、金魚は活発に泳いでえさもよく食べるようになり...' (Nếu lắp máy sưởi duy trì nhiệt độ nước nuôi ở mức 18-20 độ thích hợp, cá sẽ bơi lội năng động và ăn khỏe).\n  - Do đó, giữ nhiệt độ nước thích hợp thì cá vàng sẽ ăn nhiều thức ăn. Phương án ③ hoàn toàn chuẩn xác.\n• Phân tích các phương án sai:\n  - ① Sai nguyên nhân: Lượng thức ăn không trực tiếp làm cá bơi năng động, mà chính nhiệt độ nước mới quyết định khả năng tiêu hóa và sự năng động của cá.\n  - ② Bẫy so sánh: Bài viết không đưa ra bất kỳ so sánh nào giữa việc nuôi trong nhà với ngoài trời.\n  - ④ Bẫy từ 'nhất định' (一定): Không phải giữ nguyên lượng thức ăn cố định trong mọi trường hợp, vì nếu nước lạnh mà vẫn cho ăn lượng cố định nhiều thì cá sẽ bị bội thực, khó tiêu.\n\n【Dịch bài đọc】\nKhi nhiệt độ nước giảm xuống, chức năng tiêu hóa của cá vàng cũng suy giảm theo, vì vậy nếu cho ăn quá nhiều cá sẽ bị khó tiêu dẫn đến sinh bệnh. Ngay cả trường hợp nuôi trong bể kính trong nhà, nếu nhiệt độ nước xuống dưới 10 độ C thì hoạt động của cá vàng cũng trở nên chậm chạp và chúng không thiết ăn uống nữa. Nếu lắp máy sưởi và duy trì nhiệt độ nước nuôi trong khoảng 18 đến 20 độ C, cá vàng sẽ bơi lội tung tăng và ăn uống ngon lành, giúp chúng ta có thể ngắm nhìn những chú cá khỏe mạnh suốt cả năm."
+    },
+    {
+      "question_id": 4,
+      "question": "５５．高原さんは、初回の会議までに何をしなければならないか。",
+      "context": "以下は、ある会社の社員が、別の課の社員から受け取ったメールである。\n\n営業課高原様\n企画課の山下です。\n部長から発表がありましたとおり、12日から新モデル発売に向けての営業課・企画課合同の会議を始めます。12日は初回となりますので、営業課では旧モデルの売り上げについての資料をご準備ください。昨年度分だけでなく、販売開始以降のものすべてをお願いします。\n初回の会議では、まずこちらから新モデルの概要と今後のスケジュール案を示しご説明しますので、営業課の皆さんのご意見をお聞かせください。\nどうぞよろしくお願いします。\n企画課山下",
+      "options": [
+        "旧モデルが発売されてからの売り上げについての資料を準備する。",
+        "昨年度の旧モデルの売り上げについての資料を準備する。",
+        "新モデルの概要と今後のスケジュール案についての資料を準備する。",
+        "新モデルについての営業課の意見をまとめた資料を準備する。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 旧モデルが発売されてからの売り上げについての資料を準備する。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (①):\n  - Email yêu cầu cụ thể đối với anh Takahara bên phòng Kinh doanh: '12日は初回となりますので、営業課では旧モデルの売り上げについての資料をご準備ください。昨年度分だけでなく、販売開始以降のものすべてをお願いします' (Vì ngày 12 là buổi đầu tiên, đề nghị phòng Kinh doanh chuẩn bị tài liệu về doanh số của mẫu cũ. Không chỉ riêng năm ngoái mà xin vui lòng chuẩn bị toàn bộ từ khi bắt đầu bán ra đến nay).\n  - Do đó việc Takahara phải làm trước buổi họp đầu tiên là chuẩn bị tài liệu doanh thu mẫu cũ từ thời điểm mở bán đến nay (旧モデルが発売されてからの売り上げについての資料を準備する). Phương án ① hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ② Thiếu sót: Bài ghi rõ '昨年度分だけでなく' (không chỉ năm ngoái), nên nếu chỉ chuẩn bị năm ngoái là không đúng yêu cầu.\n  - ③ Bẫy chủ thể: Bản tóm tắt mẫu mới và dự thảo tiến độ là do phòng Kế hoạch (bên gửi email) trình bày, không phải Takahara chuẩn bị.\n  - ④ Bẫy hình thức: Ý kiến của phòng Kinh doanh sẽ được lắng nghe/trao đổi trực tiếp tại cuộc họp sau khi nghe giải thích, chứ không yêu cầu lập thành văn bản báo cáo từ trước.\n\n【Dịch bài đọc】\nKính gửi anh Takahara - Phòng Kinh doanh,\nTôi là Yamashita bên phòng Kế hoạch.\nĐúng như thông báo của Trưởng phòng, từ ngày 12 chúng ta sẽ bắt đầu các cuộc họp liên tịch giữa phòng Kinh doanh và phòng Kế hoạch hướng tới việc ra mắt mẫu sản phẩm mới. Vì ngày 12 là buổi họp đầu tiên, kính đề nghị phòng Kinh doanh chuẩn bị tài liệu về doanh số của mẫu cũ. Xin vui lòng tập hợp toàn bộ số liệu kể từ khi bắt đầu mở bán đến nay chứ không chỉ riêng năm tài chính vừa qua. Tại cuộc họp đầu tiên, phía chúng tôi trước hết sẽ trình bày khái quát về mẫu mới cũng như dự thảo lịch trình sắp tới, sau đó rất mong được lắng nghe ý kiến đóng góp từ các anh chị phòng Kinh doanh. Xin chân thành cảm ơn anh."
+    },
+    {
+      "question_id": 5,
+      "question": "５６．筆者が言いたいことは何か。",
+      "context": "自分がのめりこんだ（注1）ことが、仕事として成立したなら、これほど楽しいことはないだろう。もしかしたらその感覚は、世の中の常識とは順番が逆なのかもしれない。本来はまず仕事ありき（注2）なのだろう。与えられた仕事をどう楽しめるかと考えるのがふつうなのかもしれない。\nでも仕事がただ与えられるだけのものだったら、やっぱり面白くするにも限界がある。自分が何を面白いと感じるか。まずそれありきで仕事を考えた方がいいと思うのだ。\n\n（注1）のめりこむ：熱中する\n（注2）～ありき：ここでは、～優先",
+      "options": [
+        "自分が楽しめそうな仕事を探すことが大切だ。",
+        "自分が興味を持てることを優先して仕事にするといい。",
+        "面白い仕事を与えられることが重要だ。",
+        "どんな仕事でも続けていれば楽しくなる。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 自分が興味を持てることを優先して仕事にするといい。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (②):\n  - Tác giả so sánh hai quan điểm: Xã hội thường nghĩ 'ưu tiên công việc trước, rồi cố tìm cách tận hưởng công việc được giao'. Nhưng tác giả khẳng định việc cố biến công việc được giao thành điều thú vị luôn có giới hạn.\n  - Tác giả đúc kết quan điểm ở câu kết: '自分が何を面白いと感じるか。まずそれありきで仕事を考えた方がいいと思うのだ' (Bản thân cảm thấy điều gì thú vị. Tôi cho rằng nên ưu tiên lấy chính điều đó làm điểm xuất phát để suy nghĩ và xây dựng công việc thì tốt hơn).\n  - Điều này đồng nghĩa: Nên ưu tiên những gì mình có hứng thú/đam mê để biến thành công việc (自分が興味を持てることを優先して仕事にするといい). Phương án ② hoàn toàn chuẩn xác.\n• Phân tích các phương án sai:\n  - ① Bẫy góc nhìn: Tác giả nhấn mạnh việc xuất phát từ chính đam mê nội tại của bản thân để tạo lập công việc ('仕事として成立したなら'), chứ không phải đi tìm kiếm thụ động một công việc bên ngoài có sẵn.\n  - ③ Trái ngược: Tác giả chỉ rõ nếu chỉ trông chờ được giao công việc thì sự thú vị luôn bị giới hạn (面白くするにも限界がある).\n  - ④ Lạc đề: Bài viết không hề đề cập đến ý 'cứ kiên trì làm công việc nào thì rồi cũng sẽ thấy vui'.\n\n【Dịch bài đọc】\nNếu những điều bản thân say mê có thể phát triển thành một công việc thực sự thì chẳng còn gì vui sướng bằng. Có lẽ cảm giác ấy có thứ tự ngược lại với lẽ thường của xã hội. Vốn dĩ thông thường người ta coi 'công việc là trên hết'. Nghĩ xem làm thế nào để tận hưởng công việc được giao có lẽ mới là điều bình thường. Nhưng nếu công việc chỉ đơn thuần là những thứ được giao phó từ người khác thì nỗ lực làm cho nó trở nên thú vị rốt cuộc cũng có giới hạn mà thôi. Bản thân mình cảm thấy điều gì là thú vị? Tôi nghĩ rằng trước hết nên lấy chính điều đó làm ưu tiên hàng đầu để định hướng công việc thì sẽ tốt hơn rất nhiều."
+    },
+    {
+      "question_id": 6,
+      "question": "５７．筆者によると、初めて選手に会うときに大切なことは何か。",
+      "context": "以下は、スポーツの指導者に向けて書かれた文章である。\n\n物事は、タイミングがすべてです。同じことを伝えるにしても、タイミングによって効果が変わります。いろいろなタイミングの種類がありますが、まず、初めて会ったときの相手に与える印象に気をつけましょう。\n相手に自分の第一印象を与えるチャンスは最初の一回だけです。話す相手が誰であろうと（注1）、あなたのメッセージの中で最初の一分が一番重要なのです。初めて指導する参加者に会うことがわかっているときには、最初に何を話すのかをよく考えて計画することはとても効果的です。\nまた、メッセージは即座に送ることです。特にフィードバック（注2）をする上で、選手にすぐにその場で伝えるほうが上達（注3）を早めます。（中略）\nしかし問題が起こって、自分が感情的になり、生産的にメッセージを伝えられないと判断したときは、少し間を置く必要もあるでしょう。このとき、相手の感情がどうであるか察知する（注4）ことが重要です。大事な試合を落とした直後は選手も興奮、落胆（注5）などさまざまな感情が入り交じっていて、生産的なパフォーマンス（注6）に関する話し合いは不可能なので、一日おいて（注7）話すほうがよいでしょう。こういうときは、人の話を聞いたり、批判を受け止める状態ではないので、いくら生産的なメッセージを用意してもまったく効果がありません。\n\n（注1）誰であろうと：誰であっても\n（注2）フィードバック：ここでは、動き方に対する指摘\n（注3）上達：技能が向上すること\n（注4）察知する：感じ取る\n（注5）落胆：失望\n（注6）パフォーマンス：ここでは、動き方・プレー\n（注7）一日おいて：日たってから",
+      "options": [
+        "指導の計画を立てておく。",
+        "最初に話すことを考えておく。",
+        "相手のことをよく調べておく。",
+        "一分で話せるように準備しておく。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 最初に話すことを考えておく。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (②):\n  - Trong đoạn 2, tác giả nhấn mạnh: '初めて指導する参加者に会うことがわかっているときには、最初に何を話すのかをよく考えて計画することはとても効果的です' (Khi biết mình sắp gặp các học viên/vận động viên mà mình lần đầu tiên hướng dẫn, việc suy nghĩ thấu đáo và lên kế hoạch xem trước tiên mình sẽ nói những gì là cực kỳ hiệu quả).\n  - Do đó điều quan trọng nhất khi lần đầu gặp vận động viên là phải chuẩn bị, suy nghĩ trước điều mình sẽ nói đầu tiên (最初に話すことを考えておく). Phương án ② khớp hoàn toàn với câu văn trong bài.\n• Phân tích các phương án sai:\n  - ① Sai trọng tâm: Bài nói lên kế hoạch về 'điều sẽ nói đầu tiên' (何を話すのかをよく考えて計画する) chứ không phải lên kế hoạch huấn luyện chuyên môn tổng thể.\n  - ③ Lạc đề: Văn bản không hề nhắc tới việc 'phải tìm hiểu, điều tra kỹ về đối phương'.\n  - ④ Bẫy từ vựng '1 phút': Bài nêu 1 phút đầu tiên là quan trọng nhất ('最初の一分が一番重要なのです'), chứ không bảo 'chuẩn bị để nói gói gọn trong vòng 1 phút'.\n\n【Dịch đoạn văn】\nMọi sự việc trên đời, thời điểm là tất cả. Dù truyền đạt cùng một nội dung nhưng hiệu quả sẽ thay đổi tùy thuộc vào thời điểm. Có rất nhiều loại thời điểm khác nhau, nhưng trước hết hãy chú ý đến ấn tượng tạo ra cho đối phương khi lần đầu gặp mặt. Cơ hội tạo ấn tượng đầu tiên cho người khác chỉ có duy nhất một lần. Dù người đối thoại là ai đi chăng nữa thì một phút đầu tiên trong thông điệp của bạn luôn là quan trọng nhất. Khi biết mình sắp gặp các thành viên lần đầu tiên được mình hướng dẫn, việc suy nghĩ kỹ càng và lên kế hoạch xem trước tiên sẽ nói điều gì là vô cùng hiệu quả."
+    },
+    {
+      "question_id": 7,
+      "question": "５８．筆者によると、選手が大事な試合に負けたときは、指導者はどうしたらよいか。",
+      "context": "以下は、スポーツの指導者に向けて書かれた文章である。\n\n物事は、タイミングがすべてです。同じことを伝えるにしても、タイミングによって効果が変わります。いろいろなタイミングの種類がありますが、まず、初めて会ったときの相手に与える印象に気をつけましょう。\n相手に自分の第一印象を与えるチャンスは最初の一回だけです。話す相手が誰であろうと（注1）、あなたのメッセージの中で最初の一分が一番重要なのです。初めて指導する参加者に会うことがわかっているときには、最初に何を話すのかをよく考えて計画することはとても効果的です。\nまた、メッセージは即座に送ることです。特にフィードバック（注2）をする上で、選手にすぐにその場で伝えるほうが上達（注3）を早めます。（中略）\nしかし問題が起こって、自分が感情的になり、生産的にメッセージを伝えられないと判断したときは、少し間を置く必要もあるでしょう。このとき、相手の感情がどうであるか察知する（注4）ことが重要です。大事な試合を落とした直後は選手も興奮、落胆（注5）などさまざまな感情が入り交じっていて、生産的なパフォーマンス（注6）に関する話し合いは不可能なので、一日おいて（注7）話すほうがよいでしょう。こういうときは、人の話を聞いたり、批判を受け止める状態ではないので、いくら生産的なメッセージを用意してもまったく効果がありません。\n\n（注1）誰であろうと：誰であっても\n（注2）フィードバック：ここでは、動き方に対する指摘\n（注3）上達：技能が向上すること\n（注4）察知する：感じ取る\n（注5）落胆：失望\n（注6）パフォーマンス：ここでは、動き方・プレー\n（注7）一日おいて：日たってから",
+      "options": [
+        "選手に役立つメッセージをすぐに伝える。",
+        "選手を批判せず、感情を受け入れてなぐさめる。",
+        "時間をあけてから、選手と話し合いをする。",
+        "その場で問題点を指摘したあと、選手自身に考えさせる。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 時間をあけてから、選手と話し合いをする。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (③):\n  - Tác giả phân tích tâm lý sau trận thua: Ngay sau khi thua trận đấu quan trọng, vận động viên ngập tràn cảm xúc kích động, thất vọng; lúc này họ không ở trạng thái sẵn sàng lắng nghe hay tiếp nhận phê bình. Vì vậy: '生産的なパフォーマンスに関する話し合いは不可能なので、一日おいて話すほうがよいでしょう' (Thảo luận mang tính xây dựng về chuyên môn là bất khả thi, do đó tốt hơn hết là hãy để cách ra một ngày rồi mới nói chuyện).\n  - 'Để cách ra một ngày rồi nói chuyện' chính là việc giãn cách thời gian rồi mới thảo luận cùng vận động viên (時間をあけてから、選手と話し合いをする). Phương án ③ hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ① Trái ngược: Ngay sau trận thua, nếu truyền đạt thông điệp ngay lập tức thì 'hoàn toàn không có tác dụng' (まったく効果がありません).\n  - ② Bẫy xoa dịu: Bài nói lúc đó vận động viên không thể tiếp nhận phê bình nên tránh nói ngay, chứ không bàn về việc phải 'an ủi, vỗ về cảm xúc'.\n  - ④ Sai hoàn toàn: Chỉ ra lỗi ngay tại chỗ lúc vận động viên đang khủng hoảng tâm lý là điều bài viết khuyến cáo không nên làm.\n\n【Dịch đoạn văn】\nTuy nhiên khi có vấn đề nảy sinh, nếu nhận thấy bản thân đang bị cảm xúc chi phối và không thể truyền đạt thông điệp một cách hiệu quả, ta cần phải tạo một khoảng dừng. Lúc này, việc thấu hiểu cảm xúc của đối phương là rất quan trọng. Ngay sau khi để thua một trận đấu quan trọng, vận động viên thường đan xen nhiều cảm xúc như kích động, suy sụp thất vọng, do đó việc thảo luận mang tính xây dựng về lối chơi là điều bất khả thi, tốt hơn hết là nên để sau một ngày rồi hãy nói chuyện. Vào những thời điểm như vậy, vận động viên chưa ở trạng thái sẵn sàng lắng nghe người khác hay tiếp nhận sự phê bình, nên dù bạn có chuẩn bị thông điệp mang tính xây dựng đến đâu thì cũng hoàn toàn không đem lại hiệu quả."
+    },
+    {
+      "question_id": 8,
+      "question": "５９．筆者によると、読書感想文が書ける本とはどのような本か。",
+      "context": "自慢ではないが、小中学時代、私はかなりな読書家だったと思う。学年でも上位に入るほうだったと思う。しかし、さあ読書感想文を書けと言われても、いっこうに書けないのだ。自分でも不思議だった。どうして、こんなに本を読んでいるのに書けないのか、わからなかった。\nつい先日、その永年の疑問が氷解した（注1）。私は、読書感想文が書けるような本を読んでいなかったのだ。といって、大人向けの妖しげな本ばかりだったわけではない。私が主に読んでいたのは、汽車の時刻表、地図帳、人名事典、旅行案内、百科事典、美術写真集、植物図鑑などの類（注2）であって、それらは、読書感想文を書けない種類の本だったのだ。\n世の中には、読むための本と、調べるための本がある。読むための本は最初から最後まで読まなければならない。たいてい、一人の人間が最初から最後まで書いている。一度退屈したら、挫折する（注3）しかない。小説や読み物はそのようなものだ。そして、それが読書感想文の扱える典型的な本なのだ。私が読んでいたのは、何か疑問があったときに読む本で、必要なページしか読まない。退屈する暇がない。（中略）\n世に読書嫌いと言われる子どもたちが多い。親は必死になって、いわゆる（注4）読み物の類を買い与える。面白がるのならそれでもいいけれど、そんな本はつまらない、と言う子がいてもおかしくはない。それでも、恐竜カタログは好きかもしれない。歌の本なら読むかもしれない。本の形をしているものに親しむことが大切なのではなかろうか（注5）。\n\n（注1）氷解する：ここでは、解決する\n（注2）類：種類のもの\n（注3）挫折する：ここでは、あきらめる\n（注4）いわゆる：一般的に言われている\n（注5）～ではなかろうか：～ではないだろうか",
+      "options": [
+        "子どもには理解するのが難しい本。",
+        "子どもでも退屈しないで読める本。",
+        "最後まで読む必要がある本。",
+        "疑問を解決してくれる本。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 最後まで読む必要がある本。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (③):\n  - Tác giả phân chia sách thành 2 loại: Sách để đọc (読むための本) và sách để tra cứu (調べるための本).\n  - Về sách để đọc (như tiểu thuyết, truyện đọc): '読むための本は最初から最後まで読まなければならない... そして、それが読書感想文の扱える典型的な本なのだ' (Sách để đọc thì phải đọc từ đầu đến cuối... Và đó chính là loại sách điển hình có thể dùng để viết bài cảm nhận đọc sách).\n  - Ngược lại, sách tra cứu (bản đồ, từ điển, bách khoa toàn thư...) chỉ đọc những trang cần thiết khi có thắc mắc, không phải đọc hết nên không viết bài cảm nhận theo khuôn mẫu được.\n  - Vì vậy, sách có thể viết cảm nhận đọc sách là cuốn sách cần phải đọc từ đầu đến cuối (最後まで読む必要がある本). Phương án ③ hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ① Lạc đề: Tác giả không bảo sách cảm nhận đọc sách phải là sách khó hiểu với trẻ em.\n  - ② Bẫy ngược: Sách đọc từ đầu đến cuối rất dễ khiến người đọc thấy chán và bỏ cuộc giữa chừng ('一度退屈したら、挫折するしかない'), trong khi sách tra cứu tác giả thích mới là sách không có lúc nào thấy chán ('退屈する暇がない').\n  - ④ Sai phân loại: Sách giúp giải quyết thắc mắc là sách tra cứu (調べるための本) - loại sách KHÔNG viết được bài cảm nhận đọc sách theo lời tác giả.\n\n【Dịch đoạn văn】\nTrên đời có sách để đọc và sách để tra cứu. Sách để đọc thì bắt buộc phải đọc từ đầu đến cuối. Thường là do một tác giả viết từ đầu tới cuối. Một khi đã thấy chán thì chỉ có nước bỏ dở giữa chừng. Tiểu thuyết và truyện đọc chính là loại như vậy. Và đó cũng là loại sách điển hình được dùng để viết bài cảm nhận đọc sách. Còn những cuốn sách mà tôi từng đọc là sách đọc mỗi khi có thắc mắc nào đó, tôi chỉ đọc đúng trang mình cần. Chẳng bao giờ có thời gian để mà thấy chán cả."
+    },
+    {
+      "question_id": 9,
+      "question": "６０．子どもと読書について、筆者の考えに合うのはどれか。",
+      "context": "自慢ではないが、小中学時代、私はかなりな読書家だったと思う。学年でも上位に入るほうだったと思う。しかし、さあ読書感想文を書けと言われても、いっこうに書けないのだ。自分でも不思議だった。どうして、こんなに本を読んでいるのに書けないのか、わからなかった。\nつい先日、その永年の疑問が氷解した（注1）。私は、読書感想文が書けるような本を読んでいなかったのだ。といって、大人向けの妖しげな本ばかりだったわけではない。私が主に読んでいたのは、汽車の時刻表、地図帳、人名事典、旅行案内、百科事典、美術写真集、植物図鑑などの類（注2）であって、それらは、読書感想文を書けない種類の本だったのだ。\n世の中には、読むための本と、調べるための本がある。読むための本は最初から最後まで読まなければならない。たいてい、一人の人間が最初から最後まで書いている。一度退屈したら、挫折する（注3）しかない。小説や読み物はそのようなものだ。そして、それが読書感想文の扱える典型的な本なのだ。私が読んでいたのは、何か疑問があったときに読む本で、必要なページしか読まない。退屈する暇がない。（中略）\n世に読書嫌いと言われる子どもたちが多い。親は必死になって、いわゆる（注4）読み物の類を買い与える。面白がるのならそれでもいいけれど、そんな本はつまらない、と言う子がいてもおかしくはない。それでも、恐竜カタログは好きかもしれない。歌の本なら読むかもしれない。本の形をしているものに親しむことが大切なのではなかろうか（注5）。\n\n（注1）氷解する：ここでは、解決する\n（注2）類：種類のもの\n（注3）挫折する：ここでは、あきらめる\n（注4）いわゆる：一般的に言われている\n（注5）～ではなかろうか：～ではないだろうか",
+      "options": [
+        "本の種類に関係なく、興味のある本を読めばいい。",
+        "読みたくなければ、無理に本を読まなくてもいい。",
+        "できるだけ多くの種類の本を読んだほうがいい。",
+        "最初は読み物よりもカタログなどを読めばいい。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 本の種類に関係なく、興味のある本を読めばいい。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (①):\n  - Ở đoạn cuối, tác giả khuyên các bậc phụ huynh không nên ép buộc con cái phải đọc tiểu thuyết/truyện đọc văn học: Trẻ con chê truyện đọc chán nhưng có thể sẽ thích danh mục khủng long, thích tập bài hát... Điều cốt lõi là: '本の形をしているものに親しむことが大切なのではなかろうか' (Chẳng phải việc trẻ trở nên gần gũi, yêu thích những thứ mang hình hài của cuốn sách mới là điều quan trọng hay sao?).\n  - Điều này có nghĩa: Bất kể là thể loại sách nào, chỉ cần là cuốn sách mà trẻ có hứng thú thì cứ để trẻ đọc (本の種類に関係なく、興味のある本を読めばいい). Phương án ① hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ② Bẫy tiêu cực: Tác giả không khuyến khích từ bỏ việc đọc sách, mà khuyên hãy tìm loại sách phù hợp với sở thích của trẻ.\n  - ③ Lạc đề: Tác giả không hề yêu cầu trẻ phải đọc càng nhiều thể loại sách càng tốt.\n  - ④ Bẫy thứ tự cứng nhắc: Tác giả chỉ nêu danh mục hay tập bài hát là ví dụ về sự đa dạng sở thích, chứ không áp đặt quy tắc 'ban đầu phải đọc danh mục trước rồi mới đọc truyện'.\n\n【Dịch đoạn văn】\nTrên đời có nhiều đứa trẻ bị coi là lười đọc sách. Cha mẹ thường cuống cuồng mua cho con những cuốn truyện đọc thông thường. Nếu trẻ thấy thích thì cũng tốt, nhưng nếu có đứa trẻ bảo những cuốn sách ấy thật tẻ nhạt thì cũng chẳng có gì lạ. Dù vậy, có thể đứa trẻ ấy lại thích một cuốn danh mục về khủng long. Hay có khi lại thích đọc một cuốn sách tập hợp các bài hát. Chẳng phải việc giúp trẻ trở nên gần gũi, gắn bó với những thứ mang hình hài của một cuốn sách mới là điều quan trọng hay sao?"
+    },
+    {
+      "question_id": 10,
+      "question": "６１．筆者によると、映像作品の作者はどのような姿勢で作品を作らなければならないか。",
+      "context": "映像作品においては、作者が意識していることや認識（注1）していることが、見る者に必ずそのまま伝達される（注2）わけではない。会話のように双方向的なやりとりであるなら、自分が言おうとすることを相手が理解できなかった場合には質問が戻ってくる。ところが映像による表現は、印刷物がそうであるのと同じく、基本的に一方向的な伝達である。ゆえに（注3）映像の作者は、目の前にいない受け手がどのように理解するかを考えて、制作を行う必要がある。\n作者は、自らの思考や意志のもとに作品を加工（注4）していくが、そこで扱う内容を作者自身は十分に知っているため、説明の不足や整理の不十分さに気づかない場合がある。作品のわかりにくさや混乱は、見る者に不快さやつまらなさを感じさせ、作者の思考や意志を理解することを妨げるばかりでプラスに作用（注5）することは少ない。この問題を解決するためには、見る者はなにも知らない状態で見ているという認識を、作者はもつべきである。\nしかし相手がなにも知らないからといって、すべてを説明しなければならないわけでもない。（中略）細かすぎる地図が必ずしもわかりやすい地図ではないのと同じで、必要なことだけを整理して伝えるべきなのだ。自分の映像作品に含まれている情報、たとえばひとつのショット（注6）の画像がどのような意味や情報を含んでいるか、あるいは含むべきかについて注意を払い、整理しておく。これは、上手に話をしようとするときに、言葉を選び、話の順番を考えることに似ている。\n\n（注1）認識する：理解する\n（注2）伝達する：伝える\n（注3）ゆえに：したがって\n（注4）加工する：ここでは、作り上げる\n（注5）作用する：働く\n（注6）ショット：場面",
+      "options": [
+        "会話のように見る者とのやりとりを意識する。",
+        "見る者が楽しめる内容をあつかうようにする。",
+        "見る者が自身と同じ思考をもてるようにする。",
+        "見る者がなにも知らないことを前提にする。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 見る者がなにも知らないことを前提にする。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (④):\n  - Trong đoạn 2, tác giả chỉ ra cái bẫy của người làm phim/video: vì bản thân tác giả đã hiểu quá rõ nội dung nên dễ bỏ qua sự thiếu sót trong giải thích, khiến người xem cảm thấy khó hiểu và nhàm chán.\n  - Để giải quyết vấn đề này: 'この問題を解決するためには、見る者はなにも知らない状態で見ているという認識を、作者はもつべきである' (Để giải quyết vấn đề này, tác giả cần nhận thức rằng người xem đang xem trong trạng thái hoàn toàn không biết gì).\n  - Nhận thức người xem không biết gì chính là lấy việc 'người xem không biết gì làm tiền đề khi sáng tác' (見る者がなにも知らないことを前提にする). Phương án ④ khớp hoàn toàn.\n• Phân tích các phương án sai:\n  - ① Bẫy tương phản: Tác giả nhấn mạnh phim ảnh là truyền đạt MỘT CHIỀU ('基本的に一方向的な伝達である'), khác hoàn toàn với giao tiếp hai chiều như hội thoại ('会話のように双方向的なやりとりではない').\n  - ② Bẫy mục đích bề nổi: Việc làm cho tác phẩm dễ hiểu là phương tiện để truyền tải suy nghĩ, bài không đặt trọng tâm vào việc chọn nội dung mua vui/giải trí thuần túy.\n  - ③ Bẫy sai lệch: Tác giả muốn người xem hiểu được suy nghĩ của mình, chứ không phải bắt người xem phải có cùng kiểu tư duy như tác giả.\n\n【Dịch đoạn văn】\nTrong các tác phẩm phim ảnh/video, những gì tác giả ý thức và nhận thức được chưa chắc đã được truyền tải nguyên vẹn tới người xem. Nếu là sự trao đổi hai chiều như trong hội thoại, khi đối phương không hiểu điều mình nói thì họ sẽ hỏi lại. Thế nhưng sự biểu đạt bằng hình ảnh, cũng giống như ấn phẩm in ấn, về cơ bản là sự truyền đạt một chiều. Do đó, người sáng tạo video cần phải suy nghĩ xem người tiếp nhận (vốn không có mặt trước mắt mình) sẽ hiểu tác phẩm như thế nào để tiến hành sản xuất.\nTác giả thường tạo nên tác phẩm dựa trên suy nghĩ và ý chí của bản thân, nhưng vì chính tác giả đã hiểu quá rõ nội dung mình làm nên đôi khi không nhận ra sự thiếu sót trong diễn giải hay sự sắp xếp chưa thấu đáo. Sự khó hiểu và lộn xộn của tác phẩm sẽ mang lại cảm giác khó chịu, tẻ nhạt cho người xem, cản trở việc thấu hiểu suy nghĩ của tác giả chứ hiếm khi đem lại tác dụng tích cực. Để giải quyết vấn đề này, người sáng tạo cần phải luôn tâm niệm rằng: người xem đang theo dõi tác phẩm trong tình trạng hoàn toàn chưa biết gì."
+    },
+    {
+      "question_id": 11,
+      "question": "６２．筆者によると、映像作品の制作で目指すことと、上手に話をすることの似ている点はなにか。",
+      "context": "映像作品においては、作者が意識していることや認識（注1）していることが、見る者に必ずそのまま伝達される（注2）わけではない。会話のように双方向的なやりとりであるなら、自分が言おうとすることを相手が理解できなかった場合には質問が戻ってくる。ところが映像による表現は、印刷物がそうであるのと同じく、基本的に一方向的な伝達である。ゆえに（注3）映像の作者は、目の前にいない受け手がどのように理解するかを考えて、制作を行う必要がある。\n作者は、自らの思考や意志のもとに作品を加工（注4）していくが、そこで扱う内容を作者自身は十分に知っているため、説明の不足や整理の不十分さに気づかない場合がある。作品のわかりにくさや混乱は、見る者に不快さやつまらなさを感じさせ、作者の思考や意志を理解することを妨げるばかりでプラスに作用（注5）することは少ない。この問題を解決するためには、見る者はなにも知らない状態で見ているという認識を、作者はもつべきである。\nしかし相手がなにも知らないからといって、すべてを説明しなければならないわけでもない。（中略）細かすぎる地図が必ずしもわかりやすい地図ではないのと同じで、必要なことだけを整理して伝えるべきなのだ。自分の映像作品に含まれている情報、たとえばひとつのショット（注6）の画像がどのような意味や情報を含んでいるか、あるいは含むべきかについて注意を払い、整理しておく。これは、上手に話をしようとするときに、言葉を選び、話の順番を考えることに似ている。\n\n（注1）認識する：理解する\n（注2）伝達する：伝える\n（注3）ゆえに：したがって\n（注4）加工する：ここでは、作り上げる\n（注5）作用する：働く\n（注6）ショット：場面",
+      "options": [
+        "すべてを説明するのではなく、必要な情報を整理して伝えること。",
+        "相手が知らない多くの情報を、できるだけ整理して伝えること。",
+        "わかりやすくするだけではなく、内容を詳しく伝えること。",
+        "言葉の意味に注意を払うよりも、順番を考えて伝えること。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① すべてを説明するのではなく、必要な情報を整理して伝えること。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (①):\n  - Ở đoạn 3, tác giả phân tích: 'しかし相手がなにも知らないからといって、すべてを説明しなければならないわけでもない... 必要なことだけを整理して伝えるべきなのだ' (Tuy nhiên không phải vì người xem chưa biết gì mà cái gì ta cũng phải giải thích hết... Mà cần phải chắt lọc, sắp xếp những điều cần thiết nhất để truyền đạt).\n  - Tác giả so sánh việc này với việc nói chuyện hay: 'これは、上手に話をしようとするときに、言葉を選び、話の順番を考えることに似ている' (Điều này tương tự như khi muốn nói chuyện hay, ta phải chọn lọc ngôn từ và cân nhắc thứ tự câu chuyện).\n  - Điểm tương đồng giữa làm video và nói chuyện hay chính là: Không giải thích tràn lan mọi thứ, mà chọn lọc và sắp xếp những thông tin thực sự cần thiết để truyền đạt (すべてを説明するのではなく、必要な情報を整理して伝えること). Phương án ① hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ② Bẫy số lượng: Không phải nhồi nhét 'nhiều thông tin' (多くの情報), tác giả ví von bản đồ quá chi tiết chưa chắc đã dễ hiểu, chỉ nên đưa thông tin cần thiết.\n  - ③ Bẫy chi tiết: Truyền đạt quá chi tiết (詳しく伝える) đi ngược lại với nguyên tắc súc tích, tinh lọc của tác giả.\n  - ④ Bẫy so sánh lệch: Tác giả nói phải chú ý cả ý nghĩa của từng cảnh/từ ngữ LẪN trật tự sắp xếp, không hề nói cái nào quan trọng hơn cái nào.\n\n【Dịch đoạn văn】\nTuy nhiên, không phải vì đối phương chưa biết gì mà ta bắt buộc phải giải thích tường tận tất cả mọi thứ. Giống như một tấm bản đồ quá chi tiết chưa hẳn đã là tấm bản đồ dễ hiểu, chúng ta chỉ nên chọn lọc và sắp xếp những điều thực sự cần thiết để truyền tải mà thôi. Hãy chú ý và sắp xếp thông tin có trong tác phẩm của mình, chẳng hạn như hình ảnh của một khung hình mang ý nghĩa gì, chứa thông tin gì hoặc nên chứa thông tin gì. Điều này cũng tương tự như khi ta muốn nói chuyện một cách khéo léo: ta phải biết chọn lọc từ ngữ và cân nhắc thứ tự trước sau của câu chuyện."
+    },
+    {
+      "question_id": 12,
+      "question": "６３．大人が子どもに夢を問うときの問題点について、筆者はどのように述べているか。",
+      "context": "そもそも（注1）大人が「夢」を子どもに問うとき、「高い目標に向かって突き進め。そして必ず成功しろ」という期待を押しつけている感じがします。「夢＝成功すること」になってしまっている。そういう大人の意図を、子どもは敏感に察知します（注2）。高い目標を目指すことはいいことですが、そればかりでは子どもは疲れてしまいます。（中略）\n本来、「夢」という言葉は、もっと広い意味のはず。「職業」だけでなく、「どんな人間になりたいか」「どんな暮らしをしたいか」という願いも含んでいます。「友だちを裏切らない人間になりたい」「自然に囲まれて暮らしたい」といった夢だっていいのです。そのほうがずっと具体的で、その子が今持っている思いや願いや時には（注3）悩みを含んでいることだってあります。\n「夢は何？」という問いへの子どもの答えにもっと耳を傾け、深く掘り下げて語り合いましょう。子どもが語る「夢」に含まれる、小さなつぶやきや（注4）、表に出てきづらい願いを、無視しないでください。たとえば、「子どもを産んで、幸せな家庭を築きたい」という子どもの夢には、今の家庭への不満や将来への不安が隠れているかも知れません。親子で夢について深く語り合うことで、子どもの気持ちがよくわかってきます。子どもの答えの背景（注5）にどんな思いや願いやあこがれが込められているのかを、読み取ってあげませんか。\n\n（注1）そもそも：ここでは、普通\n（注2）察知する：気づく\n（注3）時には：ある時は\n（注4）つぶやき：独り言\n（注5）背景：物事の裏にある事情",
+      "options": [
+        "大人がいいと考える目標を求めがちだ。",
+        "大人でも実現できない目標を求めがちだ。",
+        "子どもが思いつかない目標を求めがちだ。",
+        "子どもが興味を示さない目標を求めがちだ。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 大人がいいと考える目標を求めがちだ。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (①):\n  - Ở đoạn 1, tác giả chỉ ra thực trạng: '大人が「夢」を子どもに問うとき、「高い目標に向かって突き進め。そして必ず成功しろ」という期待を押しつけている感じがします。「夢＝成功すること」になってしまっている' (Khi người lớn hỏi trẻ về ước mơ, dường như người lớn đang áp đặt kỳ vọng: Hãy tiến về mục tiêu cao cả và nhất định phải thành công! Ước mơ đã bị đồng hóa thành Sự thành công).\n  - Người lớn có xu hướng đòi hỏi và áp đặt những mục tiêu mà chính người lớn cho là tốt đẹp, thành đạt lên con trẻ (大人がいいと考える目標を求めがちだ). Phương án ① hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ② Sai lệch: Bài không bàn về việc mục tiêu đó người lớn có thực hiện được hay không.\n  - ③ Lạc đề: Người lớn không đòi hỏi mục tiêu trẻ không nghĩ ra, mà là áp đặt định nghĩa ước mơ phải là thành đạt, nghề nghiệp cao sang.\n  - ④ Sai: Trẻ nhạy cảm nhận ra kỳ vọng của người lớn và cố đáp ứng nên mới cảm thấy mệt mỏi, bài không nói mục tiêu trẻ không quan tâm.\n\n【Dịch đoạn văn】\nVốn dĩ khi người lớn hỏi trẻ em về 'ước mơ', tôi có cảm giác người lớn đang áp đặt kỳ vọng của mình: 'Hãy dốc sức hướng tới mục tiêu thật cao, và nhất định phải thành công nhé!'. 'Ước mơ' đã vô tình bị đánh đồng với 'sự thành công'. Trẻ nhỏ rất nhạy cảm để nhận biết được ý đồ đó của người lớn. Việc hướng tới những mục tiêu cao đẹp là điều tốt, nhưng nếu lúc nào cũng chỉ có như vậy thì trẻ sẽ trở nên vô cùng mệt mỏi."
+    },
+    {
+      "question_id": 13,
+      "question": "６４．筆者が最も言いたいことは何か。",
+      "context": "そもそも（注1）大人が「夢」を子どもに問うとき、「高い目標に向かって突き進め。そして必ず成功しろ」という期待を押しつけている感じがします。「夢＝成功すること」になってしまっている。そういう大人の意図を、子どもは敏感に察知します（注2）。高い目標を目指すことはいいことですが、そればかりでは子どもは疲れてしまいます。（中略）\n本来、「夢」という言葉は、もっと広い意味のはず。「職業」だけでなく、「どんな人間になりたいか」「どんな暮らしをしたいか」という願いも含んでいます。「友だちを裏切らない人間になりたい」「自然に囲まれて暮らしたい」といった夢だっていいのです。そのほうがずっと具体的で、その子が今持っている思いや願いや時には（注3）悩みを含んでいることだってあります。\n「夢は何？」という問いへの子どもの答えにもっと耳を傾け、深く掘り下げて語り合いましょう。子どもが語る「夢」に含まれる、小さなつぶやきや（注4）、表に出てきづらい願いを、無視しないでください。たとえば、「子どもを産んで、幸せな家庭を築きたい」という子どもの夢には、今の家庭への不満や将来への不安が隠れているかも知れません。親子で夢について深く語り合うことで、子どもの気持ちがよくわかってきます。子どもの答えの背景（注5）にどんな思いや願いやあこがれが込められているのかを、読み取ってあげませんか。\n\n（注1）そもそも：ここでは、普通\n（注2）察知する：気づく\n（注3）時には：ある時は\n（注4）つぶやき：独り言\n（注5）背景：物事の裏にある事情",
+      "options": [
+        "大人は子どもに夢とは何かを伝えることが必要だ。",
+        "大人は子どもに夢の実現のしかたを教えてあげることが大切だ。",
+        "大人は子どもの夢に含まれる思いを理解することが大切だ。",
+        "大人は夢を語り合う前に、子どもの不安を取り除くことが必要だ。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 大人は子どもの夢に含まれる思いを理解することが大切だ。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (③):\n  - Xuyên suốt đoạn 2 và 3, tác giả kêu gọi các bậc phụ huynh: '子どもが語る「夢」に含まれる、小さなつぶやきや、表に出てきづらい願いを、無視しないでください... 子どもの答えの背景にどんな思いや願いやあこがれが込められているのかを、読み取ってあげませんか' (Đừng phớt lờ những thì thầm nhỏ bé hay những ước vọng khó bộc lộ ẩn trong ước mơ của trẻ... Hãy cùng lắng nghe và thấu hiểu xem phía sau câu trả lời của con ẩn chứa những tâm tư, nguyện vọng hay nỗi niềm gì).\n  - Điều tác giả muốn nhấn mạnh nhất chính là: Người lớn cần phải thấu hiểu những tâm tư, tình cảm ẩn chứa bên trong ước mơ của con trẻ (大人は子どもの夢に含まれる思いを理解することが大切だ). Phương án ③ phản ánh trọn vẹn thông điệp của bài viết.\n• Phân tích các phương án sai:\n  - ① Trái ngược: Người lớn không phải đi rao giảng, định nghĩa ước mơ là gì cho trẻ, mà phải lắng nghe trẻ.\n  - ② Lạc đề: Bài viết không bàn về phương pháp giúp trẻ hiện thực hóa ước mơ.\n  - ④ Sai thứ tự: Chính việc cùng trò chuyện và thấu hiểu ước mơ mới là cách giúp phát hiện và xoa dịu những bất an của trẻ, chứ không phải bài bảo 'phải xóa bỏ bất an trước rồi mới được nói về ước mơ'.\n\n【Dịch đoạn văn】\nThực ra, từ 'ước mơ' vốn mang ý nghĩa rộng lớn hơn thế rất nhiều. Nó không chỉ là 'nghề nghiệp', mà còn bao hàm cả ước muốn 'mình muốn trở thành người như thế nào', 'mình muốn có một cuộc sống ra sao'. Những ước mơ như 'muốn trở thành một người không bao giờ phản bội bạn bè', 'muốn sống chan hòa giữa thiên nhiên' cũng đều rất đáng quý. Những điều đó cụ thể hơn nhiều, phản ánh tâm tư, nguyện vọng và đôi khi là cả những trăn trở mà đứa trẻ đang mang trong lòng.\nHãy lắng nghe nhiều hơn câu trả lời của trẻ trước câu hỏi 'Ước mơ của con là gì?', hãy cùng con trò chuyện thật sâu sắc. Đừng phớt lờ những lời thủ thỉ nhỏ bé, những ước muốn khó cất thành lời ẩn chứa trong ước mơ mà con kể. Chẳng hạn, ước mơ 'sau này sinh con và xây dựng một gia đình hạnh phúc' có thể đang ẩn giấu nỗi niềm bất an về tương lai hay sự chưa hài lòng với mái ấm gia đình hiện tại. Khi cha mẹ và con cái cùng trò chuyện sâu sắc về ước mơ, cha mẹ sẽ thấu hiểu tâm tư của con mình hơn rất nhiều. Sao chúng ta không thử lắng nghe để thấu hiểu xem ẩn sau câu trả lời của con là những tình cảm, ước mong hay khát khao cháy bỏng nào?"
+    },
+    {
+      "question_id": 14,
+      "question": "６５．緊張することについて、AとBが共通して述べていることは何か。",
+      "context": "A\n面接や発表などで、緊張を恐れるあまり、ますます緊張してしまう人がいる。適度に緊張している状態は、集中力を高める効果があるので、緊張をなくそうとする必要はない。それより、緊張している状態でも自分の力を出せるようにしたほうがいい。\n緊張しているときに大事なのは、うまくできた状況を思い描くことだ。りゅうちょうに話している自分の姿を具体的にイメージするのだ。繰り返しイメージすることで、実際にうまくできるように思えてくる。失敗したときのことを考えるのは、緊張が増すだけだからやめたほうがいい。緊張は誰にでも起こり得ることなので、うまく付き合っていくことが大切だ。\n\nB\n面接や発表などの際は、なぜ緊張するのだろうか。それは「能力があるように見られたい」という思いが強すぎることが大きな原因だ。他人によい姿を見せたいと思っていると、失敗するのが怖くなり緊張してしまう。できるだけ緊張しないようにするには、他人を意識しないことが大事だ。自分をよく見せることではなく、伝えたいことをきちんと伝えることに意識を向ければ、気持ちが落ち着いてくるはずだ。\nまた、よく緊張してはいけないと思う人がいるが、緊張している姿から真剣さが伝わり、逆に好印象を与えることがある。だから、緊張を恐れなくてもいいと思う。",
+      "options": [
+        "緊張するのは悪いことではない。",
+        "緊張しない方法を考えても意味がない。",
+        "緊張しているほうが自分の力が出せる。",
+        "失敗を防ぐには、できるだけ緊張しないほうがいい。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 緊張するのは悪いことではない。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (①):\n  - Đoạn A khẳng định: '適度に緊張している状態は、集中力を高める効果があるので、緊張をなくそうとする必要はない' (Trạng thái căng thẳng vừa phải có tác dụng nâng cao sự tập trung, vì vậy không cần thiết phải cố loại bỏ căng thẳng).\n  - Đoạn B khẳng định: 'また、よく緊張してはいけないと思う人がいるが、緊張している姿から真剣さが伝わり、逆に好印象を与えることがある。だから、緊張を恐れなくてもいいと思う' (Mọi người thường nghĩ không được căng thẳng, nhưng dáng vẻ căng thẳng truyền đi sự nghiêm túc và ngược lại có thể tạo ấn tượng tốt. Vì thế không cần phải sợ căng thẳng).\n  - Cả A và B đều chung quan điểm: Việc bị căng thẳng không phải là điều xấu (緊張するのは悪いことではない). Phương án ① hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ② Sai: Cả hai tác giả đều đưa ra giải pháp xử lý tâm lý khi căng thẳng (A khuyên hình dung thành công, B khuyên tập trung vào nội dung truyền đạt thay vì để ý ánh mắt người khác).\n  - ③ Sai lệch: A chỉ nói căng thẳng vừa phải giúp tập trung và nên học cách phát huy năng lực ngay cả khi căng thẳng, chứ không nói căng thẳng thì phát huy tốt hơn bình thường; B không khẳng định điều này.\n  - ④ Trái ngược quan điểm: Cả hai đều cho rằng không cần cố gắng loại bỏ căng thẳng bằng mọi giá.\n\n【Dịch bài đọc】\n[Đoạn A]\nTrong các buổi phỏng vấn hay thuyết trình, có những người vì quá sợ căng thẳng mà lại càng trở nên căng thẳng hơn. Trạng thái căng thẳng ở mức độ vừa phải có tác dụng nâng cao khả năng tập trung, vì vậy không cần thiết phải cố loại bỏ căng thẳng. Thay vào đó, tốt hơn là hãy học cách phát huy năng lực của mình ngay cả trong trạng thái căng thẳng. Điều quan trọng khi căng thẳng là hãy hình dung ra viễn cảnh mình làm thật tốt. Hãy tưởng tượng cụ thể hình ảnh bản thân đang nói năng lưu loát. Bằng việc lặp đi lặp lại hình ảnh đó, bạn sẽ cảm thấy thực tế mình cũng có thể làm tốt. Đừng bao giờ nghĩ đến viễn cảnh thất bại vì điều đó chỉ làm tăng thêm căng thẳng mà thôi. Căng thẳng là điều có thể xảy ra với bất kỳ ai, điều quan trọng là biết sống chung hòa hợp với nó.\n\n[Đoạn B]\nTại sao khi phỏng vấn hay thuyết trình chúng ta lại căng thẳng? Nguyên nhân lớn là do khao khát 'muốn được nhìn nhận là người có năng lực' quá mạnh mẽ. Khi luôn muốn phô diễn hình ảnh tốt đẹp trước người khác, ta sẽ sợ thất bại và đâm ra căng thẳng. Để hạn chế căng thẳng, điều quan trọng là đừng quá để tâm đến người khác. Thay vì nghĩ làm sao để chứng tỏ bản thân, hãy hướng sự tập trung vào việc truyền đạt trọn vẹn những gì mình muốn nói, khi đó tâm trạng sẽ tự khắc bình tĩnh trở lại. Thêm vào đó, nhiều người thường nghĩ rằng không được để bị căng thẳng, nhưng chính dáng vẻ căng thẳng lại truyền đi sự nghiêm túc, chân thành và đôi khi đem lại ấn tượng tốt đẹp cho người đối diện. Vì vậy, tôi nghĩ bạn không cần phải sợ hãi sự căng thẳng."
+    },
+    {
+      "question_id": 15,
+      "question": "６６．AとBは、緊張していると感じたときに、どうしたらいいと述べているか。",
+      "context": "A\n面接や発表などで、緊張を恐れるあまり、ますます緊張してしまう人がいる。適度に緊張している状態は、集中力を高める効果があるので、緊張をなくそうとする必要はない。それより、緊張している状態でも自分の力を出せるようにしたほうがいい。\n緊張しているときに大事なのは、うまくできた状況を思い描くことだ。りゅうちょうに話している自分の姿を具体的にイメージするのだ。繰り返しイメージすることで、実際にうまくできるように思えてくる。失敗したときのことを考えるのは、緊張が増すだけだからやめたほうがいい。緊張は誰にでも起こり得ることなので、うまく付き合っていくことが大切だ。\n\nB\n面接や発表などの際は、なぜ緊張するのだろうか。それは「能力があるように見られたい」という思いが強すぎることが大きな原因だ。他人によい姿を見せたいと思っていると、失敗するのが怖くなり緊張してしまう。できるだけ緊張しないようにするには、他人を意識しないことが大事だ。自分をよく見せることではなく、伝えたいことをきちんと伝えることに意識を向ければ、気持ちが落ち着いてくるはずだ。\nまた、よく緊張してはいけないと思う人がいるが、緊張している姿から真剣さが伝わり、逆に好印象を与えることがある。だから、緊張を恐れなくてもいいと思う。",
+      "options": [
+        "AもBも、できるだけ結果のことを考えないようにしたほうがいいと述べている。",
+        "AもBも、必要以上に格好をつけようと思うのをやめたほうがいいと述べている。",
+        "Aは失敗した状況をイメージしないほうがいいと述べ、Bは自分がなぜ緊張しているのか考えたほうがいいと述べている。",
+        "Aは成功した自分を想像したほうがいいと述べ、Bは自分をよく見せようと考えるのをやめたほうがいいと述べている。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ Aは成功した自分を想像したほうがいいと述べ、Bは自分をよく見せようと考えるのをやめたほうがいいと述べている。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (④):\n  - Tác giả đoạn A đưa ra lời khuyên: '緊張しているときに大事なのは、うまくできた状況を思い描くことだ。りゅうちょうに話している自分の姿を具体的にイメージするのだ' -> Hãy hình dung bản thân thành công, nói năng lưu loát (成功した自分を想像したほうがいい).\n  - Tác giả đoạn B đưa ra lời khuyên: '自分をよく見せることではなく、伝えたいことをきちんと伝えることに意識を向ければ、気持ちが落ち着いてくるはずだ' -> Đừng mải mê cố thể hiện mình cho thật hoàn hảo trước mắt người khác (自分をよく見せようと考えるのをやめたほうがいい).\n  - Do đó phương án ④ tóm lược hoàn toàn chính xác và tương ứng lời khuyên của cả hai tác giả.\n• Phân tích các phương án sai:\n  - ① Sai: A khuyên nên hình dung kết quả tốt đẹp (うまくできた状況を思い描く), chứ không bảo 'không nghĩ đến kết quả'.\n  - ② Bẫy quy chụp: Chỉ có B đề cập đến việc không nên cố tỏ ra có năng lực trước mặt người khác, A không nói ý này.\n  - ③ Sai về B: B phân tích nguyên nhân căng thẳng để khuyên hướng tâm trí vào nội dung truyền đạt, chứ không bảo khi đang căng thẳng thì hãy ngồi suy ngẫm lý do vì sao mình căng thẳng."
+    },
+    {
+      "question_id": 16,
+      "question": "６７．筆者によると、情報を加工するとはどうすることか。",
+      "context": "以下は、ある大学の教員が書いた文章である。\n\n勉強とは加工業のようなものではないかと思います。部品や素材を加工して自動車をつくるのと同じように、いろいろな知識や情報という材料を取り入れて、それを自分の中で加工して違った形、違ったアイデアにする。そして、それをほかの人たちに伝えたり、自分の日々の生活や仕事の決定に活かしたりする。私の場合で言えば、論文の形になるか、学生に教える話になるかで、出てくる形は自動車とはだいぶ違いますが、でも加工をして何かを生み出しています。（中略）\n学者に限らずどんな人でも、日々、情報を選んだり、編集したりという形で、情報を加工しています。直接的に何かを発信しなくても、自分の選択や判断、行動というのは、自分の中に取り入れた情報や知識や理論を加工した結果、出てきているのです。\nその加工をする際、大切なのは、自分の中で「熟成させる」という過程です。ここで「熟成させる」というのは、自分の中でしっかりその情報を吟味して、その意味を考え、自分のものにする作業です。それには多少の時間がかかりますが、私はこれが、学ぶことにおける一番大事なプロセスだと思っています。\nとりわけ今は、新しい知識や「情報」というのは、ほうっておいても入ってくる時代です。あまりにいろいろな情報や知識が押し寄せてくるので、つい情報や知識を収集することに力を入れすぎて、「熟成」させることが（私自身も含めて）、おろそかになりがちです。\nまた、学んだことをすぐ活かせないといけないとか、すぐに行動を起こせないといけないとか、何か、社会全般が即席生産、促成栽培のようになっている気がするのです。\nこういう時代だからこそ、相対的に大事になってくるのは、得られた情報や知識を自分の中でどう加工するかをじっくり考え熟成させることです。入ってきた情報を使って、じっくり時間をかけて考えたうえで、自分なりの考えを生み出し、行動に移すこと、それが大事ではないかと思うのです。",
+      "options": [
+        "新しいアイディアを得るために、情報を加える。",
+        "選んだ情報を自分の目的に合った形にする。",
+        "情報を編集して、どんな人にでもはっきり伝わる形にする。",
+        "自分の持っていた情報を活かして、新しいアイディアを生み出す。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 自分の持っていた情報を活かして、新しいアイディアを生み出す。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (④):\n  - Ở đoạn 1, tác giả ví von học tập với ngành công nghiệp chế biến, gia công: '部品や素材を加工して自動車をつくるのと同じように、いろいろな知識や情報という材料を取り入れて、それを自分の中で加工して違った形、違ったアイデアにする... でも加工をして何かを生み出しています' (Giống như việc gia công linh kiện để chế tạo ô tô, ta tiếp nhận vật liệu là các tri thức và thông tin, rồi tự mình nhào nặn gia công thành hình thái khác, ý tưởng khác... gia công để tạo ra một điều gì đó mới mẻ).\n  - Vì vậy, gia công thông tin chính là việc vận dụng những thông tin, tri thức mình có để sản sinh ra những ý tưởng mới mẻ mang dấu ấn của bản thân (自分の持っていた情報を活かして、新しいアイディアを生み出す). Phương án ④ hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ① Bẫy chữ '加える' (thêm thông tin vào): '加工' (gia công, nhào nặn) không đơn thuần là phép cộng dồn thêm thông tin.\n  - ② Bẫy thu hẹp: Tác giả nhấn mạnh tạo ra ý tưởng mới (違ったアイデアにする, 何かを生み出している), không chỉ là sửa đổi theo mục đích có sẵn.\n  - ③ Bẫy đối tượng: Tác giả nêu kết quả gia công có thể dùng cho chính mình (lựa chọn, hành động, sinh hoạt hàng ngày) chứ không bắt buộc phải biến thành dạng để truyền đạt rõ ràng cho tất cả mọi người."
+    },
+    {
+      "question_id": 17,
+      "question": "６８．情報や知識の扱い方の問題点について、筆者はどのように述べているか。",
+      "context": "以下は、ある大学の教員が書いた文章である。\n\n勉強とは加工業のようなものではないかと思います。部品や素材を加工して自動車をつくるのと同じように、いろいろな知識や情報という材料を取り入れて、それを自分の中で加工して違った形、違ったアイデアにする。そして、それをほかの人たちに伝えたり、自分の日々の生活や仕事の決定に活かしたりする。私の場合で言えば、論文の形になるか、学生に教える話になるかで、出てくる形は自動車とはだいぶ違いますが、でも加工をして何かを生み出しています。（中略）\n学者に限らずどんな人でも、日々、情報を選んだり、編集したりという形で、情報を加工しています。直接的に何かを発信しなくても、自分の選択や判断、行動というのは、自分の中に取り入れた情報や知識や理論を加工した結果、出てきているのです。\nその加工をする際、大切なのは、自分の中で「熟成させる」という過程です。ここで「熟成させる」というのは、自分の中でしっかりその情報を吟味して、その意味を考え、自分のものにする作業です。それには多少の時間がかかりますが、私はこれが、学ぶことにおける一番大事なプロセスだと思っています。\nとりわけ今は、新しい知識や「情報」というのは、ほうっておいても入ってくる時代です。あまりにいろいろな情報や知識が押し寄せてくるので、つい情報や知識を収集することに力を入れすぎて、「熟成」させることが（私自身も含めて）、おろそかになりがちです。\nまた、学んだことをすぐ活かせないといけないとか、すぐに行動を起こせないといけないとか、何か、社会全般が即席生産、促成栽培のようになっている気がするのです。\nこういう時代だからこそ、相対的に大事になってくるのは、得られた情報や知識を自分の中でどう加工するかをじっくり考え熟成させることです。入ってきた情報を使って、じっくり時間をかけて考えたうえで、自分なりの考えを生み出し、行動に移すこと、それが大事ではないかと思うのです。",
+      "options": [
+        "情報や知識の意味を考えすぎる。",
+        "情報や知識を収集することだけに重点を置く。",
+        "情報や知識が多くて、必要なものが見えなくなる。",
+        "情報や知識に手を加えることに時間をかけすぎる。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 情報や知識を収集することだけに重点を置く。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (②):\n  - Ở đoạn 4, tác giả chỉ ra căn bệnh của thời đại thông tin bùng nổ: 'あまりにいろいろな情報や知識が押し寄せてくるので、つい情報や知識を収集することに力を入れすぎて、「熟成」させることが... おろそかになりがちです' (Vì có quá nhiều thông tin và kiến thức dồn dập kéo đến, nên người ta thường chỉ mải mê dồn sức vào việc thu thập thông tin/tri thức mà xao nhãng việc nghiền ngẫm, chuyển hóa chúng).\n  - Như vậy, vấn đề nan giải hiện nay là mọi người chỉ đặt trọng tâm vào việc gom nhặt, thu thập thông tin (情報や知識を収集することだけに重点を置く). Phương án ② hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ① Trái ngược: Mọi người lười suy nghĩ, bỏ quên việc nghiền ngẫm ý nghĩa (熟成がおろそか) chứ không phải là 'suy nghĩ quá nhiều'.\n  - ③ Bẫy thông tin chung chung: Bài không nói 'không nhìn thấy cái cần thiết', mà nói thu thập quá nhiều nhưng không nghiền ngẫm.\n  - ④ Trái ngược: Xã hội đang theo xu hướng 'ăn liền, làm ngay' (即席生産), thiếu kiên nhẫn dành thời gian cho thông tin."
+    },
+    {
+      "question_id": 18,
+      "question": "６９．筆者が言いたいことは何か。",
+      "context": "以下は、ある大学の教員が書いた文章である。\n\n勉強とは加工業のようなものではないかと思います。部品や素材を加工して自動車をつくるのと同じように、いろいろな知識や情報という材料を取り入れて、それを自分の中で加工して違った形、違ったアイデアにする。そして、それをほかの人たちに伝えたり、自分の日々の生活や仕事の決定に活かしたりする。私の場合で言えば、論文の形になるか、学生に教える話になるかで、出てくる形は自動車とはだいぶ違いますが、でも加工をして何かを生み出しています。（中略）\n学者に限らずどんな人でも、日々、情報を選んだり、編集したりという形で、情報を加工しています。直接的に何かを発信しなくても、自分の選択や判断、行動というのは、自分の中に取り入れた情報や知識や理論を加工した結果、出てきているのです。\nその加工をする際、大切なのは、自分の中で「熟成させる」という過程です。ここで「熟成させる」というのは、自分の中でしっかりその情報を吟味して、その意味を考え、自分のものにする作業です。それには多少の時間がかかりますが、私はこれが、学ぶことにおける一番大事なプロセスだと思っています。\nとりわけ今は、新しい知識や「情報」というのは、ほうっておいても入ってくる時代です。あまりにいろいろな情報や知識が押し寄せてくるので、つい情報や知識を収集することに力を入れすぎて、「熟成」させることが（私自身も含めて）、おろそかになりがちです。\nまた、学んだことをすぐ活かせないといけないとか、すぐに行動を起こせないといけないとか、何か、社会全般が即席生産、促成栽培のようになっている気がするのです。\nこういう時代だからこそ、相対的に大事になってくるのは、得られた情報や知識を自分の中でどう加工するかをじっくり考え熟成させることです。入ってきた情報を使って、じっくり時間をかけて考えたうえで、自分なりの考えを生み出し、行動に移すこと、それが大事ではないかと思うのです。",
+      "options": [
+        "自分が考えたことを、日々の行動にすぐに役立てるべきだ。",
+        "自分の行動に活かせる知識や情報をじっくり選ぶことが大切だ。",
+        "自分で選択し、判断して行動するプロセスを学ぶことが大切だ。",
+        "知識や情報をじっくり考え自分のものにしてから、行動するべきだ。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 知識や情報をじっくり考え自分のものにしてから、行動するべきだ。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (④):\n  - Tác giả đúc kết thông điệp cốt lõi ở câu kết luận: 'こういう時代だからこそ、相対的に大事になってくるのは、得られた情報や知識を自分の中でどう加工するかをじっくり考え熟成させることです。入ってきた情報を使って、じっくり時間をかけて考えたうえで、自分なりの考えを生み出し、行動に移すこと、それが大事ではないかと思うのです' (Chính trong thời đại này, điều trở nên quan trọng hơn cả là phải dành thời gian nghiền ngẫm xem sẽ gia công thông tin tri thức ấy như thế nào. Dùng thông tin đã tiếp nhận, dành thời gian suy nghĩ thấu đáo để tạo ra tư duy của riêng mình rồi mới chuyển thành hành động, tôi nghĩ đó mới là điều quan trọng).\n  - Điều này đồng nghĩa: Cần suy nghĩ thấu đáo kiến thức và thông tin, biến chúng thành của mình rồi hãy hành động (知識や情報をじっくり考え自分のものにしてから、行動するべきだ). Phương án ④ phản ánh trọn vẹn kết luận của tác giả.\n• Phân tích các phương án sai:\n  - ① Trái ngược: Tác giả phê phán xu hướng 'mì ăn liền', học cái gì cũng đòi ứng dụng ngay tức khắc mà thiếu sự nghiền ngẫm (即席生産).\n  - ② Bẫy bước đầu: Việc lựa chọn thông tin chỉ là một khâu nhỏ, trọng tâm của tác giả là quá trình 'nghiền ngẫm, ủ chín' (熟成させる).\n  - ③ Lệch trọng tâm: Bài không bàn về việc học kỹ năng ra quyết định, mà bàn về chiều sâu tư duy và xử lý tri thức."
+    },
+    {
+      "question_id": 19,
+      "question": "７０．高校生の村田さんは「C平日夜間・土日(初心者)コース」に入会したいと思っている。姉がすでに同じコースを受講しているが、入会時に支払うものは何か。",
+      "context": "秋原テニススクール入会案内\n\nコース・クラスについて\n以下の四つのコースの中から、ご希望の曜日、時間のクラスをお選びいただけます。\n曜日、時間については、別紙をご確認ください。中学生以上から受講が可能です。\n各コースのクラスの定員：10名　　レッスン時間：60分\n\n[表: コース一覧]\n・A. 平日昼間(初心者)コース: 受講料(週一回、一ヶ月分) 8,800円\n・B. 平日昼間(中・上級者)コース: 受講料(週一回、一ヶ月分) 12,000円\n・C. 平日夜間・土日(初心者)コース: 受講料(週一回、一ヶ月分) 9,300円\n・D. 平日夜間・土日(中・上級者)コース: 受講料(週一回、一ヶ月分) 12,500円\n\n入会時のお支払い\nご入会の際に、入会金(6,600円)、年会費(2,200円)、受講料1ヶ月分を現金でお支払いください。受講料は、2ヶ月目から口座引き落としになります。\n\n割引制度\n複数の割引は同時に適応できません。一番条件のいい割引が一つ適用されます。\n[表: 割引制度一覧]\n・学生割引: 【適応対象】中学生、高校生 | 【割引内容】毎月の受講料を10%割引\n・複数のコース・クラス割引: 【適応対象】複数コース・クラスを受講する方 | 【割引内容】二つ目以降のコース・クラス毎月の受講料を50%割引\n・家族割引: 【適応対象】ご家族に本スクールの受講生がいる方 | 【割引内容】入会金無料、毎月の受講料を15%割引\n\n振り替え制度\n同じコースの他の曜日に振り替えて受講する場合フロントで事前にご予約ください。\n\n各種手続き\n以下の場合は、期日までにフロントでお手続きください。\n[表: 各種手続き期日]\n・変更(コースを変更したり、同じコース内で曜日・時間を変更する場合): 変更したい月の前月10日まで\n・退会(スクールをやめる場合): 最終受講の前月末日まで\n・休会(スクールを1ヶ月以上休む場合): 休会したい月の前月20日まで\n※ 手数料550円がかかります(入会後3ヶ月以内に手続きをする場合は無料)。\n電話：062-241-3998（9時～22時）\n〒433-0010 北高市朝中町 27\nホームページ：http://www.rikijp",
+      "options": [
+        "入会金、年会費、10%割引された受講料。",
+        "入会金、年会費、15%割引された受講料。",
+        "年会費、15%割引された受講料。",
+        "年会費、50%割引された受講料。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 年会費、15%割引された受講料。\n\n【Giải thích chi tiết】\n• Bước 1 (Xác định các khoản thanh toán chuẩn khi nhập học):\n  - Mục '入会時のお支払い': Bao gồm 入会金 (6,600円) + 年会費 (2,200円) + 受講料1ヶ月分 (Học phí 1 tháng).\n• Bước 2 (Xét điều kiện ưu đãi của Murata):\n  1. Murata là học sinh cấp 3 (高校生) -> Thỏa mãn 学生割引 (Giảm 10% học phí hàng tháng).\n  2. Chị gái của Murata đang học tại trường -> Thỏa mãn 家族割引 (Miễn phí nhập học 6,600 yên VÀ giảm 15% học phí hàng tháng).\n• Bước 3 (Quy tắc chọn ưu đãi):\n  - Quy định ghi rõ: '複数の割引は同時に適応できません。一番条件のいい割引が一つ適用されます' (Không áp dụng đồng thời nhiều ưu đãi. Chỉ áp dụng một ưu đãi có điều kiện tốt nhất).\n  - So sánh giữa Giảm giá học sinh (chỉ giảm 10% học phí) và Giảm giá gia đình (miễn 6,600 yên phí nhập học + giảm 15% học phí): Ưu đãi gia đình có lợi hơn vượt trội.\n• Bước 4 (Tính các khoản thực tế phải nộp khi nhập học):\n  - Phí nhập học (入会金): Được miễn phí hoàn toàn nhờ Giảm giá gia đình -> Không phải nộp.\n  - Niên phí (年会費): 2,200 yên -> Phải nộp.\n  - Học phí tháng đầu (受講料): Được giảm 15% -> Phải nộp học phí đã giảm 15%.\n• Kết luận: Murata chỉ phải trả 年会費 (Niên phí) và 15%割引された受講料 (Học phí đã giảm 15%). Phương án ③ hoàn toàn chính xác."
+    },
+    {
+      "question_id": 20,
+      "question": "７１．リナさんは、このテニススクールに２か月前に入会し、現在「B.平日昼間(中・上級者)コース」を受講している。5月から「D.平日夜間・土日(中・上級者)コース」に変わりたいと思っているが、リナさんはどうしなければならないか。今日は3月15日である。",
+      "context": "秋原テニススクール入会案内\n\nコース・クラスについて\n以下の四つのコースの中から、ご希望の曜日、時間のクラスをお選びいただけます。\n曜日、時間については、別紙をご確認ください。中学生以上から受講が可能です。\n各コースのクラスの定員：10名　　レッスン時間：60分\n\n[表: コース一覧]\n・A. 平日昼間(初心者)コース: 受講料(週一回、一ヶ月分) 8,800円\n・B. 平日昼間(中・上級者)コース: 受講料(週一回、一ヶ月分) 12,000円\n・C. 平日夜間・土日(初心者)コース: 受講料(週一回、一ヶ月分) 9,300円\n・D. 平日夜間・土日(中・上級者)コース: 受講料(週一回、一ヶ月分) 12,500円\n\n入会時のお支払い\nご入会の際に、入会金(6,600円)、年会費(2,200円)、受講料1ヶ月分を現金でお支払いください。受講料は、2ヶ月目から口座引き落としになります。\n\n割引制度\n複数の割引は同時に適応できません。一番条件のいい割引が一つ適用されます。\n[表: 割引制度一覧]\n・学生割引: 【適応対象】中学生、高校生 | 【割引内容】毎月の受講料を10%割引\n・複数のコース・クラス割引: 【適応対象】複数コース・クラスを受講する方 | 【割引内容】二つ目以降のコース・クラス毎月の受講料を50%割引\n・家族割引: 【適応対象】ご家族に本スクールの受講生がいる方 | 【割引内容】入会金無料、毎月の受講料を15%割引\n\n振り替え制度\n同じコースの他の曜日に振り替えて受講する場合フロントで事前にご予約ください。\n\n各種手続き\n以下の場合は、期日までにフロントでお手続きください。\n[表: 各種手続き期日]\n・変更(コースを変更したり、同じコース内で曜日・時間を変更する場合): 変更したい月の前月10日まで\n・退会(スクールをやめる場合): 最終受講の前月末日まで\n・休会(スクールを1ヶ月以上休む場合): 休会したい月の前月20日まで\n※ 手数料550円がかかります(入会後3ヶ月以内に手続きをする場合は無料)。\n電話：062-241-3998（9時～22時）\n〒433-0010 北高市朝中町 27\nホームページ：http://www.rikijp",
+      "options": [
+        "4月10日までに、手数料550円を支払い、手続きをする。",
+        "4月10日までに手続きをする。手数料は必要ない。",
+        "4月20日までに、手数料550円を支払い、手続きをする。",
+        "4月20日までに手続きをする。手数料は必要ない。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 4月10日までに手続きをする。手数料は必要ない。\n\n【Giải thích chi tiết】\n• Bước 1 (Xác định hạn chót làm thủ tục thay đổi khóa học):\n  - Mục '変更' (Thay đổi khóa học): Quy định hạn nộp là '変更したい月の前月10日まで' (Trước ngày 10 của tháng liền trước tháng muốn thay đổi).\n  - Rina muốn đổi sang khóa mới bắt đầu từ tháng 5 (5月から変更したい) -> Tháng liền trước là tháng 4 -> Hạn chót là ngày 10 tháng 4 (4月10日までに).\n• Bước 2 (Xác định lệ phí thủ tục):\n  - Mục lệ phí ghi chú: '※ 手数料550円がかかります (入会後3ヶ月以内に手続きをする場合は無料)' (Phí thủ tục là 550 yên; trường hợp làm thủ tục trong vòng 3 tháng kể từ khi nhập học thì được MIỄN PHÍ).\n  - Rina mới nhập học được 2 tháng trước (2か月前に入会), hôm nay là 15/3. Khi làm thủ tục trước ngày 10/4, thời gian nhập học vẫn nằm trong khung 3 tháng đầu -> Rina được miễn phí thủ tục (手数料は必要ない).\n• Kết luận: Rina phải hoàn tất thủ tục trước ngày 10/4 và không mất phí thủ tục. Phương án ② hoàn toàn chính xác."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T13:25:00Z",
+  "updatedAt": "2026-10-18T16:45:00Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -529,6 +529,16 @@
       "topic": "reading",
       "questionCount": 4,
       "file": "exams/N2/N2-29-RD12.json"
+    },
+    {
+      "id": "N2-29-GD3-01-RD",
+      "code": "N2-29-GD3-01-RD",
+      "title": "N2.29 · Test cuối Giai đoạn 3 · Phát đề số 1 · Đọc hiểu",
+      "track": "N2.29",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 20,
+      "file": "exams/N2/N2-29-GD3-01-RD.json"
     },
     {
       "id": "N2-CS-RD01-TC",
