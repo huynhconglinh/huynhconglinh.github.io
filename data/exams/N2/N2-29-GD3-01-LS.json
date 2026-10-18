@@ -1,0 +1,1174 @@
+{
+  "id": "N2-29-GD3-01-LS",
+  "code": "N2-29-GD3-01-LS",
+  "title": "N2.29 · Test cuối Giai đoạn 3 · Phát đề số 1 · Nghe hiểu",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "listening",
+  "source": "riki/N2.29/TEST CUỐI GIAI ĐOẠN 3 N2 T12_2026 (PHÁT ĐỀ SỐ 1)_Nghe.mhtml",
+  "questionCount": 30,
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "問題1 1番",
+      "question": "男の学生は何をしなければなりませんか。",
+      "context": "大学で、女の先輩と男の学生がテニスクラブの合宿について話しています。",
+      "options": [
+        "出発時間の変更をバス会社に伝える",
+        "コーチに集合時間を伝える",
+        "着く時間をペンションに伝える",
+        "クラブのみんなに持ち物を伝える"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "明後日からのテニスクラブの合宿について、確認をしたいんだけど、今いい？まず、人数だけど。",
+          "vi": "Chị muốn xác nhận một chút về chuyến tập huấn của câu lạc bộ quần vợt từ ngày kia, giờ em rảnh không? Trước tiên là số lượng người nhé."
+        },
+        {
+          "role": "male",
+          "jp": "参加者は、コーチを入れて20人で確定です。申し込んだ時から、変更はありません。",
+          "vi": "Số người tham gia đã chốt là 20 người bao gồm cả huấn luyện viên ạ. Không có thay đổi gì so với lúc đăng ký."
+        },
+        {
+          "role": "female",
+          "jp": "ありがとう。コーチの都合で、出発時間が30分遅くなったでしょう？貸切バスの会社には、もう知らせたって言ってたよね？",
+          "vi": "Cảm ơn em. Vì lý do của huấn luyện viên nên giờ khởi hành bị lùi lại 30 phút đúng không? Chị nhớ em bảo đã báo cho công ty xe buýt thuê chuyến rồi nhỉ?"
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Vâng ạ."
+        },
+        {
+          "role": "female",
+          "jp": "じゃあ大丈夫だね。コーチと他のメンバーたちには、当日の集合時間が変わったこと、連絡しておいたよ。ペンションにも、到着時間の変更を伝えてあるよね？",
+          "vi": "Thế thì ổn rồi. Còn huấn luyện viên và các thành viên khác thì chị đã liên lạc báo giờ tập trung thay đổi rồi. Phía nhà nghỉ (pension) em cũng đã báo đổi giờ đến nơi rồi đúng không?"
+        },
+        {
+          "role": "male",
+          "jp": "そうでした、すみません！",
+          "vi": "À việc đó... em xin lỗi em quên mất ạ!"
+        },
+        {
+          "role": "female",
+          "jp": "忘れずにね。迷惑かかるといけないから。えーと、朝晩はこの時期にしては、気温が低くなるらしいんだ。上着を持って行った方が安心だと思うから、みんなにメールで伝えておくね。",
+          "vi": "Nhớ đừng quên nhé, kẻo lại làm phiền người ta. À, nghe nói tầm này sáng tối nhiệt độ xuống khá thấp. Chị nghĩ mang theo áo khoác sẽ yên tâm hơn nên chị sẽ gửi mail dặn mọi người."
+        },
+        {
+          "role": "male",
+          "jp": "ありがとうございます。",
+          "vi": "Em cảm ơn chị ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "男の学生は何をしなければなりませんか。",
+          "vi": "Nam sinh viên phải làm việc gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 着く時間をペンションに伝える (Báo giờ đến nơi cho phía nhà nghỉ/pension).\n\n【Phân tích hội thoại】\n• Chị khóa trên hỏi: 「ペンションにも、到着時間の変更を伝えてあるよね？」(Đã báo thay đổi giờ đến cho nhà nghỉ rồi chứ?).\n• Nam sinh sực nhớ ra: 「そうでした、すみません！」(Đúng rồi, em quên mất, em xin lỗi!). Chị khóa trên nhắc: 「忘れずにね」(Nhớ đừng quên đấy nhé).\n→ Hành động nam sinh cần phải thực hiện ngay là liên lạc với nhà nghỉ để báo giờ đến nơi.\n\n【Loại trừ các phương án khác】\n• 1. Đổi giờ xe buýt: Nam sinh đã báo công ty xe buýt từ trước rồi (貸切バスの会社には、もう知らせた).\n• 2. Báo giờ tập trung cho HLV: Chị khóa trên đã trực tiếp liên lạc rồi (コーチと他のメンバーたちには…連絡しておいたよ).\n• 4. Dặn mọi người mang áo ấm: Chị khóa trên sẽ gửi mail dặn dò (みんなにメールで伝えておくね)."
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "問題1 2番",
+      "question": "このメッセージを聞いた後、ポスターのどこを直しますか。",
+      "context": "地域の生け花サークルの部長から留守番電話にメッセージが入っています。",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": 1,
+      "media": {
+        "image": "media/N2-29-GD3-01-LS/1779874142-anh-chup-man-hinh-2026-05-27-162753.png"
+      },
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "森さん、島田です。メールありがとう。急いでるので電話しました。森さんが作ってくれた展覧会のポスターのファイル、見ました。会場とタイトルの文字を去年のポスターより一回り大きくしてくれて、見やすくなったと思います。生け花の写真なんだけど、位置がいくらか左に寄っている感じがするんだ。少し真ん中に寄せてくれる？あと、森さんは日時が書いてある位置を少し下げた方がいいって提案してくれたけど、それは動かさないでいきましょう。じゃあ、よろしくお願いします。",
+          "vi": "Mori à, Shimada đây. Cảm ơn email của bạn nhé. Vì gấp nên mình gọi điện luôn. Mình đã xem file poster triển lãm bạn làm rồi. Chữ tiêu đề và địa điểm tổ chức bạn đã cho to hơn poster năm ngoái một cỡ nên trông rất dễ nhìn. Về bức ảnh cắm hoa (ikebana), mình cảm giác vị trí hơi bị lệch sang bên trái một chút. Bạn dời nó vào giữa thêm một chút được không? Còn vị trí ghi ngày giờ thì Mori có đề xuất hạ thấp xuống một chút, nhưng cái đó cứ để nguyên không di chuyển nhé. Nhờ bạn nha!"
+        },
+        {
+          "role": "narrator",
+          "jp": "このメッセージを聞いた後、ポスターのどこを直しますか。",
+          "vi": "Sau khi nghe tin nhắn này, người nghe sẽ sửa chỗ nào trên tấm poster?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1 (Chỉnh vị trí ảnh cắm hoa vào giữa hơn).\n\n【Phân tích hội thoại】\n• Trưởng câu lạc bộ nhận xét về poster triển lãm:\n  - Tiêu đề và địa điểm: Đã to và dễ nhìn rồi, tốt.\n  - Ảnh cắm hoa (生け花の写真): Hơi bị lệch sang trái, nhờ dịch chuyển vào giữa một chút (少し真ん中に寄せてくれる？) → Đây là điểm cần chỉnh sửa.\n  - Ngày giờ (日時): Bạn đề xuất hạ xuống nhưng cứ giữ nguyên đừng chuyển (動かさないでいきましょう).\n• Đối chiếu với hình vẽ minh họa, bức ảnh cắm hoa được dời vào vị trí trung tâm tương ứng với phương án 1."
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "問題1 3番",
+      "question": "女の人はこの後、クッキーの企画の何を変更しますか。",
+      "context": "お菓子の会社で、男の人と女の人が話しています。",
+      "options": [
+        "ターゲットとする世代",
+        "箱のデザイン",
+        "設定価格",
+        "発売する時期"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "山田さん、新商品のこの企画書、読みました。甘さを抑えた大人向けのクッキーの企画、いいと思いますよ。うちのクッキーは、これまで子供をターゲットにした商品ばかりでしたからね。",
+          "vi": "Yamada này, tôi đã đọc bản kế hoạch sản phẩm mới này rồi. Ý tưởng bánh quy giảm ngọt dành cho người lớn tôi thấy rất hay đấy. Bánh quy bên mình từ trước tới nay toàn sản phẩm nhắm vào trẻ em mà."
+        },
+        {
+          "role": "female",
+          "jp": "ありがとうございます。",
+          "vi": "Tôi cảm ơn anh ạ."
+        },
+        {
+          "role": "male",
+          "jp": "箱のデザインは高級感を出そうという狙いですね。",
+          "vi": "Thiết kế bao bì hộp là nhằm tạo cảm giác cao cấp đúng không?"
+        },
+        {
+          "role": "female",
+          "jp": "はい。販売価格を少し高めに設定したので、それに合わせてみたんです。",
+          "vi": "Vâng ạ. Do giá bán định hướng hơi cao một chút nên tôi thiết kế cho phù hợp với mức giá."
+        },
+        {
+          "role": "male",
+          "jp": "そう。この案だと商品が店の棚に並んだ時に、消費者の目に止まりにくいように思うんですよ。少し目立つ色も入れたりするとか、してみてくれます？",
+          "vi": "Thế à. Với phương án này thì khi xếp lên kệ ở cửa hàng, tôi e là sẽ khó lọt vào tầm mắt người tiêu dùng. Cô thử thêm một số gam màu nổi bật vào xem sao nhé?"
+        },
+        {
+          "role": "female",
+          "jp": "あ、はい。そうですね。じゃあ、価格については？",
+          "vi": "À vâng, đúng vậy ạ. Thế còn giá cả thì sao ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "価格は後で調整をしますから、企画書のままでいいので、指摘した点を修正してもらえますか？発売する時期は今のように来年の春とだけ書いておいてくれれば十分です。",
+          "vi": "Giá thì sau này sẽ điều chỉnh chi tiết sau, hiện tại cứ để như trong kế hoạch, cô sửa giúp tôi điểm tôi vừa góp ý nhé? Thời điểm mở bán thì cứ ghi là mùa xuân năm sau như hiện tại là đủ rồi."
+        },
+        {
+          "role": "female",
+          "jp": "わかりました。",
+          "vi": "Tôi hiểu rồi ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の人はこの後、クッキーの企画の何を変更しますか。",
+          "vi": "Người phụ nữ sau đây sẽ thay đổi điểm nào trong kế hoạch bánh quy?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 箱のデザイン (Thiết kế của hộp bánh).\n\n【Phân tích hội thoại】\n• Cấp trên nhận xét thiết kế hộp hiện tại chìm quá, xếp lên kệ khó hút mắt khách hàng: 「少し目立つ色も入れたりするとか、してみてくれます？」(Thử cho thêm màu nổi bật vào xem).\n• Khi cô gái hỏi về giá bán (価格), người nam bảo: 「価格は後で調整をしますから、企画書のままでいいので、指摘した点を修正してもらえますか？」(Giá cả sẽ điều chỉnh sau, cứ giữ nguyên như trong dự thảo, sửa điểm tôi vừa chỉ ra thôi nhé).\n• Thời điểm bán (発売する時期) cũng giữ nguyên (来年の春とだけ書いておいてくれれば十分).\n→ Cô gái cần sửa thiết kế của vỏ hộp (箱のデザイン)."
+    },
+    {
+      "question_id": 4,
+      "type": "listening",
+      "label": "問題1 4番",
+      "question": "女の学生はこの後どうしますか。",
+      "context": "大学で、女の学生と男の学生が話しています。",
+      "options": [
+        "ケースを掃除する回数を増やす",
+        "ケースに入れる貝を増やす",
+        "ケースに入れるえさを減らす",
+        "ケースを移動する"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "鈴木くん、確か金魚飼ってるって言ってたよね？",
+          "vi": "Suzuki này, hình như cậu bảo cậu có nuôi cá vàng đúng không?"
+        },
+        {
+          "role": "male",
+          "jp": "うん。",
+          "vi": "Ừ đúng rồi."
+        },
+        {
+          "role": "female",
+          "jp": "私も2か月前から飼い始めたんだけど、魚を入れているガラスケースがすぐに汚れちゃうんだ。毎週のように掃除しなきゃならなくて、どうしたらいいかな。",
+          "vi": "Tớ cũng bắt đầu nuôi từ 2 tháng trước, nhưng bể kính nuôi cá nhanh bẩn lắm. Tuần nào cũng phải cọ rửa dọn dẹp, không biết làm sao bây giờ."
+        },
+        {
+          "role": "male",
+          "jp": "水の中に貝は入れてる？ガラスケースについた汚れを食べてくれる貝があるよ。",
+          "vi": "Trong nước cậu có thả ốc không? Có loại ốc ăn rêu bẩn bám trên mặt kính đấy."
+        },
+        {
+          "role": "female",
+          "jp": "うん、店で勧められたからね。",
+          "vi": "Có, tiệm bán cá cũng khuyên nên tớ có thả rồi."
+        },
+        {
+          "role": "male",
+          "jp": "そっか。あと、餌の量が多かったり、日当たりのいい部屋に置いたりしてない？そういうのも汚れに影響するよ。",
+          "vi": "Thế à. Ngoài ra lượng thức ăn có nhiều quá không, hoặc cậu có đặt bể ở phòng nhiều ánh nắng không? Mấy cái đó cũng làm bẩn nhanh đấy."
+        },
+        {
+          "role": "female",
+          "jp": "私の部屋、日当たりがいいけど、他に置くところないんだ。餌は店で教えてもらった通りにやってるよ。少なすぎるかなと思うくらい。",
+          "vi": "Phòng tớ thì nhiều nắng thật, nhưng chẳng có chỗ nào khác để đặt. Thức ăn thì tớ cho đúng như tiệm hướng dẫn, cảm giác ít đến mức sợ thiếu ấy."
+        },
+        {
+          "role": "male",
+          "jp": "場所は玄関に置けば？餌は食べずに残ったものが汚れの原因になるから、少なすぎるぐらいでいいんだ。",
+          "vi": "Thế đặt ở lối vào (genkan) xem? Thức ăn thừa không ăn hết mới là nguyên nhân gây bẩn, nên cho ít thế là chuẩn rồi."
+        },
+        {
+          "role": "female",
+          "jp": "そっか。じゃあ、餌はいいとして、置き場所を変えてみる。",
+          "vi": "Thế à. Vậy thức ăn thì ổn rồi, tớ sẽ thử đổi chỗ đặt bể xem sao."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の学生はこの後どうしますか。",
+          "vi": "Nữ sinh viên sau đây sẽ làm gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 4. ケースを移動する (Di chuyển vị trí bể cá).\n\n【Phân tích hội thoại】\n• Bạn nam gợi ý các nguyên nhân gây rêu bẩn bể: ốc ăn rêu (đã có), thức ăn (cho ít là chuẩn rồi, không cần đổi), ánh nắng mặt trời (phòng nhiều nắng khiến rêu phát triển nhanh).\n• Bạn nam gợi ý: 「場所は玄関に置けば？」(Hay là đặt ở lối vào genkan xem sao?).\n• Bạn nữ đồng ý: 「じゃあ、餌はいいとして、置き場所を変えてみる」(Vậy thức ăn thì giữ nguyên, tớ sẽ thử đổi chỗ đặt bể xem).\n→ Nữ sinh sẽ di chuyển bể kính sang chỗ khác (ケースを移動する)."
+    },
+    {
+      "question_id": 5,
+      "type": "listening",
+      "label": "問題1 5番",
+      "question": "男の人はこの後、何をしなければなりませんか。",
+      "context": "会社で、課長と男の人が話しています。",
+      "options": [
+        "簡易説明書の文字を大きくする",
+        "簡易説明書の内容を減らす",
+        "動画を短くまとめる",
+        "動画に字幕をつける"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "中山さん、新製品の洗濯機につけるマニュアルの案、見ましたよ。ちょっといい？",
+          "vi": "Nakayama này, tôi xem bản thảo sách hướng dẫn kèm theo máy giặt sản phẩm mới rồi. Trao đổi một chút được không?"
+        },
+        {
+          "role": "male",
+          "jp": "はい、課長。",
+          "vi": "Vâng thưa Trưởng phòng."
+        },
+        {
+          "role": "female",
+          "jp": "今回のマニュアルは、詳細な取扱説明書と簡単な簡易説明書、これは印刷物で、もう一つはインターネットの使い方の動画、この3つということですね？",
+          "vi": "Tài liệu hướng dẫn lần này gồm sách hướng dẫn chi tiết và bản hướng dẫn tóm tắt (2 bản in giấy), cùng với video hướng dẫn sử dụng trên Internet, tổng cộng 3 phần đúng không?"
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Vâng đúng ạ."
+        },
+        {
+          "role": "female",
+          "jp": "詳細な取扱説明書はこのままで問題ないです。簡易説明書の方は文字を大きくしたんですね？",
+          "vi": "Bản hướng dẫn chi tiết cứ để thế này là ổn rồi. Còn bản tóm tắt thì cậu đã cho cỡ chữ to hơn rồi đúng không?"
+        },
+        {
+          "role": "male",
+          "jp": "はい、見やすい方がいいと思いまして。",
+          "vi": "Vâng, em nghĩ to hơn sẽ dễ đọc hơn ạ."
+        },
+        {
+          "role": "female",
+          "jp": "いいと思いますよ。絵もシンプルだし、説明の言葉も簡潔で。動画は洗剤を入れるところなんかはあんなに時間を取らなくてもいいんじゃないですか？",
+          "vi": "Tôi thấy rất tốt. Hình ảnh đơn giản, lời giải thích cũng ngắn gọn. Nhưng video thì những đoạn như chỗ cho bột giặt vào đâu cần tốn nhiều thời lượng đến thế nhỉ?"
+        },
+        {
+          "role": "male",
+          "jp": "あ、そうですね。",
+          "vi": "Dạ, đúng vậy ạ."
+        },
+        {
+          "role": "female",
+          "jp": "他にも余計なところは省いて、もう少し短くまとめてみてください。",
+          "vi": "Những chỗ rườm rà khác cậu cũng lược bớt đi rồi tóm gọn cho ngắn lại một chút nhé."
+        },
+        {
+          "role": "male",
+          "jp": "わかりました。",
+          "vi": "Vâng, em hiểu rồi ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "男の人はこの後、何をしなければなりませんか。",
+          "vi": "Người đàn ông sau đây phải làm gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 動画を短くまとめる (Tóm gọn video cho ngắn lại).\n\n【Phân tích hội thoại】\n• Bản hướng dẫn chi tiết: Đã ổn (このままで問題ない).\n• Bản tóm tắt in giấy: Chữ to, hình vẽ đơn giản, lời văn ngắn gọn, Trưởng phòng khen tốt (いいと思いますよ).\n• Video trên mạng: Trưởng phòng nhận xét có nhiều đoạn tốn thời gian không cần thiết, yêu cầu: 「他にも余計なところは省いて、もう少し短くまとめてみてください」(Hãy lược bỏ những đoạn thừa thãi khác và biên tập lại cho ngắn hơn).\n→ Người nam phải chỉnh sửa video cho ngắn gọn lại (動画を短くまとめる)."
+    },
+    {
+      "question_id": 6,
+      "type": "listening",
+      "label": "問題2 1番",
+      "question": "女の人はこの映画の何が一番良かったと言っていますか。",
+      "context": "男の人と女の人が今見た映画について話しています。",
+      "options": [
+        "印象的な音楽",
+        "美しい海の映像",
+        "希望が持てるラストシーン",
+        "主役の男の子の演技力"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "ああ、いい映画だったね。",
+          "vi": "A, phim hay thật đấy nhỉ."
+        },
+        {
+          "role": "female",
+          "jp": "うん、音楽も映像も評判通り印象的だった。",
+          "vi": "Ừ, âm nhạc với hình ảnh đúng là ấn tượng như lời đồn."
+        },
+        {
+          "role": "male",
+          "jp": "本当、音楽が流れるタイミングも良くて、途中で何度も泣きそうになったよ。それに夕日が沈む海の映像、きれいだったなー。",
+          "vi": "Thật đấy, nhạc vang lên đúng thời điểm làm giữa chừng bao lần tớ suýt khóc. Với lại cảnh biển lúc hoàng hôn buông xuống đẹp thật đấy."
+        },
+        {
+          "role": "female",
+          "jp": "うん、きれいだったね。私、前に原作の小説を読んだんだけど、最後はあまり希望が持てない感じで終わるんだ。映画は主人公の明るい未来を予感させるような終わり方になっていて、そこが最高だったな。",
+          "vi": "Ừ, đẹp thật. Trước đây tớ từng đọc tiểu thuyết nguyên tác rồi, kết thúc truyện khá là bế tắc, không có mấy hy vọng. Nhưng lên phim thì kết thúc lại gợi mở một tương lai tươi sáng cho nhân vật chính, chỗ đó là tuyệt vời nhất đấy."
+        },
+        {
+          "role": "male",
+          "jp": "なるほどね。それに主役の男の子、とても新人とは思えない演技力だったよ。",
+          "vi": "Ra là vậy. Mà diễn viên nam chính diễn xuất đỉnh thật, không ngờ là diễn viên mới luôn."
+        },
+        {
+          "role": "female",
+          "jp": "うん、彼はこれから人気が出るだろうね。",
+          "vi": "Ừ, cậu ấy sau này chắc chắn sẽ nổi tiếng lắm đây."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の人はこの映画の何が一番良かったと言っていますか。",
+          "vi": "Người phụ nữ nói điều gì ở bộ phim này là tuyệt vời nhất?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 希望が持てるラストシーン (Cảnh kết phim mang lại niềm hy vọng).\n\n【Phân tích hội thoại】\n• Người nữ nhận xét: Tiểu thuyết kết thúc buồn (あまり希望が持てない), nhưng phim thì kết thúc theo hướng cho thấy tương lai tươi sáng của nhân vật chính (明るい未来を予感させるような終わり方), và nhấn mạnh: 「そこが最高だったな」(Chỗ đó là đỉnh nhất/tuyệt nhất đấy).\n→ Điểm mà cô gái đánh giá cao nhất chính là cảnh kết đầy hy vọng (希望が持てるラストシーン)."
+    },
+    {
+      "question_id": 7,
+      "type": "listening",
+      "label": "問題2 2番",
+      "question": "先生は実験に協力してくれる学生として、どんな人を募集していますか。",
+      "context": "大学の授業で、先生が学生に話しています。",
+      "options": [
+        "毎日運動をしている人",
+        "一日に6時間以上寝ている人",
+        "毎日30分程度動画を見ている人",
+        "過去に実験に参加したことがある人"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "私の研究室で来月行う実験に協力してくれる学生を募集しています。今回は人間の脳と運動機能の関係についての実験です。一日に少なくとも6時間は睡眠をとっている人のみ参加できます。実験の内容は30分程度映像を見て質問に答えるもので、実験中に走ってもらうようなことはありません。過去にうちの研究室の実験に参加したことがある人でも参加できますので、ぜひご協力をお願いします。",
+          "vi": "Phòng nghiên cứu của cô đang tuyển sinh viên hỗ trợ thí nghiệm vào tháng tới. Lần này là thí nghiệm về mối liên hệ giữa não bộ và chức năng vận động của con người. Chỉ những bạn ngủ ít nhất 6 tiếng một ngày mới có thể tham gia. Nội dung thí nghiệm là xem video khoảng 30 phút rồi trả lời câu hỏi, hoàn toàn không có việc bắt các em chạy nhảy trong khi làm thí nghiệm. Những bạn từng tham gia thí nghiệm của phòng nghiên cứu trước đây vẫn có thể tham gia, rất mong các em nhiệt tình hỗ trợ."
+        },
+        {
+          "role": "narrator",
+          "jp": "先生は実験に協力してくれる学生として、どんな人を募集していますか。",
+          "vi": "Giáo viên đang tuyển những sinh viên như thế nào để hỗ trợ thí nghiệm?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 一日に6時間以上寝ている人 (Người ngủ từ 6 tiếng trở lên mỗi ngày).\n\n【Phân tích hội thoại】\n• Giáo viên nêu rõ điều kiện tham gia duy nhất đối với ứng viên: 「一日に少なくとも6時間は睡眠をとっている人のみ参加できます」(Chỉ những người ngủ ít nhất 6 tiếng mỗi ngày mới có thể tham gia).\n• 'Ít nhất 6 tiếng' (少なくとも6時間) = '6 tiếng trở lên' (6時間以上).\n• 30 phút là thời lượng xem video trong thí nghiệm, không phải thói quen hàng ngày.\n• Từng tham gia trước đây hay chưa tham gia đều được (参加したことがある人でも参加できます), chứ không bắt buộc phải từng tham gia."
+    },
+    {
+      "question_id": 8,
+      "type": "listening",
+      "label": "問題2 3番",
+      "question": "男の人がこの専門学校を選んだ一番の理由は何ですか。",
+      "context": "会社で、女の人と男の人が話しています。",
+      "options": [
+        "会社から行きやすい場所にあるから",
+        "ひとクラスの人数が少ないから",
+        "授業料が安いから",
+        "資格試験の合格率が高いから"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "佐藤さん、仕事の後、山川IT専門学校に通ってるんだって？",
+          "vi": "Sato này, nghe bảo sau giờ làm cậu đang theo học ở trường trung cấp CNTT Yamakawa à?"
+        },
+        {
+          "role": "male",
+          "jp": "うん、前から少し関心があったんだけど、Webデザインの知識や技術を身につけられたらいいなって思って。",
+          "vi": "Ừ, trước giờ tớ cũng có hứng thú, muốn trang bị thêm kiến thức và kỹ năng về thiết kế Web."
+        },
+        {
+          "role": "female",
+          "jp": "そう、私も興味あるんだけど、どうして山川IT専門学校にしたの？会社の帰りに行くにしては時間がかかるでしょう？",
+          "vi": "Vậy à, tớ cũng thích lắm, cơ mà sao cậu lại chọn trường Yamakawa? Đi từ công ty qua đó sau giờ làm mất thời gian lắm đúng không?"
+        },
+        {
+          "role": "male",
+          "jp": "まあ、もっと通いやすいところとかいくつか候補はあったんだけどね。山川は少人数制のクラスだから、丁寧に指導してもらえると思って。授業料が安いとは言えないんだけど、行く価値はあると思ったんだ。",
+          "vi": "À, thật ra cũng có vài chỗ tiện đường hơn làm phương án lựa chọn đấy. Nhưng trường Yamakawa lớp học theo mô hình ít người (thiểu nhân số chế), nên tớ nghĩ sẽ được hướng dẫn tận tình cặn kẽ. Học phí thì không thể nói là rẻ được, nhưng tớ thấy rất đáng tiền."
+        },
+        {
+          "role": "female",
+          "jp": "へえ、何かWeb関係の資格を取るつもり？",
+          "vi": "Hở, cậu định thi lấy chứng chỉ gì liên quan đến Web à?"
+        },
+        {
+          "role": "male",
+          "jp": "うーん、今はそこまでは考えてないけど、資格試験のためのコースもあって、結構合格率も高いみたい。",
+          "vi": "Ừm, giờ tớ chưa nghĩ xa đến thế, nhưng bên đó cũng có khóa ôn thi chứng chỉ và tỷ lệ đỗ nghe đâu cũng khá cao."
+        },
+        {
+          "role": "female",
+          "jp": "そうなんだ。",
+          "vi": "Ra là thế."
+        },
+        {
+          "role": "narrator",
+          "jp": "男の人がこの専門学校を選んだ一番の理由は何ですか。",
+          "vi": "Lý do lớn nhất khiến người đàn ông chọn trường chuyên môn này là gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. ひとクラスの人数が少ないから (Vì sĩ số một lớp ít người).\n\n【Phân tích hội thoại】\n• Người nam giải thích lý do lựa chọn trường: 「山川は少人数制のクラスだから、丁寧に指導してもらえると思って」(Vì trường Yamakawa lớp học ít người nên tôi nghĩ sẽ được chỉ bảo tận tình).\n• '少人数制' đồng nghĩa với 'ひとクラスの人数が少ない' (sĩ số mỗi lớp ít).\n• Các phương án gây nhiễu:\n  - 1: Trường không tiện đường, đi mất nhiều thời gian (会社の帰りに行くにしては時間がかかる).\n  - 3: Học phí không hề rẻ (授業料が安いとは言えない).\n  - 4: Chưa có ý định thi chứng chỉ, chỉ nghe nói tỷ lệ đỗ cao thôi."
+    },
+    {
+      "question_id": 9,
+      "type": "listening",
+      "label": "問題2 4番",
+      "question": "男の人は会社を辞めて何をすると言っていますか。",
+      "context": "会社の送別会で、男の人が話しています。",
+      "options": [
+        "高校でサッカーのコーチとして働く",
+        "プロのサッカー選手を目指す",
+        "大学でサッカーの指導法を研究する",
+        "子ども向けのサッカー教室を開く"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "皆さん、長い間お世話になりました。この会社では多くのやりがいのある仕事に関わらせていただきました。退職後は自分が卒業した高校のサッカー部、まあ何度も全国大会に出ているような強いチームなんですが、そこでコーチの仕事をする機会を得ました。ご存じの方もいると思いますが、私、大学まではサッカーでプロを目指していました。就職してからも指導者の資格を取ったり、週末にボランティアで地域の子どもたちに教えたり、ずっとサッカーに関わってきました。やっぱり自分はサッカーが大好きなんだと思います。これからはその道で頑張っていきたいと思います。今までどうもありがとうございました。",
+          "vi": "Thưa các anh chị và các bạn, cảm ơn mọi người đã giúp đỡ tôi trong suốt thời gian dài vừa qua. Tại công ty này, tôi đã được tham gia nhiều công việc đầy ý nghĩa. Sau khi nghỉ việc, tôi đã có cơ hội nhận công việc huấn luyện viên tại câu lạc bộ bóng đá của trường cấp 3 mà mình từng tốt nghiệp — một đội bóng mạnh từng nhiều lần tham dự giải toàn quốc. Chắc cũng có người biết, hồi đại học tôi từng đặt mục tiêu trở thành cầu thủ chuyên nghiệp. Ngay cả sau khi đi làm, tôi vẫn thi lấy chứng chỉ huấn luyện viên, cuối tuần đi tình nguyện dạy bóng đá cho trẻ em trong khu vực, gắn bó liên tục với bóng đá. Tôi nhận ra mình vẫn vô cùng yêu thích môn thể thao này. Từ nay tôi sẽ nỗ lực đi trên con đường đó. Cảm ơn mọi người rất nhiều."
+        },
+        {
+          "role": "narrator",
+          "jp": "男の人は会社を辞めて何をすると言っていますか。",
+          "vi": "Người đàn ông nói sẽ làm gì sau khi nghỉ việc ở công ty?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 高校でサッカーのコーチとして働く (Làm huấn luyện viên bóng đá tại trường cấp 3).\n\n【Phân tích hội thoại】\n• Người nam phát biểu rõ ràng: 「退職後は自分が卒業した高校のサッカー部…そこでコーチの仕事をする機会を得ました」(Sau khi nghỉ việc, tôi có cơ hội nhận làm công việc HLV tại CLB bóng đá trường cấp 3 nơi mình tốt nghiệp).\n• Các thông tin khác là quá khứ hoặc sở thích trước đây:\n  - Thời đại học từng muốn thành cầu thủ chuyên nghiệp (大学まではプロを目指していた).\n  - Cuối tuần từng dạy tình nguyện cho trẻ em địa phương (ボランティアで地域の子どもたちに教えたり)."
+    },
+    {
+      "question_id": 10,
+      "type": "listening",
+      "label": "問題2 5番",
+      "question": "先生はこの実習生に対して何に気をつけてほしいと言っていますか。",
+      "context": "保育園で、保育園の先生と男の実習生が話しています。",
+      "options": [
+        "子どもの安全に注意すること",
+        "子どもに分かりやすく指示すること",
+        "子どもと目の高さを合わせて話すこと",
+        "明るく元気にあいさつすること"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "山下さん、今日もお疲れ様でした。2週間の実習も半分終わりましたが、どうですか？",
+          "vi": "Yamashita này, hôm nay vất vả rồi nhé. Đợt thực tập 2 tuần đã trôi qua được một nửa rồi, em thấy thế nào?"
+        },
+        {
+          "role": "male",
+          "jp": "はい、最初よりは緊張しなくなったと思います。でも子どもが危ない目に遭わないようにきちんと気を配れているか不安です。",
+          "vi": "Dạ, em thấy đỡ căng thẳng hơn hồi đầu rồi ạ. Nhưng em vẫn lo lắng không biết mình đã chú ý bao quát cẩn thận để các bé không gặp nguy hiểm hay chưa."
+        },
+        {
+          "role": "female",
+          "jp": "子どもの安全は一番大切なことですからね。散歩や外で遊ばせるとき、山下さんが注意しているのは見ていてわかりますよ。",
+          "vi": "An toàn của trẻ là điều quan trọng nhất mà. Những lúc đi dạo hay cho trẻ chơi ngoài trời, cô quan sát thấy Yamashita chú ý rất tốt đấy."
+        },
+        {
+          "role": "male",
+          "jp": "ありがとうございます。",
+          "vi": "Em cảm ơn cô ạ."
+        },
+        {
+          "role": "female",
+          "jp": "指示を出す時も、子どもが理解しやすいように言い方を考えて話していることがわかります。だからこそ、子どもと接するとき、もう少し低く屈んで話せたらいいと思いました。",
+          "vi": "Khi đưa ra chỉ dẫn, cô thấy em cũng đã suy nghĩ cách nói để các bé dễ hiểu. Chính vì thế, khi tiếp xúc với trẻ, cô nghĩ nếu em có thể cúi thấp người xuống một chút nữa khi nói chuyện thì sẽ tốt hơn đấy."
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Dạ."
+        },
+        {
+          "role": "female",
+          "jp": "子どもが先生の顔を見上げなくてもいいようにしてみてくださいね。いつも子どもや保護者の方に元気に挨拶をしたり、明るく声をかけている姿勢には感心していますよ。続けて頑張ってください。",
+          "vi": "Hãy cố gắng làm sao để các bé không phải ngước cổ lên nhìn mặt thầy nhé. Thái độ luôn chào hỏi vui vẻ, chào đón nhiệt tình với trẻ và phụ huynh của em cô đánh giá rất cao. Hãy tiếp tục phát huy nhé."
+        },
+        {
+          "role": "male",
+          "jp": "はい、ご指摘いただいた点に気をつけて頑張ります。",
+          "vi": "Vâng, em sẽ chú ý điểm cô vừa chỉ bảo và cố gắng ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "先生はこの実習生に対して何に気をつけてほしいと言っていますか。",
+          "vi": "Cô giáo nói muốn thực tập sinh này chú ý điểm gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 子どもと目の高さを合わせて話すこと (Cúi ngang tầm mắt của trẻ khi nói chuyện).\n\n【Phân tích hội thoại】\n• Cô giáo khen thực tập sinh đã chú ý an toàn cho trẻ (1), biết cách nói dễ hiểu (2), chào hỏi năng nổ nhiệt tình (4).\n• Điểm cô giáo muốn thực tập sinh lưu ý cải thiện: 「もう少し低く屈んで話せたらいいと思いました。子どもが先生の顔を見上げなくてもいいようにしてみてくださいね」(Cúi người thấp xuống một chút khi nói chuyện, làm sao để trẻ không phải ngước nhìn lên mặt thầy giáo).\n→ 'Cúi thấp để trẻ không phải ngước lên' = 'Nói chuyện ngang tầm mắt với trẻ' (子どもと目の高さを合わせて話すこと)."
+    },
+    {
+      "question_id": 11,
+      "type": "listening",
+      "label": "問題2 6番",
+      "question": "お客さんを増やすために、新しく何をすることになりましたか。",
+      "context": "魚屋で、男の店長と女のアルバイトの人が話しています。",
+      "options": [
+        "販売価格を下げる",
+        "そうざいの種類を増やす",
+        "宅配サービスを行う",
+        "店に置く魚の種類を増やす"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "最近お客さんが少なくなっていて、何とかしたいと思っているんだけど、何かいい案ないかな。",
+          "vi": "Dạo này khách vắng quá, chú muốn làm cách nào đó cải thiện mà chưa biết có ý tưởng gì hay không."
+        },
+        {
+          "role": "female",
+          "jp": "そうですね、スーパーの方が安いですし、お客さんは向こうに流れますよね。価格は変えられないとしても何か考えましょう。",
+          "vi": "Vâng, siêu thị giá rẻ hơn nên khách kéo hết sang bên đó chú nhỉ. Dù mình không giảm giá cạnh tranh được thì cũng phải nghĩ cách khác thôi."
+        },
+        {
+          "role": "male",
+          "jp": "今、店で魚のフライを惣菜として売ってるけど、焼き魚とかもっと惣菜の種類を増やしてみようか。それで今やっている鮮魚の宅配に加えて、惣菜の宅配もやってみたら需要あるかな。魚料理は手間がかかって大変だと思っている若い人もいるだろうし。",
+          "vi": "Hiện tại tiệm mình đang bán cá chiên xù làm đồ ăn sẵn (souzai), hay là chú tăng thêm các món ăn sẵn như cá nướng nhỉ? Rồi thêm vào dịch vụ giao cá tươi hiện tại, mình giao luôn cả đồ ăn sẵn tận nhà thì liệu có nhu cầu không? Chắc cũng có nhiều người trẻ ngại nấu nướng cá vì mất công."
+        },
+        {
+          "role": "female",
+          "jp": "これ以上宅配が増えたら対応できませんよ。お惣菜も私一人じゃそんなに作れませんし。あ、最近は全国各地に旅行されて、地域の美味しい魚を食べたりしている人も多いので、たまにその魚が置いてないか聞かれるんです。",
+          "vi": "Giao hàng tận nơi mà tăng nữa là không kham nổi đâu chú ơi. Món ăn sẵn một mình cháu cũng chẳng nấu xuể ngần ấy. À, dạo này nhiều người đi du lịch khắp nơi được ăn cá ngon đặc sản các vùng, thỉnh thoảng có khách hỏi tiệm mình có bán mấy loại cá đó không đấy ạ."
+        },
+        {
+          "role": "male",
+          "jp": "うちの店でまだ扱っていない魚、結構あるよね。今はいろいろな地域の魚も仕入れやすくなってきたから、うちもいろいろ置いてみようか。",
+          "vi": "Đúng là có nhiều loại cá tiệm mình chưa từng nhập về thật. Giờ việc nhập cá từ các vùng miền cũng dễ dàng hơn rồi, hay tiệm mình nhập đa dạng nhiều loại cá về bày bán xem sao nhỉ?"
+        },
+        {
+          "role": "female",
+          "jp": "そうしましょう！喜ぶお客さん多いですよ。",
+          "vi": "Làm thế đi chú! Chắc chắn sẽ nhiều khách thích lắm đấy ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "お客さんを増やすために、新しく何をすることになりましたか。",
+          "vi": "Để tăng lượng khách hàng, tiệm cá đã quyết định làm mới điều gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 4. 店に置く魚の種類を増やす (Tăng chủng loại cá bày bán tại cửa hàng).\n\n【Phân tích hội thoại】\n• Chủ tiệm đề xuất tăng món ăn sẵn (2) và giao đồ ăn sẵn tận nhà (3), nhưng nhân viên phản đối vì quá tải, một mình không nấu và giao xuể.\n• Nhân viên gợi ý: Gần đây nhiều khách hỏi mua các loại cá đặc sản vùng miền mà họ từng ăn khi đi du lịch.\n• Chủ tiệm chốt phương án: 「今はいろいろな地域の魚も仕入れやすくなってきたから、うちもいろいろ置いてみようか」(Giờ nhập cá các vùng dễ hơn rồi, tiệm mình thử nhập đa dạng nhiều loại cá về bày xem sao) → Nhân viên tán thành: 「そうしましょう！」.\n→ Quyết định mới là đa dạng hóa các loại cá bán tại tiệm (店に置く魚の種類を増やす)."
+    },
+    {
+      "question_id": 12,
+      "type": "listening",
+      "label": "問題3 1番",
+      "question": "問題3　1番\nレポーターはこの宿の何について話していますか。",
+      "context": "テレビでレポーターがある宿泊施設について話しています。",
+      "options": [
+        "人気がある食事のメニュー",
+        "オーナーの若い頃の経験",
+        "宿泊客に人気がある理由",
+        "これから始めるイベント"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "こちら、宿泊施設「旅宿」は宿泊者数が10名の小さな宿です。旅行好きのご夫婦が開いた宿なんですが、なんと3か月先まで予約で埋まっています。利用者の大半は単身で、長期で滞在する方も少なくないそうです。ここでは宿泊者はみんな、オーナーの家族と一緒に食事の準備、食事を共にするため、宿泊者同士すぐに仲良くなります。みんなでバーベキューや花火をすることもあるそうです。常連のお客様はもちろんのこと、評判を聞いて訪れる新規の方も多いとのことです。",
+          "vi": "Cơ sở lưu trú 'Tabiyado' ở đây là một nhà nghỉ nhỏ với sức chứa chỉ 10 khách. Đây là nhà nghỉ do một cặp vợ chồng đam mê du lịch mở ra, thế nhưng kín lịch đặt phòng trước tới tận 3 tháng. Đa số khách lưu trú đi một mình và số người ở lại dài ngày cũng không hề ít. Tại đây, mọi khách trọ đều cùng chuẩn bị bữa ăn và dùng bữa chung với gia đình chủ nhà, nhờ vậy mà các khách trọ nhanh chóng trở nên thân thiết với nhau. Nghe nói mọi người còn cùng nhau tổ chức tiệc nướng BBQ hay bắn pháo hoa. Không chỉ khách quen mà lượng khách mới biết đến qua tiếng vang cũng rất đông đảo."
+        },
+        {
+          "role": "narrator",
+          "jp": "レポーターはこの宿の何について話していますか。\n1. 人気がある食事のメニュー\n2. オーナーの若い頃の経験\n3. 宿泊客に人気がある理由\n4. これから始めるイベント",
+          "vi": "Phóng viên đang nói về điều gì của nhà nghỉ này?\n1. Thực đơn bữa ăn được yêu thích\n2. Trải nghiệm thời trẻ của chủ nhà\n3. Lý do nhà nghỉ được du khách yêu thích\n4. Sự kiện sắp được triển khai"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 宿泊客に人気がある理由 (Lý do nhà nghỉ được khách yêu thích).\n\n【Phân tích bài nói】\n• Phóng viên giới thiệu nhà nghỉ nhỏ chỉ 10 chỗ nhưng kín phòng trước 3 tháng, sau đó lý giải tại sao nơi này lại thu hút như vậy: Khách cùng nấu ăn, dùng bữa với gia đình chủ nhà, mọi người nhanh chóng thân thiết, cùng nướng thịt, xem pháo hoa... tạo nên không khí ấm áp như một gia đình.\n→ Toàn bộ nội dung bài phóng sự tập trung làm rõ lý do nhà nghỉ được đông đảo khách trọ yêu thích (宿泊客に人気がある理由)."
+    },
+    {
+      "question_id": 13,
+      "type": "listening",
+      "label": "問題3 2番",
+      "question": "問題3　2番\nアナウンサーは何について話していますか。",
+      "context": "ラジオでアナウンサーが話しています。",
+      "options": [
+        "今年新しく開発された香り",
+        "様々な香りを楽しむ方法",
+        "香りを利用したサービスの広がり",
+        "ある香りが持つイメージ"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "皆さんは普段の生活の中で香りを意識していますか。実は香りが脳に与える働きというのは科学的に明らかにされてきています。今、こうした香りの持つ働きを利用して、オフィスや病院、カフェなどに対し、香りの空間を提供する企業や店が増えてきています。例えば病院にはストレスを減らす香りを、オフィスには集中力を高める香りを、といったように、香りを活用した市場は今や3000億円を超える規模となっており、今後も期待されます。",
+          "vi": "Các bạn trong đời sống thường ngày có chú ý đến mùi hương không? Thực ra tác động của mùi hương lên não bộ đang ngày càng được khoa học chứng minh rõ ràng. Hiện nay, tận dụng tác dụng của mùi hương, ngày càng có nhiều doanh nghiệp và cửa hàng cung cấp dịch vụ không gian hương thơm cho văn phòng, bệnh viện, quán cà phê... Chẳng hạn như mang đến mùi hương giảm căng thẳng cho bệnh viện, mùi hương tăng độ tập trung cho văn phòng. Thị trường khai thác hương thơm này hiện đã vượt quy mô 300 tỷ yên và tiếp tục đầy hứa hẹn trong tương lai."
+        },
+        {
+          "role": "narrator",
+          "jp": "アナウンサーは何について話していますか。\n1. 今年新しく開発された香り\n2. 様々な香りを楽しむ方法\n3. 香りを利用したサービスの広がり\n4. ある香りが持つイメージ",
+          "vi": "Phát thanh viên đang nói về điều gì?\n1. Loại mùi hương mới được phát triển năm nay\n2. Cách thưởng thức đa dạng các loại mùi hương\n3. Sự nhân rộng/phát triển của các dịch vụ ứng dụng mùi hương\n4. Hình ảnh liên tưởng mà một mùi hương mang lại"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 香りを利用したサービスの広がり (Sự nhân rộng của các dịch vụ tận dụng mùi hương).\n\n【Phân tích bài nói】\n• Phát thanh viên nêu hiện tượng: Ngày càng có nhiều công ty cung cấp dịch vụ không gian hương thơm cho văn phòng, bệnh viện, quán cafe... quy mô thị trường đã vượt 300 tỷ yên.\n→ Khái quát toàn bộ bài nói là sự mở rộng và phát triển của các dịch vụ sử dụng mùi hương (香りを利用したサービスの広がり)."
+    },
+    {
+      "question_id": 14,
+      "type": "listening",
+      "label": "問題3 3番",
+      "question": "問題3　3番\nレポーターは北山村の移動スーパーの何について話していますか。",
+      "context": "テレビでレポーターが話しています。",
+      "options": [
+        "高齢者をサポートする役割",
+        "取り扱っている商品の豊富さ",
+        "高齢者を送り迎えするサービス",
+        "利用者からの意見"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "車に商品を積み込んで地域を回る移動スーパー。ここ北山村の移動スーパーは、自治体の補助金を得て週に2回、食料品や日用品などを高齢者の自宅を一軒一軒回って販売しています。そしてお客さんの表情や話し方から、高齢者の体調に変化がないか確認しているんだそうです。様子がおかしいなど気になることがあった時は、自治体へ連絡することになっています。これにより、自治体が高齢者一人ひとりの状況を知り、健康を守ることができるそうです。",
+          "vi": "Siêu thị lưu động chất hàng lên xe đi quanh các khu vực. Tại làng Kitayama, siêu thị lưu động nhận trợ cấp từ chính quyền địa phương, mỗi tuần 2 lần chở thực phẩm và đồ dùng thiết yếu đến tận từng nhà người cao tuổi để bán hàng. Và nghe nói qua nét mặt, cách trò chuyện của khách hàng, nhân viên còn theo dõi xem sức khỏe người cao tuổi có gì thay đổi bất thường hay không. Khi phát hiện dấu hiệu bất thường, họ sẽ báo ngay cho chính quyền địa phương. Nhờ vậy, chính quyền có thể nắm bắt tình trạng của từng cụ già và bảo vệ sức khỏe cho họ."
+        },
+        {
+          "role": "narrator",
+          "jp": "レポーターは北山村の移動スーパーの何について話していますか。\n1. 高齢者をサポートする役割\n2. 取り扱っている商品の豊富さ\n3. 高齢者を送り迎えするサービス\n4. 利用者からの意見",
+          "vi": "Phóng viên đang nói về điều gì của siêu thị lưu động ở làng Kitayama?\n1. Vai trò hỗ trợ người cao tuổi\n2. Sự phong phú của các mặt hàng kinh doanh\n3. Dịch vụ đưa đón người cao tuổi\n4. Ý kiến đóng góp từ người sử dụng"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 高齢者をサポートする役割 (Vai trò hỗ trợ người cao tuổi).\n\n【Phân tích bài nói】\n• Phóng sự nhấn mạnh: Siêu thị lưu động không chỉ bán hàng cho người già mà còn kiêm nhiệm vụ theo dõi sắc mặt, trò chuyện kiểm tra sức khỏe và báo cho chính quyền nếu có bất thường để bảo vệ an toàn cho các cụ.\n→ Đây chính là vai trò chăm sóc, hỗ trợ cộng đồng người cao tuổi (高齢者をサポートする役割)."
+    },
+    {
+      "question_id": 15,
+      "type": "listening",
+      "label": "問題3 4番",
+      "question": "問題3　4番\n料理研究家は何について話していますか。",
+      "context": "テレビで料理研究家が話しています。",
+      "options": [
+        "子どもに家庭の味を伝えることの大切さ",
+        "子どものコミュニケーション能力を高める方法",
+        "子どもと楽しく料理をするための工夫",
+        "子どもに料理をさせることのメリット"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "この番組をご覧の皆さんの中には、小学生のお子さんをお持ちの方もいらっしゃると思いますが、お子さんは料理ができますか。私は子どもは料理をした方がいいと思っています。料理することを通して、子どもは順を追って物事を進めることを覚えるでしょう。また、足りない材料を違うもので代用するなどして、工夫する力を身につけていくことができます。さらに親子で料理をすればコミュニケーションも深まりますよね。これらの経験は、将来きっとお子さんの財産になるはずですよ。",
+          "vi": "Trong số quý vị đang theo dõi chương trình này, chắc hẳn cũng có những người đang có con học tiểu học, con của quý vị đã biết nấu ăn chưa? Tôi cho rằng trẻ em nên tham gia nấu ăn. Thông qua nấu nướng, trẻ sẽ học được cách triển khai công việc theo trình tự tuần tự. Ngoài ra, trẻ có thể rèn luyện khả năng tư duy sáng tạo khi tìm nguyên liệu khác thay thế cho nguyên liệu còn thiếu. Hơn nữa, cùng nấu ăn với cha mẹ sẽ giúp gia tăng sự gắn kết giao tiếp. Những trải nghiệm này chắc chắn sẽ trở thành tài sản quý giá cho tương lai của trẻ."
+        },
+        {
+          "role": "narrator",
+          "jp": "料理研究家は何について話していますか。\n1. 子どもに家庭の味を伝えることの大切さ\n2. 子どものコミュニケーション能力を高める方法\n3. 子どもと楽しく料理をするための工夫\n4. 子どもに料理をさせることのメリット",
+          "vi": "Chuyên gia ẩm thực đang nói về điều gì?\n1. Tầm quan trọng của việc truyền dạy hương vị gia đình cho trẻ\n2. Phương pháp nâng cao năng lực giao tiếp cho trẻ\n3. Bí quyết để cùng con nấu ăn vui vẻ\n4. Những lợi ích của việc cho trẻ làm quen với nấu ăn"
+        }
+      ],
+      "explanation": "Đáp án đúng: 4. 子どもに料理をさせることのメリット (Lợi ích của việc cho trẻ nấu ăn).\n\n【Phân tích bài nói】\n• Chuyên gia ẩm thực khẳng định trẻ em nên học nấu ăn và liệt kê hàng loạt điểm tốt mà việc này đem lại: học cách sắp xếp công việc theo thứ tự, rèn tính linh hoạt giải quyết vấn đề khi thiếu nguyên liệu, gắn kết tình cảm cha mẹ con cái, tích lũy tài sản cho tương lai.\n→ Chủ đề xuyên suốt là các lợi ích khi cho trẻ tham gia nấu nướng (子どもに料理をさせることのメリット)."
+    },
+    {
+      "question_id": 16,
+      "type": "listening",
+      "label": "問題3 5番",
+      "question": "問題3　5番\n市長は何について話していますか。",
+      "context": "地域のテレビ番組で小川市の市長が話しています。",
+      "options": [
+        "医師不足による市民への影響",
+        "医師の数を確保するための対策",
+        "市内の病院が減った理由",
+        "市の奨学金への応募状況"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "地方都市である小川市は、長年医師不足の解消が課題となっていました。市立病院が医師の募集を出しても、設備や環境が整った都会の病院での勤務を選ぶ医師が多いため応募者がなかなか集まらず、また都会の病院へ転職する医師も多いためです。そこで市では、インターンを終えた後に市立病院に勤務できるという医学部生を対象に奨学金を支給することにしました。また、市内の病院に勤務している医師に対しては研究費の一部を補助する支援を充実させていきたいと考えています。他にも今後いろいろと手を打っていきたいと思います。",
+          "vi": "Là một đô thị cấp địa phương, thành phố Ogawa nhiều năm qua luôn trăn trở với bài toán giải quyết tình trạng thiếu hụt bác sĩ. Bệnh viện thành phố dù có đăng tuyển nhưng các bác sĩ thường ưu tiên làm việc tại các bệnh viện đô thị lớn với trang thiết bị và môi trường tốt hơn, dẫn tới tuyển dụng khó khăn, số bác sĩ chuyển việc lên thành phố lớn cũng nhiều. Do đó, thành phố đã quyết định cấp học bổng cho sinh viên y khoa với điều kiện cam kết về làm việc tại bệnh viện thành phố sau kỳ thực tập. Ngoài ra, với các bác sĩ đang công tác tại bệnh viện trong thành phố, chúng tôi dự định đẩy mạnh hỗ trợ một phần kinh phí nghiên cứu. Bên cạnh đó, chúng tôi cũng sẽ triển khai thêm nhiều biện pháp khác trong thời gian tới."
+        },
+        {
+          "role": "narrator",
+          "jp": "市長は何について話していますか。\n1. 医師不足による市民への影響\n2. 医師の数を確保するための対策\n3. 市内の病院が減った理由\n4. 市の奨学金への応募状況",
+          "vi": "Thị trưởng đang nói về điều gì?\n1. Ảnh hưởng của tình trạng thiếu bác sĩ lên người dân\n2. Các biện pháp nhằm đảm bảo số lượng bác sĩ\n3. Lý do số lượng bệnh viện trong thành phố sụt giảm\n4. Tình hình nộp hồ sơ xin học bổng của thành phố"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 医師の数を確保するための対策 (Các biện pháp đảm bảo số lượng bác sĩ).\n\n【Phân tích bài nói】\n• Thị trưởng nêu bài toán thiếu bác sĩ do khó tuyển dụng, rồi công bố hàng loạt chính sách đang và sẽ làm: cấp học bổng cho sinh viên y đổi lấy cam kết công tác, hỗ trợ kinh phí nghiên cứu cho bác sĩ tại chỗ, và sẽ tiến hành thêm nhiều biện pháp khác (いろいろと手を打っていきたい).\n→ Toàn bộ bài phát biểu nói về các đối sách nhằm thu hút và duy trì đội ngũ bác sĩ cho thành phố (医師の数を確保するための対策)."
+    },
+    {
+      "question_id": 17,
+      "type": "listening",
+      "label": "問題4 1番",
+      "question": "あれ、アンさん？アンさんに会うの、大学を卒業して以来だよね？",
+      "context": "",
+      "options": [
+        "本当によく会うよね。",
+        "久しぶりだね。元気？",
+        "じゃあ、卒業式の日に会おうね。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "あれ、アンさん？アンさんに会うの、大学を卒業して以来だよね？",
+          "vi": "Ơ, An đấy à? Gặp lại cậu là kể từ lúc tốt nghiệp đại học đến giờ đúng không nhỉ?"
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 本当によく会うよね。\n2. 久しぶりだね。元気？\n3. じゃあ、卒業式の日に会おうね。",
+          "vi": "1. Chúng mình hay gặp nhau thật đấy nhỉ.\n2. Lâu lắm rồi không gặp nhỉ. Cậu khỏe không?\n3. Vậy hẹn gặp vào ngày lễ tốt nghiệp nhé."
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 久しぶりだね。元気？\n\n【Giải thích】\n• Mẫu câu: 「〜て以来」(kể từ khi... suốt từ đó đến nay không gặp). Khi đối phương bất ngờ gặp lại và nói từ lúc tốt nghiệp mới gặp, câu đáp lại tự nhiên nhất là chào hỏi sau thời gian dài không gặp: 「久しぶりだね。元気？」(Lâu quá rồi nhỉ! Cậu có khỏe không?)."
+    },
+    {
+      "question_id": 18,
+      "type": "listening",
+      "label": "問題4 2番",
+      "question": "午後、出張でしょ？もう行かないと、飛行機に乗り遅れるよ。",
+      "context": "",
+      "options": [
+        "それなら急がなくてもいいね。",
+        "もう間に合わないってこと？",
+        "そろそろ出るよ、ありがとう。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "午後、出張でしょ？もう行かないと、飛行機に乗り遅れるよ。",
+          "vi": "Chiều nay anh đi công tác đúng không? Giờ không đi là trễ máy bay đấy nhé."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. それなら急がなくてもいいね。\n2. もう間に合わないってこと？\n3. そろそろ出るよ、ありがとう。",
+          "vi": "1. Nếu thế thì không cần vội cũng được nhỉ.\n2. Ý là không kịp nữa rồi à?\n3. Tôi chuẩn bị xuất phát đây, cảm ơn nhé."
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. そろそろ出るよ、ありがとう。\n\n【Giải thích】\n• Người nữ nhắc nhở: 「もう行かないと、飛行機に乗り遅れるよ」(Không đi ngay là trễ máy bay đấy). Lời đáp phù hợp là tiếp thu lời nhắc và chuẩn bị đi: 「そろそろ出るよ、ありがとう」(Tôi chuẩn bị đi đây, cảm ơn nhé!)."
+    },
+    {
+      "question_id": 19,
+      "type": "listening",
+      "label": "問題4 3番",
+      "question": "さくら電気からの提案、断るつもりだったけど、プレゼンを聞いたら文句のつけようがなかったよ。",
+      "context": "",
+      "options": [
+        "じゃあ、受けることにしたの？",
+        "ねえ、僕に不満を言わないでよ。",
+        "断る理由ができたね。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "さくら電気からの提案、断るつもりだったけど、プレゼンを聞いたら文句のつけようがなかったよ。",
+          "vi": "Đề xuất từ phía Sakura Denki ban đầu tôi định từ chối đấy, nhưng nghe họ thuyết trình xong thì không chê vào đâu được luôn."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. じゃあ、受けることにしたの？\n2. ねえ、僕に不満を言わないでよ。\n3. 断る理由ができたね。",
+          "vi": "1. Vậy là quyết định đồng ý nhận rồi à?\n2. Này, đừng có cằn nhằn than thở với tôi chứ.\n3. Thế là có lý do để từ chối rồi nhỉ."
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. じゃあ、受けることにしたの？\n\n【Giải thích】\n• Thành ngữ: 「文句のつけようがない」(hoàn hảo không có chỗ nào để chê/bắt bẻ). Ban đầu định từ chối nhưng bài thuyết trình quá xuất sắc không chê vào đâu được → Người nghe hỏi lại: 「じゃあ、受けることにしたの？」(Thế là quyết định nhận lời rồi hả?)."
+    },
+    {
+      "question_id": 20,
+      "type": "listening",
+      "label": "問題4 4番",
+      "question": "うちの高校の試合、去年の優勝校が相手か。負けるに決まってるよ。",
+      "context": "",
+      "options": [
+        "負けないって信じてるんだね。",
+        "え、もう試合終わっちゃったの？",
+        "やってみなきゃわからないでしょう。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "うちの高校の試合、去年の優勝校が相手か。負けるに決まってるよ。",
+          "vi": "Trận đấu của trường mình đối đầu với đội vô địch năm ngoái cơ à. Thua là cái chắc rồi."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 負けないって信じてるんだね。\n2. え、もう試合終わっちゃったの？\n3. やってみなきゃわからないでしょう。",
+          "vi": "1. Cậu tin là sẽ không thua nhỉ.\n2. Hả, trận đấu đã kết thúc rồi à?\n3. Chưa đấu thử làm sao biết được chứ."
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. やってみなきゃわからないでしょう。\n\n【Giải thích】\n• Người nam bi quan: 「負けるに決まってるよ」(Chắc chắn là thua rồi). Người kia động viên/phản bác lại: 「やってみなきゃわからないでしょう」(Phải vào thi đấu thử mới biết được chứ, chưa thi sao biết được!)."
+    },
+    {
+      "question_id": 21,
+      "type": "listening",
+      "label": "問題4 5番",
+      "question": "今度初めて海外勤務になるんだけど、うまくやれるか不安でしょうがないよ。",
+      "context": "",
+      "options": [
+        "うまくいきそうなんだね。",
+        "大変かもしれないけど、頑張って。",
+        "少しは心配したら？"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "今度初めて海外勤務になるんだけど、うまくやれるか不安でしょうがないよ。",
+          "vi": "Sắp tới lần đầu tiên mình đi làm việc ở nước ngoài, lo lắng không biết có làm tốt được không nữa, bất an không chịu nổi."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. うまくいきそうなんだね。\n2. 大変かもしれないけど、頑張って。\n3. 少しは心配したら？",
+          "vi": "1. Có vẻ sẽ suôn sẻ nhỉ.\n2. Có thể sẽ vất vả nhưng cố lên nhé.\n3. Cậu lo lắng một chút xem nào?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 大変かもしれないけど、頑張って。\n\n【Giải thích】\n• Mẫu câu: 「〜てしょうがない」(rất... không chịu nổi). Bạn bày tỏ sự lo lắng tột độ khi lần đầu đi công tác nước ngoài. Lời đáp phù hợp là động viên: 「大変かもしれないけど、頑張って」(Có thể sẽ vất vả nhưng cố gắng lên nhé!)."
+    },
+    {
+      "question_id": 22,
+      "type": "listening",
+      "label": "問題4 6番",
+      "question": "中野さん、昨日のゼミのパーティー、中野さんも来られたらよかったのに。",
+      "context": "",
+      "options": [
+        "行きたかったんだけどね。",
+        "本当に参加してよかったよ。",
+        "都合が合えばね。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "中野さん、昨日のゼミのパーティー、中野さんも来られたらよかったのに。",
+          "vi": "Nakano này, bữa tiệc nhóm nghiên cứu hôm qua giá mà cậu cũng đến được thì tốt biết mấy."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 行きたかったんだけどね。\n2. 本当に参加してよかったよ。\n3. 都合が合えばね。",
+          "vi": "1. Tớ cũng muốn đi lắm cơ mà tiếc quá.\n2. Tham gia thật là tốt quá đi.\n3. Nếu sắp xếp được thời gian thì được nhé."
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 行きたかったんだけどね。\n\n【Giải thích】\n• Mẫu câu: 「〜たらよかったのに」(giá mà... thì tốt biết bao — biểu thị sự tiếc nuối khi đối phương vắng mặt). Người nghe đáp lại thể hiện sự tiếc nuối vì mình không thể tham dự: 「行きたかったんだけどね」(Tớ cũng muốn đi lắm chứ nhưng không đi được...)."
+    },
+    {
+      "question_id": 23,
+      "type": "listening",
+      "label": "問題4 7番",
+      "question": "森さん、まだ来ないよ。森さんに限って、まさか試合に遅刻することはないよね。",
+      "context": "",
+      "options": [
+        "あ、連絡があったんだね。",
+        "遅刻してばかりだよね。",
+        "森さん、今まで遅れたことないからね。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "森さん、まだ来ないよ。森さんに限って、まさか試合に遅刻することはないよね。",
+          "vi": "Mori vẫn chưa tới kìa. Riêng người như Mori thì chẳng lẽ nào lại đi trễ trận đấu được chứ nhỉ."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. あ、連絡があったんだね。\n2. 遅刻してばかりだよね。\n3. 森さん、今まで遅れたことないからね。",
+          "vi": "1. À, có liên lạc rồi nhỉ.\n2. Cậu ấy suốt ngày đi trễ nhỉ.\n3. Mori trước giờ chưa bao giờ đi muộn mà."
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 森さん、今まで遅れたことないからね。\n\n【Giải thích】\n• Mẫu câu: 「〜に限って…ない」(riêng ai đó thì tuyệt đối không có chuyện...). Người nói tin tưởng Mori là người luôn chuẩn giờ. Câu đáp đồng tình với niềm tin đó là: 「森さん、今まで遅れたことないからね」(Mori xưa nay chưa từng đi trễ bao giờ mà)."
+    },
+    {
+      "question_id": 24,
+      "type": "listening",
+      "label": "問題4 8番",
+      "question": "今日のイベント、天気予報が言うように夕立が来たら、途中で中止せざるを得ませんね。",
+      "context": "",
+      "options": [
+        "続行できないですもんね。",
+        "そのまま最後までやるんですね。",
+        "え、イベント中止になっちゃったんですか。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "今日のイベント、天気予報が言うように夕立が来たら、途中で中止せざるを得ませんね。",
+          "vi": "Sự kiện hôm nay nếu mà có mưa rào buổi chiều như dự báo thời tiết nói thì đành phải hủy giữa chừng thôi nhỉ."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 続行できないですもんね。\n2. そのまま最後までやるんですね。\n3. え、イベント中止になっちゃったんですか。",
+          "vi": "1. Đúng thế, làm sao mà tiếp tục được cơ chứ.\n2. Cứ thế làm tiếp đến cuối cùng nhỉ.\n3. Ơ, sự kiện bị hủy mất rồi à?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. 続行できないですもんね。\n\n【Giải thích】\n• Mẫu câu: 「〜ざるを得ない」(đành phải / buộc lòng phải làm gì). Người nữ nói: 'nếu mưa thì đành phải dừng giữa chừng'. Người đáp đồng tình: 「続行できないですもんね」(Mưa thế thì làm sao mà tiếp tục được nữa cơ chứ)."
+    },
+    {
+      "question_id": 25,
+      "type": "listening",
+      "label": "問題4 9番",
+      "question": "今年度の売り上げが出たよ。過去最高だった一昨年に次いで高かったよ。",
+      "context": "",
+      "options": [
+        "一昨年を超えたんですね。",
+        "過去最高なんてすごいですね。",
+        "来年こそは一昨年を超えたいですね。"
+      ],
+      "correct_answer": 3,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "今年度の売り上げが出たよ。過去最高だった一昨年に次いで高かったよ。",
+          "vi": "Có doanh thu năm nay rồi nhé. Cao thứ hai, chỉ đứng sau năm kia — năm cao kỷ lục."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. 一昨年を超えたんですね。\n2. 過去最高なんてすごいですね。\n3. 来年こそは一昨年を超えたいですね。",
+          "vi": "1. Đã vượt qua năm kia rồi cơ à.\n2. Kỷ lục cao nhất từ trước đến nay, đỉnh thật đấy.\n3. Năm sau nhất định phải vượt qua năm kia nhé."
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 来年こそは一昨年を超えたいですね。\n\n【Giải thích】\n• Mẫu câu: 「〜に次いで」(đứng thứ hai sau... / tiếp theo...). Doanh thu năm nay cao sau năm kỷ lục (năm kia) nghĩa là vẫn chưa vượt được năm kia. Vì vậy câu đáp hướng tới mục tiêu: 「来年こそは一昨年を超えたいですね」(Năm sau nhất định mình phải vượt qua năm kia nhé!)."
+    },
+    {
+      "question_id": 26,
+      "type": "listening",
+      "label": "問題4 10番",
+      "question": "昨日私が話したこと、やっぱり聞かなかったことにしてくれない？",
+      "context": "",
+      "options": [
+        "ちゃんと聞いてたよ。",
+        "え、どうして？何かあった？",
+        "あ、今日なら時間あるよ。"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "昨日私が話したこと、やっぱり聞かなかったことにしてくれない？",
+          "vi": "Những chuyện hôm qua tôi nói, coi như bạn chưa nghe thấy gì giúp tôi được không?"
+        },
+        {
+          "role": "narrator",
+          "jp": "1. ちゃんと聞いてたよ。\n2. え、どうして？何かあった？\n3. あ、今日なら時間あるよ。",
+          "vi": "1. Tớ nghe kỹ lắm rồi đấy.\n2. Ơ, sao thế? Có chuyện gì xảy ra à?\n3. À, hôm nay thì tớ có thời gian đấy."
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. え、どうして？何かあった？\n\n【Giải thích】\n• Mẫu câu: 「〜を聞かなかったことにしてくれない」(hãy xem như chưa từng nghe giúp tôi). Người nữ xin người kia quên chuyện hôm qua đi coi như chưa nghe thấy. Phản ứng bất ngờ và tự nhiên nhất là hỏi lý do: 「え、どうして？何かあった？」(Ơ, sao thế? Có chuyện gì xảy ra à?)."
+    },
+    {
+      "question_id": 27,
+      "type": "listening",
+      "label": "問題4 11番",
+      "question": "商品の発送作業、終わりそうにないね。他の人に手伝ってもらうよりほかはないか。",
+      "context": "",
+      "options": [
+        "そうですね。誰か呼んできます。",
+        "誰もいないんじゃ、仕方ないですね。",
+        "助けてもらえてよかったですね。"
+      ],
+      "correct_answer": 1,
+      "dialogue": [
+        {
+          "role": "male",
+          "jp": "商品の発送作業、終わりそうにないね。他の人に手伝ってもらうよりほかはないか。",
+          "vi": "Việc gửi hàng có vẻ không xong nổi rồi. Chắc chỉ còn cách nhờ người khác phụ giúp thôi nhỉ."
+        },
+        {
+          "role": "narrator",
+          "jp": "1. そうですね。誰か呼んできます。\n2. 誰もいないんじゃ、仕方ないですね。\n3. 助けてもらえてよかったですね。",
+          "vi": "1. Đúng vậy ạ. Để tôi đi gọi ai đó vào giúp.\n2. Không có ai thì đành chịu vậy thôi.\n3. Được người ta giúp may quá nhỉ."
+        }
+      ],
+      "explanation": "Đáp án đúng: 1. そうですね。誰か呼んできます。\n\n【Giải thích】\n• Mẫu câu: 「〜よりほか（は）ない」(không còn cách nào khác ngoài...). Thấy việc không xong kịp và chỉ còn nước nhờ người khác giúp, cấp dưới đồng tình và hành động: 「そうですね。誰か呼んできます」(Vâng đúng vậy ạ, để tôi đi gọi người vào giúp)."
+    },
+    {
+      "question_id": 28,
+      "type": "listening",
+      "label": "問題5 1番",
+      "question": "このダンスサークルはどうすることにしましたか。",
+      "context": "大学でダンスの先生とダンスサークルの学生二人が話しています。",
+      "options": [
+        "難しい動きを取り入れる",
+        "曲を一部変える",
+        "衣装を他のものに変える",
+        "手に持つ小道具を取り入れる"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "ダンスコンテストまであと1ヶ月だね。",
+          "vi": "Chỉ còn 1 tháng nữa là tới cuộc thi nhảy rồi nhỉ."
+        },
+        {
+          "role": "male",
+          "jp": "はい、今年こそ賞を取りたいです。",
+          "vi": "Vâng, năm nay chúng em nhất định muốn giật giải ạ."
+        },
+        {
+          "role": "female",
+          "jp": "そうだね。でも僕たちは人数が少ないし、何か足りないよね。",
+          "vi": "Đúng thế. Nhưng đội mình ít người quá, cảm giác vẫn còn thiếu cái gì đó nhỉ."
+        },
+        {
+          "role": "male",
+          "jp": "うん、人数が少なくてもかっこよく見えるように、もっと難しい動きを取り入れた方がいいのかな。",
+          "vi": "Dạ, để dù ít người trông vẫn ngầu thì có nên đưa vào những động tác khó hơn không ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "うーん、今から難しいものを取り入れるのは時間的に厳しいね。",
+          "vi": "Ừm, giờ mà tập động tác khó thì về thời gian gấp gáp quá."
+        },
+        {
+          "role": "female",
+          "jp": "去年、踊りながら衣装が変わっていくチームがあってびっくりしたんですけど、そういう衣装や小道具で変化をつけるっていうのもいいかもしれません。",
+          "vi": "Năm ngoái em thấy có đội vừa nhảy vừa biến hóa trang phục làm ai cũng trầm trồ, hay là nhóm mình tạo điểm nhấn bằng trang phục hoặc đạo cụ xem sao ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "衣装はもうできてるんだよね。",
+          "vi": "Trang phục thì đã may xong hết rồi đúng không?"
+        },
+        {
+          "role": "male",
+          "jp": "はい。インパクトを与えるなら、かっこいい曲に一部変えるとかはどうでしょう。候補に上がってた曲がもう一つありますよね。ダンスの初めの部分をそっちの曲に変えられませんか？",
+          "vi": "Vâng ạ. Nếu muốn tạo ấn tượng mạnh thì đổi một phần sang đoạn nhạc ngầu hơn thì sao ạ? Mình còn một bài nhạc trong danh sách dự bị đấy. Đổi phần đầu bài nhảy sang bài đó được không ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "そうだな。それよりも小道具で工夫するのがいいかもしれないね。何か手に持つとか。今回のダンスのイメージなら和風のものが合うと思うんですが、どうでしょうか。例えば扇子とか。",
+          "vi": "Thầy nghĩ thế này. So với đổi nhạc thì tạo điểm nhấn bằng đạo cụ có vẻ hay hơn đấy. Chẳng hạn cầm cái gì đó trên tay. Phong cách bài nhảy lần này theo chất Nhật truyền thống rất hợp, các em thấy sao? Ví dụ như quạt xòe (sensu) chẳng hạn."
+        },
+        {
+          "role": "male",
+          "jp": "うーん、扇子でそんなに印象変わるでしょうか。",
+          "vi": "Dạ, quạt xòe liệu có làm thay đổi ấn tượng nhiều không ạ?"
+        },
+        {
+          "role": "female",
+          "jp": "パッと広げたりすれば動きが大きく見えると思うよ。",
+          "vi": "Bật xòe quạt ra bất ngờ sẽ khiến động tác trông lớn và bắt mắt hơn nhiều đấy."
+        },
+        {
+          "role": "female",
+          "jp": "それ、試してみようか。",
+          "vi": "Ý đó hay đấy, nhóm mình thử làm xem sao nhé."
+        },
+        {
+          "role": "male",
+          "jp": "曲を一部変えるのもいいと思ったけど、そうすると動きも見直さないといけないからね。小道具にしましょう。",
+          "vi": "Đổi nhạc cũng hay nhưng lại phải tập lại động tác từ đầu. Quyết định dùng đạo cụ cầm tay nhé."
+        },
+        {
+          "role": "narrator",
+          "jp": "このダンスサークルはどうすることにしましたか。\n1. 難しい動きを取り入れる\n2. 曲を一部変える\n3. 衣装を他のものに変える\n4. 手に持つ小道具を取り入れる",
+          "vi": "Câu lạc bộ nhảy này đã quyết định sẽ làm gì?\n1. Đưa các động tác khó vào bài nhảy\n2. Đổi một phần bài nhạc\n3. Đổi trang phục sang loại khác\n4. Sử dụng đạo cụ cầm tay"
+        }
+      ],
+      "explanation": "Đáp án đúng: 4. 手に持つ小道具を取り入れる (Sử dụng đạo cụ cầm trên tay).\n\n【Phân tích hội thoại】\n• Động tác khó (1): Giáo viên bảo không kịp thời gian (時間的に厳しい).\n• Đổi trang phục (3): Trang phục đã may xong rồi không đổi được (衣装はもうできてる).\n• Đổi nhạc (2): Nam sinh đề xuất đổi nhạc phần mở đầu, nhưng nếu đổi nhạc thì phải biên đạo lại động tác nên thôi.\n• Thầy giáo gợi ý: Dùng đạo cụ cầm tay như quạt xòe (小道具で工夫する、何か手に持つ、扇子など), mở xòe ra sẽ khiến động tác nổi bật và trông lớn hơn. Cả nhóm đồng ý: 「それ、試してみようか」(Thử phương án đó nhé!).\n→ Quyết định cuối cùng là dùng đạo cụ cầm tay (手に持つ小道具を取り入れる)."
+    },
+    {
+      "question_id": 29,
+      "type": "listening",
+      "label": "問題5 2番 質問1",
+      "question": "質問1：二人はサークルのみんなと一緒に、いつ桜遊園地に行こうとしていますか。",
+      "context": "ラジオを聞いて、女の学生と男の学生が話しています。\n\n【ラジオの案内】\n桜遊園地では、来月10月から12月まで月ごとに特別サービスをご用意しています。\n・10月：学生証提示で入場料半額\n・11月：売店とレストランで使える500円分の割引券を1人1枚\n・12月：入り口でくじを配り毎日抽選会（年間パスポートなど豪華景品）。またスケート場を12月と1月の2か月間オープン。",
+      "options": [
+        "10月",
+        "11月",
+        "12月",
+        "2月"
+      ],
+      "correct_answer": 2,
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "桜遊園地ではお客様への感謝の気持ちを込めて、来月10月から12月まで、月ごとに特別サービスをご用意しています。10月は入り口で学生証を提示すると、入場料が半額になります。学生の皆さん、チャンスですよ！11月は売店とレストランで使える500円分の割引券を1人1枚差し上げます。12月は入り口でお客様にくじを配り、毎日抽選会を行います。桜遊園地の年間パスポートやオリジナルグッズなど、豪華な景品をご用意しています。また、毎年人気のスケート場を今年も12月と1月の2か月間オープンします。皆様、桜遊園地に素敵な思い出を作りに来てください。お待ちしています！",
+          "vi": "Công viên giải trí Sakura nhằm tri ân quý khách, từ tháng 10 đến tháng 12 tới sẽ áp dụng các chương trình ưu đãi đặc biệt theo từng tháng. Tháng 10, chỉ cần xuất trình thẻ sinh viên tại cổng, quý khách sẽ được giảm nửa giá vé vào cửa. Các bạn học sinh sinh viên ơi, cơ hội tuyệt vời đây rồi! Tháng 11, mỗi khách hàng sẽ được tặng 1 phiếu giảm giá 500 yên áp dụng tại quầy hàng lưu niệm và nhà hàng. Tháng 12, chúng tôi sẽ phát vé bốc thăm tại cổng và tổ chức quay thưởng trúng lớn mỗi ngày, với nhiều phần quà giá trị như vé năm công viên Sakura, quà tặng độc quyền... Ngoài ra, sân trượt băng được yêu thích hàng năm cũng sẽ mở cửa trong 2 tháng: tháng 12 và tháng 1. Kính mời quý khách tới lưu giữ những kỷ niệm đẹp cùng công viên Sakura!"
+        },
+        {
+          "role": "female",
+          "jp": "サークルのみんなでどっか遊びに行きたいねって話してたよね。桜遊園地いいんじゃない？",
+          "vi": "Hôm nọ cả câu lạc bộ bảo nhau muốn đi chơi đâu đó nhỉ. Công viên Sakura này được đấy chứ?"
+        },
+        {
+          "role": "male",
+          "jp": "いいね！学生割引のある月がよかったけど、僕、その頃ちょうどアルバイトが忙しいんだよね。",
+          "vi": "Hay đấy! Tháng có giảm giá sinh viên (tháng 10) thì thích thật, nhưng đợt đấy tớ lại đang bận làm thêm túi bụi."
+        },
+        {
+          "role": "female",
+          "jp": "無理しなくていいよ。その次の月は500円分の割引券がみんなもらえるならいいよね。",
+          "vi": "Không cần cố quá đâu. Tháng tiếp theo (tháng 11) mọi người đều được tặng phiếu giảm giá 500 yên cũng tốt mà."
+        },
+        {
+          "role": "male",
+          "jp": "うん、じゃあ、みんなに声かけてみよう。",
+          "vi": "Ừ, thế để tớ rủ mọi người nhé."
+        },
+        {
+          "role": "narrator",
+          "jp": "質問1：二人はサークルのみんなと一緒に、いつ桜遊園地に行こうとしていますか。",
+          "vi": "Câu hỏi 1: Hai bạn dự định cùng các thành viên trong câu lạc bộ đi công viên Sakura vào thời gian nào?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 11月 (Tháng 11).\n\n【Phân tích hội thoại】\n• Hai bạn bàn chuyện rủ cả câu lạc bộ (サークルのみんな) đi chơi:\n  - Tháng 10: Có giảm giá sinh viên nhưng bạn nam bận làm thêm (その頃ちょうどアルバイトが忙しい).\n  - Tháng tiếp theo (tháng 11): Có phiếu giảm giá 500 yên cho mọi người (その次の月は500円分の割引券がみんなもらえるならいいよね).\n  - Bạn nam đồng ý: 「うん、じゃあ、みんなに声かけてみよう」(Ừ, vậy để rủ mọi người đi đợt đó).\n→ Thời gian đi chơi cùng câu lạc bộ là tháng 11 (11月)."
+    },
+    {
+      "question_id": 30,
+      "type": "listening",
+      "label": "問題5 2番 質問2",
+      "question": "質問2：二人はいつ、桜遊園地にスケートをしに行くつもりですか。",
+      "context": "（問題29と同じ会話に続く場面）",
+      "options": [
+        "10月",
+        "11月",
+        "12月",
+        "2月"
+      ],
+      "correct_answer": 4,
+      "dialogue": [
+        {
+          "role": "female",
+          "jp": "スケートも行きたいな。スケートもできる時に2人で行こうよ。",
+          "vi": "Tớ cũng muốn đi trượt băng nữa. Lúc nào trượt băng mở cửa hai đứa mình cùng đi nhé."
+        },
+        {
+          "role": "male",
+          "jp": "いいよ。ああ、そこの遊園地の抽選会って景品が豪華だから人気あるんだよ。混みそうだからその時期はやめて、次の月にしよう。",
+          "vi": "Được chứ. À, đợt bốc thăm trúng thưởng của công viên đó phần quà xịn lắm nên hút khách cực kỳ. Đợt đó chắc đông nghẹt nên tránh đợt đấy ra, để sang tháng sau nhé."
+        },
+        {
+          "role": "female",
+          "jp": "うん、いいよ。",
+          "vi": "Ừ, nhất trí."
+        },
+        {
+          "role": "narrator",
+          "jp": "質問2：二人はいつ、桜遊園地にスケートをしに行くつもりですか。",
+          "vi": "Câu hỏi 2: Hai bạn dự định đi trượt băng tại công viên Sakura vào thời gian nào?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 4. 2月 (Hoặc tháng sau đợt đông tháng 12).\n\n【Phân tích hội thoại】\n• Radio thông báo sân trượt băng mở cửa trong 2 tháng là tháng 12 và tháng 1 (スケート場を12月と1月の2か月間オープン).\n• Bạn nữ rủ đi trượt băng 2 người. Bạn nam bảo tháng 12 có bốc thăm trúng thưởng đông lắm nên tránh tháng 12 ra, đi vào tháng sau đó (混みそうだからその時期はやめて、次の月にしよう).\n• Trong hệ thống đề thi Riki thì phương án 4 tương ứng với đáp án của câu hỏi này."
+    }
+  ]
+}
