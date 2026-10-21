@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T18:05:00Z",
+  "updatedAt": "2026-10-21T13:10:00Z",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -529,6 +529,16 @@
       "topic": "reading",
       "questionCount": 4,
       "file": "exams/N2/N2-29-RD12.json"
+    },
+    {
+      "id": "N2-29-RD13",
+      "code": "N2-29-RD13",
+      "title": "N2.29 · BTBT Đọc hiểu · Đoản văn (19/10)",
+      "track": "N2.29",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 16,
+      "file": "exams/N2/N2-29-RD13.json"
     },
     {
       "id": "N2-29-GD3-01-RD",

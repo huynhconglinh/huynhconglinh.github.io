@@ -1,0 +1,219 @@
+{
+  "id": "N2-29-RD13",
+  "code": "N2-29-RD13",
+  "title": "N2.29 · BTBT Đọc hiểu · Đoản văn (19/10)",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "reading",
+  "source": "riki/N2.29/N2.29_ BTBT_ Đọc hiểu _ Đoản văn (19_10).mhtml",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "問い: このメールで伝えたいことは何か。",
+      "context": "以下は、ある会社の社員が総務課に送ったメールである。\n\n総務課ご担当者様\n\n休憩室について、お願いがあってメールいたしました。\nより多くの人が休憩室を利用できるように、先日テーブルといすを増やしていただきましたが、まだ昼食時に多くの人が利用できず不便を感じています。そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。\nご検討をお願いいたします。\n\n営業第1グループ大月友代",
+      "options": [
+        "会議室のテーブルといすをもっと増やしてほしい。",
+        "昼休みに、会議室を休憩室として使えるようにしてほしい。",
+        "昼休みには、昼食を取る人に休憩室を優先して使わせてほしい。",
+        "昼休み以外にも、会議室で休憩できるようにしてほしい。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 昼休みに、会議室を休憩室として使えるようにしてほしい。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (②):\n  - Nhân viên gửi email cho phòng Tổng vụ để trình bày việc phòng nghỉ (休憩室) dù đã được kê thêm bàn ghế nhưng vào giờ ăn trưa vẫn không đủ chỗ cho nhiều người.\n  - Trọng tâm lời đề nghị nằm ở câu sau 「そのため」: 'そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。' (Vì vậy, trong khoảng thời gian nghỉ trưa, quý bộ phận có thể mở cửa phòng họp cho mọi người sử dụng được không ạ? Nếu làm vậy thì nhiều người hơn sẽ có thể nghỉ ngơi ở đó).\n  - Điều này hoàn toàn trùng khớp với phương án ②: Mong muốn được sử dụng phòng họp làm nơi nghỉ ngơi vào giờ nghỉ trưa.\n• Phân tích các phương án sai:\n  - ① Bẫy râu ông nọ cắm cằm bà kia: Việc kê thêm bàn ghế ở phòng nghỉ là việc đã được làm hôm trước ('先日テーブルといすを増やしていただきましたが'), người viết không yêu cầu kê thêm bàn ghế cho phòng họp.\n  - ③ Bẫy tự suy diễn: Trong email hoàn toàn không đề cập đến việc ưu tiên phòng nghỉ cho người ăn trưa.\n  - ④ Bẫy sai phạm vi thời gian: Người viết chỉ xin mở phòng họp 'trong khoảng thời gian nghỉ trưa' ('昼休みの間は'), không xin mở ngoài giờ nghỉ trưa ('昼休み以外にも').\n\n【Kỹ thuật giải nhanh JLPT】\n• Bước 1 (Xác định câu hỏi): Tìm mục đích chính của email ('このメールで伝えたいことは何か').\n• Bước 2 (Quét cấu trúc email đề nghị): Tìm từ nối chỉ nguyên nhân - kết quả / lời thỉnh cầu ('そのため', '〜ていただけないでしょうか'):\n  - 'そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。'\n• Bước 3 (Đối chiếu 4 phương án):\n  - '昼休みの間は会議室を開放... そこで休憩できるようになる' = '昼休みに、会議室を休憩室として使えるようにしてほしい' -> Khớp 100% với ②.\n• Bước 4: Chọn ② trong 25 giây.\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Điều mà người viết muốn truyền đạt trong email này là gì?\n① Muốn tăng thêm nhiều bàn và ghế trong phòng họp hơn nữa.\n② Muốn được cho phép sử dụng phòng họp như phòng nghỉ vào giờ nghỉ trưa.\n③ Vào giờ nghỉ trưa, muốn ưu tiên cho những người ăn trưa được sử dụng phòng nghỉ.\n④ Muốn có thể nghỉ ngơi tại phòng họp cả vào những lúc ngoài giờ nghỉ trưa.\n\n【Dịch nghĩa bài đọc】\nDưới đây là email do nhân viên của một công ty gửi đến phòng Tổng vụ.\n\nKính gửi: Người phụ trách Phòng Tổng vụ\nTôi viết email này vì có một lời thỉnh cầu liên quan đến phòng nghỉ giải lao.\nĐể nhiều người có thể sử dụng phòng nghỉ hơn, hôm trước quý bộ phận đã bố trí thêm bàn và ghế giúp chúng tôi, thế nhưng vào giờ ăn trưa vẫn còn rất nhiều người không sử dụng được và cảm thấy bất tiện. Chính vì vậy, trong thời gian nghỉ trưa, liệu quý bộ phận có thể mở cửa phòng họp cho mọi người dùng được không ạ? Tôi nghĩ nếu làm như vậy thì sẽ có thêm nhiều người có thể nghỉ ngơi tại đó.\nRất mong quý bộ phận xem xét.\nNhóm Kinh doanh số 1 - Otsuki Tomoyo"
+    },
+    {
+      "question_id": 2,
+      "question": "問い: 生物について、筆者の考えに合うのはどれか。",
+      "context": "条件が違えば、勝者が敗者になり、敗者が勝者になるのが自然の生物社会です。どの生物もすべての環境条件で競争の勝者になることはできません。生態（注1）学の研究が示すのは多様な環境の重要性です。生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます。\n競争は敗者を排除（注2）するプロセスではなく、多様な環境の中にそれぞれの生物の居場所をつくり出すプロセスといってもよいかもしれません。\n\n（注1）生態学：生物の生き方と環境に関する科学\n（注2）排除する：ここでは、取り除く",
+      "options": [
+        "ある環境で競争に負けても、自分に合った別の環境で生き残れる。",
+        "多様な環境の中で自らを変化させなければ、競争に勝てない。",
+        "競争に負けた生物は、場所を変えずにそこで生きられるように変化する。",
+        "競争に勝たなければ、すべての環境条件で生き残れない。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① ある環境で競争に負けても、自分に合った別の環境で生き残れる。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (①):\n  - Tác giả chỉ ra quy luật của xã hội sinh vật tự nhiên: Khi điều kiện thay đổi thì kẻ thắng có thể thành kẻ thua và kẻ thua có thể thành kẻ thắng; không sinh vật nào có thể chiến thắng ở mọi điều kiện môi trường.\n  - Tiếp theo, tác giả nhấn mạnh: '生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます。競争は敗者を排除するプロセスではなく、多様な環境の中にそれぞれの生物の居場所をつくり出すプロセスといってもよいかもしれません。' (Nhờ có cạnh tranh mà sinh vật tìm được môi trường phù hợp với mình trong các môi trường đa dạng. Cạnh tranh không phải là quá trình loại bỏ kẻ thua cuộc, mà là quá trình tạo ra chỗ đứng cho từng loài sinh vật trong môi trường đa dạng).\n  - Điều này đồng nghĩa với việc: Dù thua cuộc ở một môi trường nào đó, sinh vật vẫn có thể tìm thấy và sinh tồn ở một môi trường khác phù hợp với mình (ある環境で競争に負けても、自分に合った別の環境で生き残れる). Phương án ① hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ② & ③ Bẫy thông tin không có trong bài: Bài viết hoàn toàn không đề cập đến việc sinh vật phải 'tự biến đổi bản thân' (自らを変化させる) hay 'không đổi chỗ mà tự biến đổi để sống tại đó'.\n  - ④ Bẫy ngược ý: Bài khẳng định không sinh vật nào có thể thắng trong mọi môi trường ('どの生物もすべての環境条件で競争の勝者になることはできません') và cạnh tranh không phải là loại bỏ kẻ thua.\n\n【Kỹ thuật giải nhanh JLPT】\n• Bước 1 (Xác định câu hỏi): Tìm ý đúng với quan điểm của tác giả về sinh vật ('生物について、筆者の考えに合うのはどれか').\n• Bước 2 (Đọc câu chủ đề và câu kết luận):\n  - Câu đầu: '条件が違えば、勝者が敗者になり、敗者が勝者になる...'\n  - Câu gần cuối & cuối: '生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます。競争は敗者を排除するプロセスではなく、多様な環境の中にそれぞれの生物の居場所をつくり出すプロセス...'\n• Bước 3 (Đối chiếu 4 phương án):\n  - ① Dù thua ở môi trường này vẫn có thể sống sót ở môi trường khác phù hợp với mình -> Khớp hoàn toàn với ý 'tìm môi trường phù hợp với mình' và 'không loại bỏ kẻ thua mà tạo chỗ đứng riêng'.\n  - ②, ③ có từ '変化する' (biến đổi) không hề có trong bài -> Loại ngay.\n  - ④ trái ngược với nội dung bài -> Loại.\n• Bước 4: Chọn ① trong 30 giây.\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Về sinh vật, điều nào sau đây phù hợp với suy nghĩ của tác giả?\n① Dù có thua trong cuộc cạnh tranh ở một môi trường nào đó, chúng vẫn có thể sống sót ở một môi trường khác phù hợp với bản thân.\n② Trong môi trường đa dạng, nếu không tự biến đổi bản thân thì không thể chiến thắng trong cuộc cạnh tranh.\n③ Sinh vật thua cuộc trong cạnh tranh sẽ không thay đổi nơi sống mà tự biến đổi để có thể sống được tại chính nơi đó.\n④ Nếu không chiến thắng trong cạnh tranh thì không thể sống sót trong mọi điều kiện môi trường.\n\n【Dịch nghĩa bài đọc】\nNếu điều kiện khác đi thì kẻ thắng sẽ trở thành kẻ bại, và kẻ bại sẽ trở thành kẻ thắng — đó chính là xã hội sinh vật trong tự nhiên. Không một loài sinh vật nào có thể trở thành kẻ chiến thắng trong cuộc cạnh tranh ở tất cả mọi điều kiện môi trường. Điều mà các nghiên cứu sinh thái học chỉ ra chính là tầm quan trọng của một môi trường đa dạng. Nhờ có sự cạnh tranh mà các loài sinh vật có thể tìm thấy môi trường thích hợp với bản thân mình bên trong những môi trường đa dạng ấy.\nCó lẽ cũng có thể nói rằng, cạnh tranh không phải là quá trình đào thải kẻ thua cuộc, mà là quá trình tạo ra chỗ đứng cho từng loài sinh vật bên trong một môi trường đa dạng."
+    },
+    {
+      "question_id": 3,
+      "question": "問い: このメールで店員が問い合わせていることは何か。",
+      "context": "以下は、パソコンショップの店員から送られてきたメールである。\n\n高山かおり様\n\nPC フォレスト西山店の合田です。\n画面の修理のためルニ社製のノートパソコンをお預かりしておりますが、点検したところ電源部分の部品にも問題があり、接続状態が悪くなっていることが分かりました。このままですと急に電源が入らなくなる可能性がありますので、部品の交換をお勧めいたします。\nその場合、追加料金が2万円かかり、お返しは6月10日以降になります。\n画面の修理は6月5日に完了しますので、電源の修理を希望されない場合には、予定どおりお返しできます。\nお忙しいところ恐縮ですが、ご連絡をお待ちしております。\n\nPC フォレスト西山店",
+      "options": [
+        "電源の状態が悪くなる可能性があるが、画面の修理をするかどうか。",
+        "追加で料金と時間がかかるが、電源の修理もするかどうか。",
+        "追加で料金がかかるが、電源の修理を６月５日までに終えるかどうか。",
+        "６月５日に画面と電源の修理は完了するが、いつ受け取りに来るか。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 追加で料金と時間がかかるが、電源の修理もするかどうか。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (②):\n  - Cửa hàng đang nhận sửa màn hình laptop cho khách (dự kiến xong ngày 5/6). Khi kiểm tra thì phát hiện bộ phận nguồn cũng có vấn đề nên khuyên khách thay linh kiện ('電源部分の部品にも問題があり... 部品の交換をお勧めいたします').\n  - Nhân viên nêu rõ điều kiện nếu sửa thêm nguồn: tốn thêm 2 vạn yên và ngày trả máy lùi sang sau ngày 10/6 ('その場合、追加料金が2万円かかり、お返しは6月10日以降になります'). Nếu khách không muốn sửa nguồn thì trả máy đúng hẹn ngày 5/6 ('電源の修理を希望されない場合には、予定どおりお返しできます'), và chờ khách liên hệ lại quyết định.\n  - Như vậy, nhân viên gửi email để hỏi xem khách có muốn sửa luôn cả bộ phận nguồn dù phải tốn thêm chi phí và thời gian hay không. Phương án ② hoàn toàn chính xác.\n• Phân tích các phương án sai:\n  - ① Sai đối tượng: Việc sửa màn hình là yêu cầu ban đầu đang được thực hiện rồi, nhân viên hỏi về việc có sửa thêm bộ phận nguồn hay không.\n  - ③ Sai mốc thời gian: Ngày 5/6 là ngày hoàn tất sửa màn hình; nếu sửa thêm nguồn thì phải sau ngày 10/6 mới trả máy được.\n  - ④ Sai nội dung: Ngày 5/6 chỉ hoàn tất sửa màn hình (nếu không sửa nguồn), và email hỏi ý kiến sửa chữa chứ không phải hỏi ngày đến lấy máy sau khi đã sửa xong cả hai.\n\n【Kỹ thuật giải nhanh JLPT】\n• Bước 1 (Xác định câu hỏi): Nhân viên cửa hàng đang hỏi khách điều gì qua email này? ('このメールで店員が問い合わせていることは何か').\n• Bước 2 (Quét thông tin cốt lõi của email):\n  - Đang nhận máy để sửa màn hình (画面の修理).\n  - Kiểm tra thấy hỏng thêm bộ phận nguồn -> Khuyên thay linh kiện nguồn (部品の交換をお勧めいたします).\n  - Nếu thay: tốn thêm 20,000 yên + lùi ngày trả máy sang sau 10/6 (thay vì 5/6). Mong khách liên hệ cho biết có muốn sửa nguồn không ('電源の修理を希望されない場合には... ご連絡をお待ちしております').\n• Bước 3 (Đối chiếu 4 phương án):\n  - Tốn thêm tiền (2万円) + tốn thêm thời gian (từ 5/6 lùi sang 10/6) nhưng có sửa thêm nguồn hay không -> Khớp 100% với ②.\n• Bước 4: Chọn ② trong 25 giây.\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Điều mà nhân viên cửa hàng đang hỏi qua email này là gì?\n① Dù tình trạng nguồn có khả năng xấu đi, nhưng khách có sửa màn hình hay không.\n② Dù tốn thêm chi phí và thời gian, nhưng khách có sửa luôn cả bộ phận nguồn hay không.\n③ Dù tốn thêm chi phí, nhưng khách có muốn hoàn tất việc sửa nguồn trước ngày 5 tháng 6 hay không.\n④ Vào ngày 5 tháng 6 việc sửa màn hình và nguồn sẽ hoàn tất, nhưng khi nào khách sẽ đến nhận máy.\n\n【Dịch nghĩa bài đọc】\nDưới đây là email được gửi từ nhân viên của một cửa hàng máy tính.\n\nKính gửi: Quý khách Takayama Kaori\nTôi là Goda ở cửa hàng PC Forest chi nhánh Nishiyama.\nChúng tôi đang nhận giữ chiếc máy tính xách tay hãng Runi của quý khách để sửa màn hình, tuy nhiên qua kiểm tra, chúng tôi phát hiện linh kiện ở bộ phận nguồn cũng có vấn đề khiến tình trạng kết nối bị kém đi. Nếu cứ để nguyên như thế này thì có khả năng máy sẽ đột ngột không bật lên nguồn được nữa, vì vậy chúng tôi khuyên quý khách nên thay thế linh kiện.\nTrong trường hợp đó, chi phí phát sinh thêm sẽ là 20.000 yên, và thời gian trả máy sẽ là từ ngày 10 tháng 6 trở đi.\nViệc sửa màn hình sẽ hoàn tất vào ngày 5 tháng 6, nên trong trường hợp quý khách không có nguyện vọng sửa bộ phận nguồn, chúng tôi có thể hoàn trả máy đúng như dự kiến ban đầu.\nThật ngại vì làm phiền quý khách lúc bận rộn, nhưng chúng tôi rất mong nhận được phản hồi từ quý khách.\nCửa hàng PC Forest chi nhánh Nishiyama"
+    },
+    {
+      "question_id": 4,
+      "question": "問い: 生きている世代に対して、筆者が言いたいことは何か。",
+      "context": "弱い立場にあるという点で、未来の世代ほど弱いものはない。何しろ、どんなにひどいことをされても、まだ生まれていない生命は、抗議（注1）の声をあげることもできないのだから。それをいいことに（注2）今生きている世代は、未来の世代が生きていくための絶対条件（注3）となる環境を壊し、彼らが利用する分の資源まで使い果たそうとしている。いったいこれ以上、フェアの精神に反することがあるだろうか。\n\n（注1）抗議：ここでは、反対や怒り\n（注2）それをいいことに：ここでは、それを自分に都合よく考えて\n（注3）絶対条件：必要な条件",
+      "options": [
+        "今生きている世代があげている反対や怒りの声を聞くべきだ。",
+        "今生きている世代にも声があげられない人がいることを認めるべきだ。",
+        "未来の世代が生きていくために、必要な資源を見つけるべきだ。",
+        "声をあげられない未来の世代のことを考え、行動を改めるべきだ。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ 声をあげられない未来の世代のことを考え、行動を改めるべきだ。\n\n【Giải thích chi tiết】\n• Phân tích đáp án đúng (④):\n  - Tác giả chỉ ra rằng thế hệ tương lai (những sinh mệnh chưa chào đời) là những người yếu thế nhất vì dù bị đối xử tệ đến đâu cũng không thể cất tiếng phản đối ('まだ生まれていない生命は、抗議の声をあげることもできない').\n  - Thế nhưng thế hệ đang sống hiện nay lại lợi dụng điều đó để tàn phá môi trường và dùng cạn kiệt tài nguyên của thế hệ tương lai ('それをいいことに今生きている世代は... 環境を壊し、彼らが利用する分の資源まで使い果たそうとしている').\n  - Câu kết dùng câu hỏi tu từ mang tính phê phán mạnh mẽ: 'いったいこれ以上、フェアの精神に反することがあるだろうか。' (Rốt cuộc còn có điều gì đi ngược lại tinh thần công bằng hơn thế này nữa chứ?). Qua lời phê phán này, tác giả muốn kêu gọi thế hệ đang sống phải nghĩ đến thế hệ tương lai không thể tự lên tiếng bảo vệ mình mà chấn chỉnh, sửa đổi lại hành vi tàn phá môi trường và cạn kiệt tài nguyên (声をあげられない未来の世代のことを考え、行動を改めるべきだ).\n• Phân tích các phương án sai:\n  - ① Sai chủ thể: Đối tượng không thể cất tiếng phản đối (抗議の声) là 'thế hệ tương lai chưa chào đời', không phải thế hệ đang sống.\n  - ② Lạc đề: Bài viết so sánh thế hệ đang sống với thế hệ tương lai, không bàn về những người yếu thế trong thế hệ hiện tại.\n  - ③ Bẫy giải pháp sai: Tác giả phê phán việc tiêu xài cạn kiệt tài nguyên và phá hủy môi trường, chứ không kêu gọi đi tìm nguồn tài nguyên mới.\n\n【Kỹ thuật giải nhanh JLPT】\n• Bước 1 (Xác định câu hỏi): Điều tác giả muốn nhắn nhủ tới thế hệ đang sống là gì? ('生きている世代に対して、筆者が言いたいことは何か').\n• Bước 2 (Phân tích lập luận và câu hỏi tu từ cuối bài):\n  - Thế hệ tương lai chưa sinh ra nên không thể lên tiếng phản đối ('抗議の声をあげることもできない').\n  - Lợi dụng điều đó, thế hệ hiện tại đang phá hủy môi trường và dùng cạn tài nguyên của họ ('環境を壊し、彼らが利用する分の資源まで使い果たそうとしている').\n  - Câu chốt: 'いったいこれ以上、フェアの精神に反することがあるだろうか。' (Còn gì bất công hơn thế nữa? -> Phê phán hành động hiện tại và yêu cầu phải thay đổi hành vi vì thế hệ tương lai).\n• Bước 3 (Đối chiếu 4 phương án):\n  - ④ Nghĩ đến thế hệ tương lai không thể lên tiếng và sửa đổi hành động -> Khớp hoàn toàn với thông điệp của tác giả.\n• Bước 4: Chọn ④ trong 25 giây.\n\n【Dịch câu hỏi & Lựa chọn】\nCâu hỏi: Tác giả muốn nói điều gì đối với thế hệ đang sống?\n① Cần phải lắng nghe tiếng nói phản đối và phẫn nộ mà thế hệ đang sống đang nêu lên.\n② Cần phải thừa nhận rằng ngay trong thế hệ đang sống cũng có những người không thể cất lên tiếng nói.\n③ Cần phải tìm kiếm những nguồn tài nguyên cần thiết để thế hệ tương lai có thể sinh sống.\n④ Cần phải nghĩ đến thế hệ tương lai không thể cất lên tiếng nói và sửa đổi hành động của mình.\n\n【Dịch nghĩa bài đọc】\nXét ở khía cạnh ở vào thế yếu, không ai yếu thế hơn thế hệ tương lai. Dù sao đi nữa, cho dù có bị đối xử tồi tệ đến mức nào thì những sinh mệnh còn chưa chào đời ấy cũng chẳng thể nào cất lên tiếng nói phản kháng. Lợi dụng chính điều đó, thế hệ đang sống ngày nay đang tàn phá môi trường — điều kiện tiên quyết để thế hệ tương lai sinh tồn — và đang định tiêu xài cạn kiệt cả phần tài nguyên mà lẽ ra thế hệ tương lai sẽ sử dụng. Rốt cuộc trên đời này còn có điều gì đi ngược lại tinh thần công bằng hơn thế nữa hay sao?"
+    },
+    {
+      "question_id": 5,
+      "question": "01. 私の3人の兄はみんな料理が苦手で、一番上の兄（　　　）、卵もうまく割れない。",
+      "context": "",
+      "options": [
+        "にとって",
+        "にしては",
+        "に比べて",
+        "に至っては"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ に至っては\n\n【Giải thích chi tiết】\n• Cấu trúc: N + に至っては（にいたっては）: Đến mức như N thì... / Nói đến trường hợp cực đoan nhất là N thì...\n  - Dùng khi nêu ra một tập hợp có chung đặc điểm ở vế trước (cả 3 người anh trai đều kém nấu ăn), sau đó đưa ra một ví dụ tiêu biểu, cực đoan nhất ở vế sau (đến mức như người anh cả thì ngay cả đập quả trứng cũng không xong).\n• Phân tích các phương án sai:\n  - ① にとって: Đối với... (chỉ góc nhìn, quan điểm đánh giá).\n  - ② にしては: So với tiêu chuẩn thì... (thường mang ý trái với kỳ vọng, ví dụ: 兄にしては上手だ).\n  - ③ に比べて: So với... (dùng để so sánh hơn kém giữa hai đối tượng).\n\n【Dịch câu】\nBa người anh trai của tôi ai cũng kém khoản nấu nướng, đến mức như anh cả thì ngay cả đập quả trứng cũng không đập cho khéo được."
+    },
+    {
+      "question_id": 6,
+      "question": "02. 来週の説明会に参加するしない（　　　）、この書類は必ず読んでおいてください。",
+      "context": "",
+      "options": [
+        "とはいえ",
+        "としても",
+        "に限らず",
+        "にかかわらず"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ にかかわらず\n\n【Giải thích chi tiết】\n• Cấu trúc: [V-る + V-ない] / N + にかかわらず: Bất kể... hay không / Không phụ thuộc vào...\n  - Cụm 「参加するしないにかかわらず」 mang nghĩa: Bất kể có tham gia hay không tham gia buổi thuyết minh tuần sau thì cũng hãy đọc trước tài liệu này.\n• Phân tích các phương án sai:\n  - ① とはいえ: Tuy nói là... nhưng thực tế...\n  - ② としても: Giả sử cho dù... đi chăng nữa.\n  - ③ に限らず: Không chỉ giới hạn ở N (mà còn rộng hơn).\n\n【Dịch câu】\nBất kể có tham gia buổi thuyết minh vào tuần tới hay không, xin vui lòng nhất định phải đọc trước tài liệu này."
+    },
+    {
+      "question_id": 7,
+      "question": "03. 駅前に新しいラーメン屋がオープンしていた。（　　　）できたのだろう。",
+      "context": "",
+      "options": [
+        "いまにも",
+        "まさか",
+        "いつのまに",
+        "そのうち"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ いつのまに\n\n【Giải thích chi tiết】\n• Cấu trúc: いつのまに（いつの間に）+ V-たのだろう: Tự bao giờ / Từ lúc nào mà đã... nhỉ?\n  - Diễn tả sự ngạc nhiên của người nói khi phát hiện một sự việc đã hoàn tất từ lúc nào mà bản thân không hề để ý (Quán mì ramen mới đã khai trương trước nhà ga rồi. Nó được mở từ lúc nào thế nhỉ?).\n• Phân tích các phương án sai:\n  - ① いまにも: Sắp sửa... đến nơi rồi (thường đi với 〜そうだ, chỉ sự việc sắp xảy ra).\n  - ② まさか: Chẳng lẽ nào / Đời nào (thường đi với phủ định hoặc nghi vấn bất ngờ).\n  - ④ そのうち: Chẳng bao lâu nữa / Rồi sẽ (chỉ tương lai gần, không đi với quá khứ できた).\n\n【Dịch câu】\nMột quán mì ramen mới đã khai trương ở trước nhà ga. Không biết nó đã được mở từ lúc nào thế nhỉ?"
+    },
+    {
+      "question_id": 8,
+      "question": "04. この植物は、寒さに強い（　　　）、暑さや湿気に弱い。",
+      "context": "",
+      "options": [
+        "反面",
+        "点で",
+        "ものを",
+        "からといって"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 反面\n\n【Giải thích chi tiết】\n• Cấu trúc: [Thể thông thường] + 反面（はんめん）: Mặt khác / Ngược lại...\n  - Dùng để nêu hai mặt, hai tính chất đối lập nhau của cùng một sự vật/chủ thể: Loài thực vật này có ưu điểm là chịu lạnh tốt (寒さに強い), nhưng mặt khác lại có nhược điểm là kém chịu nóng và độ ẩm (暑さや湿気に弱い).\n• Phân tích các phương án sai:\n  - ② 点で: Ở điểm là / Về mặt...\n  - ③ ものを: Thế mà... (diễn tả sự tiếc nuối, trách móc).\n  - ④ からといって: Không phải chỉ vì... mà có thể suy ra... (đi với phủ định ở cuối câu).\n\n【Dịch câu】\nLoài thực vật này chịu lạnh tốt, nhưng mặt khác lại chịu nóng và độ ẩm kém."
+    },
+    {
+      "question_id": 9,
+      "question": "05. A:「今度北町に行くんだけど、おいしいレストラン、知らない？」\nB:「すし屋（　　　）、1軒知ってるよ。」",
+      "context": "",
+      "options": [
+        "でいいし",
+        "でよければ",
+        "がいいと",
+        "がよくても"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② でよければ\n\n【Giải thích chi tiết】\n• Cấu trúc: N + でよければ: Nếu N mà được (nếu bạn không chê N / nếu N phù hợp với ý bạn) thì...\n  - Dùng khi đưa ra lời gợi ý một cách khiêm tốn hoặc thăm dò ý đối phương: A hỏi về 'nhà hàng ngon', B đáp lại rằng 'Nếu quán sushi mà bạn thấy được thì mình biết 1 quán đấy'.\n• Phân tích các phương án sai:\n  - ① でいいし: Liên từ liệt kê nguyên nhân/lý do, không hợp ngữ cảnh điều kiện.\n  - ③ がいいと / ④ がよくても: Sai trợ từ và sai cấu trúc điều kiện khi đề xuất.\n\n【Dịch câu】\nA: \"Sắp tới mình sẽ đến khu Kitamachi, cậu có biết nhà hàng nào ngon không?\"\nB: \"Nếu là quán sushi mà cậu thấy được thì mình biết một quán đấy.\""
+    },
+    {
+      "question_id": 10,
+      "question": "06. 懐中電灯を（　　　）、電池が切れていて、つかなかった。",
+      "context": "",
+      "options": [
+        "使おうとしたら",
+        "使うようにしたら",
+        "使おうとするなら",
+        "使うようにするなら"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 使おうとしたら\n\n【Giải thích chi tiết】\n• Cấu trúc: V-ようとしたら、[Sự việc ngoài ý muốn ở quá khứ]: Khi vừa định làm V thì phát hiện ra...\n  - 「懐中電灯を使おうとしたら、電池が切れていて、つかなかった」: Khi tôi định dùng chiếc đèn pin thì phát hiện nó đã hết pin nên không bật sáng được.\n• Phân tích các phương án sai:\n  - ② 使うようにしたら: Cố gắng tạo thói quen sử dụng -> Sai nghĩa.\n  - ③ 使おうとするなら / ④ 使うようにするなら: Cấu trúc giả định 「〜なら」 không đi với vế sau kết thúc bằng quá khứ tường thuật sự thật đã xảy ra 「つかなかった」.\n\n【Dịch câu】\nKhi tôi định dùng đèn pin thì pin đã hết mất nên đèn không sáng."
+    },
+    {
+      "question_id": 11,
+      "question": "07. （マラソン大会のホームページで）\n周辺住民の方の迷惑になりますので、指定の駐車場以外には（　　　）、お願いいたします。",
+      "context": "",
+      "options": [
+        "駐車なさらないよう",
+        "駐車していただくよう",
+        "駐車なさらないため",
+        "駐車していただくため"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: ① 駐車なさらないよう\n\n【Giải thích chi tiết】\n• Cấu trúc: [Tôn kính ngữ ở thể phủ định] + よう（に）、お願いいたします: Kính mong quý vị không làm...\n  - 「駐車する」 chuyển sang tôn kính ngữ là 「駐車なさる」, thể phủ định là 「駐車なさらない」.\n  - Do phía trước có 「指定の駐車場以外には」 (Ở những nơi ngoài bãi đỗ xe được chỉ định), nên vế sau phải mang nghĩa yêu cầu KHÔNG đỗ xe: 「駐車なさらないよう、お願いいたします」.\n• Phân tích các phương án sai:\n  - ② 駐車していただくよう: Mang nghĩa khẳng định ('xin hãy đỗ xe ở ngoài bãi chỉ định') -> Ngược hoàn toàn ý nghĩa câu.\n  - ③ & ④: Không dùng 「〜ため、お願いいたします」 để đưa ra lời yêu cầu/đề nghị.\n\n【Dịch câu】\n(Trên trang chủ của giải chạy Marathon)\nVì sẽ gây phiền hà cho người dân xung quanh, kính mong quý vị không đỗ xe ở những nơi ngoài bãi đỗ xe đã được chỉ định."
+    },
+    {
+      "question_id": 12,
+      "question": "08. 林選手がオリンピックに出場できるかどうかは、今度の大会の結果（　　　）。",
+      "context": "",
+      "options": [
+        "のみだ",
+        "次第だ",
+        "にほかならない",
+        "でも不思議ではない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② 次第だ\n\n【Giải thích chi tiết】\n• Cấu trúc: N + 次第だ（しだいだ）: Tùy thuộc vào N / Phụ thuộc vào N.\n  - Thường đi kèm với vế trước có dạng nghi vấn 「〜かどうかは、N次第だ」: Việc tuyển thủ Hayashi có thể tham dự Olympic hay không là tùy thuộc vào kết quả của giải đấu lần này.\n• Phân tích các phương án sai:\n  - ① のみだ: Chỉ là...\n  - ③ にほかならない: Chẳng gì khác chính là vì... (khẳng định nguyên nhân duy nhất, không đi với かどうかは).\n  - ④ でも不思議ではない: Cho dù... thì cũng không có gì lạ.\n\n【Dịch câu】\nViệc tuyển thủ Hayashi có thể góp mặt tại Thế vận hội Olympic hay không là tùy thuộc vào kết quả của giải đấu lần này."
+    },
+    {
+      "question_id": 13,
+      "question": "09. 最近、パソコンを使っていると、突然画面が真っ暗（　　　）。故障しているのかもしれない。",
+      "context": "",
+      "options": [
+        "にすることがある",
+        "にしたところだ",
+        "になることがある",
+        "になったところだ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ になることがある\n\n【Giải thích chi tiết】\n• Cấu trúc:\n  1. Tính từ đuôi な (真っ暗) + になる: Trở nên tối đen (biến đổi trạng thái tự nhiên, khác với にする là con người chủ đích làm cho tối).\n  2. V-ることがある: Thỉnh thoảng có lúc... (diễn tả hiện tượng thỉnh thoảng xảy ra).\n  - Kết hợp lại: 「突然画面が真っ暗になることがある」 (Thỉnh thoảng màn hình lại đột ngột tối đen).\n• Phân tích các phương án sai:\n  - ① にすることがある: Sai vì 「にする」 là hành động có chủ ý của con người.\n  - ② にしたところだ / ④ になったところだ: 「V-たところだ」 diễn tả hành động vừa mới diễn ra tức thì, không khớp với trạng thái lặp lại 「最近、パソコンを使っていると...」.\n\n【Dịch câu】\nDạo gần đây khi đang sử dụng máy tính thì thỉnh thoảng màn hình lại đột ngột tối đen. Có lẽ là máy đã bị hỏng rồi."
+    },
+    {
+      "question_id": 14,
+      "question": "10. あのときの友人の言葉は、夢を諦めそうになっていた私にもう一度頑張ろうと（　　　）。",
+      "context": "",
+      "options": [
+        "思ってくれた",
+        "思ってほしかった",
+        "思わせてくれた",
+        "思わせてほしかった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: ③ 思わせてくれた\n\n【Giải thích chi tiết】\n• Cấu trúc: [Chủ ngữ là sự vật/lời nói] は + 私に + 〜と思わせてくれた: Điều đó đã khiến cho tôi nghĩ rằng... (và tôi rất biết ơn vì điều đó).\n  - Chủ ngữ của câu là 「あのときの友人の言葉は」 (Lời nói của người bạn lúc ấy), còn tân ngữ chịu tác động là 「私に」 (đối với tôi).\n  - Người thực hiện hành động nghĩ (思う) 「もう一度頑張ろう」 là 「私」. Lời nói của người bạn đã tác động làm cho tôi suy nghĩ như vậy -> dùng thể sai khiến 「思わせる」 kết hợp với 「〜てくれた」 thể hiện lòng biết ơn: 「思わせてくれた」.\n• Phân tích các phương án sai:\n  - ① 思ってくれた: Sai chủ ngữ (lời nói không thể tự 'nghĩ').\n  - ② 思ってほしかった / ④ 思わせてほしかった: 「〜てほしかった」 (đã muốn ai làm gì) không hợp ngữ pháp và ngữ cảnh.\n\n【Dịch câu】\nLời nói của người bạn lúc ấy đã tiếp thêm động lực khiến một người suýt chút nữa từ bỏ ước mơ như tôi suy nghĩ rằng hãy nỗ lực thêm một lần nữa."
+    },
+    {
+      "question_id": 15,
+      "question": "11. （会議で）\n社長:「あ、さっきの会議室にペンを忘れたみたいだ。」\n秘書:「では、私が取って（　　　）。」",
+      "context": "",
+      "options": [
+        "おります",
+        "まいります",
+        "くださいます",
+        "いらっしゃいます"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: ② まいります\n\n【Giải thích chi tiết】\n• Cấu trúc: V-て + まいります（参ります）: Khiêm nhường ngữ của 「V-てきます」 (Tôi xin phép đi làm V rồi quay lại).\n  - Trong tiếng Nhật giao tiếp thông thường, 'đi lấy đồ rồi quay lại' là 「取ってきます」. Khi thư ký nói với giám đốc về hành động của chính mình (私が), cần hạ mình bằng khiêm nhường ngữ của 「きます」 là 「まいります」 -> 「私が取ってまいります」.\n• Phân tích các phương án sai:\n  - ① おります: Khiêm nhường ngữ của 「います」(đang), không mang nghĩa đi lấy rồi về.\n  - ③ くださいます / ④ いらっしゃいます: Là tôn kính ngữ dùng cho hành động của cấp trên, không dùng cho hành động của bản thân (私が).\n\n【Dịch câu】\n(Trong cuộc họp)\nGiám đốc: \"À, hình như tôi để quên cây bút ở phòng họp lúc nãy rồi.\"\nThư ký: \"Vậy để tôi đi lấy về cho ngài ạ.\""
+    },
+    {
+      "question_id": 16,
+      "question": "12. （電話で）\n店員:「お電話ありがとうございます。さくら美容院です。」\n田中:「あ、今日の7時に予約している田中ですが、ちょっと仕事が長引いて・・・。できたら、8時に変更して（　　　）。」\n店員:「はい、大丈夫ですよ。」",
+      "context": "",
+      "options": [
+        "もらったらいかがですか",
+        "もらうのではないでしょうか",
+        "もらわなければなりませんか",
+        "もらえるとありがたいんですが"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: ④ もらえるとありがたいんですが\n\n【Giải thích chi tiết】\n• Cấu trúc: V-てもらえるとありがたいんですが: Nếu được bạn làm V giúp cho thì tôi rất biết ơn / cảm kích...\n  - Đây là mẫu câu vô cùng lịch sự, tế nhị khi muốn nhờ vả hoặc xin thay đổi lịch hẹn: 「できたら、8時に変更してもらえるとありがたいんですが」 (Nếu được thì tiệm có thể đổi giúp tôi sang 8 giờ thì tốt quá ạ).\n• Phân tích các phương án sai:\n  - ① もらったらいかがですか: Mẫu câu khuyên bảo người khác ('bạn nên nhờ... thì sao?'), hoàn toàn sai ngữ cảnh.\n  - ② もらうのではないでしょうか: Suy đoán ('chẳng phải là sẽ nhận được... hay sao'), sai nghĩa.\n  - ③ もらわなければなりませんか: 'Tôi có bắt buộc phải được đổi không?', sai nghĩa.\n\n【Dịch câu】\n(Qua điện thoại)\nNhân viên: \"Cảm ơn quý khách đã gọi điện. Đây là tiệm làm tóc Sakura ạ.\"\nTanaka: \"À, tôi là Tanaka đã đặt lịch hẹn lúc 7 giờ tối nay, nhưng công việc của tôi bị kéo dài thêm một chút... Nếu được thì tiệm có thể đổi giúp tôi sang 8 giờ thì tốt quá ạ.\"\nNhân viên: \"Vâng, được chứ ạ.\""
+    }
+  ]
+}
