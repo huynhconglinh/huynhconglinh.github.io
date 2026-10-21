@@ -1188,14 +1188,14 @@ body::before {
 
 
 /* ========================================================
-   DASHBOARD TOOLBAR, FILTERS & LIST VIEW
+   DASHBOARD TOOLBAR, FILTERS & LIST VIEW (1-LINE COMPACT)
    ======================================================== */
 .dash-toolbar {
   display: flex;
   flex-direction: column;
-  gap: 12px;
-  padding: 14px 16px;
-  margin-bottom: 18px;
+  gap: 10px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
   border-radius: var(--radius);
   background: var(--surface-solid);
   border: 1px solid var(--line);
@@ -1206,33 +1206,33 @@ body::before {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 
 .dash-search-wrap {
   position: relative;
-  flex: 1 1 280px;
-  min-width: 220px;
+  flex: 1 1 260px;
+  min-width: 200px;
 }
 
 .dash-search-icon {
   position: absolute;
-  left: 12px;
+  left: 11px;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   pointer-events: none;
   opacity: 0.65;
 }
 
 .dash-search-input {
   width: 100%;
-  padding: 9px 12px 9px 36px;
-  border-radius: 10px;
+  padding: 7px 12px 7px 34px;
+  border-radius: 9px;
   border: 1px solid var(--line);
   background: #f7faf9;
   font: inherit;
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   color: var(--ink);
   transition: border-color 0.16s var(--ease), background 0.16s var(--ease), box-shadow 0.16s var(--ease);
 }
@@ -1248,16 +1248,16 @@ body::before {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
 }
 
 .dash-select {
-  padding: 8px 12px;
-  border-radius: 10px;
+  padding: 7px 10px;
+  border-radius: 9px;
   border: 1px solid var(--line);
   background: #f7faf9;
   font: inherit;
-  font-size: 0.84rem;
+  font-size: 0.81rem;
   font-weight: 600;
   color: var(--ink-soft);
   cursor: pointer;
@@ -1274,7 +1274,7 @@ body::before {
 .dash-view-toggle {
   display: inline-flex;
   border: 1px solid var(--line);
-  border-radius: 10px;
+  border-radius: 9px;
   overflow: hidden;
   background: #f2f6f5;
 }
@@ -1283,9 +1283,9 @@ body::before {
   appearance: none;
   border: 0;
   background: transparent;
-  padding: 8px 12px;
+  padding: 7px 11px;
   font: inherit;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   font-weight: 700;
   color: var(--muted);
   cursor: pointer;
@@ -1306,7 +1306,7 @@ body::before {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 10px;
+  gap: 8px;
   padding-top: 8px;
   border-top: 1px dashed var(--line);
 }
@@ -1323,9 +1323,9 @@ body::before {
   background: #f5f9f8;
   color: var(--ink-soft);
   border-radius: 999px;
-  padding: 5px 12px;
+  padding: 4px 11px;
   font: inherit;
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   font-weight: 700;
   cursor: pointer;
   transition: all 0.15s var(--ease);
@@ -1343,7 +1343,7 @@ body::before {
 }
 
 .dash-result-count {
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 600;
   color: var(--muted);
 }
@@ -1366,26 +1366,27 @@ body::before {
   font-weight: 600;
 }
 
-/* List View */
+/* 1-Line Compact List View */
 .exam-list-table {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 5px;
 }
 
 .exam-row {
   position: relative;
   overflow: hidden;
-  display: grid;
-  grid-template-columns: 34px 136px 1fr 180px;
+  display: flex;
   align-items: center;
-  gap: 12px;
-  padding: 12px 16px;
-  border-radius: 12px;
+  gap: 10px;
+  padding: 7px 12px 7px 14px;
+  min-height: 38px;
+  border-radius: 9px;
   background: var(--surface-solid);
   border: 1px solid var(--line);
   cursor: pointer;
-  transition: transform 0.16s var(--ease), border-color 0.16s var(--ease), box-shadow 0.16s var(--ease);
+  white-space: nowrap;
+  transition: border-color 0.14s var(--ease), background 0.14s var(--ease);
 }
 
 .exam-row::before {
@@ -1403,9 +1404,8 @@ body::before {
 .exam-row[data-topic="grammar"]::before { background: var(--grammar); }
 
 .exam-row:hover {
-  transform: translateY(-1px);
-  border-color: rgba(15, 118, 110, 0.35);
-  box-shadow: 0 8px 20px rgba(28, 42, 50, 0.06);
+  background: #f4faf8;
+  border-color: rgba(15, 118, 110, 0.38);
 }
 
 .exam-row:focus-visible {
@@ -1415,46 +1415,40 @@ body::before {
 }
 
 .exam-row-index {
-  font-size: 0.78rem;
+  flex: 0 0 24px;
+  font-size: 0.74rem;
   font-weight: 700;
   color: var(--muted);
-  text-align: center;
+  text-align: right;
 }
 
-.exam-row-code .exam-code {
-  margin-bottom: 0;
-}
-
-.exam-row-main {
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+.exam-row-code {
+  flex: 0 0 auto;
+  margin-bottom: 0 !important;
+  padding: 2px 7px;
+  font-size: 0.7rem;
 }
 
 .exam-row-title {
-  font-size: 0.96rem;
-  font-weight: 700;
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.88rem;
+  font-weight: 600;
   color: var(--ink);
-  line-height: 1.35;
-}
-
-.exam-row-badges {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 6px;
 }
 
 .badge-track,
-.badge-topic,
-.badge-date {
+.badge-topic {
+  flex: 0 0 auto;
   display: inline-flex;
   align-items: center;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 700;
-  padding: 2px 8px;
-  border-radius: 6px;
+  padding: 2px 7px;
+  border-radius: 5px;
 }
 
 .badge-track {
@@ -1478,49 +1472,42 @@ body::before {
 }
 
 .badge-date {
-  background: transparent;
+  flex: 0 0 74px;
+  font-size: 0.74rem;
   color: var(--muted);
   font-weight: 600;
-  padding-left: 2px;
+  text-align: right;
 }
 
-.exam-row-right {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.exam-row-meta {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  font-size: 0.8rem;
+.exam-row-qcount {
+  flex: 0 0 52px;
+  font-size: 0.76rem;
   color: var(--muted);
+  text-align: right;
 }
 
-.exam-row-meta .score {
+.exam-row-score {
+  flex: 0 0 64px;
+  font-size: 0.76rem;
   font-weight: 700;
   color: var(--ok);
+  text-align: right;
 }
 
-.exam-row-meta .score.empty {
+.exam-row-score.empty {
   color: var(--muted);
   font-weight: 500;
 }
 
-.exam-row-right .progress-bar {
-  margin-top: 0;
-}
-
-@media (max-width: 760px) {
-  .exam-row {
-    grid-template-columns: 1fr;
-    gap: 8px;
-    padding: 12px 14px;
-  }
-
+@media (max-width: 720px) {
+  .badge-track,
+  .badge-date,
   .exam-row-index {
     display: none;
+  }
+
+  .exam-row {
+    gap: 6px;
+    padding: 7px 10px;
   }
 }

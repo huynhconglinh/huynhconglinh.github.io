@@ -636,8 +636,8 @@
     return String(str || "")
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")
-      .replace(/\u0111/g, "d")
-      .replace(/\u0110/g, "D")
+      .replace(/đ/g, "d")
+      .replace(/Đ/g, "D")
       .toLowerCase()
       .trim();
   }
@@ -727,34 +727,18 @@
     const topicLabel = TOPIC_LABELS[topic] || topic;
     const dateStr = formatAddedDate(exam.addedAt);
     const scoreClass = s.answered ? "score" : "score empty";
-    const scoreText = s.answered ? `??ng ${s.correct}/${s.total}` : "Ch?a l?m";
-    const okPct = s.total ? (s.correct / s.total) * 100 : 0;
-    const badPct = s.total ? ((s.answered - s.correct) / s.total) * 100 : 0;
+    const scoreText = s.answered ? `${s.correct}/${s.total}` : "Chưa làm";
 
     return `
-      <div class="exam-row" data-exam-id="${escapeHtml(exam.id)}" data-topic="${escapeHtml(topic)}" tabindex="0" role="button">
-        <div class="exam-row-index">${orderNum}</div>
-        <div class="exam-row-code">
-          <button type="button" class="exam-code" data-code="${escapeHtml(exam.code || exam.id)}" title="Nh?n ?? copy m? ??">${escapeHtml(exam.code || exam.id)}</button>
-        </div>
-        <div class="exam-row-main">
-          <h3 class="exam-row-title">${escapeHtml(exam.title)}</h3>
-          <div class="exam-row-badges">
-            <span class="badge-track">${escapeHtml(trackLabel)}</span>
-            <span class="badge-topic" data-topic="${escapeHtml(topic)}">${escapeHtml(topicLabel)}</span>
-            ${dateStr ? `<span class="badge-date" title="Ng?y th?m ??">?? ${dateStr}</span>` : ""}
-          </div>
-        </div>
-        <div class="exam-row-right">
-          <div class="exam-row-meta">
-            <span class="q-count">${exam.questionCount} c?u</span>
-            <span class="${scoreClass}">${scoreText}</span>
-          </div>
-          <div class="progress-bar" aria-hidden="true">
-            <div class="ok" style="width:${okPct}%"></div>
-            <div class="bad" style="width:${badPct}%"></div>
-          </div>
-        </div>
+      <div class="exam-row" data-exam-id="${escapeHtml(exam.id)}" data-topic="${escapeHtml(topic)}" tabindex="0" role="button" title="${escapeHtml(exam.title)}">
+        <span class="exam-row-index">${orderNum}</span>
+        <button type="button" class="exam-code exam-row-code" data-code="${escapeHtml(exam.code || exam.id)}" title="Nhấn để copy mã đề">${escapeHtml(exam.code || exam.id)}</button>
+        <span class="exam-row-title">${escapeHtml(exam.title)}</span>
+        <span class="badge-track">${escapeHtml(trackLabel)}</span>
+        <span class="badge-topic" data-topic="${escapeHtml(topic)}">${escapeHtml(topicLabel)}</span>
+        <span class="badge-date" title="Ngày thêm đề">${dateStr || "—"}</span>
+        <span class="exam-row-qcount">${exam.questionCount} câu</span>
+        <span class="exam-row-score ${scoreClass}">${scoreText}</span>
       </div>`;
   }
 
@@ -763,18 +747,18 @@
     const topic = exam.topic || "grammar";
     const dateStr = formatAddedDate(exam.addedAt);
     const scoreClass = s.answered ? "score" : "score empty";
-    const scoreText = s.answered ? `??ng ${s.correct}/${s.total}` : "Ch?a l?m";
+    const scoreText = s.answered ? `Đúng ${s.correct}/${s.total}` : "Chưa làm";
     const okPct = s.total ? (s.correct / s.total) * 100 : 0;
     const badPct = s.total ? ((s.answered - s.correct) / s.total) * 100 : 0;
     return `
       <div class="exam-card" data-exam-id="${escapeHtml(exam.id)}" data-topic="${escapeHtml(topic)}" tabindex="0" role="button">
         <div class="exam-card-top">
-          <button type="button" class="exam-code" data-code="${escapeHtml(exam.code || exam.id)}" title="Nh?n ?? copy m? ??">${escapeHtml(exam.code || exam.id)}</button>
+          <button type="button" class="exam-code" data-code="${escapeHtml(exam.code || exam.id)}" title="Nhấn để copy mã đề">${escapeHtml(exam.code || exam.id)}</button>
           ${dateStr ? `<span class="card-date">${dateStr}</span>` : ""}
         </div>
         <h3>${escapeHtml(exam.title)}</h3>
         <div class="meta">
-          <span>${exam.questionCount} c?u</span>
+          <span>${exam.questionCount} câu</span>
           <span class="${scoreClass}">${scoreText}</span>
         </div>
         <div class="progress-bar" aria-hidden="true">
@@ -795,15 +779,15 @@
     if (countEl) {
       countEl.textContent =
         filtered.length === exams.length
-          ? `Hi?n th? t?t c? ${exams.length} ??`
-          : `T?m th?y ${filtered.length} / ${exams.length} ??`;
+          ? `Hiển thị tất cả ${exams.length} đề`
+          : `Tìm thấy ${filtered.length} / ${exams.length} đề`;
     }
 
     if (!filtered.length) {
       resultsContainer.innerHTML = `
         <div class="status-banner">
-          Kh?ng t?m th?y ?? n?o kh?p b? l?c hi?n t?i.
-          <button type="button" class="btn btn-ghost" id="btn-clear-filters" style="margin-left:10px;padding:4px 10px;font-size:0.8rem;">X?a b? l?c</button>
+          Không tìm thấy đề nào khớp bộ lọc hiện tại.
+          <button type="button" class="btn btn-ghost" id="btn-clear-filters" style="margin-left:10px;padding:4px 10px;font-size:0.8rem;">Xóa bộ lọc</button>
         </div>`;
       const clearBtn = $("btn-clear-filters");
       if (clearBtn) {
@@ -890,7 +874,7 @@
     ];
 
     const trackPillsHtml = [
-      `<button type="button" class="filter-pill ${dashState.track === "all" ? "active" : ""}" data-track="all">T?t c? (${exams.length})</button>`,
+      `<button type="button" class="filter-pill ${dashState.track === "all" ? "active" : ""}" data-track="all">Tất cả (${exams.length})</button>`,
       ...allTracks.map((tr) => {
         const cnt = exams.filter((e) => e.track === tr).length;
         return `<button type="button" class="filter-pill ${dashState.track === tr ? "active" : ""}" data-track="${escapeHtml(tr)}">${escapeHtml(TRACK_LABELS[tr] || tr)} (${cnt})</button>`;
@@ -898,7 +882,7 @@
     ].join("");
 
     const topicOptionsHtml = [
-      `<option value="all" ${dashState.topic === "all" ? "selected" : ""}>T?t c? k? n?ng</option>`,
+      `<option value="all" ${dashState.topic === "all" ? "selected" : ""}>Tất cả kỹ năng</option>`,
       ...allTopics.map(
         (tp) =>
           `<option value="${escapeHtml(tp)}" ${dashState.topic === tp ? "selected" : ""}>${escapeHtml(
@@ -911,38 +895,38 @@
       <div class="dash-toolbar">
         <div class="dash-toolbar-top">
           <div class="dash-search-wrap">
-            <span class="dash-search-icon" aria-hidden="true">??</span>
+            <span class="dash-search-icon" aria-hidden="true">🔍</span>
             <input
               type="search"
               id="dash-search-input"
               class="dash-search-input"
-              placeholder="T?m t?n ??, m? ?? (VD: RD13, ?o?n v?n, 19/10, Minitest...)"
+              placeholder="Tìm tên đề, mã đề (VD: RD13, Đoản văn, 19/10, Minitest...)"
               value="${escapeHtml(dashState.search)}"
               autocomplete="off"
             />
           </div>
           <div class="dash-controls">
-            <select id="dash-topic-select" class="dash-select" aria-label="L?c theo k? n?ng">
+            <select id="dash-topic-select" class="dash-select" aria-label="Lọc theo kỹ năng">
               ${topicOptionsHtml}
             </select>
-            <select id="dash-status-select" class="dash-select" aria-label="L?c theo tr?ng th?i">
-              <option value="all" ${dashState.status === "all" ? "selected" : ""}>M?i tr?ng th?i</option>
-              <option value="todo" ${dashState.status === "todo" ? "selected" : ""}>Ch?a l?m</option>
-              <option value="doing" ${dashState.status === "doing" ? "selected" : ""}>?ang l?m d?</option>
-              <option value="done" ${dashState.status === "done" ? "selected" : ""}>?? ho?n th?nh</option>
+            <select id="dash-status-select" class="dash-select" aria-label="Lọc theo trạng thái">
+              <option value="all" ${dashState.status === "all" ? "selected" : ""}>Mọi trạng thái</option>
+              <option value="todo" ${dashState.status === "todo" ? "selected" : ""}>Chưa làm</option>
+              <option value="doing" ${dashState.status === "doing" ? "selected" : ""}>Đang làm dở</option>
+              <option value="done" ${dashState.status === "done" ? "selected" : ""}>Đã hoàn thành</option>
             </select>
-            <select id="dash-sort-select" class="dash-select" aria-label="S?p x?p ?? thi">
-              <option value="date_desc" ${dashState.sortBy === "date_desc" ? "selected" : ""}>?? M?i nh?t tr??c</option>
-              <option value="date_asc" ${dashState.sortBy === "date_asc" ? "selected" : ""}>?? C? nh?t tr??c</option>
-              <option value="title_asc" ${dashState.sortBy === "title_asc" ? "selected" : ""}>?? T?n ??: A ? Z</option>
-              <option value="title_desc" ${dashState.sortBy === "title_desc" ? "selected" : ""}>?? T?n ??: Z ? A</option>
-              <option value="code_asc" ${dashState.sortBy === "code_asc" ? "selected" : ""}>??? M? ??: A ? Z</option>
-              <option value="code_desc" ${dashState.sortBy === "code_desc" ? "selected" : ""}>??? M? ??: Z ? A</option>
-              <option value="unanswered_first" ${dashState.sortBy === "unanswered_first" ? "selected" : ""}>?? ?u ti?n ch?a l?m</option>
+            <select id="dash-sort-select" class="dash-select" aria-label="Sắp xếp đề thi">
+              <option value="date_desc" ${dashState.sortBy === "date_desc" ? "selected" : ""}>🕒 Mới nhất trước</option>
+              <option value="date_asc" ${dashState.sortBy === "date_asc" ? "selected" : ""}>🕒 Cũ nhất trước</option>
+              <option value="title_asc" ${dashState.sortBy === "title_asc" ? "selected" : ""}>🔤 Tên đề: A → Z</option>
+              <option value="title_desc" ${dashState.sortBy === "title_desc" ? "selected" : ""}>🔤 Tên đề: Z → A</option>
+              <option value="code_asc" ${dashState.sortBy === "code_asc" ? "selected" : ""}>🏷️ Mã đề: A → Z</option>
+              <option value="code_desc" ${dashState.sortBy === "code_desc" ? "selected" : ""}>🏷️ Mã đề: Z → A</option>
+              <option value="unanswered_first" ${dashState.sortBy === "unanswered_first" ? "selected" : ""}>📌 Ưu tiên chưa làm</option>
             </select>
-            <div class="dash-view-toggle" role="group" aria-label="Ch? ?? hi?n th?">
-              <button type="button" class="view-btn ${dashState.viewMode === "list" ? "active" : ""}" data-view="list" title="Gom th?nh danh s?ch">? Danh s?ch</button>
-              <button type="button" class="view-btn ${dashState.viewMode === "grouped" ? "active" : ""}" data-view="grouped" title="Chia nh?m theo kh?a & k? n?ng">? Chia nh?m</button>
+            <div class="dash-view-toggle" role="group" aria-label="Chế độ hiển thị">
+              <button type="button" class="view-btn ${dashState.viewMode === "list" ? "active" : ""}" data-view="list" title="Gom thành danh sách">☰ Danh sách</button>
+              <button type="button" class="view-btn ${dashState.viewMode === "grouped" ? "active" : ""}" data-view="grouped" title="Chia nhóm theo khóa & kỹ năng">⊞ Chia nhóm</button>
             </div>
           </div>
         </div>
@@ -955,7 +939,7 @@
     `;
 
     const totalQ = exams.reduce((n, e) => n + (e.questionCount || 0), 0);
-    $("header-meta").textContent = `${exams.length} ?? ? ${totalQ} c?u`;
+    $("header-meta").textContent = `${exams.length} đề · ${totalQ} câu`;
     renderTopNav();
     renderDashboardResults();
 
