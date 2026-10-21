@@ -1,11 +1,47 @@
 (() => {
   const PROGRESS_KEY = "nihongoshiken_progress_v2";
+  const DASH_PREFS_KEY = "nihongoshiken_dash_prefs_v1";
 
   let catalog = null;
   let activeMeta = null;
   let activeExam = null;
   let currentIndex = 0;
   let answers = {};
+
+  function loadDashPrefs() {
+    try {
+      const raw = localStorage.getItem(DASH_PREFS_KEY);
+      if (!raw) return {};
+      return JSON.parse(raw) || {};
+    } catch {
+      return {};
+    }
+  }
+
+  function saveDashPrefs() {
+    try {
+      localStorage.setItem(
+        DASH_PREFS_KEY,
+        JSON.stringify({
+          viewMode: dashState.viewMode,
+          sortBy: dashState.sortBy,
+          track: dashState.track,
+          topic: dashState.topic,
+          status: dashState.status,
+        })
+      );
+    } catch {}
+  }
+
+  const savedPrefs = loadDashPrefs();
+  const dashState = {
+    search: "",
+    track: savedPrefs.track || "all",
+    topic: savedPrefs.topic || "all",
+    status: savedPrefs.status || "all",
+    sortBy: savedPrefs.sortBy || "date_desc",
+    viewMode: savedPrefs.viewMode || "list",
+  };
 
   const $ = (id) => document.getElementById(id);
 
@@ -596,78 +632,380 @@
     });
   }
 
-  function renderDashboard() {
-    const root = $("dashboard-root");
-    const exams = catalog.exams || [];
-    const grouped = DataLoader.groupByTrackThenTopic(exams);
+  function normalizeVi(str) {
+    return String(str || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/\u0111/g, "d")
+      .replace(/\u0110/g, "D")
+      .toLowerCase()
+      .trim();
+  }
 
-    const trackKeys = [
-      ...TRACK_ORDER.filter((t) => grouped.has(t)),
-      ...[...grouped.keys()].filter((t) => !TRACK_ORDER.includes(t)),
-    ];
+  function getExamTimestamp(exam, idx) {
+    if (exam.addedAt) {
+      const t = Date.parse(exam.addedAt);
+      if (!Number.isNaN(t)) return t + idx;
+    }
+    return idx;
+  }
 
-    let html = "";
-    for (const track of trackKeys) {
-      const topicMap = grouped.get(track);
-      html += `<section class="track-block">`;
-      html += `<h2 class="track-title">${TRACK_LABELS[track] || track}</h2>`;
-      html += `<p class="track-desc">${TRACK_DESCRIPTIONS[track] || ""}</p>`;
+  function formatAddedDate(isoStr) {
+    if (!isoStr) return "";
+    const d = new Date(isoStr);
+    if (Number.isNaN(d.getTime())) return "";
+    const dd = String(d.getDate()).padStart(2, "0");
+    const mm = String(d.getMonth() + 1).padStart(2, "0");
+    const yyyy = d.getFullYear();
+    return `${dd}/${mm}/${yyyy}`;
+  }
 
-      const topicKeys = [
-        ...TOPIC_ORDER.filter((t) => topicMap.has(t)),
-        ...[...topicMap.keys()].filter((t) => !TOPIC_ORDER.includes(t)),
-      ];
+  function getFilteredSortedExams(exams) {
+    const q = normalizeVi(dashState.search);
+    const indexed = exams.map((exam, idx) => ({
+      exam,
+      idx,
+      score: scoreForExam(exam),
+      ts: getExamTimestamp(exam, idx),
+    }));
 
-      for (const topic of topicKeys) {
-        const list = topicMap.get(topic);
-        html += `<div class="topic-block" data-topic="${topic}">`;
-        html += `<h3 class="topic-title">${TOPIC_LABELS[topic] || topic}</h3>`;
-        html += `<div class="exam-grid">`;
-        for (const exam of list) {
-          const s = scoreForExam(exam);
-          const scoreClass = s.answered ? "score" : "score empty";
-          const scoreText = s.answered
-            ? `Đúng ${s.correct}/${s.total}`
-            : "Chưa làm";
-          const okPct = s.total ? (s.correct / s.total) * 100 : 0;
-          const badPct = s.total
-            ? ((s.answered - s.correct) / s.total) * 100
-            : 0;
-          html += `
-            <div class="exam-card" data-exam-id="${exam.id}" data-topic="${exam.topic || topic}" tabindex="0" role="button">
-              <button type="button" class="exam-code" data-code="${exam.code || exam.id}" title="Nhấn để copy mã đề">${exam.code || exam.id}</button>
-              <h3>${exam.title}</h3>
-              <div class="meta">
-                <span>${exam.questionCount} câu</span>
-                <span class="${scoreClass}">${scoreText}</span>
-              </div>
-              <div class="progress-bar" aria-hidden="true">
-                <div class="ok" style="width:${okPct}%"></div>
-                <div class="bad" style="width:${badPct}%"></div>
-              </div>
-            </div>`;
-        }
-        html += `</div></div>`;
+    const filtered = indexed.filter(({ exam, score }) => {
+      if (dashState.track !== "all" && exam.track !== dashState.track) return false;
+      if (dashState.topic !== "all" && exam.topic !== dashState.topic) return false;
+      if (dashState.status !== "all") {
+        const isDone = score.total > 0 && score.answered >= score.total;
+        const isDoing = score.answered > 0 && score.answered < score.total;
+        const isTodo = score.answered === 0;
+        if (dashState.status === "todo" && !isTodo) return false;
+        if (dashState.status === "doing" && !isDoing) return false;
+        if (dashState.status === "done" && !isDone) return false;
       }
-      html += `</section>`;
+      if (q) {
+        const hay = normalizeVi(
+          `${exam.title} ${exam.code || ""} ${exam.id || ""} ${TRACK_LABELS[exam.track] || ""} ${TOPIC_LABELS[exam.topic] || ""}`
+        );
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+
+    const collator = new Intl.Collator("vi", { numeric: true, sensitivity: "base" });
+    filtered.sort((a, b) => {
+      switch (dashState.sortBy) {
+        case "date_desc":
+          if (b.ts !== a.ts) return b.ts - a.ts;
+          return b.idx - a.idx;
+        case "date_asc":
+          if (a.ts !== b.ts) return a.ts - b.ts;
+          return a.idx - b.idx;
+        case "title_asc":
+          return collator.compare(a.exam.title || "", b.exam.title || "");
+        case "title_desc":
+          return collator.compare(b.exam.title || "", a.exam.title || "");
+        case "code_asc":
+          return collator.compare(a.exam.code || a.exam.id || "", b.exam.code || b.exam.id || "");
+        case "code_desc":
+          return collator.compare(b.exam.code || b.exam.id || "", a.exam.code || a.exam.id || "");
+        case "unanswered_first": {
+          const aTodo = a.score.answered === 0 ? 0 : 1;
+          const bTodo = b.score.answered === 0 ? 0 : 1;
+          if (aTodo !== bTodo) return aTodo - bTodo;
+          return b.ts - a.ts;
+        }
+        default:
+          return b.ts - a.ts;
+      }
+    });
+
+    return filtered;
+  }
+
+  function renderExamRow(item, orderNum) {
+    const { exam, score: s } = item;
+    const topic = exam.topic || "grammar";
+    const trackLabel = TRACK_LABELS[exam.track] || exam.track || "";
+    const topicLabel = TOPIC_LABELS[topic] || topic;
+    const dateStr = formatAddedDate(exam.addedAt);
+    const scoreClass = s.answered ? "score" : "score empty";
+    const scoreText = s.answered ? `??ng ${s.correct}/${s.total}` : "Ch?a l?m";
+    const okPct = s.total ? (s.correct / s.total) * 100 : 0;
+    const badPct = s.total ? ((s.answered - s.correct) / s.total) * 100 : 0;
+
+    return `
+      <div class="exam-row" data-exam-id="${escapeHtml(exam.id)}" data-topic="${escapeHtml(topic)}" tabindex="0" role="button">
+        <div class="exam-row-index">${orderNum}</div>
+        <div class="exam-row-code">
+          <button type="button" class="exam-code" data-code="${escapeHtml(exam.code || exam.id)}" title="Nh?n ?? copy m? ??">${escapeHtml(exam.code || exam.id)}</button>
+        </div>
+        <div class="exam-row-main">
+          <h3 class="exam-row-title">${escapeHtml(exam.title)}</h3>
+          <div class="exam-row-badges">
+            <span class="badge-track">${escapeHtml(trackLabel)}</span>
+            <span class="badge-topic" data-topic="${escapeHtml(topic)}">${escapeHtml(topicLabel)}</span>
+            ${dateStr ? `<span class="badge-date" title="Ng?y th?m ??">?? ${dateStr}</span>` : ""}
+          </div>
+        </div>
+        <div class="exam-row-right">
+          <div class="exam-row-meta">
+            <span class="q-count">${exam.questionCount} c?u</span>
+            <span class="${scoreClass}">${scoreText}</span>
+          </div>
+          <div class="progress-bar" aria-hidden="true">
+            <div class="ok" style="width:${okPct}%"></div>
+            <div class="bad" style="width:${badPct}%"></div>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  function renderExamCard(item) {
+    const { exam, score: s } = item;
+    const topic = exam.topic || "grammar";
+    const dateStr = formatAddedDate(exam.addedAt);
+    const scoreClass = s.answered ? "score" : "score empty";
+    const scoreText = s.answered ? `??ng ${s.correct}/${s.total}` : "Ch?a l?m";
+    const okPct = s.total ? (s.correct / s.total) * 100 : 0;
+    const badPct = s.total ? ((s.answered - s.correct) / s.total) * 100 : 0;
+    return `
+      <div class="exam-card" data-exam-id="${escapeHtml(exam.id)}" data-topic="${escapeHtml(topic)}" tabindex="0" role="button">
+        <div class="exam-card-top">
+          <button type="button" class="exam-code" data-code="${escapeHtml(exam.code || exam.id)}" title="Nh?n ?? copy m? ??">${escapeHtml(exam.code || exam.id)}</button>
+          ${dateStr ? `<span class="card-date">${dateStr}</span>` : ""}
+        </div>
+        <h3>${escapeHtml(exam.title)}</h3>
+        <div class="meta">
+          <span>${exam.questionCount} c?u</span>
+          <span class="${scoreClass}">${scoreText}</span>
+        </div>
+        <div class="progress-bar" aria-hidden="true">
+          <div class="ok" style="width:${okPct}%"></div>
+          <div class="bad" style="width:${badPct}%"></div>
+        </div>
+      </div>`;
+  }
+
+  function renderDashboardResults() {
+    const resultsContainer = $("dashboard-results");
+    if (!resultsContainer || !catalog) return;
+
+    const exams = catalog.exams || [];
+    const filtered = getFilteredSortedExams(exams);
+
+    const countEl = $("dash-result-count");
+    if (countEl) {
+      countEl.textContent =
+        filtered.length === exams.length
+          ? `Hi?n th? t?t c? ${exams.length} ??`
+          : `T?m th?y ${filtered.length} / ${exams.length} ??`;
     }
 
-    root.innerHTML = html || `<div class="status-banner">Chưa có đề nào trong catalog.</div>`;
+    if (!filtered.length) {
+      resultsContainer.innerHTML = `
+        <div class="status-banner">
+          Kh?ng t?m th?y ?? n?o kh?p b? l?c hi?n t?i.
+          <button type="button" class="btn btn-ghost" id="btn-clear-filters" style="margin-left:10px;padding:4px 10px;font-size:0.8rem;">X?a b? l?c</button>
+        </div>`;
+      const clearBtn = $("btn-clear-filters");
+      if (clearBtn) {
+        clearBtn.addEventListener("click", () => {
+          dashState.search = "";
+          dashState.track = "all";
+          dashState.topic = "all";
+          dashState.status = "all";
+          saveDashPrefs();
+          renderDashboard();
+        });
+      }
+      return;
+    }
 
-    const totalQ = exams.reduce((n, e) => n + (e.questionCount || 0), 0);
-    $("header-meta").textContent = `${exams.length} đề · ${totalQ} câu`;
-    renderTopNav();
+    let html = "";
+    if (dashState.viewMode === "list") {
+      html = `<div class="exam-list-table">${filtered
+        .map((item, idx) => renderExamRow(item, idx + 1))
+        .join("")}</div>`;
+    } else {
+      const byTrack = new Map();
+      for (const item of filtered) {
+        const tr = item.exam.track || "n3_review";
+        if (!byTrack.has(tr)) byTrack.set(tr, new Map());
+        const tMap = byTrack.get(tr);
+        const tp = item.exam.topic || "grammar";
+        if (!tMap.has(tp)) tMap.set(tp, []);
+        tMap.get(tp).push(item);
+      }
 
-    root.querySelectorAll(".exam-card").forEach((card) => {
-      card.addEventListener("click", () => openExam(card.dataset.examId));
-      card.addEventListener("keydown", (e) => {
+      const trackKeys = [
+        ...TRACK_ORDER.filter((t) => byTrack.has(t)),
+        ...[...byTrack.keys()].filter((t) => !TRACK_ORDER.includes(t)),
+      ];
+
+      for (const track of trackKeys) {
+        const topicMap = byTrack.get(track);
+        html += `<section class="track-block">`;
+        html += `<h2 class="track-title">${TRACK_LABELS[track] || track}</h2>`;
+        html += `<p class="track-desc">${TRACK_DESCRIPTIONS[track] || ""}</p>`;
+
+        const topicKeys = [
+          ...TOPIC_ORDER.filter((t) => topicMap.has(t)),
+          ...[...topicMap.keys()].filter((t) => !TOPIC_ORDER.includes(t)),
+        ];
+
+        for (const topic of topicKeys) {
+          const list = topicMap.get(topic);
+          html += `<div class="topic-block" data-topic="${topic}">`;
+          html += `<h3 class="topic-title">${TOPIC_LABELS[topic] || topic}</h3>`;
+          html += `<div class="exam-grid">${list.map((item) => renderExamCard(item)).join("")}</div>`;
+          html += `</div>`;
+        }
+        html += `</section>`;
+      }
+    }
+
+    resultsContainer.innerHTML = html;
+
+    resultsContainer.querySelectorAll(".exam-card, .exam-row").forEach((el) => {
+      el.addEventListener("click", () => openExam(el.dataset.examId));
+      el.addEventListener("keydown", (e) => {
         if (e.key === "Enter" || e.key === " ") {
           e.preventDefault();
-          openExam(card.dataset.examId);
+          openExam(el.dataset.examId);
         }
       });
     });
-    bindExamCodeCopy(root);
+    bindExamCodeCopy(resultsContainer);
+  }
+
+  function renderDashboard() {
+    const root = $("dashboard-root");
+    const exams = catalog.exams || [];
+
+    const allTracks = [
+      ...TRACK_ORDER.filter((t) => exams.some((e) => e.track === t)),
+      ...[...new Set(exams.map((e) => e.track))].filter((t) => t && !TRACK_ORDER.includes(t)),
+    ];
+    const allTopics = [
+      ...TOPIC_ORDER.filter((t) => exams.some((e) => e.topic === t)),
+      ...[...new Set(exams.map((e) => e.topic))].filter((t) => t && !TOPIC_ORDER.includes(t)),
+    ];
+
+    const trackPillsHtml = [
+      `<button type="button" class="filter-pill ${dashState.track === "all" ? "active" : ""}" data-track="all">T?t c? (${exams.length})</button>`,
+      ...allTracks.map((tr) => {
+        const cnt = exams.filter((e) => e.track === tr).length;
+        return `<button type="button" class="filter-pill ${dashState.track === tr ? "active" : ""}" data-track="${escapeHtml(tr)}">${escapeHtml(TRACK_LABELS[tr] || tr)} (${cnt})</button>`;
+      }),
+    ].join("");
+
+    const topicOptionsHtml = [
+      `<option value="all" ${dashState.topic === "all" ? "selected" : ""}>T?t c? k? n?ng</option>`,
+      ...allTopics.map(
+        (tp) =>
+          `<option value="${escapeHtml(tp)}" ${dashState.topic === tp ? "selected" : ""}>${escapeHtml(
+            TOPIC_LABELS[tp] || tp
+          )}</option>`
+      ),
+    ].join("");
+
+    root.innerHTML = `
+      <div class="dash-toolbar">
+        <div class="dash-toolbar-top">
+          <div class="dash-search-wrap">
+            <span class="dash-search-icon" aria-hidden="true">??</span>
+            <input
+              type="search"
+              id="dash-search-input"
+              class="dash-search-input"
+              placeholder="T?m t?n ??, m? ?? (VD: RD13, ?o?n v?n, 19/10, Minitest...)"
+              value="${escapeHtml(dashState.search)}"
+              autocomplete="off"
+            />
+          </div>
+          <div class="dash-controls">
+            <select id="dash-topic-select" class="dash-select" aria-label="L?c theo k? n?ng">
+              ${topicOptionsHtml}
+            </select>
+            <select id="dash-status-select" class="dash-select" aria-label="L?c theo tr?ng th?i">
+              <option value="all" ${dashState.status === "all" ? "selected" : ""}>M?i tr?ng th?i</option>
+              <option value="todo" ${dashState.status === "todo" ? "selected" : ""}>Ch?a l?m</option>
+              <option value="doing" ${dashState.status === "doing" ? "selected" : ""}>?ang l?m d?</option>
+              <option value="done" ${dashState.status === "done" ? "selected" : ""}>?? ho?n th?nh</option>
+            </select>
+            <select id="dash-sort-select" class="dash-select" aria-label="S?p x?p ?? thi">
+              <option value="date_desc" ${dashState.sortBy === "date_desc" ? "selected" : ""}>?? M?i nh?t tr??c</option>
+              <option value="date_asc" ${dashState.sortBy === "date_asc" ? "selected" : ""}>?? C? nh?t tr??c</option>
+              <option value="title_asc" ${dashState.sortBy === "title_asc" ? "selected" : ""}>?? T?n ??: A ? Z</option>
+              <option value="title_desc" ${dashState.sortBy === "title_desc" ? "selected" : ""}>?? T?n ??: Z ? A</option>
+              <option value="code_asc" ${dashState.sortBy === "code_asc" ? "selected" : ""}>??? M? ??: A ? Z</option>
+              <option value="code_desc" ${dashState.sortBy === "code_desc" ? "selected" : ""}>??? M? ??: Z ? A</option>
+              <option value="unanswered_first" ${dashState.sortBy === "unanswered_first" ? "selected" : ""}>?? ?u ti?n ch?a l?m</option>
+            </select>
+            <div class="dash-view-toggle" role="group" aria-label="Ch? ?? hi?n th?">
+              <button type="button" class="view-btn ${dashState.viewMode === "list" ? "active" : ""}" data-view="list" title="Gom th?nh danh s?ch">? Danh s?ch</button>
+              <button type="button" class="view-btn ${dashState.viewMode === "grouped" ? "active" : ""}" data-view="grouped" title="Chia nh?m theo kh?a & k? n?ng">? Chia nh?m</button>
+            </div>
+          </div>
+        </div>
+        <div class="dash-toolbar-bottom">
+          <div class="dash-track-pills" id="dash-track-pills">${trackPillsHtml}</div>
+          <div class="dash-result-count" id="dash-result-count"></div>
+        </div>
+      </div>
+      <div id="dashboard-results"></div>
+    `;
+
+    const totalQ = exams.reduce((n, e) => n + (e.questionCount || 0), 0);
+    $("header-meta").textContent = `${exams.length} ?? ? ${totalQ} c?u`;
+    renderTopNav();
+    renderDashboardResults();
+
+    const searchInput = $("dash-search-input");
+    if (searchInput) {
+      searchInput.addEventListener("input", (e) => {
+        dashState.search = e.target.value;
+        renderDashboardResults();
+      });
+    }
+
+    $("dash-topic-select")?.addEventListener("change", (e) => {
+      dashState.topic = e.target.value;
+      saveDashPrefs();
+      renderDashboardResults();
+    });
+
+    $("dash-status-select")?.addEventListener("change", (e) => {
+      dashState.status = e.target.value;
+      saveDashPrefs();
+      renderDashboardResults();
+    });
+
+    $("dash-sort-select")?.addEventListener("change", (e) => {
+      dashState.sortBy = e.target.value;
+      saveDashPrefs();
+      renderDashboardResults();
+    });
+
+    root.querySelectorAll(".filter-pill[data-track]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        dashState.track = btn.dataset.track;
+        saveDashPrefs();
+        root.querySelectorAll(".filter-pill[data-track]").forEach((b) => {
+          b.classList.toggle("active", b.dataset.track === dashState.track);
+        });
+        renderDashboardResults();
+      });
+    });
+
+    root.querySelectorAll(".view-btn[data-view]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        dashState.viewMode = btn.dataset.view;
+        saveDashPrefs();
+        root.querySelectorAll(".view-btn[data-view]").forEach((b) => {
+          b.classList.toggle("active", b.dataset.view === dashState.viewMode);
+        });
+        renderDashboardResults();
+      });
+    });
   }
 
   async function openExam(examId) {

@@ -11,7 +11,8 @@
       "topic": "kanji",
       "sourceCsv": "tong_on_bai_1.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-K01.json"
+      "file": "exams/N3/N3-TO-K01.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-V01",
@@ -22,7 +23,8 @@
       "topic": "vocabulary",
       "sourceCsv": "tong_on_bai_2.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-V01.json"
+      "file": "exams/N3/N3-TO-V01.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-G01",
@@ -33,7 +35,8 @@
       "topic": "grammar",
       "sourceCsv": "tong_on_bai_3.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-G01.json"
+      "file": "exams/N3/N3-TO-G01.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-V02",
@@ -44,7 +47,8 @@
       "topic": "vocabulary",
       "sourceCsv": "tong_on_bai_4.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-V02.json"
+      "file": "exams/N3/N3-TO-V02.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-G02",
@@ -55,7 +59,8 @@
       "topic": "grammar",
       "sourceCsv": "tong_on_bai_5.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-G02.json"
+      "file": "exams/N3/N3-TO-G02.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-G03",
@@ -66,7 +71,8 @@
       "topic": "grammar",
       "sourceCsv": "tong_on_bai_6.csv",
       "questionCount": 24,
-      "file": "exams/N3/N3-TO-G03.json"
+      "file": "exams/N3/N3-TO-G03.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-V03",
@@ -77,7 +83,8 @@
       "topic": "vocabulary",
       "sourceCsv": "tong_on_bai_7.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-V03.json"
+      "file": "exams/N3/N3-TO-V03.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N3-TO-G04",
@@ -88,7 +95,8 @@
       "topic": "grammar",
       "sourceCsv": "tong_on_bai_8.csv",
       "questionCount": 25,
-      "file": "exams/N3/N3-TO-G04.json"
+      "file": "exams/N3/N3-TO-G04.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-1",
@@ -98,7 +106,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-1.json"
+      "file": "exams/N2/on-n2-300-de-1.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-2",
@@ -108,7 +117,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-2.json"
+      "file": "exams/N2/on-n2-300-de-2.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-3",
@@ -118,7 +128,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-3.json"
+      "file": "exams/N2/on-n2-300-de-3.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-4",
@@ -128,7 +139,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-4.json"
+      "file": "exams/N2/on-n2-300-de-4.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-5",
@@ -138,7 +150,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-5.json"
+      "file": "exams/N2/on-n2-300-de-5.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-6",
@@ -148,7 +161,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-6.json"
+      "file": "exams/N2/on-n2-300-de-6.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-7",
@@ -158,7 +172,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-7.json"
+      "file": "exams/N2/on-n2-300-de-7.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-8-211-240",
@@ -168,7 +183,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-8-211-240.json"
+      "file": "exams/N2/on-n2-300-de-8-211-240.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-9-241-270",
@@ -178,7 +194,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-9-241-270.json"
+      "file": "exams/N2/on-n2-300-de-9-241-270.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "on-n2-300-de-10-271-300",
@@ -188,7 +205,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 30,
-      "file": "exams/N2/on-n2-300-de-10-271-300.json"
+      "file": "exams/N2/on-n2-300-de-10-271-300.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "de-thi-jlpt-n2202512-phan-tu-vungngu-phap",
@@ -198,7 +216,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 51,
-      "file": "exams/N2/de-thi-jlpt-n2202512-phan-tu-vungngu-phap.json"
+      "file": "exams/N2/de-thi-jlpt-n2202512-phan-tu-vungngu-phap.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "de-thi-jlpt-n2202512-phan-doc-hieu",
@@ -208,7 +227,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 20,
-      "file": "exams/N2/de-thi-jlpt-n2202512-phan-doc-hieu.json"
+      "file": "exams/N2/de-thi-jlpt-n2202512-phan-doc-hieu.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "N2-KJ-D09",
@@ -218,7 +238,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 11,
-      "file": "exams/N2/N2-KJ-D09.json"
+      "file": "exams/N2/N2-KJ-D09.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-KJ-D10",
@@ -228,7 +249,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 11,
-      "file": "exams/N2/N2-KJ-D10.json"
+      "file": "exams/N2/N2-KJ-D10.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-KJ-D11",
@@ -238,7 +260,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D11.json"
+      "file": "exams/N2/N2-KJ-D11.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-KJ-D12",
@@ -248,7 +271,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D12.json"
+      "file": "exams/N2/N2-KJ-D12.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-KJ-D13",
@@ -258,7 +282,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D13.json"
+      "file": "exams/N2/N2-KJ-D13.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-KJ-D14",
@@ -268,7 +293,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D14.json"
+      "file": "exams/N2/N2-KJ-D14.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-KJ-D15",
@@ -278,7 +304,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D15.json"
+      "file": "exams/N2/N2-KJ-D15.json",
+      "addedAt": "2026-08-22T16:20:32+07:00"
     },
     {
       "id": "N2-KJ-D16",
@@ -288,7 +315,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D16.json"
+      "file": "exams/N2/N2-KJ-D16.json",
+      "addedAt": "2026-08-22T16:20:32+07:00"
     },
     {
       "id": "N2-KJ-D17",
@@ -298,7 +326,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D17.json"
+      "file": "exams/N2/N2-KJ-D17.json",
+      "addedAt": "2026-08-22T16:21:47+07:00"
     },
     {
       "id": "N2-KJ-D18",
@@ -308,7 +337,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 10,
-      "file": "exams/N2/N2-KJ-D18.json"
+      "file": "exams/N2/N2-KJ-D18.json",
+      "addedAt": "2026-08-22T16:21:47+07:00"
     },
     {
       "id": "N2-VJ-B15",
@@ -318,7 +348,8 @@
       "level": "N2",
       "topic": "vocabulary",
       "questionCount": 25,
-      "file": "exams/N2/N2-VJ-B15.json"
+      "file": "exams/N2/N2-VJ-B15.json",
+      "addedAt": "2026-10-16T21:03:26+07:00"
     },
     {
       "id": "N2-GJ-B09",
@@ -328,7 +359,8 @@
       "level": "N2",
       "topic": "grammar",
       "questionCount": 14,
-      "file": "exams/N2/N2-GJ-B09.json"
+      "file": "exams/N2/N2-GJ-B09.json",
+      "addedAt": "2026-09-27T13:23:37+07:00"
     },
     {
       "id": "N2-GJ-B14",
@@ -338,7 +370,8 @@
       "level": "N2",
       "topic": "grammar",
       "questionCount": 14,
-      "file": "exams/N2/N2-GJ-B14.json"
+      "file": "exams/N2/N2-GJ-B14.json",
+      "addedAt": "2026-10-12T21:13:25+07:00"
     },
     {
       "id": "N2-GJ-B15",
@@ -348,7 +381,8 @@
       "level": "N2",
       "topic": "grammar",
       "questionCount": 10,
-      "file": "exams/N2/N2-GJ-B15.json"
+      "file": "exams/N2/N2-GJ-B15.json",
+      "addedAt": "2026-10-12T20:42:55+07:00"
     },
     {
       "id": "N2-GJ-B16",
@@ -358,7 +392,8 @@
       "level": "N2",
       "topic": "grammar",
       "questionCount": 35,
-      "file": "exams/N2/N2-GJ-B16.json"
+      "file": "exams/N2/N2-GJ-B16.json",
+      "addedAt": "2026-10-16T19:33:06+07:00"
     },
     {
       "id": "N2-GJ-B17",
@@ -368,7 +403,8 @@
       "level": "N2",
       "topic": "grammar",
       "questionCount": 29,
-      "file": "exams/N2/N2-GJ-B17.json"
+      "file": "exams/N2/N2-GJ-B17.json",
+      "addedAt": "2026-10-16T19:33:06+07:00"
     },
     {
       "id": "N2-29-MT01",
@@ -378,7 +414,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 30,
-      "file": "exams/N2/N2-29-MT01.json"
+      "file": "exams/N2/N2-29-MT01.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-29-RD01",
@@ -388,7 +425,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 5,
-      "file": "exams/N2/N2-29-RD01.json"
+      "file": "exams/N2/N2-29-RD01.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-29-LS01",
@@ -398,7 +436,8 @@
       "level": "N2",
       "topic": "listening",
       "questionCount": 5,
-      "file": "exams/N2/N2-29-LS01.json"
+      "file": "exams/N2/N2-29-LS01.json",
+      "addedAt": "2026-08-22T16:18:57+07:00"
     },
     {
       "id": "N2-29-LS02",
@@ -408,7 +447,8 @@
       "level": "N2",
       "topic": "listening",
       "questionCount": 3,
-      "file": "exams/N2/N2-29-LS02.json"
+      "file": "exams/N2/N2-29-LS02.json",
+      "addedAt": "2026-09-12T13:31:36+07:00"
     },
     {
       "id": "N2-29-LS03",
@@ -418,7 +458,8 @@
       "level": "N2",
       "topic": "listening",
       "questionCount": 3,
-      "file": "exams/N2/N2-29-LS03.json"
+      "file": "exams/N2/N2-29-LS03.json",
+      "addedAt": "2026-09-12T13:31:36+07:00"
     },
     {
       "id": "N2-29-MT02",
@@ -428,7 +469,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 30,
-      "file": "exams/N2/N2-29-MT02.json"
+      "file": "exams/N2/N2-29-MT02.json",
+      "addedAt": "2026-08-23T15:20:06+07:00"
     },
     {
       "id": "N2-29-MT04",
@@ -438,7 +480,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 20,
-      "file": "exams/N2/N2-29-MT04.json"
+      "file": "exams/N2/N2-29-MT04.json",
+      "addedAt": "2026-09-12T18:17:00+07:00"
     },
     {
       "id": "N2-29-MT05",
@@ -448,7 +491,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 20,
-      "file": "exams/N2/N2-29-MT05.json"
+      "file": "exams/N2/N2-29-MT05.json",
+      "addedAt": "2026-09-20T13:03:18+07:00"
     },
     {
       "id": "N2-29-MT06",
@@ -458,7 +502,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 20,
-      "file": "exams/N2/N2-29-MT06.json"
+      "file": "exams/N2/N2-29-MT06.json",
+      "addedAt": "2026-09-27T15:01:41+07:00"
     },
     {
       "id": "N2-29-MT07",
@@ -468,7 +513,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 20,
-      "file": "exams/N2/N2-29-MT07.json"
+      "file": "exams/N2/N2-29-MT07.json",
+      "addedAt": "2026-10-04T13:51:02+07:00"
     },
     {
       "id": "N2-29-MT08",
@@ -478,7 +524,8 @@
       "level": "N2",
       "topic": "kanji",
       "questionCount": 20,
-      "file": "exams/N2/N2-29-MT08.json"
+      "file": "exams/N2/N2-29-MT08.json",
+      "addedAt": "2026-10-10T13:14:53+07:00"
     },
     {
       "id": "N2-29-GD3-01",
@@ -488,7 +535,8 @@
       "level": "N2",
       "topic": "vocabulary_grammar",
       "questionCount": 51,
-      "file": "exams/N2/N2-29-GD3-01.json"
+      "file": "exams/N2/N2-29-GD3-01.json",
+      "addedAt": "2026-10-16T22:05:43+07:00"
     },
     {
       "id": "N2-29-RD06",
@@ -498,7 +546,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 2,
-      "file": "exams/N2/N2-29-RD06.json"
+      "file": "exams/N2/N2-29-RD06.json",
+      "addedAt": "2026-09-12T13:31:36+07:00"
     },
     {
       "id": "N2-29-RD09",
@@ -508,7 +557,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-29-RD09.json"
+      "file": "exams/N2/N2-29-RD09.json",
+      "addedAt": "2026-09-12T13:31:36+07:00"
     },
     {
       "id": "N2-29-RD11",
@@ -518,7 +568,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 2,
-      "file": "exams/N2/N2-29-RD11.json"
+      "file": "exams/N2/N2-29-RD11.json",
+      "addedAt": "2026-10-16T19:33:06+07:00"
     },
     {
       "id": "N2-29-RD12",
@@ -528,7 +579,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 4,
-      "file": "exams/N2/N2-29-RD12.json"
+      "file": "exams/N2/N2-29-RD12.json",
+      "addedAt": "2026-10-16T21:55:57+07:00"
     },
     {
       "id": "N2-29-RD13",
@@ -538,7 +590,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 16,
-      "file": "exams/N2/N2-29-RD13.json"
+      "file": "exams/N2/N2-29-RD13.json",
+      "addedAt": "2026-10-21T20:11:04+07:00"
     },
     {
       "id": "N2-29-GD3-01-RD",
@@ -548,7 +601,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 20,
-      "file": "exams/N2/N2-29-GD3-01-RD.json"
+      "file": "exams/N2/N2-29-GD3-01-RD.json",
+      "addedAt": "2026-10-18T23:49:50+07:00"
     },
     {
       "id": "N2-29-GD3-01-LS",
@@ -558,7 +612,8 @@
       "level": "N2",
       "topic": "listening",
       "questionCount": 30,
-      "file": "exams/N2/N2-29-GD3-01-LS.json"
+      "file": "exams/N2/N2-29-GD3-01-LS.json",
+      "addedAt": "2026-10-19T01:04:40+07:00"
     },
     {
       "id": "N2-CS-RD01-TC",
@@ -568,7 +623,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD01-TC.json"
+      "file": "exams/N2/N2-CS-RD01-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD01-UD",
@@ -578,7 +634,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD01-UD.json"
+      "file": "exams/N2/N2-CS-RD01-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD02-TC",
@@ -588,7 +645,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD02-TC.json"
+      "file": "exams/N2/N2-CS-RD02-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD02-UD",
@@ -598,7 +656,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD02-UD.json"
+      "file": "exams/N2/N2-CS-RD02-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD03-TC",
@@ -608,7 +667,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD03-TC.json"
+      "file": "exams/N2/N2-CS-RD03-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD03-UD",
@@ -618,7 +678,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 2,
-      "file": "exams/N2/N2-CS-RD03-UD.json"
+      "file": "exams/N2/N2-CS-RD03-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD04-TC",
@@ -628,7 +689,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD04-TC.json"
+      "file": "exams/N2/N2-CS-RD04-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD04-UD",
@@ -638,7 +700,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD04-UD.json"
+      "file": "exams/N2/N2-CS-RD04-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD05-TC",
@@ -648,7 +711,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD05-TC.json"
+      "file": "exams/N2/N2-CS-RD05-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD05-UD",
@@ -658,7 +722,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 2,
-      "file": "exams/N2/N2-CS-RD05-UD.json"
+      "file": "exams/N2/N2-CS-RD05-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD06-TC",
@@ -668,7 +733,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD06-TC.json"
+      "file": "exams/N2/N2-CS-RD06-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD06-UD",
@@ -678,7 +744,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD06-UD.json"
+      "file": "exams/N2/N2-CS-RD06-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD07-TC",
@@ -688,7 +755,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD07-TC.json"
+      "file": "exams/N2/N2-CS-RD07-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD07-UD",
@@ -698,7 +766,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD07-UD.json"
+      "file": "exams/N2/N2-CS-RD07-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD08-TC",
@@ -708,7 +777,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 4,
-      "file": "exams/N2/N2-CS-RD08-TC.json"
+      "file": "exams/N2/N2-CS-RD08-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD08-UD",
@@ -718,7 +788,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 5,
-      "file": "exams/N2/N2-CS-RD08-UD.json"
+      "file": "exams/N2/N2-CS-RD08-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD09-TC",
@@ -728,7 +799,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 3,
-      "file": "exams/N2/N2-CS-RD09-TC.json"
+      "file": "exams/N2/N2-CS-RD09-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD09-UD",
@@ -738,7 +810,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 6,
-      "file": "exams/N2/N2-CS-RD09-UD.json"
+      "file": "exams/N2/N2-CS-RD09-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD10-TC",
@@ -748,7 +821,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 4,
-      "file": "exams/N2/N2-CS-RD10-TC.json"
+      "file": "exams/N2/N2-CS-RD10-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD10-UD",
@@ -758,7 +832,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 2,
-      "file": "exams/N2/N2-CS-RD10-UD.json"
+      "file": "exams/N2/N2-CS-RD10-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD11-TC",
@@ -768,7 +843,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 4,
-      "file": "exams/N2/N2-CS-RD11-TC.json"
+      "file": "exams/N2/N2-CS-RD11-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD11-UD",
@@ -778,7 +854,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 2,
-      "file": "exams/N2/N2-CS-RD11-UD.json"
+      "file": "exams/N2/N2-CS-RD11-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD12-TC",
@@ -788,7 +865,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 4,
-      "file": "exams/N2/N2-CS-RD12-TC.json"
+      "file": "exams/N2/N2-CS-RD12-TC.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "N2-CS-RD12-UD",
@@ -798,7 +876,8 @@
       "level": "N2",
       "topic": "reading",
       "questionCount": 4,
-      "file": "exams/N2/N2-CS-RD12-UD.json"
+      "file": "exams/N2/N2-CS-RD12-UD.json",
+      "addedAt": "2026-09-20T14:14:47+07:00"
     },
     {
       "id": "BJT-01-P1-S3",
@@ -808,7 +887,8 @@
       "level": "BJT",
       "topic": "listening",
       "questionCount": 16,
-      "file": "exams/BJT/BJT-01-P1-S3.json"
+      "file": "exams/BJT/BJT-01-P1-S3.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "BJT-01-P3-S1",
@@ -818,7 +898,8 @@
       "level": "BJT",
       "topic": "reading",
       "questionCount": 10,
-      "file": "exams/BJT/BJT-01-P3-S1.json"
+      "file": "exams/BJT/BJT-01-P3-S1.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "BJT-01-P3-S2",
@@ -828,7 +909,8 @@
       "level": "BJT",
       "topic": "reading",
       "questionCount": 10,
-      "file": "exams/BJT/BJT-01-P3-S2.json"
+      "file": "exams/BJT/BJT-01-P3-S2.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "BJT-01-P3-S3",
@@ -838,7 +920,8 @@
       "level": "BJT",
       "topic": "reading",
       "questionCount": 15,
-      "file": "exams/BJT/BJT-01-P3-S3.json"
+      "file": "exams/BJT/BJT-01-P3-S3.json",
+      "addedAt": "2026-07-30T22:37:35+07:00"
     },
     {
       "id": "JTEST-154-AC-VG",
@@ -848,7 +931,8 @@
       "level": "JTEST A-C",
       "topic": "vocabulary_grammar",
       "questionCount": 40,
-      "file": "exams/Jtest/JTEST-154-AC-VG.json"
+      "file": "exams/Jtest/JTEST-154-AC-VG.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     },
     {
       "id": "JTEST-154-AC-RD",
@@ -858,7 +942,8 @@
       "level": "JTEST A-C",
       "topic": "reading",
       "questionCount": 20,
-      "file": "exams/Jtest/JTEST-154-AC-RD.json"
+      "file": "exams/Jtest/JTEST-154-AC-RD.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     },
     {
       "id": "JTEST-154-AC-KJ",
@@ -868,7 +953,8 @@
       "level": "JTEST A-C",
       "topic": "kanji",
       "questionCount": 15,
-      "file": "exams/Jtest/JTEST-154-AC-KJ.json"
+      "file": "exams/Jtest/JTEST-154-AC-KJ.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     },
     {
       "id": "JTEST-154-AC-LS01",
@@ -878,7 +964,8 @@
       "level": "JTEST A-C",
       "topic": "listening",
       "questionCount": 10,
-      "file": "exams/Jtest/JTEST-154-AC-LS01.json"
+      "file": "exams/Jtest/JTEST-154-AC-LS01.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     },
     {
       "id": "JTEST-154-AC-LS02",
@@ -888,7 +975,8 @@
       "level": "JTEST A-C",
       "topic": "listening",
       "questionCount": 10,
-      "file": "exams/Jtest/JTEST-154-AC-LS02.json"
+      "file": "exams/Jtest/JTEST-154-AC-LS02.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     },
     {
       "id": "JTEST-154-AC-LS03",
@@ -898,7 +986,8 @@
       "level": "JTEST A-C",
       "topic": "listening",
       "questionCount": 20,
-      "file": "exams/Jtest/JTEST-154-AC-LS03.json"
+      "file": "exams/Jtest/JTEST-154-AC-LS03.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     },
     {
       "id": "JTEST-154-AC-LS04",
@@ -908,7 +997,8 @@
       "level": "JTEST A-C",
       "topic": "listening",
       "questionCount": 15,
-      "file": "exams/Jtest/JTEST-154-AC-LS04.json"
+      "file": "exams/Jtest/JTEST-154-AC-LS04.json",
+      "addedAt": "2026-09-29T20:45:20+07:00"
     }
   ]
 }
