@@ -22,12 +22,12 @@
     {
       "question_id": 2,
       "context": "",
-      "question": "「10 倍がゆ」とは＿＿＿ ＿＿＿ ＿★＿ ＿＿＿おかゆのことです。",
+      "question": "「10倍がゆ」とは＿＿＿ ＿＿＿ ＿★＿ ＿＿＿おかゆのことです。",
       "options": [
         "作った",
         "水で",
-        "10 倍の",
-        "米1 に対して"
+        "10倍の",
+        "米1に対して"
       ],
       "correct_answer": 2,
       "explanation": "Đáp án đúng: 2 · 水で\n\n【Dịch câu hỏi】\n「Cháo 10 lần」 là cháo nấu với nước gấp 10 so với 1 phần gạo. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 作った (đã nấu/làm)\n2. 水で (bằng nước…)\n3. 10倍の (gấp 10)\n4. 米1に対して (so với 1 phần gạo)\n\n【Keyword】\nNに対して, 倍の水で作った\n\n【Câu chính / căn cứ】\n「米1に対して10倍の水で作ったおかゆ」\n\n【Cách giải nhanh】\nThứ tự: 米1に対して → 10倍の → 水で → 作った. ★ = 水で. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — kết thúc định ngữ trước 「おかゆ」.\n2: Đúng — 「10倍の水で」.\n3: Sai — bổ nghĩa 水.\n4: Sai — mở đầu tỉ lệ.\n\n【Chi tiết thêm】\n「Aに対してB」 nêu tỉ lệ A:B."
@@ -48,7 +48,7 @@
     {
       "question_id": 4,
       "context": "",
-      "question": "彼女は1970 年代に活躍したジャズピアニストで、この人＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大きな存在だった。",
+      "question": "彼女は1970年代に活躍したジャズピアニストで、この人＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大きな存在だった。",
       "options": [
         "語れない",
         "日本のジャズは",
@@ -87,7 +87,7 @@
     {
       "question_id": 7,
       "context": "",
-      "question": "昨日の夜は、11 時までには＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、結局寝たのは1 時だった。",
+      "question": "昨日の夜は、11時までには＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、結局寝たのは1時だった。",
       "options": [
         "つい",
         "寝ようと",

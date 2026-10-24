@@ -8,7 +8,7 @@
   "questions": [
     {
       "question_id": 1,
-      "question": "まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があります。それから話を聞いて、問題用紙の1 から4 の中から、最もよいものを一つ選んでください。\n\n1 番\n(Nghe hiểu số 1: Nữ sinh hứng thú nhất với phần nào?)",
+      "question": "Nghe hiểu số 1: Nữ sinh hứng thú nhất với phần nào?",
       "options": [
         "地域の林業についての講義",
         "山での基本作業の体験",

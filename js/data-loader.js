@@ -1,10 +1,11 @@
 const DataLoader = (() => {
+  const DATA_VERSION = "20261024_02";
   let catalogCache = null;
   const examCache = new Map();
 
   async function loadCatalog(force = false) {
     if (catalogCache && !force) return catalogCache;
-    const res = await fetch("data/catalog.json", { cache: "no-cache" });
+    const res = await fetch(`data/catalog.json?v=${DATA_VERSION}`, { cache: "no-cache" });
     if (!res.ok) {
       throw new Error(`Không tải được catalog.json (HTTP ${res.status})`);
     }
@@ -15,7 +16,7 @@ const DataLoader = (() => {
   async function loadExam(examMeta) {
     const key = examMeta.id;
     if (examCache.has(key)) return examCache.get(key);
-    const path = `data/${examMeta.file}`;
+    const path = `data/${examMeta.file}?v=${DATA_VERSION}`;
     const res = await fetch(path, { cache: "no-cache" });
     if (!res.ok) {
       throw new Error(`Không tải được đề ${examMeta.id} (HTTP ${res.status})`);

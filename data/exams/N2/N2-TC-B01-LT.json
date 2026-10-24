@@ -21,7 +21,7 @@
     },
     {
       "question_id": 2,
-      "context": "以下は、ある会社で全社員に送られたメールである。\n社員各位\nわが社の人気商品「緑山牧場チーズ詰め合わせ」を、定価の30%引き(割引後3,500円)で社員向けに特別販売します。\n購入希望者は、添付の申込書にお名前と購入数をご記入のうえ、3 月9 日までに営業課までメールでお申し込みください。通常、社内販売の支払いと商品のお渡しは経理課で行っていますが、今回は営業課で行います。代金と引き換えに、その場で商品をお渡しします。お渡し期間は3 月16 日から19 日の間です。\n以上、よろしくお願いします。\n添付ファイル: 3 月1 日「緑山牧場チーズ詰め合わせ」申込書\n営業課 安井",
+      "context": "以下は、ある会社で全社員に送られたメールである。\n社員各位\nわが社の人気商品「緑山牧場チーズ詰め合わせ」を、定価の30%引き(割引後3,500円)で社員向けに特別販売します。\n購入希望者は、添付の申込書にお名前と購入数をご記入のうえ、3月9日までに営業課までメールでお申し込みください。通常、社内販売の支払いと商品のお渡しは経理課で行っていますが、今回は営業課で行います。代金と引き換えに、その場で商品をお渡しします。お渡し期間は3月16日から19日の間です。\n以上、よろしくお願いします。\n添付ファイル: 3月1日「緑山牧場チーズ詰め合わせ」申込書\n営業課安井",
       "question": "「緑山牧場チーズ詰め合わせ」を社内販売で購入したい社員は、期日までに営業課にメールで申し込んだあと、どうすればいいか。",
       "options": [
         "経理課で支払いをして受け取る。",
@@ -47,16 +47,16 @@
     },
     {
       "question_id": 4,
-      "context": "以下は、ある町の掲示板に貼られていた文書である。\n10 月5 日\n住民の皆様へ\nごみに関するお願い\n最近、「可燃ごみ」の回収日に衣類・布類が多く出されています。しかし、市の規則では、衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています。資源を有効に活用するため、決められた回収日に出してください。\n衣類・布類は、市内8 か所の公共施設に設置してある回収ボックスでも回収しています。\n回収後は、中古の衣類として再使用したり、工場で再生利用したりします。ご協力をよろしくお願いします。\n竹川市役所 市民生活課",
+      "context": "以下は、ある町の掲示板に貼られていた文書である。\n10月5日\n住民の皆様へ\nごみに関するお願い\n最近、「可燃ごみ」の回収日に衣類・布類が多く出されています。しかし、市の規則では、衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています。資源を有効に活用するため、決められた回収日に出してください。\n衣類・布類は、市内8か所の公共施設に設置してある回収ボックスでも回収しています。\n回収後は、中古の衣類として再使用したり、工場で再生利用したりします。ご協力をよろしくお願いします。\n竹川市役所市民生活課",
       "question": "この文書で最も伝えたいことは何か。",
       "options": [
         "「資源ごみ」として出す衣類・布類の量を減らしてほしい。",
-        "「資源ごみ」 の回収日に「可燃ごみ」を出さないでほしい。",
-        "衣類・布類は、「資源ごみ」 の回収日に出してほしい。",
+        "「資源ごみ」の回収日に「可燃ごみ」を出さないでほしい。",
+        "衣類・布類は、「資源ごみ」の回収日に出してほしい。",
         "衣類・布類は、新しく設置した回収ボックスに出してほしい。"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 衣類・布類は、「資源ごみ」 の回収日に出してほしい。\n\n【Dịch câu hỏi】\nHỏi: Điều văn bản này muốn truyền đạt nhất là gì?\n\n【Dịch 4 đáp án】\n1. Muốn giảm lượng quần áo/đồ vải bỏ vào ngày thu gom.\n2. Muốn bỏ quần áo/đồ vải vào ngày thu gom rác cháy được.\n3. Muốn bỏ quần áo/đồ vải vào ngày thu gom「資源ごみ」.\n4. Muốn dùng thùng thu gom mới đặt ở cơ sở công cộng.\n\n【Dịch bài đọc】\nNgày 5/10 – Kính gửi cư dân: Gần đây vào ngày thu「可燃ごみ」có nhiều quần áo/đồ vải. Theo quy định thành phố, quần áo/đồ vải phải bỏ vào ngày thứ Ba hàng tuần — ngày thu「資源ごみ」. Để tận dụng tài nguyên, hãy bỏ đúng ngày quy định. Cũng có thể bỏ vào thùng thu gom đặt tại 8 cơ sở công cộng trong thành phố. Sau thu gom sẽ tái sử dụng làm đồ cũ hoặc tái chế tại nhà máy. Xin hợp tác. Phòng Đời sống công dân – UBND thành phố Takekawa.\n\n【Keyword】\n可燃ごみに多く出されている, 資源ごみの回収日, 毎週火曜日\n\n【Câu chính / căn cứ】\n「衣類・布類は毎週火曜日の『資源ごみ』の回収日に出すことになっています」\n\n【Cách giải nhanh】\nVấn đề: đang bỏ sai ngày (可燃). Yêu cầu chính: bỏ đúng ngày 資源ごみ. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không kêu gọi giảm số lượng, mà bỏ đúng phân loại/ngày.\n2: Sai — trái quy định; đó đúng là việc đang làm SAI.\n3: Đúng — thông điệp trung tâm của thông báo.\n4: Sai — thùng thu gom chỉ là cách thay thế; không nói là thùng mới hay là yêu cầu chính.\n\n【Chi tiết thêm】\nCâu hỏi「最も伝えたいこと」= mục đích chính, không phải chi tiết phụ (thùng thu gom)."
+      "explanation": "Đáp án đúng: 3 · 衣類・布類は、「資源ごみ」の回収日に出してほしい。\n\n【Dịch câu hỏi】\nHỏi: Điều văn bản này muốn truyền đạt nhất là gì?\n\n【Dịch 4 đáp án】\n1. Muốn giảm lượng quần áo/đồ vải bỏ vào ngày thu gom.\n2. Muốn bỏ quần áo/đồ vải vào ngày thu gom rác cháy được.\n3. Muốn bỏ quần áo/đồ vải vào ngày thu gom「資源ごみ」.\n4. Muốn dùng thùng thu gom mới đặt ở cơ sở công cộng.\n\n【Dịch bài đọc】\nNgày 5/10 – Kính gửi cư dân: Gần đây vào ngày thu「可燃ごみ」có nhiều quần áo/đồ vải. Theo quy định thành phố, quần áo/đồ vải phải bỏ vào ngày thứ Ba hàng tuần — ngày thu「資源ごみ」. Để tận dụng tài nguyên, hãy bỏ đúng ngày quy định. Cũng có thể bỏ vào thùng thu gom đặt tại 8 cơ sở công cộng trong thành phố. Sau thu gom sẽ tái sử dụng làm đồ cũ hoặc tái chế tại nhà máy. Xin hợp tác. Phòng Đời sống công dân – UBND thành phố Takekawa.\n\n【Keyword】\n可燃ごみに多く出されている, 資源ごみの回収日, 毎週火曜日\n\n【Câu chính / căn cứ】\n「衣類・布類は毎週火曜日の『資源ごみ』の回収日に出すことになっています」\n\n【Cách giải nhanh】\nVấn đề: đang bỏ sai ngày (可燃). Yêu cầu chính: bỏ đúng ngày 資源ごみ. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không kêu gọi giảm số lượng, mà bỏ đúng phân loại/ngày.\n2: Sai — trái quy định; đó đúng là việc đang làm SAI.\n3: Đúng — thông điệp trung tâm của thông báo.\n4: Sai — thùng thu gom chỉ là cách thay thế; không nói là thùng mới hay là yêu cầu chính.\n\n【Chi tiết thêm】\nCâu hỏi「最も伝えたいこと」= mục đích chính, không phải chi tiết phụ (thùng thu gom)."
     },
     {
       "question_id": 5,
@@ -73,7 +73,7 @@
     },
     {
       "question_id": 6,
-      "context": "はじめから相手に期待することをやめられば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます。人に期待してイライラしながら過ごすか、努力して期待することを手放し穏やかに生きるか、これはあなた自身のことなので、コントロールが可能です。「期待しない」 というとなんだかさみしいことをいっているように思う方もいるかもしれませんが、そうではありません。\n多くの場合、周囲の環境や人間というのは、 自分自身が変わることで面白いほど変化します。",
+      "context": "はじめから相手に期待することをやめられば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます。人に期待してイライラしながら過ごすか、努力して期待することを手放し穏やかに生きるか、これはあなた自身のことなので、コントロールが可能です。「期待しない」というとなんだかさみしいことをいっているように思う方もいるかもしれませんが、そうではありません。\n多くの場合、周囲の環境や人間というのは、 自分自身が変わることで面白いほど変化します。",
       "question": "筆者の考えに合うのはどれか。",
       "options": [
         "自分が変われば、相手も期待どおりに変わってくれる。",

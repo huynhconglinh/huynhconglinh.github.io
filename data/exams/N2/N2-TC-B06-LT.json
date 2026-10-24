@@ -35,7 +35,7 @@
     {
       "question_id": 3,
       "context": "",
-      "question": "パンコンの電源を入れたのだが、画面に「お待ちください」という＿＿ ＿＿ ＿★＿ ＿＿電源を入れ直した。",
+      "question": "パソコンの電源を入れたのだが、画面に「お待ちください」という＿＿ ＿＿ ＿★＿ ＿＿電源を入れ直した。",
       "options": [
         "待っても",
         "何分",
@@ -48,7 +48,7 @@
     {
       "question_id": 4,
       "context": "",
-      "question": "(電話で)\nA「すみません、来週の 2 時からの会議ですが、その時間、別の用件が入ってしまいまして、 もしそちらのご都合が＿＿ ＿＿ ＿★＿ ＿＿、いかがでしょうか。」 B「こちらは大丈夫ですよ。」",
+      "question": "(電話で)\nA「すみません、来週の 2時からの会議ですが、その時間、別の用件が入ってしまいまして、 もしそちらのご都合が＿＿ ＿＿ ＿★＿ ＿＿、いかがでしょうか。」 B「こちらは大丈夫ですよ。」",
       "options": [
         "ありがたいんですが",
         "変更していただけると",
@@ -61,7 +61,7 @@
     {
       "question_id": 5,
       "context": "",
-      "question": "20 年前に初めてこの歌手の歌を聴いたとき、＿＿ ＿＿ ＿＿ ＿★＿ 。",
+      "question": "20年前に初めてこの歌手の歌を聴いたとき、＿＿ ＿＿ ＿＿ ＿★＿ 。",
       "options": [
         "と思った",
         "よく覚えている",
@@ -100,7 +100,7 @@
     {
       "question_id": 8,
       "context": "",
-      "question": "来月結婚する友人に結婚式のスピーチを頼まれた。大勢の前で話すのは＿＿ ＿＿ ＿★＿＿＿引き受けることにした。",
+      "question": "来月結婚する友人に結婚式のスピーチを頼まれた。大勢の前で話すのは＿＿ ＿＿ ＿★＿ ＿＿引き受けることにした。",
       "options": [
         "悩んだのだが",
         "と言われて",
@@ -204,7 +204,7 @@
     {
       "question_id": 16,
       "context": "",
-      "question": "隣のクラスの友達とけんかしてしまい、学校の廊下で＿＿ ＿＿ ＿★＿ ＿＿なくなって しまった。",
+      "question": "隣のクラスの友達とけんかしてしまい、学校の廊下で＿＿ ＿＿ ＿★＿ ＿＿なくなってしまった。",
       "options": [
         "こと",
         "すら",
@@ -243,7 +243,7 @@
     {
       "question_id": 19,
       "context": "",
-      "question": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品の どこに＿＿ ＿＿ ＿★＿ ＿＿ その作品をより深く味わえるからだ。",
+      "question": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品のどこに＿＿ ＿＿ ＿★＿ ＿＿ その作品をより深く味わえるからだ。",
       "options": [
         "わかると",
         "注目して",
@@ -290,7 +290,7 @@
         "燃料として"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 1 · 使われる\n\n【Dịch câu hỏi】\nSắp xếp: Dầu mỏ không chỉ dùng làm nhiên liệu xe/máy bay mà còn là nguyên liệu làm nhựa. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 使われる (được sử dụng)\n2. だけでなく (không chỉ…)\n3. プラスチック製品を作る (làm sản phẩm nhựa)\n4. 燃料として (với tư cách nhiên liệu)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19; giải theo câu sắp xếp.)\n\n【Keyword】\nとして使われる, だけでなく\n\n【Câu chính / căn cứ】\n「燃料として使われるだけでなく、プラスチック製品を作る原料としても利用されている」\n\n【Cách giải nhanh】\nThứ tự: 燃料として → 使われる → だけでなく → プラスチック製品を作る. ★ = 使われる. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — động từ sau 「燃料として」.\n2: Sai — nối hai công dụng, sau 使われる.\n3: Sai — phần “không chỉ… mà còn…”.\n4: Sai — mở đầu công dụng 1.\n\n【Chi tiết thêm】\nOption nguồn ghi 「3 プラスチック…」— bỏ số nhiễu OCR."
+      "explanation": "Đáp án đúng: 1 · 使われる\n\n【Dịch câu hỏi】\nSắp xếp: Dầu mỏ không chỉ dùng làm nhiên liệu xe/máy bay mà còn là nguyên liệu làm nhựa. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 使われる (được sử dụng)\n2. だけでなく (không chỉ…)\n3. プラスチック製品を作る (làm sản phẩm nhựa)\n4. 燃料として (với tư cách nhiên liệu)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19; giải theo câu sắp xếp.)\n\n【Keyword】\nとして使われる, だけでなく\n\n【Câu chính / căn cứ】\n「燃料として使われるだけでなく、プラスチック製品を作る原料としても利用されている」\n\n【Cách giải nhanh】\nThứ tự: 燃料として → 使われる → だけでなく → プラスチック製品を作る. ★ = 使われる. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — động từ sau 「燃料として」.\n2: Sai — nối hai công dụng, sau 使われる.\n3: Sai — phần “không chỉ… mà còn…”.\n4: Sai — mở đầu công dụng 1.\n\n【Chi tiết thêm】\nOption nguồn ghi 「3プラスチック…」— bỏ số nhiễu OCR."
     },
     {
       "question_id": 23,
@@ -308,7 +308,7 @@
     {
       "question_id": 24,
       "context": "",
-      "question": "（インタビューで）\n「店長になって最初の1 年間は大変でした。店長になった＿＿＿ ＿＿＿ ＿★＿ ＿＿＿と悩むこともありました。」",
+      "question": "（インタビューで）\n「店長になって最初の1年間は大変でした。店長になった＿＿＿ ＿＿＿ ＿★＿ ＿＿＿と悩むこともありました。」",
       "options": [
         "といっても",
         "ばかりで",
