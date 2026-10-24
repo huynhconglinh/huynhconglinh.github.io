@@ -24,13 +24,13 @@
       "context": "",
       "question": "昨日行ったレストランは、味もサービスも最低だった。（ ）行きたくない。",
       "options": [
-        "二度",
+        "二度と",
         "必ずしも",
         "まさか",
         "あまりに"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 1 · 二度\n\n【Dịch câu hỏi】\nNhà hàng hôm qua đồ ăn lẫn phục vụ đều tệ nhất. ( ) không muốn đến nữa.\n\n【Dịch 4 đáp án】\n1. hai lần / không bao giờ nữa (二度［と］)\n2. không nhất thiết (必ずしも)\n3. không lẽ / làm gì có (まさか)\n4. quá mức (あまりに)\n\n【Dịch bài đọc】\nHãy chọn từ thích hợp nhất để điền vào ( ) trong câu.\n\n【Keyword】\n二度と～ない\n\n【Câu chính / căn cứ】\n「二度と行きたくない」＝ không bao giờ muốn đến lần nữa.\n\n【Cách giải nhanh】\nPhủ định mạnh sau trải nghiệm tệ → 二度と～ない. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — cấu trúc「二度と～ない」(trong đề có thể thiếu「と」).\n2: Sai — 必ずしも～ない = không nhất thiết.\n3: Sai — まさか không điền kiểu này.\n4: Sai — あまりに cần tính từ/động từ mức độ, không tạo “không bao giờ đến”.\n\n【Chi tiết thêm】\nDữ liệu lựa chọn có thể thiếu「と」sau「二度」; vẫn chọn 1."
+      "explanation": "Đáp án đúng: 1 · 二度と\n\n【Dịch câu hỏi】\nNhà hàng hôm qua đồ ăn lẫn phục vụ đều tệ nhất. ( ) không muốn đến nữa.\n\n【Dịch 4 đáp án】\n1. hai lần / không bao giờ nữa (二度［と］)\n2. không nhất thiết (必ずしも)\n3. không lẽ / làm gì có (まさか)\n4. quá mức (あまりに)\n\n【Dịch bài đọc】\nHãy chọn từ thích hợp nhất để điền vào ( ) trong câu.\n\n【Keyword】\n二度と～ない\n\n【Câu chính / căn cứ】\n「二度と行きたくない」＝ không bao giờ muốn đến lần nữa.\n\n【Cách giải nhanh】\nPhủ định mạnh sau trải nghiệm tệ → 二度と～ない. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — cấu trúc「二度と～ない」(trong đề có thể thiếu「と」).\n2: Sai — 必ずしも～ない = không nhất thiết.\n3: Sai — まさか không điền kiểu này.\n4: Sai — あまりに cần tính từ/động từ mức độ, không tạo “không bao giờ đến”.\n\n【Chi tiết thêm】\nDữ liệu lựa chọn có thể thiếu「と」sau「二度」; vẫn chọn 1."
     },
     {
       "question_id": 3,
@@ -126,7 +126,7 @@
     {
       "question_id": 10,
       "context": "",
-      "question": "木村：「山下さん、先ほどさくら銀行の南さんからお電話がありまして。今日中に連絡してほしい\n（ ）。\n山下：「はい、わかりました」",
+      "question": "（会社で）\n木村：「山下さん、先ほどさくら銀行の南さんからお電話がありまして。今日中に連絡してほしい\n（ ）。\n山下：「はい、わかりました」",
       "options": [
         "ことになりました",
         "とのことでした",

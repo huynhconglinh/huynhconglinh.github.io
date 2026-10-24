@@ -8,7 +8,7 @@
   "questions": [
     {
       "question_id": 1,
-      "question": "(Nghe vấn đề 1 – câu 1) Việc cần làm là gì?",
+      "question": "Câu 1: Việc cần làm là gì?",
       "options": [
         "シンポジウムのポスターをはる",
         "スタッフの当日の予定表を作る",
@@ -16,12 +16,11 @@
         "発表者にれんらくする"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 当日配るしりょうをコピーする\n\n【Dịch câu hỏi】\n(Nghe vấn đề 1 – câu 1) Việc cần làm là gì?\n\n【Dịch 4 đáp án】\n1. Dán poster hội thảo\n2. Làm lịch trình nhân sự trong ngày\n3. Photo tài liệu phát trong ngày\n4. Liên lạc người thuyết trình\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch hoặc trùng; giải theo câu hỏi và đáp án mỏng.)\n\n【Keyword】\n聴解, 資料をコピー\n\n【Câu chính / căn cứ】\nViệc ưu tiên: sao chép tài liệu phát ngày sự kiện.\n\n【Cách giải nhanh】\nTheo hội thoại đề (7/2024): copy tài liệu phát trong ngày → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — việc khác/đã xong/không phải ưu tiên.\n2: Sai — nhiễu.\n3: Đúng.\n4: Sai — nhiễu.\n\n【Chi tiết thêm】\nNghe: bám nhiệm vụ “trước tiên/nhờ bạn…”.",
-      "transcript": "聴解, 資料をコピー"
+      "explanation": "Đáp án đúng: 3 · 当日配るしりょうをコピーする\n\n【Dịch câu hỏi】\n(Nghe vấn đề 1 – câu 1) Việc cần làm là gì?\n\n【Dịch 4 đáp án】\n1. Dán poster hội thảo\n2. Làm lịch trình nhân sự trong ngày\n3. Photo tài liệu phát trong ngày\n4. Liên lạc người thuyết trình\n\n【Keyword】\n聴解, 資料をコピー\n\n【Câu chính / căn cứ】\nViệc ưu tiên: sao chép tài liệu phát ngày sự kiện.\n\n【Cách giải nhanh】\nTheo hội thoại đề (7/2024): copy tài liệu phát trong ngày → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — việc khác/đã xong/không phải ưu tiên.\n2: Sai — nhiễu.\n3: Đúng.\n4: Sai — nhiễu.\n\n【Chi tiết thêm】\nNghe: bám nhiệm vụ “trước tiên/nhờ bạn…”."
     },
     {
       "question_id": 2,
-      "question": "(Nghe – câu 2) Việc cần làm là gì?",
+      "question": "Câu 2: Việc cần làm là gì?",
       "options": [
         "商品に値引きシールをはる",
         "そうこで南コーヒーの数を数える",
@@ -29,12 +28,11 @@
         "商品をレジの横のたなにならべる"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 1 · 商品に値引きシールをはる\n\n【Dịch câu hỏi】\n(Nghe – câu 2) Việc cần làm là gì?\n\n【Dịch 4 đáp án】\n1. Dán tem giảm giá lên hàng\n2. Đếm số cà phê Minami trong kho\n3. Phụ thu ngân\n4. Xếp hàng lên kệ cạnh quầy thu ngân\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch hoặc trùng; giải theo câu hỏi và đáp án mỏng.)\n\n【Keyword】\n値引きシール, 聴解\n\n【Câu chính / căn cứ】\nNhiệm vụ: dán nhãn giảm giá.\n\n【Cách giải nhanh】\nĐáp án nghe → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng.\n2: Sai — việc kho/đếm là nhiễu.\n3: Sai — nhiễu.\n4: Sai — nhiễu.\n\n【Chi tiết thêm】\nCửa hàng: phân biệt việc đã làm vs việc được giao.",
-      "transcript": "値引きシール, 聴解"
+      "explanation": "Đáp án đúng: 1 · 商品に値引きシールをはる\n\n【Dịch câu hỏi】\n(Nghe – câu 2) Việc cần làm là gì?\n\n【Dịch 4 đáp án】\n1. Dán tem giảm giá lên hàng\n2. Đếm số cà phê Minami trong kho\n3. Phụ thu ngân\n4. Xếp hàng lên kệ cạnh quầy thu ngân\n\n【Keyword】\n値引きシール, 聴解\n\n【Câu chính / căn cứ】\nNhiệm vụ: dán nhãn giảm giá.\n\n【Cách giải nhanh】\nĐáp án nghe → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng.\n2: Sai — việc kho/đếm là nhiễu.\n3: Sai — nhiễu.\n4: Sai — nhiễu.\n\n【Chi tiết thêm】\nCửa hàng: phân biệt việc đã làm vs việc được giao."
     },
     {
       "question_id": 3,
-      "question": "(Nghe – câu 3) Đối tượng cần chụp/giới thiệu là gì?",
+      "question": "Câu 3: Đối tượng cần chụp/giới thiệu là gì?",
       "options": [
         "店で一番の人気料理",
         "店の中の様子",
@@ -42,12 +40,11 @@
         "店の入り口の様子"
       ],
       "correct_answer": 2,
-      "explanation": "Đáp án đúng: 2 · 店の中の様子\n\n【Dịch câu hỏi】\n(Nghe – câu 3) Đối tượng cần chụp/giới thiệu là gì?\n\n【Dịch 4 đáp án】\n1. Món ăn phổ biến nhất của quán\n2. Quang cảnh bên trong quán\n3. Tình hình đầu bếp\n4. Cảnh cửa ra vào\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch hoặc trùng; giải theo câu hỏi và đáp án mỏng.)\n\n【Keyword】\n店の中の様子\n\n【Câu chính / căn cứ】\nCần thể hiện/quay cảnh bên trong cửa hàng.\n\n【Cách giải nhanh】\n→ 2.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu món ăn.\n2: Đúng.\n3: Sai — nhiễu bếp.\n4: Sai — nhiễu lối vào.\n\n【Chi tiết thêm】\nNghe mô tả ảnh/video quảng cáo quán.",
-      "transcript": "店の中の様子"
+      "explanation": "Đáp án đúng: 2 · 店の中の様子\n\n【Dịch câu hỏi】\n(Nghe – câu 3) Đối tượng cần chụp/giới thiệu là gì?\n\n【Dịch 4 đáp án】\n1. Món ăn phổ biến nhất của quán\n2. Quang cảnh bên trong quán\n3. Tình hình đầu bếp\n4. Cảnh cửa ra vào\n\n【Keyword】\n店の中の様子\n\n【Câu chính / căn cứ】\nCần thể hiện/quay cảnh bên trong cửa hàng.\n\n【Cách giải nhanh】\n→ 2.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu món ăn.\n2: Đúng.\n3: Sai — nhiễu bếp.\n4: Sai — nhiễu lối vào.\n\n【Chi tiết thêm】\nNghe mô tả ảnh/video quảng cáo quán."
     },
     {
       "question_id": 4,
-      "question": "(Nghe – câu 4) Việc cần làm là gì?",
+      "question": "Câu 4: Việc cần làm là gì?",
       "options": [
         "記念品をふくろに入れる",
         "かびんをステージの上に運ぶ",
@@ -55,12 +52,11 @@
         "代表者とあいさつの練習をする"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · いすに出席者の名前の紙をはる\n\n【Dịch câu hỏi】\n(Nghe – câu 4) Việc cần làm là gì?\n\n【Dịch 4 đáp án】\n1. Cho quà lưu niệm vào túi\n2. Mang bình hoa lên sân khấu\n3. Dán giấy tên người tham dự lên ghế\n4. Tập chào với đại diện\n\n【Keyword】\nいすに名前の紙\n\n【Câu chính / căn cứ】\nGắn tên người dự lên ghế.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu chuẩn bị quà.\n2: Sai — nhiễu đạo cụ.\n3: Đúng.\n4: Sai — nhiễu nghi lễ.\n\n【Chi tiết thêm】\nSự kiện: seating/name tags.",
-      "transcript": "いすに名前の紙"
+      "explanation": "Đáp án đúng: 3 · いすに出席者の名前の紙をはる\n\n【Dịch câu hỏi】\n(Nghe – câu 4) Việc cần làm là gì?\n\n【Dịch 4 đáp án】\n1. Cho quà lưu niệm vào túi\n2. Mang bình hoa lên sân khấu\n3. Dán giấy tên người tham dự lên ghế\n4. Tập chào với đại diện\n\n【Keyword】\nいすに名前の紙\n\n【Câu chính / căn cứ】\nGắn tên người dự lên ghế.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu chuẩn bị quà.\n2: Sai — nhiễu đạo cụ.\n3: Đúng.\n4: Sai — nhiễu nghi lễ.\n\n【Chi tiết thêm】\nSự kiện: seating/name tags."
     },
     {
       "question_id": 5,
-      "question": "(Nghe – câu 5) Cần làm gì về xe đạp?",
+      "question": "Câu 5: Cần làm gì về xe đạp?",
       "options": [
         "駅前で自転車をさがす",
         "市役所へ自転車を取りに行く",
@@ -68,12 +64,11 @@
         "けいさつでお金を払う"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 自転車の預かり場所を調べる\n\n【Dịch câu hỏi】\n(Nghe – câu 5) Cần làm gì về xe đạp?\n\n【Dịch 4 đáp án】\n1. Tìm xe trước ga\n2. Đến UBND lấy xe\n3. Tra nơi đang giữ xe\n4. Nộp tiền ở công an\n\n【Keyword】\n預かり場所を調べる\n\n【Câu chính / căn cứ】\nTrước hết xác định nơi xe bị giữ.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — chưa chắc ở trước ga.\n2: Sai — chưa biết có phải UBND không.\n3: Đúng — bước cần làm ngay.\n4: Sai — chưa tới bước nộp tiền.\n\n【Chi tiết thêm】\nThứ tự hành động trong nghe rất quan trọng.",
-      "transcript": "預かり場所を調べる"
+      "explanation": "Đáp án đúng: 3 · 自転車の預かり場所を調べる\n\n【Dịch câu hỏi】\n(Nghe – câu 5) Cần làm gì về xe đạp?\n\n【Dịch 4 đáp án】\n1. Tìm xe trước ga\n2. Đến UBND lấy xe\n3. Tra nơi đang giữ xe\n4. Nộp tiền ở công an\n\n【Keyword】\n預かり場所を調べる\n\n【Câu chính / căn cứ】\nTrước hết xác định nơi xe bị giữ.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — chưa chắc ở trước ga.\n2: Sai — chưa biết có phải UBND không.\n3: Đúng — bước cần làm ngay.\n4: Sai — chưa tới bước nộp tiền.\n\n【Chi tiết thêm】\nThứ tự hành động trong nghe rất quan trọng."
     },
     {
       "question_id": 6,
-      "question": "(Nghe hiểu) Vì sao mở tiệm bánh?",
+      "question": "それから話を聞いて、問題用紙の1 から4 の中から、最もよいものを一つ選んでください。\n１番\n((Nghe hiểu) Vì sao mở tiệm bánh?)",
       "options": [
         "母といっしょにパン屋をやりたかったから",
         "母にたのまれたから",
@@ -81,12 +76,11 @@
         "母のパンの味を残したかったから"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 母のゆめをかなえたかったから\n\n【Dịch câu hỏi】\n(Nghe hiểu) Vì sao mở tiệm bánh?\n\n【Dịch 4 đáp án】\n1. Muốn cùng mẹ làm tiệm bánh\n2. Vì mẹ nhờ\n3. Muốn thực hiện ước mơ của mẹ\n4. Muốn giữ hương vị bánh của mẹ\n\n【Keyword】\n母のゆめをかなえる\n\n【Câu chính / căn cứ】\nMở quán để biến ước mơ của mẹ thành hiện thực.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải động cơ chính.\n2: Sai — không phải bị nhờ.\n3: Đúng.\n4: Sai — nhiễu cảm xúc hương vị.\n\n【Chi tiết thêm】\nPhân biệt ước mơ của mẹ vs yêu cầu của mẹ.",
-      "transcript": "母のゆめをかなえる"
+      "explanation": "Đáp án đúng: 3 · 母のゆめをかなえたかったから\n\n【Dịch câu hỏi】\n(Nghe hiểu) Vì sao mở tiệm bánh?\n\n【Dịch 4 đáp án】\n1. Muốn cùng mẹ làm tiệm bánh\n2. Vì mẹ nhờ\n3. Muốn thực hiện ước mơ của mẹ\n4. Muốn giữ hương vị bánh của mẹ\n\n【Keyword】\n母のゆめをかなえる\n\n【Câu chính / căn cứ】\nMở quán để biến ước mơ của mẹ thành hiện thực.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải động cơ chính.\n2: Sai — không phải bị nhờ.\n3: Đúng.\n4: Sai — nhiễu cảm xúc hương vị.\n\n【Chi tiết thêm】\nPhân biệt ước mơ của mẹ vs yêu cầu của mẹ."
     },
     {
       "question_id": 7,
-      "question": "(Nghe) Việc sẽ làm khi chuyển nhà?",
+      "question": "Câu 7: Việc sẽ làm khi chuyển nhà?",
       "options": [
         "ソファーをもらってくれる人をさがす",
         "れいぞうこを売る",
@@ -94,12 +88,11 @@
         "安いひっこし会社をさがす"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 1 · ソファーをもらってくれる人をさがす\n\n【Dịch câu hỏi】\n(Nghe) Việc sẽ làm khi chuyển nhà?\n\n【Dịch 4 đáp án】\n1. Tìm người nhận ghế sofa\n2. Bán tủ lạnh\n3. Nhờ họ hàng giúp chuyển\n4. Tìm công ty chuyển nhà rẻ\n\n【Keyword】\nソファーをもらってくれる人\n\n【Câu chính / căn cứ】\nQuyết định tìm người nhận sofa.\n\n【Cách giải nhanh】\n→ 1.\n\n【Phân tích / loại đáp án】\n1: Đúng.\n2: Sai — nhiễu đồ khác.\n3: Sai — nhiễu.\n4: Sai — nhiễu.\n\n【Chi tiết thêm】\nNghe kết luận cuối hội thoại.",
-      "transcript": "ソファーをもらってくれる人"
+      "explanation": "Đáp án đúng: 1 · ソファーをもらってくれる人をさがす\n\n【Dịch câu hỏi】\n(Nghe) Việc sẽ làm khi chuyển nhà?\n\n【Dịch 4 đáp án】\n1. Tìm người nhận ghế sofa\n2. Bán tủ lạnh\n3. Nhờ họ hàng giúp chuyển\n4. Tìm công ty chuyển nhà rẻ\n\n【Keyword】\nソファーをもらってくれる人\n\n【Câu chính / căn cứ】\nQuyết định tìm người nhận sofa.\n\n【Cách giải nhanh】\n→ 1.\n\n【Phân tích / loại đáp án】\n1: Đúng.\n2: Sai — nhiễu đồ khác.\n3: Sai — nhiễu.\n4: Sai — nhiễu.\n\n【Chi tiết thêm】\nNghe kết luận cuối hội thoại."
     },
     {
       "question_id": 8,
-      "question": "(Nghe) Mong muốn chính là gì?",
+      "question": "Câu 8: Mong muốn chính là gì?",
       "options": [
         "残業代のきんがくをもっと上げてほしい",
         "休暇の申請方法を簡単にしてほしい",
@@ -107,12 +100,11 @@
         "パソコンを新しくしてほしい"
       ],
       "correct_answer": 2,
-      "explanation": "Đáp án đúng: 2 · 休暇の申請方法を簡単にしてほしい\n\n【Dịch câu hỏi】\n(Nghe) Mong muốn chính là gì?\n\n【Dịch 4 đáp án】\n1. Tăng tiền làm thêm giờ\n2. Đơn giản hóa cách xin nghỉ\n3. Tăng làm việc tại nhà\n4. Đổi máy tính mới\n\n【Keyword】\n休暇の申請方法を簡単に\n\n【Câu chính / căn cứ】\nMuốn thủ tục xin nghỉ dễ hơn.\n\n【Cách giải nhanh】\n→ 2.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu lương làm thêm.\n2: Đúng.\n3: Sai — nhiễu remote.\n4: Sai — nhiễu thiết bị.\n\n【Chi tiết thêm】\nÝ kiến trong họp/khảo sát nội bộ.",
-      "transcript": "休暇の申請方法を簡単に"
+      "explanation": "Đáp án đúng: 2 · 休暇の申請方法を簡単にしてほしい\n\n【Dịch câu hỏi】\n(Nghe) Mong muốn chính là gì?\n\n【Dịch 4 đáp án】\n1. Tăng tiền làm thêm giờ\n2. Đơn giản hóa cách xin nghỉ\n3. Tăng làm việc tại nhà\n4. Đổi máy tính mới\n\n【Keyword】\n休暇の申請方法を簡単に\n\n【Câu chính / căn cứ】\nMuốn thủ tục xin nghỉ dễ hơn.\n\n【Cách giải nhanh】\n→ 2.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu lương làm thêm.\n2: Đúng.\n3: Sai — nhiễu remote.\n4: Sai — nhiễu thiết bị.\n\n【Chi tiết thêm】\nÝ kiến trong họp/khảo sát nội bộ."
     },
     {
       "question_id": 9,
-      "question": "(Nghe) Giải pháp về trang phục?",
+      "question": "Câu 9: Giải pháp về trang phục?",
       "options": [
         "ファッション雑誌を参考にする",
         "ファッションのプロに服を選んでもらう",
@@ -120,12 +112,11 @@
         "リサイクルショップで服を買う"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 毎日シンプルな服を着る\n\n【Dịch câu hỏi】\n(Nghe) Giải pháp về trang phục?\n\n【Dịch 4 đáp án】\n1. Tham khảo tạp chí thời trang\n2. Nhờ chuyên gia chọn đồ\n3. Mỗi ngày mặc đồ đơn giản\n4. Mua đồ ở shop đồ cũ\n\n【Keyword】\nシンプルな服を着る\n\n【Câu chính / căn cứ】\nChọn lối mặc đơn giản hằng ngày.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — gợi ý bị bác/không chọn.\n2: Sai — không chọn.\n3: Đúng.\n4: Sai — không chọn.\n\n【Chi tiết thêm】\nNghe phương án cuối cùng được chấp nhận.",
-      "transcript": "シンプルな服を着る"
+      "explanation": "Đáp án đúng: 3 · 毎日シンプルな服を着る\n\n【Dịch câu hỏi】\n(Nghe) Giải pháp về trang phục?\n\n【Dịch 4 đáp án】\n1. Tham khảo tạp chí thời trang\n2. Nhờ chuyên gia chọn đồ\n3. Mỗi ngày mặc đồ đơn giản\n4. Mua đồ ở shop đồ cũ\n\n【Keyword】\nシンプルな服を着る\n\n【Câu chính / căn cứ】\nChọn lối mặc đơn giản hằng ngày.\n\n【Cách giải nhanh】\n→ 3.\n\n【Phân tích / loại đáp án】\n1: Sai — gợi ý bị bác/không chọn.\n2: Sai — không chọn.\n3: Đúng.\n4: Sai — không chọn.\n\n【Chi tiết thêm】\nNghe phương án cuối cùng được chấp nhận."
     },
     {
       "question_id": 10,
-      "question": "(Nghe) Vì sao chuyển việc?",
+      "question": "Câu 10: Vì sao chuyển việc?",
       "options": [
         "これまでの経験を生かせそうだったから",
         "給料などよいじょうけんがそろっていたから",
@@ -133,25 +124,23 @@
         "新しい分野の仕事をしてみたかったから"
       ],
       "correct_answer": 4,
-      "explanation": "Đáp án đúng: 4 · 新しい分野の仕事をしてみたかったから\n\n【Dịch câu hỏi】\n(Nghe) Vì sao chuyển việc?\n\n【Dịch 4 đáp án】\n1. Có thể phát huy kinh nghiệm cũ\n2. Điều kiện lương tốt đủ cả\n3. Bất mãn chỗ cũ\n4. Muốn thử lĩnh vực mới\n\n【Keyword】\n新しい分野\n\n【Câu chính / căn cứ】\nMuốn làm việc ở lĩnh vực mới.\n\n【Cách giải nhanh】\n→ 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu.\n2: Sai — không phải lý do chính.\n3: Sai — không nhấn bất sự bất mãn.\n4: Đúng.\n\n【Chi tiết thêm】\nLoại trừ lý do tiền bạc/bất mãn nếu bài phủ nhận.",
-      "transcript": "新しい分野"
+      "explanation": "Đáp án đúng: 4 · 新しい分野の仕事をしてみたかったから\n\n【Dịch câu hỏi】\n(Nghe) Vì sao chuyển việc?\n\n【Dịch 4 đáp án】\n1. Có thể phát huy kinh nghiệm cũ\n2. Điều kiện lương tốt đủ cả\n3. Bất mãn chỗ cũ\n4. Muốn thử lĩnh vực mới\n\n【Keyword】\n新しい分野\n\n【Câu chính / căn cứ】\nMuốn làm việc ở lĩnh vực mới.\n\n【Cách giải nhanh】\n→ 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu.\n2: Sai — không phải lý do chính.\n3: Sai — không nhấn bất sự bất mãn.\n4: Đúng.\n\n【Chi tiết thêm】\nLoại trừ lý do tiền bạc/bất mãn nếu bài phủ nhận."
     },
     {
       "question_id": 11,
-      "question": "(Nghe) Phẩm chất được nhấn mạnh?",
+      "question": "Câu 11: Phẩm chất được nhấn mạnh?",
       "options": [
         "高いぎじゅつ力",
         "高い身体能力",
         "強いせいしん力",
-        "すぐれたはんだんカ"
+        "すぐれたはんだん力"
       ],
       "correct_answer": 4,
-      "explanation": "Đáp án đúng: 4 · すぐれたはんだん力\n\n【Dịch câu hỏi】\n(Nghe) Phẩm chất được nhấn mạnh?\n\n【Dịch 4 đáp án】\n1. Năng lực kỹ thuật cao\n2. Năng lực thể chất cao\n3. Ý chí mạnh\n4. Khả năng phán đoán xuất sắc\n\n【Keyword】\nすぐれた判断力\n\n【Câu chính / căn cứ】\nNhấn mạnh 判断力.\n\n【Cách giải nhanh】\n→ 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu kỹ thuật.\n2: Sai — nhiễu thể lực.\n3: Sai — nhiễu tinh thần.\n4: Đúng.\n\n【Chi tiết thêm】\nTừ khóa katakana/hiragana trong option dễ nghe nhầm.",
-      "transcript": "すぐれた判断力"
+      "explanation": "Đáp án đúng: 4 · すぐれたはんだん力\n\n【Dịch câu hỏi】\n(Nghe) Phẩm chất được nhấn mạnh?\n\n【Dịch 4 đáp án】\n1. Năng lực kỹ thuật cao\n2. Năng lực thể chất cao\n3. Ý chí mạnh\n4. Khả năng phán đoán xuất sắc\n\n【Keyword】\nすぐれた判断力\n\n【Câu chính / căn cứ】\nNhấn mạnh 判断力.\n\n【Cách giải nhanh】\n→ 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nhiễu kỹ thuật.\n2: Sai — nhiễu thể lực.\n3: Sai — nhiễu tinh thần.\n4: Đúng.\n\n【Chi tiết thêm】\nTừ khóa katakana/hiragana trong option dễ nghe nhầm."
     },
     {
       "question_id": 12,
-      "question": "質問1 質問2\n(Câu này nằm trong file nghe (trang không in lời thoại). Chọn hội trường đúng. Bốn lựa chọn: hội trường Trung tâm, Nam, Đông, Tây.)",
+      "question": "問題5 - 質問1: Chọn hội trường đúng (dựa theo file nghe của đề).",
       "options": [
         "ちゅうおう会場",
         "南会場",

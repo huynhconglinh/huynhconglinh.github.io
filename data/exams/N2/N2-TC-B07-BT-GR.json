@@ -48,7 +48,7 @@
     {
       "question_id": 4,
       "context": "",
-      "question": "息子「通話ができるだけ( )これにしたら？」",
+      "question": "(携帯電話の店で)\n父「どれにしようかかな。通話ができれば十分なんだけど」\n息子「通話ができるだけ( )これにしたら？」",
       "options": [
         "がいいと",
         "でいいなら",
@@ -56,7 +56,7 @@
         "がいいのに"
       ],
       "correct_answer": 2,
-      "explanation": "Đáp án đúng: 2 · でいいなら\n\n【Dịch câu hỏi】\nCon trai: 「Nếu chỉ cần gọi điện được là đủ thì chọn cái này nhé?」 — điền vào chỗ trống.\n\n【Dịch 4 đáp án】\n1. tốt nếu… / bảo là tốt thì…\n2. nếu … là đủ/ổn thì…\n3. … thì cũng được nhưng…\n4. đáng lẽ … thì tốt (tiếc nuối)\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch; giải theo câu hỏi ngữ pháp từ vựng bên trên.)\n\n【Keyword】\nNでいいなら, 十分・許容, 提案\n\n【Câu chính / căn cứ】\n「通話ができるだけでいいなら、これにしたら？」\n\n【Cách giải nhanh】\nNgữ cảnh: chỉ cần chức năng gọi là đủ. Mẫu 「Nでいいなら」= nếu N là đủ/ổn thì… → chọn 2.\n\n【Phân tích / loại đáp án】\n1: Sai — 「がいいと」 không khớp cấu trúc đề xuất theo điều kiện “đủ là được”.\n2: Đúng — 「でいいなら」 nêu điều kiện chấp nhận mức tối thiểu.\n3: Sai — 「でいいけど」 mang ý nhượng bộ/đối lập, không phải điều kiện đề xuất.\n4: Sai — 「がいいのに」 là tiếc nuối “đáng lẽ…”, không hợp lời gợi ý.\n\n【Chi tiết thêm】\nNhớ phân biệt 「でいい」(đủ/ổn) và 「がいい」(muốn/thích hơn)."
+      "explanation": "Đáp án đúng: 2 · でいいなら\n\n【Dịch câu hỏi】\nCon trai: 「Nếu chỉ cần gọi điện được là đủ thì chọn cái này nhé?」 — điền vào chỗ trống.\n\n【Dịch 4 đáp án】\n1. tốt nếu… / bảo là tốt thì…\n2. nếu … là đủ/ổn thì…\n3. … thì cũng được nhưng…\n4. đáng lẽ … thì tốt (tiếc nuối)\n\n【Keyword】\nNでいいなら, 十分・許容, 提案\n\n【Câu chính / căn cứ】\n「通話ができるだけでいいなら、これにしたら？」\n\n【Cách giải nhanh】\nNgữ cảnh: chỉ cần chức năng gọi là đủ. Mẫu 「Nでいいなら」= nếu N là đủ/ổn thì… → chọn 2.\n\n【Phân tích / loại đáp án】\n1: Sai — 「がいいと」 không khớp cấu trúc đề xuất theo điều kiện “đủ là được”.\n2: Đúng — 「でいいなら」 nêu điều kiện chấp nhận mức tối thiểu.\n3: Sai — 「でいいけど」 mang ý nhượng bộ/đối lập, không phải điều kiện đề xuất.\n4: Sai — 「がいいのに」 là tiếc nuối “đáng lẽ…”, không hợp lời gợi ý.\n\n【Chi tiết thêm】\nNhớ phân biệt 「でいい」(đủ/ổn) và 「がいい」(muốn/thích hơn)."
     },
     {
       "question_id": 5,
@@ -69,7 +69,7 @@
         "読んでこい"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 1 · 読んでおくように\n\n【Dịch câu hỏi】\nTôi được trưởng phòng bảo phải ( ) tài liệu này trước cuộc họp tới. — chọn cách nối đúng.\n\n【Dịch 4 đáp án】\n1. đọc trước (để chuẩn bị) — dạng truyền đạt\n2. hãy đọc trước đi (mệnh lệnh trực tiếp)\n3. có đọc đến không / liệu có đọc không\n4. đọc rồi đến đây (mệnh lệnh thô)\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch; giải theo câu hỏi ngữ pháp từ vựng bên trên.)\n\n【Keyword】\nVるように言われる, ～ておく, 間接引用\n\n【Câu chính / căn cứ】\n「この資料を読んでおくように言われた」\n\n【Cách giải nhanh】\nTruyền đạt mệnh lệnh gián tiếp: 「Vるように言われる」. Thêm 「おく」= làm trước để chuẩn bị. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp mẫu gián tiếp + ý chuẩn bị trước.\n2: Sai — 「なさい」 là mệnh lệnh trực tiếp, không đi với 「言われた」.\n3: Sai — 「～か」 thành câu hỏi, sai ngữ pháp.\n4: Sai — 「こい」 thô tục/mệnh lệnh trực tiếp, không dùng trong truyền đạt lịch sự.\n\n【Chi tiết thêm】\nSau 「言われた/頼まれた」 thường là 「Vるように」 hoặc 「Vてほしいと」."
+      "explanation": "Đáp án đúng: 1 · 読んでおくように\n\n【Dịch câu hỏi】\nTôi được trưởng phòng bảo phải ( ) tài liệu này trước cuộc họp tới. — chọn cách nối đúng.\n\n【Dịch 4 đáp án】\n1. đọc trước (để chuẩn bị) — dạng truyền đạt\n2. hãy đọc trước đi (mệnh lệnh trực tiếp)\n3. có đọc đến không / liệu có đọc không\n4. đọc rồi đến đây (mệnh lệnh thô)\n\n【Keyword】\nVるように言われる, ～ておく, 間接引用\n\n【Câu chính / căn cứ】\n「この資料を読んでおくように言われた」\n\n【Cách giải nhanh】\nTruyền đạt mệnh lệnh gián tiếp: 「Vるように言われる」. Thêm 「おく」= làm trước để chuẩn bị. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp mẫu gián tiếp + ý chuẩn bị trước.\n2: Sai — 「なさい」 là mệnh lệnh trực tiếp, không đi với 「言われた」.\n3: Sai — 「～か」 thành câu hỏi, sai ngữ pháp.\n4: Sai — 「こい」 thô tục/mệnh lệnh trực tiếp, không dùng trong truyền đạt lịch sự.\n\n【Chi tiết thêm】\nSau 「言われた/頼まれた」 thường là 「Vるように」 hoặc 「Vてほしいと」."
     },
     {
       "question_id": 6,
@@ -82,7 +82,7 @@
         "だからといって"
       ],
       "correct_answer": 4,
-      "explanation": "Đáp án đúng: 4 · だからといって\n\n【Dịch câu hỏi】\nDù là ngày nghỉ ( ), tôi nghĩ ngủ đến quá trưa là không tốt.\n\n【Dịch 4 đáp án】\n1. chứ đừng nói / không những không…\n2. nếu nói thì… / xét ra thì…\n3. xét về… thì (ngạc nhiên)\n4. dù vì thế cũng không (có nghĩa là…)\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch; giải theo câu hỏi ngữ pháp từ vựng bên trên.)\n\n【Keyword】\nだからといって, 譲歩, 否定評価\n\n【Câu chính / căn cứ】\n「休みの日だからといって、昼過ぎまで寝ているのはよくない」\n\n【Cách giải nhanh】\nVế sau là đánh giá phủ định. 「だからといって」= dù vì lý do đó cũng không… → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 「どころか」 nhấn mạnh mức độ khác/hơn, không phải nhượng bộ kiểu này.\n2: Sai — 「かというと」 mở giải thích, không khớp.\n3: Sai — 「にしては」 so với chuẩn kỳ vọng, không phải “vì là ngày nghỉ”.\n4: Đúng — nhượng bộ + phủ định đánh giá ở sau.\n\n【Chi tiết thêm】\n「だからといって～ない」 là cặp hay gặp ở N2."
+      "explanation": "Đáp án đúng: 4 · だからといって\n\n【Dịch câu hỏi】\nDù là ngày nghỉ ( ), tôi nghĩ ngủ đến quá trưa là không tốt.\n\n【Dịch 4 đáp án】\n1. chứ đừng nói / không những không…\n2. nếu nói thì… / xét ra thì…\n3. xét về… thì (ngạc nhiên)\n4. dù vì thế cũng không (có nghĩa là…)\n\n【Keyword】\nだからといって, 譲歩, 否定評価\n\n【Câu chính / căn cứ】\n「休みの日だからといって、昼過ぎまで寝ているのはよくない」\n\n【Cách giải nhanh】\nVế sau là đánh giá phủ định. 「だからといって」= dù vì lý do đó cũng không… → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 「どころか」 nhấn mạnh mức độ khác/hơn, không phải nhượng bộ kiểu này.\n2: Sai — 「かというと」 mở giải thích, không khớp.\n3: Sai — 「にしては」 so với chuẩn kỳ vọng, không phải “vì là ngày nghỉ”.\n4: Đúng — nhượng bộ + phủ định đánh giá ở sau.\n\n【Chi tiết thêm】\n「だからといって～ない」 là cặp hay gặp ở N2."
     },
     {
       "question_id": 7,
@@ -95,12 +95,12 @@
         "言ってくれるように"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 言ってくれるたびに\n\n【Dịch câu hỏi】\nMỗi khi khách nói món ngon, tôi lại vui và muốn cố gắng hơn. — chọn cụm đúng trước 「思える」.\n\n【Dịch 4 đáp án】\n1. mỗi khi tôi nói cho (ai đó)\n2. để tôi nói cho / theo hướng tôi nói cho\n3. mỗi khi (khách) nói cho tôi\n4. để (khách) nói cho tôi\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch; giải theo câu hỏi ngữ pháp từ vựng bên trên.)\n\n【Keyword】\n～てくれる, たびに, 恩恵\n\n【Câu chính / căn cứ】\n「おいしいと言ってくれるたびに、うれしくて…と思える」\n\n【Cách giải nhanh】\nKhách nói điều có lợi cho người kể → 「てくれる」. “Mỗi khi” → 「たびに」. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 「あげる」 là mình cho người khác; chiều ơn sai.\n2: Sai — sai chiều ơn + 「ように」 không phải “mỗi khi”.\n3: Đúng — ơn từ khách + tần suất “mỗi khi”.\n4: Sai — 「ように」 không diễn tả “mỗi lần”.\n\n【Chi tiết thêm】\nBẫy chiều cho/nhận: vui vì lời khen của khách = くれる."
+      "explanation": "Đáp án đúng: 3 · 言ってくれるたびに\n\n【Dịch câu hỏi】\nMỗi khi khách nói món ngon, tôi lại vui và muốn cố gắng hơn. — chọn cụm đúng trước 「思える」.\n\n【Dịch 4 đáp án】\n1. mỗi khi tôi nói cho (ai đó)\n2. để tôi nói cho / theo hướng tôi nói cho\n3. mỗi khi (khách) nói cho tôi\n4. để (khách) nói cho tôi\n\n【Keyword】\n～てくれる, たびに, 恩恵\n\n【Câu chính / căn cứ】\n「おいしいと言ってくれるたびに、うれしくて…と思える」\n\n【Cách giải nhanh】\nKhách nói điều có lợi cho người kể → 「てくれる」. “Mỗi khi” → 「たびに」. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 「あげる」 là mình cho người khác; chiều ơn sai.\n2: Sai — sai chiều ơn + 「ように」 không phải “mỗi khi”.\n3: Đúng — ơn từ khách + tần suất “mỗi khi”.\n4: Sai — 「ように」 không diễn tả “mỗi lần”.\n\n【Chi tiết thêm】\nBẫy chiều cho/nhận: vui vì lời khen của khách = くれる."
     },
     {
       "question_id": 8,
       "context": "",
-      "question": "妻「J の14 と15 だよ」",
+      "question": "(映画館で)\n夫「席の番号、忘れちゃった。何番( )？」\n妻「J の14 と15 だよ」",
       "options": [
         "だったよね",
         "だっけ",
@@ -147,7 +147,7 @@
         "飛んでいきそうになった"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 飛ばされそうになった\n\n【Dịch câu hỏi】\nHôm qua gió mạnh, mũ nhiều lần ( ).\n\n【Dịch 4 đáp án】\n1. vừa bị thổi bay (ところだ)\n2. vừa bay đi (ところだ)\n3. suýt bị thổi bay\n4. suýt bay đi\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch; giải theo câu hỏi ngữ pháp từ vựng bên trên.)\n\n【Keyword】\n受身, ～そうになった, 危うく\n\n【Câu chính / căn cứ】\n「何度も帽子を飛ばされそうになった」\n\n【Cách giải nhanh】\nGió tác động lên mũ → bị động 「飛ばされる」. “Suýt” → 「そうになった」. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 「ところだ」= vừa mới; không phải suýt, và “nhiều lần” kém tự nhiên.\n2: Sai — tự chủ của mũ + ところだ không khớp “suýt”.\n3: Đúng — bị động + suýt nữa thì.\n4: Sai — thiếu bị động; mũ không tự “bay đi” trong quan hệ gió–mũ như cách diễn đạt chuẩn đề.\n\n【Chi tiết thêm】\n「何度も」 hợp với việc suýt xảy ra lặp lại hơn là “vừa mới”."
+      "explanation": "Đáp án đúng: 3 · 飛ばされそうになった\n\n【Dịch câu hỏi】\nHôm qua gió mạnh, mũ nhiều lần ( ).\n\n【Dịch 4 đáp án】\n1. vừa bị thổi bay (ところだ)\n2. vừa bay đi (ところだ)\n3. suýt bị thổi bay\n4. suýt bay đi\n\n【Keyword】\n受身, ～そうになった, 危うく\n\n【Câu chính / căn cứ】\n「何度も帽子を飛ばされそうになった」\n\n【Cách giải nhanh】\nGió tác động lên mũ → bị động 「飛ばされる」. “Suýt” → 「そうになった」. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 「ところだ」= vừa mới; không phải suýt, và “nhiều lần” kém tự nhiên.\n2: Sai — tự chủ của mũ + ところだ không khớp “suýt”.\n3: Đúng — bị động + suýt nữa thì.\n4: Sai — thiếu bị động; mũ không tự “bay đi” trong quan hệ gió–mũ như cách diễn đạt chuẩn đề.\n\n【Chi tiết thêm】\n「何度も」 hợp với việc suýt xảy ra lặp lại hơn là “vừa mới”."
     },
     {
       "question_id": 12,
@@ -160,7 +160,7 @@
         "期待していたほどではなかった"
       ],
       "correct_answer": 4,
-      "explanation": "Đáp án đúng: 4 · 期待していたほどではなかった\n\n【Dịch câu hỏi】\nĐến nhà hàng đang nổi; dịch vụ/không khí tốt nhưng vị thì ( ).\n\n【Dịch 4 đáp án】\n1. vì không kỳ vọng nên… (sai cấu trúc)\n2. không phải vì đã kỳ vọng\n3. chắc là đã không kỳ vọng\n4. không được đến mức đã kỳ vọng\n\n【Dịch bài đọc】\n(Đoạn nguồn trong batch là chỉ dẫn đề/OCR lệch; giải theo câu hỏi ngữ pháp từ vựng bên trên.)\n\n【Keyword】\n～ほどではない, 期待, 対比\n\n【Câu chính / căn cứ】\n「味は期待していたほどではなかった」\n\n【Cách giải nhanh】\nĐối lập: dịch vụ tốt ↔ vị kém hơn kỳ vọng. 「期待していたほどではなかった」. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — cấu trúc/lời văn không tự nhiên.\n2: Sai — phủ định nguyên nhân, không nói mức độ vị.\n3: Sai — suy đoán về kỳ vọng, không đánh giá vị.\n4: Đúng — mức độ không đạt kỳ vọng.\n\n【Chi tiết thêm】\n「～ほどだ / ～ほどではない」 so sánh mức độ."
+      "explanation": "Đáp án đúng: 4 · 期待していたほどではなかった\n\n【Dịch câu hỏi】\nĐến nhà hàng đang nổi; dịch vụ/không khí tốt nhưng vị thì ( ).\n\n【Dịch 4 đáp án】\n1. vì không kỳ vọng nên… (sai cấu trúc)\n2. không phải vì đã kỳ vọng\n3. chắc là đã không kỳ vọng\n4. không được đến mức đã kỳ vọng\n\n【Keyword】\n～ほどではない, 期待, 対比\n\n【Câu chính / căn cứ】\n「味は期待していたほどではなかった」\n\n【Cách giải nhanh】\nĐối lập: dịch vụ tốt ↔ vị kém hơn kỳ vọng. 「期待していたほどではなかった」. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — cấu trúc/lời văn không tự nhiên.\n2: Sai — phủ định nguyên nhân, không nói mức độ vị.\n3: Sai — suy đoán về kỳ vọng, không đánh giá vị.\n4: Đúng — mức độ không đạt kỳ vọng.\n\n【Chi tiết thêm】\n「～ほどだ / ～ほどではない」 so sánh mức độ."
     }
   ]
 }

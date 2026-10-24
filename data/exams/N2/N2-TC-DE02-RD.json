@@ -24,10 +24,10 @@
       "context": "(2)\n以下は、ある不動産管理会社に届いたメールである。\nらくらくルーム社 青寺店\n森田様\n花西マンション302 号室に入居予定の木村です。\n引っ越し当日の3 月20 日の金曜日、午前中に貴店で新居の鍵を受け取る約束でしたが、 荷物が10 時に到着することになりました。そのため、前日19 日の午後に鍵を受け取りたいと思いホームページを確認したところ、貴店は木曜日が定休日でした。\n鍵の受け取り日が定休日の場合は、ほかの支店で受け取れると書いてありましたので、仕事の帰りに中央駅前店に寄りたいと思いますが、鍵を受け取ることは可能でしょうか。\nお返事をお待ちしております。\n木村ゆり\n（注1） カケラ:ここでは、小さな部分\n（注2） プレる：ここでは、不安定になる\n（注3） 気の迷い: ここでは、間違った判断",
       "question": "新居の鍵について、木村さんが問い合わせていることは何か。",
       "options": [
-        "3 月19 日の午後に青寺店で受け取れるか。",
-        "3 月19 日の午後に中央駅前店で受け取れるか。",
-        "3 月20 日の午前中に青寺店で受け取れるか。",
-        "3 月20 日の午前中に中央駅前店で受け取れるか。"
+        "月19 日の午後に青寺店で受け取れるか。",
+        "月19 日の午後に中央駅前店で受け取れるか。",
+        "月20 日の午前中に青寺店で受け取れるか。",
+        "月20 日の午前中に中央駅前店で受け取れるか。"
       ],
       "correct_answer": 2,
       "explanation": "Đáp án đúng: 2 · 3 月19 日の午後に中央駅前店で受け取れるか。\n\n【Dịch câu hỏi】\nVề chìa khóa nhà mới, Kimura đang hỏi điều gì?\n\n【Dịch 4 đáp án】\n1. Chiều 19/3 nhận tại cửa hàng Aodera được không?\n2. Chiều 19/3 nhận tại cửa hàng trước Ga Trung tâm được không?\n3. Sáng 20/3 nhận tại cửa hàng Aodera được không?\n4. Sáng 20/3 nhận tại cửa hàng trước Ga Trung tâm được không?\n\n【Dịch bài đọc】\nGửi Morita – cửa hàng Aodera công ty Rakuraku Room. Tôi là Kimura, sắp chuyển vào phòng 302 chung cư Hananishi. Đã hẹn nhận chìa khóa nhà mới sáng thứ Sáu 20/3 tại cửa hàng quý vị, nhưng đồ đạc sẽ đến lúc 10 giờ. Vì vậy muốn nhận chìa chiều hôm trước 19/3; xem trang web thì thứ Năm cửa hàng nghỉ. Trang ghi nếu ngày nhận trùng ngày nghỉ có thể nhận ở chi nhánh khác, nên tôi muốn ghé vành cửa hàng trước Ga Trung tâm lúc tan làm — xin hỏi có nhận được không? Mong hồi âm. Kimura Yuri.\n\n【Keyword】\n3月19日の午後, 中央駅前店, 定休日\n\n【Câu chính / căn cứ】\n「仕事の帰りに中央駅前店に寄りたい…鍵を受け取ることは可能でしょうか」\n\n【Cách giải nhanh】\nMuốn nhận chiều 19/3 ở 中央駅前店 (vì Aodera nghỉ thứ Năm). → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — Aodera nghỉ thứ Năm nên không hỏi nhận ở đó ngày 19.\n2: Đúng — đúng ngày, đúng chi nhánh đang hỏi.\n3: Sai — đó là lịch hẹn cũ; đang đổi vì đồ đến lúc 10h.\n4: Sai — sai ngày (20) dù đúng chi nhánh thay thế.\n\n【Chi tiết thêm】\nEmail hỏi đáp: bám câu hỏi cuối 「可能でしょうか」và lý do đổi lịch."
@@ -264,7 +264,7 @@
         "追加料金は4,000円で、4月7日の午後5時までに連絡する。"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · 追加料金は4,000円で、4月6日の午後5時までに連絡する。\n\n【Dịch câu hỏi】\nNadia đã đặt phòng gói chỉ có bữa sáng (朝食つきプラン) cho ngày 8/4, nhưng nay (4/4) muốn đặt thêm bữa tối đặc biệt (特別和食膳). Phí bổ sung là bao nhiêu và phải liên hệ trước thời점 nào?\n\n【Phân tích】\n• Xem mục 「●予約後に、お食事の追加予約を希望される方」 (Khách muốn đặt thêm bữa ăn sau khi đã đặt phòng): Đặt thêm bữa tối thường là 3,000 yên, bữa tối đặc biệt (特別和食膳) là 4,000 yên. (Mức 1,000 yên chỉ dành cho khách đã đặt sẵn gói có bữa tối muốn nâng cấp lên 特別和食膳).\n• Hạn liên hệ đặt thêm bữa tối: Trước 5 giờ chiều của 2 ngày trước ngày lưu trú (希望される日の2日前の午後5時まで) → Ngày 8/4 trừ 2 ngày là 17:00 ngày 6/4 → Chọn 3."
+      "explanation": "Đáp án đúng: 3 · 追加料金は4,000円で、4月6日の午後5時までに連絡する。\n\n【Dịch câu hỏi】\nNadia đã đặt phòng gói chỉ có bữa sáng (朝食つきプラン) cho ngày 8/4, nhưng nay (4/4) muốn đặt thêm bữa tối đặc biệt (特別和食膳). Phí bổ sung là bao nhiêu và phải liên hệ trước thời điểm nào?\n\n【Phân tích】\n• Xem mục 「●予約後に、お食事の追加予約を希望される方」 (Khách muốn đặt thêm bữa ăn sau khi đã đặt phòng): Đặt thêm bữa tối thường là 3,000 yên, bữa tối đặc biệt (特別和食膳) là 4,000 yên. (Mức 1,000 yên chỉ dành cho khách đã đặt sẵn gói có bữa tối muốn nâng cấp lên 特別和食膳).\n• Hạn liên hệ đặt thêm bữa tối: Trước 5 giờ chiều của 2 ngày trước ngày lưu trú (希望される日の2日前の午後5時まで) → Ngày 8/4 trừ 2 ngày là 17:00 ngày 6/4 → Chọn 3."
     }
   ]
 }
