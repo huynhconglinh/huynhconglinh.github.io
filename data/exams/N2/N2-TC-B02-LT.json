@@ -1,0 +1,49 @@
+{
+  "id": "N2-TC-B02-LT",
+  "code": "TC-B02-LT",
+  "title": "Bài 2 · Nghe hiểu Mondai 1 · Luyện tập",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "listening",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "Nghe số 1: Nữ sinh phải làm gì tiếp theo?",
+      "options": [
+        "話す内容を整理する",
+        "げんこうに内容を足す",
+        "ゆっくり話す練習をする",
+        "げんこうを暗記する"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · ゆっくり話す練習をする\n\n【Dịch câu hỏi】\nNghe số 1: Nữ sinh phải làm gì tiếp theo?\n\n【Dịch 4 đáp án】\n1. Sắp xếp lại nội dung nói\n2. Thêm nội dung vào bản thảo\n3. Luyện nói chậm lại\n4. Học thuộc bản thảo\n\n【Keyword】\n速度を落とす, 話す練習\n\n【Câu chính / căn cứ】\n速度を少し落として話す練習をしといて（薄解答より）\n\n【Cách giải nhanh】\nNội dung đã ổn nhưng nói quá nhanh → được khuyên luyện nói chậm. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không cần sắp xếp lại nội dung.\n2: Sai — không cần thêm nội dung.\n3: Đúng — luyện nói chậm.\n4: Sai — được phép nhìn bản thảo, không bắt học thuộc.\n\n【Chi tiết thêm】\nListening: nghe lời khuyên cụ thể sau khi khen phần đã ổn.",
+      "transcript": "速度を落とす, 話す練習"
+    },
+    {
+      "question_id": 2,
+      "question": "Nghe số 3: Trước khi hết buổi học hôm nay, nhóm du học sinh phải quyết định gì?",
+      "options": [
+        "発表のテーマ",
+        "発表で取り上げる国",
+        "グループの係り",
+        "しりょう集めのぶんたん"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 発表で取り上げる国\n\n【Dịch câu hỏi】\nNghe số 3: Trước khi hết buổi học hôm nay, nhóm du học sinh phải quyết định gì?\n\n【Dịch 4 đáp án】\n1. Chủ đề thuyết trình\n2. Quốc gia sẽ đưa vào thuyết trình\n3. Vai trò trong nhóm\n4. Phân công thu thập tài liệu\n\n【Keyword】\nどの国について調べるか, ごみ処理\n\n【Câu chính / căn cứ】\nどの国について調べるか（を今日中に決める）\n\n【Cách giải nhanh】\nChủ đề đã là xử lý rác; hôm nay phải chọn quốc gia. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — chủ đề đã có (xử lý rác).\n2: Đúng — quyết định quốc gia sẽ trình bày.\n3: Sai — vai trò đã phân từ buổi trước.\n4: Sai — phân công tài liệu chưa phải việc cần chốt ngay.\n\n【Chi tiết thêm】\nPhân biệt 「đã quyết」 vs 「cần quyết hôm nay」.",
+      "transcript": "どの国について調べるか, ごみ処理"
+    },
+    {
+      "question_id": 3,
+      "question": "Nghe số 4: Sau cuộc nói chuyện, nữ sinh sẽ làm gì trước tiên?",
+      "options": [
+        "えんそうの動画を作る",
+        "えんそうの動画をていしゅつする",
+        "応募の書類を作る",
+        "応募の書類をていしゅつする"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 応募の書類をていしゅつする\n\n【Dịch câu hỏi】\nNghe số 4: Sau cuộc nói chuyện, nữ sinh sẽ làm gì trước tiên?\n\n【Dịch 4 đáp án】\n1. Làm video biểu diễn\n2. Nộp video biểu diễn\n3. Làm hồ sơ đăng ký\n4. Nộp hồ sơ đăng ký\n\n【Keyword】\n書類は明日まで, 動画は１週間後, 書類はもう作ってある\n\n【Câu chính / căn cứ】\n応募書類を提出する（期限が明日）\n\n【Cách giải nhanh】\nHồ sơ đã làm xong, hạn nộp ngày mai → việc đầu là nộp hồ sơ. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — video cần làm nhưng hạn sau hồ sơ.\n2: Sai — nộp video không phải việc đầu (hạn sau).\n3: Sai — hồ sơ đã tạo rồi.\n4: Đúng — nộp hồ sơ trước vì hạn gấp.\n\n【Chi tiết thêm】\nThứ tự theo hạn: ngày mai = giấy tờ; trong 1 tuần = video.",
+      "transcript": "書類は明日まで, 動画は１週間後, 書類はもう作ってある"
+    }
+  ]
+}

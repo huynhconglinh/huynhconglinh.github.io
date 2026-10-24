@@ -1,0 +1,62 @@
+{
+  "id": "N2-TC-B01-BT-RD",
+  "code": "TC-B01-RD",
+  "title": "Bài 1 · Đọc hiểu Đoản văn · Bổ trợ Đọc hiểu",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "以下は、ある会社の社員が総務課に送ったメールである。\n総務課ご担当者様\n休憩室について、お願いがあってメールいたしました。\nより多くの人が休憩室を利用できるように、先日テーブルといすを増やしていただきましたが、まだ昼食時に多くの人が利用できず不便を感じています。 そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。\nご検討をお願いいたします。\n営業第１グループ　大月友代",
+      "question": "このメールで伝えたいことは何か。",
+      "options": [
+        "会議室のテーブルといすをもっと増やしてほしい。",
+        "昼休みに、会議室を休憩室として使えるようにしてほしい。",
+        "昼休みには、昼食を取る人に休憩室を優先して使わせてほしい。",
+        "昼休み以外にも、会議室で休憩できるようにしてほしい。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 昼休みに、会議室を休憩室として使えるようにしてほしい。\n\n【Dịch câu hỏi】\nHỏi: Email này muốn truyền đạt điều gì?\n\n【Dịch 4 đáp án】\n1. Muốn tăng thêm bàn ghế trong phòng họp.\n2. Muốn giờ nghỉ trưa dùng phòng họp như phòng nghỉ.\n3. Muốn giờ nghỉ trưa ưu tiên cho người ăn trưa dùng phòng nghỉ.\n4. Muốn ngoài giờ nghỉ trưa cũng được nghỉ trong phòng họp.\n\n【Dịch bài đọc】\nKính gửi phụ trách phòng Tổng vụ: Em gửi email vì có đề nghị về phòng nghỉ. Dù gần đây đã được tăng bàn ghế để nhiều người dùng phòng nghỉ hơn, nhưng giờ ăn trưa vẫn nhiều người không dùng được và thấy bất tiện. Vì vậy, xin hỏi có thể mở phòng họp trong giờ nghỉ trưa không? Nếu vậy nhiều người sẽ nghỉ được ở đó hơn. Xin xem xét. Nhóm Kinh doanh 1 – Otsuki Tomoyo.\n\n【Keyword】\n昼休みの間は会議室を開放, 休憩室, テーブルといすを増やしていただいたが\n\n【Câu chính / căn cứ】\n「そのため、昼休みの間は会議室を開放していただけないでしょうか」\n\n【Cách giải nhanh】\nYêu cầu then chốt là 「昼休みの間は会議室を開放」. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — bàn ghế phòng nghỉ đã tăng rồi; không xin tăng bàn ghế phòng họp.\n2: Đúng — khớp đề nghị mở phòng họp làm chỗ nghỉ giờ trưa.\n3: Sai — không đề cập ưu tiên người ăn trưa trong phòng nghỉ.\n4: Sai — chỉ xin trong giờ nghỉ trưa, không xin ngoài giờ đó.\n\n【Chi tiết thêm】\nEmail xin việc: bám câu có 「〜ていただけないでしょうか」 — đó là điều muốn truyền đạt."
+    },
+    {
+      "question_id": 2,
+      "context": "条件が違えば、勝者が敗者になり、敗者が勝者になるのが自然の生物社会です。どの生物もすべての環境条件で競争の勝者になることはできません。生態学の研究が示すのは多様な環境の重要性です。 生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます。\n競争は敗者を排除するプロセスではなく、多様な環境の中にそれぞれの生物の居場所をつくり出すプロセスといってもよいかもしれません。\n（注１） 生態学：生物の生き方と環境に関する科学\n（注２） 排除する：ここでは、取り除く",
+      "question": "生物について、筆者の考えに合うのはどれか。",
+      "options": [
+        "ある環境で競争に負けても、自分に合った別の環境で生き残れる。",
+        "多様な環境の中で自らを変化させなければ、競争に勝てない。",
+        "競争に負けた生物は、場所を変えずにそこで生きられるように変化する。",
+        "競争に勝たなければ、すべての環境条件で生き残れない。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · ある環境で競争に負けても、自分に合った別の環境で生き残れる。\n\n【Dịch câu hỏi】\nHỏi: Về sinh vật, ý nào phù hợp với suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Dù thua cạnh tranh ở một môi trường, vẫn có thể sống sót ở môi trường khác phù hợp với mình.\n2. Nếu không tự biến đổi trong môi trường đa dạng thì không thắng được cạnh tranh.\n3. Sinh vật thua cạnh tranh sẽ biến đổi để sống được tại chỗ mà không đổi chỗ.\n4. Nếu không thắng cạnh tranh thì không sống sót được trong mọi điều kiện môi trường.\n\n【Dịch bài đọc】\nNếu điều kiện khác đi, kẻ thắng thành kẻ thua và kẻ thua thành kẻ thắng — đó là xã hội sinh vật tự nhiên. Không sinh vật nào thắng cạnh tranh ở mọi điều kiện môi trường. Nghiên cứu sinh thái học cho thấy tầm quan trọng của môi trường đa dạng. Nhờ có cạnh tranh, sinh vật tìm được môi trường phù hợp trong môi trường đa dạng. Có thể nói cạnh tranh không phải quá trình loại bỏ kẻ thua, mà là quá trình tạo ra chỗ đứng riêng cho từng sinh vật trong môi trường đa dạng.\n\n【Keyword】\n条件が違えば勝者・敗者, 自分に適した環境, 敗者を排除するプロセスではない\n\n【Câu chính / căn cứ】\n「生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます」\n\n【Cách giải nhanh】\nThắng/thua đổi theo điều kiện; thua ở đây vẫn có thể sống ở môi trường phù hợp khác. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp tìm môi trường phù hợp, không bị loại tuyệt đối.\n2: Sai — bài không nói phải 「tự biến đổi」 mới thắng.\n3: Sai — không nói kẻ thua biến đổi tại chỗ mà không đổi môi trường.\n4: Sai — bài nói không ai thắng mọi điều kiện; không kết luận 「không thắng thì không sống sót」.\n\n【Chi tiết thêm】\nChú ý phủ định 「すべての環境条件で競争の勝者になることはできません」 — không đồng nghĩa với đáp án 4."
+    },
+    {
+      "question_id": 3,
+      "context": "以下は、パソコンショップの店員から送られてきたメールである。\n高山かおり様\nPC フォレスト西山店の合田です。\n画面の修理のためルニ社製のノートパソコンをお預かりしておりますが、点検したところ電源部分の部品にも問題があり、 接続状態が悪くなっていることが分かりました。このままですと急に電源が入らなくなる可能性がありますので、部品の交換をお勧めいたします。\nその場合、追加料金が２万円かかり、お返しは６月１０日以降になります。\n画面の修理は６月５日に完了しますので、電源の修理を希望されない場合には、予定どおりお返しできます。\nお忙しいところ恐縮ですが、ご連絡をお待ちしております。\nPC フォレスト西山店\n担当: 合田 英子 (support_hm@peforest.co.jp)",
+      "question": "このメールで店員が問い合わせていることは何か。",
+      "options": [
+        "電源の状態が悪くなる可能性があるが、画面の修理をするかどうか。",
+        "追加で料金と時間がかかるが、電源の修理もするかどうか。",
+        "追加で料金がかかるが、電源の修理を６月５日までに終えるかどうか。",
+        "６月５日に画面と電源の修理は完了するが、いつ受け取りに来るか。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 追加で料金と時間がかかるが、電源の修理もするかどうか。\n\n【Dịch câu hỏi】\nHỏi: Trong email này nhân viên cửa hàng đang hỏi điều gì?\n\n【Dịch 4 đáp án】\n1. Dù nguồn có thể xấu đi, có sửa màn hình hay không.\n2. Dù tốn thêm phí và thời gian, có sửa luôn nguồn hay không.\n3. Dù tốn thêm phí, có hoàn tất sửa nguồn trước ngày 5/6 hay không.\n4. Ngày 5/6 sửa xong cả màn hình lẫn nguồn, hỏi khi nào đến nhận.\n\n【Dịch bài đọc】\nKính gửi Takayama Kaori – Gota, cửa hàng PC Forest Nishiyama. Máy laptop Runi đang giữ để sửa màn hình; kiểm tra thấy bộ phận nguồn cũng có vấn đề, kết nối kém. Tiếp tục vậy có thể đột ngột không bật được nên khuyên thay linh kiện. Khi đó phí thêm 20.000 yên, trả máy từ ngày 10/6 trở đi. Sửa màn hình xong ngày 5/6; nếu không muốn sửa nguồn thì trả đúng lịch. Xin liên hệ. PC Forest Nishiyama – Gota Eiko.\n\n【Keyword】\n追加料金が２万円, お返しは６月１０日以降, 電源の修理を希望されない場合\n\n【Câu chính / căn cứ】\n「その場合、追加料金が２万円かかり、お返しは６月１０日以降になります…電源の修理を希望されない場合には、予定どおりお返しできます」\n\n【Cách giải nhanh】\nCửa hàng cần quyết định: có sửa thêm nguồn (tốn thêm tiền + chậm trả) hay không. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — sửa màn hình đã đang làm; không hỏi có sửa màn hình không.\n2: Đúng — hỏi có sửa thêm nguồn dù thêm phí và thời gian.\n3: Sai — nếu sửa nguồn thì trả từ 10/6, không xong trước/đúng 5/6.\n4: Sai — không nói cả hai hạng mục xong ngày 5/6; cũng không hỏi ngày nhận.\n\n【Chi tiết thêm】\nBẫy ngày tháng: 5/6 = chỉ màn hình; 10/6〜 = nếu sửa thêm nguồn."
+    },
+    {
+      "question_id": 4,
+      "context": "弱い立場にあるという点で、未来の世代ほど弱いものはない。何しろ、どんなにひどいことをされても、まだ生まれていない生命は、抗議の声をあげることもできないのだから。それをいいことに今生きている世代は、 未来の世代が生きていくための絶対条件となる環境を壊し、彼らが利用する分の資源まで使い果たそうとしている。いったいこれ以上、フェアの精神に反することがあるだろうか。\n（注１） 抗議：ここでは、反対や怒り\n（注２） それをいいことに：ここでは、それを自分に都合よく考えて\n（注３） 絶対条件：必要な条件",
+      "question": "生きている世代に対して、筆者が言いたいことは何か。",
+      "options": [
+        "今生きている世代があげている反府や怒りの声を聞くべきだ。",
+        "今生きている世代にも声があげられない人がいることを認めるべきだ。",
+        "未来の世代が生きていくために、必要な資源を見つけるべきだ。",
+        "声をあげられない未来の世代のことを考え、行動を改めるべきだ。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 声をあげられない未来の世代のことを考え、行動を改めるべきだ。\n\n【Dịch câu hỏi】\nHỏi: Với thế hệ đang sống, tác giả muốn nói gì?\n\n【Dịch 4 đáp án】\n1. Nên lắng nghe tiếng phản đối/giận dữ của thế hệ đang sống.\n2. Nên thừa nhận trong thế hệ đang sống cũng có người không lên tiếng được.\n3. Nên tìm tài nguyên cần thiết để thế hệ tương lai sống được.\n4. Nên nghĩ đến thế hệ tương lai không lên tiếng được và sửa cách hành động.\n\n【Dịch bài đọc】\nVề vị thế yếu, không gì yếu hơn thế hệ tương lai. Dù bị đối xử tệ đến đâu, sinh mệnh chưa ra đời cũng không thể lên tiếng phản đối. Nhân đó, thế hệ đang sống phá hủy môi trường — điều kiện tuyệt đối để thế hệ tương lai sống — và đang dùng cạn cả phần tài nguyên của họ. Còn gì trái với tinh thần công bằng hơn thế nữa?\n\n【Keyword】\n未来の世代, 抗議の声をあげることもできない, フェアの精神に反する\n\n【Câu chính / căn cứ】\n「未来の世代が生きていくための絶対条件となる環境を壊し、彼らが利用する分の資源まで使い果たそうとしている」\n\n【Cách giải nhanh】\nTác giả cáo buộc thế hệ hiện tại đang bất công với thế hệ tương lai không lên tiếng được → phải nghĩ đến họ và đổi hành động. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — đối tượng yếu là thế hệ tương lai, không phải thế hệ đang sống.\n2: Sai — lệch trọng tâm; bài không nói về người hiện tại không lên tiếng được.\n3: Sai — không chỉ 「tìm tài nguyên mới」; vấn đề là phá môi trường và tiêu dùng quá mức.\n4: Đúng — khớp lời kêu gọi nghĩ đến thế hệ tương lai và sửa hành vi.\n\n【Chi tiết thêm】\n「それをいいことに」= lợi dụng việc họ không phản đối được — điểm then chốt của bài."
+    }
+  ]
+}

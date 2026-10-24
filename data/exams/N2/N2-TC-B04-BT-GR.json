@@ -1,0 +1,166 @@
+{
+  "id": "N2-TC-B04-BT-GR",
+  "code": "TC-B04-GR",
+  "title": "Bài 4 · Đọc hiểu Trung - Trường văn · Bổ trợ Ngữ pháp",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "grammar",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "",
+      "question": "この小説は、物語が進む（ ）主人公の少年の心理が変化していくのが面白い。",
+      "options": [
+        "としても",
+        "とはいえ",
+        "につれて",
+        "にあたって"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · につれて\n\n【Dịch câu hỏi】\nTiểu thuyết này thú vị ở chỗ tâm lý cậu bé nhân vật chính thay đổi ( ) câu chuyện tiến triển.\n\n【Dịch 4 đáp án】\n1. dù cho là (としても)\n2. dù nói vậy / tuy thế (とはいえ)\n3. cùng với / theo đà (につれて)\n4. nhân dịp / khi tiến hành (にあたって)\n\n【Dịch bài đọc】\nHãy chọn từ thích hợp nhất để điền vào ( ) trong câu.\n\n【Keyword】\n～につれて, 変化していく\n\n【Câu chính / căn cứ】\n「物語が進むにつれて心理が変化する」＝ thay đổi song song với tiến triển.\n\n【Cách giải nhanh】\nHai biến đổi song hành (cốt truyện tiến ↔ tâm lý đổi) → につれて. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — としても = dù giả định.\n2: Sai — とはいえ = thừa nhận nhưng phản bác nhẹ.\n3: Đúng — tương quan tỷ lệ/tiến triển.\n4: Sai — にあたって = lúc bắt đầu một sự kiện quan trọng.\n\n【Chi tiết thêm】\nDấu hiệu: 「進む／なる／変化する」hai bên."
+    },
+    {
+      "question_id": 2,
+      "context": "",
+      "question": "昨日行ったレストランは、味もサービスも最低だった。（ ）行きたくない。",
+      "options": [
+        "二度",
+        "必ずしも",
+        "まさか",
+        "あまりに"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 二度\n\n【Dịch câu hỏi】\nNhà hàng hôm qua đồ ăn lẫn phục vụ đều tệ nhất. ( ) không muốn đến nữa.\n\n【Dịch 4 đáp án】\n1. hai lần / không bao giờ nữa (二度［と］)\n2. không nhất thiết (必ずしも)\n3. không lẽ / làm gì có (まさか)\n4. quá mức (あまりに)\n\n【Dịch bài đọc】\nHãy chọn từ thích hợp nhất để điền vào ( ) trong câu.\n\n【Keyword】\n二度と～ない\n\n【Câu chính / căn cứ】\n「二度と行きたくない」＝ không bao giờ muốn đến lần nữa.\n\n【Cách giải nhanh】\nPhủ định mạnh sau trải nghiệm tệ → 二度と～ない. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — cấu trúc「二度と～ない」(trong đề có thể thiếu「と」).\n2: Sai — 必ずしも～ない = không nhất thiết.\n3: Sai — まさか không điền kiểu này.\n4: Sai — あまりに cần tính từ/động từ mức độ, không tạo “không bao giờ đến”.\n\n【Chi tiết thêm】\nDữ liệu lựa chọn có thể thiếu「と」sau「二度」; vẫn chọn 1."
+    },
+    {
+      "question_id": 3,
+      "context": "",
+      "question": "今回のオリンピックで、体操の青木選手は、メダルは獲得できなかった（ ）、素晴らしい演技も見せてくれた。",
+      "options": [
+        "からといって",
+        "どころか",
+        "あげくに",
+        "ものの"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · ものの\n\n【Dịch câu hỏi】\nỞ Olympic lần này, VĐV thể dục Aoki không giành huy chương ( ), đã trình diễn xuất sắc.\n\n【Dịch 4 đáp án】\n1. chỉ vì… không có nghĩa (からといって)\n2. chứ đừng nói / ngược lại (どころか)\n3. cuối cùng (sau chuỗi xấu) (あげくに)\n4. tuy… nhưng… (ものの)\n\n【Dịch bài đọc】\nHãy chọn từ thích hợp nhất để điền vào ( ).\n\n【Keyword】\n～ものの, 逆接\n\n【Câu chính / căn cứ】\n「メダルは獲得できなかったものの、素晴らしい演技を見せた」.\n\n【Cách giải nhanh】\nHai vế tương phản nhẹ (không huy chương nhưng diễn hay) → ものの. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — からといって thường kèm phủ định ở vế sau.\n2: Sai — どころか nâng cấp/phủ định mạnh hơn kỳ vọng.\n3: Sai — あげくに thường kết quả xấu sau nỗ lực.\n4: Đúng — nhượng bộ: tuy A nhưng B.\n\n【Chi tiết thêm】\nものの ≈ けれども (văn viết)."
+    },
+    {
+      "question_id": 4,
+      "context": "",
+      "question": "60 代の父が、趣味（ ）何歳から始めても遅くないだろうと言って、最近ピアノ教室に通い始めた。",
+      "options": [
+        "としてだけ",
+        "としてなら",
+        "にとっては",
+        "にとっても"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · としてなら\n\n【Dịch câu hỏi】\n(Ngữ cảnh: sở thích/piano) Nếu ( ) thì bắt đầu tuổi nào cũng không muộn… → đã bắt đầu học.\n\n【Dịch 4 đáp án】\n1. chỉ với tư cách (としてだけ)\n2. nếu với tư cách… thì (としてなら)\n3. đối với… thì (にとっては)\n4. ngay cả với… cũng (にとっても)\n\n【Dịch bài đọc】\nHãy chọn từ thích hợp nhất để điền vào ( ). (Câu nguồn bị cắt; đủ nghĩa: nếu là thú vui thì…)\n\n【Keyword】\n趣味としてなら, ～としてなら\n\n【Câu chính / căn cứ】\n「趣味としてなら何歳から始めても遅くない」.\n\n【Cách giải nhanh】\nGiả định giới hạn vai trò: “nếu xét là sở thích thì…” → としてなら. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — としてだけ = chỉ với tư cách đó (hẹp quá/không khớp).\n2: Đúng — điều kiện giả định với tư cách.\n3: Sai — にとっては = xét từ góc nhìn lợi hại của ai.\n4: Sai — にとっても = ngay cả với người đó cũng…\n\n【Chi tiết thêm】\nCâu hỏi trong đề bị cắt; bám sát đáp án chính thức「趣味としてなら」."
+    },
+    {
+      "question_id": 5,
+      "context": "",
+      "question": "約束の時間に友人の家に着いてインターホンを押すと、慌てた様子で友人が 玄関に出てきた。（ ）、パジャマの姿のままだった。",
+      "options": [
+        "起きるところだったら",
+        "起きるところらしく",
+        "起きたばかりだったら",
+        "起きたばかりらしく"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 起きたばかりらしく\n\n【Dịch câu hỏi】\nĐến đúng giờ hẹn, bấm chuông thì bạn hốt hoảng ra cửa. ( ), vẫn còn nguyên đồ ngủ.\n\n【Dịch 4 đáp án】\n1. nếu sắp dậy (起きるところだったら)\n2. trông như sắp dậy (起きるところらしく)\n3. nếu vừa mới dậy (起きたばかりだったら)\n4. trông như vừa mới dậy (起きたばかりらしく)\n\n【Dịch bài đọc】\nHãy chọn cụm thích hợp nhất để điền vào ( ).\n\n【Keyword】\nVたばかり, らしく, パジャマのまま\n\n【Câu chính / căn cứ】\n「起きたばかりらしく、パジャマの姿のままだった」.\n\n【Cách giải nhanh】\nĐã dậy (vẫn mặc đồ ngủ) + suy đoán từ vẻ ngoài → 起きたばかりらしく. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — ところだったら là điều kiện giả định “sắp…”.\n2: Sai — 起きるところ = sắp dậy, trái với đã ra cửa.\n3: Sai — だったら mở điều kiện, không nối mô tả quan sát.\n4: Đúng — vừa dậy + phán đoán「らしく」.\n\n【Chi tiết thêm】\nばかり = vừa mới; ところ = sắp/đúng lúc — đừng nhầm."
+    },
+    {
+      "question_id": 6,
+      "context": "",
+      "question": "「リマインド」とは「再確認」の意味を持ち、「会議の日程が近づいてきたので、出席者に リマインドした。」（ ）使用されるビジネス用語である。",
+      "options": [
+        "というように",
+        "というような",
+        "ということのように",
+        "ということのような"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · というように\n\n【Dịch câu hỏi】\n“Remind” nghĩa là xác nhận lại, và ( ) được dùng như trong ví dụ câu về nhắc lịch họp.\n\n【Dịch 4 đáp án】\n1. như thế / theo cách đó (というように)\n2. kiểu như thế (tính từ) (というような)\n3. theo kiểu việc đó (ということのように)\n4. kiểu việc đó (tính từ) (ということのような)\n\n【Dịch bài đọc】\nHãy chọn cụm thích hợp nhất để điền vào ( ).\n\n【Keyword】\nというように, 例示, 使用される\n\n【Câu chính / căn cứ】\n「『…』というように使用される」＝ được dùng theo kiểu như ví dụ đó.\n\n【Cách giải nhanh】\nVí dụ câu + bổ nghĩa động từ「使用される」→ trạng ngữ というように. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — dẫn ví dụ cách dùng, sửa động từ.\n2: Sai — というような cần danh từ sau (thường).\n3: Sai — dư「こと」, không tự nhiên.\n4: Sai — cấu trúc tính từ dư thừa/không khớp.\n\n【Chi tiết thêm】\nというように + V / というような + N."
+    },
+    {
+      "question_id": 7,
+      "context": "",
+      "question": "学校や病院では定期的に避難訓練が行われている。避難訓練を（ ）、火災などがあった ときに落ち着いて行動できるからだ。",
+      "options": [
+        "しておくには",
+        "しているとしても",
+        "しておくことで",
+        "しているかという"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · しておくことで\n\n【Dịch câu hỏi】\nTrường/bệnh viện diễn tập sơ tán định kỳ. Vì ( ) diễn tập trước, khi cháy có thể bình tĩnh hành động.\n\n【Dịch 4 đáp án】\n1. để làm trước thì (しておくには)\n2. dù đang làm (しているとしても)\n3. bằng việc làm sẵn (しておくことで)\n4. liệu có đang… (しているかという)\n\n【Dịch bài đọc】\nHãy chọn cụm thích hợp nhất để điền vào ( ).\n\n【Keyword】\nVておく, ことで, 原因・手段\n\n【Câu chính / căn cứ】\n「避難訓練をしておくことで、落ち着いて行動できる」.\n\n【Cách giải nhanh】\nPhương tiện/nguyên nhân dẫn đến kết quả tích cực → しておくことで. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — には thường “để làm A thì cần B”.\n2: Sai — としても = dù giả định.\n3: Đúng — bằng việc chuẩn bị trước.\n4: Sai — しているかという không hoàn chỉnh.\n\n【Chi tiết thêm】\nておく = làm sẵn; ことで = bằng việc…"
+    },
+    {
+      "question_id": 8,
+      "context": "",
+      "question": "明日、友達と映画を見に行くことになった。映画館で映画を見るのは、大学の時以来だから、約５年（ ）だ。",
+      "options": [
+        "まで",
+        "など",
+        "きり",
+        "ぶり"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · ぶり\n\n【Dịch câu hỏi】\n(Ngữ cảnh: lần cuối xem phim ở rạp hồi đại học) Đã khoảng 5 năm ( ).\n\n【Dịch 4 đáp án】\n1. đến tận (まで)\n2. v.v. / những thứ như (など)\n3. chỉ có vậy / từ đó không (きり)\n4. sau khoảng… mới lại (ぶり)\n\n【Keyword】\n期間＋ぶり\n\n【Câu chính / căn cứ】\n「約５年ぶりだ」＝ đã khoảng 5 năm rồi mới lại (làm việc đó).\n\n【Cách giải nhanh】\nKhoảng thời gian dài rồi làm lại → ぶり. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — まで không tạo nghĩa “sau X năm mới”.\n2: Sai — など liệt kê.\n3: Sai — きり thường「～たきり」= từ đó không…\n4: Đúng — X年ぶり.\n\n【Chi tiết thêm】\nCâu nguồn bị cắt phần đầu; mẫu「Nぶり」vẫn rõ."
+    },
+    {
+      "question_id": 9,
+      "context": "",
+      "question": "睡眠には、体や脳にたまった疲労をとる効果がある。睡眠時間を削ることは、体や脳を回復させる 大切な機会を奪うことに（ ）のだ。",
+      "options": [
+        "ほかならない",
+        "欠かせない",
+        "すぎない",
+        "限らない"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · ほかならない\n\n【Dịch câu hỏi】\nCắt giờ ngủ chính là ( ) tước đi cơ hội quan trọng để cơ thể/não hồi phục.\n\n【Dịch 4 đáp án】\n1. không gì khác ngoài / chính là (ほかならない)\n2. không thể thiếu (欠かせない)\n3. chẳng qua chỉ (すぎない)\n4. không giới hạn ở (限らない)\n\n【Dịch bài đọc】\nHãy chọn cụm thích hợp nhất để điền vào ( ).\n\n【Keyword】\n～にほかならない\n\n【Câu chính / căn cứ】\n「機会を奪うことにほかならない」＝ đúng là/không gì khác ngoài việc tước cơ hội đó.\n\n【Cách giải nhanh】\nNhấn mạnh đồng nhất A = B → にほかならない. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khẳng định mạnh bản chất hành động.\n2: Sai — 欠かせない cần chủ ngữ “thứ không thiếu”.\n3: Sai — にすぎない giảm nhẹ (“chỉ là”).\n4: Sai — に限らない = không chỉ giới hạn ở.\n\n【Chi tiết thêm】\nĐối lập sắc thái: ほかならない (nhấn mạnh) ↔ すぎない (giảm nhẹ)."
+    },
+    {
+      "question_id": 10,
+      "context": "",
+      "question": "木村：「山下さん、先ほどさくら銀行の南さんからお電話がありまして。今日中に連絡してほしい\n（ ）。\n山下：「はい、わかりました」",
+      "options": [
+        "ことになりました",
+        "とのことでした",
+        "と助かるのですが",
+        "ようにしてください"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · とのことでした\n\n【Dịch câu hỏi】\n(Công ty) Kimura: “Anh Yamashita, hồi nãy anh Minami ngân hàng Sakura gọi, muốn liên lạc trong hôm nay ( ).”\n\n【Dịch 4 đáp án】\n1. đã quyết định là… (ことになりました)\n2. (người ấy) nói rằng… (とのことでした)\n3. nếu… thì giúp tôi (と助かるのですが)\n4. hãy làm theo kiểu… (ようにしてください)\n\n【Dịch bài đọc】\nHội thoại công ty: truyền đạt lại lời nhắn điện thoại.\n\n【Keyword】\n～とのことでした, 伝言\n\n【Câu chính / căn cứ】\n「今日中に連絡してほしいとのことでした」＝ họ nói muốn được liên lạc trong hôm nay.\n\n【Cách giải nhanh】\nThuật lại lời người thứ ba lịch sự → とのことでした. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — ことになる = quyết định/thay đổi đã chốt (công ty/tổ chức).\n2: Đúng — truyền đạt nội dung lời nhắn.\n3: Sai — là lời nhờ của người nói, không phải thuật lại.\n4: Sai — ra lệnh/nhờ trực tiếp, không khớp vai truyền đạt.\n\n【Chi tiết thêm】\nMẫu văn phòng: 「～とのことです／とのことでした」."
+    },
+    {
+      "question_id": 11,
+      "context": "",
+      "question": "駅前に新しくできたカフェに友達を誘って行ってみたら、定休日だった。事前に確認しておく（ ）。",
+      "options": [
+        "しかなかった",
+        "ほどではなかった",
+        "べきだった",
+        "せいだった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · べきだった\n\n【Dịch câu hỏi】\nRủ bạn tới quán mới nhưng hôm đó nghỉ. Lẽ ra kiểm tra trước thì ( ).\n\n【Dịch 4 đáp án】\n1. しかなかった\n2. ほどではなかった\n3. べきだった\n4. せいだった\n\n【Keyword】\n～べきだった, 過去の義務・後悔\n\n【Câu chính / căn cứ】\n「事前に調べておくべきだった」\n\n【Cách giải nhanh】\nĐáng lẽ nên làm mà không làm → 「べきだった」. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — chỉ còn cách…\n2: Sai — không đến mức…\n3: Đúng.\n4: Sai — tại vì… (đổ lỗi).\n\n【Chi tiết thêm】\nべきだった vs ばよかった: cả hai hối tiếc; べき nhấn nghĩa vụ."
+    },
+    {
+      "question_id": 12,
+      "context": "",
+      "question": "（インタビューで）\n選手「今回優勝できたのは、多くの方に（ ）。本当にありがとうございました。」",
+      "options": [
+        "応援してくださったおかげです",
+        "応援していただいたおかげです",
+        "応援してくださったことだと思います",
+        "応援していただいたことだと思います"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 応援していただいたおかげです\n\n【Dịch câu hỏi】\nVĐV: “Lần này vô địch là nhờ nhiều người ( ). Xin cảm ơn.”\n\n【Dịch 4 đáp án】\n1. nhờ đã cổ vũ (くださったおかげです)\n2. nhờ được cổ vũ (いただいたおかげです)\n3. nghĩ là nhờ đã cổ vũ (くださったことだと思います)\n4. nghĩ là nhờ được cổ vũ (いただいたことだと思います)\n\n【Keyword】\nVていただく, おかげです, 謙譲\n\n【Câu chính / căn cứ】\n「多くの方に応援していただいたおかげです」.\n\n【Cách giải nhanh】\nNgười nói khiêm nhường nhận hành động từ người khác → ていただく + おかげです. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — くださる tôn kính hành động người khác, nhưng với「多くの方に」thường dùng いただく phía người nói.\n2: Đúng — khiêm nhường + nguyên nhân tích cực.\n3: Sai — 「～ことだと思います」không phải mẫu cảm ơn nhân quả chuẩn.\n4: Sai — cùng lý do: thiếu おかげです / không tự nhiên.\n\n【Chi tiết thêm】\nNhờ ơn: おかげです; quy lỗi: せいだ. Tôn kính vs khiêm nhường: くださる / いただく."
+    }
+  ]
+}

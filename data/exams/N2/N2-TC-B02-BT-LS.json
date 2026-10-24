@@ -1,0 +1,75 @@
+{
+  "id": "N2-TC-B02-BT-LS",
+  "code": "TC-B02-LS",
+  "title": "Bài 2 · Nghe hiểu Mondai 1 · Bổ trợ Nghe hiểu",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "listening",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "Nghe số 1: Nữ du học sinh sẽ phụ trách nói về nội dung nào trong buổi định hướng tân sinh?",
+      "options": [
+        "サークル活動",
+        "アルバイトの選び方",
+        "勉強の工夫",
+        "就職のための準備"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 勉強の工夫\n\n【Dịch câu hỏi】\nNghe số 1: Nữ du học sinh sẽ phụ trách nói về nội dung nào trong buổi định hướng tân sinh?\n\n【Dịch 4 đáp án】\n1. Hoạt động câu lạc bộ\n2. Cách chọn việc làm thêm\n3. Mẹo/cách học tập\n4. Chuẩn bị xin việc\n\n【Keyword】\nオリエンテーション, 担当テーマ, 勉強の工夫\n\n【Câu chính / căn cứ】\n勉強の工夫について話す\n\n【Cách giải nhanh】\nPhần được phân công là kinh nghiệm/cách học hiệu quả. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — chủ đề khác, không phải phần cô phụ trách.\n2: Sai — không phải phần được giao.\n3: Đúng — 勉強の工夫.\n4: Sai — chủ đề khác.\n\n【Chi tiết thêm】\nBám đúng phần 「あなたは〜を担当」 trong hội thoại.",
+      "transcript": "オリエンテーション, 担当テーマ, 勉強の工夫"
+    },
+    {
+      "question_id": 2,
+      "question": "2 番\n(Nghe số 2: Nhân vật sẽ làm gì trước tiên ở ruộng?)",
+      "options": [
+        "ねぎを収穫する",
+        "雑草をとる",
+        "ほうれんそうの種をまく",
+        "土をたがやす"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 雑草をとる\n\n【Dịch câu hỏi】\nNghe số 2: Nhân vật sẽ làm gì trước tiên ở ruộng?\n\n【Dịch 4 đáp án】\n1. Thu hoạch hành\n2. Nhổ cỏ dại\n3. Gieo hạt rau bina\n4. Xới đất\n\n【Keyword】\nまず, 雑草, 畑仕事の順番\n\n【Câu chính / căn cứ】\nまず雑草をとる\n\n【Cách giải nhanh】\nViệc được chốt làm trước là nhổ cỏ. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — thu hoạch hành không phải bước đầu.\n2: Đúng — nhổ cỏ trước.\n3: Sai — gieo hạt ở bước/khác thời điểm.\n4: Sai — xới đất không phải hành động đầu tiên được chốt.\n\n【Chi tiết thêm】\nListening trình tự công việc: nghe 「まず／最初に」.",
+      "transcript": "まず, 雑草, 畑仕事の順番"
+    },
+    {
+      "question_id": 3,
+      "question": "3 番\n(Nghe số 3: Người đăng ký khóa học sẽ làm gì trước tiên?)",
+      "options": [
+        "ホームページから申し込む",
+        "ふりこみ先を確認する",
+        "銀行で受講料を支払う",
+        "クレジットカードを作る"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · ふりこみ先を確認する\n\n【Dịch câu hỏi】\nNghe số 3: Người đăng ký khóa học sẽ làm gì trước tiên?\n\n【Dịch 4 đáp án】\n1. Đăng ký từ trang web\n2. Xác nhận nơi/tài khoản chuyển khoản\n3. Thanh toán học phí tại ngân hàng\n4. Làm thẻ tín dụng\n\n【Keyword】\n振込先, 確認してから\n\n【Câu chính / căn cứ】\nふりこみ先を確認する\n\n【Cách giải nhanh】\nBước tiếp theo được chỉ: kiểm tra thông tin chuyển khoản trước. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải hành động được yêu cầu ngay.\n2: Đúng — xác nhận tài khoản/nơi chuyển khoản.\n3: Sai — thanh toán chưa phải bước đầu.\n4: Sai — không yêu cầu làm thẻ tín dụng.\n\n【Chi tiết thêm】\nThường nghe: 「振込先を確認のうえ」 rồi mới chuyển tiền.",
+      "transcript": "振込先, 確認してから"
+    },
+    {
+      "question_id": 4,
+      "question": "4 番\n(Nghe số 4: Cần thay đổi điểm nào của hệ thống chiếu sáng?)",
+      "options": [
+        "しょうめい器具の位置",
+        "しょうめい器具のそざい",
+        "しょうめいの光の強さ",
+        "しょうめいの明かりの色"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · しょうめい器具のそざい\n\n【Dịch câu hỏi】\nNghe số 4: Cần thay đổi điểm nào của hệ thống chiếu sáng?\n\n【Dịch 4 đáp án】\n1. Vị trí thiết bị chiếu sáng\n2. Vật liệu của thiết bị chiếu sáng\n3. Cường độ ánh sáng\n4. Màu ánh sáng\n\n【Keyword】\n素材, 照明器具, 変更点\n\n【Câu chính / căn cứ】\n照明器具の素材を変更する\n\n【Cách giải nhanh】\nKết luận cuối: điều chỉnh chất liệu thiết bị. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — vị trí được bàn nhưng không phải hạng mục cuối cần đổi.\n2: Đúng — đổi vật liệu (そざい).\n3: Sai — cường độ không phải kết luận cuối.\n4: Sai — màu ánh sáng không phải điểm cần đổi.\n\n【Chi tiết thêm】\nListening thảo luận: chọn ý được chốt ở cuối, không phải ý giữa chừng.",
+      "transcript": "素材, 照明器具, 変更点"
+    },
+    {
+      "question_id": 5,
+      "question": "5 番\n(Nghe số 5: Nhân vật sẽ làm gì tiếp theo tại địa điểm tổ chức?)",
+      "options": [
+        "机といすをならべる",
+        "パソコンを設置する",
+        "机に封筒を置く",
+        "来場者の案内をする"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 来場者の案内をする\n\n【Dịch câu hỏi】\nNghe số 5: Nhân vật sẽ làm gì tiếp theo tại địa điểm tổ chức?\n\n【Dịch 4 đáp án】\n1. Xếp bàn ghế\n2. Lắp máy tính\n3. Đặt phong bì lên bàn\n4. Hướng dẫn khách đến tham dự\n\n【Keyword】\n来場者の案内, ほかの作業は完了／担当済み\n\n【Câu chính / căn cứ】\n来場者の案内をする\n\n【Cách giải nhanh】\nCác khâu chuẩn bị đã có người làm/xong → nhiệm vụ còn lại là hướng dẫn khách. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — xếp bàn ghế đã xử lý/không còn là việc của nhân vật.\n2: Sai — lắp máy đã có người lo.\n3: Sai — đặt phong bì đã xong hoặc không phải việc tiếp theo.\n4: Đúng — hướng dẫn khách đến.\n\n【Chi tiết thêm】\nLoại trừ việc 「もう終わった／誰かがやる」 rồi chọn việc còn lại.",
+      "transcript": "来場者の案内, ほかの作業は完了／担当済み"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "N2-TC-B02-BT-VC",
+  "code": "TC-B02-VC",
+  "title": "Bài 2 · Nghe hiểu Mondai 1 · Bổ trợ Từ vựng",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "vocabulary",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "",
+      "question": "彼は兄に対抗（ ）を持っているようだ。",
+      "options": [
+        "心",
+        "欲",
+        "願",
+        "熱"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 心\n\n【Dịch câu hỏi】\nĐiền kanji/từ: Anh ấy có vẻ mang tâm lý cạnh tranh với anh trai.\n\n【Dịch 4 đáp án】\n1. 心\n2. 欲\n3. 願\n4. 熱\n\n【Keyword】\n対抗心, 複合語\n\n【Câu chính / căn cứ】\n兄に対抗心を持っている。\n\n【Cách giải nhanh】\nTừ cố định 「対抗心」. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 対抗心.\n2: Sai — 「対抗欲」 không tự nhiên.\n3: Sai — 「対抗願」 không tồn tại.\n4: Sai — 「対抗熱」 không phải từ chuẩn.\n\n【Chi tiết thêm】\nTương tự: 競争心、敵対心。"
+    },
+    {
+      "question_id": 2,
+      "context": "",
+      "question": "引っ越しのための（ ）手続きをしなければならない。",
+      "options": [
+        "総",
+        "複",
+        "多",
+        "諸"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 諸\n\n【Dịch câu hỏi】\nĐiền: Tôi phải làm các thủ tục cần thiết cho việc chuyển nhà.\n\n【Dịch 4 đáp án】\n1. 総\n2. 複\n3. 多\n4. 諸\n\n【Keyword】\n諸手続き, いろいろな〜\n\n【Câu chính / căn cứ】\n引っ越しのための諸手続きをしなければならない。\n\n【Cách giải nhanh】\n「諸 + danh từ」= các loại… → 「諸手続き」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「総手続き」 không chuẩn.\n2: Sai — 「複」 không ghép kiểu này.\n3: Sai — 「多手続き」 không dùng.\n4: Đúng — 諸手続き.\n\n【Chi tiết thêm】\nCùng nhóm: 諸問題、諸事情、諸君。"
+    },
+    {
+      "question_id": 3,
+      "context": "",
+      "question": "買い物をしている二人（ ）にインタビューをしました。",
+      "options": [
+        "出かけ",
+        "連れ",
+        "会い",
+        "集まり"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 連れ\n\n【Dịch câu hỏi】\nĐiền: Tôi đã phỏng vấn hai người đang đi mua sắm cùng nhau.\n\n【Dịch 4 đáp án】\n1. 出かけ\n2. 連れ\n3. 会い\n4. 集まり\n\n【Keyword】\n二人連れ, 〜人連れ\n\n【Câu chính / căn cứ】\n買い物をしている二人連れにインタビューをした。\n\n【Cách giải nhanh】\n「N人連れ」= nhóm N người đi cùng. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — 「二人出かけ」 không thành từ.\n2: Đúng — 二人連れ.\n3: Sai — 「二人会い」 không tự nhiên.\n4: Sai — 「二人集まり」 không dùng.\n\n【Chi tiết thêm】\n「親子連れ」「三人連れ」 cùng mẫu."
+    },
+    {
+      "question_id": 4,
+      "context": "",
+      "question": "アンケートでは、質問に（ ）回答の人もいた。",
+      "options": [
+        "無",
+        "空",
+        "欠",
+        "失"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 無\n\n【Dịch câu hỏi】\nĐiền: Trong khảo sát cũng có người không trả lời câu hỏi.\n\n【Dịch 4 đáp án】\n1. 無\n2. 空\n3. 欠\n4. 失\n\n【Keyword】\n無回答, アンケート用語\n\n【Câu chính / căn cứ】\n質問に無回答の人もいた。\n\n【Cách giải nhanh】\nThuật ngữ khảo sát 「無回答」. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 無回答.\n2: Sai — 「空回答」 không chuẩn.\n3: Sai — 「欠回答」 không dùng.\n4: Sai — 「失回答」 không tồn tại.\n\n【Chi tiết thêm】\nTương tự: 無関心、無関係、無関心。"
+    },
+    {
+      "question_id": 5,
+      "context": "",
+      "question": "この本には海外にある日本（ ）の家がたくさん載っている。",
+      "options": [
+        "気",
+        "類",
+        "風",
+        "状"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 風\n\n【Dịch câu hỏi】\nĐiền: Cuốn sách này đăng nhiều ngôi nhà mang phong cách Nhật ở nước ngoài.\n\n【Dịch 4 đáp án】\n1. 気\n2. 類\n3. 風\n4. 状\n\n【Keyword】\n日本風, 〜風＝スタイル\n\n【Câu chính / căn cứ】\n海外にある日本風の家\n\n【Cách giải nhanh】\n「〜風」= phong cách/kiểu. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 「日本気」 không có nghĩa phong cách.\n2: Sai — 「日本類」 không hợp.\n3: Đúng — 日本風.\n4: Sai — 「日本状」 không dùng cho phong cách nhà.\n\n【Chi tiết thêm】\n「中国風」「ヨーロッパ風」 cùng mẫu."
+    },
+    {
+      "question_id": 6,
+      "context": "",
+      "question": "壁（ ）のソファーに座る。",
+      "options": [
+        "所",
+        "際",
+        "辺",
+        "域"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 際\n\n【Dịch câu hỏi】\nĐiền: Ngồi xuống chiếc sofa sát/bên cạnh tường.\n\n【Dịch 4 đáp án】\n1. 所\n2. 際\n3. 辺\n4. 域\n\n【Keyword】\n壁際, 〜際＝端・そば\n\n【Câu chính / căn cứ】\n壁際のソファーに座る。\n\n【Cách giải nhanh】\n「壁際」= mép tường/chỗ sát tường. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — 「壁所」 không tự nhiên.\n2: Đúng — 壁際.\n3: Sai — 「壁辺」 ít dùng/không chuẩn.\n4: Sai — 「壁域」 không phải cách nói vị trí này.\n\n【Chi tiết thêm】\n「窓際」「崖際」 cùng kiểu 「〜際」."
+    },
+    {
+      "question_id": 7,
+      "context": "",
+      "question": "（ ）制度には、大きな問題があります。",
+      "options": [
+        "近",
+        "在",
+        "常",
+        "現"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 現\n\n【Dịch câu hỏi】\nĐiền: Chế độ hiện hành có một vấn đề lớn.\n\n【Dịch 4 đáp án】\n1. 近\n2. 在\n3. 常\n4. 現\n\n【Keyword】\n現制度, 現〜＝いまの\n\n【Câu chính / căn cứ】\n現制度には、大きな問題があります。\n\n【Cách giải nhanh】\n「現 + N」= hiện tại/hiện hành → 「現制度」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「近制度」 không chuẩn.\n2: Sai — 「在制度」 không dùng.\n3: Sai — 「常制度」 không hợp nghĩa hiện hành.\n4: Đúng — 現制度.\n\n【Chi tiết thêm】\n「現在」「現状」「現行」 cùng họ 「現」."
+    },
+    {
+      "question_id": 8,
+      "context": "",
+      "question": "伯父は、電車の中で財布を盗まれてから用心（ ）なった。",
+      "options": [
+        "濃く",
+        "強く",
+        "深く",
+        "高く"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 深く\n\n【Dịch câu hỏi】\nĐiền: Từ sau khi bị trộm ví trên tàu, bác tôi trở nên cảnh giác hơn.\n\n【Dịch 4 đáp án】\n1. 濃く\n2. 強く\n3. 深く\n4. 高く\n\n【Keyword】\n用心深い, 用心深くなる\n\n【Câu chính / căn cứ】\n用心深くなった。\n\n【Cách giải nhanh】\nCụm cố định 「用心深い」 → liên từ 「深く」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「用心濃い」 không có.\n2: Sai — 「用心強い」 không chuẩn (dù 「強い」 hay gặp chỗ khác).\n3: Đúng — 用心深い／用心深くなる.\n4: Sai — 「用心高い」 không dùng.\n\n【Chi tiết thêm】\nTính từ đuôi: 欲深い、情け深い — dùng 「深い」."
+    },
+    {
+      "question_id": 9,
+      "context": "",
+      "question": "このアンケートでは、（ ）団体の活動についてお尋ねします。",
+      "options": [
+        "貴",
+        "尊",
+        "敬",
+        "偉"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 貴\n\n【Dịch câu hỏi】\nĐiền: Trong bảng khảo sát này, chúng tôi xin hỏi về hoạt động của quý tổ chức.\n\n【Dịch 4 đáp án】\n1. 貴\n2. 尊\n3. 敬\n4. 偉\n\n【Keyword】\n貴団体, 相手側への敬称\n\n【Câu chính / căn cứ】\n貴団体の活動についてお尋ねします。\n\n【Cách giải nhanh】\nGọi tổ chức đối phương trang trọng → 「貴団体」.\n\n【Phân tích / loại đáp án】\n1: Đúng — 貴団体.\n2: Sai — 「尊団体」 không phải tiền tố chuẩn.\n3: Sai — 「敬団体」 không dùng.\n4: Sai — 「偉団体」 mang nghĩa 「vĩ đại」, không phải kính xưng cố định.\n\n【Chi tiết thêm】\n「貴社」「貴校」「貴殿」 cùng 「貴〜」."
+    }
+  ]
+}

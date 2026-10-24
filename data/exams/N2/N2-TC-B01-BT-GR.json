@@ -1,0 +1,166 @@
+{
+  "id": "N2-TC-B01-BT-GR",
+  "code": "TC-B01-GR",
+  "title": "Bài 1 · Đọc hiểu Đoản văn · Bổ trợ Ngữ pháp",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "grammar",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "",
+      "question": "私の3 人の兄はみんな料理が苦手で、一番上の兄（ ）、卵もうまく割れない。",
+      "options": [
+        "にとって",
+        "にしては",
+        "に比べて",
+        "に至っては"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · に至っては\n\n【Dịch câu hỏi】\nĐiền từ thích hợp nhất vào ( ): Ba người anh của tôi đều nấu kém, riêng đến anh cả thì ngay cả đập trứng cũng không khéo.\n\n【Dịch 4 đáp án】\n1. にとって (đối với…)\n2. にしては (so với mức/kỳ vọng thì…)\n3. に比べて (so với…)\n4. に至っては (đến riêng trường hợp… thì thậm chí…)\n\n【Keyword】\nに至っては, 極端な例を取り上げる, 〜も〜ない\n\n【Câu chính / căn cứ】\n一番上の兄に至っては、卵もうまく割れない。\n\n【Cách giải nhanh】\nTừ nhóm 「みんな苦手」 nêu trường hợp cực đoan nhất → 「に至っては」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「にとって」= đối với ai đó; không nêu cực đoan trong nhóm.\n2: Sai — 「にしては」 so với tiêu chuẩn (vd. dù là X mà…); không hợp.\n3: Sai — 「に比べて」 cần đối tượng so sánh rõ, cấu trúc khác.\n4: Đúng — nêu trường hợp đáng nói/cực đoan nhất trong nhóm.\n\n【Chi tiết thêm】\nMẫu: Aはみんな〜で、Bに至っては〜もできない。"
+    },
+    {
+      "question_id": 2,
+      "context": "",
+      "question": "来週の説明会に参加するしない（ ）、この書類は必ず読んでおいてください。",
+      "options": [
+        "とはいえ",
+        "としても",
+        "に限らず",
+        "にかかわらず"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · にかかわらず\n\n【Dịch câu hỏi】\nĐiền từ thích hợp: Bất kể có tham gia buổi giới thiệu tuần sau hay không, hãy nhất định đọc trước tài liệu này.\n\n【Dịch 4 đáp án】\n1. とはいえ (dẫu nói vậy…)\n2. としても (giả sử/dù coi là…)\n3. に限らず (không chỉ… mà còn…)\n4. にかかわらず (bất kể… hay không…)\n\n【Keyword】\nVるVないにかかわらず, 参加するしない\n\n【Câu chính / căn cứ】\n参加するしないにかかわらず、この書類は必ず読んでおいてください。\n\n【Cách giải nhanh】\nCặp đối lập 「する／しない」 + bất kể → 「にかかわらず」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「とはいえ」 nối nhượng bộ sau khi thừa nhận một ý.\n2: Sai — 「としても」 cần giả định hoàn chỉnh, không gắn cặp するしない kiểu này.\n3: Sai — 「に限らず」= không chỉ giới hạn ở…, không hợp cấu trúc hai khả năng.\n4: Đúng — bất kể tham gia hay không.\n\n【Chi tiết thêm】\nNhớ cặp: するしない／いかん／天候の良し悪し + にかかわらず。"
+    },
+    {
+      "question_id": 3,
+      "context": "",
+      "question": "駅前に新しいラーメン屋がオープンしていた。（ ）できたのだろう。",
+      "options": [
+        "いまにも",
+        "まさか",
+        "いつのまに",
+        "そのうち"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · いつのまに\n\n【Dịch câu hỏi】\nĐiền từ: Trước ga đã mở quán ramen mới. Không biết nó được mở từ lúc nào nhỉ.\n\n【Dịch 4 đáp án】\n1. いまにも (sắp… ngay)\n2. まさか (không lẽ…)\n3. いつのまに (lúc nào không hay…)\n4. そのうち (rồi một lúc nào đó)\n\n【Keyword】\nいつのまに, 気づかないうちに\n\n【Câu chính / căn cứ】\nいつのまにできたのだろう。\n\n【Cách giải nhanh】\nViệc đã xảy ra mà người nói không biết lúc nào → 「いつのまに」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「いまにも」 chỉ việc sắp xảy ra sắp tới.\n2: Sai — 「まさか」 biểu thị bất ngờ/không tin; thiếu cấu trúc đủ.\n3: Đúng — 「いつのまに（か）できた」.\n4: Sai — 「そのうち」 hướng tương lai 「rồi sẽ…」.\n\n【Chi tiết thêm】\nThường gặp dạng 「いつのまにか」; ở đây rút gọn trước 「できた」."
+    },
+    {
+      "question_id": 4,
+      "context": "",
+      "question": "この植物は、寒さに強い（ ）、暑さや湿気に弱い。",
+      "options": [
+        "反面",
+        "点で",
+        "ものを",
+        "からといって"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 反面\n\n【Dịch câu hỏi】\nĐiền từ: Loài cây này chịu lạnh tốt, nhưng mặt khác lại yếu trước nóng và ẩm.\n\n【Dịch 4 đáp án】\n1. 反面 (mặt khác / trái lại)\n2. 点で (ở điểm…)\n3. ものを (dẫu… mà… / tiếc nuối)\n4. からといって (không phải cứ vì… mà…)\n\n【Keyword】\n反面, 対照的な性質\n\n【Câu chính / căn cứ】\n寒さに強い反面、暑さや湿気に弱い。\n\n【Cách giải nhanh】\nHai tính chất trái ngược của cùng đối tượng → 「反面」.\n\n【Phân tích / loại đáp án】\n1: Đúng — nối hai mặt tương phản.\n2: Sai — 「点で」 nêu phương diện, không nối cặp mạnh/yếu kiểu này.\n3: Sai — 「ものを」 thường tiếc/trách; cấu trúc khác.\n4: Sai — 「からといって」 cần vế sau phủ định suy luận.\n\n【Chi tiết thêm】\nTương tự 「一方（で）」 khi nêu hai mặt của một sự vật."
+    },
+    {
+      "question_id": 5,
+      "context": "",
+      "question": "A:「今度北町に行くんだけど、おいしいレストラン、知らない?」 B:「すし屋（ ）、1軒知ってるよ。」",
+      "options": [
+        "でいいし",
+        "でよければ",
+        "がいいと",
+        "がよくても"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · でよければ\n\n【Dịch câu hỏi】\nB: 「Nếu quán sushi cũng được thì tôi biết một quán đấy.」 — Điền phần thích hợp.\n\n【Dịch 4 đáp án】\n1. でいいし\n2. でよければ\n3. がいいと\n4. がよくても\n\n【Keyword】\nNでよければ, 提案・条件付き申し出\n\n【Câu chính / căn cứ】\nすし屋でよければ、1軒知ってるよ。\n\n【Cách giải nhanh】\nĐưa gợi ý có điều kiện 「nếu N ổn」 → 「Nでよければ」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「でいいし」 không thành cách nói tự nhiên ở đây.\n2: Đúng — mẫu cố định đề xuất có điều kiện.\n3: Sai — 「がいいと」 cấu trúc lệch, không nối mượt với 「1軒知ってる」.\n4: Sai — 「がよくても」 nghĩa nhượng bộ, không hợp.\n\n【Chi tiết thêm】\nCùng họ hàng: 「これでよければ」「私でよければ」."
+    },
+    {
+      "question_id": 6,
+      "context": "",
+      "question": "懐中電灯を（ ）、電池が切れていて、つかなかった。",
+      "options": [
+        "使おうとしたら",
+        "使うようにしたら",
+        "使おうとするなら",
+        "使うようにするなら"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 使おうとしたら\n\n【Dịch câu hỏi】\nĐiền từ: Khi tôi định dùng đèn pin thì pin đã hết nên nó không sáng.\n\n【Dịch 4 đáp án】\n1. 使おうとしたら\n2. 使うようにしたら\n3. 使おうとするなら\n4. 使うようにするなら\n\n【Keyword】\nVようとしたら, しようとした瞬間に\n\n【Câu chính / căn cứ】\n懐中電灯を使おうとしたら、電池が切れていて、つかなかった。\n\n【Cách giải nhanh】\nĐúng lúc định làm thì phát hiện tình huống khác (đã xảy ra) → 「Vようとしたら」.\n\n【Phân tích / loại đáp án】\n1: Đúng — định dùng thì mới biết pin hết.\n2: Sai — 「ようにしたら」= tạo thói quen/cố dùng theo cách nào đó.\n3: Sai — 「なら」 giả định điều kiện, không hợp sự việc đã xảy.\n4: Sai — cũng là điều kiện giả định, không khớp kết quả đã rồi.\n\n【Chi tiết thêm】\nPhân biệt: 〜たら (đã xảy ra) vs 〜なら (giả định/lời khuyên)."
+    },
+    {
+      "question_id": 7,
+      "context": "",
+      "question": "（マラソン大会のホームページで） 周辺住民の方の迷惑になりますので、指定の駐車場以外には（ ）、お願いいたします。",
+      "options": [
+        "駐車なさらないよう",
+        "駐車していただくよう",
+        "駐車なさらないため",
+        "駐車していただくため"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 駐車なさらないよう\n\n【Dịch câu hỏi】\n(Trang marathon) Vì gây phiền cư dân xung quanh, kính mong quý vị không đỗ xe ngoài bãi được chỉ định. — Điền ( ).\n\n【Dịch 4 đáp án】\n1. 駐車なさらないよう\n2. 駐車していただくよう\n3. 駐車なさらないため\n4. 駐車していただくため\n\n【Keyword】\nVないようお願いいたします, なさらない＝しない（尊敬）\n\n【Câu chính / căn cứ】\n指定の駐車場以外には駐車なさらないよう、お願いいたします。\n\n【Cách giải nhanh】\nXin đừng làm → 「Vないようお願い」; kính ngữ 「なさらない」.\n\n【Phân tích / loại đáp án】\n1: Đúng — 「đừng đỗ」 ngoài bãi chỉ định.\n2: Sai — 「駐車していただく」= xin hãy đỗ, ngược nghĩa (đỗ ngoài bãi).\n3: Sai — 「ため」 chỉ mục đích/nguyên nhân, không kết hợp với 「お願いいたします」 kiểu này.\n4: Sai — vừa sai 「ため」 vừa sai hướng nghĩa 「hãy đỗ」.\n\n【Chi tiết thêm】\nMẫu trang trọng: 「〜ないよう（に）お願いいたします」."
+    },
+    {
+      "question_id": 8,
+      "context": "",
+      "question": "林選手がオリンピックに出場できるかどうかは、今度の大会の結果（ ）。",
+      "options": [
+        "のみだ",
+        "次第だ",
+        "にほかならない",
+        "でも不思議ではない"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 次第だ\n\n【Dịch câu hỏi】\nĐiền từ: Việc vận động viên Hayashi có tham dự Olympic hay không phụ thuộc vào kết quả giải sắp tới.\n\n【Dịch 4 đáp án】\n1. のみだ (chỉ có…)\n2. 次第だ (tùy thuộc vào…)\n3. にほかならない (không gì khác chính là…)\n4. でも不思議ではない (cũng không lạ nếu…)\n\n【Keyword】\nN次第だ, 〜かどうかは〜次第\n\n【Câu chính / căn cứ】\n出場できるかどうかは、今度の大会の結果次第だ。\n\n【Cách giải nhanh】\nKết quả tùy thuộc vào N → 「N次第だ」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「のみだ」= chỉ có thế, không biểu thị phụ thuộc.\n2: Đúng — phụ thuộc kết quả giải đấu.\n3: Sai — 「にほかならない」 khẳng định bản chất sự việc.\n4: Sai — 「でも不思議ではない」= cũng chẳng lạ, nghĩa khác.\n\n【Chi tiết thêm】\n「すべては君の努力次第だ」 cùng mẫu."
+    },
+    {
+      "question_id": 9,
+      "context": "",
+      "question": "最近、パソコンを使っていると、突然画面が真っ暗（ ）。故障しているのかもしれない。",
+      "options": [
+        "にすることがある",
+        "にしたところだ",
+        "になることがある",
+        "になったところだ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · になることがある\n\n【Dịch câu hỏi】\nĐiền từ: Gần đây khi dùng máy tính, thỉnh thoảng màn hình đột nhiên tối đen. Có lẽ máy hỏng.\n\n【Dịch 4 đáp án】\n1. にすることがある\n2. にしたところだ\n3. になることがある\n4. になったところだ\n\n【Keyword】\n真っ暗になる, ことがある＝たまに起きる\n\n【Câu chính / căn cứ】\n突然画面が真っ暗になることがある。\n\n【Cách giải nhanh】\nTự chuyển trạng thái 「になる」 + thỉnh thoảng 「ことがある」 → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 「にする」= chủ động làm cho…; màn hình không bị người nói làm tối.\n2: Sai — 「ところだ」 chỉ thời điểm cụ thể, không hợp hiện tượng lặp.\n3: Đúng — tự trở nên tối, thỉnh thoảng xảy ra.\n4: Sai — 「〜たところだ」= vừa mới…, không khớp 「突然」「ときどき」.\n\n【Chi tiết thêm】\n「ことがある」 sau động từ từ điển = đôi khi xảy ra."
+    },
+    {
+      "question_id": 10,
+      "context": "",
+      "question": "あのときの友人の言葉は、夢を諦めそうになっていた私にもう一度頑張ろうと（ ）。",
+      "options": [
+        "思ってくれた",
+        "思ってほしかった",
+        "思わせてくれた",
+        "思わせてほしかった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 思わせてくれた\n\n【Dịch câu hỏi】\nĐiền từ: Lời bạn lúc ấy đã khiến tôi — khi sắp bỏ ước mơ — nghĩ rằng sẽ cố thêm lần nữa.\n\n【Dịch 4 đáp án】\n1. 思ってくれた\n2. 思ってほしかった\n3. 思わせてくれた\n4. 思わせてほしかった\n\n【Keyword】\nVさせてくれる, 使役＋授受\n\n【Câu chính / căn cứ】\nもう一度頑張ろうと思わせてくれた。\n\n【Cách giải nhanh】\nLời nói tạo tác động có lợi, khiến tôi nảy sinh ý nghĩ → 「思わせてくれた」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「思ってくれた」= bạn nghĩ giúp/cho tôi; chủ thể suy nghĩ đổi thành bạn.\n2: Sai — 「ほしかった」 chỉ mong muốn, không nói đã xảy ra.\n3: Đúng — khiến tôi nghĩ (sử dịch) + nhận ơn.\n4: Sai — chỉ mong được khiến nghĩ, không khẳng định kết quả.\n\n【Chi tiết thêm】\n「勇気を出させてくれた」「気づかせてくれた」 cùng kiểu."
+    },
+    {
+      "question_id": 11,
+      "context": "",
+      "question": "秘書:「では、私が取って（ ）。」",
+      "options": [
+        "おります",
+        "まいります",
+        "くださいます",
+        "いらっしゃいます"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · まいります\n\n【Dịch câu hỏi】\nThư ký: 「Vậy thì tôi sẽ đi lấy ạ.」 — Điền phần kính/khiêm nhường thích hợp.\n\n【Dịch 4 đáp án】\n1. おります\n2. まいります\n3. くださいます\n4. いらっしゃいます\n\n【Keyword】\n取ってまいります, 謙譲語, 行く・来る\n\n【Câu chính / căn cứ】\nでは、私が取ってまいります。\n\n【Cách giải nhanh】\nKhiêm nhường 「đi lấy rồi về」 của bản thân → 「まいります」.\n\n【Phân tích / loại đáp án】\n1: Sai — 「おります」= đang ở/có (khiêm), không thay 「行く」.\n2: Đúng — 「取ってまいります」.\n3: Sai — 「くださいます」 tôn kính hành động của người khác.\n4: Sai — 「いらっしゃいます」 tôn kính đi/đến/ở của người khác.\n\n【Chi tiết thêm】\nVới cấp trên: hành động của mình dùng khiêm nhường, không dùng tôn kính."
+    },
+    {
+      "question_id": 12,
+      "context": "",
+      "question": "店員:「お電話ありがとうございます。さくら美容院です。」 田中:「あ、今日の7 時に予約している田中ですが、ちょっと仕事が長引いて・・・。できたら、 8 時に変更して（ ）。」 店員:「はい、大丈夫ですよ。」",
+      "options": [
+        "もらったらいかがですか",
+        "もらうのではないでしょうか",
+        "もらわなければなりませんか",
+        "もらえるとありがたいんですが"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · もらえるとありがたいんですが\n\n【Dịch câu hỏi】\nTanaka gọi đổi lịch 7h → 8h. Điền lời nhờ lịch sự thích hợp.\n\n【Dịch 4 đáp án】\n1. もらったらいかがですか\n2. もらうのではないでしょうか\n3. もらわなければなりませんか\n4. もらえるとありがたいんですが\n\n【Dịch bài đọc】\nNhân viên: Cảm ơn đã gọi, salon Sakura ạ. Tanaka: À, tôi là Tanaka đã đặt 7 giờ hôm nay, nhưng việc hơi kéo dài… Nếu được thì xin đổi sang 8 giờ（　）. Nhân viên: Vâng, được ạ.\n\n【Keyword】\n〜てもらえるとありがたいんですが, 依頼・婉曲\n\n【Câu chính / căn cứ】\n8時に変更してもらえるとありがたいんですが。\n\n【Cách giải nhanh】\nNhờ mềm: 「nếu được làm giúp thì rất cảm kích」 → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 「いかがですか」 là gợi ý/khuyên đối phương, không phải xin nhờ.\n2: Sai — 「のではないでしょうか」 là suy đoán.\n3: Sai — hỏi 「có bắt buộc phải nhờ đổi không」 — lệch ý.\n4: Đúng — lời nhờ lịch sự, hợp thoại đổi lịch.\n\n【Chi tiết thêm】\nBiến thể: 「〜ていただけますと幸いです」."
+    }
+  ]
+}

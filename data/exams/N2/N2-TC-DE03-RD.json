@@ -1,0 +1,270 @@
+{
+  "id": "N2-TC-DE03-RD",
+  "code": "TC-DE03-RD",
+  "title": "Đề thực chiến 3 · Đọc hiểu",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 52,
+      "context": "(1)\n人間は「私」として生きるのですが、よく言われるように「私」とは、「あなた」がいて初めてその像を結びます。これは、「他人の評価によって自分が決まる」ということではなく、「他人と自分の違いを通して初めて、自分というものがどういうものかがわかる」ということです。\n他人との好みの違いや意見の対立。そういうものを通して初めて、自分とは何が好きで何が嫌で何を支えにしているのかがわかるということです。それは、他者との付き合いなしに生まれることはありません。\n（注1）像を結ぶ：ここでは、姿がわかる",
+      "question": "筆者の考えに合うのはどれか。",
+      "options": [
+        "自分がどういう人間かは、他者とのかかわりがなければわからない。",
+        "相手がどういう人間かは、自分との好みの違いを知ればわかる。",
+        "他者からの評価がなければ、自分がどういう人間かわからない。",
+        "他者との付き合いを通して、自分への評価がわかる。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 自分がどういう人間かは、他者とのかかわりがなければわからない。\n\n【Dịch câu hỏi】\nĐọc hiểu: Ý nào khớp suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Nếu không có tương tác với người khác thì không biết mình là người thế nào.\n2. Biết khác biệt sở thích với mình thì sẽ hiểu đối phương là người thế nào.\n3. Nếu không có đánh giá từ người khác thì không biết mình là ai.\n4. Qua giao tiếp với người khác sẽ biết được đánh giá về bản thân.\n\n【Dịch bài đọc】\nCon người sống như một “tôi”, nhưng như thường nói, “tôi” chỉ hiện hình khi có “bạn”. Điều này không có nghĩa là “bản thân do đánh giá của người khác quyết định”, mà là “chỉ thông qua khác biệt giữa mình và người khác, ta mới hiểu mình là thế nào”. Khác biệt sở thích hay đối lập ý kiến — nhờ đó mới biết mình thích gì, ghét gì, lấy gì làm chỗ dựa. Điều đó không sinh ra nếu không có giao tiếp với người khác.\n\n【Keyword】\n他人との違い, 自分というものがわかる, 評価ではない\n\n【Câu chính / căn cứ】\n「他人と自分の違いを通して初めて、自分というものがどういうものかがわかる」\n\n【Cách giải nhanh】\nHiểu bản thân nhờ khác biệt/tương tác — không phải nhờ đánh giá. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp lập luận chính.\n2: Sai — mục tiêu bài là hiểu MÌNH, không phải hiểu đối phương.\n3: Sai — bài phủ định 「他人の評価によって自分が決まる」.\n4: Sai — không phải để biết đánh giá về mình.\n\n【Chi tiết thêm】\nBẫy lớn: nhầm “hiểu mình nhờ người khác” thành “do người khác đánh giá”."
+    },
+    {
+      "question_id": 53,
+      "context": "(2)\n水石食品 商品開発部\n田中由夏様\n昨日は「水石りんごジャム」のサンプルをお届けいただき、ありがとうございました。本日試\n食をし、予定どおり来月から朝食で提供することにいたしました。\nまた、お客様から名産のりんごを使ったお土産がないかたびたびご質問を受けますので、こ\nのジャムを売店でも販売したいと考えております。同じ時期に販売を開始したいと思っております\nが、ご対応いただけるでしょうか。\nご検討いただきたく、どうぞよろしくお願いいたします。\n水石温泉ホテル営業部\n島本洋太",
+      "question": "このメールで問い合わせていることは何か。",
+      "options": [
+        "来月から「水石りんごジャム」をホテルの朝食で提供できるか。",
+        "来月から販売予定の「水石りんごジャム」は、名産のりんごを使っているか。",
+        "来月までに名産のりんごを使った新しい土産品が作れるか。",
+        "売店で販売するための「水石りんごジャム」を、来月から納品できるか。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 売店で販売するための「水石りんごジャム」を、来月から納品できるか。\n\n【Dịch câu hỏi】\nHỏi: Nội dung email này đang hỏi gì?\n\n【Dịch 4 đáp án】\n1. Từ tháng sau có thể cung cấp「水石りんごジャム」cho bữa sáng khách sạn hay không.\n2.「水石りんごジャム」dự định bán từ tháng sau có dùng táo đặc sản hay không.\n3. Đến tháng sau có thể làm được món quà lưu niệm mới dùng táo đặc sản hay không.\n4. Từ tháng sau có thể giao「水石りんごジャム」để bán tại cửa hàng hay không.\n\n【Keyword】\n売店で販売, 来月から納品, 問い合わせ\n\n【Câu chính / căn cứ】\nKhách sạn đã quyết định dùng mứt cho bữa sáng; cần xác nhận có thể bắt đầu bán ở cửa hàng từ tháng sau hay không.\n\n【Cách giải nhanh】\nEmail hỏi khả năng NẠP HÀNG để bán tại 売店 từ tháng sau, không phải hỏi về bữa sáng hay nguyên liệu. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — bữa sáng đã quyết định; không còn là nội dung hỏi.\n2: Sai — không hỏi có dùng táo đặc sản hay không.\n3: Sai — không hỏi về món quà mới.\n4: Đúng — khớp nội dung hỏi: giao hàng để bán tại cửa hàng từ tháng sau.\n\n【Chi tiết thêm】\nVới câu hỏi email: tách phần đã quyết định và phần còn đang hỏi (問い合わせ)."
+    },
+    {
+      "question_id": 54,
+      "context": "(3)\nラジオというのはながら聴きができるところが好きだった。何か他のことをしながら聴く。いい音楽や話があると、それが突然まるでボリュームが上がったように大きく聴こえ、そこから頭の中に空想の世界が浮かびだす。ラジオは余白のあるメディアだ。音しかそこには存在しないわけで、そこから先は聞き手である自分たちの手に委ねられる。まるで本で読む小説のように。与えられる情報が少ないほど、ある意味、自由度が高い。\n（注1）メディア：情報を伝えるもの\n（注2）委ねる：任せる",
+      "question": "ラジオについて、筆者はどのように考えているか。",
+      "options": [
+        "他のことをしながら聴け、時間が有効に使える。",
+        "いい音楽や話が聴け、自由が感じられる。",
+        "音以外の情報がなく、自由に空想が広がりやすい。",
+        "目からの情報がなく、小説より自由に空想ができる。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 音以外の情報がなく、自由に空想が広がりやすい。\n\n【Dịch câu hỏi】\nHỏi: Về đài radio, tác giả nghĩ như thế nào?\n\n【Dịch 4 đáp án】\n1. Có thể nghe khi làm việc khác nên dùng thời gian hiệu quả.\n2. Nghe được nhạc/đàm thoại hay nên cảm thấy tự do.\n3. Không có thông tin ngoài âm thanh nên trí tưởng tượng dễ mở rộng tự do.\n4. Không có thông tin từ mắt nên tưởng tượng tự do hơn tiểu thuyết.\n\n【Dịch bài đọc】\nTôi thích radio vì có thể nghe kèm khi làm việc khác. Khi có nhạc hoặc câu chuyện hay, âm thanh như đột nhiên to hơn và trong đầu hiện ra thế giới tưởng tượng. Radio là phương tiện có khoảng trống: chỉ tồn tại âm thanh, phần còn lại giao cho người nghe — giống như tiểu thuyết. Thông tin càng ít thì ở một nghĩa nào đó độ tự do càng cao.\n\n【Keyword】\n余白のあるメディア, 音しか存在しない, 委ねられる, 自由度が高い\n\n【Câu chính / căn cứ】\n「ラジオは余白のあるメディアだ。音しかそこには存在しない…与えられる情報が少ないほど、ある意味、自由度が高い。」\n\n【Cách giải nhanh】\nChốt「余白」「音しかない」→ tự do tưởng tượng. Đáp án 3 khớp nhất.\n\n【Phân tích / loại đáp án】\n1: Sai — 「ながら聴き」có nhắc nhưng không phải ý chính về radio.\n2: Sai — không nói tự do vì nghe nhạc hay.\n3: Đúng — khớp thiếu thông tin ngoài âm thanh → tưởng tượng tự do.\n4: Sai — so với tiểu thuyết là ví dụ tương đồng, không nói radio tự do hơn tiểu thuyết.\n\n【Chi tiết thêm】\nBẫy: chọn 1 vì mở đầu có「ながら聴き」; ý chính nằm ở「余白」「自由度」."
+    },
+    {
+      "question_id": 55,
+      "context": "(４)\n以下は、あるガス会社からのお知らせである。\n6 月10 日\n坂元ガスをご利用のお客様へ\n坂元ガス株式会社\n使用量および料金の通知について\nいつも坂元ガスをご利用いただき、ありがとうございます。\nこれまで月々のガスの使用量と料金は、紙の通知書でお伝えしていましたが、資源節約のため8 月末で廃止いたします。\n9 月以降、使用量と料金の確認は、ウェブ会員サービス「サカモト・ガスネット」をご利用ください。引き続き通知書をご希望のお客様には郵送でお届けいたしますが、手数料180 円／月をご負担いただきます。\nなお、「サカモト・ガスネット」のご利用方法、および通知書を希望される場合のお申し込み方法は、7 月中にお知らせいたします。\nご理解、ご協力をお願い申し上げます。\n［この件に関するお問い合わせ先］\n\nウェブサイト：https://www.facebook.com/bui.yuuki.9\n\n電話：0204-2000-8688（受付時間 月～土 9:00～18:00）",
+      "question": "ガスの使用量と料金の通知について、このお知らせで伝えたいことは何か。",
+      "options": [
+        "7 月中にウェブ会員サービスの申し込みを始めるので、登録してほしい。",
+        "8 月まで使用量と料金の通知を終了するので、知りたい場合は連絡してほしい。",
+        "9 月から新しい形式の紙の通知書を郵送するので、手数料を負担してほしい。",
+        "9 月から紙の通知書を有料にするので、無料で確認したい場合はウェブで確認してほしい。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 9 月から紙の通知書を有料にするので、無料で確認したい場合はウェブで確認してほしい。\n\n【Dịch câu hỏi】\nHỏi: Về thông báo lượng dùng và tiền gas, thông báo này muốn truyền đạt điều gì?\n\n【Dịch 4 đáp án】\n1. Sẽ bắt đầu đăng ký dịch vụ thành viên web trong tháng 7 nên mong khách đăng ký.\n2. Đến tháng 8 sẽ chấm dứt việc thông báo cước nên ai muốn biết thì phải liên hệ.\n3. Từ tháng 9 sẽ gửi giấy báo kiểu mới nên đề nghị khách chịu phí dịch vụ.\n4. Từ tháng 9 giấy báo sẽ thu phí, muốn kiểm tra miễn phí thì xem trên web.\n\n【Dịch bài đọc】\nNgày 10 tháng 6\n\nKính gửi: Quý khách hàng đang sử dụng Sakamoto Gas\n\nĐơn vị: Công ty cổ phần Sakamoto Gas\n\nTiêu đề: Về việc thông báo lượng sử dụng và cước phí\n\nXin chân thành cảm ơn quý khách đã luôn tin dùng Sakamoto Gas.\n\nTừ trước đến nay, lượng sử dụng và tiền gas hàng tháng được thông báo qua giấy báo bằng giấy, nhưng nhằm tiết kiệm tài nguyên, chúng tôi sẽ bãi bỏ hình thức này vào cuối tháng 8.\n\nTừ tháng 9 trở đi, để kiểm tra lượng dùng và cước phí, xin quý khách sử dụng dịch vụ thành viên trực tuyến “Sakamoto Gas Net”. Những khách hàng vẫn có nguyện vọng nhận giấy báo qua đường bưu điện sẽ tiếp tục được gửi, nhưng quý khách vui lòng chịu phí dịch vụ 180 yên/tháng.\n\nCách thức sử dụng “Sakamoto Gas Net” cũng như cách thức đăng ký trong trường hợp muốn nhận giấy báo giấy sẽ được thông báo trong tháng 7.\n\nKính mong nhận được sự thấu hiểu và hợp tác của quý khách.\n\nNơi liên hệ giải đáp: Website & Điện thoại 0204-2000-8688.\n\n【Keyword】\n8月末で廃止, ウェブ会員サービスをご利用ください, 手数料180円\n\n【Câu chính / căn cứ】\n「紙の通知書でお伝えしていましたが…8月末で廃止いたします。9月以降…ウェブ会員サービスをご利用ください。引き続き通知書をご希望のお客様には…手数料180円／月をご負担いただきます。」\n\n【Cách giải nhanh】\nChuyển từ giấy (miễn phí) sang web; ai tiếp tục nhận giấy thì phải đóng phí 180 yên/tháng. Tức là giấy thành có phí, muốn miễn phí thì lên web xem. → Chọn 4.\n\n【Phân tích / loại đáp án】\n1: Sai — tháng 7 chỉ là gửi hướng dẫn chứ không bắt buộc mọi người đăng ký ngay trong tháng 7.\n2: Sai — không chấm dứt thông báo, chỉ đổi hình thức sang web.\n3: Sai — không bắt buộc ai cũng phải nhận giấy kiểu mới (chỉ ai có nguyện vọng mới nhận và đóng phí).\n4: Đúng — tóm lược chính xác sự thay đổi chính sách từ tháng 9."
+    },
+    {
+      "question_id": 56,
+      "context": "(５)\n仕事というものは、自分の専門分野のことだけ考えればよいのではなく、専門を超えてどんな影響を与えあうか考え調整しながらやるべきものである。自部門に余裕があれば、忙しい他部門を手伝ってあげるべきだが、誰もそういう具合には考えない。そして、いつのまにか自分の城を築き、守りに入る。これでは「会社」ではない。会社は、そこで働く普通の人たちの力が、みんなで働くことによって何倍にも大きくなり、個人では成しえないような偉大なことを行う場所である。\n（注1）成す：ここでは、達成する",
+      "question": "会社について、筆者はどのように述べているか。",
+      "options": [
+        "各部門の仕事量に差があると、会社は発展していかない。",
+        "部門を分けないほうが、会社は大きな成果を上げられる。",
+        "部門内で助け合って仕事をしていれば、社内の雰囲気もよくなる。",
+        "部門同士が互いのことを考えて仕事をしなければ、会社とはいえない。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 部門同士が互いのことを考えて仕事をしなければ、会社とはいえない。\n\n【Dịch câu hỏi】\nHỏi: Về công ty, tác giả trình bày như thế nào?\n\n【Dịch 4 đáp án】\n1. Nếu khối lượng công việc các bộ phận lệch nhau thì công ty không phát triển.\n2. Không chia bộ phận thì công ty mới đạt thành quả lớn.\n3. Chỉ cần giúp nhau trong nội bộ bộ phận thì bầu không khí công ty cũng tốt.\n4. Nếu các bộ phận không làm việc trong khi nghĩ đến nhau thì không thể gọi là công ty.\n\n【Dịch bài đọc】\nCông việc không chỉ nghĩ trong chuyên môn của mình mà phải nghĩ ảnh hưởng qua lại giữa các lĩnh vực và điều chỉnh. Nếu bộ phận mình còn dư sức thì nên giúp bộ phận khác đang bận, nhưng ít ai nghĩ vậy. Rồi vô tình mỗi người xây「thành trì」và chỉ phòng thủ. Như thế không còn là「công ty」. Công ty là nơi sức mạnh người bình thường nhân lên nhờ cùng làm việc, thực hiện điều cá nhân không làm nổi.\n\n【Keyword】\n専門を超えて, 他部門を手伝う, 自分の城, 会社ではない\n\n【Câu chính / căn cứ】\n「これでは「会社」ではない。会社は…みんなで働くことによって何倍にも大きくなり…」\n\n【Cách giải nhanh】\nKhông phối hợp liên bộ phận →「会社ではない」. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không nói lệch khối lượng công việc ngăn phát triển.\n2: Sai — không phủ định việc chia bộ phận.\n3: Sai — trọng tâm là giúp giữa các bộ phận, không chỉ trong bộ phận.\n4: Đúng — khớp phê phán xây「城」và khẳng định phải nghĩ đến nhau.\n\n【Chi tiết thêm】\nTừ khóa phủ định mạnh「会社ではない」thường dẫn thẳng tới đáp án."
+    },
+    {
+      "question_id": 57,
+      "context": "選びなさい。\n(1)\nゾウの鼻は進化の産物です。長い進化の中で鼻が何か目的を持って自らを変化させた\nわけではないかもしれません。何かの副産物かもしれません。しかし、ゾウは鼻を長くすることでどん\nな得をしているのかを考えてみることは、ゾウが生きる世界を、ゾウの視点から理解するためにも大\n切なことです。\nまず、ゾウの体を分析してみましょう。長い鼻があって、その根元には大きな頭があります。頭の\n重さは500 キログラムほど。その頭を支えるには、太い首は不可欠です。（中略）\nゾウの頭はなぜこんなにも大きいのでしょう？ゾウの頭は頑丈な頭骨とむきむきの筋肉か\nらなります。ゾウはとても賢い動物で豊かな感情を持っています。そういった知能や心の世界を支え\nるのは、もちろん脳です。5000 グラムにも及ぶ大きな脳を守る頑丈な頭骨と、ゾウの象徴であ\nる太くて長い鼻を維持するための筋肉がついてゾウの頭はあんなにも大きくなったのです。\n大きな脳と長い鼻の間にも関係があると、私は考えています。大きな脳、つまり大きな頭を支え\nるために、首が十分に太くなければなりませんでした。首を太く頑丈にすると、困ったことに、頭部の\n動きが制限されてしまったのです。その不自由さを、長く機動性に優れた鼻が十分に補ってくれ\nたのではないでしょうか。鼻がよく動くことで、首が固定されていても生活に困りません。大きな頭を\n保ったまま、鼻で動きの自由も得たのです。\n（注1）進化：ここでは、世代を超えて生物の形や性質が変化すること\n（注2）むきむきの：盛り上がった\n（注3）及ぶ：達する\n（注4）機動性に優れた：ここでは、よく動く",
+      "question": "ゾウの頭について、筆者はどのように述べているか。",
+      "options": [
+        "高い知能を持つ脳を守るため、頭骨が頑丈である。",
+        "筋肉がついていて大きいので、感情が分かりやすい。",
+        "頭骨が頑丈なので、太くて長い鼻が維持できる。",
+        "重量のほとんどが脳の重さで、知能が高い。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 高い知能を持つ脳を守るため、頭骨が頑丈である。\n\n【Dịch câu hỏi】\nHỏi: Về đầu voi, tác giả trình bày như thế nào?\n\n【Dịch 4 đáp án】\n1. Hộp sọ chắc để bảo vệ bộ não có trí tuệ cao.\n2. Có cơ và to nên dễ nhận biết cảm xúc.\n3. Hộp sọ chắc nên duy trì được vòi dày và dài.\n4. Hầu hết trọng lượng là não nên trí tuệ cao.\n\n【Keyword】\n頭骨が頑丈, 高い知能, 脳を守る\n\n【Câu chính / căn cứ】\nBộ não lớn (~5000g) được bảo vệ bởi hộp sọ vững chắc.\n\n【Cách giải nhanh】\nĐầu voi: hộp sọ chắc ↔ bảo vệ não thông minh. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp mục đích bảo vệ não có trí tuệ cao.\n2: Sai — không nói dễ đọc cảm xúc nhờ cơ.\n3: Sai — đảo quan hệ: không phải hộp sọ chắc để duy trì vòi.\n4: Sai — không nói hầu hết trọng lượng là não.\n\n【Chi tiết thêm】\nCặp câu 57–58: tách「頭」và「鼻」; đừng lẫn chức năng."
+    },
+    {
+      "question_id": 58,
+      "context": "選びなさい。\n(1)\nゾウの鼻は進化の産物です。長い進化の中で鼻が何か目的を持って自らを変化させた\nわけではないかもしれません。何かの副産物かもしれません。しかし、ゾウは鼻を長くすることでどん\nな得をしているのかを考えてみることは、ゾウが生きる世界を、ゾウの視点から理解するためにも大\n切なことです。\nまず、ゾウの体を分析してみましょう。長い鼻があって、その根元には大きな頭があります。頭の\n重さは500 キログラムほど。その頭を支えるには、太い首は不可欠です。（中略）\nゾウの頭はなぜこんなにも大きいのでしょう？ゾウの頭は頑丈な頭骨とむきむきの筋肉か\nらなります。ゾウはとても賢い動物で豊かな感情を持っています。そういった知能や心の世界を支え\nるのは、もちろん脳です。5000 グラムにも及ぶ大きな脳を守る頑丈な頭骨と、ゾウの象徴であ\nる太くて長い鼻を維持するための筋肉がついてゾウの頭はあんなにも大きくなったのです。\n大きな脳と長い鼻の間にも関係があると、私は考えています。大きな脳、つまり大きな頭を支え\nるために、首が十分に太くなければなりませんでした。首を太く頑丈にすると、困ったことに、頭部の\n動きが制限されてしまったのです。その不自由さを、長く機動性に優れた鼻が十分に補ってくれ\nたのではないでしょうか。鼻がよく動くことで、首が固定されていても生活に困りません。大きな頭を\n保ったまま、鼻で動きの自由も得たのです。\n（注1）進化：ここでは、世代を超えて生物の形や性質が変化すること\n（注2）むきむきの：盛り上がった\n（注3）及ぶ：達する\n（注4）機動性に優れた：ここでは、よく動く",
+      "question": "ゾウの鼻について、筆者はどのように考えているか。",
+      "options": [
+        "脳が発達しているので、首が固定されていても自由に動かせる。",
+        "自由に動かすことで頭部の動きがよくなり、脳も発達した。",
+        "首が太く頭部が自由に動かないのを補っている。",
+        "大きな頭部を支えるために、太く長くなった。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 首が太く頭部が自由に動かないのを補っている。\n\n【Dịch câu hỏi】\nHỏi: Về vòi voi, tác giả nghĩ như thế nào?\n\n【Dịch 4 đáp án】\n1. Vì não phát triển nên dù cổ cố định vẫn cử động tự do.\n2. Nhờ cử động tự do mà đầu linh hoạt hơn và não cũng phát triển.\n3. Bù đắp việc cổ to khiến đầu không cử động tự do.\n4. Dày và dài lên để chống đỡ đầu lớn.\n\n【Keyword】\n首が太い, 頭部が動かない, 補う, 鼻\n\n【Câu chính / căn cứ】\nCổ phải to để đỡ đầu lớn → hạn chế chuyển động đầu; vòi dài linh hoạt bù lại.\n\n【Cách giải nhanh】\nVòi = bù cho hạn chế cử động đầu vì cổ to. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không nói não phát triển khiến vòi cử động tự do.\n2: Sai — đảo nhân quả (không phải vòi làm não phát triển).\n3: Đúng — khớp chức năng「補う」.\n4: Sai — không nói vòi dày dài để chống đỡ đầu.\n\n【Chi tiết thêm】\nBẫy nhân quả đảo chiều thường gặp ở câu đọc hiểu khoa học."
+    },
+    {
+      "question_id": 59,
+      "context": "(2)\n若い人たちの職業観で、気になることがある。ある調査では、自分に合った仕事をしたい、と多\nくの若者が考えているらしい。僕に言わせれば、それが大きな勘違いである。そんなことにこだわるか\nら、ますます就職するのがキツくなるのだ。\n仕事というのは社会のニーズだ。（中略）\nたとえば僕の本が売れたとする。<u>売れた理由</u>は買った人に聞いてみないとわからないが、少な\nくともそこに“穴”があいていたから、とは言えるだろう。埋まっていない隙間があって、実はみんなが気\nになっていた。そこを本の形で埋めたから買ってもらえた。一見平坦な場所に穴が、つまり\n隠れたニーズがあったということである。\n起業という言葉をメディアでよく目にするが、この言葉の使われ方を見ていると、平ら\nな場所に新しく何かを積み上げるようなイメージだ。しかし話はまったく逆だと僕は思う。起業という\nのは社会にあいている穴を見つけて埋めることではないか。何か足りない、不便だとみんなが思って\nいる。\nそれを埋めてやったら、即、商売になるはずだ。穴があったら入りたい。そう考えて、とにかく\n仕事に就き、身体を動かして現場の作業を知ることだ。どの穴も、外側から見て全体がわかるほど\n単純な形はしていない。入ってみないで頭でばかり考えたって何もわからないのである。\n（注1）一見：ちょっと見たところ\n（注2）平坦な：平らな\n（注3）起業：新しい事業を始めること\n（注4）メディア：ここでは、テレビや雑誌など\n（注5）即：すぐに",
+      "question": "<u>売れた理由</u>とあるが、筆者はなぜ売れたと考えているか。",
+      "options": [
+        "多くの人が知らない新しいことを書いたから。",
+        "多くの人が何か足りないと思っていたことを取り上げたから。",
+        "多くの人が気づいていなかった社会の問題を指摘したから。",
+        "多くの人が感じていた社会のニーズをわかりやすく説明したから。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 多くの人が何か足りないと思っていたことを取り上げたから。\n\n【Dịch câu hỏi】\nHỏi: Tác giả cho rằng sách bán chạy vì lý do gì?\n\n【Dịch 4 đáp án】\n1. Vì viết điều mới mà nhiều người chưa biết.\n2. Vì đề cập điều mà nhiều người cảm thấy còn thiếu.\n3. Vì chỉ ra vấn đề xã hội mà nhiều người chưa nhận ra.\n4. Vì giải thích dễ hiểu nhu cầu xã hội mà nhiều người cảm nhận.\n\n【Keyword】\n足りない, 穴・隙間, 潜在ニーズ\n\n【Câu chính / căn cứ】\nNhu cầu tiềm ẩn như「lỗ trống」; sách lấp đúng khoảng trống ấy.\n\n【Cách giải nhanh】\nBán chạy vì chạm đúng cảm giác「còn thiếu」của số đông. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không nhấn「mới/chưa biết」.\n2: Đúng — khớp「何か足りない」.\n3: Sai — không phải chỉ ra vấn đề xã hội chưa nhận ra.\n4: Sai — không nhấn「giải thích dễ hiểu」nhu cầu đã cảm nhận.\n\n【Chi tiết thêm】\nPhân biệt「chưa biết」(1/3) với「cảm thấy thiếu」(2)."
+    },
+    {
+      "question_id": 60,
+      "context": "(2)\n若い人たちの職業観で、気になることがある。ある調査では、自分に合った仕事をしたい、と多\nくの若者が考えているらしい。僕に言わせれば、それが大きな勘違いである。そんなことにこだわるか\nら、ますます就職するのがキツくなるのだ。\n仕事というのは社会のニーズだ。（中略）\nたとえば僕の本が売れたとする。<u>売れた理由</u>は買った人に聞いてみないとわからないが、少な\nくともそこに“穴”があいていたから、とは言えるだろう。埋まっていない隙間があって、実はみんなが気\nになっていた。そこを本の形で埋めたから買ってもらえた。一見平坦な場所に穴が、つまり\n隠れたニーズがあったということである。\n起業という言葉をメディアでよく目にするが、この言葉の使われ方を見ていると、平ら\nな場所に新しく何かを積み上げるようなイメージだ。しかし話はまったく逆だと僕は思う。起業という\nのは社会にあいている穴を見つけて埋めることではないか。何か足りない、不便だとみんなが思って\nいる。\nそれを埋めてやったら、即、商売になるはずだ。穴があったら入りたい。そう考えて、とにかく\n仕事に就き、身体を動かして現場の作業を知ることだ。どの穴も、外側から見て全体がわかるほど\n単純な形はしていない。入ってみないで頭でばかり考えたって何もわからないのである。\n（注1）一見：ちょっと見たところ\n（注2）平坦な：平らな\n（注3）起業：新しい事業を始めること\n（注4）メディア：ここでは、テレビや雑誌など\n（注5）即：すぐに",
+      "question": "若い人たちに対して、筆者が言いたいことは何か。",
+      "options": [
+        "自分に合った仕事より、社会のニーズに応えられる仕事に就くべきだ。",
+        "自分に合った仕事を見つけるには、身体を動かす仕事をしてみるべきだ。",
+        "自分に合った仕事を探すよりも、まずは仕事に就いてみることが大切だ。",
+        "どんな仕事でも、仕事をしているうちに自分に合った仕事になっていく。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 自分に合った仕事を探すよりも、まずは仕事に就いてみることが大切だ。\n\n【Dịch câu hỏi】\nHỏi: Điều tác giả muốn nói với người trẻ là gì?\n\n【Dịch 4 đáp án】\n1. Nên chọn việc đáp ứng nhu cầu xã hội hơn là việc hợp mình.\n2. Để tìm việc hợp mình nên thử việc vận động cơ thể.\n3. Quan trọng hơn tìm việc hợp mình là trước hết hãy đi làm thử.\n4. Dù việc gì, làm lâu rồi cũng sẽ trở thành việc hợp mình.\n\n【Keyword】\nまず仕事に就く, 現場, ニーズ\n\n【Câu chính / căn cứ】\nChỉ đứng ngoài suy nghĩ thì không hiểu nhu cầu thực; phải vào hiện trường trước.\n\n【Cách giải nhanh】\nƯu tiên「trước hết hãy làm」hơn「tìm đúng việc hợp」. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không bảo bỏ việc hợp mình để theo nhu cầu xã hội.\n2: Sai — không khuyên làm việc vận động cơ thể.\n3: Đúng — khớp「まずは仕事に就いてみる」.\n4: Sai — không nói mọi việc rồi sẽ hợp mình.\n\n【Chi tiết thêm】\nLiên hệ q426: nhu cầu hiểu được khi đã ở hiện trường."
+    },
+    {
+      "question_id": 61,
+      "context": "(３)\n子どもはむずかしいことが好きである。\nニュースなどを見ていて、なにか関心を持ったようなら、子どもにわかるよう言葉を選んで教え\nてあげるといい。\n親がそのように努力して教えても、実はわかっていないことのほうが多いのだが、それでいいの\nである。子どもをわかったような気にさせるというのでいい。なぜなら、そこから好奇心が動き出\nし、やがて本当にわかるように調べてみようという気になる。そして、そうやっているうちに、本当にわ\nかってくることも多い。\n要は、好奇心を刺激し、いろいろなものに関心を持たせることがいちばん重要なのである。\n子どもは、どこか背伸びしたがるものだ。それを否定的に見るのではなく、表面的な理解であっ\nてもかまわない、自分なりの理解でいい、とおおらかに受け止めよう。やがて、本格的な学びの\n場面で、その関心が伸びてくるからだ。\n（中略）\n子どもの理解力はゴムのようなもので、伸びないと思えばまったく伸びないままだが、伸びると\n思えばおそろしく伸びる。\nそのわかれ目は、課題に出会ったとき、興味をそそるように話してやれるかどうかだ。いざ\nとなれば、大人がじゅうぶんわかっていなくてもいい。もちろん、まちがったことを教えるのはよく\nないが、「自分にもよくわからないが、こういうことだろうと思う」と正直に言えば、子どもは納得する。\n大人もわからないことがあるのだと知ったり、子ども自身がなんとなくわかったような気がするという\nのでもいいだろう。\n（注1）好奇心：興味を持つ心\n（注2）背伸びする：実力以上のことをしようとする\n（注3）おおらかに：広い心で\n（注4）そそる：ここでは、引く\n（注5）いざとなれば：ここでは、場合によっては",
+      "question": "筆者によると、子どもにわからないことがあったとき、親はどうすればいいか",
+      "options": [
+        "すぐにわかることだけを理解させる。",
+        "わかったつもりにさせる。",
+        "全部わからなくてもいいと思わせる。",
+        "全部わかるようにする。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · わかったつもりにさせる。\n\n【Dịch câu hỏi】\nHỏi: Theo tác giả, khi trẻ có điều chưa hiểu, cha mẹ nên làm gì?\n\n【Dịch 4 đáp án】\n1. Chỉ cho hiểu ngay những gì có thể hiểu ngay.\n2. Tạo cảm giác như trẻ đã hiểu.\n3. Khiến trẻ nghĩ rằng không cần hiểu hết cũng được.\n4. Làm cho trẻ hiểu hết mọi thứ.\n\n【Dịch bài đọc】\n(Ghi chú: 好奇心＝tâm tò mò; 背伸びする＝cố làm việc vượt sức; おおらかに＝rộng lượng; そそる＝thu hút; いざとなれば＝khi cần.) Khi trẻ chưa hiểu, cha mẹ có thể giúp trẻ có cảm giác「đã hiểu」ở mức bề mặt; cảm giác ấy kích thích tò mò và dẫn đến tìm hiểu sâu hơn.\n\n【Keyword】\nわかったつもり, 好奇心, 背伸び\n\n【Câu chính / căn cứ】\nHiểu bề mặt /「わかったつもり」có thể khơi tò mò để tự đi sâu.\n\n【Cách giải nhanh】\nKhông bắt hiểu hết; tạo「わかったつもり」. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không giới hạn chỉ những gì hiểu ngay.\n2: Đúng — khớp「わかったつもりにさせる」.\n3: Sai — không phải bảo「không cần hiểu hết cũng được」theo nghĩa buông xuôi.\n4: Sai — trái với việc không cần hiểu hết ngay.\n\n【Chi tiết thêm】\n「つもり」= cảm giác như đã hiểu, chưa phải hiểu thật hoàn toàn."
+    },
+    {
+      "question_id": 62,
+      "context": "(３)\n子どもはむずかしいことが好きである。\nニュースなどを見ていて、なにか関心を持ったようなら、子どもにわかるよう言葉を選んで教え\nてあげるといい。\n親がそのように努力して教えても、実はわかっていないことのほうが多いのだが、それでいいの\nである。子どもをわかったような気にさせるというのでいい。なぜなら、そこから好奇心が動き出\nし、やがて本当にわかるように調べてみようという気になる。そして、そうやっているうちに、本当にわ\nかってくることも多い。\n要は、好奇心を刺激し、いろいろなものに関心を持たせることがいちばん重要なのである。\n子どもは、どこか背伸びしたがるものだ。それを否定的に見るのではなく、表面的な理解であっ\nてもかまわない、自分なりの理解でいい、とおおらかに受け止めよう。やがて、本格的な学びの\n場面で、その関心が伸びてくるからだ。\n（中略）\n子どもの理解力はゴムのようなもので、伸びないと思えばまったく伸びないままだが、伸びると\n思えばおそろしく伸びる。\nそのわかれ目は、課題に出会ったとき、興味をそそるように話してやれるかどうかだ。いざ\nとなれば、大人がじゅうぶんわかっていなくてもいい。もちろん、まちがったことを教えるのはよく\nないが、「自分にもよくわからないが、こういうことだろうと思う」と正直に言えば、子どもは納得する。\n大人もわからないことがあるのだと知ったり、子ども自身がなんとなくわかったような気がするという\nのでもいいだろう。\n（注1）好奇心：興味を持つ心\n（注2）背伸びする：実力以上のことをしようとする\n（注3）おおらかに：広い心で\n（注4）そそる：ここでは、引く\n（注5）いざとなれば：ここでは、場合によっては",
+      "question": "筆者の考えに合うのはどれか。",
+      "options": [
+        "子どもにわからないことがあったら、大人は一緒に興味を持って調べるべきだ。",
+        "子どもが関心を持ったとき、大人は興味がわくように話してやることが大切だ。",
+        "子どもが課題に出会ったら、大人は答えを教えないで自分で考えさせるべきだ。",
+        "子どもが疑問を持ったとき、大人は納得するまで教えてやることが大切だ。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 子どもが関心を持ったとき、大人は興味がわくように話してやることが大切だ。\n\n【Dịch câu hỏi】\nHỏi: Ý nào khớp với suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Khi trẻ chưa hiểu, người lớn nên cùng hứng thú và tra cứu.\n2. Khi trẻ quan tâm, người lớn nên kể sao cho khơi thêm hứng thú.\n3. Khi trẻ gặp bài toán, người lớn không nên đưa đáp án mà để tự nghĩ.\n4. Khi trẻ có nghi vấn, người lớn nên dạy đến khi trẻ thông suốt.\n\n【Dịch bài đọc】\n(Cùng bài với câu 61.) Trọng tâm là kích thích tính tò mò khi trẻ đã có quan tâm, không phải bắt hiểu hết hay lập tức đưa đáp án hoàn chỉnh.\n\n【Keyword】\n関心を持ったとき, 興味がわくように, 好奇心をそそる\n\n【Câu chính / căn cứ】\nKhi trẻ quan tâm → người lớn nói theo cách khơi thêm hứng thú.\n\n【Cách giải nhanh】\nThời điểm then chốt = khi trẻ「関心」; hành động = kể sao cho「興味がわく」. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không nhấn「cùng tra cứu」là cách chính.\n2: Đúng — khớp kích thích hứng thú khi trẻ quan tâm.\n3: Sai — không phải nguyên tắc「không dạy đáp án」.\n4: Sai — không đòi dạy đến khi「納得」hoàn toàn.\n\n【Chi tiết thêm】\nq428 = khi chưa hiểu; q429 = khi đã có quan tâm — đừng trộn hai thời điểm."
+    },
+    {
+      "question_id": 63,
+      "context": "(４)\nあまり語られないことですが、医療というものは、非常に「個別性」が高い分野です。「個別性」\nとは言いかえると、治療方針は10 人いれば10 通りあるということです。どれほど苦しくても生きら\nれるなら辛い治療を頑張りたい人がいる一方で、痛みや苦しみがあるくらいなら命が短くなっても治\n療は一切したくない人だっているのです。我々医者は、科学的な根拠のある方法を知りな\nがらも、あくまで患者さんのやりたいよう、生きたいように手助けするという使命があります。\nこれからの時代、この「個別性」はよりいっそう加速されるでしょう。これは、一人ひとりの患者さ\nんに合わせた治療をしていくという意味で「テーラーメイド治療」などと呼ばれています。\n目の前の患者さんが、どんな生き方を望んでいるのか。決して十分とはいいがたい時間のな\nかで、医者は把握せねばなりません。それを知る唯一の方法は、やはり面と向かっての会話\nなのです。その意味で、話を聞いてくれない医者は、患者さんに向き合っていないと、私は思います。\n時間がないのは私も医者なので痛いほどわかるのですが、それでも「話を聞く姿勢」だけは死守\nしたいと思っています。\n（注1）一切：全く\n（注2）根拠：理由\n（注3）把握する：しっかりと理解する\n（注4）面と向かう：相手と向かい合う\n（注5）死守する：絶対に守る",
+      "question": "筆者によると、医療における「個別性」とはどういうことか。",
+      "options": [
+        "医者と患者との人間関係がさまざまであること。",
+        "患者の考え方に応じて、治療方針がさまざまになること。",
+        "同じ治療を行っても、患者の受け止め方はさまざまであること。",
+        "同じ病気でも患者の症状が異なるので、治療方針もさまざまになること。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 患者の考え方に応じて、治療方針がさまざまになること。\n\n【Dịch câu hỏi】\nHỏi: Theo tác giả,「個別性」trong y tế nghĩa là gì?\n\n【Dịch 4 đáp án】\n1. Quan hệ người giữa bác sĩ và bệnh nhân đa dạng.\n2. Phương châm điều trị thay đổi tùy suy nghĩ của bệnh nhân.\n3. Cùng một liệu pháp nhưng cách bệnh nhân tiếp nhận đa dạng.\n4. Cùng bệnh nhưng triệu chứng khác nên phương châm cũng khác.\n\n【Keyword】\n個別性, 患者の考え方, 治療方針がさまざま\n\n【Câu chính / căn cứ】\nCùng tình trạng nhưng người muốn điều trị tích cực, người ưu tiên giảm đau → mười người mười hướng.\n\n【Cách giải nhanh】\n個別性 = phương châm đổi theo cách nghĩ/mong muốn bệnh nhân. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không định nghĩa bằng quan hệ người đa dạng.\n2: Đúng — khớp「考え方に応じて方針がさまざま」.\n3: Sai — không nhấn cách「tiếp nhận」liệu pháp.\n4: Sai — không gắn「triệu chứng khác」làm định nghĩa trung tâm.\n\n【Chi tiết thêm】\nPhân biệt: khác vì suy nghĩ bệnh nhân (2) ≠ khác vì triệu chứng (4)."
+    },
+    {
+      "question_id": 64,
+      "context": "(４)\nあまり語られないことですが、医療というものは、非常に「個別性」が高い分野です。「個別性」\nとは言いかえると、治療方針は10 人いれば10 通りあるということです。どれほど苦しくても生きら\nれるなら辛い治療を頑張りたい人がいる一方で、痛みや苦しみがあるくらいなら命が短くなっても治\n療は一切したくない人だっているのです。我々医者は、科学的な根拠のある方法を知りな\nがらも、あくまで患者さんのやりたいよう、生きたいように手助けするという使命があります。\nこれからの時代、この「個別性」はよりいっそう加速されるでしょう。これは、一人ひとりの患者さ\nんに合わせた治療をしていくという意味で「テーラーメイド治療」などと呼ばれています。\n目の前の患者さんが、どんな生き方を望んでいるのか。決して十分とはいいがたい時間のな\nかで、医者は把握せねばなりません。それを知る唯一の方法は、やはり面と向かっての会話\nなのです。その意味で、話を聞いてくれない医者は、患者さんに向き合っていないと、私は思います。\n時間がないのは私も医者なので痛いほどわかるのですが、それでも「話を聞く姿勢」だけは死守\nしたいと思っています。\n（注1）一切：全く\n（注2）根拠：理由\n（注3）把握する：しっかりと理解する\n（注4）面と向かう：相手と向かい合う\n（注5）死守する：絶対に守る",
+      "question": "筆者が医者として大切にしていることは何か",
+      "options": [
+        "患者と直接話をして、患者の考えや希望を理解すること。",
+        "患者が治療方針を理解するまで、時間をかけて話し合うこと。",
+        "患者の考えや希望を聞いたうえで、自分の方針を示すこと。",
+        "患者の話をよく聞いて、治療に対する不安を取り除くこと。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 患者と直接話をして、患者の考えや希望を理解すること。\n\n【Dịch câu hỏi】\nHỏi: Điều tác giả coi trọng với tư cách bác sĩ là gì?\n\n【Dịch 4 đáp án】\n1. Trực tiếp nói chuyện để hiểu suy nghĩ và nguyện vọng bệnh nhân.\n2. Thảo luận kỹ đến khi bệnh nhân hiểu phương châm điều trị.\n3. Nghe suy nghĩ/nguyện vọng rồi mới đưa ra phương châm của mình.\n4. Nghe kỹ để xóa bỏ lo lắng về điều trị.\n\n【Keyword】\n直接話す, 考えや希望を理解, 対話\n\n【Câu chính / căn cứ】\nCách duy nhất nắm lối sống bệnh nhân mong muốn là đối thoại trực diện và lắng nghe.\n\n【Cách giải nhanh】\nTrọng tâm bác sĩ = đối thoại trực tiếp để hiểu nghĩ/hy vọng. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp「直接話して理解する」.\n2: Sai — trọng tâm không phải giải thích đến khi bệnh nhân hiểu.\n3: Sai — không nhấn「sau đó đưa phương châm của mình」.\n4: Sai — không chỉ nhằm「xóa lo lắng」.\n\n【Chi tiết thêm】\nLiên hệ q430: cần đối thoại vì phương châm phụ thuộc suy nghĩ bệnh nhân."
+    },
+    {
+      "question_id": 65,
+      "context": "から一つ選びなさい。\nA\n私はスポーツを観戦するのが好きだ。レベルの高いプレーが見られるのも魅力の一つだが、\n選手と感情を共有できるというのが最大の魅力だ。応援したチームや選手が勝てばうれしいと感\nじ、選手がミスをしたときは悔しいと感じる。必死に戦う選手の姿を見ていると、まるで自分が選手\nと一緒にその場にいてプレーしているかのような感覚になるのだ。\nスポーツ観戦に興味がないと言う人の中には、ルールを知らないから試合が理解できず楽\nしめないと思い込んでいる人もいるようだ。しかし、私は、知らなくても十分楽しめると思う。ルール\nのことは気にせず、気軽にスポーツ観戦を楽しんでほしい。\nB\nスポーツを観戦する魅力とは何だろうか。試合の結果がどうなるかわからない状況を見てい\nて味わう緊張感だと言う人がいる。確かに試合中は予期しないことが起こるので、最後まで勝敗が\n予想できず、はらはらどきどきするというのも魅力の一つだ。だが、私が感じる魅力は、選手と同じ\nように喜んだり悔しく思ったりできることだ。点が入ったり奪われたりするシーンだけでなく、試合を\n見ていると、選手と同様の心理や感情になってくる。このような体験をするには、ルールを理解して\nおくといい。チームや選手の戦略が分かるからだ。細かいルールをすべて知っている必要はない\nが、試合が理解できる程度の知識があれば、スポーツ観戦の魅力が分かるだろう。\nいるか。",
+      "question": "スポーツ観戦の魅力について、A とB が共通して述べていることはどれか。",
+      "options": [
+        "選手の高度なプレーが見られること。",
+        "選手と同じ気持ちになれること。",
+        "応援したチームや選手が勝つこと。",
+        "緊張感が味わえること。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 選手と同じ気持ちになれること。\n\n【Dịch câu hỏi】\nHỏi: Về sức hấp dẫn của xem thể thao, điểm A và B cùng nêu là gì?\n\n【Dịch 4 đáp án】\n1. Được xem lối chơi trình độ cao của vận động viên.\n2. Có thể đồng cảm / cùng cảm xúc với vận động viên.\n3. Đội hoặc vận động viên mình cổ vũ thắng.\n4. Được thưởng thức cảm giác căng thẳng.\n\n【Keyword】\n同じ気持ち, 共感, AとB共通\n\n【Câu chính / căn cứ】\nA: chia sẻ cảm xúc với VĐV; B: cùng vui/cùng tiếc như họ.\n\n【Cách giải nhanh】\nĐiểm chung A–B = đồng cảm với vận động viên. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải điểm cả hai cùng nhấn.\n2: Đúng — khớp「選手と同じ気持ち」.\n3: Sai — chiến thắng không phải điểm chung.\n4: Sai — căng thẳng không phải điểm chung được nêu.\n\n【Chi tiết thêm】\nCâu so sánh ý kiến: chỉ chọn phần CẢ HAI cùng nói."
+    },
+    {
+      "question_id": 66,
+      "context": "から一つ選びなさい。\nA\n私はスポーツを観戦するのが好きだ。レベルの高いプレーが見られるのも魅力の一つだが、\n選手と感情を共有できるというのが最大の魅力だ。応援したチームや選手が勝てばうれしいと感\nじ、選手がミスをしたときは悔しいと感じる。必死に戦う選手の姿を見ていると、まるで自分が選手\nと一緒にその場にいてプレーしているかのような感覚になるのだ。\nスポーツ観戦に興味がないと言う人の中には、ルールを知らないから試合が理解できず楽\nしめないと思い込んでいる人もいるようだ。しかし、私は、知らなくても十分楽しめると思う。ルール\nのことは気にせず、気軽にスポーツ観戦を楽しんでほしい。\nB\nスポーツを観戦する魅力とは何だろうか。試合の結果がどうなるかわからない状況を見てい\nて味わう緊張感だと言う人がいる。確かに試合中は予期しないことが起こるので、最後まで勝敗が\n予想できず、はらはらどきどきするというのも魅力の一つだ。だが、私が感じる魅力は、選手と同じ\nように喜んだり悔しく思ったりできることだ。点が入ったり奪われたりするシーンだけでなく、試合を\n見ていると、選手と同様の心理や感情になってくる。このような体験をするには、ルールを理解して\nおくといい。チームや選手の戦略が分かるからだ。細かいルールをすべて知っている必要はない\nが、試合が理解できる程度の知識があれば、スポーツ観戦の魅力が分かるだろう。\nいるか。",
+      "question": "スポーツ観戦でその競技のルールを知っているかどうかについて、A とB はどのように述べて いるか。",
+      "options": [
+        "A もB も、ルールを全く知らなくても楽しめると述べている。",
+        "A もB も、できるだけ多くのルールを理解しておくほうがいいと述べている。",
+        "A は必ずしもルールを知らなくてもいいと述べ、B はルールの基本を理解しておくほうがいいと述べている。",
+        "A は知らなくても、観戦しながらルールを学べると述べ、B は細かいルールまで知っているほうがいいと述べている。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · A は必ずしもルールを知らなくてもいいと述べ、B はルールの基本を理解しておくほうがいいと述べている。\n\n【Dịch câu hỏi】\nHỏi: Về việc biết luật khi xem thể thao, A và B nói thế nào?\n\n【Dịch 4 đáp án】\n1. Cả A và B đều nói không biết luật chút nào cũng thưởng thức được.\n2. Cả A và B đều nói nên hiểu càng nhiều luật càng tốt.\n3. A nói không nhất thiết phải biết luật; B nói nên hiểu luật cơ bản.\n4. (Thiếu trong nguồn; không phải đáp án chính thức.)\n\n【Keyword】\nルール, 必ずしも知らなくてもいい, 基本を理解\n\n【Câu chính / căn cứ】\nA: không biết luật vẫn thưởng thức được; B: không cần mọi chi tiết nhưng nên có kiến thức cơ bản.\n\n【Cách giải nhanh】\nA lỏng / B chặt vừa phải (luật cơ bản). → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — B không nói「hoàn toàn không cần biết」.\n2: Sai — không ai bảo phải biết càng nhiều càng tốt.\n3: Đúng — phân biệt rõ lập trường A và B.\n4: — Dữ liệu gốc thiếu; loại theo đáp án đúng là 3.\n\n【Chi tiết thêm】\nNguồn options bị cắt; vẫn giữ answer=3 theo đáp án chuẩn."
+    },
+    {
+      "question_id": 67,
+      "context": "選びなさい。\n以下は、数学を学ぶ人に向けて書かれた文章である。\nよく<u>①「分かる」とは「分ける」ことだ</u>と言われます。みなさんの頭の中に沢山のラベルがつけられた「箱」があるとイメージしてみてください。みなさんは郵便局員のように、入ってくる情報に対して、これはこっちの箱、これはこっちの箱と仕分けをしていきます。新しい情報を頭の中のしかるべき「箱」に入れることが「分かる」ことであり、どの箱にいれるべきかを的確にガイドしてくれる説明がいわゆる「分かりやすい説明」というわけです。\nしかし、もしやってきた情報が、みなさんにとって新しい概念であったらどうでしょう。それはみなさんの持っているどの箱にも分類できないようなものです。「分けられない」のですから「分からない」、その「分からない」状態でいることに私達は我慢できなくなってしまうのです。そんなとき、その概念を手近な箱に無理やり押し込んでくれる説明があると、それを「分かりやすい」と感じてしまいがちです。でもそれはみなさんを安心させるためのその場しのぎの説明、確かに分かったつもりにはなれるでしょうが、誤った箱に入れられた情報は二度と顧みられることはなく、本質的な理解からは永遠に遠ざかったままになってしまいます。<u>②これ</u>が「分かりやすさ」のとても危険な落とし穴なのです。\n学習においてとても大切な姿勢は何か、それは「分からないを分からないものとして一旦受け入れるということ」だと僕は思うのです。言ってみれば「分からない」というラベルのついた「箱」を作り、行き場のない情報はひとまずそこに放り込んでおくということです。もちろんそれは少し居心地が悪いことかもしれません。でもその違和感をうまく飼いならしながら、ときどきは箱の中をチラチラと眺めながら先に進んでいくと、不思議なもので「分からない」の箱にいれておいたいくつかの情報が結びつき、きちんと意味を持ち始める日がくるのです。頭の中にその概念をおさめる新しい「箱」が立ち上がる、これが真の「エウレカ」「分かったぞ！」の瞬間です。「分からない」は学びの障害物ではありません。むしろ学びにおいてなくてはならない重要な通過点なのです。\n（注1）しかるべき：適切な\n（注2）概念：ここでは、意味内容\n（注3）その場しのぎ：とりあえずの\n（注4）顧みる：振り返る\n（注5）本質的な：ここでは、本当の\n（注6）違和感：何か違うという感覚\n（注7）飼いならす：ここでは、受け入れる",
+      "question": "なぜ<u>①「分かる」とは「分ける」ことだ</u>と言われるのか。",
+      "options": [
+        "「分かる」とは、新しい情報を頭の中にある知識と関連づけて分類することだから",
+        "「分かる」とは、新しい情報と頭の中にある知識との違いを明らかにすることだから",
+        "「分かる」とは、新しい情報を頭の中に入れるものと入れないものに分けることだから",
+        "「分かる」とは、新しい情報をどう分類するべきかを教えてくれる説明を選ぶことだから"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 「分かる」とは、新しい情報を頭の中にある知識と関連づけて分類することだから\n\n【Dịch câu hỏi】\nHỏi: Vì sao người ta nói「分かる」chính là「分ける」?\n\n【Dịch 4 đáp án】\n1. Vì「hiểu」là liên hệ thông tin mới với kiến thức sẵn có rồi phân loại.\n2. Vì「hiểu」là làm rõ khác biệt giữa thông tin mới và kiến thức sẵn có.\n3. Vì「hiểu」là tách thông tin mới thành cái đưa vào đầu và cái không.\n4. Vì「hiểu」là chọn lời giải thích dạy cách phân loại thông tin mới.\n\n【Dịch bài đọc】\nNgười ta thường nói① “hiểu” chính là “phân chia”. Hãy hình dung trong đầu mọi người có nhiều “hộp” gắn nhãn. Giống nhân viên bưu điện, với thông tin vào, các bạn phân: cái này hộp này, cái kia hộp kia. Đưa thông tin mới vào đúng “hộp” trong đầu là “hiểu”, và lời giải thích dẫn dắt chính xác nên bỏ vào hộp nào chính là “giải thích dễ hiểu”.\nNhưng nếu thông tin tới là khái niệm mới với các bạn thì sao? Nó là thứ không phân vào hộp nào các bạn đang có. Vì “không chia được” nên “không hiểu”, và chúng ta chịu không nổi trạng thái “không hiểu” ấy. Lúc đó nếu có lời giải thích nhồi khái niệm ấy mạnh vào hộp gần tay, ta dễ cảm thấy “dễ hiểu”. Nhưng đó chỉ là giải thích tạm thời để yên tâm — đúng là có thể tưởng mình đã hiểu, nhưng thông tin bỏ nhầm hộp sẽ không bao giờ được xem lại, mãi mãi xa rời hiểu biết bản chất.② Đây chính là cái bẫy rất nguy hiểm của “dễ hiểu”.\nThái độ rất quan trọng trong học là gì — tôi nghĩ là “một lần chấp nhận cái không hiểu đúng như cái không hiểu”. Nói cách khác là tạo “hộp” gắn nhãn “không hiểu” và tạm quăng thông tin chưa có chỗ vào đó. Đương nhiên có thể hơi khó chịu. Nhưng nếu khéo nuôi sự khó chịu ấy, thỉnh thoảng liếc vào trong hộp rồi tiến tiếp, kỳ lạ thay sẽ tới ngày vài thông tin để trong hộp “không hiểu” liên kết và bắt đầu mang nghĩa đúng. Một “hộp” mới chứa khái niệm ấy dựng lên trong đầu — đó là khoảnh khắc “Eureka” “Hiểu rồi!” đích thực. “Không hiểu” không phải chướng ngại của học. Mà chính là điểm đi qua quan trọng không thể thiếu trong học.\n\n【Keyword】\n分かる＝分ける, 関連づけて分類, 箱\n\n【Câu chính / căn cứ】\nKiến thức như các hộp có nhãn; hiểu = đặt thông tin mới vào hộp thích hợp.\n\n【Cách giải nhanh】\n分かる＝liên hệ + phân loại vào kiến thức cũ. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp「関連づけて分類」.\n2: Sai — không nhấn「làm rõ khác biệt」.\n3: Sai — không phải chọn đưa vào / không đưa vào đầu.\n4: Sai — không phải chọn lời giải thích dạy cách phân loại.\n\n【Chi tiết thêm】\nẨn dụ「箱」chạy xuyên suốt q434–q436."
+    },
+    {
+      "question_id": 68,
+      "context": "選びなさい。\n以下は、数学を学ぶ人に向けて書かれた文章である。\nよく<u>①「分かる」とは「分ける」ことだ</u>と言われます。みなさんの頭の中に沢山のラベルがつけられた「箱」があるとイメージしてみてください。みなさんは郵便局員のように、入ってくる情報に対して、これはこっちの箱、これはこっちの箱と仕分けをしていきます。新しい情報を頭の中のしかるべき「箱」に入れることが「分かる」ことであり、どの箱にいれるべきかを的確にガイドしてくれる説明がいわゆる「分かりやすい説明」というわけです。\nしかし、もしやってきた情報が、みなさんにとって新しい概念であったらどうでしょう。それはみなさんの持っているどの箱にも分類できないようなものです。「分けられない」のですから「分からない」、その「分からない」状態でいることに私達は我慢できなくなってしまうのです。そんなとき、その概念を手近な箱に無理やり押し込んでくれる説明があると、それを「分かりやすい」と感じてしまいがちです。でもそれはみなさんを安心させるためのその場しのぎの説明、確かに分かったつもりにはなれるでしょうが、誤った箱に入れられた情報は二度と顧みられることはなく、本質的な理解からは永遠に遠ざかったままになってしまいます。<u>②これ</u>が「分かりやすさ」のとても危険な落とし穴なのです。\n学習においてとても大切な姿勢は何か、それは「分からないを分からないものとして一旦受け入れるということ」だと僕は思うのです。言ってみれば「分からない」というラベルのついた「箱」を作り、行き場のない情報はひとまずそこに放り込んでおくということです。もちろんそれは少し居心地が悪いことかもしれません。でもその違和感をうまく飼いならしながら、ときどきは箱の中をチラチラと眺めながら先に進んでいくと、不思議なもので「分からない」の箱にいれておいたいくつかの情報が結びつき、きちんと意味を持ち始める日がくるのです。頭の中にその概念をおさめる新しい「箱」が立ち上がる、これが真の「エウレカ」「分かったぞ！」の瞬間です。「分からない」は学びの障害物ではありません。むしろ学びにおいてなくてはならない重要な通過点なのです。\n（注1）しかるべき：適切な\n（注2）概念：ここでは、意味内容\n（注3）その場しのぎ：とりあえずの\n（注4）顧みる：振り返る\n（注5）本質的な：ここでは、本当の\n（注6）違和感：何か違うという感覚\n（注7）飼いならす：ここでは、受け入れる",
+      "question": "<u>②これ</u>とは何か。",
+      "options": [
+        "どの箱に入れればよいか分からず、結局どの箱にも入れられないこと。",
+        "適切な箱に入れたか誤った箱に入れたか、分からなくなってしまうこと。",
+        "誤った箱に入れたと分かっていても、気にしなくなってしまうこと。",
+        "誤った箱に入れたのに、適切な箱に入れたつもりになって忘れてしまうこと。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 誤った箱に入れたのに、適切な箱に入れたつもりになって忘れてしまうこと。\n\n【Dịch câu hỏi】\nHỏi:「これ」chỉ điều gì?\n\n【Dịch 4 đáp án】\n1. Không biết bỏ hộp nào nên cuối cùng không bỏ vào hộp nào.\n2. Không còn phân biệt đã bỏ đúng hay sai hộp.\n3. Biết đã bỏ sai hộp nhưng rồi không bận tâm.\n4. Đã bỏ sai hộp nhưng tưởng đã đúng rồi quên không xét lại.\n\n【Keyword】\n誤った箱, 適切な箱に入れたつもり, 忘れてしまう\n\n【Câu chính / căn cứ】\nCạm bẫy: lời giải thích dễ hiểu ép khái niệm mới vào phân loại sai → ảo giác đã hiểu.\n\n【Cách giải nhanh】\nこれ = bỏ sai nhưng tưởng đúng rồi thôi không xét. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải「không bỏ vào hộp nào」.\n2: Sai — không phải lẫn không biết đúng/sai.\n3: Sai — không phải biết sai mà bỏ qua.\n4: Đúng — khớp「誤ったのに適切なつもりで忘れる」.\n\n【Chi tiết thêm】\nChú ý「つもり」: tưởng đã đúng, không phải biết mình sai."
+    },
+    {
+      "question_id": 69,
+      "context": "選びなさい。\n以下は、数学を学ぶ人に向けて書かれた文章である。\nよく<u>①「分かる」とは「分ける」ことだ</u>と言われます。みなさんの頭の中に沢山のラベルがつけられた「箱」があるとイメージしてみてください。みなさんは郵便局員のように、入ってくる情報に対して、これはこっちの箱、これはこっちの箱と仕分けをしていきます。新しい情報を頭の中のしかるべき「箱」に入れることが「分かる」ことであり、どの箱にいれるべきかを的確にガイドしてくれる説明がいわゆる「分かりやすい説明」というわけです。\nしかし、もしやってきた情報が、みなさんにとって新しい概念であったらどうでしょう。それはみなさんの持っているどの箱にも分類できないようなものです。「分けられない」のですから「分からない」、その「分からない」状態でいることに私達は我慢できなくなってしまうのです。そんなとき、その概念を手近な箱に無理やり押し込んでくれる説明があると、それを「分かりやすい」と感じてしまいがちです。でもそれはみなさんを安心させるためのその場しのぎの説明、確かに分かったつもりにはなれるでしょうが、誤った箱に入れられた情報は二度と顧みられることはなく、本質的な理解からは永遠に遠ざかったままになってしまいます。<u>②これ</u>が「分かりやすさ」のとても危険な落とし穴なのです。\n学習においてとても大切な姿勢は何か、それは「分からないを分からないものとして一旦受け入れるということ」だと僕は思うのです。言ってみれば「分からない」というラベルのついた「箱」を作り、行き場のない情報はひとまずそこに放り込んでおくということです。もちろんそれは少し居心地が悪いことかもしれません。でもその違和感をうまく飼いならしながら、ときどきは箱の中をチラチラと眺めながら先に進んでいくと、不思議なもので「分からない」の箱にいれておいたいくつかの情報が結びつき、きちんと意味を持ち始める日がくるのです。頭の中にその概念をおさめる新しい「箱」が立ち上がる、これが真の「エウレカ」「分かったぞ！」の瞬間です。「分からない」は学びの障害物ではありません。むしろ学びにおいてなくてはならない重要な通過点なのです。\n（注1）しかるべき：適切な\n（注2）概念：ここでは、意味内容\n（注3）その場しのぎ：とりあえずの\n（注4）顧みる：振り返る\n（注5）本質的な：ここでは、本当の\n（注6）違和感：何か違うという感覚\n（注7）飼いならす：ここでは、受け入れる",
+      "question": "筆者が言いたいことは何か。",
+      "options": [
+        "「分からない」点が分かるようになることが学習だ。",
+        "「分からない」点が多くあるほうが、よい学習につながる。",
+        "学習においては、「分からない」状態を大切にする態度が重要だ。",
+        "学習においては、「分からない」状態から抜け出せるまで考えたほうがいい。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 学習においては、「分からない」状態を大切にする態度が重要だ。\n\n【Dịch câu hỏi】\nHỏi: Điều tác giả muốn nói là gì?\n\n【Dịch 4 đáp án】\n1. Học tập là làm cho điểm「chưa hiểu」trở thành hiểu.\n2. Càng nhiều điểm「chưa hiểu」càng dẫn tới học tập tốt.\n3. Trong học tập, thái độ trân trọng trạng thái「chưa hiểu」là quan trọng.\n4. Trong học tập nên suy nghĩ đến khi thoát khỏi trạng thái「chưa hiểu」.\n\n【Keyword】\n分からない状態, 大切にする, 学習\n\n【Câu chính / căn cứ】\n「Chưa hiểu」không phải chướng ngại mà là giai đoạn thiết yếu để thông tin kết nối thành hiểu biết thật.\n\n【Cách giải nhanh】\nThái độ: trân trọng「分からない」. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — quá hẹp; không phải định nghĩa học = chỉ làm rõ điểm chưa hiểu.\n2: Sai — không nói「càng nhiều chưa hiểu càng tốt」.\n3: Đúng — khớp thái độ「大切にする」.\n4: Sai — không khuyên phải「thoát ngay」khỏi chưa hiểu.\n\n【Chi tiết thêm】\nĐối lập với cạm bẫy「わかったつもり」ở q435."
+    },
+    {
+      "question_id": 70,
+      "context": "野村農業大学 公開講座\n「自然に親しむ課題」\n野村農業大学では、自然への理解を深めるための講座を実施します。\nタイトル 講題内容 日時 受講料\n秋の花の育て方を学び、実習で鉢に\n10/8（日）\n① 秋の花に親しむ 3,000 円\n花を植えます。 14 時～16 時\n日本の森の現状を知り、森の木を守\n10/14（土）\n② 森の木を守る 2,000 円\nり、育てる方法を学びます。 9 時～11 時\n身近に咲いている花の種類について\n12/2（土）\n学び、実習で大学周辺での撮影を行\n③ 身近な花を撮る 2,500 円\n9 時～11 時\nいます。\n家庭で簡単に育てられる野菜を知り、\n12/10（日）\n④ 野菜を知る 3,000 円\n実習でホウレンソウを収穫します。 14 時～16 時\n木の香りとその効果を学び、実習で香\n12/16（土）\n⑤ 木の香りを楽しむ 5,000 円\n水を作ります。 9 時～11 時\n<u>講座について</u>\n•定員：各講座25 名\n•②以外の講座では、講義のほかに実習も行います。実習にかかる材料費等は受講料に\n含まれています。\n<u>受講手続きについて</u> •申込み受付期間：\n①② 9 月1 日（金）～9 月15 日（金）\n②③④⑤ 11 月1 日（水）～11 月15 日（水）\n•申込み方法：ホームページまたは電話で申込みをしてください。申し込み多数の場合は抽選と なります。\n•受講が決定した方には、しめ切り後10 日以内にふり込み用紙を送ります。講座開始の5 日 前までに受講料のふり込みをお願いします。\n•申し込み受付期間が過ぎている場合でも、定員に達していなければ講座開始の3 日前まで なら申し込み可能です。電話でご確認ください。その際にふり込み先をお伝えしますので、講座開始の2 日前までに受講料をふり込んでください。\n電話：0204-2000-8688",
+      "question": "前田さんは、花か木について学べる講座を受けたいと思っている。午前に行われる講座で、講義だけではなく実習もある講座がいい。前田さんの希望に合う講座はどれか。",
+      "options": [
+        "①と③と⑤",
+        "②と③",
+        "③と⑤",
+        "③のみ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · ③と⑤\n\n【Dịch câu hỏi】\nMaeda muốn học khóa học về hoa hoặc cây, diễn ra vào buổi sáng, có cả lý thuyết lẫn thực hành (実習). Khóa học nào phù hợp?\n\n【Phân tích】\n• Chủ đề hoa hoặc cây: ①, ②, ③, ⑤ (loại ④ vì về rau).\n• Buổi sáng (9:00–11:00): ②, ③, ⑤ (loại ① vì học 14:00–16:00).\n• Có thực hành (実習): Lưu ý mục 「・②以外の講座では、講義のほかに実習も行います。」 (Các khóa ngoài ② đều có thực hành) → Loại ②, còn ③ và ⑤ → Chọn 3."
+    },
+    {
+      "question_id": 71,
+      "context": "野村農業大学 公開講座\n「自然に親しむ課題」\n野村農業大学では、自然への理解を深めるための講座を実施します。\nタイトル 講題内容 日時 受講料\n秋の花の育て方を学び、実習で鉢に\n10/8（日）\n① 秋の花に親しむ 3,000 円\n花を植えます。 14 時～16 時\n日本の森の現状を知り、森の木を守\n10/14（土）\n② 森の木を守る 2,000 円\nり、育てる方法を学びます。 9 時～11 時\n身近に咲いている花の種類について\n12/2（土）\n学び、実習で大学周辺での撮影を行\n③ 身近な花を撮る 2,500 円\n9 時～11 時\nいます。\n家庭で簡単に育てられる野菜を知り、\n12/10（日）\n④ 野菜を知る 3,000 円\n実習でホウレンソウを収穫します。 14 時～16 時\n木の香りとその効果を学び、実習で香\n12/16（土）\n⑤ 木の香りを楽しむ 5,000 円\n水を作ります。 9 時～11 時\n<u>講座について</u>\n•定員：各講座25 名\n•②以外の講座では、講義のほかに実習も行います。実習にかかる材料費等は受講料に\n含まれています。\n<u>受講手続きについて</u> •申込み受付期間：\n①② 9 月1 日（金）～9 月15 日（金）\n②③④⑤ 11 月1 日（水）～11 月15 日（水）\n•申込み方法：ホームページまたは電話で申込みをしてください。申し込み多数の場合は抽選と なります。\n•受講が決定した方には、しめ切り後10 日以内にふり込み用紙を送ります。講座開始の5 日 前までに受講料のふり込みをお願いします。\n•申し込み受付期間が過ぎている場合でも、定員に達していなければ講座開始の3 日前まで なら申し込み可能です。電話でご確認ください。その際にふり込み先をお伝えしますので、講座開始の2 日前までに受講料をふり込んでください。\n電話：0204-2000-8688",
+      "question": "ユーキさんは公開講座の案内を見て、④の講座を受けたいと思った。今日は12月3日である。ユーキさんはどのように申し込まなければならないか。",
+      "options": [
+        "12月5日までにホームページか電話で空きを確認し申し込む。",
+        "12月5日までに電話で空きを確認し申し込む。",
+        "12月7日までにホームページか電話で空きを確認し申し込む。",
+        "12月7日までに電話で空きを確認し申し込む。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 12月7日までに電話で空きを確認し申し込む。\n\n【Dịch câu hỏi】\nYuuki muốn đăng ký khóa ④ (diễn ra ngày 10/12). Hôm nay là ngày 3/12. Yuuki phải đăng ký như thế nào?\n\n【Phân tích】\n• Thời hạn đăng ký chính thức của khóa ④ là 1/11–15/11 (đã qua).\n• Mục cuối phần thủ tục ghi rõ: 「申し込み受付期間が過ぎている場合でも、定員に達していなければ講座開始の3日前までなら申し込み可能です。電話でご確認ください。」 (Dù đã qua thời gian nhận đăng ký, nếu vẫn còn chỗ thì có thể đăng ký chậm nhất 3 ngày trước ngày khai giảng. Hãy xác nhận qua điện thoại).\n• Khóa ④ học ngày 10/12 → 3 ngày trước là ngày 7/12, liên hệ qua điện thoại → Chọn 4."
+    }
+  ]
+}

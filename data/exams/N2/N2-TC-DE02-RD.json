@@ -1,0 +1,270 @@
+{
+  "id": "N2-TC-DE02-RD",
+  "code": "TC-DE02-RD",
+  "title": "Đề thực chiến 2 · Đọc hiểu",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 52,
+      "context": "問題10. 次の文章を読んで、後の問いに対する答えとして、最もよいものを1・2・3・4 から\n一つ選びなさい。\n(1)\n以下は、将棋のプロが書いた文章である。\n物事を推し進めていくうえで、その土台となるのは創造力でも企画力でもない。いくら創造力や企画力を働かせようとしても、道具となる知識や材料となる情報がなければ何も始まらないのだ。知識は、頭の中に貯えられた記憶の体験が土台になるのである。つまり、創造力やアイデアの源は、頭の中の記憶の組み合わせから生まれるもので、その土台がしっかりしていなければ、良いアイデアが閃くわけがないのだ。\n（注 1) 推し進める：進める\n\n（注 2) 源:もと",
+      "question": "筆者の考えに合うのはどれか。",
+      "options": [
+        "記憶力を高めることによって、物事がうまく進められる。",
+        "記憶されている知識や情報がもとになって、良いアイデアが生まれる。",
+        "知識や情報をたくさん集めれば、創造力や企画力が発揮できる。",
+        "どんなことでも記憶しておけば、創造力やアイデアの土台になる。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 記憶されている知識や情報がもとになって、良いアイデアが生まれる。\n\n【Dịch câu hỏi】\nĐọc hiểu: Ý nào khớp với suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Nâng cao trí nhớ sẽ giúp mọi việc tiến triển tốt.\n2. Ý tưởng hay sinh ra từ kiến thức và thông tin đã được ghi nhớ.\n3. Chỉ cần gom nhiều kiến thức/thông tin là phát huy được sáng tạo và lập kế hoạch.\n4. Cứ nhớ bất cứ điều gì cũng trở thành nền tảng cho sáng tạo và ý tưởng.\n\n【Dịch bài đọc】\nKhi thúc đẩy công việc, nền tảng không phải sức sáng tạo hay năng lực lập kế hoạch. Dù muốn vận dụng sáng tạo/kế hoạch đến đâu, nếu không có kiến thức làm công cụ và thông tin làm nguyên liệu thì chẳng bắt đầu được gì. Kiến thức lấy nền từ trải nghiệm ký ức đã tích trong đầu. Nói cách khác, nguồn của sáng tạo và ý tưởng là sự kết hợp các ký ức trong đầu; nếu nền tảng đó không vững thì không thể loé lên ý tưởng tốt.\n\n【Keyword】\n知識や情報, 記憶の組み合わせ, アイデアの源\n\n【Câu chính / căn cứ】\n「創造力やアイデアの源は、頭の中の記憶の組み合わせから生まれる」\n\n【Cách giải nhanh】\nÝ tưởng tốt ← kết hợp ký ức/kiến thức đã nhớ. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không nói chỉ cần tăng 記憶力 là mọi việc suôn sẻ.\n2: Đúng — khớp 「記憶されている知識や情報」là gốc ý tưởng.\n3: Sai — gom nhiều chưa đủ; cần nền ký ức vững để kết hợp.\n4: Sai — không phải nhớ gì cũng thành nền; cần kiến thức/thông tin làm công cụ.\n\n【Chi tiết thêm】\nBẫy 3: bài nhấn “không có kiến thức thì không bắt đầu”, không nói “càng nhiều càng phát huy”."
+    },
+    {
+      "question_id": 53,
+      "context": "(2)\n以下は、ある不動産管理会社に届いたメールである。\nらくらくルーム社 青寺店\n森田様\n花西マンション302 号室に入居予定の木村です。\n引っ越し当日の3 月20 日の金曜日、午前中に貴店で新居の鍵を受け取る約束でしたが、 荷物が10 時に到着することになりました。そのため、前日19 日の午後に鍵を受け取りたいと思いホームページを確認したところ、貴店は木曜日が定休日でした。\n鍵の受け取り日が定休日の場合は、ほかの支店で受け取れると書いてありましたので、仕事の帰りに中央駅前店に寄りたいと思いますが、鍵を受け取ることは可能でしょうか。\nお返事をお待ちしております。\n木村ゆり\n（注1） カケラ:ここでは、小さな部分\n（注2） プレる：ここでは、不安定になる\n（注3） 気の迷い: ここでは、間違った判断",
+      "question": "新居の鍵について、木村さんが問い合わせていることは何か。",
+      "options": [
+        "3 月19 日の午後に青寺店で受け取れるか。",
+        "3 月19 日の午後に中央駅前店で受け取れるか。",
+        "3 月20 日の午前中に青寺店で受け取れるか。",
+        "3 月20 日の午前中に中央駅前店で受け取れるか。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 3 月19 日の午後に中央駅前店で受け取れるか。\n\n【Dịch câu hỏi】\nVề chìa khóa nhà mới, Kimura đang hỏi điều gì?\n\n【Dịch 4 đáp án】\n1. Chiều 19/3 nhận tại cửa hàng Aodera được không?\n2. Chiều 19/3 nhận tại cửa hàng trước Ga Trung tâm được không?\n3. Sáng 20/3 nhận tại cửa hàng Aodera được không?\n4. Sáng 20/3 nhận tại cửa hàng trước Ga Trung tâm được không?\n\n【Dịch bài đọc】\nGửi Morita – cửa hàng Aodera công ty Rakuraku Room. Tôi là Kimura, sắp chuyển vào phòng 302 chung cư Hananishi. Đã hẹn nhận chìa khóa nhà mới sáng thứ Sáu 20/3 tại cửa hàng quý vị, nhưng đồ đạc sẽ đến lúc 10 giờ. Vì vậy muốn nhận chìa chiều hôm trước 19/3; xem trang web thì thứ Năm cửa hàng nghỉ. Trang ghi nếu ngày nhận trùng ngày nghỉ có thể nhận ở chi nhánh khác, nên tôi muốn ghé vành cửa hàng trước Ga Trung tâm lúc tan làm — xin hỏi có nhận được không? Mong hồi âm. Kimura Yuri.\n\n【Keyword】\n3月19日の午後, 中央駅前店, 定休日\n\n【Câu chính / căn cứ】\n「仕事の帰りに中央駅前店に寄りたい…鍵を受け取ることは可能でしょうか」\n\n【Cách giải nhanh】\nMuốn nhận chiều 19/3 ở 中央駅前店 (vì Aodera nghỉ thứ Năm). → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — Aodera nghỉ thứ Năm nên không hỏi nhận ở đó ngày 19.\n2: Đúng — đúng ngày, đúng chi nhánh đang hỏi.\n3: Sai — đó là lịch hẹn cũ; đang đổi vì đồ đến lúc 10h.\n4: Sai — sai ngày (20) dù đúng chi nhánh thay thế.\n\n【Chi tiết thêm】\nEmail hỏi đáp: bám câu hỏi cuối 「可能でしょうか」và lý do đổi lịch."
+    },
+    {
+      "question_id": 54,
+      "context": "以下は、美術作品の見方について書かれた文章である。\nもし、何かの作品を見て、最初は「どうかな？」と感じたとしても、ふと「もしかしたら面白いかも」と思うことを私は「肯定のカケラ」と呼んでいます。「肯定のカケラ」を感じた時、その自分の変化を「見方がブレたのでは？」と思ってしまう場合がありますが、気の迷いとしてすませてしまっては、とてももったいないことです。それまで自分が認められなかったことを認めるのは、自分の可能性が広がることです。決してブレではありません。自分の変化に柔軟であることが大事です。\n（注1）カケラ：ここでは、小さな部分\n（注2）ブレる：ここでは、不安定になる\n（注3）気の迷い：ここでは、間違った判断",
+      "question": "美術作品の見方について、筆者はどのように考えているか。",
+      "options": [
+        "自分の見方の変化を受け入れることが大事だ。",
+        "自分の可能性を広げるために、いろいろな見方をすべきだ。",
+        "よい作品を通して自分の見方を変えていくべきだ。",
+        "ほかの人が認めなくても、自分の見方を大事にすべきだ。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 自分の見方の変化を受け入れることが大事だ。\n\n【Dịch câu hỏi】\nVề cách thưởng thức tác phẩm nghệ thuật, tác giả suy nghĩ như thế nào?\n\n【Phân tích】\nTác giả nêu: Công nhận điều mà trước đó mình chưa công nhận chính là mở rộng khả năng của bản thân, hoàn toàn không phải là dao động thiếu lập trường. Điều quan trọng là phải linh hoạt đón nhận sự thay đổi của chính mình (「それまで自分が認められなかったことを認めるのは、自分の可能性が広がることです。決してブレではありません。自分の変化に柔軟であることが大事です。」) → Khớp với đáp án 1."
+    },
+    {
+      "question_id": 55,
+      "context": "(４)\n以下は、ある会社の社内文書である。\n10 月15 日\n担当者各位\n商品管理部長\n納品時の確認について\n先週千川営業所で、注文とは違う商品を納品するというミスが発生しました。原因を調査したところ、当日、納品が重なったため、商品配送時の最終確認をしていなかったとのことです。\n最終確認では、倉庫から商品を取り出した人とは別の人が、注文書と商品の内容・個数に間違いがないか確認することになっています。\nどんな状況でもミスが起こらないように確認を徹底してください。\nよろしくお願いします。\n以上",
+      "question": "社員が求められていることは何か。",
+      "options": [
+        "ミスが起きた原因を調べ直すこと。",
+        "最終確認をする人数を増やすこと。",
+        "今までの最終確認の方法を見直すこと。",
+        "決められている最終確認の方法を守ること。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 決められている最終確認の方法を守ること。\n\n【Dịch câu hỏi】\nHỏi: Nhân viên được yêu cầu làm điều gì?\n\n【Dịch 4 đáp án】\n1. Điều tra lại nguyên nhân xảy ra lỗi.\n2. Tăng số lượng người thực hiện việc kiểm tra cuối cùng.\n3. Xem xét lại phương pháp kiểm tra cuối cùng từ trước tới nay.\n4. Tuân thủ đúng phương pháp kiểm tra cuối cùng đã được quy định.\n\n【Dịch bài đọc】\nNgày 15 tháng 10\n\nKính gửi: Các nhân viên phụ trách\n\nNgười gửi: Trưởng phòng Quản lý sản phẩm\n\nTiêu đề: Về việc xác nhận khi giao hàng\n\nTuần trước, tại chi nhánh Senkawa đã xảy ra sai sót giao nhầm sản phẩm khác với đơn đặt hàng. Khi điều tra nguyên nhân, được biết do hôm đó các đợt giao hàng dồn dập nên đã không thực hiện bước xác nhận cuối cùng lúc xuất hàng đi.\n\nTheo quy định, ở bước xác nhận cuối cùng, một người khác với người đã lấy hàng ra từ kho phải đối chiếu kiểm tra xem nội dung và số lượng hàng hóa có sai lệch gì so với đơn đặt hàng hay không.\n\nYêu cầu mọi người triệt để tuân thủ việc xác nhận để không xảy ra sai sót trong bất kỳ hoàn cảnh nào.\n\nRất mong sự hợp tác của mọi người. Hết.\n\n【Keyword】\n確認を徹底してください, 確認することになっています\n\n【Câu chính / căn cứ】\n「最終確認では、倉庫から商品を取り出した人とは別の人が…確認することになっています。どんな状況でもミスが起こらないように確認を徹底してください。」\n\n【Cách giải nhanh】\nQuy định người thứ hai kiểm tra đã có sẵn (〜ことになっています); lỗi xảy ra do bỏ qua quy trình; trưởng phòng yêu cầu thực hiện triệt để quy định đó. → Chọn 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nguyên nhân đã điều tra xong rồi (đã biết là do không làm kiểm tra cuối).\n2: Sai — quy định là 1 người khác làm (tổng 2 người), không hề yêu cầu tăng thêm nhân sự.\n3: Sai — không thay đổi phương pháp, phương pháp cũ vẫn giữ nguyên.\n4: Đúng — yêu cầu tuân thủ đúng quy trình kiểm tra đã được ấn định."
+    },
+    {
+      "question_id": 56,
+      "context": "(５)\n親子はもっとも身近でありながら、ときにもっとも遠くなってしまう存在かもしれない。私も母とは「わかり合えない」と悟ったときに、ある一定の距離ができたことは否めない。だが、そのことで愛情がなくなるとか、関係が冷えるとかそういう感覚は一切 なかった。むしろ「わかり合えない」とわかることは相手を理解しようとするための最初の一歩ではないかと思う。もし「子どものことはなんでも自分が一番よくわかっている」と思っている親がいるとしたら、それはとても怖いことだと思う。\n（注1） 悟る:気づく\n（注2） 否めない:否定できない\n（注3） 一切:全く",
+      "question": "親子について、筆者はどのように考えているか。",
+      "options": [
+        "わかり合えないと思うところから、お互いの理解が始まる。",
+        "わかり合えないということに、お互いが気づくのは難しい。",
+        "わかり合うためには、一定の距離を保つことが大切だ。",
+        "身近な存在だからこそ、いつかはわかり合えるものだ。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · わかり合えないと思うところから、お互いの理解が始まる。\n\n【Dịch câu hỏi】\nVề quan hệ cha mẹ–con cái, tác giả nghĩ thế nào?\n\n【Dịch 4 đáp án】\n1. Sự thấu hiểu bắt đầu từ chỗ nhận ra rằng không thể hoàn toàn hiểu nhau.\n2. Khó để đôi bên nhận ra rằng không thể hiểu nhau.\n3. Để hiểu nhau cần giữ một khoảng cách nhất định.\n4. Vì là người thân nên rồi sẽ hiểu nhau.\n\n【Dịch bài đọc】\nCha mẹ và con cái vừa gần gũi nhất, đôi khi lại trở thành tồn tại xa cách nhất. Bản thân tôi, khi nhận ra không thể “hiểu nhau” với mẹ, không thể phủ nhận đã có một khoảng cách nhất định. Nhưng điều đó không làm mất tình cảm hay làm lạnh quan hệ. Ngược lại, hiểu rằng “không hiểu hết nhau” chính là bước đầu để cố gắng hiểu đối phương. Nếu có phụ huynh nghĩ “mình hiểu con nhất mọi thứ” thì đó là điều rất đáng sợ.\n\n【Keyword】\nわかり合えないとわかる, 最初の一歩, 理解しようとするため\n\n【Câu chính / căn cứ】\n「『わかり合えない』とわかることは相手を理解しようとするための最初の一歩」\n\n【Cách giải nhanh】\nBước đầu hiểu nhau = nhận ra không hiểu hết nhau. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp câu then chốt.\n2: Sai — bài không nói việc nhận ra là khó.\n3: Sai — khoảng cách là hệ quả đã xảy ra, không phải điều kiện cần để hiểu nhau.\n4: Sai — trái với việc đã 「わかり合えないと悟った」.\n\n【Chi tiết thêm】\nPhủ định đáp án kiểu “rồi sẽ hiểu” khi bài thừa nhận khoảng cách."
+    },
+    {
+      "question_id": 57,
+      "context": "選びなさい。\n(1)\n新年度が始まった。進級や進学、転勤やそれに伴う転居など変化の多い季節だ。新しい学校\nに進学したり職場を変わったりして新しい環境に入っていく人も多いだろう。（中略）\n新しい環境では緊張や不安を感じるものだ。人見知りが強い性格だと、こうした変化が苦\n手だ。私もその一人だが、どんな場所でもいつも通り元気に自分の力を発揮する人を見ると、うらやま\nしくも思える。こちらは少々なことで気持ちが揺れ動いているように思え、いつでも平常心で行動でき\nればと考える。\nしかし新しい環境で不安を感じないというのは、<u>必ずしも良いことではない</u>。慣れない環境で、\n何の不安も感じずにこれまでと同じような行動をしていたのでは、思いがけない失敗をする可能性が\nある。これまでの経験からは想定できないことが起きるかもしれない。人生、何があるかわからな\nいのだ。\n慣れない場所では、むしろ良くないことが起きる可能性を考えて慎重に行動した方が安全だ。\n私たちは不安を感じるからこそ、良くない事態に備えて準備しようと考える。緊張するからこそ、集中し\nて、しかも慎重に問題に対応できる。実際に良くないことが起きたときの対応法もシミュレーション\nできる。\n不安や緊張は自分を守る安全弁の働きをしている。不安や緊張を感じたときは、そのよう\nな気持ちを感じられる自分のこころの力を信じて、あれこれ考えすぎずに今自分にできることに集中す\nるようにしてほしい。\n（注1） 人見知り：初対面の相手に緊張する気持ち\n（注2） 想定する：ここでは、想像する\n（注3） シミュレーションする：ここでは、想像する\n（注4） 安全弁：ここでは、安全のための装置",
+      "question": "<u>必ずしも良いことではない</u>とあるが、なぜか。",
+      "options": [
+        "予想しなかったことにうまく対応できないかもしれないから。",
+        "これまでと同じような失敗をする可能性があるから。",
+        "これまでのやり方を周囲に押しつけてしまうから。",
+        "いつまでも新しい環境に慣れることができないから。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 予想しなかったことにうまく対応できないかもしれないから。\n\n【Dịch câu hỏi】\nVì sao nói “không nhất thiết là điều tốt”?\n\n【Dịch 4 đáp án】\n1. Vì có thể không ứng phó tốt với điều ngoài dự liệu.\n2. Vì có thể lặp lại thất bại giống trước.\n3. Vì áp đặt cách làm cũ lên người xung quanh.\n4. Vì mãi không quen được môi trường mới.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Nếu ở môi trường mới mà không cảm thấy bất an và cứ hành động như trước, có thể thất bại trước tình huống nằm ngoài kinh nghiệm dự đoán — vì vậy việc không thấy bất an không nhất thiết là tốt.\n\n【Keyword】\n必ずしも良いことではない, 予想しなかったこと, 対応できない\n\n【Câu chính / căn cứ】\n「予想しなかったことにうまく対応できないかもしれない」\n\n【Cách giải nhanh】\nKhông bất an → dễ chủ quan → kém ứng phó cái ngoài dự liệu. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — đúng lý do bài nêu.\n2: Sai — không nhấn “lặp lại đúng thất bại cũ”.\n3: Sai — không nói áp đặt lên người khác.\n4: Sai — không kết luận là không bao giờ quen được.\n\n【Chi tiết thêm】\nCâu hỏi 「なぜか」→ tìm nguyên nhân ngay sau cụm được trích."
+    },
+    {
+      "question_id": 58,
+      "context": "選びなさい。\n(1)\n新年度が始まった。進級や進学、転勤やそれに伴う転居など変化の多い季節だ。新しい学校\nに進学したり職場を変わったりして新しい環境に入っていく人も多いだろう。（中略）\n新しい環境では緊張や不安を感じるものだ。人見知りが強い性格だと、こうした変化が苦\n手だ。私もその一人だが、どんな場所でもいつも通り元気に自分の力を発揮する人を見ると、うらやま\nしくも思える。こちらは少々なことで気持ちが揺れ動いているように思え、いつでも平常心で行動でき\nればと考える。\nしかし新しい環境で不安を感じないというのは、<u>必ずしも良いことではない</u>。慣れない環境で、\n何の不安も感じずにこれまでと同じような行動をしていたのでは、思いがけない失敗をする可能性が\nある。これまでの経験からは想定できないことが起きるかもしれない。人生、何があるかわからな\nいのだ。\n慣れない場所では、むしろ良くないことが起きる可能性を考えて慎重に行動した方が安全だ。\n私たちは不安を感じるからこそ、良くない事態に備えて準備しようと考える。緊張するからこそ、集中し\nて、しかも慎重に問題に対応できる。実際に良くないことが起きたときの対応法もシミュレーション\nできる。\n不安や緊張は自分を守る安全弁の働きをしている。不安や緊張を感じたときは、そのよう\nな気持ちを感じられる自分のこころの力を信じて、あれこれ考えすぎずに今自分にできることに集中す\nるようにしてほしい。\n（注1） 人見知り：初対面の相手に緊張する気持ち\n（注2） 想定する：ここでは、想像する\n（注3） シミュレーションする：ここでは、想像する\n（注4） 安全弁：ここでは、安全のための装置",
+      "question": "筆者の考えに合うのはどれか。",
+      "options": [
+        "不安や緊張を感じないように、平常心で今できることに集中すればいい。",
+        "不安や緊張を感じたら、原因を考えて次の行動に生かした方がいい。",
+        "不安や緊張を感じたら、その気持ちを大切にして迷わず行動するのがいい。",
+        "不安や緊張を感じても気にしないで、いつも通りのことをした方がいい。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 不安や緊張を感じたら、その気持ちを大切にして迷わず行動するのがいい。\n\n【Dịch câu hỏi】\nÝ nào khớp suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Đừng để cảm thấy bất an/căng thẳng; giữ bình thường và tập trung việc đang làm.\n2. Khi bất an/căng thẳng, hãy tìm nguyên nhân để áp dụng cho hành động sau.\n3. Khi bất an/căng thẳng, hãy coi trọng cảm xúc đó và hành động không do dự.\n4. Dù bất an/căng thẳng cũng đừng bận tâm, cứ làm như mọi ngày.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Tác giả xem bất an và căng thẳng như “van an toàn” bảo vệ con người; khuyên trân trọng cảm xúc ấy và tập trung hành động vào việc có thể làm ngay, không bị do dự kéo dài.\n\n【Keyword】\n不安や緊張, 気持ちを大切に, 迷わず行動\n\n【Câu chính / căn cứ】\n「その気持ちを大切にして迷わず行動するのがいい」\n\n【Cách giải nhanh】\nKhông phủ nhận bất an; dùng nó để hành động. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — khuyên đừng cảm thấy → trái bài.\n2: Sai — bài không nhấn phân tích nguyên nhân cho lần sau.\n3: Đúng — trân trọng cảm xúc + hành động.\n4: Sai — “không bận tâm, làm như mọi ngày” ≈ chủ quan bị bài cảnh báo.\n\n【Chi tiết thêm】\nPhân biệt 3 và 4: 4 phủ nhận cảm xúc; 3 tận dụng cảm xúc."
+    },
+    {
+      "question_id": 59,
+      "context": "(2)\n「いぬ」は人間の家畜になる前から、群れで暮していた動物です。人間の家族の一員とも\nなれば集団生活の掟そのままに、飼い主を群れのリーダーや上位のものとみなし、日頃から\n服従の態度を示します。また、飼い主のその日の顔色を窺うなど、家庭内の空気を読みとりなが\nら、上手にふるまう（注５）ことにも長けています。群れで生活する動物は、お互いの状況を把握し\nて、それにあわせた行動をとることが、群れ社会のなかで生きていくには必要だからです。人間に\nとっても、「いぬのきもち」は非常にわかりやすく、会話はできなくとも、お互いなにを考えているかが理\n解しやすい動物です。そこが、「いぬ」と一緒に暮らすことのひとつ魅力でもあるのでしょう。\n一方、「ねこ」は、もともとが単独で行動していた動物ですので、家の中で人間の家族と一緒\nに暮らすようになっても、協調性のようなものはありません。また、家族の中での自分の立場もあまり気\nにしないので、いぬのように、飼い主をリーダーとみなして服従することはありません。（中略）ねこがい\nったい飼い主である自分のことをどう思っているのか、飼い主であれば誰しも知りたいところですが、\n人間の持つ気持ちや感情の尺度では、完全には理解しがたい動物だと思います。ねこはそもそも集\n団生活をしない、個を重視する孤独な生き物だからです。しかし、この理解できないところが、ねこの\n大きな魅力のひとつであり、人間が、ねこと一緒に暮らしたがる理由のひとつではないでしょうか。\n（注1） 家畜：人間が飼って利用する動物\n（注2） 掟：ここでは、決まり\n（注3） みなす：考える\n（注4） 服従の態度：ここでは、従う態度\n（注5） ふるまう：行動する\n（注6） 長ける：優れている\n（注7） 把握する：ここでは、理解する",
+      "question": "いぬについて、筆者はどのように述べているか。",
+      "options": [
+        "所属する集団のリーダーとして行動しようとする。",
+        "リーダーや上位のものの利益のために行動できる。",
+        "孤独に慣れていないので、集団で行動することを好む。",
+        "集団生活をしていたので、周囲にあわせた行動ができる。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 集団生活をしていたので、周囲にあわせた行動ができる。\n\n【Dịch câu hỏi】\nVề chó, tác giả trình bày thế nào?\n\n【Dịch 4 đáp án】\n1. Cố hành động như thủ lĩnh của đàn.\n2. Có thể hành động vì lợi ích của thủ lĩnh/cá thể cấp cao.\n3. Không quen cô đơn nên thích hành động theo đàn.\n4. Vì từng sống theo đàn nên có thể hành động khớp với xung quanh.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Chó vốn sống theo đàn, phải nắm bắt tình hình các cá thể khác và điều chỉnh hành vi để tồn tại trong tập thể — vì vậy có thể hành động phù hợp với xung quanh.\n\n【Keyword】\n集団生活, 周囲にあわせた行動\n\n【Câu chính / căn cứ】\n「集団生活をしていたので、周囲にあわせた行動ができる」\n\n【Cách giải nhanh】\nNền tảng đàn → điều chỉnh hành vi theo xung quanh. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không nói chó muốn làm lãnh đạo.\n2: Sai — không nhấn vì lợi ích cấp trên.\n3: Sai — lý do không phải “không quen cô đơn”.\n4: Đúng — khớp quan hệ nhân quả bài nêu.\n\n【Chi tiết thêm】\nSo sánh với mèo ở câu sau: chó = đồng bộ đàn; mèo = khó đọc cảm xúc."
+    },
+    {
+      "question_id": 60,
+      "context": "(2)\n「いぬ」は人間の家畜になる前から、群れで暮していた動物です。人間の家族の一員とも\nなれば集団生活の掟そのままに、飼い主を群れのリーダーや上位のものとみなし、日頃から\n服従の態度を示します。また、飼い主のその日の顔色を窺うなど、家庭内の空気を読みとりなが\nら、上手にふるまう（注５）ことにも長けています。群れで生活する動物は、お互いの状況を把握し\nて、それにあわせた行動をとることが、群れ社会のなかで生きていくには必要だからです。人間に\nとっても、「いぬのきもち」は非常にわかりやすく、会話はできなくとも、お互いなにを考えているかが理\n解しやすい動物です。そこが、「いぬ」と一緒に暮らすことのひとつ魅力でもあるのでしょう。\n一方、「ねこ」は、もともとが単独で行動していた動物ですので、家の中で人間の家族と一緒\nに暮らすようになっても、協調性のようなものはありません。また、家族の中での自分の立場もあまり気\nにしないので、いぬのように、飼い主をリーダーとみなして服従することはありません。（中略）ねこがい\nったい飼い主である自分のことをどう思っているのか、飼い主であれば誰しも知りたいところですが、\n人間の持つ気持ちや感情の尺度では、完全には理解しがたい動物だと思います。ねこはそもそも集\n団生活をしない、個を重視する孤独な生き物だからです。しかし、この理解できないところが、ねこの\n大きな魅力のひとつであり、人間が、ねこと一緒に暮らしたがる理由のひとつではないでしょうか。\n（注1） 家畜：人間が飼って利用する動物\n（注2） 掟：ここでは、決まり\n（注3） みなす：考える\n（注4） 服従の態度：ここでは、従う態度\n（注5） ふるまう：行動する\n（注6） 長ける：優れている\n（注7） 把握する：ここでは、理解する",
+      "question": "筆者によると、ねこを飼う人は、ねこのどんな点がいいと思っているか。",
+      "options": [
+        "人間には気持ちがわかりにくいこと。",
+        "人間の気持ちが理解できないこと。",
+        "集団生活を嫌い、協調性がないこと。",
+        "孤独を好み、人間に愛情を示さないこと。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 人間には気持ちがわかりにくいこと。\n\n【Dịch câu hỏi】\nTheo tác giả, người nuôi mèo thích điểm nào ở mèo?\n\n【Dịch 4 đáp án】\n1. Cảm xúc của mèo khó hiểu đối với con người.\n2. Mèo không hiểu được cảm xúc con người.\n3. Ghét sống theo đàn, thiếu phối hợp.\n4. Thích cô đơn, không bày tỏ tình cảm với người.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Điểm hấp dẫn lớn là con người khó hiểu hết cảm xúc của mèo bằng thước đo cảm xúc của mình.\n\n【Keyword】\n気持ちがわかりにくい, 魅力\n\n【Câu chính / căn cứ】\n「人間には気持ちがわかりにくいこと」\n\n【Cách giải nhanh】\nKhó hiểu cảm xúc mèo (từ phía người) = điểm hấp dẫn. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — chủ thể “khó hiểu” là phía con người.\n2: Sai — đảo chiều: không phải mèo không hiểu người.\n3: Sai — mang sắc thái tiêu cực; không phải “điểm tốt” người nuôi thấy.\n4: Sai — cực đoan; bài không nói không bày tỏ tình cảm.\n\n【Chi tiết thêm】\nChú ý hướng hiểu: 人間には〜わかりにくい."
+    },
+    {
+      "question_id": 61,
+      "context": "(３)\n作家が小説を書くときは、頭の中に書いているシーンが「絵」や「映像」として浮かんでいます。\nそのシーンを言語化し、文字という記号にしているのです。読者は作家が書いた文字を読み、頭の中\nで想像しながら映像化します。そこで感情移入が起きて、笑ったり、涙したりしているのです。\n小説がベストセラーとなり映画化されると「この配役じゃない」「そのシーンは違う」といった\n声がよく上がりますが、これは<u>当たり前のことです</u>。映画というのは監督が原作を読んでイメージを膨\nらませ、映像化した作品だからです。原作の小説は読者一人一人が作家からの記号（文字）を受け\n取って、それぞれが自由にシーンを思い浮かべています。\nフランスの哲学者ロラン・バルトはこの現象を「作者の死」と表現しました。\n「物語は作者の意図通りに読まなくてもいい。読者が好きな読み方をして、それぞれ解釈すれば\nいい」\n「作者は作品を支配できず、読者に解釈を任せなければならない」\nロラン・バルトはそう主張しました。私たちは作品の解釈を作者に求めがちです。これは作者の\n意図を正確に読み取ろうという発想です。そうではなく、作品の解釈は読者それぞれでいい。読者そ\nれぞれが頭の中で好き勝手に映像化していいのです。\n（注1） 感情移入：ここでは、登場人物と同じ気持ちになること\n（注2） ベストセラー：最もよく売れている本\n（注3） この配役じゃない：ここでは、演じている俳優がこの役に合っていない",
+      "question": "<u>当たり前のことです</u>とあるが、なぜか。",
+      "options": [
+        "監督より読者のほうが、感情を入れてイメージを膨らませるから。",
+        "読者より監督のほうが、正確に原作を理解しようとするから。",
+        "頭の中のイメージを正確に映像化することはできないから。",
+        "人によって原作を読んで得たイメージが異なるから。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 人によって原作を読んで得たイメージが異なるから。\n\n【Dịch câu hỏi】\nVì sao nói việc phim khác hình dung của độc giả là “đương nhiên”?\n\n【Dịch 4 đáp án】\n1. Vì độc giả gắn cảm xúc, phóng tưởng nhiều hơn đạo diễn.\n2. Vì đạo diễn cố hiểu nguyên tác chính xác hơn độc giả.\n3. Vì không thể hiện đúng hình ảnh trong đầu thành hình ảnh động.\n4. Vì hình dung khi đọc nguyên tác khác nhau tùy người.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Mỗi độc giả và đạo diễn đều tự tạo hình ảnh riêng từ chữ viết, nên bản phim khác hình dung của độc giả là chuyện đương nhiên.\n\n【Keyword】\n人によってイメージが異なる, 当たり前\n\n【Câu chính / căn cứ】\n「人によって原作を読んで得たイメージが異なるから」\n\n【Cách giải nhanh】\nKhác biệt hình dung giữa người với người → đương nhiên. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không so “độc giả cảm xúc hơn đạo diễn”.\n2: Sai — không khẳng định đạo diễn hiểu chính xác hơn.\n3: Sai — không phải vì không thể chuyển thể chính xác về kỹ thuật.\n4: Đúng — đúng lý do.\n\n【Chi tiết thêm】\n「当たり前」thường được giải thích ngay trước/sau cụm trích."
+    },
+    {
+      "question_id": 62,
+      "context": "(３)\n作家が小説を書くときは、頭の中に書いているシーンが「絵」や「映像」として浮かんでいます。\nそのシーンを言語化し、文字という記号にしているのです。読者は作家が書いた文字を読み、頭の中\nで想像しながら映像化します。そこで感情移入が起きて、笑ったり、涙したりしているのです。\n小説がベストセラーとなり映画化されると「この配役じゃない」「そのシーンは違う」といった\n声がよく上がりますが、これは<u>当たり前のことです</u>。映画というのは監督が原作を読んでイメージを膨\nらませ、映像化した作品だからです。原作の小説は読者一人一人が作家からの記号（文字）を受け\n取って、それぞれが自由にシーンを思い浮かべています。\nフランスの哲学者ロラン・バルトはこの現象を「作者の死」と表現しました。\n「物語は作者の意図通りに読まなくてもいい。読者が好きな読み方をして、それぞれ解釈すれば\nいい」\n「作者は作品を支配できず、読者に解釈を任せなければならない」\nロラン・バルトはそう主張しました。私たちは作品の解釈を作者に求めがちです。これは作者の\n意図を正確に読み取ろうという発想です。そうではなく、作品の解釈は読者それぞれでいい。読者そ\nれぞれが頭の中で好き勝手に映像化していいのです。\n（注1） 感情移入：ここでは、登場人物と同じ気持ちになること\n（注2） ベストセラー：最もよく売れている本\n（注3） この配役じゃない：ここでは、演じている俳優がこの役に合っていない",
+      "question": "小説の読み方について、筆者はどのように述べているか。",
+      "options": [
+        "作者の意図を読み取ろうという姿勢があれば、自由に解釈していい。",
+        "作者の意図を読み取るのは不可能なので、好きなように読めばいい。",
+        "作者の意図に縛られずに、作品の解釈を行えばいい。",
+        "作者の意図を想像しながら、読んだほうがいい。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 作者の意図に縛られずに、作品の解釈を行えばいい。\n\n【Dịch câu hỏi】\nVề cách đọc tiểu thuyết, tác giả nói thế nào?\n\n【Dịch 4 đáp án】\n1. Có thái độ muốn đọc ý đồ tác giả thì được tự do diễn giải.\n2. Không thể đọc ý đồ tác giả nên cứ đọc theo sở thích.\n3. Diễn giải tác phẩm mà không bị trói bởi ý đồ tác giả thì được.\n4. Nên đọc trong khi tưởng tượng ý đồ tác giả.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Dựa trên quan niệm “cái chết của tác giả”, bài cho rằng mỗi độc giả có thể tự do diễn giải, không cần tuân theo ý đồ tác giả.\n\n【Keyword】\n作者の意図に縛られずに, 解釈\n\n【Câu chính / căn cứ】\n「作者の意図に縛られずに、作品の解釈を行えばいい」\n\n【Cách giải nhanh】\nKhông bị trói bởi ý đồ tác giả → tự diễn giải. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — vẫn lấy “đọc ý đồ” làm điều kiện.\n2: Sai — “không thể nên thích sao đọc vậy” lệch lập luận bài.\n3: Đúng — khớp tự do diễn giải.\n4: Sai — khuyến khích bám ý đồ tác giả — trái bài.\n\n【Chi tiết thêm】\nBẫy 1: vừa “tự do” vừa “ý đồ” — nửa đúng nửa sai."
+    },
+    {
+      "question_id": 63,
+      "context": "(４)\n哲学は一般の人が、一般的な問題について考えるための学問です。「人生の意味とは何か」\n「人類に共通の利益はあるのか」「時間とは何か」「愛とは何か」「正義はどのように定まるのか」\n「国家はどのようにあるべきか」「法の役割とは何か」「正しい認識にはどうやって到達するのか」\n「宗教は必要か」などが哲学の典型的な問いです。\nこれらの問いは、複数の教科や学問分野の根底に関わるような問題であることはおわか\nりでしょう。「愛とは何か」を考えることは、個人的な愛についての考えを尋ねているだけではなく、隣\n人愛は、社会のなかで人々のつながりはどうあるべきか、家族愛は、家族とはどうあるべきかとい\nった、社会におけるみんなの問題となってくるはずです。社会観や家族観は、政策や法律の設定と\nも関係してくるでしょう。（中略）\nしかし哲学の<u>もうひとつの重要な仕事</u>は、それぞれの専門的な知識を、より一般的で全体的な\n観点から問い直すことです。たとえば、遺伝子治療は非常に専門性が高い分野です。しかし遺伝\n子治療の範囲をどこまで認めていいのか。遺伝子を組み替えて難病にかかりにくくした子どもを作っ\nていいのか。人間の遺伝子に対して、人間はどこまで改変してよいものなのでしょうか。\nこうしたことは、社会のだれにでも関わってくるので、医学の専門家だけに判断を任せてよい問\n題ではありません。社会に存在している常識や知識や技術を、人間の根本的な価値観に照らし合わ\nせてあらためて検討することは重要な哲学の役割です。\n（注1） 正義：人としての正しい行い\n（注2） 認識：ここでは、理解\n（注3） 根底：土台\n（注4） 隣人愛：ここでは、社会で交流のある人への愛\n（注5） 政策：政治の方針と手段\n（注6） 遺伝子治療：遺伝子に働きかける治療法\n（注7） 改変する：変える",
+      "question": "筆者によると、哲学の典型的な問いとはどのようなものか。",
+      "options": [
+        "複数の学問分野の知識をもとにして考えるべき問い。",
+        "社会のなかでの理想的な愛の形についての問い。",
+        "個人の利益ではなく、社会全体の利益につながる問い。",
+        "さまざまな事柄の基礎につながる、あらゆる人々に関わる問い。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · さまざまな事柄の基礎につながる、あらゆる人々に関わる問い。\n\n【Dịch câu hỏi】\nTheo tác giả, câu hỏi điển hình của triết học là loại nào?\n\n【Dịch 4 đáp án】\n1. Câu hỏi cần suy nghĩ dựa trên kiến thức nhiều ngành.\n2. Câu hỏi về hình thức tình yêu lý tưởng trong xã hội.\n3. Câu hỏi hướng tới lợi ích toàn xã hội chứ không phải cá nhân.\n4. Câu hỏi nối với nền tảng nhiều vấn đề và liên quan mọi người.\n\n【Dịch bài đọc】\n(Theo chú thích và giải thích đáp án) Các câu hỏi triết học liên quan nền tảng của nhiều môn/lĩnh vực và cuối cùng trở thành vấn đề chung của xã hội, liên quan mọi người.\n\n【Keyword】\n基礎につながる, あらゆる人々に関わる\n\n【Câu chính / căn cứ】\n「さまざまな事柄の基礎につながる、あらゆる人々に関わる問い」\n\n【Cách giải nhanh】\nNền tảng + liên quan mọi người. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không chỉ là “dùng kiến thức đa ngành”.\n2: Sai — 隣人愛 chỉ là ví dụ, không phải định nghĩa chung.\n3: Sai — không đối lập cá nhân vs xã hội theo cách đó.\n4: Đúng — định nghĩa điển hình trong bài.\n\n【Chi tiết thêm】\nVí dụ trong bài (công lý, tình yêu lân cận…) minh họa tính nền tảng phổ quát."
+    },
+    {
+      "question_id": 64,
+      "context": "(４)\n哲学は一般の人が、一般的な問題について考えるための学問です。「人生の意味とは何か」\n「人類に共通の利益はあるのか」「時間とは何か」「愛とは何か」「正義はどのように定まるのか」\n「国家はどのようにあるべきか」「法の役割とは何か」「正しい認識にはどうやって到達するのか」\n「宗教は必要か」などが哲学の典型的な問いです。\nこれらの問いは、複数の教科や学問分野の根底に関わるような問題であることはおわか\nりでしょう。「愛とは何か」を考えることは、個人的な愛についての考えを尋ねているだけではなく、隣\n人愛は、社会のなかで人々のつながりはどうあるべきか、家族愛は、家族とはどうあるべきかとい\nった、社会におけるみんなの問題となってくるはずです。社会観や家族観は、政策や法律の設定と\nも関係してくるでしょう。（中略）\nしかし哲学の<u>もうひとつの重要な仕事</u>は、それぞれの専門的な知識を、より一般的で全体的な\n観点から問い直すことです。たとえば、遺伝子治療は非常に専門性が高い分野です。しかし遺伝\n子治療の範囲をどこまで認めていいのか。遺伝子を組み替えて難病にかかりにくくした子どもを作っ\nていいのか。人間の遺伝子に対して、人間はどこまで改変してよいものなのでしょうか。\nこうしたことは、社会のだれにでも関わってくるので、医学の専門家だけに判断を任せてよい問\n題ではありません。社会に存在している常識や知識や技術を、人間の根本的な価値観に照らし合わ\nせてあらためて検討することは重要な哲学の役割です。\n（注1） 正義：人としての正しい行い\n（注2） 認識：ここでは、理解\n（注3） 根底：土台\n（注4） 隣人愛：ここでは、社会で交流のある人への愛\n（注5） 政策：政治の方針と手段\n（注6） 遺伝子治療：遺伝子に働きかける治療法\n（注7） 改変する：変える",
+      "question": "<u>もうひとつの重要な仕事</u>とは何か。",
+      "options": [
+        "専門ではない人の視点で、専門的な知識を再検討すること。",
+        "各分野の専門家の視点で、人間の根本的な価値観を検討すること。",
+        "一般の人に、専門的な知識をわかりやすく伝えること。",
+        "一般の人に、人間の根本的な価値観を理解させること。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 専門ではない人の視点で、専門的な知識を再検討すること。\n\n【Dịch câu hỏi】\n“Một công việc quan trọng khác” của triết học là gì?\n\n【Dịch 4 đáp án】\n1. Xem xét lại tri thức chuyên môn từ góc nhìn không chuyên.\n2. Xem xét giá trị căn bản của con người từ góc nhìn chuyên gia từng lĩnh vực.\n3. Truyền đạt tri thức chuyên môn dễ hiểu cho người thường.\n4. Khiến người thường hiểu giá trị căn bản của con người.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Công việc quan trọng khác là đặt lại câu hỏi về kiến thức chuyên ngành từ quan điểm phổ quát, toàn diện và giá trị căn bản của con người — tức nhìn lại bằng góc nhìn “không chỉ chuyên gia”.\n\n【Keyword】\n専門ではない人の視点, 専門的な知識を再検討\n\n【Câu chính / căn cứ】\n「専門ではない人の視点で、専門的な知識を再検討すること」\n\n【Cách giải nhanh】\nTái kiểm tra kiến thức chuyên môn bằng góc nhìn ngoài chuyên môn. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp mô tả.\n2: Sai — đảo: không phải góc nhìn chuyên gia xem giá trị căn bản.\n3: Sai — không phải chỉ “phổ biến kiến thức dễ hiểu”.\n4: Sai — không phải nhiệm vụ “giáo dục giá trị” cho đại chúng theo nghĩa đó.\n\n【Chi tiết thêm】\nPhân biệt truyền thông khoa học (3) với phê phán/phản tư triết học (1)."
+    },
+    {
+      "question_id": 65,
+      "context": "から一つ選びなさい。\nA\n暗記することに苦手意識を持つ人は多い。必死に暗記してもなかなか記憶に残らなくて嫌に\nなる気持ちは理解できるが、覚えられないのは自分の記憶力がよくないからだと考えるのは問題だ。\n暗記ができる人は、生まれつき記憶力がよいのではなく、暗記のしかたを工夫しているのだ。\n暗記するときは、目で見るだけでなく、ほかの感覚も働かせるのが効果的だ。声に出すことで、\n耳からも情報がインプットされさらに確かなものになる。書くことで、あいまいな内容が整理され論理\n的に理解しやすくなる。このようにいくつかの感覚から脳に刺激を与えることで、記憶力をアップさせ\nることができる。\nB\n暗記したことを忘れないようにするには、どうしたらいいだろうか。記憶に残るようにするには、\nいつ暗記するかが重要だ。脳が最も働くのは朝や午前中だといわれているが、暗記には、夜寝る前の\n30 分が最も適している。覚えた知識が睡眠中に脳内で整理され、記憶に残りやすくなるからだ。暗記\nを終えたら、テレビを見るなど余計なことはせずにすぐに寝る。翌朝に復習すれば、記憶はより強化さ\nれるだろう。\n暗記したことを忘れてしまうのは記憶力のせいではなく、暗記のしかたが間違っているのだ。脳\nの働きを理解し上手に利用すれば、無理なく暗記することができる。",
+      "question": "暗記について、A とB が共通して述べていることは何か。",
+      "options": [
+        "暗記したあとに復習することで、記憶力が上がる。",
+        "暗記したことを忘れるのは、記憶力の問題ではない。",
+        "暗記をし続けても、記憶力は強化されない。",
+        "暗記に対して苦手意識があると、記憶力もよくならない。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 暗記したことを忘れるのは、記憶力の問題ではない。\n\n【Dịch câu hỏi】\nVề học thuộc, A và B cùng nêu điểm gì?\n\n【Dịch 4 đáp án】\n1. Ôn sau khi học thuộc sẽ làm tăng trí nhớ.\n2. Quên điều đã học thuộc không phải vấn đề năng lực trí nhớ.\n3. Dù học thuộc liên tục, trí nhớ cũng không được củng cố.\n4. Nếu có mặc cảm với học thuộc thì trí nhớ cũng không khá lên.\n\n【Dịch bài đọc】\n(Đối thoại A–B về học thuộc) Cả hai đều phủ nhận nguyên nhân là “trí nhớ kém”, nhấn mạnh cách học thuộc mới quan trọng.\n\n【Keyword】\n記憶力の問題ではない, 共通点\n\n【Câu chính / căn cứ】\n「忘れるのは記憶力の問題ではない」\n\n【Cách giải nhanh】\nĐiểm chung: quên ≠ vì trí nhớ kém. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải điểm cả hai cùng nhấn.\n2: Đúng — điểm chung.\n3: Sai — quá phủ định việc củng cố; không phải điểm chung.\n4: Sai — mặc cảm không phải luận điểm chung.\n\n【Chi tiết thêm】\nCâu hỏi 「共通して」→ loại ý chỉ một phía nêu."
+    },
+    {
+      "question_id": 66,
+      "context": "から一つ選びなさい。\nA\n暗記することに苦手意識を持つ人は多い。必死に暗記してもなかなか記憶に残らなくて嫌に\nなる気持ちは理解できるが、覚えられないのは自分の記憶力がよくないからだと考えるのは問題だ。\n暗記ができる人は、生まれつき記憶力がよいのではなく、暗記のしかたを工夫しているのだ。\n暗記するときは、目で見るだけでなく、ほかの感覚も働かせるのが効果的だ。声に出すことで、\n耳からも情報がインプットされさらに確かなものになる。書くことで、あいまいな内容が整理され論理\n的に理解しやすくなる。このようにいくつかの感覚から脳に刺激を与えることで、記憶力をアップさせ\nることができる。\nB\n暗記したことを忘れないようにするには、どうしたらいいだろうか。記憶に残るようにするには、\nいつ暗記するかが重要だ。脳が最も働くのは朝や午前中だといわれているが、暗記には、夜寝る前の\n30 分が最も適している。覚えた知識が睡眠中に脳内で整理され、記憶に残りやすくなるからだ。暗記\nを終えたら、テレビを見るなど余計なことはせずにすぐに寝る。翌朝に復習すれば、記憶はより強化さ\nれるだろう。\n暗記したことを忘れてしまうのは記憶力のせいではなく、暗記のしかたが間違っているのだ。脳\nの働きを理解し上手に利用すれば、無理なく暗記することができる。",
+      "question": "暗記のしかたについて、A とB はどのようなアドバイスをしているか。",
+      "options": [
+        "A もB も、内容に応じて、朝か夜かを変えながら暗記するといいと述べている。",
+        "A もB も、さまざまな方法を試しながら自分に合った方法を見つけて暗記するといいと述べている。",
+        "A は複数の感覚を使って暗記するといいと述べ、B は夜寝る前に重点的に暗記するといいと述べている。",
+        "A は声に出したり書いたりして暗記するといいと述べ、B は自分で暗記に適した時間を見つけて暗記するといいと述べている。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · A は複数の感覚を使って暗記するといいと述べ、B は夜寝る前に重点的に暗記するといい\n\n【Dịch câu hỏi】\nVề cách học thuộc, phát biểu nào đúng về A và B?\n\n【Dịch 4 đáp án】\n1. Cả A và B đều nói nên đổi sáng/tối tùy nội dung khi học thuộc.\n2. Cả A và B đều nói nên thử nhiều cách để tìm phương pháp hợp mình.\n3. A nói nên dùng nhiều giác quan; B nói nên tập trung học thuộc trước khi ngủ.\n4. A khuyên học thuộc buổi sáng; B khuyên học thuộc ngay sau khi thức dậy.\n\n【Dịch bài đọc】\n(Đối thoại A–B; dữ liệu gốc thiếu một phần lựa chọn) A đề xuất nhìn, đọc thành tiếng và viết để kích nhiều giác quan; B cho rằng khoảng 30 phút trước khi ngủ thích hợp để ghi nhớ.\n\n【Keyword】\n複数の感覚, 夜寝る前, AとBの相違\n\n【Câu chính / căn cứ】\n「Aは複数の感覚…、Bは夜寝る前に重点的に暗記」\n\n【Cách giải nhanh】\nKhác biệt phương pháp: đa giác quan (A) vs trước khi ngủ (B). → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải cả hai cùng đổi sáng/tối theo nội dung.\n2: Sai — có thể nghe hợp lý nhưng không khớp đáp án chính thức (không phải lựa chọn 3).\n3: Đúng — đúng nội dung A/B theo đáp án.\n4: Sai — đảo/sai thời điểm so với B (trước khi ngủ).\n\n【Chi tiết thêm】\nNguồn batch chỉ trích 2 lựa chọn; options_vi đủ 4 theo đáp án chuẩn (answer=3)."
+    },
+    {
+      "question_id": 67,
+      "context": "選びなさい。\n多くのマネジャーやリーダーの人たちに聞くと、部下や後輩に対しては、「なんでも相談するの\nではなく、自分で工夫して取り組んでほしい」「次にやるべきことを自分で考えて、動いてほしい」とい\nう思いをもっています。\nところが一方で、同じマネジャーやリーダーの人から、「自分がやったほうが早い」「育てている\n暇がない」といった言葉も洩れてきます。部下や後輩に育ってほしいと願ってはいるものの、そのため\nに自分の時間を割いて教え育てる時間の余裕も心の余裕もないというところなのでしょう。\n確かに部下や後輩を育成するのはとてもやっかいで時間がかかります。新入社員を育てる場\n合には、仕事を細かく一つひとつを教え込んで理解させ、させてみて、フィードバックすることを繰\nり返す必要があり、相当のエネルギーを費やさなければなりません。<u>中堅</u><u>社員や中途採用者</u>\nであれば、一人ひとりの個性や能力を考慮しながら対応しなければならないというむずかしさがあり\nます。基本的な職務遂行力があり、経験もプライドもある人に何をどこまで教えればよいのか。丁\n寧に教えすぎれば、「そのくらいはわかっています」と反発されるかもしれないし、大丈夫だろうと放置\nしていたら、実は何もわかっていなかったということにもなりかねません。メンバーの主体的な努力\nをうまく引き出しながら、方向づけをして、しかもよい結果や成果が得られるよう支援していく手加減\nが大変むずかしいのです。\n（中略）\n育てようとすることで、みえてくるものがたくさんあります。たとえば、自分にとってとても簡単な\nことでも、相手になかなか理解してもらえないことがあったと気づきます。物事を理解するにもスタイル\nがあって、個人によってそれは異なるのだとわかります。したがってこの方法がだめならば、今度はこち\nらの方法で説明しようと、教えるためにはさまざまな工夫が求められます。口頭で説明したけれど理解\nされなかったので、今度は、紙に絵を描きながら説明しようというように、いろいろな角度からいろいろな方法を使い分けていくことも学びます。\n教えることを通じて、自分でもよく理解していなかったと気づくこともあります。教えるためには曖昧なところ、理解の不十分なところがないように勉強しなければなりません。\n勉強することで、自分の知識やスキルがまた上がるのです。\n（注1） フィードバックする：ここでは、成果に対してコメントを返す\n（注2） 費やす：使う\n（注3） 中堅社員：主力となって働いている社員\n（注4） 職務遂行力：仕事をやり抜く能力\n（注5） 放置する：放っておく\n（注6） 手加減：ここでは、調整のしかた\n（注7） スキル：技術",
+      "question": "筆者によると、マネジャーやリーダーは部下や後輩にどうしてほしいと思っているか。",
+      "options": [
+        "教えられたことを参考にしながら、自分でもやり方を工夫してほしい。",
+        "自分で工夫して、一つひとつの仕事にかける時間を減らしてほしい。",
+        "何をやるべきかを自分で考えて、どうやるかを相談してほしい。",
+        "何を、どうやるべきかを自分で考えて、仕事を進めてほしい。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 何を、どうやるべきかを自分で考えて、仕事を進めてほしい。\n\n【Dịch câu hỏi】\nTheo tác giả, quản lý/leader muốn cấp dưới và đàn em làm gì?\n\n【Dịch 4 đáp án】\n1. Tham khảo điều được dạy rồi tự cải tiến cách làm.\n2. Tự cải tiến để giảm thời gian cho từng việc.\n3. Tự nghĩ phải làm gì rồi hỏi cách làm.\n4. Tự nghĩ phải làm gì và làm như thế nào rồi tiến hành công việc.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Người quản lý muốn nhân viên tự tìm cách thực hiện và tự nghĩ việc tiếp theo cần làm, thay vì việc gì cũng hỏi.\n\n【Keyword】\n何を、どうやるべきか, 自分で考えて, 仕事を進めてほしい\n\n【Câu chính / căn cứ】\n「何を、どうやるべきかを自分で考えて、仕事を進めてほしい」\n\n【Cách giải nhanh】\nTự chủ cả “làm gì” và “làm thế nào”. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — vẫn phụ thuộc “điều được dạy” làm trục.\n2: Sai — mục tiêu không phải cắt thời gian.\n3: Sai — vẫn phải hỏi cách làm → chưa đủ tự chủ.\n4: Đúng — tự nghĩ và tự triển khai.\n\n【Chi tiết thêm】\nBẫy 3: nghe có vẻ chủ động nhưng vẫn 相談してほしい về cách làm."
+    },
+    {
+      "question_id": 68,
+      "context": "選びなさい。\n多くのマネジャーやリーダーの人たちに聞くと、部下や後輩に対しては、「なんでも相談するの\nではなく、自分で工夫して取り組んでほしい」「次にやるべきことを自分で考えて、動いてほしい」とい\nう思いをもっています。\nところが一方で、同じマネジャーやリーダーの人から、「自分がやったほうが早い」「育てている\n暇がない」といった言葉も洩れてきます。部下や後輩に育ってほしいと願ってはいるものの、そのため\nに自分の時間を割いて教え育てる時間の余裕も心の余裕もないというところなのでしょう。\n確かに部下や後輩を育成するのはとてもやっかいで時間がかかります。新入社員を育てる場\n合には、仕事を細かく一つひとつを教え込んで理解させ、させてみて、フィードバックすることを繰\nり返す必要があり、相当のエネルギーを費やさなければなりません。<u>中堅</u><u>社員や中途採用者</u>\nであれば、一人ひとりの個性や能力を考慮しながら対応しなければならないというむずかしさがあり\nます。基本的な職務遂行力があり、経験もプライドもある人に何をどこまで教えればよいのか。丁\n寧に教えすぎれば、「そのくらいはわかっています」と反発されるかもしれないし、大丈夫だろうと放置\nしていたら、実は何もわかっていなかったということにもなりかねません。メンバーの主体的な努力\nをうまく引き出しながら、方向づけをして、しかもよい結果や成果が得られるよう支援していく手加減\nが大変むずかしいのです。\n（中略）\n育てようとすることで、みえてくるものがたくさんあります。たとえば、自分にとってとても簡単な\nことでも、相手になかなか理解してもらえないことがあったと気づきます。物事を理解するにもスタイル\nがあって、個人によってそれは異なるのだとわかります。したがってこの方法がだめならば、今度はこち\nらの方法で説明しようと、教えるためにはさまざまな工夫が求められます。口頭で説明したけれど理解\nされなかったので、今度は、紙に絵を描きながら説明しようというように、いろいろな角度からいろいろな方法を使い分けていくことも学びます。\n教えることを通じて、自分でもよく理解していなかったと気づくこともあります。教えるためには曖昧なところ、理解の不十分なところがないように勉強しなければなりません。\n勉強することで、自分の知識やスキルがまた上がるのです。\n（注1） フィードバックする：ここでは、成果に対してコメントを返す\n（注2） 費やす：使う\n（注3） 中堅社員：主力となって働いている社員\n（注4） 職務遂行力：仕事をやり抜く能力\n（注5） 放置する：放っておく\n（注6） 手加減：ここでは、調整のしかた\n（注7） スキル：技術",
+      "question": "筆者によると、<u>中堅社員や中途採用者</u>の指導において何がむずかしいか。",
+      "options": [
+        "多くの時間とエネルギーを使って、仕事を細かく教えること。",
+        "それぞれの個性や能力に応じた指導をすること。",
+        "前の仕事の経験を生かせるような指導をすること。",
+        "プライドを傷つけずに、基本的なことを教えること。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · それぞれの個性や能力に応じた指導をすること。\n\n【Dịch câu hỏi】\nTheo tác giả, điều gì khó trong hướng dẫn nhân viên trung cấp/tuyển giữa chừng?\n\n【Dịch 4 đáp án】\n1. Dùng nhiều thời gian và năng lượng để dạy việc rất chi tiết.\n2. Hướng dẫn phù hợp cá tính và năng lực từng người.\n3. Hướng dẫn để tận dụng kinh nghiệm việc trước.\n4. Dạy điều cơ bản mà không tổn thương lòng tự trọng.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Với nhân viên trung cấp hoặc tuyển giữa chừng, người dạy phải cân nhắc kinh nghiệm, năng lực, lòng tự trọng và mức hiểu riêng của mỗi người để điều chỉnh cách hướng dẫn — tức hướng dẫn theo cá tính/năng lực là phần khó.\n\n【Keyword】\n個性や能力に応じた指導, むずかしい\n\n【Câu chính / căn cứ】\n「それぞれの個性や能力に応じた指導をすること」\n\n【Cách giải nhanh】\nKhó ở chỗ cá nhân hóa cách dạy. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — dạy quá chi tiết không phải điểm khó trung tâm được hỏi.\n2: Đúng — đúng điểm khó.\n3: Sai — chỉ là một khía cạnh, không phải kết luận chính.\n4: Sai — liên quan tự trọng nhưng hẹp hơn “cá tính và năng lực”.\n\n【Chi tiết thêm】\nĐáp án 4 là bẫy gần; bài rộng hơn chỉ “không tổn thương tự trọng”."
+    },
+    {
+      "question_id": 69,
+      "context": "選びなさい。\n多くのマネジャーやリーダーの人たちに聞くと、部下や後輩に対しては、「なんでも相談するの\nではなく、自分で工夫して取り組んでほしい」「次にやるべきことを自分で考えて、動いてほしい」とい\nう思いをもっています。\nところが一方で、同じマネジャーやリーダーの人から、「自分がやったほうが早い」「育てている\n暇がない」といった言葉も洩れてきます。部下や後輩に育ってほしいと願ってはいるものの、そのため\nに自分の時間を割いて教え育てる時間の余裕も心の余裕もないというところなのでしょう。\n確かに部下や後輩を育成するのはとてもやっかいで時間がかかります。新入社員を育てる場\n合には、仕事を細かく一つひとつを教え込んで理解させ、させてみて、フィードバックすることを繰\nり返す必要があり、相当のエネルギーを費やさなければなりません。<u>中堅</u><u>社員や中途採用者</u>\nであれば、一人ひとりの個性や能力を考慮しながら対応しなければならないというむずかしさがあり\nます。基本的な職務遂行力があり、経験もプライドもある人に何をどこまで教えればよいのか。丁\n寧に教えすぎれば、「そのくらいはわかっています」と反発されるかもしれないし、大丈夫だろうと放置\nしていたら、実は何もわかっていなかったということにもなりかねません。メンバーの主体的な努力\nをうまく引き出しながら、方向づけをして、しかもよい結果や成果が得られるよう支援していく手加減\nが大変むずかしいのです。\n（中略）\n育てようとすることで、みえてくるものがたくさんあります。たとえば、自分にとってとても簡単な\nことでも、相手になかなか理解してもらえないことがあったと気づきます。物事を理解するにもスタイル\nがあって、個人によってそれは異なるのだとわかります。したがってこの方法がだめならば、今度はこち\nらの方法で説明しようと、教えるためにはさまざまな工夫が求められます。口頭で説明したけれど理解\nされなかったので、今度は、紙に絵を描きながら説明しようというように、いろいろな角度からいろいろな方法を使い分けていくことも学びます。\n教えることを通じて、自分でもよく理解していなかったと気づくこともあります。教えるためには曖昧なところ、理解の不十分なところがないように勉強しなければなりません。\n勉強することで、自分の知識やスキルがまた上がるのです。\n（注1） フィードバックする：ここでは、成果に対してコメントを返す\n（注2） 費やす：使う\n（注3） 中堅社員：主力となって働いている社員\n（注4） 職務遂行力：仕事をやり抜く能力\n（注5） 放置する：放っておく\n（注6） 手加減：ここでは、調整のしかた\n（注7） スキル：技術",
+      "question": "教える側の人について、筆者の考えに合うのはどれか。",
+      "options": [
+        "部下や後輩の指導では、相手を理解することに時間をかけるべきだ。",
+        "部下や後輩から学ぶ姿勢があれば、自分の知識や技術が向上する。",
+        "部下や後輩を育てることで気づきが得られ、自らも成長できる。",
+        "自身が成長するために、多くの部下や後輩を指導したほうがいい。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 部下や後輩を育てることで気づきが得られ、自らも成長できる。\n\n【Dịch câu hỏi】\nVề phía người dạy, ý nào khớp suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Khi hướng dẫn cấp dưới/đàn em nên dành nhiều thời gian để hiểu đối phương.\n2. Nếu có thái độ học từ cấp dưới/đàn em thì kiến thức kỹ năng bản thân sẽ tăng.\n3. Nhờ nuôi dạy cấp dưới/đàn em mà có nhận ra mới và bản thân cũng trưởng thành.\n4. Để bản thân trưởng thành nên hướng dẫn càng nhiều cấp dưới/đàn em càng tốt.\n\n【Dịch bài đọc】\n(Theo giải thích đáp án) Quá trình dạy khiến người hướng dẫn nhận ra khác biệt cách hiểu, cải tiến phương pháp, học lại phần chưa rõ và nâng cao kiến thức kỹ năng — tức tự trưởng thành nhờ việc nuôi dạy người khác.\n\n【Keyword】\n育てることで気づき, 自らも成長\n\n【Câu chính / căn cứ】\n「部下や後輩を育てることで気づきが得られ、自らも成長できる」\n\n【Cách giải nhanh】\nDạy người khác → bản thân cũng lớn. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải kết luận chính (chỉ là một phần thái độ).\n2: Sai — thiên về “học từ họ” hơn là “nhờ quá trình nuôi dạy mà trưởng thành”.\n3: Đúng — khớp kết luận bài.\n4: Sai — không nói phải dạy thật nhiều người vì mục tiêu tự lớn.\n\n【Chi tiết thêm】\nPhân biệt 2 và 3: 3 nhấn chu trình nuôi dạy mang lại 気づき."
+    },
+    {
+      "question_id": 70,
+      "context": "北原ホテル\n公共の宿 北原ホテル\n【お部屋のタイプ】\nA タイプ (定員1～3 名) 8 畳の和洋室、ベッド2 台、お風呂なし\nB タイプ (定員2～4 名) 10 畳の和室、ベッドなし、お風呂つき\nC タイプ (定員2～6 名) 12 畳の和洋室、ベッド2 台、お風呂つき\n※全室、トイレ、冷蔵庫、テレビが完備されています。\n【料金表】(宿泊・食事代込み、土曜日を除く)\nお部屋のタイプ A タイプ B タイプ C タイプ\n宿泊する人数 1 名 2～3 名 2 名 3～4 名 2 名 3～6 名\n食事なし 7,000 6,000 8,500 6,500 9,300 6,800\nプラン 朝食つき 8,200 7,200 9,700 7,700 10,500 8,000\n朝食・\n11,200 10,200 12,700 10,700 13,500 11,000\n夕食つき\n(単位：円)\n※上記は、大人 (中学生以上) 1 名の料金です。子供 (4 歳から小学生まで) は大人料金の半額、\n3 歳以下は無料になります。土曜日は上記料金に 1,100 円を加えた料金になります。\n【食事について】 ●食事つきプランのお食事のご案内 <u>夕食</u>: おさしみがメインの和食膳をご用意しております。追加料金 1,000 円で天ぷらつきの特別 和食膳に変更できます。特別和食膳への変更は、希望される日の 2 日前の午後 5 時までに ご連絡ください。メニューの詳細は、「レストラン」のページをご確認ください。\n<u>朝食</u>: 和食か洋食のセットメニューをお選びいただけます。\n●予約後に、お食事の追加予約を希望される方 夕食は 3,000 円 (特別和食膳は 4,000 円)、朝食は 1,200 円の追加料金で承ります。夕食は希望される日の 2 日前の午後 5 時までに、朝食は希望される日の前日午後 5 時までにご連絡ください。\n公共の宿 北原ホテル\n電話 588-551-0703",
+      "question": "カールさんは、同じ大学の友人と二人で北原ホテルに泊まりたいと考えている。ベッドがあり、お風呂がついている部屋を選ぶつもりだ。「朝食つきプラン」で日曜日に宿泊する予定だが、希望に合う部屋の一人分の料金はいくらになるか。",
+      "options": [
+        "7,200円",
+        "7,200円に1,100円を加えた金額",
+        "10,500円",
+        "10,500円に1,100円を加えた金額"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 10,500円\n\n【Dịch câu hỏi】\nKarl cùng 1 người bạn đại học (tổng 2 người) muốn trọ tại khách sạn Kitahara vào Chủ nhật, chọn phòng có giường (ベッド) và có bồn tắm (お風呂つき), gói có bữa sáng (朝食つきプラン). Giá phòng cho 1 người là bao nhiêu?\n\n【Phân tích】\n• Phòng có cả giường (ベッド2台) và bồn tắm (お風呂つき) là phòng loại C (Cタイプ).\n• Tra bảng giá: Loại C, 2 người (2名), gói có ăn sáng (朝食つき) = 10,500 yên/người.\n• Nghỉ vào Chủ nhật nên không cộng phụ phí thứ Bảy (+1,100 yên) → Chọn 3."
+    },
+    {
+      "question_id": 71,
+      "context": "北原ホテル\n公共の宿 北原ホテル\n【お部屋のタイプ】\nA タイプ (定員1～3 名) 8 畳の和洋室、ベッド2 台、お風呂なし\nB タイプ (定員2～4 名) 10 畳の和室、ベッドなし、お風呂つき\nC タイプ (定員2～6 名) 12 畳の和洋室、ベッド2 台、お風呂つき\n※全室、トイレ、冷蔵庫、テレビが完備されています。\n【料金表】(宿泊・食事代込み、土曜日を除く)\nお部屋のタイプ A タイプ B タイプ C タイプ\n宿泊する人数 1 名 2～3 名 2 名 3～4 名 2 名 3～6 名\n食事なし 7,000 6,000 8,500 6,500 9,300 6,800\nプラン 朝食つき 8,200 7,200 9,700 7,700 10,500 8,000\n朝食・\n11,200 10,200 12,700 10,700 13,500 11,000\n夕食つき\n(単位：円)\n※上記は、大人 (中学生以上) 1 名の料金です。子供 (4 歳から小学生まで) は大人料金の半額、\n3 歳以下は無料になります。土曜日は上記料金に 1,100 円を加えた料金になります。\n【食事について】 ●食事つきプランのお食事のご案内 <u>夕食</u>: おさしみがメインの和食膳をご用意しております。追加料金 1,000 円で天ぷらつきの特別 和食膳に変更できます。特別和食膳への変更は、希望される日の 2 日前の午後 5 時までに ご連絡ください。メニューの詳細は、「レストラン」のページをご確認ください。\n<u>朝食</u>: 和食か洋食のセットメニューをお選びいただけます。\n●予約後に、お食事の追加予約を希望される方 夕食は 3,000 円 (特別和食膳は 4,000 円)、朝食は 1,200 円の追加料金で承ります。夕食は希望される日の 2 日前の午後 5 時までに、朝食は希望される日の前日午後 5 時までにご連絡ください。\n公共の宿 北原ホテル\n電話 588-551-0703",
+      "question": "ナディアさんは、4月8日に一人で泊まる予定で、「朝食つきプラン」で部屋を予約しているが、特別和食膳の夕食もつけたくなった。今日は4月4日である。追加料金はいくらで、ホテルへの連絡はいつまでにしなければならないか。",
+      "options": [
+        "追加料金は1,000円で、4月6日の午後5時までに連絡する。",
+        "追加料金は1,000円で、4月7日の午後5時までに連絡する。",
+        "追加料金は4,000円で、4月6日の午後5時までに連絡する。",
+        "追加料金は4,000円で、4月7日の午後5時までに連絡する。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 追加料金は4,000円で、4月6日の午後5時までに連絡する。\n\n【Dịch câu hỏi】\nNadia đã đặt phòng gói chỉ có bữa sáng (朝食つきプラン) cho ngày 8/4, nhưng nay (4/4) muốn đặt thêm bữa tối đặc biệt (特別和食膳). Phí bổ sung là bao nhiêu và phải liên hệ trước thời점 nào?\n\n【Phân tích】\n• Xem mục 「●予約後に、お食事の追加予約を希望される方」 (Khách muốn đặt thêm bữa ăn sau khi đã đặt phòng): Đặt thêm bữa tối thường là 3,000 yên, bữa tối đặc biệt (特別和食膳) là 4,000 yên. (Mức 1,000 yên chỉ dành cho khách đã đặt sẵn gói có bữa tối muốn nâng cấp lên 特別和食膳).\n• Hạn liên hệ đặt thêm bữa tối: Trước 5 giờ chiều của 2 ngày trước ngày lưu trú (希望される日の2日前の午後5時まで) → Ngày 8/4 trừ 2 ngày là 17:00 ngày 6/4 → Chọn 3."
+    }
+  ]
+}

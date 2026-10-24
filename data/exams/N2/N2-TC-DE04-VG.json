@@ -1,0 +1,673 @@
+{
+  "id": "N2-TC-DE04-VG",
+  "code": "TC-DE04-VG",
+  "title": "Đề thực chiến 4 · Từ vựng & Ngữ pháp",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "vocabulary_grammar",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "",
+      "question": "問題1: ____の言葉の読み方として最もよいものを、1・2・3・4 から一つ選びなさい。 この家の<u>柱</u>はしっかりしている。",
+      "options": [
+        "はしら",
+        "ゆか",
+        "かべ",
+        "たな"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · はしら\n\n【Dịch câu hỏi】\nCột của ngôi nhà này chắc chắn. (Từ gạch dưới: 柱)\n\n【Dịch 4 đáp án】\n1. はしら — đúng. 柱 = cột.\n2. ゆか — 床, sàn nhà.\n3. かべ — 壁, tường.\n4. たな — 棚, kệ.\n\n【Cách giải nhanh】\n[TRỤ: cây cột, trụ cột → 柱: cây cột, trụ nhà] Câu nói bộ phận chịu lực của nhà → cột = はしら, không phải sàn hay tường.\n\n【Phân tích / loại đáp án】\n2: sàn.\n3: tường.\n4: kệ.\n1: đúng."
+    },
+    {
+      "question_id": 2,
+      "context": "",
+      "question": "なかなか<u>討論</u>が終わらない。",
+      "options": [
+        "どうろん",
+        "ぎろん",
+        "とうろん",
+        "きろん"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · とうろん\n\n【Dịch câu hỏi】\nCuộc thảo luận mãi vẫn chưa kết thúc. (Từ gạch dưới: 討論)\n\n【Dịch 4 đáp án】\n1. どうろん — sai âm đầu.\n2. ぎろん — 議論, bàn luận, tranh luận.\n3. とうろん — đúng. 討論 = thảo luận.\n4. きろん — sai.\n\n【Cách giải nhanh】\n[THẢO: bàn bạc, tra xét; LUẬN: bàn luận, phân tích → THẢO LUẬN: thảo luận, tranh luận] 討 = とう, 論 = ろん. 議論 là từ khác, đọc ぎろん.\n\n【Phân tích / loại đáp án】\n• 1 và 4: sai.\n2: 議論.\n3: đúng."
+    },
+    {
+      "question_id": 3,
+      "context": "",
+      "question": "家具の色は白で<u>統一</u>した。",
+      "options": [
+        "とういつ",
+        "とういち",
+        "どういつ",
+        "どういち"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · とういつ\n\n【Dịch câu hỏi】\nMàu đồ nội thất được thống nhất thành màu trắng. (Từ gạch dưới: 統一)\n\n【Dịch 4 đáp án】\n1. とういつ — đúng. 統一 = thống nhất, làm cho đồng nhất.\n2. とういち — 一 không đọc いち trong từ này.\n3. どういつ — 同一, giống hệt, cùng một.\n4. どういち — sai.\n\n【Cách giải nhanh】\n[THỐNG: gom lại, thống nhất; NHẤT: một, đồng nhất → THỐNG NHẤT: thống nhất, đồng bộ] 統 = とう, 一 trong 統一 đọc いつ. 同一 mới là どういつ.\n\n【Phân tích / loại đáp án】\n2: sai 一.\n3: 同一.\n4: sai.\n1: đúng."
+    },
+    {
+      "question_id": 4,
+      "context": "",
+      "question": "彼はいつも誰かと<u>争って</u>いる。",
+      "options": [
+        "たたかって",
+        "あらそって",
+        "きそって",
+        "ぶつかって"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · あらそって\n\n【Dịch câu hỏi】\nAnh ấy lúc nào cũng tranh chấp với ai đó. (Từ gạch dưới: 争って)\n\n【Dịch 4 đáp án】\n1. たたかって — 戦う, chiến đấu, đánh nhau.\n2. あらそって — đúng. 争う = tranh giành, xung đột.\n3. きそって — 競う, thi đua.\n4. ぶつかって — ぶつかる, va phải, đụng độ.\n\n【Cách giải nhanh】\n[TRANH: đấu tranh, giành giật → 争う: cạnh tranh, tranh giành, ganh đua] 争う đọc あらそう. 戦う mới là たたかう.\n\n【Phân tích / loại đáp án】\n1: chiến đấu.\n3: thi đua.\n4: va chạm.\n2: đúng."
+    },
+    {
+      "question_id": 5,
+      "context": "",
+      "question": "この野菜はビタミンが<u>豊富</u>です。",
+      "options": [
+        "ほんふう",
+        "ほんふ",
+        "ほうふう",
+        "ほうふ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · ほうふ\n\n【Dịch câu hỏi】\nLoại rau này giàu vitamin. (Từ gạch dưới: 豊富)\n\n【Dịch 4 đáp án】\n1. ほんふう — không phải 豊富.\n2. ほんふ — sai âm đầu.\n3. ほうふう — thừa trường âm.\n4. ほうふ — đúng. 豊富 = phong phú, dồi dào.\n\n【Cách giải nhanh】\n[PHONG: đầy đủ, tốt tươi; PHÚ: giàu có, nhiều của → PHONG PHÚ: dồi dào, phong phú] 豊 = ほう, 富 = ふ. Không có う ở giữa.\n\n【Phân tích / loại đáp án】\n• 1 và 2: sai 豊.\n3: thừa âm.\n4: đúng."
+    },
+    {
+      "question_id": 6,
+      "context": "",
+      "question": "「デジタルカメラ」を<u>りゃくして</u>「デジカメ」という。",
+      "options": [
+        "縮して",
+        "省して",
+        "略して",
+        "簡して"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 略して\n\n【Dịch câu hỏi】\nHỏi: Chữ kanji nào điền vào「りゃくして」?\n\n【Dịch 4 đáp án】\n1. 縮して\n2. 省して\n3. 略して\n4. 簡して\n\n【Keyword】\n略する, りゃくして, 省略\n\n【Câu chính / căn cứ】\nりゃくする＝略する (viết/nói tắt).\n\n【Cách giải nhanh】\nりゃくして＝略して. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 縮 không đọc りゃく.\n2: Sai — 省単独 không thành りゃくして.\n3: Đúng — 略して.\n4: Sai — 簡 không đọc りゃく."
+    },
+    {
+      "question_id": 7,
+      "context": "",
+      "question": "暑いので、日陰で<u>すずんだ</u>。",
+      "options": [
+        "快んだ",
+        "冷んだ",
+        "清んだ",
+        "涼んだ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 涼んだ\n\n【Dịch câu hỏi】\nHỏi: Chữ kanji nào điền vào「すずんだ」?\n\n【Dịch 4 đáp án】\n1. 快んだ\n2. 冷んだ\n3. 清んだ\n4. 涼んだ\n\n【Keyword】\n涼む, すずむ, 日陰\n\n【Câu chính / căn cứ】\nすずむ＝涼む → quá khứ 涼んだ (hóng mát).\n\n【Cách giải nhanh】\nすずんだ＝涼んだ. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 快 không đọc すず.\n2: Sai — 冷 đọc khác (つめ/れい…), không phải すずむ.\n3: Sai — 清 không dùng cho すずむ.\n4: Đúng — 涼んだ."
+    },
+    {
+      "question_id": 8,
+      "context": "",
+      "question": "来年からサービスを<u>かくじゅう</u>することになった。",
+      "options": [
+        "拡張",
+        "拡充",
+        "各充",
+        "各張"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 拡充\n\n【Dịch câu hỏi】\nHỏi: Chữ kanji nào cho「かくじゅう」?\n\n【Dịch 4 đáp án】\n1. 拡張\n2. 拡充\n3. 各充\n4. 各張\n\n【Keyword】\n拡充, かくじゅう, サービス\n\n【Câu chính / căn cứ】\nかくじゅう＝拡充 (mở rộng và làm đầy đủ hơn).\n\n【Cách giải nhanh】\nかくじゅう＝拡充 (không phải 拡張＝かくちょう). → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — 拡張 đọc かくちょう.\n2: Đúng — 拡充＝かくじゅう.\n3: Sai — 各充 không phải từ chuẩn.\n4: Sai — 各張 sai.\n\n【Chi tiết thêm】\nPhân biệt 拡張(規模を広げる) / 拡充(内容も充実)."
+    },
+    {
+      "question_id": 9,
+      "context": "",
+      "question": "私はあの人たちに<u>すくわれました</u>。",
+      "options": [
+        "嫌われました",
+        "敬われました",
+        "疑われました",
+        "救われました"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 救われました\n\n【Dịch câu hỏi】\nHỏi: Chữ kanji nào cho「すくわれました」?\n\n【Dịch 4 đáp án】\n1. 嫌われました\n2. 敬われました\n3. 疑われました\n4. 救われました\n\n【Keyword】\n救う, すくう, 救われました\n\n【Câu chính / căn cứ】\nすくう＝救う → bị động quá khứ 救われました.\n\n【Cách giải nhanh】\nすくわれました＝救われました. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 嫌う＝きらう.\n2: Sai — 敬う＝うやまう.\n3: Sai — 疑う＝うたがう.\n4: Đúng — 救われました."
+    },
+    {
+      "question_id": 10,
+      "context": "",
+      "question": "犯人はすでに国外に逃亡した可能性が<u>のうこう</u>だ。",
+      "options": [
+        "濃厚",
+        "農厚",
+        "濃高",
+        "農高"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 濃厚\n\n【Dịch câu hỏi】\nHỏi: Chữ kanji nào cho「のうこう」trong「可能性がのうこうだ」?\n\n【Dịch 4 đáp án】\n1. 濃厚\n2. 農厚\n3. 濃高\n4. 農高\n\n【Keyword】\n濃厚, 可能性が濃厚だ\n\n【Câu chính / căn cứ】\nのうこう＝濃厚; khả năng rất lớn.\n\n【Cách giải nhanh】\n可能性が濃厚だ. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 濃厚.\n2: Sai — 農 không dùng ở đây.\n3: Sai — 濃高 không phải từ chuẩn.\n4: Sai — 農高 sai."
+    },
+    {
+      "question_id": 11,
+      "context": "",
+      "question": "9 時（ ）の新幹線に乗るために、8 時に家を出た。",
+      "options": [
+        "行",
+        "発",
+        "進",
+        "始"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 発\n\n【Dịch câu hỏi】\nHỏi: Điền vào「9時（ ）の新幹線」.\n\n【Dịch 4 đáp án】\n1. 行\n2. 発\n3. 進\n4. 始\n\n【Keyword】\n〜時発, 発車\n\n【Câu chính / căn cứ】\n9時発＝chuyến khởi hành lúc 9 giờ.\n\n【Cách giải nhanh】\n時刻＋発 là cố định. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — 行 không thành cụm giờ khởi hành.\n2: Đúng — 9時発.\n3: Sai — 進 không dùng vậy.\n4: Sai — 始 không thành 〜時始."
+    },
+    {
+      "question_id": 12,
+      "context": "",
+      "question": "コンサートのチケットは、先着（ ）で買うことができます。",
+      "options": [
+        "列",
+        "番",
+        "序",
+        "順"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 順\n\n【Dịch câu hỏi】\nHỏi: Điền vào「先着（ ）」.\n\n【Dịch 4 đáp án】\n1. 列\n2. 番\n3. 序\n4. 順\n\n【Keyword】\n先着順, 順番\n\n【Câu chính / căn cứ】\n先着順＝theo thứ tự người đến trước.\n\n【Cách giải nhanh】\n先着順 là cụm cố định. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 先着列 không chuẩn.\n2: Sai — 先着番 không dùng.\n3: Sai — 先着序 không chuẩn.\n4: Đúng — 先着順."
+    },
+    {
+      "question_id": 13,
+      "context": "",
+      "question": "（ ）予約の場合は、キャンセル料がかかりません。",
+      "options": [
+        "単",
+        "副",
+        "仮",
+        "中"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 仮\n\n【Dịch câu hỏi】\nHỏi: Điền vào「（ ）予約」không mất phí hủy.\n\n【Dịch 4 đáp án】\n1. 単\n2. 副\n3. 仮\n4. 中\n\n【Keyword】\n仮予約, キャンセル料\n\n【Câu chính / căn cứ】\n仮予約＝đặt chỗ tạm thời.\n\n【Cách giải nhanh】\n仮予約 → không mất phí hủy (theo câu). → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 単予約 không chuẩn.\n2: Sai — 副予約 không dùng vậy.\n3: Đúng — 仮予約.\n4: Sai — 中予約 không chuẩn."
+    },
+    {
+      "question_id": 14,
+      "context": "",
+      "question": "風邪の（ ）のために、栄養と睡眠を十分に取りましょう。",
+      "options": [
+        "自衛",
+        "予備",
+        "予防",
+        "守衛"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 予防\n\n【Dịch câu hỏi】\nHỏi: Điền vào「風邪の（ ）」.\n\n【Dịch 4 đáp án】\n1. 自衛\n2. 予備\n3. 予防\n4. 守衛\n\n【Keyword】\n風邪の予防\n\n【Câu chính / căn cứ】\n風邪の予防＝phòng cảm lạnh.\n\n【Cách giải nhanh】\nCụm tự nhiên: 風邪の予防. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 自衛＝tự vệ, không kết hợp với cảm.\n2: Sai — 予備＝dự phòng/dự bị, khác nghĩa.\n3: Đúng — 予防.\n4: Sai — 守衛＝bảo vệ/canh gác."
+    },
+    {
+      "question_id": 15,
+      "context": "",
+      "question": "昨日のコンサートでは（ ）に近い席に座れたので、演奏者の様子がよく見えた。",
+      "options": [
+        "ホール",
+        "ステージ",
+        "スペース",
+        "マーケット"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · ステージ\n\n【Dịch câu hỏi】\nHỏi: Điền từ gần「席」để nhìn rõ nghệ sĩ.\n\n【Dịch 4 đáp án】\n1. ホール\n2. ステージ\n3. スペース\n4. マーケット\n\n【Keyword】\nステージに近い席\n\n【Câu chính / căn cứ】\nNgồi gần ステージ thì nhìn rõ người biểu diễn.\n\n【Cách giải nhanh】\nGần sân khấu = ステージ. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — ホール＝cả khán phòng, không chỉ chỗ biểu diễn.\n2: Đúng — ステージ.\n3: Sai — スペース＝không gian chung.\n4: Sai — マーケット＝chợ/thị trường."
+    },
+    {
+      "question_id": 16,
+      "context": "",
+      "question": "来週の発表内容を（ ）して、大事なところだけ短くまとめて話してください。",
+      "options": [
+        "要約",
+        "節約",
+        "減量",
+        "縮小"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 要約\n\n【Dịch câu hỏi】\nHỏi: Điền động từ/danh từ phù hợp「…して、大事なところだけ短くまとめて」.\n\n【Dịch 4 đáp án】\n1. 要約\n2. 節約\n3. 減量\n4. 縮小\n\n【Keyword】\n要約する, 短くまとめる\n\n【Câu chính / căn cứ】\n要約する＝tóm lược nội dung.\n\n【Cách giải nhanh】\nTóm tắt nội dung = 要約. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 要約.\n2: Sai — 節約＝tiết kiệm (tiền/thời gian).\n3: Sai — 減量＝giảm cân/giảm lượng.\n4: Sai — 縮小＝thu nhỏ quy mô, không khớp「tóm nội dung」."
+    },
+    {
+      "question_id": 17,
+      "context": "",
+      "question": "フライパンの油が回りに（ ）、キッチンが汚れた。",
+      "options": [
+        "飛び散って",
+        "飛び立って",
+        "飛び越えて",
+        "飛び上がって"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 飛び散って\n\n【Dịch câu hỏi】\nHỏi: Dầu trong chảo … làm bẩn bếp?\n\n【Dịch 4 đáp án】\n1. 飛び散って\n2. 飛び立って\n3. 飛び越えて\n4. 飛び上がって\n\n【Keyword】\n飛び散る, 油\n\n【Câu chính / căn cứ】\n飛び散る＝bắn tung tóe nhiều hướng.\n\n【Cách giải nhanh】\nDầu bắn = 飛び散る. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 飛び散って.\n2: Sai — 飛び立つ＝bay lên (chim/máy bay).\n3: Sai — 飛び越える＝nhảy qua.\n4: Sai — 飛び上がる＝nhảy bật lên."
+    },
+    {
+      "question_id": 18,
+      "context": "",
+      "question": "私の娘は音に（ ）で、小さな音でも目を覚ましてしまう。",
+      "options": [
+        "詳細",
+        "器用",
+        "敏感",
+        "短気"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 敏感\n\n【Dịch câu hỏi】\nHỏi:「音に（ ）で、小さな音でも目を覚ます」.\n\n【Dịch 4 đáp án】\n1. 詳細\n2. 器用\n3. 敏感\n4. 短気\n\n【Keyword】\n音に敏感\n\n【Câu chính / căn cứ】\n音に敏感だ＝nhạy cảm với âm thanh.\n\n【Cách giải nhanh】\nNhạy với tiếng động = 敏感. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 詳細＝chi tiết.\n2: Sai — 器用＝khéo tay.\n3: Đúng — 敏感.\n4: Sai — 短気＝nóng tính."
+    },
+    {
+      "question_id": 19,
+      "context": "",
+      "question": "ユーキ教授の主張が正しいことを（ ）貴重な資料が見つかった。",
+      "options": [
+        "近づける",
+        "取り上げる",
+        "持ち上げる",
+        "裏づける"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 裏づける\n\n【Dịch câu hỏi】\nHỏi: Tài liệu … cho lập luận của giáo sư?\n\n【Dịch 4 đáp án】\n1. 近づける\n2. 取り上げる\n3. 持ち上げる\n4. 裏づける\n\n【Keyword】\n主張を裏づける\n\n【Câu chính / căn cứ】\n主張を裏づける＝chứng minh/củng cố lập luận.\n\n【Cách giải nhanh】\nCủng cố chủ trương = 裏づける. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 近づける＝làm gần.\n2: Sai — 取り上げる＝đưa ra/đề cập.\n3: Sai — 持ち上げる＝nâng lên/khen.\n4: Đúng — 裏づける."
+    },
+    {
+      "question_id": 20,
+      "context": "",
+      "question": "今日は仕事で一日中歩き回ったので、（ ）疲れた。",
+      "options": [
+        "かさかさに",
+        "くたくたに",
+        "ぶくぶくに",
+        "ふさふさに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · くたくたに\n\n【Dịch câu hỏi】\nHỏi: Đi bộ cả ngày nên mệt …?\n\n【Dịch 4 đáp án】\n1. かさかさに\n2. くたくたに\n3. ぶくぶくに\n4. ふさふさに\n\n【Keyword】\nくたくたに疲れた\n\n【Câu chính / căn cứ】\nくたくた＝kiệt sức, mệt rã rời.\n\n【Cách giải nhanh】\nMệt rã rời = くたくたに. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — かさかさ＝khô ráp.\n2: Đúng — くたくたに.\n3: Sai — ぶくぶく＝phù/béo lên.\n4: Sai — ふさふさ＝rậm/rậm lông."
+    },
+    {
+      "question_id": 21,
+      "context": "",
+      "question": "二人の意見は<u>一致していた</u>。",
+      "options": [
+        "正しかった",
+        "同じだった",
+        "はっきりしていた",
+        "似ていた"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 同じだった\n\n【Dịch câu hỏi】\nHỏi: Nghĩa gần của「一致していた」?\n\n【Dịch 4 đáp án】\n1. 正しかった\n2. 同じだった\n3. はっきりしていた\n4. 似ていた\n\n【Keyword】\n一致, 同じ\n\n【Câu chính / căn cứ】\n一致＝trùng khớp / giống nhau.\n\n【Cách giải nhanh】\n一致していた ≒ 同じだった. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — đúng ≠ trùng khớp.\n2: Đúng — 同じだった.\n3: Sai — rõ ràng ≠ khớp nhau.\n4: Sai — 似ていた＝ha giống, yếu hơn「一致」."
+    },
+    {
+      "question_id": 22,
+      "context": "",
+      "question": "この作品の題はとても印象的だ。",
+      "options": [
+        "デザイン",
+        "アイデア",
+        "ストーリー",
+        "タイトル"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · タイトル\n\n【Dịch câu hỏi】\nHỏi:「題」của tác phẩm gần nghĩa với từ nào?\n\n【Dịch 4 đáp án】\n1. デザイン\n2. アイデア\n3. ストーリー\n4. タイトル\n\n【Keyword】\n題, タイトル\n\n【Câu chính / căn cứ】\n題＝タイトル (nhan đề).\n\n【Cách giải nhanh】\n題 ≒ タイトル. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — thiết kế.\n2: Sai — ý tưởng.\n3: Sai — cốt truyện.\n4: Đúng — タイトル."
+    },
+    {
+      "question_id": 23,
+      "context": "",
+      "question": "この辺りはいつも<u>そうぞうしい</u>。",
+      "options": [
+        "暗い",
+        "静かだ",
+        "明るい",
+        "うるさい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · うるさい\n\n【Dịch câu hỏi】\nHỏi: Nghĩa của「そうぞうしい」?\n\n【Dịch 4 đáp án】\n1. 暗い\n2. 静かだ\n3. 明るい\n4. うるさい\n\n【Keyword】\n騒々しい, うるさい\n\n【Câu chính / căn cứ】\nそうぞうしい（騒々しい）≒ うるさい.\n\n【Cách giải nhanh】\n騒々しい = ồn ào. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — tối.\n2: Sai — yên tĩnh (trái nghĩa).\n3: Sai — sáng.\n4: Đúng — うるさい."
+    },
+    {
+      "question_id": 24,
+      "context": "",
+      "question": "私はいつもより<u>用心</u>した。",
+      "options": [
+        "注意",
+        "努力",
+        "準備",
+        "集中"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 注意\n\n【Dịch câu hỏi】\nHỏi:「用心した」gần nghĩa với từ nào?\n\n【Dịch 4 đáp án】\n1. 注意\n2. 努力\n3. 準備\n4. 集中\n\n【Keyword】\n用心する, 注意\n\n【Câu chính / căn cứ】\n用心する＝đề phòng, chú ý cẩn thận.\n\n【Cách giải nhanh】\n用心 ≒ 注意. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 注意.\n2: Sai — nỗ lực.\n3: Sai — chuẩn bị.\n4: Sai — tập trung."
+    },
+    {
+      "question_id": 25,
+      "context": "",
+      "question": "このシャツは私には<u>ぶかぶか</u>だ。",
+      "options": [
+        "派手すぎる",
+        "小さすぎる",
+        "大きすぎる",
+        "地味すぎる"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 大きすぎる\n\n【Dịch câu hỏi】\nHỏi:「ぶかぶかだ」nghĩa là gì?\n\n【Dịch 4 đáp án】\n1. 派手すぎる\n2. 小さすぎる\n3. 大きすぎる\n4. 地味すぎる\n\n【Keyword】\nぶかぶか, 大きすぎる\n\n【Câu chính / căn cứ】\nぶかぶか＝quần áo rộng thùng thình.\n\n【Cách giải nhanh】\nぶかぶか＝过大. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — quá lòe loẹt.\n2: Sai — quá nhỏ (trái).\n3: Đúng — 大きすぎる.\n4: Sai — quá giản dị."
+    },
+    {
+      "question_id": 26,
+      "context": "",
+      "question": "<u>休憩</u>",
+      "options": [
+        "仕事の途中だったが、少し疲れたので休憩を取った。",
+        "今週は日曜日に仕事がありますが、月曜日は休憩です。",
+        "夏の休憩を使って、家族と海外旅行に行きました。",
+        "手術のため、病院で1 週間、休憩をすることになった。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 仕事の途中だったが、少し疲れたので休憩を取った。\n\n【Dịch câu hỏi】\nHỏi: Câu nào dùng「休憩」đúng?\n\n【Dịch 4 đáp án】\n1. Đang làm giữa chừng nhưng hơi mệt nên nghỉ giải lao.\n2. Tuần này Chủ nhật có làm việc nhưng Thứ Hai là 休憩.\n3. Dùng 休憩 mùa hè đi du lịch nước ngoài với gia đình.\n4. Vì phẫu thuật phải 休憩 1 tuần ở bệnh viện.\n\n【Keyword】\n休憩を取る, 途中の短い休み\n\n【Câu chính / căn cứ】\n休憩＝nghỉ ngắn giữa hoạt động; 休憩を取る là cách dùng tự nhiên.\n\n【Cách giải nhanh】\n休憩 = nghỉ ngắn giữa việc → câu 1. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — nghỉ ngắn giữa công việc.\n2: Sai — ngày nghỉ cả ngày thường dùng 休み.\n3: Sai — kỳ nghỉ hè dùng 休暇.\n4: Sai — nằm viện/nghỉ chữa bệnh không gọi 休憩.\n\n【Chi tiết thêm】\nPhân biệt 休憩 / 休み / 休暇."
+    },
+    {
+      "question_id": 27,
+      "context": "",
+      "question": "<u>進める</u>",
+      "options": [
+        "一度試合に勝って自信を<u>進めれば</u>、チームの成績は必ずよくなるだろう。",
+        "朝にトレーニングを行うことで、運動の効果を進めることができるそうです。",
+        "市では現在、防災対策として、道路整備の検討を<u>進めて</u>います。",
+        "ユーキさんが仕事で同じ失敗を繰り返すのは、その失敗の反省を進めていないからだ。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 市では現在、防災対策として、道路整備の検討を進めています。\n\n【Dịch câu hỏi】\nHỏi: Câu nào dùng「進める」đúng?\n\n【Dịch 4 đáp án】\n1. Thắng một trận rồi「進め」tự tin…\n2. Tập sáng để「進め」hiệu quả vận động…\n3. Thành phố đang「進め」việc xem xét chỉnh trang đường.\n4. Không「進め」sự phản tỉnh về thất bại…\n\n【Keyword】\n検討を進める\n\n【Câu chính / căn cứ】\n検討を進める＝thúc đẩy/tiếp tục quá trình xem xét.\n\n【Cách giải nhanh】\nTân ngữ đúng của 進める ở đây: 検討. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không nói 自信を進める.\n2: Sai — không nói 効果を進める.\n3: Đúng — 検討を進める.\n4: Sai — không nói 反省を進める."
+    },
+    {
+      "question_id": 28,
+      "context": "",
+      "question": "<u>貢献</u>",
+      "options": [
+        "高校時代の先生の一言が、私の人生に大きく貢献した。",
+        "この薬は、痛みを抑えるのに大きく貢献するのでよく売れるらしい。",
+        "ユーキ氏が長い間行ってきた活動は、地域の安全に大きく貢献した。",
+        "海外での経験が就職に大きく貢献し、希望の会社に入社できた。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · ユーキ氏が長い間行ってきた活動は、地域の安全に大きく貢献した。\n\n【Dịch câu hỏi】\nHỏi: Câu nào dùng「貢献」đúng?\n\n【Dịch 4 đáp án】\n1. Một câu của thầy「貢献」vào cuộc đời tôi…\n2. Thuốc này「貢献」lớn vào giảm đau…\n3. Hoạt động lâu dài của ông Yūki「貢献」lớn cho an toàn địa phương.\n4. Kinh nghiệm nước ngoài「貢献」lớn cho xin việc…\n\n【Keyword】\n〜に貢献する, 社会・地域\n\n【Câu chính / căn cứ】\n貢献する thường với に: đóng góp cho xã hội/tổ chức/mục tiêu chung.\n\n【Cách giải nhanh】\n[CỐNG: dâng tặng, đóng góp; HIẾN: hiến dâng → CỐNG HIẾN: cống hiến, đóng góp] Đóng góp cho an toàn địa phương = dùng đúng. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — ảnh hưởng cá nhân thường không dùng 貢献.\n2: Sai — hiệu quả thuốc không gọi 貢献.\n3: Đúng — đóng góp cho cộng đồng.\n4: Sai — giúp xin việc cá nhân không dùng 貢献."
+    },
+    {
+      "question_id": 29,
+      "context": "",
+      "question": "<u>早急</u>",
+      "options": [
+        "原さんは素質があるので、早急に強くなって、試合にも勝てるだろう。",
+        "薬がよく効いたようで、痛みは早急に治まった。",
+        "二つの液体を混ぜると、早急に反応して気体が発生する。",
+        "この問題については早急に対策を検討する必要がある。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · この問題については早急に対策を検討する必要がある。\n\n【Dịch câu hỏi】\nHỏi: Câu nào dùng「早急」đúng?\n\n【Dịch 4 đáp án】\n1. Có tố chất nên「早急」mạnh lên…\n2. Thuốc hiệu nên đau「早急」hết…\n3. Trộn hai chất lỏng thì「早急」phản ứng…\n4. Cần「早急」xem xét biện pháp đối phó.\n\n【Keyword】\n早急に, 対策を検討\n\n【Câu chính / căn cứ】\n早急に＝khẩn trương xử lý; tự nhiên với hành động chủ động.\n\n【Cách giải nhanh】\n[TẢO: sớm; CẤP: gấp gáp, cấp bách → TẢO CẤP: khẩn cấp, nhanh chóng] 早急に対策を検討する. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — tiến bộ tự nhiên không dùng 早急.\n2: Sai — hết đau nhanh dùng すぐに/たちまち…\n3: Sai — phản ứng hóa học nhanh không dùng 早急.\n4: Đúng — cần xử lý gấp về đối sách."
+    },
+    {
+      "question_id": 30,
+      "context": "",
+      "question": "<u>区切り</u>",
+      "options": [
+        "雨が降っている間、区切りがついていた試合が、やっと再開された。",
+        "この仕事は今日中には終わりそうもないので、区切りをつけて帰ります。",
+        "今が成功か失敗かの区切りなので、諦めずに頑張りましょう。",
+        "次のバスまで区切りが2 時間あるので、食事をしながら待つことにした。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · この仕事は今日中には終わりそうもないので、区切りをつけて帰ります。\n\n【Dịch câu hỏi】\nHỏi: Câu nào dùng「区切り」đúng?\n\n【Dịch 4 đáp án】\n1. Trong lúc mưa, trận đấu「区切りがついて」…\n2. Việc hôm nay khó xong nên「区切りをつけて」rồi về.\n3. Đây là「区切り」thành/bại…\n4. Còn「区切り」2 giờ đến chuyến bus sau…\n\n【Keyword】\n区切りをつける\n\n【Câu chính / căn cứ】\n区切りをつける＝tạm khép lại ở mốc hợp lý.\n\n【Cách giải nhanh】\nTạm dừng việc ở điểm hợp lý = 区切りをつけて. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — tạm dừng trận đấu thường dùng 中断.\n2: Đúng — 区切りをつけて帰る.\n3: Sai — thành/bại dùng 分かれ目/正念場…\n4: Sai — khoảng thời gian chờ dùng 時間がある."
+    },
+    {
+      "question_id": 31,
+      "context": "",
+      "question": "今朝は寝坊をしてしまい、（ ）抜きで大学に来た。",
+      "options": [
+        "朝食が",
+        "朝食の",
+        "朝食に",
+        "朝食"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 朝食\n\n【Dịch câu hỏi】\nHỏi:「寝坊をしてしまい、（ ）抜きで大学に来た。」\n\n【Dịch 4 đáp án】\n1. 朝食が\n2. 朝食の\n3. 朝食に\n4. 朝食\n\n【Dịch bài đọc】\n問題7：Chọn từ thích hợp điền vào ngoặc.\n\n【Keyword】\nN抜きで\n\n【Câu chính / căn cứ】\n朝食抜きで＝không ăn sáng mà…\n\n【Cách giải nhanh】\nN＋抜きで: gắn trực tiếp danh từ, không trợ từ. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — thừa が.\n2: Sai — thừa の.\n3: Sai — thừa に.\n4: Đúng — 朝食抜きで."
+    },
+    {
+      "question_id": 32,
+      "context": "",
+      "question": "新しいコーヒーカップを使い始めて（ ）たたないうちに、床に落として割ってしまった。",
+      "options": [
+        "まだ",
+        "まもなく",
+        "いくらも",
+        "いつのまにか"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · いくらも\n\n【Dịch câu hỏi】\nHỏi:「使い始めて（ ）たたないうちに、…割ってしまった。」\n\n【Dịch 4 đáp án】\n1. まだ\n2. まもなく\n3. いくらも\n4. いつのまにか\n\n【Dịch bài đọc】\n問題7：Chọn phương án thích hợp nhất (1–4) để điền vào chỗ trống trong câu.\n\n【Keyword】\nいくらもたたないうちに\n\n【Câu chính / căn cứ】\nいくらもたたないうちに＝chưa bao lâu sau.\n\n【Cách giải nhanh】\nMẫu cố định: いくらもたたないうちに. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — まだたたないうちに không chuẩn.\n2: Sai — まもなく＝sắp, khác cấu trúc.\n3: Đúng — いくらも.\n4: Sai — いつのまにか＝lúc nào không hay."
+    },
+    {
+      "question_id": 33,
+      "context": "",
+      "question": "（鉄道会社のホームページで）「一日乗車券」は、ご購入いただいた当日（ ）、何度でも自由に乗り降りができる乗車券です。",
+      "options": [
+        "につれ",
+        "に際し",
+        "にわたり",
+        "に限り"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · に限り\n\n【Dịch câu hỏi】\nHỏi:「当日（ ）、何度でも自由に乗り降りができる」.\n\n【Dịch 4 đáp án】\n1. につれ\n2. に際し\n3. にわたり\n4. に限り\n\n【Dịch bài đọc】\n問題7：Chọn phương án thích hợp nhất (1–4) để điền vào chỗ trống trong câu.\n\n【Keyword】\n当日に限り\n\n【Câu chính / căn cứ】\n当日に限り＝chỉ giới hạn trong ngày đó.\n\n【Cách giải nhanh】\nĐiều kiện hiệu lực vé = に限り. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — につれ＝càng… càng…\n2: Sai — に際し＝nhân dịp.\n3: Sai — にわたり＝suốt/trải qua.\n4: Đúng — に限り."
+    },
+    {
+      "question_id": 34,
+      "context": "",
+      "question": "苦手な同僚と同じチームで仕事をすることになってしまったが、決まった（ ）、うまく付き合っていこうと思う。",
+      "options": [
+        "からには",
+        "わりには",
+        "ばかりか",
+        "どころか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · からには\n\n【Dịch câu hỏi】\nHỏi: Điền nối「…決まった（ ）…」— một khi đã quyết định thì…\n\n【Dịch 4 đáp án】\n1. からには\n2. わりには\n3. ばかりか\n4. どころか\n\n【Dịch bài đọc】\n問題7：Chọn phương án thích hợp nhất (1–4) để điền vào chỗ trống trong câu.\n\n【Keyword】\n決まったからには\n\n【Câu chính / căn cứ】\nからには＝một khi đã… thì (kèm quyết tâm/trách nhiệm).\n\n【Cách giải nhanh】\nMột khi đã quyết → からには. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — からには.\n2: Sai — わりには＝so với… thì ngược.\n3: Sai — ばかりか＝không chỉ…\n4: Sai — どころか＝đâu chỉ… mà ngược lại.\n\n【Chi tiết thêm】\nCâu hỏi nguồn bị cắt; theo đáp án chuẩn: 決まったからには."
+    },
+    {
+      "question_id": 35,
+      "context": "",
+      "question": "A 社のおもちゃは、赤ちゃんが口に（ ）、米や小麦を原料にして作られているそうだ。",
+      "options": [
+        "入れてもよければ",
+        "入れてもいいように",
+        "入れることがあれば",
+        "入れることがあるように"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 入れてもいいように\n\n【Dịch câu hỏi】\nHỏi:「赤ちゃんが口に（ ）、米や小麦を原料に…」\n\n【Dịch 4 đáp án】\n1. 入れてもよければ\n2. 入れてもいいように\n3. 入れることがあれば\n4. 入れることがあるように\n\n【Dịch bài đọc】\n問題7：Chọn phương án thích hợp nhất (1–4) để điền vào chỗ trống trong câu.\n\n【Keyword】\n〜てもいいように\n\n【Câu chính / căn cứ】\n口に入れてもいいように＝để dù cho vào miệng cũng an toàn.\n\n【Cách giải nhanh】\nMục đích thiết kế an toàn = 〜てもいいように. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — よければ＝nếu được thì… (điều kiện), không phải mục đích.\n2: Đúng — 入れてもいいように.\n3: Sai — ことがあれば＝nếu có lúc…\n4: Sai — ことがあるように lệch nghĩa mục đích an toàn."
+    },
+    {
+      "question_id": 36,
+      "context": "",
+      "question": "私は音楽大学でバイオリンを専攻しているが、卒業後は演奏家（ ）、子供たちに教えるという形でバイオリンに関わっていきたいと思っている。",
+      "options": [
+        "としてだったら",
+        "にとってだったら",
+        "としてではなく",
+        "にとってではなく"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · としてではなく\n\n【Dịch câu hỏi】\nHỏi: Điền vào「卒業後は演奏家（ ）、子供たちに教えるという形で…」\n\n【Dịch 4 đáp án】\n1. としてだったら\n2. にとってだったら\n3. としてではなく\n4. にとってではなく\n\n【Dịch bài đọc】\nTôi học chuyên violin ở đại học âm nhạc, nhưng sau tốt nghiệp muốn gắn bó với violin bằng cách dạy trẻ, chứ không phải với tư cách nghệ sĩ biểu diễn.\n\n【Keyword】\nNとしてではなく, 対比\n\n【Câu chính / căn cứ】\n演奏家としてではなく、教えるという形で\n\n【Cách giải nhanh】\nPhủ định tư cách A, chọn hình thức B →「としてではなく」. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — だったら＝nếu là…, không khớp đối lập.\n2: Sai — にとって＝đối với…, sai ngữ pháp tư cách.\n3: Đúng — としてではなく.\n4: Sai — にとってではなく sai colloc với 演奏家.\n\n【Chi tiết thêm】\nとして＝với tư cách; にとって＝đối với (người chịu ảnh hưởng)."
+    },
+    {
+      "question_id": 37,
+      "context": "",
+      "question": "B「私も、友達と遊びで少し（ ）、習うのは初めてです。」",
+      "options": [
+        "やったことがあるだけで",
+        "やったことがあることで",
+        "やっていなかったことで",
+        "やっていなかっただけで"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · やったことがあるだけで\n\n【Dịch câu hỏi】\nHỏi: B「私も、友達と遊びで少し（ ）、習うのは初めてです。」\n\n【Dịch 4 đáp án】\n1. やったことがあるだけで\n2. やったことがあることで\n3. やっていなかったことで\n4. やっていなかっただけで\n\n【Keyword】\n〜ただけで, 習うのは初めて\n\n【Câu chính / căn cứ】\nCó chút kinh nghiệm chơi vui → nhưng học bài bản thì lần đầu.\n\n【Cách giải nhanh】\nChỉ từng làm một chút thôi →「やったことがあるだけで」. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — chỉ từng chơi một chút.\n2: Sai — ことで không tạo tương phản「chỉ… thôi」.\n3: Sai — phủ định「chưa từng」mâu thuẫn với「遊びで少し」.\n4: Sai — 「chưa từng chỉ vì…」lệch nghĩa."
+    },
+    {
+      "question_id": 38,
+      "context": "",
+      "question": "後輩の田中さんは仕事熱心だが、少しまじめすぎる（ ）。",
+      "options": [
+        "ことになっている",
+        "ところがある",
+        "がちだ",
+        "ものだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · ところがある\n\n【Dịch câu hỏi】\nHỏi:「少しまじめすぎる（ ）。」\n\n【Dịch 4 đáp án】\n1. ことになっている\n2. ところがある\n3. がちだ\n4. ものだ\n\n【Keyword】\n〜ところがある, 性格の一面\n\n【Câu chính / căn cứ】\nまじめすぎるところがある＝có phần quá nghiêm túc.\n\n【Cách giải nhanh】\nKhuynh hướng/tính cách một mặt →「ところがある」. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — ことになっている＝quy định/được sắp.\n2: Đúng — ところがある.\n3: Sai — がちだ＝dễ/hay (thói quen xấu), kém tự nhiên với まじめすぎる ở đây.\n4: Sai — ものだ＝đáng lẽ/thường thì."
+    },
+    {
+      "question_id": 39,
+      "context": "",
+      "question": "駅前のラーメン屋はいつも込んでいて、けっこう待たされるのに、今日はそんなに（ ）。",
+      "options": [
+        "待たずに済んだ",
+        "待ったおかげだ",
+        "待ちきれなかった",
+        "待たなければよかった"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 待たずに済んだ\n\n【Dịch câu hỏi】\nHỏi: Quán đông thường chờ lâu, hôm nay「そんなに（ ）。」\n\n【Dịch 4 đáp án】\n1. 待たずに済んだ\n2. 待ったおかげだ\n3. 待ちきれなかった\n4. 待たなければよかった\n\n【Keyword】\n〜ずに済む, のに, そんなに\n\n【Câu chính / căn cứ】\n待たずに済んだ＝không phải chờ mà xong.\n\n【Cách giải nhanh】\nTương phản với thường phải chờ → hôm nay không phải chờ nhiều: 待たずに済んだ. → Đáp án 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — không phải chờ.\n2: Sai — おかげだ＝nhờ… (tích cực), lệch.\n3: Sai — 待ちきれない＝không chịu nổi chờ.\n4: Sai — 待たなければよかった＝giá như đừng chờ."
+    },
+    {
+      "question_id": 40,
+      "context": "",
+      "question": "私は彼と結婚したいと思っているが、彼はきっとまだ結婚は（ ）。",
+      "options": [
+        "考えなくなってもしかたない",
+        "考えなくなるに違いない",
+        "考えていなくてもしかたない",
+        "考えていないに違いない"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 考えていないに違いない\n\n【Dịch câu hỏi】\nHỏi:「彼はきっとまだ結婚は（ ）。」\n\n【Dịch 4 đáp án】\n1. 考えなくなってもしかたない\n2. 考えなくなるに違いない\n3. 考えていなくてもしかたない\n4. 考えていないに違いない\n\n【Keyword】\nきっと〜に違いない, まだ考えていない\n\n【Câu chính / căn cứ】\nChắc chắn anh ấy vẫn chưa nghĩ đến hôn nhân.\n\n【Cách giải nhanh】\nきっと + hiện tại phủ định + に違いない. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — 〜てもしかたない＝đành chịu, không khớp きっと.\n2: Sai — 考えなくなる＝sẽ thôi nghĩ (tương lai), lệch với まだ.\n3: Sai — しかたない không đi với きっと phán đoán.\n4: Đúng — 考えていないに違いない."
+    },
+    {
+      "question_id": 41,
+      "context": "",
+      "question": "課長「はい。それについては、担当の私からご報告（ ）。」",
+      "options": [
+        "なさいます",
+        "おっしゃいます",
+        "申し上げます",
+        "伺います"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 申し上げます\n\n【Dịch câu hỏi】\nHỏi: Trưởng phòng báo cáo với cấp trên:「ご報告（ ）。」\n\n【Dịch 4 đáp án】\n1. なさいます\n2. おっしゃいます\n3. 申し上げます\n4. 伺います\n\n【Keyword】\nご報告申し上げます, 謙譲語\n\n【Câu chính / căn cứ】\n申し上げる＝nói (khiêm nhường) với cấp trên.\n\n【Cách giải nhanh】\nNgười nói báo cáo → 申し上げます. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — なさる＝tôn kính hành động người trên.\n2: Sai — おっしゃる＝nói (tôn kính người trên).\n3: Đúng — 申し上げます.\n4: Sai — 伺う＝hỏi/đến thăm (khiêm), không khớp ご報告."
+    },
+    {
+      "question_id": 42,
+      "context": "",
+      "question": "ピアノの発表会の前に、間違えそうで怖いと先生に言ったら、「ちょっとぐらい（ ）よ。大事なのは楽しんで弾くことだよ。」と言ってくれた。",
+      "options": [
+        "間違えちゃいけないんだ",
+        "間違えたっていいんだ",
+        "間違えなきゃいいんだ",
+        "間違えたいんじゃないんだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 間違えたっていいんだ\n\n【Dịch câu hỏi】\nHỏi: Giáo viên trấn an trước buổi diễn: điều quan trọng là chơi vui — điền phần phù hợp.\n\n【Dịch 4 đáp án】\n1. 間違えちゃいけないんだ\n2. 間違えたっていいんだ\n3. 間違えなきゃいいんだ\n4. 間違えたいんじゃないんだ\n\n【Keyword】\n〜たっていい, てもいい\n\n【Câu chính / căn cứ】\n間違えたっていい＝sai cũng không sao.\n\n【Cách giải nhanh】\nTrấn an: sai cũng được →「間違えたっていいんだ」. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — いけない＝không được sai (tăng áp lực).\n2: Đúng — たっていい.\n3: Sai — なきゃいい＝chỉ cần đừng sai.\n4: Sai — không muốn sai — lệch lời khuyên.\n\n【Chi tiết thêm】\nたって＝ても (thân mật)."
+    },
+    {
+      "question_id": 43,
+      "context": "",
+      "question": "ちょっと ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 好みのT シャツを見つけてしまい、つい買ってしまった。",
+      "options": [
+        "だけの",
+        "つもりで",
+        "服屋に入ったら",
+        "見る"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · つもりで\n\n【Dịch câu hỏi】\nHỏi xếp câu:「ちょっと ＿＿ ＿＿ ＿★＿ ＿＿ 好みのTシャツを…」— mảnh ★?\n\n【Dịch 4 đáp án】\n1. だけの\n2. つもりで\n3. 服屋に入ったら\n4. 見る\n\n【Dịch bài đọc】\n問題8：Chọn mảnh vào vị trí ★. Thứ tự đúng: ちょっと見るだけのつもりで服屋に入ったら…\n\n【Keyword】\n見るだけのつもりで, 入ったら\n\n【Câu chính / căn cứ】\nちょっと見るだけのつもりで服屋に入ったら\n\n【Cách giải nhanh】\nChuỗi: 見る→だけの→つもりで→服屋に入ったら. ★=つもりで (2).\n\n【Phân tích / loại đáp án】\n1: Sai vị trí ★ — だけの đứng trước つもりで.\n2: Đúng — ★ là つもりで.\n3: Sai — 服屋に入ったら ở cuối chuỗi.\n4: Sai — 見る đứng đầu sau ちょっと.\n\n【Chi tiết thêm】\nĐếm vị trí: 1見る 2だけの 3つもりで★ 4服屋に入ったら."
+    },
+    {
+      "question_id": 44,
+      "context": "",
+      "question": "兄は、最近ずっと「歯が痛くて眠れない」と言っているけれど、歯医者には行こうとしない。そんなに ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+      "options": [
+        "痛い",
+        "早く行けばいい",
+        "のに",
+        "んだったら"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 早く行けばいい\n\n【Dịch câu hỏi】\nHỏi xếp câu:「そんなに ＿＿ ＿＿ ＿★＿ ＿＿。」— mảnh ★?\n\n【Dịch 4 đáp án】\n1. 痛い\n2. 早く行けばいい\n3. のに\n4. んだったら\n\n【Dịch bài đọc】\nThứ tự đúng: そんなに痛いんだったら、早く行けばいいのに。\n\n【Keyword】\n〜んだったら, 〜ばいいのに\n\n【Câu chính / căn cứ】\nそんなに痛いんだったら、早く行けばいいのに\n\n【Cách giải nhanh】\n痛い→んだったら→早く行けばいい★→のに. ★=2.\n\n【Phân tích / loại đáp án】\n1: Sai vị trí — 痛い ngay sau そんなに.\n2: Đúng — ★ là 早く行けばいい.\n3: Sai — のに ở cuối.\n4: Sai — んだったら ở vị trí 2."
+    },
+    {
+      "question_id": 45,
+      "context": "",
+      "question": "「ABC チーズ」はチーズ料理の専門店で、私のような＿＿＿ ＿＿＿ ＿★＿ ＿＿＿店だ。",
+      "options": [
+        "人に",
+        "好きでたまらないという",
+        "チーズが",
+        "ぜひおすすめしたい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 人に\n\n【Dịch câu hỏi】\nHỏi xếp câu:「私のような＿＿ ＿＿ ＿★＿ ＿＿店だ。」— mảnh ★?\n\n【Dịch 4 đáp án】\n1. 人に\n2. 好きでたまらないという\n3. チーズが\n4. ぜひおすすめしたい\n\n【Dịch bài đọc】\nThứ tự: 私のようなチーズが好きでたまらないという人にぜひおすすめしたい店だ。\n\n【Keyword】\n好きでたまらない, 人に, おすすめしたい\n\n【Câu chính / căn cứ】\n…好きでたまらないという人にぜひおすすめしたい店だ\n\n【Cách giải nhanh】\nチーズが→好きでたまらないという→人に★→ぜひおすすめしたい. ★=1.\n\n【Phân tích / loại đáp án】\n1: Đúng — ★ là 人に.\n2: Sai vị trí — đứng trước 人に.\n3: Sai — ngay sau 私のような.\n4: Sai — đứng cuối trước 店だ."
+    },
+    {
+      "question_id": 46,
+      "context": "",
+      "question": "親友の花子に初めて会ったとき、初対面とは思えない ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+      "options": [
+        "よく覚えている",
+        "ぐらい",
+        "のを",
+        "話が盛り上がった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · のを\n\n【Dịch câu hỏi】\nHỏi xếp câu:「初対面とは思えない ＿＿ ＿＿ ＿★＿ ＿＿。」— mảnh ★?\n\n【Dịch 4 đáp án】\n1. よく覚えている\n2. ぐらい\n3. のを\n4. 話が盛り上がった\n\n【Dịch bài đọc】\nThứ tự: 初対面とは思えないぐらい話が盛り上がったのをよく覚えている。\n\n【Keyword】\nぐらい, のを, 覚えている\n\n【Câu chính / căn cứ】\n…話が盛り上がったのをよく覚えている\n\n【Cách giải nhanh】\nぐらい→話が盛り上がった→のを★→よく覚えている. ★=3.\n\n【Phân tích / loại đáp án】\n1: Sai — đứng cuối.\n2: Sai — sau 思えない.\n3: Đúng — ★ là のを.\n4: Sai — trước のを.\n\n【Chi tiết thêm】\nの danh từ hóa sự việc làm tân ngữ của 覚えている."
+    },
+    {
+      "question_id": 47,
+      "context": "",
+      "question": "学生のころ、様々な国を旅行して、自分の ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、世界には多様な考え方があることを知った。",
+      "options": [
+        "出会えない",
+        "交流したことで",
+        "国にいては",
+        "様々な文化や価値観を持つ人と"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 様々な文化や価値観を持つ人と\n\n【Dịch câu hỏi】\nHỏi xếp câu kết thúc「考え方があることを知った。」— mảnh ★?\n\n【Dịch 4 đáp án】\n1. 出会えない\n2. 交流したことで\n3. 国にいては\n4. 様々な文化や価値観を持つ人と\n\n【Dịch bài đọc】\nThứ tự: 自分の国にいては出会えない様々な文化や価値観を持つ人と交流したことで…考え方があることを知った。\n\n【Keyword】\n国にいては出会えない, 交流したことで\n\n【Câu chính / căn cứ】\n…様々な文化や価値観を持つ人と交流したことで\n\n【Cách giải nhanh】\n国にいては→出会えない→様々な…人と★→交流したことで. ★=4.\n\n【Phân tích / loại đáp án】\n1: Sai vị trí — sau 国にいては.\n2: Sai — ở cuối chuỗi.\n3: Sai — đầu chuỗi (có 自分の).\n4: Đúng — ★ là 様々な…人と."
+    },
+    {
+      "question_id": 48,
+      "context": "を1・2・3・4 から一つ選びなさい。\n目で味わう\n「目で味わう」という言葉があります。もちろん、目で食べ物を食べるという意味ではありませ\nん。食べる前に目で見て料理の見た目を楽しむという意味です。しかし、「味わう」という言葉は普\n通、舌で料理の味を楽しむことを指します。目でも味を感じることはできるのでしょうか。\n色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も【48】。料理\n人たちも、塩や酢などを使って野菜の色を鮮やかに保ったり、料理に合う色や形の器を選んだりと、見\nた目を大切にしています。同じ料理でも、見た目がより良いもののほうがおいしそうに感じられます。\nでは、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。【49】近\n年、料理の見た目が影響するのは食べる前だけではないことがわかってきました。ある研究で、食べ\n物の味は変えずに、色や器の種類などを変えて提供し、それぞれどんな味か評価させる実験が行わ\nれました。すると、全く同じ味のものを食べたにもかかわらず、味が異なると評価した人が多かったそ\nうです。目から入る情報は、食べたときの味の感じ方【50】影響していたのです。このように科学的に\nも、実際に目で味わっているということが証明されつつあります。\n味を感じる仕組みは複雑で、見た目も大切な要素の一つです。それが感覚的に理解されてい\nたからこそ、「目で味わう」と表現されるように【51】。",
+      "question": "【48】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "options": [
+        "多いとします",
+        "多かったとします",
+        "多いでしょう",
+        "多かったでしょう"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 多いでしょう\n\n【Dịch câu hỏi】\nHỏi điền ngữ pháp đoạn văn (câu 48): nhận định về nhiều người…\n\n【Dịch 4 đáp án】\n1. 多いとします\n2. 多かったとします\n3. 多いでしょう\n4. 多かったでしょう\n\n【Keyword】\n多いでしょう, 推量\n\n【Câu chính / căn cứ】\nCó lẽ nhiều người thấy niềm vui bữa ăn tăng khi món ăn đẹp mắt.\n\n【Cách giải nhanh】\nNhận định hiện tại mềm →「多いでしょう」. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — とします＝giả định/quy ước.\n2: Sai — quá khứ + とします lệch.\n3: Đúng — 多いでしょう.\n4: Sai — quá khứ không cần thiết."
+    },
+    {
+      "question_id": 49,
+      "context": "を1・2・3・4 から一つ選びなさい。\n目で味わう\n「目で味わう」という言葉があります。もちろん、目で食べ物を食べるという意味ではありませ\nん。食べる前に目で見て料理の見た目を楽しむという意味です。しかし、「味わう」という言葉は普\n通、舌で料理の味を楽しむことを指します。目でも味を感じることはできるのでしょうか。\n色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も【48】。料理\n人たちも、塩や酢などを使って野菜の色を鮮やかに保ったり、料理に合う色や形の器を選んだりと、見\nた目を大切にしています。同じ料理でも、見た目がより良いもののほうがおいしそうに感じられます。\nでは、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。【49】近\n年、料理の見た目が影響するのは食べる前だけではないことがわかってきました。ある研究で、食べ\n物の味は変えずに、色や器の種類などを変えて提供し、それぞれどんな味か評価させる実験が行わ\nれました。すると、全く同じ味のものを食べたにもかかわらず、味が異なると評価した人が多かったそ\nうです。目から入る情報は、食べたときの味の感じ方【50】影響していたのです。このように科学的に\nも、実際に目で味わっているということが証明されつつあります。\n味を感じる仕組みは複雑で、見た目も大切な要素の一つです。それが感覚的に理解されてい\nたからこそ、「目で味わう」と表現されるように【51】。",
+      "question": "【49】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "options": [
+        "実は",
+        "確かに",
+        "しかも",
+        "ところが"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 実は\n\n【Dịch câu hỏi】\nTrong bài «Nếm bằng mắt»: «Chẳng lẽ chỉ nhìn món ăn thấy ngon mà đã gọi là thưởng thức? ( ) Những năm gần đây người ta biết vẻ ngoài không chỉ ảnh hưởng trước lúc ăn.»\n\n【Dịch 4 đáp án】\n1. 実は — thực ra. Đúng: mở ra sự thật khác với điều vừa hỏi.\n2. 確かに — quả đúng là. Dùng khi đồng ý, không phải lúc lật lại giả định.\n3. しかも — hơn nữa. Chỉ thêm ý cùng chiều, không lật câu hỏi.\n4. ところが — thế nhưng. Có đối lập, nhưng ở đây tác giả đưa fact mới bằng 実は tự nhiên hơn.\n\n【Cách giải nhanh】\nCâu trước là câu hỏi tu từ. Câu sau tiết lộ kết quả nghiên cứu → 実は.\n\n【Phân tích / loại đáp án】\n2: đồng ý, không hợp.\n3: bổ sung cùng chiều.\n4: đối lập cứng.\n1: đúng."
+    },
+    {
+      "question_id": 50,
+      "context": "を1・2・3・4 から一つ選びなさい。\n目で味わう\n「目で味わう」という言葉があります。もちろん、目で食べ物を食べるという意味ではありませ\nん。食べる前に目で見て料理の見た目を楽しむという意味です。しかし、「味わう」という言葉は普\n通、舌で料理の味を楽しむことを指します。目でも味を感じることはできるのでしょうか。\n色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も【48】。料理\n人たちも、塩や酢などを使って野菜の色を鮮やかに保ったり、料理に合う色や形の器を選んだりと、見\nた目を大切にしています。同じ料理でも、見た目がより良いもののほうがおいしそうに感じられます。\nでは、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。【49】近\n年、料理の見た目が影響するのは食べる前だけではないことがわかってきました。ある研究で、食べ\n物の味は変えずに、色や器の種類などを変えて提供し、それぞれどんな味か評価させる実験が行わ\nれました。すると、全く同じ味のものを食べたにもかかわらず、味が異なると評価した人が多かったそ\nうです。目から入る情報は、食べたときの味の感じ方【50】影響していたのです。このように科学的に\nも、実際に目で味わっているということが証明されつつあります。\n味を感じる仕組みは複雑で、見た目も大切な要素の一つです。それが感覚的に理解されてい\nたからこそ、「目で味わう」と表現されるように【51】。",
+      "question": "【50】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "options": [
+        "にのみ",
+        "にまで",
+        "に限らず",
+        "に比べて"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · にまで\n\n【Dịch câu hỏi】\nHỏi điền (câu 50): thông tin bằng mắt ảnh hưởng … cảm nhận vị giác.\n\n【Dịch 4 đáp án】\n1. にのみ\n2. にまで\n3. に限らず\n4. に比べて\n\n【Keyword】\nにまで, 影響が及ぶ\n\n【Câu chính / căn cứ】\nẢnh hưởng thậm chí đến cả cách cảm nhận hương vị khi ăn.\n\n【Cách giải nhanh】\nMở rộng phạm vi「đến cả…」→「にまで」. → Đáp án 2.\n\n【Phân tích / loại đáp án】\n1: Sai — にのみ＝chỉ…\n2: Đúng — にまで.\n3: Sai — に限らず＝không chỉ giới hạn ở…\n4: Sai — に比べて＝so với…"
+    },
+    {
+      "question_id": 51,
+      "context": "を1・2・3・4 から一つ選びなさい。\n目で味わう\n「目で味わう」という言葉があります。もちろん、目で食べ物を食べるという意味ではありませ\nん。食べる前に目で見て料理の見た目を楽しむという意味です。しかし、「味わう」という言葉は普\n通、舌で料理の味を楽しむことを指します。目でも味を感じることはできるのでしょうか。\n色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も【48】。料理\n人たちも、塩や酢などを使って野菜の色を鮮やかに保ったり、料理に合う色や形の器を選んだりと、見\nた目を大切にしています。同じ料理でも、見た目がより良いもののほうがおいしそうに感じられます。\nでは、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。【49】近\n年、料理の見た目が影響するのは食べる前だけではないことがわかってきました。ある研究で、食べ\n物の味は変えずに、色や器の種類などを変えて提供し、それぞれどんな味か評価させる実験が行わ\nれました。すると、全く同じ味のものを食べたにもかかわらず、味が異なると評価した人が多かったそ\nうです。目から入る情報は、食べたときの味の感じ方【50】影響していたのです。このように科学的に\nも、実際に目で味わっているということが証明されつつあります。\n味を感じる仕組みは複雑で、見た目も大切な要素の一つです。それが感覚的に理解されてい\nたからこそ、「目で味わう」と表現されるように【51】。",
+      "question": "【51】に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "options": [
+        "なったにすぎません",
+        "なったはずがありません",
+        "なったとはいえません",
+        "なったのかもしれません"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · なったのかもしれません\n\n【Dịch câu hỏi】\nHỏi điền (câu 51): có lẽ vì thế mà cách nói「thưởng thức bằng mắt」…\n\n【Dịch 4 đáp án】\n1. なったにすぎません\n2. なったはずがありません\n3. なったとはいえません\n4. なったのかもしれません\n\n【Keyword】\n〜のかもしれません, 推量\n\n【Câu chính / căn cứ】\nCó lẽ chính vì hiểu bằng cảm giác nên mới có cách nói ấy.\n\n【Cách giải nhanh】\nSuy đoán nguồn gốc →「なったのかもしれません」. → Đáp án 4.\n\n【Phân tích / loại đáp án】\n1: Sai — にすぎません＝chỉ là… (hạ thấp).\n2: Sai — はずがありません＝không thể nào.\n3: Sai — とはいえません＝không thể nói là.\n4: Đúng — のかもしれません."
+    }
+  ]
+}

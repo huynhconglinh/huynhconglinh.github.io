@@ -1,0 +1,335 @@
+{
+  "id": "N2-TC-B06-LT",
+  "code": "TC-B06-LT",
+  "title": "Bài 6 · Ngữ pháp Hái sao · Luyện tập",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "grammar",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "",
+      "question": "もう酒は飲まないと＿＿ ＿★＿ ＿＿ ＿＿絶対に守りたい。",
+      "options": [
+        "決めた",
+        "どんなに",
+        "以上は",
+        "誘われても"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 以上は\n\n【Dịch câu hỏi】\nSắp xếp: Một khi đã quyết định không uống rượu nữa thì dù bị rủ thế nào cũng nhất định muốn giữ lời. — chọn phần ở vị trí ★.\n\n【Dịch 4 đáp án】\n1. 決めた (đã quyết định)\n2. どんなに (dù … thế nào)\n3. 以上は (một khi đã… thì)\n4. 誘われても (dù bị rủ)\n\n【Keyword】\nVた以上は, どんなに～ても\n\n【Câu chính / căn cứ】\n「決めた以上は、どんなに誘われても絶対に守りたい」\n\n【Cách giải nhanh】\nThứ tự: 決めた → 以上は → どんなに → 誘われても. ★ = 以上は (ô 3). → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — 決めた đứng đầu chuỗi, không phải ★.\n2: Sai — どんなに nối với 誘われても, không ở ★.\n3: Đúng — mẫu 「Vた以上は」 nằm giữa 「決めた」 và vế quyết tâm.\n4: Sai — 誘われても ở cuối vế nhượng bộ.\n\n【Chi tiết thêm】\n「～た以上は」= đã làm/đã quyết thì phải chịu trách nhiệm đi tiếp."
+    },
+    {
+      "question_id": 2,
+      "context": "",
+      "question": "必要のない物でも、欲しくなると＿＿ ＿＿ ＿★＿ ＿＿しまう。",
+      "options": [
+        "買わずには",
+        "すぐ買って",
+        "いられなく",
+        "なって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · なって\n\n【Dịch câu hỏi】\nSắp xếp: Dù không cần thiết, hễ muốn là tôi trở nên không thể không mua ngay. — chọn phần ★.\n\n【Dịch 4 đáp án】\n1. 買わずには (không mua thì…)\n2. すぐ買って (mua ngay rồi…)\n3. いられなく (không thể cứ…)\n4. なって (trở nên…)\n\n【Keyword】\nずにはいられない, ～なくなって\n\n【Câu chính / căn cứ】\n「買わずにはいられなくなって、すぐ買ってしまう」\n\n【Cách giải nhanh】\nChuỗi: 買わずには → いられなく → なって → すぐ買って. ★ = なって. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — mở đầu mẫu 「ずにはいられない」.\n2: Sai — kết thúc với 「しまう」, sau ★.\n3: Sai — nằm trước なって.\n4: Đúng — nối 「いられなく」 với kết quả 「すぐ買ってしまう」.\n\n【Chi tiết thêm】\n「Vずにはいられない」= không thể không V; thêm 「なる」= trở nên không kiềm được."
+    },
+    {
+      "question_id": 3,
+      "context": "",
+      "question": "パンコンの電源を入れたのだが、画面に「お待ちください」という＿＿ ＿＿ ＿★＿ ＿＿電源を入れ直した。",
+      "options": [
+        "待っても",
+        "何分",
+        "メッセージが出たまま",
+        "先に進まないので"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 待っても\n\n【Dịch câu hỏi】\nSắp xếp (bật lại nguồn điện): Thông báo vẫn hiện, đợi bao nhiêu phút cũng không tiến tiếp nên tôi khởi động lại. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 待っても (dù đợi…)\n2. 何分 (bao nhiêu phút)\n3. メッセージが出たまま (cứ hiện thông báo)\n4. 先に進まないので (vì không tiến tiếp nên)\n\n【Keyword】\n～たまま, 何分待っても, ので\n\n【Câu chính / căn cứ】\n「メッセージが出たまま、何分待っても先に進まないので、電源を入れ直した」\n\n【Cách giải nhanh】\nThứ tự: メッセージが出たまま → 何分 → 待っても → 先に進まないので. ★ = 待っても. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — 「何分待っても」 là cụm then chốt ở ★.\n2: Sai — 何分 đứng trước 待っても.\n3: Sai — mở đầu tình huống 「～たまま」.\n4: Sai — vế nguyên nhân trước kết luận khởi động lại.\n\n【Chi tiết thêm】\n「疑問詞＋ても」= dù … bao nhiêu cũng…"
+    },
+    {
+      "question_id": 4,
+      "context": "",
+      "question": "A「すみません、来週の 2 時からの会議ですが、その時間、別の用件が入ってしまいまして、 もしそちらのご都合が＿＿ ＿＿ ＿★＿ ＿＿、いかがでしょうか。」 B「こちらは大丈夫ですよ。」",
+      "options": [
+        "ありがたいんですが",
+        "変更していただけると",
+        "４時以降に",
+        "よろしければ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 変更していただけると\n\n【Dịch câu hỏi】\n(Điện thoại) A xin đổi giờ họp nếu bên kia tiện — sắp xếp chỗ trống, chọn ★.\n\n【Dịch 4 đáp án】\n1. ありがたいんですが (thì tôi rất cảm kích…)\n2. 変更していただけると (nếu được đổi giúp…)\n3. ４時以降に (sang sau 4 giờ)\n4. よろしければ (nếu tiện thì)\n\n【Dịch bài đọc】\nA: Xin lỗi, cuộc họp tuần sau từ 2 giờ, khung giờ đó tôi bỗng có việc khác; nếu bên anh/chị tiện thì… có được không ạ? B: Bên tôi ổn.\n\n【Keyword】\nていただけるとありがたい, よろしければ, 依頼\n\n【Câu chính / căn cứ】\n「よろしければ、4時以降に変更していただけるとありがたいんですが」\n\n【Cách giải nhanh】\nThứ tự lịch sự: よろしければ → 4時以降に → 変更していただけると → ありがたいんですが. ★ = 変更していただけると. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — kết thúc lời nhờ, sau ★.\n2: Đúng — lõi yêu cầu 「～ていただけると」.\n3: Sai — thời điểm đề xuất, trước động từ đổi giờ.\n4: Sai — mở đầu điều kiện lịch sự.\n\n【Chi tiết thêm】\nMẫu nhờ việc: 「～ていただけるとありがたいんですが」."
+    },
+    {
+      "question_id": 5,
+      "context": "",
+      "question": "20 年前に初めてこの歌手の歌を聴いたとき、＿＿ ＿＿ ＿＿ ＿★＿ 。",
+      "options": [
+        "と思った",
+        "よく覚えている",
+        "のを",
+        "なんと美しい声なんだろう"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · よく覚えている\n\n【Dịch câu hỏi】\nSắp xếp: Khi lần đầu nghe ca sĩ này 20 năm trước, tôi còn nhớ rất rõ đã nghĩ “giọng đẹp làm sao”. — chọn ★.\n\n【Dịch 4 đáp án】\n1. と思った (đã nghĩ rằng…)\n2. よく覚えている (còn nhớ rõ)\n3. のを (việc …)\n4. なんと美しい声なんだろう (ôi giọng đẹp làm sao)\n\n【Dịch bài đọc】\n04. (Qua điện thoại) A:「Xin lỗi, về cuộc họp tuần sau bắt đầu từ 2 giờ, nhưng đúng khung giờ đó tôi lại có việc khác xen vào, nếu bên anh/chị thuận tiện thì ＿＿ ＿＿ ＿★＿ ＿＿, liệu có được không ạ?」 B:「Bên tôi thì ổn ạ.」\n\n【Keyword】\nなんと～だろう, と思ったのを, 覚えている\n\n【Câu chính / căn cứ】\n「なんと美しい声なんだろうと思ったのをよく覚えている」\n\n【Cách giải nhanh】\nThứ tự: なんと…なんだろう → と思った → のを → よく覚えている. ★ cuối = よく覚えている. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — đứng trước 「のを」.\n2: Đúng — vị ngữ kết thúc câu nhớ lại.\n3: Sai — danh từ hóa 「と思ったの」 trước động từ nhớ.\n4: Sai — mở đầu cảm thán.\n\n【Chi tiết thêm】\n「～たのを覚えている」= còn nhớ đã từng…"
+    },
+    {
+      "question_id": 6,
+      "context": "",
+      "question": "この歌を聞く＿＿ ＿＿ ＿★＿ ＿＿ことだ。彼はカラオケに行くと必ずこの歌を歌っていた。",
+      "options": [
+        "のは",
+        "思い出す",
+        "たびに",
+        "高校時代の友人の"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · のは\n\n【Dịch câu hỏi】\nSắp xếp: Mỗi lần nghe bài này, người tôi nhớ là bạn thời cấp ba. — chọn ★.\n\n【Dịch 4 đáp án】\n1. のは (người/việc … là)\n2. 思い出す (nhớ lại)\n3. たびに (mỗi khi)\n4. 高校時代の友人の (bạn thời cấp ba)\n\n【Dịch bài đọc】\n04. (Qua điện thoại) A:「Xin lỗi, về cuộc họp tuần sau bắt đầu từ 2 giờ, nhưng đúng khung giờ đó tôi lại có việc khác xen vào, nếu bên anh/chị thuận tiện thì ＿＿ ＿＿ ＿★＿ ＿＿, liệu có được không ạ?」 B:「Bên tôi thì ổn ạ.」\n\n【Keyword】\nVるたびに, 思い出すのは, ～のことだ\n\n【Câu chính / căn cứ】\n「聞くたびに思い出すのは高校時代の友人のことだ」\n\n【Cách giải nhanh】\nThứ tự: たびに → 思い出す → のは → 高校時代の友人の. ★ = のは. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — cấu trúc nhấn mạnh 「思い出すのは～だ」.\n2: Sai — đứng trước のは.\n3: Sai — gắn với 「聞く」 ở đầu.\n4: Sai — phần định nghĩa sau のは.\n\n【Chi tiết thêm】\n「～のは～だ」 nêu chủ đề được nhấn mạnh."
+    },
+    {
+      "question_id": 7,
+      "context": "",
+      "question": "昨日、アルバイトに遅刻しそうだったので＿＿ ＿＿ ＿★＿ ＿＿、結局遅刻してしまった。",
+      "options": [
+        "タクシーに乗ったら",
+        "かえって時間がかかり",
+        "急ごうと思って",
+        "道が渋滞していたせいで"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 道が渋滞していたせいで\n\n【Dịch câu hỏi】\nSắp xếp: Sắp muộn nên định đi taxi cho nhanh, nhưng vì đường tắc nên trái lại mất thời gian, cuối cùng vẫn muộn. — chọn ★.\n\n【Dịch 4 đáp án】\n1. タクシーに乗ったら (lên taxi thì…)\n2. かえって時間がかかり (trái lại mất thời gian)\n3. 急ごうと思って (nghĩ là sẽ tranh thủ nhanh)\n4. 道が渋滞していたせいで (vì đường đang tắc)\n\n【Dịch bài đọc】\n04. (Qua điện thoại) A:「Xin lỗi, về cuộc họp tuần sau bắt đầu từ 2 giờ, nhưng đúng khung giờ đó tôi lại có việc khác xen vào, nếu bên anh/chị thuận tiện thì ＿＿ ＿＿ ＿★＿ ＿＿, liệu có được không ạ?」 B:「Bên tôi thì ổn ạ.」\n\n【Keyword】\n～せいで, かえって, と思ったら\n\n【Câu chính / căn cứ】\n「急ごうと思ってタクシーに乗ったら、道が渋滞していたせいで、かえって時間がかかり」\n\n【Cách giải nhanh】\nThứ tự: 急ごうと思って → タクシーに乗ったら → 道が渋滞していたせいで → かえって時間がかかり. ★ = nguyên nhân tắc đường. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — đứng sau ý “định nhanh”.\n2: Sai — kết quả ngược ý, sau nguyên nhân.\n3: Sai — mở đầu động cơ.\n4: Đúng — 「～せいで」 giải thích vì sao “かえって”.\n\n【Chi tiết thêm】\n「かえって」 báo kết quả trái mong đợi; thường có nguyên nhân 「せいで」 trước đó."
+    },
+    {
+      "question_id": 8,
+      "context": "",
+      "question": "来月結婚する友人に結婚式のスピーチを頼まれた。大勢の前で話すのは＿＿ ＿＿ ＿★＿ ＿＿引き受けることにした。",
+      "options": [
+        "悩んだのだが",
+        "と言われて",
+        "どうしても",
+        "苦手なので"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · どうしても\n\n【Dịch câu hỏi】\nSắp xếp: Vì kém nên đã do dự, nhưng bị bạn nhất quyết nhờ nên tôi nhận lời. — chọn ★ trước 「引き受けることにした」.\n\n【Dịch 4 đáp án】\n1. 悩んだのだが (đã phân vân nhưng)\n2. と言われて (bị bảo rằng…)\n3. どうしても (nhất định / bằng mọi cách)\n4. 苦手なので (vì không giỏi nên)\n\n【Keyword】\nどうしても, と言われて, 引き受ける\n\n【Câu chính / căn cứ】\n「苦手なので悩んだのだが、どうしてもと言われて引き受けることにした」\n\n【Cách giải nhanh】\nThứ tự: 苦手なので → 悩んだのだが → どうしても → と言われて. ★ = どうしても. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — nhượng bộ giữa lý do và lời nhờ.\n2: Sai — kết nối với 「引き受ける」, sau ★.\n3: Đúng — nhấn mạnh lời nhờ tha thiết 「どうしても」.\n4: Sai — mở đầu lý do do dự.\n\n【Chi tiết thêm】\n「どうしても＋と言われて」= bị thúc rằng “nhất định phải…”."
+    },
+    {
+      "question_id": 9,
+      "context": "",
+      "question": "先日の政治家A 氏の発言はあまりに無責任だ。＿＿ ＿＿ ＿★＿ ＿＿、と思う。",
+      "options": [
+        "政治家としての",
+        "うえで",
+        "発言しなければならなかった",
+        "自分の立場をよく考えた"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · うえで\n\n【Dịch câu hỏi】\nSắp xếp: Phát ngôn của chính trị gia A quá vô trách nhiệm; lẽ ra phải phát biểu sau khi cân nhắc kỹ lập trường. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 政治家としての (với tư cách chính trị gia)\n2. うえで (sau khi… thì)\n3. 発言しなければならなかった (lẽ ra phải phát biểu)\n4. 自分の立場をよく考えた (đã cân nhắc kỹ vị trí mình)\n\n【Keyword】\nVたうえで, ～なければならない\n\n【Câu chính / căn cứ】\n「政治家としての自分の立場をよく考えたうえで発言しなければならなかった」\n\n【Cách giải nhanh】\nThứ tự: 政治家としての → 自分の立場をよく考えた → うえで → 発言しなければならなかった. ★ = うえで. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — bổ nghĩa cho 「立場」.\n2: Đúng — mẫu 「Vたうえで」 nối hành động trước–sau.\n3: Sai — kết luận nghĩa vụ, sau うえで.\n4: Sai — động từ trước うえで.\n\n【Chi tiết thêm】\n「～たうえで」= sau khi làm A rồi mới làm B."
+    },
+    {
+      "question_id": 10,
+      "context": "",
+      "question": "食事や睡眠などの生活習慣は一度乱れてしまうと＿＿ ＿＿ ＿★＿ ＿＿大切だ。",
+      "options": [
+        "規則正しい生活を",
+        "戻そうとしても",
+        "普段から意識することが",
+        "なかなか戻せいないので"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 規則正しい生活を\n\n【Dịch câu hỏi】\nSắp xếp: Thói quen sinh hoạt một khi rối thì khó lấy lại, nên quan trọng là thường ngày ý thức sống điều độ. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 規則正しい生活を (cuộc sống điều độ)\n2. 戻そうとしても (dù cố lấy lại)\n3. 普段から意識することが (việc ý thức từ thường ngày)\n4. なかなか戻せいないので (vì khó lấy lại được nên) ※戻せない\n\n【Keyword】\nなかなか～ない, 意識する, 規則正しい\n\n【Câu chính / căn cứ】\n「戻そうとしてもなかなか戻せないので、規則正しい生活を普段から意識することが大切だ」\n\n【Cách giải nhanh】\nThứ tự: 戻そうとしても → なかなか戻せないので → 規則正しい生活を → 普段から意識することが. ★ = 規則正しい生活を. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — tân ngữ của 「意識する」 ở vị trí ★.\n2: Sai — mở đầu nhượng bộ.\n3: Sai — kết thúc trước 「大切だ」.\n4: Sai — nguyên nhân trước phần kết luận.\n\n【Chi tiết thêm】\nChú ý chính tả nguồn 「戻せいない」→ đúng là 「戻せない」."
+    },
+    {
+      "question_id": 11,
+      "context": "",
+      "question": "私はとにかく勉強が嫌いで、学校があまりすきではない子供だった。そんな＿＿ ＿★＿ ＿＿＿＿きっかけだった。",
+      "options": [
+        "ある先生との",
+        "教師になりたいと思ったのは",
+        "私が",
+        "出会いが"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 教師になりたいと思ったのは\n\n【Dịch câu hỏi】\nSắp xếp: Việc tôi muốn làm giáo viên bắt nguồn từ cuộc gặp một thầy. — chọn ★ trước 「きっかけだった」.\n\n【Dịch 4 đáp án】\n1. ある先生との (với một thầy giáo)\n2. 教師になりたいと思ったのは (việc muốn làm giáo viên là…)\n3. 私が (tôi)\n4. 出会いが (cuộc gặp là…)\n\n【Keyword】\n～のは～がきっかけだ, 出会い\n\n【Câu chính / căn cứ】\n「(そんな)私が教師になりたいと思ったのは、ある先生との出会いがきっかけだった」\n\n【Cách giải nhanh】\nThứ tự: 私が → 教師になりたいと思ったのは → ある先生との → 出会いが. ★ = 教師になりたいと思ったのは. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — bổ nghĩa 「出会い」.\n2: Đúng — vế 「～のは」 nêu điều được giải thích.\n3: Sai — chủ ngữ mở đầu.\n4: Sai — đi với 「きっかけだった」.\n\n【Chi tiết thêm】\nMẫu: 「～のは～がきっかけだ」."
+    },
+    {
+      "question_id": 12,
+      "context": "",
+      "question": "若いときに努力して＿＿ ＿＿ ＿★＿ ＿＿なって必ず将来役に立つと思う。",
+      "options": [
+        "経験は",
+        "目標を",
+        "自信と",
+        "達成した"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 経験は\n\n【Dịch câu hỏi】\nSắp xếp: Kinh nghiệm nỗ lực đạt mục tiêu lúc trẻ sẽ thành tự tin và hữu ích sau này. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 経験は (kinh nghiệm thì…)\n2. 目標を (mục tiêu)\n3. 自信と (thành tự tin và…)\n4. 達成した (đã đạt được)\n\n【Keyword】\n達成した経験, 自信となる\n\n【Câu chính / căn cứ】\n「目標を達成した経験は自信となって必ず将来役に立つ」\n\n【Cách giải nhanh】\nThứ tự: 目標を → 達成した → 経験は → 自信と. ★ = 経験は. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — chủ ngữ 「経験は」 trước 「自信となって」.\n2: Sai — tân ngữ của 達成した.\n3: Sai — trong nguồn/đáp án chuỗi là 「自信となって」; 自信と không khớp vị trí ★.\n4: Sai — bổ nghĩa trước 経験.\n\n【Chi tiết thêm】\nCấu trúc danh ngữ: 「目標を達成した経験」."
+    },
+    {
+      "question_id": 13,
+      "context": "",
+      "question": "この町では、都心で家を借りる＿＿ ＿＿ ＿★＿ ＿＿家が借りられる。",
+      "options": [
+        "場合",
+        "半分程度の",
+        "家賃で",
+        "と比べて"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 半分程度の\n\n【Dịch câu hỏi】\nSắp xếp: Ở thị trấn này, so với thuê nhà nội đô thì thuê được với tiền nhà khoảng một nửa. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 場合 (trường hợp)\n2. 半分程度の (khoảng một nửa)\n3. 家賃で (với tiền nhà…)\n4. と比べて (so với…)\n\n【Keyword】\nと比べて, 半分程度の家賃で\n\n【Câu chính / căn cứ】\n「都心で家を借りる場合と比べて、半分程度の家賃で家が借りられる」\n\n【Cách giải nhanh】\nThứ tự: 場合 → と比べて → 半分程度の → 家賃で. ★ = 半分程度の. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — gắn với 「借りる場合」.\n2: Đúng — bổ nghĩa 「家賃」.\n3: Sai — sau mức 「半分程度の」.\n4: Sai — cụm so sánh sau 場合.\n\n【Chi tiết thêm】\n「Nと比べて」 + mức độ khác biệt."
+    },
+    {
+      "question_id": 14,
+      "context": "",
+      "question": "＿＿ ＿＿ ＿★＿ ＿＿酸素や栄養が十分に細胞に届かなくなってしまう。",
+      "options": [
+        "運ばれる",
+        "悪くなると",
+        "血液の流れが",
+        "血液によって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 血液によって\n\n【Dịch câu hỏi】\nSắp xếp: Khi máu lưu thông kém, ôxy/dưỡng chất do máu vận chuyển không tới tế bào đủ. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 運ばれる (được vận chuyển)\n2. 悪くなると (khi kém đi thì)\n3. 血液の流れが (dòng chảy máu)\n4. 血液によって (bởi máu / nhờ máu)\n\n【Keyword】\nによって運ばれる, 悪くなると\n\n【Câu chính / căn cứ】\n「血液の流れが悪くなると、血液によって運ばれる酸素や栄養が…届かなくなってしまう」\n\n【Cách giải nhanh】\nThứ tự: 血液の流れが → 悪くなると → 血液によって → 運ばれる. ★ = 血液によって. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — động từ bị động sau 「によって」.\n2: Sai — điều kiện sau chủ ngữ dòng máu.\n3: Sai — mở đầu câu.\n4: Đúng — chỉ phương tiện/tác nhân 「血液によって運ばれる」.\n\n【Chi tiết thêm】\n「NによってV(られる)」= được V nhờ/bởi N."
+    },
+    {
+      "question_id": 15,
+      "context": "",
+      "question": "さくら駅周辺の再開発事業を行う＿＿ ＿＿ ＿★＿ ＿＿予定だ。",
+      "options": [
+        "さくら市は",
+        "に先立って",
+        "関係者に対する",
+        "説明会を開催する"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 関係者に対する\n\n【Dịch câu hỏi】\nSắp xếp: Trước khi làm dự án tái phát triển quanh ga Sakura, thành phố sẽ họp giải thích với các bên liên quan. — chọn ★.\n\n【Dịch 4 đáp án】\n1. さくら市は (thành phố Sakura thì)\n2. に先立って (trước khi…)\n3. 関係者に対する (đối với các bên liên quan)\n4. 説明会を開催する (tổ chức buổi giải thích)\n\n【Keyword】\nに先立って, に対する説明会\n\n【Câu chính / căn cứ】\n「さくら市は…行うに先立って、関係者に対する説明会を開催する予定だ」\n\n【Cách giải nhanh】\nThứ tự: さくら市は → に先立って → 関係者に対する → 説明会を開催する. ★ = 関係者に対する. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — chủ ngữ đầu câu.\n2: Sai — gắn sau 「行う」.\n3: Đúng — bổ nghĩa 「説明会」.\n4: Sai — vị ngữ cuối.\n\n【Chi tiết thêm】\n「Nに先立って」= trước khi tiến hành N."
+    },
+    {
+      "question_id": 16,
+      "context": "",
+      "question": "隣のクラスの友達とけんかしてしまい、学校の廊下で＿＿ ＿＿ ＿★＿ ＿＿なくなって しまった。",
+      "options": [
+        "こと",
+        "すら",
+        "目を合わせる",
+        "すれ違っても"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · こと\n\n【Dịch câu hỏi】\nSắp xếp: Cãi nhau với bạn lớp bên, dù đi ngang nhau ở hành lang cũng chẳng còn nhìn mắt nhau. — chọn ★.\n\n【Dịch 4 đáp án】\n1. こと (việc…)\n2. すら (thậm chí cả…)\n3. 目を合わせる (nhìn vào mắt nhau)\n4. すれ違っても (dù đi ngang nhau)\n\n【Keyword】\nことすら～ない, すれ違っても\n\n【Câu chính / căn cứ】\n「すれ違っても目を合わせることすらなくなってしまった」\n\n【Cách giải nhanh】\nThứ tự: すれ違っても → 目を合わせる → こと → すら. ★ = こと. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — danh từ hóa trước 「すら」.\n2: Sai — tiểu từ nhấn mạnh sau こと.\n3: Sai — động từ trước こと.\n4: Sai — nhượng bộ mở đầu.\n\n【Chi tiết thêm】\n「～ことすら～ない」= thậm chí việc… cũng không."
+    },
+    {
+      "question_id": 17,
+      "context": "",
+      "question": "このソファーは、それなりの大きさはあるが、見た目＿＿ ＿＿ ＿★＿ ＿＿楽に動かせる。",
+      "options": [
+        "ほどの",
+        "でも",
+        "重さはないため",
+        "一人"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 一人\n\n【Dịch câu hỏi】\nSắp xếp: Sofa trông to nhưng không nặng như vẻ ngoài nên một người cũng đẩy được dễ. — chọn ★.\n\n【Dịch 4 đáp án】\n1. ほどの (mức như…)\n2. でも (ngay cả… cũng)\n3. 重さはないため (vì không nặng nên)\n4. 一人 (một người)\n\n【Keyword】\n見た目ほどの, 一人でも\n\n【Câu chính / căn cứ】\n「見た目ほどの重さはないため、一人でも楽に動かせる」\n\n【Cách giải nhanh】\nThứ tự: ほどの → 重さはないため → 一人 → でも. ★ = 一人. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — trong 「見た目ほどの」.\n2: Sai — đi sau 一人.\n3: Sai — lý do trước phần kết.\n4: Đúng — 「一人でも」= ngay cả một người cũng…\n\n【Chi tiết thêm】\n「見た目ほどのNはない」= không … bằng vẻ ngoài."
+    },
+    {
+      "question_id": 18,
+      "context": "",
+      "question": "友達にスキー旅行に誘われている。返事を＿＿ ＿＿ ＿★＿ ＿＿まだ返事ができていない。",
+      "options": [
+        "決まっていなくて",
+        "仕事の予定が",
+        "しなければ",
+        "と思いながらも"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 仕事の予定が\n\n【Dịch câu hỏi】\nSắp xếp: Được rủ đi trượt tuyết; dù nghĩ phải trả lời nhưng lịch làm việc chưa chốt nên chưa trả lời được. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 決まっていなくて (chưa xác định nên)\n2. 仕事の予定が (lịch công việc)\n3. しなければ (phải làm…)\n4. と思いながらも (dù nghĩ rằng…)\n\n【Keyword】\n～と思いながらも, 決まっていなくて\n\n【Câu chính / căn cứ】\n「返事をしなければと思いながらも、仕事の予定が決まっていなくてまだ返事ができていない」\n\n【Cách giải nhanh】\nThứ tự: しなければ → と思いながらも → 仕事の予定が → 決まっていなくて. ★ = 仕事の予定が. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — vị ngữ của 「予定が」.\n2: Đúng — chủ ngữ trước 「決まっていなくて」.\n3: Sai — trong 「返事をしなければ」.\n4: Sai — nối nhượng bộ sau ý “phải trả lời”.\n\n【Chi tiết thêm】\n「Vなければと思う」= nghĩ là phải V."
+    },
+    {
+      "question_id": 19,
+      "context": "",
+      "question": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品の どこに＿＿ ＿＿ ＿★＿ ＿＿ その作品をより深く味わえるからだ。",
+      "options": [
+        "わかると",
+        "注目して",
+        "いいのかが",
+        "鑑賞したら"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · いいのかが\n\n【Dịch câu hỏi】\nỞ bảo tàng tôi mượn máy thuyết minh vì khi biết nên chú ý chỗ nào để thưởng thức thì cảm nhận tác phẩm sâu hơn. — chọn ★.\n\n【Dịch 4 đáp án】\n1. わかると (khi hiểu thì)\n2. 注目して (chú ý rồi…)\n3. いいのかが (là tốt đây… thì)\n4. 鑑賞したら (nếu thưởng thức thì)\n\n【Dịch bài đọc】\nTôi, ở bảo tàng, mượn máy thuyết minh bằng âm thanh và vừa nghe giải thích vừa thưởng thức tác phẩm. Vì khi biết nên chú ý vào đâu của tác phẩm để thưởng thức thì có thể cảm nhận tác phẩm đó sâu hơn.\n\n【Keyword】\n注目して鑑賞したらいいのか, わかると\n\n【Câu chính / căn cứ】\n「どこに注目して鑑賞したらいいのかがわかると、その作品をより深く味わえる」\n\n【Cách giải nhanh】\nThứ tự: 注目して → 鑑賞したら → いいのかが → わかると. ★ = いいのかが. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — điều kiện kết thúc chuỗi trước kết quả thưởng thức sâu.\n2: Sai — mở đầu 「どこに注目して」.\n3: Đúng — trong mẫu 「～たらいいのかがわかる」.\n4: Sai — đứng trước 「いいのか」.\n\n【Chi tiết thêm】\n「疑問詞＋たらいいのかがわかる」= biết nên làm gì thì tốt."
+    },
+    {
+      "question_id": 20,
+      "context": "",
+      "question": "雪が降っている＿＿ ＿＿ ＿＿ ＿★＿風がほとんどないからだろう。",
+      "options": [
+        "わりに",
+        "のは",
+        "寒く感じない",
+        "そんなに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · のは\n\n【Dịch câu hỏi】\nSắp xếp: Tuyết rơi mà không thấy lạnh lắm — có lẽ vì hầu như không gió. — chọn ★.\n\n【Dịch 4 đáp án】\n1. わりに (so với mức… thì)\n2. のは (việc… là vì)\n3. 寒く感じない (không cảm thấy lạnh)\n4. そんなに (đến thế)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19 bảo tàng; giải theo câu sắp xếp về tuyết.)\n\n【Keyword】\nわりに, ～のは～からだ\n\n【Câu chính / căn cứ】\n「雪が降っているわりに、そんなに寒く感じないのは、風がほとんどないからだろう」\n\n【Cách giải nhanh】\nThứ tự: わりに → そんなに → 寒く感じない → のは. ★ = のは. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — sau 「降っている」.\n2: Đúng — mở vế giải thích 「～のは～から」.\n3: Sai — trước のは.\n4: Sai — bổ nghĩa mức độ trước 寒く.\n\n【Chi tiết thêm】\n「～わりに」= so với điều kiện đó thì (bất ngờ)."
+    },
+    {
+      "question_id": 21,
+      "context": "",
+      "question": "この本の内容をきちんと＿＿＿ ＿★＿ ＿＿＿ ＿＿＿多いだろう。",
+      "options": [
+        "それなりの",
+        "理解するには",
+        "難しいと感じる人も",
+        "知識が求められるので"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · それなりの\n\n【Dịch câu hỏi】\nSắp xếp: Để hiểu đúng nội dung sách cần kiến thức tương xứng, nên nhiều người thấy khó. — chọn ★.\n\n【Dịch 4 đáp án】\n1. それなりの (một mức tương ứng)\n2. 理解するには (để hiểu thì)\n3. 難しいと感じる人も (cũng có người thấy khó)\n4. 知識が求められるので (vì đòi hỏi kiến thức nên)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19; giải theo câu sắp xếp.)\n\n【Keyword】\nそれなりの知識, 理解するには\n\n【Câu chính / căn cứ】\n「きちんと理解するには、それなりの知識が求められるので、難しいと感じる人も多いだろう」\n\n【Cách giải nhanh】\nThứ tự: 理解するには → それなりの → 知識が求められるので → 難しいと感じる人も. ★ = それなりの. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — bổ nghĩa 「知識」.\n2: Sai — mở đầu mục đích.\n3: Sai — kết quả cuối.\n4: Sai — sau 「それなりの知識」.\n\n【Chi tiết thêm】\n「それなりのN」= N ở mức tương xứng/không phải không có."
+    },
+    {
+      "question_id": 22,
+      "context": "",
+      "question": "石油は、自動車や航空機などの＿＿＿ ＿★＿ ＿＿＿ ＿＿＿原料としても利用されている。",
+      "options": [
+        "使われる",
+        "だけでなく",
+        "3 プラスチック製品を作る",
+        "燃料として"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 使われる\n\n【Dịch câu hỏi】\nSắp xếp: Dầu mỏ không chỉ dùng làm nhiên liệu xe/máy bay mà còn là nguyên liệu làm nhựa. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 使われる (được sử dụng)\n2. だけでなく (không chỉ…)\n3. プラスチック製品を作る (làm sản phẩm nhựa)\n4. 燃料として (với tư cách nhiên liệu)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19; giải theo câu sắp xếp.)\n\n【Keyword】\nとして使われる, だけでなく\n\n【Câu chính / căn cứ】\n「燃料として使われるだけでなく、プラスチック製品を作る原料としても利用されている」\n\n【Cách giải nhanh】\nThứ tự: 燃料として → 使われる → だけでなく → プラスチック製品を作る. ★ = 使われる. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — động từ sau 「燃料として」.\n2: Sai — nối hai công dụng, sau 使われる.\n3: Sai — phần “không chỉ… mà còn…”.\n4: Sai — mở đầu công dụng 1.\n\n【Chi tiết thêm】\nOption nguồn ghi 「3 プラスチック…」— bỏ số nhiễu OCR."
+    },
+    {
+      "question_id": 23,
+      "context": "",
+      "question": "東鉄道竹山線内にある二つの信号機が故障しており、大事故が＿＿＿ ＿＿＿ ＿★＿ ＿＿ 明らかになった。",
+      "options": [
+        "1 起きかねない",
+        "続いていたことが",
+        "状態が",
+        "危険な"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 状態が\n\n【Dịch câu hỏi】\nSắp xếp kết thúc bằng 「明らかになった」: tình trạng nguy hiểm có thể gây tai nạn đã kéo dài — chọn ★.\n\n【Dịch 4 đáp án】\n1. 起きかねない (có thể xảy ra)\n2. 続いていたことが (đã kéo dài — việc đó)\n3. 状態が (tình trạng…)\n4. 危険な (nguy hiểm)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19; giải theo câu sắp xếp.)\n\n【Keyword】\n起きかねない, 危険な状態, ことが明らかになった\n\n【Câu chính / căn cứ】\n「大事故が起きかねない危険な状態が続いていたことが明らかになった」\n\n【Cách giải nhanh】\nThứ tự: 起きかねない → 危険な → 状態が → 続いていたことが. ★ = 状態が. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — bổ nghĩa mức độ nguy hiểm.\n2: Sai — danh từ hóa cả mệnh đề trước 「明らかになった」.\n3: Đúng — chủ ngữ của 「続いていた」.\n4: Sai — tính từ trước 状態.\n\n【Chi tiết thêm】\n「Vかねない」= có nguy cơ V (xấu)."
+    },
+    {
+      "question_id": 24,
+      "context": "",
+      "question": "悩むこともありました。」",
+      "options": [
+        "といっても",
+        "ばかりで",
+        "わからないこと",
+        "自分でいいのか"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · ばかりで\n\n【Dịch câu hỏi】\nSắp xếp kết thúc bằng 「悩むこともありました」: dù đã là quản lý nhưng toàn điều không biết, đôi khi tự hỏi mình có ổn không. — chọn ★.\n\n【Dịch 4 đáp án】\n1. といっても (dù nói là…)\n2. ばかりで (toàn là… nên)\n3. わからないこと (những điều không biết)\n4. 自分でいいのか (liệu mình có ổn không)\n\n【Dịch bài đọc】\n(Passage nguồn trùng câu 19; giải theo câu sắp xếp.)\n\n【Keyword】\nといっても, ばかりで, 自分でいいのか\n\n【Câu chính / căn cứ】\n「店長になったといっても、わからないことばかりで、自分でいいのかと悩むこともありました」\n\n【Cách giải nhanh】\nThứ tự: といっても → わからないこと → ばかりで → 自分でいいのか. ★ = ばかりで. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — nhượng bộ sau “làm quản lý”.\n2: Đúng — 「Nばかりで」= toàn là N nên…\n3: Sai — trước ばかり.\n4: Sai — nội dung lo lắng trước 「と悩む」.\n\n【Chi tiết thêm】\n「～といっても」 hạ thấp kỳ vọng so với danh hiệu."
+    },
+    {
+      "question_id": 25,
+      "context": "",
+      "question": "家を買うことについて＿＿＿ ＿＿＿ ＿★＿ ＿＿＿簡単に引っ越せないのが嫌だと言っている。",
+      "options": [
+        "夫は",
+        "買ってしまうと",
+        "否定的な",
+        "一度"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 一度\n\n【Dịch câu hỏi】\nSắp xếp: Về mua nhà, chồng tiêu cực vì một khi mua rồi thì khó chuyển đi. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 夫は (chồng thì)\n2. 買ってしまうと (nếu mua mất rồi thì)\n3. 否定的な (mang tính phủ định/tiêu cực)\n4. 一度 (một khi / một lần)\n\n【Keyword】\n一度～と, 買ってしまうと\n\n【Câu chính / căn cứ】\n「家を買うことについて夫は否定的な。一度買ってしまうと簡単に引っ越せないのが嫌だ」\n\n【Cách giải nhanh】\nThứ tự gần đúng: 夫は → 否定的な → 一度 → 買ってしまうと. ★ = 一度. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — chủ ngữ đầu.\n2: Sai — sau 「一度」.\n3: Sai — đánh giá thái độ trước lý do.\n4: Đúng — mẫu 「一度～と」= một khi đã… thì.\n\n【Chi tiết thêm】\n「一度Vると／Vてしまうと」 nhấn điều khó đảo ngược."
+    }
+  ]
+}

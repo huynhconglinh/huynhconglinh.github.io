@@ -1,0 +1,127 @@
+{
+  "id": "N2-TC-B04-LT",
+  "code": "TC-B04-LT",
+  "title": "Bài 4 · Đọc hiểu Trung - Trường văn · Luyện tập",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "以下は、ある将棋のプロが書いた文章である。\n将棋の世界には、「不調も三年続けば実力」という言葉があります。\n自分自身が「自分には実力があるが、今は調子が悪いだけだ」と考えていたとしても三年も、結果を出せなければ、それが本人の持っている実力である、という結構シビアな言葉です。\n仮に、不調の原因が現在の能力、実力であれば、自分の努力や練習が足りないということなので、頑張ってスキルや能力を上げ、実力をつければいいということになります。新しい戦法を勉強するなど懸命に努力をして、基本的な力を身につけるしかありません。\nしかし、どのような物事でも、今日一生懸命やったからといって、明日すぐに結果が出るということはありません。やっていることは間違っていないし、方向性も正しい。それでも成果が出ていないときこそが、「不調」ということになります。\n<u>そのようなとき</u>は、まず気分を変えることです。どうしてもモチベーションが下がりやすくなっているので、気分転換を図る。つまり、何かを変えてみればいいということになります。これは本当に何でもいいのです。\nただし、調子は悪いので、いきなり大きなことではなく、小さなことから始めるのが良いでしょう。\nたとえば、今までの生活習慣を変えてみる。早起きをしてみる、新しい趣味を始めてみる。あるいは服装を変えて、気持ちを切り替える。何でも良いのですが、生活の中にメリハリをつけて、気持ちが行き詰まらないように、落ちないようにするのです。\n（注1） シビアな:厳しい\n（注2） スキル:ここでは、技術\n（注3） モチベーション:やる気\n（注4） 図る:ここでは、する\n（注5） メリハリ:ここでは、変化",
+      "question": "<u>そのようなとき</u>とはどのようなときか。",
+      "options": [
+        "努力や練習が不足して、結果が出ていないとき",
+        "どのような結果を出せばいいか分からないとき",
+        "実力があっても、結果につながらないとき",
+        "やるべきことをやっても、結果につながらないとき"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · やるべきことをやっても、結果につながらないとき\n\n【Dịch câu hỏi】\nHỏi 1: “Lúc như vậy” là lúc nào?\n\n【Dịch 4 đáp án】\n1. Lúc thiếu nỗ lực/luyện tập nên chưa ra kết quả.\n2. Lúc không biết cần ra kết quả thế nào.\n3. Lúc có thực lực nhưng không dẫn tới kết quả.\n4. Lúc dù đã làm việc cần làm vẫn không dẫn tới kết quả.\n\n【Dịch bài đọc】\nTrong thế giới cờ tướng Nhật (shogi) có câu: “Nếu sự trì trệ kéo dài ba năm thì đó chính là thực lực.” Dù bản thân nghĩ “mình có thực lực, chỉ là đang không được phong độ”, nhưng nếu suốt ba năm vẫn không ra kết quả thì đó chính là thực lực của người ấy — một lời nói khá khắc nghiệt. Giả sử nguyên nhân trì trệ nằm ở năng lực, thực lực hiện tại, thì nghĩa là bản thân còn thiếu nỗ lực và luyện tập, nên chỉ cần cố gắng nâng kỹ năng và năng lực để xây thực lực. Không còn cách nào khác ngoài việc nỗ lực hết mình như học chiến pháp mới để nắm vững nền tảng. Tuy nhiên, với bất kỳ việc gì, không phải hôm nay làm hết sức thì ngày mai kết quả lập tức xuất hiện. Điều mình đang làm không sai, hướng đi cũng đúng. Đúng lúc dù vậy vẫn chưa có thành quả mới gọi là “trì trệ”. Lúc ấy, trước hết hãy đổi tâm trạng. Vì động lực dễ sụt giảm, nên cần thay đổi không khí — tức là thử thay đổi điều gì đó. Thực sự điều gì cũng được. Nhưng vì đang kém phong độ, không nên nhảy vào việc lớn ngay mà nên bắt đầu từ việc nhỏ. Ví dụ, thử thay đổi thói quen sinh hoạt: dậy sớm, bắt đầu sở thích mới. Hoặc đổi trang phục để chuyển tâm trạng. Gì cũng được, miễn là tạo nhịp điệu trong cuộc sống để tinh thần không bế tắc, không sa sút.\n\n【Keyword】\n不調, やるべきことをやっても, 結果につながらない\n\n【Câu chính / căn cứ】\n「そのようなとき」＝ dù phương hướng/cách làm không sai nhưng thành quả chưa xuất hiện.\n\n【Cách giải nhanh】\nĐịnh nghĩa “sa sút” không phải vì thiếu cố gắng, mà vì làm đúng việc vẫn chưa ra kết quả. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — bài không nói thiếu nỗ lực.\n2: Sai — không phải vấn đề “không biết mục tiêu kết quả”.\n3: Sai — nhấn “có thực lực” hẹp hơn; then chốt là đã làm việc nên làm.\n4: Đúng — khớp định nghĩa trong bài.\n\n【Chi tiết thêm】\nVới câu hỏi「どのようなときか」, tìm câu định nghĩa ngay trước/sau cụm được hỏi."
+    },
+    {
+      "question_id": 2,
+      "context": "以下は、ある将棋のプロが書いた文章である。\n将棋の世界には、「不調も三年続けば実力」という言葉があります。\n自分自身が「自分には実力があるが、今は調子が悪いだけだ」と考えていたとしても三年も、結果を出せなければ、それが本人の持っている実力である、という結構シビアな言葉です。\n仮に、不調の原因が現在の能力、実力であれば、自分の努力や練習が足りないということなので、頑張ってスキルや能力を上げ、実力をつければいいということになります。新しい戦法を勉強するなど懸命に努力をして、基本的な力を身につけるしかありません。\nしかし、どのような物事でも、今日一生懸命やったからといって、明日すぐに結果が出るということはありません。やっていることは間違っていないし、方向性も正しい。それでも成果が出ていないときこそが、「不調」ということになります。\n<u>そのようなとき</u>は、まず気分を変えることです。どうしてもモチベーションが下がりやすくなっているので、気分転換を図る。つまり、何かを変えてみればいいということになります。これは本当に何でもいいのです。\nただし、調子は悪いので、いきなり大きなことではなく、小さなことから始めるのが良いでしょう。\nたとえば、今までの生活習慣を変えてみる。早起きをしてみる、新しい趣味を始めてみる。あるいは服装を変えて、気持ちを切り替える。何でも良いのですが、生活の中にメリハリをつけて、気持ちが行き詰まらないように、落ちないようにするのです。\n（注1） シビアな:厳しい\n（注2） スキル:ここでは、技術\n（注3） モチベーション:やる気\n（注4） 図る:ここでは、する\n（注5） メリハリ:ここでは、変化",
+      "question": "筆者によると、不調のときはどうすればいいか。",
+      "options": [
+        "原因を考えて新しいやり方を取り入れる。",
+        "結果がすぐに出ることから始める。",
+        "気分が変わるようなことをする。",
+        "生活を大きく変化させる。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 気分が変わるようなことをする。\n\n【Dịch câu hỏi】\nHỏi 2: Theo tác giả, khi phong độ kém nên làm gì?\n\n【Dịch 4 đáp án】\n1. Nghĩ nguyên nhân và áp dụng cách mới.\n2. Bắt đầu từ việc sớm ra kết quả.\n3. Làm điều gì đó giúp đổi tâm trạng.\n4. Thay đổi lớn lối sống.\n\n【Keyword】\n不調のとき, 気分が変わる, 小さな変化\n\n【Câu chính / căn cứ】\nKhi 不調: ưu tiên đổi tâm trạng bằng thay đổi nhỏ, tránh mất động lực.\n\n【Cách giải nhanh】\nTác giả khuyên đổi mood trước, không nhảy sang cách làm lớn/mới ngay. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không nhấn “nguyên nhân + cách mới” là bước đầu.\n2: Sai — không bảo bắt đầu từ việc ra kết quả nhanh.\n3: Đúng — khớp lời khuyên đổi tâm trạng.\n4: Sai — thay đổi lớn dễ phản tác dụng.\n\n【Chi tiết thêm】\nBẫy: các đáp án “tích cực cải thiện phương pháp” nghe hợp lý nhưng không khớp văn."
+    },
+    {
+      "question_id": 3,
+      "context": "ナスやトマトは人間が栽培するときも、何日間か水を与えず、そのあと、たっぷりの水を与える栽培方法がとられることがあります。水を断つのですから、その時期と期間を間違えば、植物は枯れてしまいます。でもこれは、①<u>根の性質</u>を考えると、納得できる理論です。\n成長する芽生えは、毎日、水をたっぷりと与えられると、根をあまり発達させません。根を発達させなくても、水が十分に得られるからです。逆に、水が不足すると、植物は水を求めて根を張りめぐらせます。何日間も水が与えられないと、植物は根を強く長く張りめぐらせるのです。\n根を強く長く張りめぐらせた植物に、水が与えられると、この根が水をいっせいに吸収します。\n(中略)\n「多くの水が一気に吸収されて、果実が大きくなると、果実が水っぽくなって、甘みや旨みが少ない果実になるのではないか」との心配があるかもわかりません。\nしかし、②<u>心配はいりません</u>。根が水を吸収する力が強くなると、養分もよく吸収され、葉が大きく展開し、光合成が十分にできます。だから、甘みや旨みのもとになる物質も多くつくられるのです。\n（注1） 断つ:ここでは、与えるのをやめる\n（注2） 張りめぐらせる:広く張る\n（注3） 養分:栄養となる成分\n（注4） 光合成:ここでは、植物が光を使って栄養となる成分をつくり出すこと",
+      "question": "①<u>根の性質</u>について、筆者の説明に合うのはどれか。",
+      "options": [
+        "芽生えのとき何日も水を与えないでおくと、よく発達し水を吸収するようになる。",
+        "芽生えのとき水が不足すると、そのあと水を与えても吸収しなくなる。",
+        "水を毎日適度に与え続けていると、強く長く張り水を吸収しやすくなる。",
+        "根が発達したあと水を与えない期間があると、さらに強く長くなる。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 芽生えのとき何日も水を与えないでおくと、よく発達し水を吸収するようになる。\n\n【Dịch câu hỏi】\nHỏi 1: Về tính chất của rễ, mô tả nào khớp với tác giả?\n\n【Dịch 4 đáp án】\n1. Khi nảy mầm, nếu để nhiều ngày không tưới thì rễ phát triển tốt và hút nước.\n2. Khi nảy mầm thiếu nước thì sau đó tưới cũng không hút nữa.\n3. Tưới vừa đủ mỗi ngày thì rễ khỏe dài và dễ hút nước.\n4. Sau khi rễ đã phát triển, nếu có giai đoạn không tưới thì rễ càng khỏe dài hơn.\n\n【Dịch bài đọc】\nKhi con người trồng cà tím hay cà chua, đôi khi người ta dùng phương pháp trong vài ngày không tưới nước, rồi sau đó tưới thật nhiều nước. Vì là cắt nước, nếu sai thời điểm và thời gian thì cây sẽ chết. Nhưng nếu nghĩ về tính chất của rễ①, thì đây là lý thuyết hoàn toàn hợp lý. Mầm đang lớn nếu mỗi ngày được tưới nước đầy đủ sẽ không phát triển rễ nhiều. Vì dù không phát triển rễ vẫn nhận đủ nước. Ngược lại, khi thiếu nước, cây sẽ lan rễ đi tìm nước. Nếu nhiều ngày không được tưới, cây sẽ lan rễ mạnh và dài. Khi cây đã lan rễ mạnh và dài được tưới nước, những rễ ấy sẽ hút nước đồng loạt. (Lược) Có thể lo rằng “nhiều nước được hút một lúc làm quả to ra thì quả sẽ nhiều nước, ít ngọt và ít vị umami”. Nhưng② không cần lo. Khi rễ hút nước mạnh hơn, dưỡng chất cũng được hấp thu tốt, lá xoè lớn, quang hợp đầy đủ. Vì vậy những chất tạo nên vị ngọt và umami cũng được tạo ra nhiều hơn.\n\n【Keyword】\n芽生え, 水を与えない, 根が発達\n\n【Câu chính / căn cứ】\nThiếu nước lúc non → rễ vươn mạnh/dài để tìm nước → sau đó hút nước tốt.\n\n【Cách giải nhanh】\nThen chốt: giai đoạn 芽生え + không tưới vài ngày → rễ phát triển. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp cơ chế “thiếu nước kích thích rễ”.\n2: Sai — không nói sau đó mất khả năng hút.\n3: Sai — tưới đều mỗi ngày không phải ý then chốt về tính chất này.\n4: Sai — thời điểm quan trọng là lúc mới nảy, không phải sau khi đã phát triển.\n\n【Chi tiết thêm】\nĐọc kỹ mốc thời gian「芽生えのとき」— hay bị đảo sang giai đoạn sau."
+    },
+    {
+      "question_id": 4,
+      "context": "ナスやトマトは人間が栽培するときも、何日間か水を与えず、そのあと、たっぷりの水を与える栽培方法がとられることがあります。水を断つのですから、その時期と期間を間違えば、植物は枯れてしまいます。でもこれは、①<u>根の性質</u>を考えると、納得できる理論です。\n成長する芽生えは、毎日、水をたっぷりと与えられると、根をあまり発達させません。根を発達させなくても、水が十分に得られるからです。逆に、水が不足すると、植物は水を求めて根を張りめぐらせます。何日間も水が与えられないと、植物は根を強く長く張りめぐらせるのです。\n根を強く長く張りめぐらせた植物に、水が与えられると、この根が水をいっせいに吸収します。\n(中略)\n「多くの水が一気に吸収されて、果実が大きくなると、果実が水っぽくなって、甘みや旨みが少ない果実になるのではないか」との心配があるかもわかりません。\nしかし、②<u>心配はいりません</u>。根が水を吸収する力が強くなると、養分もよく吸収され、葉が大きく展開し、光合成が十分にできます。だから、甘みや旨みのもとになる物質も多くつくられるのです。\n（注1） 断つ:ここでは、与えるのをやめる\n（注2） 張りめぐらせる:広く張る\n（注3） 養分:栄養となる成分\n（注4） 光合成:ここでは、植物が光を使って栄養となる成分をつくり出すこと",
+      "question": "②<u>心配はいりません</u>とあるが、なぜか。",
+      "options": [
+        "根から吸収された水で、果実が甘みや旨みのもとをつくるから",
+        "葉が水を吸収し、果実に甘みや旨みのもとを送るから",
+        "果実が大きくなれば、甘みや旨みを蓄えることができるから",
+        "大きくなった葉が、光を使って甘みや旨みのもとをつくるから"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 大きくなった葉が、光を使って甘みや旨みのもとをつくるから\n\n【Dịch câu hỏi】\nHỏi 2: Vì sao nói “không cần lo”?\n\n【Dịch 4 đáp án】\n1. Vì nước hút từ rễ giúp quả tạo vị ngọt/ngon.\n2. Vì lá hút nước và gửi chất tạo vị cho quả.\n3. Vì quả lớn lên thì tích được vị ngọt/ngon.\n4. Vì lá đã lớn dùng ánh sáng tạo chất làm nên vị ngọt/ngon.\n\n【Keyword】\n心配はいりません, 葉, 光, 甘みや旨みのもと\n\n【Câu chính / căn cứ】\nRễ khỏe → lá lớn → quang hợp bằng ánh sáng → tạo nhiều chất tạo vị → không cần lo.\n\n【Cách giải nhanh】\nLý do “đừng lo” nằm ở lá lớn + ánh sáng tạo nguyên liệu vị. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải nước trực tiếp tạo vị trong quả theo cách đó.\n2: Sai — lá không “hút nước” rồi gửi vị theo kiểu này.\n3: Sai — chỉ “quả lớn” chưa đủ lý do then chốt.\n4: Đúng — khớp chuỗi lá lớn + ánh sáng.\n\n【Chi tiết thêm】\nCâu hỏi「なぜか」→ tìm câu giải thích ngay sau「心配はいりません」."
+    },
+    {
+      "question_id": 5,
+      "context": "以下は、今の若い人について書かれた文章である。\n大勢の前で意見を述べるのは誰でも緊張する。うまく伝えられるかどうかと思う不安はあるから気後れする人もいる。それは、いつの時代も変わらないと思う。ただ、私たちの場合は、うまく話せないからと尻込みする者はいたが、自分の考えを言うことを嫌がる者はあまりいなかった。というのは、仲間との議論はみんながやっていたからだろう。\n私は別に議論がいいと言っているわけではない。ただ、自分が感じることや考えることを言って、友だちの意見を聞くことは、自分の考えを確かなものにしていくためには欠かせないと思うので、議論という言い方をしているだけなのである。\nところが、今は中高生に限らず若い人全体の中に、まったくと言っていいほど議論がない。違いを主張するのは相手に自分を理解してほしいと思うからで、仲のいい関係であればあるほど自然なことなのだが、それを主張しなくなっている。\n以前、若い人を取材して、なぜ言わないのかと訊いたときの返事は、「人にはそれぞ考え方があるのだから、とやかく言うことはできない」というものだった。これは、あたかも相手を尊重している 「個人主義」のように聞こえるが、気のおけない(注6)はずの親しい友だちに対してもやっているのは不自然である。\n本当は、「自分の言うことに反対されて傷つくのがいやだから、 相手の言うことにも反対しないわけ」で、<結局、友だちに合わせているのは、友だちのことを思っているからではない。自分がかわいいのであり、傷つきたくないからなのだ>ということだろう。\n（注1） 気後れする:消極的になる\n（注2） 尻込みする:ここでは、不安になってやろうとしない\n（注3） 訊く:尋ねる\n（注4） とやかく:良いとか悪いとか\n（注5） あたかも：まるで\n（注6） 気のおけない:気をつかう必要がない",
+      "question": "大勢の前で自分の意見を述べることについて、筆者たちの場合はどうだったか。",
+      "options": [
+        "仲間との議論より緊張するので、嫌いな人が多かった。",
+        "仲間との議論に慣れていたので、発言を避ける人は少なかった。",
+        "仲間との議論を多くしていたので、みんな積極的に意見を言った。",
+        "仲間との議論をあまりしなかったので、うまく意見を言える人が少なかった。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 仲間との議論に慣れていたので、発言を避ける人は少なかった。\n\n【Dịch câu hỏi】\nHỏi 1: Về việc nêu ý kiến trước đông người, trường hợp của các tác giả thế nào?\n\n【Dịch 4 đáp án】\n1. Căng thẳng hơn tranh luận với bạn nên nhiều người ghét.\n2. Vì đã quen tranh luận với bạn nên ít người tránh phát biểu.\n3. Vì tranh luận với bạn nhiều nên ai cũng tích cực nói.\n4. Vì ít tranh luận với bạn nên ít người nói được ý kiến.\n\n【Keyword】\n仲間との議論に慣れていた, 発言を避ける人は少なかった\n\n【Câu chính / căn cứ】\nThế hệ tác giả: đã quen tranh luận → ít người né phát biểu trước đám đông.\n\n【Cách giải nhanh】\nSo sánh “quen tranh luận với bạn” → ít né phát biểu. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không kết luận “nhiều người ghét”.\n2: Đúng — khớp nhân quả quen tranh luận → ít né.\n3: Sai — “ai cũng tích cực” quá tuyệt đối.\n4: Sai — trái với việc họ có tranh luận với bạn.\n\n【Chi tiết thêm】\nChú ý mức độ: 「少なかった」≠「いなかった」/「みんな積極的」."
+    },
+    {
+      "question_id": 6,
+      "context": "以下は、今の若い人について書かれた文章である。\n大勢の前で意見を述べるのは誰でも緊張する。うまく伝えられるかどうかと思う不安はあるから気後れする人もいる。それは、いつの時代も変わらないと思う。ただ、私たちの場合は、うまく話せないからと尻込みする者はいたが、自分の考えを言うことを嫌がる者はあまりいなかった。というのは、仲間との議論はみんながやっていたからだろう。\n私は別に議論がいいと言っているわけではない。ただ、自分が感じることや考えることを言って、友だちの意見を聞くことは、自分の考えを確かなものにしていくためには欠かせないと思うので、議論という言い方をしているだけなのである。\nところが、今は中高生に限らず若い人全体の中に、まったくと言っていいほど議論がない。違いを主張するのは相手に自分を理解してほしいと思うからで、仲のいい関係であればあるほど自然なことなのだが、それを主張しなくなっている。\n以前、若い人を取材して、なぜ言わないのかと訊いたときの返事は、「人にはそれぞ考え方があるのだから、とやかく言うことはできない」というものだった。これは、あたかも相手を尊重している 「個人主義」のように聞こえるが、気のおけない(注6)はずの親しい友だちに対してもやっているのは不自然である。\n本当は、「自分の言うことに反対されて傷つくのがいやだから、 相手の言うことにも反対しないわけ」で、<結局、友だちに合わせているのは、友だちのことを思っているからではない。自分がかわいいのであり、傷つきたくないからなのだ>ということだろう。\n（注1） 気後れする:消極的になる\n（注2） 尻込みする:ここでは、不安になってやろうとしない\n（注3） 訊く:尋ねる\n（注4） とやかく:良いとか悪いとか\n（注5） あたかも：まるで\n（注6） 気のおけない:気をつかう必要がない",
+      "question": "今の若い人たちが議論をしない理由として、筆者の考えに合うのはどれか。",
+      "options": [
+        "人の考えを聞いても、自分の考えは変わらないと思うから",
+        "自分が何か言うことで相手を傷つけたくないから",
+        "自分の考えに反対されて、いやな思いをしたくないから",
+        "自分の考えを相手に理解してもらうことは難しいと思うから"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 自分の考えに反対されて、いやな思いをしたくないから\n\n【Dịch câu hỏi】\nHỏi 2: Theo tác giả, vì sao người trẻ không tranh luận?\n\n【Dịch 4 đáp án】\n1. Vì nghe người khác cũng không đổi suy nghĩ của mình.\n2. Vì không muốn nói ra làm tổn thương đối phương.\n3. Vì không muốn bị phản đối rồi cảm thấy khó chịu.\n4. Vì nghĩ khó để đối phương hiểu suy nghĩ của mình.\n\n【Keyword】\n反対されて, いやな思い, 議論をしない\n\n【Câu chính / căn cứ】\nHọ sợ suy nghĩ bị phủ nhận và bản thân bị tổn thương/khó chịu.\n\n【Cách giải nhanh】\nLý do then chốt: sợ bị phản đối → cảm giác khó chịu. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải vì “không đổi được ý”.\n2: Sai — trọng tâm không phải sợ làm tổn thương người khác.\n3: Đúng — khớp nỗi sợ bị phản đối.\n4: Sai — không nhấn “khó được hiểu”.\n\n【Chi tiết thêm】\nBẫy đạo đức: đáp án “không muốn làm tổn thương người” nghe hay nhưng không khớp văn."
+    },
+    {
+      "question_id": 7,
+      "context": "人間というのは①<u>奇妙な生き物である</u>。自分の力を使って自分の利益になることを行い、それがうまくいけば嬉しいというのは、個体が生き残っていくために当然のことだが、自分の力を使って何かをやって、他者、とりわけ身近な他者が喜んでくれると、それがまた嬉しい。そういう生き物なのである。これもまた人間の自然であって、ほかの生き物にはあまり例がない。思えば、親が子どもを喜ばせようと、美味しいものを食べさせたり、面白いおもちゃを買いあたえたりすること自体が、この人間的な喜びようの典型である。子どもの笑顔を見たい親たちにとって、 子どもを守ることそのものが子育ての喜びとなる。教師もまた、子どもの喜ぶ姿を見ることを教育の喜びにしている。では、子どもの方はどうなのだろうか。\n子どもたちが周囲から守られて、喜びをあたえられる機会は、昔に比べて圧倒的に増えている。\n逆に、②何かを任されて、相手を喜ばせる機会や体験を、いまの子どもたちはどれくらい味わっているだろうか。まだ社会全体が貧しくて、子どもが一人の生活者として働かなければ家が回っていかなかった時代には、子どもたちは否応なくそうした体験を味わった。子どもが働くのが当然というなかでは、親が誉めてくれるわけでも、喜びをおもてに表してくれるわけでもないのだが、それでも子どものなかには、自分が役立っているという感覚が確実にあって、それが生活者としての子どもの自信となった。\n(中略)\nしかし、今日のように経済的に豊かな社会になって、生活のほとんどが貨幣でまかなわれるようになると、子どもに頼り、子どもに任せる領域がどんどんと減ってくる。それにつれて、子どもたちは自分の力を使って役立つ機会を失い、結果として子どもは【ひたすら守られる存在】にされてきた。\n「子どもを守れ」というのは当然のことである。しかしおとなたちが善意で子どもたちを【ひたすら守る】とき、それはかえって子どもたちから、相手に役立ち、相手を喜ばせて喜ぶという人間の自然を奪うことになる。\n（注1） とりわけ:特に\n（注2） 喜びよう:喜び方\n（注3） そのもの:自体\n（注4） 家が回っていかない:ここでは、 生活ができない\n（注5） 否応なく:嫌でも嫌でなくても\n（注6） まかなう:ここでは、済ませる\n（注7） 領域:範囲",
+      "question": "①<u>奇妙な生き物であるとある</u>が、筆者はなぜそう考えるのか。",
+      "options": [
+        "自分の力で自分の利益になることができれば嬉しいから",
+        "自分の喜びより他者の喜びを優先させるから",
+        "他者を養うことが自分の利益になることだと思うから",
+        "他者を喜ばせることが自分の喜びとなるから"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 他者を喜ばせることが自分の喜びとなるから\n\n【Dịch câu hỏi】\nHỏi 1: Vì sao tác giả nghĩ con người là “sinh vật kỳ lạ”?\n\n【Dịch 4 đáp án】\n1. Vì tự làm lợi cho mình thì vui.\n2. Vì ưu tiên niềm vui người khác hơn niềm vui mình.\n3. Vì nuôi người khác chính là lợi ích của mình.\n4. Vì làm người khác vui lại trở thành niềm vui của mình.\n\n【Dịch bài đọc】\nCon người là sinh vật① kỳ lạ. Dùng sức mình làm điều có lợi cho bản thân, thành công thì vui — đó là điều đương nhiên để cá thể sống sót; nhưng dùng sức mình làm điều gì đó mà người khác, nhất là người gần gũi, vui vẻ thì mình cũng vui. Con người là sinh vật như vậy. Đây cũng là bản tính người, ít thấy ở sinh vật khác. Nghĩ lại, việc cha mẹ muốn làm vui con bằng cách cho ăn ngon hay mua đồ chơi thú vị chính là điển hình của niềm vui mang tính người ấy. Với cha mẹ muốn thấy nụ cười con, việc bảo vệ con chính là niềm vui nuôi dạy. Giáo viên cũng lấy việc thấy trẻ vui làm niềm vui giáo dục. Vậy còn phía trẻ thì sao? Cơ hội trẻ được bảo vệ và được trao niềm vui tăng vượt bậc so với xưa. Ngược lại,② cơ hội và trải nghiệm được giao việc, làm vui người khác — trẻ ngày nay nếm bao nhiêu? Thời cả xã hội còn nghèo, trẻ phải lao động như một người sống thì nhà mới xoay sở được, trẻ buộc phải trải nghiệm ấy. Trong bối cảnh trẻ làm việc là đương nhiên, cha mẹ chưa chắc khen hay lộ vẻ vui, nhưng trong trẻ chắc chắn có cảm giác mình hữu ích, và đó trở thành tự tin của trẻ với tư cách người sống. (Lược) Nhưng khi xã hội giàu về kinh tế như nay, hầu hết sinh hoạt dựa vào tiền tệ, lĩnh vực dựa vào và giao cho trẻ ngày càng giảm. Theo đó trẻ mất cơ hội dùng sức mình để hữu ích, kết quả trẻ bị biến thành 【tồn tại chỉ được bảo vệ】. “Bảo vệ trẻ” là điều đương nhiên. Nhưng khi người lớn với thiện ý 【chỉ bảo vệ】 trẻ, ngược lại lại lấy đi của trẻ bản tính người: hữu ích với người khác, làm vui người khác rồi chính mình cũng vui.\n\n【Keyword】\n奇妙な生き物, 他者を喜ばせる, 自分の喜び\n\n【Câu chính / căn cứ】\nĐặc điểm kỳ lạ: khiến người khác vui → chính mình cũng vui.\n\n【Cách giải nhanh】\nKhông chỉ vị kỷ; niềm vui phát sinh từ việc làm vui người khác. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — đó là lẽ thường, không “kỳ lạ”.\n2: Sai — không nói “ưu tiên hơn” tuyệt đối.\n3: Sai — quy về lợi ích cá nhân theo nghĩa hẹp.\n4: Đúng — khớp định nghĩa niềm vui kép.\n\n【Chi tiết thêm】\nPhân biệt 2 và 4: 4 không phủ nhận vui của mình, mà vui của người = nguồn vui của mình."
+    },
+    {
+      "question_id": 8,
+      "context": "人間というのは①<u>奇妙な生き物である</u>。自分の力を使って自分の利益になることを行い、それがうまくいけば嬉しいというのは、個体が生き残っていくために当然のことだが、自分の力を使って何かをやって、他者、とりわけ身近な他者が喜んでくれると、それがまた嬉しい。そういう生き物なのである。これもまた人間の自然であって、ほかの生き物にはあまり例がない。思えば、親が子どもを喜ばせようと、美味しいものを食べさせたり、面白いおもちゃを買いあたえたりすること自体が、この人間的な喜びようの典型である。子どもの笑顔を見たい親たちにとって、 子どもを守ることそのものが子育ての喜びとなる。教師もまた、子どもの喜ぶ姿を見ることを教育の喜びにしている。では、子どもの方はどうなのだろうか。\n子どもたちが周囲から守られて、喜びをあたえられる機会は、昔に比べて圧倒的に増えている。\n逆に、②何かを任されて、相手を喜ばせる機会や体験を、いまの子どもたちはどれくらい味わっているだろうか。まだ社会全体が貧しくて、子どもが一人の生活者として働かなければ家が回っていかなかった時代には、子どもたちは否応なくそうした体験を味わった。子どもが働くのが当然というなかでは、親が誉めてくれるわけでも、喜びをおもてに表してくれるわけでもないのだが、それでも子どものなかには、自分が役立っているという感覚が確実にあって、それが生活者としての子どもの自信となった。\n(中略)\nしかし、今日のように経済的に豊かな社会になって、生活のほとんどが貨幣でまかなわれるようになると、子どもに頼り、子どもに任せる領域がどんどんと減ってくる。それにつれて、子どもたちは自分の力を使って役立つ機会を失い、結果として子どもは【ひたすら守られる存在】にされてきた。\n「子どもを守れ」というのは当然のことである。しかしおとなたちが善意で子どもたちを【ひたすら守る】とき、それはかえって子どもたちから、相手に役立ち、相手を喜ばせて喜ぶという人間の自然を奪うことになる。\n（注1） とりわけ:特に\n（注2） 喜びよう:喜び方\n（注3） そのもの:自体\n（注4） 家が回っていかない:ここでは、 生活ができない\n（注5） 否応なく:嫌でも嫌でなくても\n（注6） まかなう:ここでは、済ませる\n（注7） 領域:範囲",
+      "question": "②何かを任されて、相手を喜ばせる機会や体験は、昔の子どもたちにどのような影響をあたえたか。",
+      "options": [
+        "自分が役立っていると実感でき、自信が持てるようになった。",
+        "自分が働くのが当然だと考えるようになった。",
+        "生活に役立つ能力が向上していった。",
+        "周囲から守られなくてもいいと思えるようになった。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 自分が役立っていると実感でき、自信が持てるようになった。\n\n【Dịch câu hỏi】\nHỏi 2: Việc được giao việc và làm vui người khác ảnh hưởng thế nào tới trẻ xưa?\n\n【Dịch 4 đáp án】\n1. Cảm nhận mình có ích và có được tự tin.\n2. Nghĩ rằng mình đương nhiên phải làm việc.\n3. Năng lực hữu ích cho đời sống được nâng cao.\n4. Nghĩ không cần được bảo vệ cũng được.\n\n【Keyword】\n役立っていると実感, 自信\n\n【Câu chính / căn cứ】\nĐược giao việc → cảm giác hữu ích → hình thành tự tin.\n\n【Cách giải nhanh】\nTác động then chốt: 実感 hữu ích + 自信. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp cặp hữu ích–tự tin.\n2: Sai — không nhấn “đương nhiên phải làm”.\n3: Sai — không phải trọng tâm “nâng kỹ năng sống”.\n4: Sai — không kết luận về việc không cần bảo vệ.\n\n【Chi tiết thêm】\nBám cặp từ khóa「役立つ」「自信」trong đoạn về trẻ xưa."
+    },
+    {
+      "question_id": 9,
+      "context": "人間というのは①<u>奇妙な生き物である</u>。自分の力を使って自分の利益になることを行い、それがうまくいけば嬉しいというのは、個体が生き残っていくために当然のことだが、自分の力を使って何かをやって、他者、とりわけ身近な他者が喜んでくれると、それがまた嬉しい。そういう生き物なのである。これもまた人間の自然であって、ほかの生き物にはあまり例がない。思えば、親が子どもを喜ばせようと、美味しいものを食べさせたり、面白いおもちゃを買いあたえたりすること自体が、この人間的な喜びようの典型である。子どもの笑顔を見たい親たちにとって、 子どもを守ることそのものが子育ての喜びとなる。教師もまた、子どもの喜ぶ姿を見ることを教育の喜びにしている。では、子どもの方はどうなのだろうか。\n子どもたちが周囲から守られて、喜びをあたえられる機会は、昔に比べて圧倒的に増えている。\n逆に、②何かを任されて、相手を喜ばせる機会や体験を、いまの子どもたちはどれくらい味わっているだろうか。まだ社会全体が貧しくて、子どもが一人の生活者として働かなければ家が回っていかなかった時代には、子どもたちは否応なくそうした体験を味わった。子どもが働くのが当然というなかでは、親が誉めてくれるわけでも、喜びをおもてに表してくれるわけでもないのだが、それでも子どものなかには、自分が役立っているという感覚が確実にあって、それが生活者としての子どもの自信となった。\n(中略)\nしかし、今日のように経済的に豊かな社会になって、生活のほとんどが貨幣でまかなわれるようになると、子どもに頼り、子どもに任せる領域がどんどんと減ってくる。それにつれて、子どもたちは自分の力を使って役立つ機会を失い、結果として子どもは【ひたすら守られる存在】にされてきた。\n「子どもを守れ」というのは当然のことである。しかしおとなたちが善意で子どもたちを【ひたすら守る】とき、それはかえって子どもたちから、相手に役立ち、相手を喜ばせて喜ぶという人間の自然を奪うことになる。\n（注1） とりわけ:特に\n（注2） 喜びよう:喜び方\n（注3） そのもの:自体\n（注4） 家が回っていかない:ここでは、 生活ができない\n（注5） 否応なく:嫌でも嫌でなくても\n（注6） まかなう:ここでは、済ませる\n（注7） 領域:範囲",
+      "question": "筆者がおとなたちに言いたいことは何か。",
+      "options": [
+        "子ども自身にどうしたら人の役に立てるか考えさせるべきだ。",
+        "子どもが人の役に立てる機会をなくさないほうがいい。",
+        "子どもは守られる存在だという考えは誤りだ。",
+        "親自身が人の役に立っている姿を子どもに見せるべきだ。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 子どもが人の役に立てる機会をなくさないほうがいい。\n\n【Dịch câu hỏi】\nHỏi 3: Tác giả muốn nói gì với người lớn?\n\n【Dịch 4 đáp án】\n1. Nên bắt trẻ tự nghĩ cách giúp ích cho người.\n2. Không nên làm mất cơ hội để trẻ giúp ích cho người.\n3. Quan niệm trẻ là đối tượng cần bảo vệ là sai.\n4. Cha mẹ nên cho trẻ thấy mình đang giúp ích cho người.\n\n【Keyword】\n役に立てる機会, なくさない, おとなたち\n\n【Câu chính / căn cứ】\nBảo vệ quá mức sẽ tước cơ hội giúp người và niềm vui từ đó → đừng làm mất cơ hội.\n\n【Cách giải nhanh】\nThông điệp: giữ lại cơ hội để trẻ được giúp người khác. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không bắt buộc “tự nghĩ cách”.\n2: Đúng — khớp lời nhắn chính.\n3: Sai — không phủ nhận hoàn toàn việc cần bảo vệ.\n4: Sai — không nhấn “làm gương giúp người” là ý chính.\n\n【Chi tiết thêm】\nCâu hỏi「言いたいこと」= kết luận tổng, tránh chi tiết phụ."
+    }
+  ]
+}

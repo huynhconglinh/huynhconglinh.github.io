@@ -1,0 +1,36 @@
+{
+  "id": "N2-TC-B07-BT-RD",
+  "code": "TC-B07-RD",
+  "title": "Bài 7 · Đọc hiểu So sánh A-B · Bổ trợ Đọc hiểu",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "A\n子供に特定のスポーツを習わせる家庭は多い。早くから一つのスポーツを集中的に練習させることで、子供の才能を伸ばしたいという親の気持ちは理解できるが、子供の体への負担が大きいことが心配だ。同じ動きを繰り返し練習することになり、けがをしやすくなるからだ。まだ成長の途中の子供にとってまず必要なのは、さまざまなスポーツを通して、多様な動きを身につけることではないだろうか。得意な動きも苦手な動きも行うことによって、全身の運動能力をバランスよく向上させられる。専門的な技術の習得は、そのあとでも遅くはないのだ。\nB\n体力をつけるために、子供にスポーツを習わせるのはいいことだ。ただ、幼いうちから特定のスポーツだけを習わせることには問題があると思う。幼い子供は、何が好きか、何がしたいのか、分からないことが多いので、親の決めたスポーツを習い始めることになる。その結果、興味が持てなくてすぐにやめたり、いやいや練習を続けることになって、スポーツが嫌いになってしまったりすることがあるのだ。そのため、幼いうちは、一つのスポーツに絞るのではなく、多くのスポーツを経験させて、スポーツの楽しさを教えることが大切だ。さらに、いろいろなスポーツをすることで、全身を動かし、基礎的な運動能力を身につけることができる。これは、将来本格的にスポーツをしようと思ったときに必ず役立つはずだ。",
+      "question": "幼い子供に特定のスポーツを習わせることについて、A とB はどのように述べているか。",
+      "options": [
+        "A もB も、子供の才能を伸ばすことができるので賛成だと述べている。",
+        "A もB も、子供の希望ではないことが多いので反対だと述べている。",
+        "A は子供の健康に悪影響を与えるので反対だと述べ、B は体力が向上するので賛成だと述べている。",
+        "A はけがにつながる恐れがあるので反対だと述べ、B はスポーツが嫌いになる可能性があるので反対だと述べている。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · Aはけがにつながる恐れがあるので反対だと述べ、Bはスポーツが嫌いになる可能性があるので反対だと述べている。\n\n【Dịch câu hỏi】\nHỏi 1: Về việc cho trẻ nhỏ học một môn thể thao cụ thể, A và B nói gì?\n\n【Dịch 4 đáp án】\n1. Cả hai tán thành vì phát triển tài năng.\n2. Cả hai phản đối vì thường không phải nguyện vọng trẻ.\n3. A phản đối vì hại sức khỏe; B tán thành vì tăng thể lực.\n4. A phản đối vì nguy cơ chấn thương; B phản đối vì trẻ có thể ghét thể thao.\n\n【Dịch bài đọc】\nA Nhiều gia đình cho trẻ học một môn thể thao cụ thể. Hiểu tâm lý bố mẹ muốn sớm tập trung một môn để phát triển tài năng trẻ, nhưng lo gánh nặng lên cơ thể trẻ lớn. Vì lặp lại cùng động tác nên dễ chấn thương. Với trẻ còn đang lớn, trước hết cần chẳng phải là qua nhiều môn để nắm đa dạng động tác sao? Làm cả động tác giỏi và kém giúp nâng cân bằng năng lực vận động toàn thân. Học kỹ thuật chuyên sâu sau đó cũng không muộn.\nB Cho trẻ học thể thao để tăng thể lực là tốt. Nhưng chỉ cho học một môn cụ thể từ nhỏ thì tôi nghĩ có vấn đề. Trẻ nhỏ thường chưa rõ thích gì, muốn gì nên bắt đầu môn bố mẹ chọn. Kết quả có khi hết hứng bỏ sớm, hoặc tập miễn cưỡng rồi chán thể thao. Vì vậy lúc nhỏ quan trọng không phải bó một môn mà cho trải nghiệm nhiều môn và dạy niềm vui thể thao. Thêm nữa, làm nhiều môn giúp vận động toàn thân và nắm năng lực vận động cơ bản. Điều này chắc chắn hữu ích khi sau này muốn chơi thể thao nghiêm túc.\n\n【Keyword】\nけが, 嫌いになる, 反対\n\n【Câu chính / căn cứ】\nA lo lặp một động tác gây quá tải/chấn thương; B lo bị ép môn không thích rồi ác cảm.\n\n【Cách giải nhanh】\nCả hai phản đối nhưng lý do khác: chấn thương vs ghét thể thao. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải tán thành.\n2: Sai — lý do “không phải nguyện vọng” không phải cặp A/B chuẩn.\n3: Sai — B không tán thành trong đáp án đúng.\n4: Đúng — hai lý do phản đối khác nhau.\n\n【Chi tiết thêm】\nDạng A/B: cùng kết luận, khác căn cứ."
+    },
+    {
+      "question_id": 2,
+      "context": "A\n子供に特定のスポーツを習わせる家庭は多い。早くから一つのスポーツを集中的に練習させることで、子供の才能を伸ばしたいという親の気持ちは理解できるが、子供の体への負担が大きいことが心配だ。同じ動きを繰り返し練習することになり、けがをしやすくなるからだ。まだ成長の途中の子供にとってまず必要なのは、さまざまなスポーツを通して、多様な動きを身につけることではないだろうか。得意な動きも苦手な動きも行うことによって、全身の運動能力をバランスよく向上させられる。専門的な技術の習得は、そのあとでも遅くはないのだ。\nB\n体力をつけるために、子供にスポーツを習わせるのはいいことだ。ただ、幼いうちから特定のスポーツだけを習わせることには問題があると思う。幼い子供は、何が好きか、何がしたいのか、分からないことが多いので、親の決めたスポーツを習い始めることになる。その結果、興味が持てなくてすぐにやめたり、いやいや練習を続けることになって、スポーツが嫌いになってしまったりすることがあるのだ。そのため、幼いうちは、一つのスポーツに絞るのではなく、多くのスポーツを経験させて、スポーツの楽しさを教えることが大切だ。さらに、いろいろなスポーツをすることで、全身を動かし、基礎的な運動能力を身につけることができる。これは、将来本格的にスポーツをしようと思ったときに必ず役立つはずだ。",
+      "question": "子供にスポーツを習わせるときに、A とB が共通して大切だと述べていることは何か。",
+      "options": [
+        "成長に合ったスポーツをさせること。",
+        "子供の好きなスポーツをさせること。",
+        "全身の運動能力を高めさせること。",
+        "苦手意識を持たせないこと。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 全身の運動能力を高めさせること。\n\n【Dịch câu hỏi】\nHỏi 2: Khi cho trẻ học thể thao, điểm A và B cùng coi trọng?\n\n【Dịch 4 đáp án】\n1. Cho chơi môn hợp giai đoạn phát triển.\n2. Cho chơi môn trẻ thích.\n3. Nâng cao năng lực vận động toàn thân.\n4. Không để trẻ mang mặc cảm kém.\n\n【Keyword】\n全身の運動能力, 多様な運動, 共通\n\n【Câu chính / căn cứ】\nCả hai khuyên trải nghiệm nhiều môn để vận động đa dạng, phát triển cân bằng toàn thân.\n\n【Cách giải nhanh】\nGiao điểm = nâng khả năng vận động toàn thân. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải điểm chung được nêu rõ nhất.\n2: Sai — “môn thích” gần một phía hơn.\n3: Đúng — khớp 「全身の運動能力」.\n4: Sai — không phải kết luận chung chính.\n\n【Chi tiết thêm】\nTránh chọn ý “sở thích trẻ” khi bài nhấn đa dạng vận động."
+    }
+  ]
+}

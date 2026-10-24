@@ -1,0 +1,140 @@
+{
+  "id": "N2-TC-B06-BT-GR",
+  "code": "TC-B06-GR",
+  "title": "Bài 6 · Ngữ pháp Hái sao · Bổ trợ Ngữ pháp",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "grammar",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "",
+      "question": "昨日、初めてパンを作ってみた。料理雑誌の＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、うまく膨らまなかった。",
+      "options": [
+        "のに",
+        "レシピに書いてある",
+        "とおりに",
+        "作った"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 作った\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「膨らまなかった」: làm đúng như công thức mà bánh vẫn không nở. — chọn ★.\n\n【Dịch 4 đáp án】\n1. のに (thế mà)\n2. レシピに書いてある (ghi trong công thức)\n3. とおりに (đúng như…)\n4. 作った (đã làm)\n\n【Keyword】\nとおりに, のに, 期待外れ\n\n【Câu chính / căn cứ】\n「レシピに書いてあるとおりに作ったのに、膨らまなかった」\n\n【Cách giải nhanh】\nThứ tự: レシピに書いてある → とおりに → 作った → のに. ★ = 作った. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nối trái mong đợi, sát kết quả không nở.\n2: Sai — mở đầu.\n3: Sai — sau nội dung công thức.\n4: Đúng — động từ trước 「のに」.\n\n【Chi tiết thêm】\n「NのとおりにV」= làm đúng như N."
+    },
+    {
+      "question_id": 2,
+      "context": "",
+      "question": "「10 倍がゆ」とは＿＿＿ ＿＿＿ ＿★＿ ＿＿＿おかゆのことです。",
+      "options": [
+        "作った",
+        "水で",
+        "10 倍の",
+        "米1 に対して"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 水で\n\n【Dịch câu hỏi】\n「Cháo 10 lần」 là cháo nấu với nước gấp 10 so với 1 phần gạo. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 作った (đã nấu/làm)\n2. 水で (bằng nước…)\n3. 10倍の (gấp 10)\n4. 米1に対して (so với 1 phần gạo)\n\n【Keyword】\nNに対して, 倍の水で作った\n\n【Câu chính / căn cứ】\n「米1に対して10倍の水で作ったおかゆ」\n\n【Cách giải nhanh】\nThứ tự: 米1に対して → 10倍の → 水で → 作った. ★ = 水で. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — kết thúc định ngữ trước 「おかゆ」.\n2: Đúng — 「10倍の水で」.\n3: Sai — bổ nghĩa 水.\n4: Sai — mở đầu tỉ lệ.\n\n【Chi tiết thêm】\n「Aに対してB」 nêu tỉ lệ A:B."
+    },
+    {
+      "question_id": 3,
+      "context": "",
+      "question": "私が就職した商社は大手の＿＿＿ ＿＿＿ ＿★＿ ＿＿＿新人でも大きな仕事を任せてもらえるので、やりがいがある。",
+      "options": [
+        "決して",
+        "商社に比べると",
+        "やる気があれば",
+        "規模は大きくないが"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 規模は大きくないが\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「やりがいがある」: so với thương mại lớn thì quy mô không lớn, nhưng có động lực thì được giao việc lớn. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 決して (không hề…)\n2. 商社に比べると (so với công ty thương mại thì)\n3. やる気があれば (nếu có động lực thì)\n4. 規模は大きくないが (quy mô không lớn nhưng)\n\n【Keyword】\n決して～ない, 比べると, が\n\n【Câu chính / căn cứ】\n「商社に比べると決して規模は大きくないが、やる気があれば…やりがいがある」\n\n【Cách giải nhanh】\nThứ tự: 商社に比べると → 決して → 規模は大きくないが → やる気があれば. ★ = 規模は大きくないが. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — nhấn mạnh phủ định trước 「大きくない」.\n2: Sai — mở đầu so sánh.\n3: Sai — điều kiện phần tích cực sau が.\n4: Đúng — vế nhượng bộ trung tâm.\n\n【Chi tiết thêm】\n「決して～ない」= tuyệt đối không…"
+    },
+    {
+      "question_id": 4,
+      "context": "",
+      "question": "彼女は1970 年代に活躍したジャズピアニストで、この人＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大きな存在だった。",
+      "options": [
+        "語れない",
+        "日本のジャズは",
+        "抜きには",
+        "というほど"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 語れない\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「大きな存在だった」: lớn đến mức không thể nói jazz Nhật mà bỏ qua bà. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 語れない (không thể kể/nói)\n2. 日本のジャズは (jazz Nhật thì)\n3. 抜きには (nếu bỏ ra ngoài thì)\n4. というほど (đến mức…)\n\n【Keyword】\n抜きには語れない, というほど\n\n【Câu chính / căn cứ】\n「この人抜きには日本のジャズは語れないというほど大きな存在だった」\n\n【Cách giải nhanh】\nThứ tự: 抜きには → 日本のジャズは → 語れない → というほど. ★ = 語れない. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — vị ngữ trong mẫu 「抜きには語れない」.\n2: Sai — chủ ngữ giữa 抜きには và 語れない.\n3: Sai — mở đầu.\n4: Sai — nối mức độ trước 「大きな存在」.\n\n【Chi tiết thêm】\n「N抜きには語れない」= không thể bàn mà bỏ qua N."
+    },
+    {
+      "question_id": 5,
+      "context": "",
+      "question": "贈り物するときは、自分の勝手な＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、相手の趣味や都合をよく考えて決めましょう。",
+      "options": [
+        "思い込みだけで",
+        "喜ばれるどころか",
+        "迷惑をかけることもあるので",
+        "品物を選ぶと"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 喜ばれるどころか\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「よく考えて決めましょう」: chọn quà chỉ theo định kiến thì chẳng những không làm vui mà còn phiền. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 思い込みだけで (chỉ bằng thành kiến)\n2. 喜ばれるどころか (chẳng những được vui…)\n3. 迷惑をかけることもあるので (vì đôi khi gây phiền nên)\n4. 品物を選ぶと (nếu chọn đồ thì)\n\n【Keyword】\nどころか, 思い込みだけで\n\n【Câu chính / căn cứ】\n「思い込みだけで品物を選ぶと、喜ばれるどころか迷惑をかけることもあるので、よく考えて決めましょう」\n\n【Cách giải nhanh】\nThứ tự: 思い込みだけで → 品物を選ぶと → 喜ばれるどころか → 迷惑をかけることもあるので. ★ = 喜ばれるどころか. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — mở đầu cách chọn sai.\n2: Đúng — 「AどころかB」 đảo kỳ vọng.\n3: Sai — hệ quả xấu sau どころか.\n4: Sai — điều kiện trước kết quả.\n\n【Chi tiết thêm】\n「～どころか」= không những không A mà còn B (thường xấu hơn)."
+    },
+    {
+      "question_id": 6,
+      "context": "",
+      "question": "他社からの質問や問い合わせには、一度社内で＿＿＿ ＿＿＿ ＿★＿ ＿＿＿できないことになっています。",
+      "options": [
+        "検討",
+        "回答",
+        "でないと",
+        "してから"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · でないと\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「ことになっています」: phải xem xét nội bộ rồi mới được trả lời. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 検討 (xem xét)\n2. 回答 (trả lời)\n3. でないと (nếu không phải/sau khi… thì mới)\n4. してから (sau khi làm…)\n\n【Keyword】\nしてからでないと, 回答できない\n\n【Câu chính / căn cứ】\n「社内で検討してからでないと回答できないことになっています」\n\n【Cách giải nhanh】\nThứ tự: 検討 → してから → でないと → 回答. ★ = でないと. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — danh từ đầu chuỗi 「検討して」.\n2: Sai — gắn với 「できない」 sau điều kiện.\n3: Đúng — mẫu 「～てからでないと～できない」.\n4: Sai — đứng trước でないと.\n\n【Chi tiết thêm】\n「Vてからでないと～ない」= chưa V xong thì không thể…"
+    },
+    {
+      "question_id": 7,
+      "context": "",
+      "question": "昨日の夜は、11 時までには＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、結局寝たのは1 時だった。",
+      "options": [
+        "つい",
+        "寝ようと",
+        "思いつつ",
+        "テレビを見続けてしまい"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · つい\n\n【Dịch câu hỏi】\nSắp xếp: Định ngủ trước 11 giờ nhưng lỡ xem tivi mãi, cuối cùng 1 giờ mới ngủ. — chọn ★.\n\n【Dịch 4 đáp án】\n1. つい (lỡ / vô tình)\n2. 寝ようと (định ngủ)\n3. 思いつつ (vừa nghĩ…)\n4. テレビを見続けてしまい (cứ xem tivi mãi)\n\n【Keyword】\nつつ, つい, てしまう\n\n【Câu chính / căn cứ】\n「11時までには寝ようと思いつつ、ついテレビを見続けてしまい」\n\n【Cách giải nhanh】\nThứ tự: 寝ようと → 思いつつ → つい → テレビを見続けてしまい. ★ = つい. → 1.\n\n【Phân tích / loại đáp án】\n1: Đúng — trạng từ trước hành động “lỡ làm”.\n2: Sai — ý định ngủ.\n3: Sai — 「Vつつ」= vừa… vừa/dù đang…\n4: Sai — kết quả ngoài ý muốn.\n\n【Chi tiết thêm】\n「ついVてしまう」= lỡ V mất."
+    },
+    {
+      "question_id": 8,
+      "context": "",
+      "question": "私は、新しいことにチャレンジするときでも悩まない。＿＿＿ ＿＿＿ ＿★＿ ＿＿＿と思っているからだ。",
+      "options": [
+        "まずやってみて",
+        "もう一度考えればいい",
+        "うまくいかなかったら",
+        "そのときにどうしたらいいか"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · そのときにどうしたらいいか\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「いるからだ」: cứ làm thử trước; nếu không ổn thì lúc đó nghĩ lại nên làm gì. — chọn ★.\n\n【Dịch 4 đáp án】\n1. まずやってみて (trước hết làm thử)\n2. もう一度考えればいい (cứ nghĩ lại là được)\n3. うまくいかなかったら (nếu không suôn sẻ thì)\n4. そのときにどうしたらいいか (lúc đó nên làm gì)\n\n【Keyword】\nまずVてみる, どうしたらいいか\n\n【Câu chính / căn cứ】\n「まずやってみて、うまくいかなかったら、そのときにどうしたらいいかもう一度考えればいい」\n\n【Cách giải nhanh】\nThứ tự: まずやってみて → うまくいかなかったら → そのときにどうしたらいいか → もう一度考えればいい. ★ = そのときにどうしたらいいか. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — bước đầu.\n2: Sai — kết thúc lời khuyên.\n3: Sai — điều kiện giữa chừng.\n4: Đúng — nội dung cần nghĩ lại, trước 「考えればいい」.\n\n【Chi tiết thêm】\n「どうしたらいいか考える」= nghĩ nên làm thế nào."
+    },
+    {
+      "question_id": 9,
+      "context": "",
+      "question": "家の近くの本屋では＿＿＿ ＿＿＿ ＿★＿ ＿＿＿少し遠いけど行ってみようと思う。",
+      "options": [
+        "買えなかった漫画の最新号が",
+        "まだ買えるらしいので",
+        "もう売り切れていて",
+        "隣町のABC 書店に行けば"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 隣町のABC 書店に行けば\n\n【Dịch câu hỏi】\nSắp xếp: Số truyện hết ở tiệm gần nhà; nghe nói sang tiệm ABC thị trấn bên vẫn mua được nên dù xa cũng muốn đi. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 買えなかった漫画の最新号が (số mới không mua được thì…)\n2. まだ買えるらしいので (nghe nói vẫn mua được nên)\n3. もう売り切れていて (đã bán hết nên)\n4. 隣町のABC書店に行けば (nếu đến hiệu ABC thị trấn bên thì)\n\n【Keyword】\n売り切れて, 行けば, らしいので\n\n【Câu chính / căn cứ】\n「もう売り切れていて買えなかった漫画の最新号が、隣町のABC書店に行けばまだ買えるらしいので」\n\n【Cách giải nhanh】\nThứ tự: もう売り切れていて → 買えなかった漫画の最新号が → 隣町のABC書店に行けば → まだ買えるらしいので. ★ = 隣町のABC書店に行けば. → 4.\n\n【Phân tích / loại đáp án】\n1: Sai — chủ ngữ sau tình huống hết hàng.\n2: Sai — kết thúc lý do muốn đi.\n3: Sai — mở đầu.\n4: Đúng — điều kiện còn hàng.\n\n【Chi tiết thêm】\n「Vば～らしい」= nghe nói nếu V thì…"
+    },
+    {
+      "question_id": 10,
+      "context": "",
+      "question": "話題のカレー屋さんを初訪問。野菜の＿＿＿ ＿＿＿ ＿★＿ ＿＿＿「夏限定ベジタブルカレー」評判どおりのおいしさだった。",
+      "options": [
+        "中で",
+        "私が選んだのは",
+        "夏の野菜がたっぷり入った",
+        "カレーがいくつかある"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 私が選んだのは\n\n【Dịch câu hỏi】\nSắp xếp kết thúc 「評判どおりのおいしさだった」: trong vài món cà ri rau, món tôi chọn đầy rau hè và ngon đúng lời đồn. — chọn ★.\n\n【Dịch 4 đáp án】\n1. 中で (trong số…)\n2. 私が選んだのは (món tôi chọn là…)\n3. 夏の野菜がたっぷり入った (đầy rau mùa hè)\n4. カレーがいくつかある (có vài món cà ri)\n\n【Keyword】\n～中で, 選んだのは\n\n【Câu chính / căn cứ】\n「カレーがいくつかある中で、私が選んだのは、夏の野菜がたっぷり入った…評判どおりのおいしさだった」\n\n【Cách giải nhanh】\nThứ tự: カレーがいくつかある → 中で → 私が選んだのは → 夏の野菜がたっぷり入った. ★ = 私が選んだのは. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — sau 「いくつかある」.\n2: Đúng — nhấn mạnh đối tượng được chọn.\n3: Sai — mô tả món sau のは.\n4: Sai — mở đầu phạm vi lựa chọn.\n\n【Chi tiết thêm】\n「Aの中で、選んだのはBだ」."
+    }
+  ]
+}

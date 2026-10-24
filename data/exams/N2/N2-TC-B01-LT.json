@@ -1,0 +1,88 @@
+{
+  "id": "N2-TC-B01-LT",
+  "code": "TC-B01-LT",
+  "title": "Bài 1 · Đọc hiểu Đoản văn · Luyện tập",
+  "level": "N2",
+  "track": "n2_thuc_chien",
+  "topic": "reading",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "インタビューでは準備も重要だが、実際のインタビューの場面になったら、いったんその準備で得たものをすべて捨てなくてはならない。そして、相手の話を真剣に深く聞き、その人が何を言わんとしているのか、丸ごと捉えて、そこで出てきた素晴らしい言葉、豊かな言葉、言葉に込められた大事なメッセージをしっかりとつかむことこそが必要なのだ。そこから良い対話が生まれてくる。良いインタビューは、次の質問を忘れて相手の話を聞けたときに初めて行えるものなのだ。\n（注1） 言わんとしている:言おうとしている\n（注2） 丸ごと:そのまま全部",
+      "question": "インタビューについて、筆者の考えに合うのはどれか。",
+      "options": [
+        "準備したものから離れて、相手の話をよく聞くことが重要だ。",
+        "準備した質問に沿って、相手から大事なメッセージを引き出すことが重要だ。",
+        "相手の話をしっかり聞くことが大切なので、準備をする必要はない。",
+        "相手から素晴らしい言葉を引き出すには、準備しすぎないほうがいい。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 準備したものから離れて、相手の話をよく聞くことが重要だ。\n\n【Dịch câu hỏi】\nHỏi: Về phỏng vấn, ý nào phù hợp với suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Điều quan trọng là tách khỏi phần đã chuẩn bị và lắng nghe kỹ lời đối phương.\n2. Điều quan trọng là bám theo câu hỏi đã chuẩn bị để khai thác thông điệp quan trọng từ đối phương.\n3. Vì lắng nghe đối phương mới quan trọng nên không cần chuẩn bị.\n4. Để moi được lời hay từ đối phương thì tốt hơn là đừng chuẩn bị quá nhiều.\n\n【Dịch bài đọc】\nTrong phỏng vấn, chuẩn bị cũng quan trọng, nhưng khi bước vào cuộc phỏng vấn thật sự thì phải tạm thời vứt bỏ hết những gì vừa chuẩn bị. Sau đó phải nghe đối phương một cách nghiêm túc, sâu sắc, nắm trọn những gì họ muốn nói, và nắm chắc các lời hay, lời giàu ý nghĩa, thông điệp quan trọng gửi trong lời nói — chính điều đó mới cần thiết. Từ đó mới sinh ra đối thoại tốt. Một cuộc phỏng vấn tốt chỉ thực hiện được khi ta quên câu hỏi tiếp theo và lắng nghe được đối phương.\n\n【Keyword】\n準備を捨てる, 真剣に深く聞く, 丸ごと捉える, 次の質問を忘れる\n\n【Câu chính / căn cứ】\n「いったんその準備で得たものをすべて捨て」「相手の話を真剣に深く聞き」「次の質問を忘れて相手の話を聞けたときに初めて」\n\n【Cách giải nhanh】\nCâu then chốt phủ định việc bám sát kịch bản: phải BỎ chuẩn bị và NGHE đối phương. Chỉ đáp án 1 nói đúng cả hai ý (tách khỏi chuẩn bị + nghe kỹ).\n\n【Phân tích / loại đáp án】\n1: Đúng — khớp 「捨てる」+「真剣に深く聞く」.\n2: Sai — vẫn bám 「準備した質問に沿って」, trái với việc phải bỏ chuẩn bị.\n3: Sai — tác giả vẫn khẳng định chuẩn bị quan trọng; không nói là không cần chuẩn bị.\n4: Sai — không khuyên “chuẩn bị ít”; trọng tâm là lúc phỏng vấn phải quên kịch bản để nghe.\n\n【Chi tiết thêm】\nBẫy thường gặp: đọc thấy “chuẩn bị quan trọng” rồi chọn đáp án nhấn mạnh chuẩn bị (2/4), hoặc cực đoan bỏ hết chuẩn bị từ đầu (3)."
+    },
+    {
+      "question_id": 2,
+      "context": "以下は、ある会社で全社員に送られたメールである。\n社員各位\nわが社の人気商品「緑山牧場チーズ詰め合わせ」を、定価の30%引き(割引後3,500円)で社員向けに特別販売します。\n購入希望者は、添付の申込書にお名前と購入数をご記入のうえ、3 月9 日までに営業課までメールでお申し込みください。通常、社内販売の支払いと商品のお渡しは経理課で行っていますが、今回は営業課で行います。代金と引き換えに、その場で商品をお渡しします。お渡し期間は3 月16 日から19 日の間です。\n以上、よろしくお願いします。\n添付ファイル: 3 月1 日「緑山牧場チーズ詰め合わせ」申込書\n営業課 安井",
+      "question": "「緑山牧場チーズ詰め合わせ」を社内販売で購入したい社員は、期日までに営業課にメールで申し込んだあと、どうすればいいか。",
+      "options": [
+        "経理課で支払いをして受け取る。",
+        "経理課で支払いをして、営業課で受け取る。",
+        "営業課で支払いをして受け取る。",
+        "営業課で支払いをして、経理課で受け取る。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 営業課で支払いをして受け取る。\n\n【Dịch câu hỏi】\nHỏi: Nhân viên muốn mua set phô mai「緑山牧場チーズ詰め合わせ」 qua bán nội bộ, sau khi đã gửi email đăng ký đúng hạn cho phòng Kinh doanh thì phải làm gì?\n\n【Dịch 4 đáp án】\n1. Thanh toán ở phòng Kế toán rồi nhận hàng.\n2. Thanh toán ở phòng Kế toán, nhận hàng ở phòng Kinh doanh.\n3. Thanh toán và nhận hàng tại phòng Kinh doanh.\n4. Thanh toán ở phòng Kinh doanh, nhận hàng ở phòng Kế toán.\n\n【Dịch bài đọc】\nGửi toàn thể nhân viên: Công ty bán đặc biệt nội bộ sản phẩm bán chạy「緑山牧場チーズ詰め合わせ」giảm 30% so với giá niêm yết (sau giảm 3.500 yên). Người muốn mua điền họ tên và số lượng vào đơn đính kèm, gửi email cho phòng Kinh doanh trước ngày 9/3. Thông thường thanh toán và giao hàng bán nội bộ ở phòng Kế toán, nhưng LẦN NÀY thực hiện tại phòng Kinh doanh: trả tiền và nhận hàng ngay tại chỗ. Thời gian giao: 16–19/3. File đính kèm: đơn ngày 1/3. Phòng Kinh doanh – Yasui.\n\n【Keyword】\n今回は営業課, 代金と引き換え, その場で商品をお渡し\n\n【Câu chính / căn cứ】\n「通常…経理課で行っていますが、今回は営業課で行います。代金と引き換えに、その場で商品をお渡しします。」\n\n【Cách giải nhanh】\nChốt chữ「今回は」: lần này cả trả tiền lẫn nhận hàng đều ở 営業課. Chọn 3.\n\n【Phân tích / loại đáp án】\n1: Sai — đó là quy trình thường ngày (経理課), không phải lần này.\n2: Sai — tách khâu trả/nhận; bài nói trả và nhận cùng chỗ.\n3: Đúng — khớp「今回は営業課」「代金と引き換えにその場で」.\n4: Sai — đảo chỗ nhận về 経理課.\n\n【Chi tiết thêm】\nVới thông báo/email: ưu tiên câu có 「今回」「ただし」「通常は〜が」— thường là chỗ đổi quy tắc."
+    },
+    {
+      "question_id": 3,
+      "context": "鳥は日常的に目であたりを観察し、自身の生活にとって重要なものかどうかを見分け、必要なものを優先的に記憶しながら暮らしています。野生と飼育下では、そこに存在するものがちがっているため、重要と判断されるものも大きく変わってきますが、判断のしかた自体は変化しません。重要なものは詳細に、そうでないものはさっと流すくらいの注意で見る、というやりかたです。そして、重要と判断されなかったものは、どんどん記憶のなかから消えていきます。\n（注1） 野生:自然のなかで生きている状態\n（注2） 飼育下:飼われている状態",
+      "question": "鳥の記憶について、筆者の説明に合うのはどれか。",
+      "options": [
+        "見たものを重要だと判断して記憶していく。",
+        "生活する場がちがっても、同じものを記憶していく。",
+        "生活に重要なものを選んで記憶していく。",
+        "生活に重要なものでも、次第に記憶から消えていく。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 生活に重要なものを選んで記憶していく。\n\n【Dịch câu hỏi】\nHỏi: Về trí nhớ của chim, giải thích nào khớp với mô tả của tác giả?\n\n【Dịch 4 đáp án】\n1. Nhìn thấy vật gì thì phán đoán là quan trọng rồi ghi nhớ.\n2. Dù môi trường sống khác nhau vẫn ghi nhớ những thứ giống nhau.\n3. Chọn những thứ quan trọng cho đời sống để ghi nhớ.\n4. Dù là thứ quan trọng cho đời sống cũng dần biến mất khỏi trí nhớ.\n\n【Dịch bài đọc】\nChim hàng ngày quan sát xung quanh bằng mắt, phân biệt vật có quan trọng với đời sống của nó hay không, và ưu tiên ghi nhớ những gì cần thiết. Giữa môi trường hoang dã và nuôi nhốt, đồ vật tồn tại khác nhau nên thứ được coi là quan trọng cũng đổi khác nhiều, nhưng cách phán đoán thì không đổi. Cách làm là: thứ quan trọng thì xem kỹ, thứ không quan trọng thì chỉ liếc sơ. Những thứ không được đánh giá là quan trọng sẽ lần lượt biến mất khỏi trí nhớ.\n\n【Keyword】\n重要なものを優先的に記憶, 判断のしかたは変化しない, 重要と判断されなかったものは消える\n\n【Câu chính / căn cứ】\n「必要なものを優先的に記憶」「重要と判断されなかったものは、どんどん記憶のなかから消えていきます」\n\n【Cách giải nhanh】\nChim không nhớ hết mọi thứ đã thấy; chỉ ưu tiên nhớ cái quan trọng với đời sống. → Đáp án 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không phải thấy gì cũng coi là quan trọng; phải phân biệt trước.\n2: Sai — môi trường khác thì thứ quan trọng cũng khác (chỉ cách phán đoán giữ nguyên).\n3: Đúng — khớp ưu tiên ghi nhớ cái cần/quan trọng cho cuộc sống.\n4: Sai — cái biến mất là thứ KHÔNG quan trọng, không phải thứ quan trọng.\n\n【Chi tiết thêm】\nChú ý phủ định kép trong đáp án 4: đảo đối tượng bị quên."
+    },
+    {
+      "question_id": 4,
+      "context": "以下は、ある町の掲示板に貼られていた文書である。\n10 月5 日\n住民の皆様へ\nごみに関するお願い\n最近、「可燃ごみ」の回収日に衣類・布類が多く出されています。しかし、市の規則では、衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています。資源を有効に活用するため、決められた回収日に出してください。\n衣類・布類は、市内8 か所の公共施設に設置してある回収ボックスでも回収しています。\n回収後は、中古の衣類として再使用したり、工場で再生利用したりします。ご協力をよろしくお願いします。\n竹川市役所 市民生活課",
+      "question": "この文書で最も伝えたいことは何か。",
+      "options": [
+        "「資源ごみ」として出す衣類・布類の量を減らしてほしい。",
+        "「資源ごみ」 の回収日に「可燃ごみ」を出さないでほしい。",
+        "衣類・布類は、「資源ごみ」 の回収日に出してほしい。",
+        "衣類・布類は、新しく設置した回収ボックスに出してほしい。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 衣類・布類は、「資源ごみ」 の回収日に出してほしい。\n\n【Dịch câu hỏi】\nHỏi: Điều văn bản này muốn truyền đạt nhất là gì?\n\n【Dịch 4 đáp án】\n1. Muốn giảm lượng quần áo/đồ vải bỏ vào ngày thu gom.\n2. Muốn bỏ quần áo/đồ vải vào ngày thu gom rác cháy được.\n3. Muốn bỏ quần áo/đồ vải vào ngày thu gom「資源ごみ」.\n4. Muốn dùng thùng thu gom mới đặt ở cơ sở công cộng.\n\n【Dịch bài đọc】\nNgày 5/10 – Kính gửi cư dân: Gần đây vào ngày thu「可燃ごみ」có nhiều quần áo/đồ vải. Theo quy định thành phố, quần áo/đồ vải phải bỏ vào ngày thứ Ba hàng tuần — ngày thu「資源ごみ」. Để tận dụng tài nguyên, hãy bỏ đúng ngày quy định. Cũng có thể bỏ vào thùng thu gom đặt tại 8 cơ sở công cộng trong thành phố. Sau thu gom sẽ tái sử dụng làm đồ cũ hoặc tái chế tại nhà máy. Xin hợp tác. Phòng Đời sống công dân – UBND thành phố Takekawa.\n\n【Keyword】\n可燃ごみに多く出されている, 資源ごみの回収日, 毎週火曜日\n\n【Câu chính / căn cứ】\n「衣類・布類は毎週火曜日の『資源ごみ』の回収日に出すことになっています」\n\n【Cách giải nhanh】\nVấn đề: đang bỏ sai ngày (可燃). Yêu cầu chính: bỏ đúng ngày 資源ごみ. → 3.\n\n【Phân tích / loại đáp án】\n1: Sai — không kêu gọi giảm số lượng, mà bỏ đúng phân loại/ngày.\n2: Sai — trái quy định; đó đúng là việc đang làm SAI.\n3: Đúng — thông điệp trung tâm của thông báo.\n4: Sai — thùng thu gom chỉ là cách thay thế; không nói là thùng mới hay là yêu cầu chính.\n\n【Chi tiết thêm】\nCâu hỏi「最も伝えたいこと」= mục đích chính, không phải chi tiết phụ (thùng thu gom)."
+    },
+    {
+      "question_id": 5,
+      "context": "自分が常識と思っていたこと、そうして見えない枠として自分をしばっていたこと、それを共有しない<u>ひと</u>が現われる。最初、それは非常識なひと、変なひとに思えるかもしれない。だけど、それが変だと感じることで、はじめて、自分があたりまえだと思っていたことを自覚するようになる。見えない枠が見えるようになる。\n（注1） 自覚する:意識する",
+      "question": "筆者は、ひとと出会うことによってどうなると述べているか。",
+      "options": [
+        "見えない枠が変なものだと気づく。",
+        "自分をしばっていた考え方に気づく。",
+        "自分の常識が間違いだったと気づく。",
+        "ほかのひとの常識は理解できないと気づく。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 自分をしばっていた考え方に気づく。\n\n【Dịch câu hỏi】\nHỏi: Tác giả nói rằng nhờ gặp gỡ người khác thì sẽ trở nên thế nào?\n\n【Dịch 4 đáp án】\n1. Nhận ra khung vô hình là thứ kỳ quặc.\n2. Nhận ra cách nghĩ từng trói buộc bản thân.\n3. Nhận ra lẽ thường của mình là sai.\n4. Nhận ra không thể hiểu lẽ thường của người khác.\n\n【Dịch bài đọc】\nĐiều mình từng coi là lẽ thường — cái khung vô hình đã trói buộc bản thân — bỗng xuất hiện người không chia sẻ điều đó. Lúc đầu có thể thấy họ là người vô lễ thường, kỳ lạ. Nhưng chính vì cảm thấy họ kỳ lạ, lần đầu tiên ta ý thức được những gì mình vẫn cho là đương nhiên. Khung vô hình trở nên nhìn thấy được.\n\n【Keyword】\n見えない枠, 自分をしばっていた, 自覚する, 非常識に思える\n\n【Câu chính / căn cứ】\n「それが変だと感じることで、はじめて…自覚する」「見えない枠が見えるようになる」\n\n【Cách giải nhanh】\nGặp người 'khác thường' → nhận ra khung/tư duy từng tự trói mình. Không kết luận mình sai hay họ đúng. → 2.\n\n【Phân tích / loại đáp án】\n1: Sai — không nói bản thân khung là 'vật kỳ quặc'.\n2: Đúng — khớp nhận ra cách nghĩ/khung từng trói buộc mình.\n3: Sai — không khẳng định lẽ thường của mình là sai.\n4: Sai — không nói không thể hiểu người khác.\n\n【Chi tiết thêm】\nNếu passage trong HTML dài hơn, bám sát câu có「しばる」「枠」."
+    },
+    {
+      "question_id": 6,
+      "context": "はじめから相手に期待することをやめられば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます。人に期待してイライラしながら過ごすか、努力して期待することを手放し穏やかに生きるか、これはあなた自身のことなので、コントロールが可能です。「期待しない」 というとなんだかさみしいことをいっているように思う方もいるかもしれませんが、そうではありません。\n多くの場合、周囲の環境や人間というのは、 自分自身が変わることで面白いほど変化します。",
+      "question": "筆者の考えに合うのはどれか。",
+      "options": [
+        "自分が変われば、相手も期待どおりに変わってくれる。",
+        "自分をコントロールできれば、相手も変えられる。",
+        "穏やかな気持ちで接すれば、相手といい関係が築ける。",
+        "相手に期待しなければ、穏やかな気持ちでいられる。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 相手に期待しなければ、穏やかな気持ちでいられる。\n\n【Dịch câu hỏi】\nHỏi: Ý nào phù hợp với suy nghĩ của tác giả?\n\n【Dịch 4 đáp án】\n1. Nếu mình thay đổi thì đối phương cũng sẽ thay đổi đúng như mình kỳ vọng.\n2. Nếu kiểm soát được bản thân thì cũng có thể thay đổi đối phương.\n3. Nếu tiếp xúc với tâm thế bình thản thì có thể xây dựng quan hệ tốt với đối phương.\n4. Nếu không kỳ vọng vào đối phương thì có thể giữ được tâm thế bình thản.\n\n【Dịch bài đọc】\nNếu từ đầu bỏ việc kỳ vọng vào đối phương thì sẽ không sinh ra giận dữ hay bực bội, có thể sống với tâm thế bình thản. Sống trong bực mình vì kỳ vọng vào người khác, hay cố gắng buông bỏ kỳ vọng để sống bình thản — đó là chuyện của chính bạn nên có thể kiểm soát được. Nghe 「không kỳ vọng」 có thể thấy cô đơn, nhưng không phải vậy. Trong nhiều trường hợp, môi trường xung quanh và con người sẽ thay đổi một cách thú vị khi chính bản thân bạn thay đổi.\n\n【Keyword】\n期待することをやめる, 穏やかな気持ち, コントロールが可能, 自分が変わる\n\n【Câu chính / căn cứ】\n「はじめから相手に期待することをやめられば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます」\n\n【Cách giải nhanh】\nCâu mở đầu đã nêu kết luận trực tiếp: bỏ kỳ vọng → bình thản. Đáp án 4 lặp lại đúng ý đó.\n\n【Phân tích / loại đáp án】\n1: Sai — bài nói môi trường/người khác thay đổi khi MÌNH đổi, không hứa đối phương đổi 「đúng kỳ vọng」.\n2: Sai — kiểm soát được là việc của bản thân (kỳ vọng/cảm xúc), không nói kiểm soát được thì đổi được người khác.\n3: Sai — trọng tâm không phải 「xây quan hệ tốt」, mà là tâm thế bình thản khi không kỳ vọng.\n4: Đúng — khớp luận điểm mở đầu.\n\n【Chi tiết thêm】\nBẫy: câu cuối 「自分が変わることで…変化」 dễ kéo sang đáp án 1/2; đó là ý phụ, không phải kết luận chính về kỳ vọng."
+    }
+  ]
+}
