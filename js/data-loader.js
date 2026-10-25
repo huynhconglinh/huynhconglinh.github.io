@@ -1,5 +1,5 @@
 const DataLoader = (() => {
-  const DATA_VERSION = "20261024_02";
+  const DATA_VERSION = "20261025_01";
   let catalogCache = null;
   const examCache = new Map();
 

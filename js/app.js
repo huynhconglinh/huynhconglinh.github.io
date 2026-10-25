@@ -153,6 +153,7 @@
   }
 
   function isListeningQuestion(q) {
+    if (q && q.type && q.type !== "listening") return false;
     return Boolean(
       q &&
         (q.type === "listening" ||

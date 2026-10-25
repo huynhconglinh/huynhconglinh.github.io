@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T13:10:00Z",
+  "updatedAt": "2026-10-25T21:30:00+07:00",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -592,6 +592,17 @@
       "questionCount": 16,
       "file": "exams/N2/N2-29-RD13.json",
       "addedAt": "2026-10-21T20:11:04+07:00"
+    },
+    {
+      "id": "N2-29-LS04",
+      "code": "N2-29-LS04",
+      "title": "N2.29 · BTBT Nghe hiểu Bài 2 · Mondai 1 (21/10)",
+      "track": "N2.29",
+      "level": "N2",
+      "topic": "listening",
+      "questionCount": 14,
+      "file": "exams/N2/N2-29-LS04.json",
+      "addedAt": "2026-10-25T21:30:00+07:00"
     },
     {
       "id": "N2-29-GD3-01-RD",

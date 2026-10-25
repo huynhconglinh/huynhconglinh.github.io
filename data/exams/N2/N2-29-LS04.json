@@ -1,0 +1,482 @@
+{
+  "id": "N2-29-LS04",
+  "code": "N2-29-LS04",
+  "title": "N2.29 · BTBT Nghe hiểu Bài 2 · Mondai 1 (21/10)",
+  "track": "N2.29",
+  "level": "N2",
+  "topic": "listening",
+  "source": "riki/N2.29/N2.29_ BTBT_ Nghe hiểu Bài 2_ NH Mondai 1 (21_10).mhtml",
+  "questionCount": 14,
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "listening",
+      "label": "1番",
+      "question": "女の留学生は、新入生のオリエンテーションで、何の話を担当しますか？",
+      "context": "大学で、女の留学生と先生が話しています。",
+      "options": [
+        "サークル活動",
+        "アルバイトの選び方",
+        "勉強の工夫",
+        "就職のための準備"
+      ],
+      "correct_answer": 3,
+      "media": {
+        "audio": "media/N2-29-LS04/q01.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "大学で、女の留学生と先生が話しています。女の留学生は、新入生のオリエンテーションで、何の話を担当しますか？",
+          "vi": "Tại trường đại học, một nữ du học sinh và thầy giáo đang nói chuyện. Nữ du học sinh sẽ phụ trách nói về nội dung nào trong buổi định hướng cho tân sinh viên?"
+        },
+        {
+          "role": "female",
+          "jp": "先生、新入生のオリエンテーションの件で、話があるって聞きましたが。",
+          "vi": "Thưa thầy, em nghe bảo thầy có việc muốn trao đổi về buổi định hướng cho tân sinh viên ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "あ、ハンさん。そうなんですよ。ハンさん、新入生の時、先輩の留学生がオリエンテーションに何人か来て、自分の体験を話してくれたの覚えてる？",
+          "vi": "À, Hân đấy à. Đúng vậy đấy. Hân có nhớ hồi em mới vào trường, có mấy anh chị du học sinh khóa trên đến buổi định hướng và chia sẻ trải nghiệm của mình không?"
+        },
+        {
+          "role": "female",
+          "jp": "はい。先輩からサークルやアルバイトの話を聞いたの、覚えています。",
+          "vi": "Dạ có. Em nhớ là đã được nghe các anh chị kể về câu lạc bộ và việc làm thêm ạ."
+        },
+        {
+          "role": "male",
+          "jp": "そうですか。で、実はね、優秀な成績だということで、ハンさんの勉強の進め方や、その工夫などについて紹介してほしいんです。アルバイトやサークルで忙しい中でも、勉強を頑張っているみたいだし、新入生にも良い刺激になると思うから。",
+          "vi": "Thế à. Thực ra là vì em có thành tích học tập xuất sắc, nên thầy muốn em giới thiệu về phương pháp học cũng như những bí quyết/mẹo học tập của bản thân. Dù bận rộn với làm thêm và câu lạc bộ nhưng em vẫn học rất chăm chỉ, thầy nghĩ điều này sẽ là động lực rất tốt cho các bạn sinh viên mới."
+        },
+        {
+          "role": "female",
+          "jp": "わかりました。私でお役に立てるなら、引き受けさせてもらいますが。新入生って、サークルやアルバイト、それに就職に興味あるんじゃないかなと思いますけど。",
+          "vi": "Em hiểu rồi ạ. Nếu có thể giúp ích được thì em xin nhận lời ạ. Nhưng em nghĩ có khi các bạn tân sinh viên lại quan tâm đến câu lạc bộ, làm thêm và chuyện xin việc hơn ấy chứ ạ."
+        },
+        {
+          "role": "male",
+          "jp": "ええ。そのことについては、他の学生が担当してくれることになってるんです。",
+          "vi": "Ừ. Những chủ đề đó thì đã có các sinh viên khác đảm nhận rồi em ạ."
+        },
+        {
+          "role": "female",
+          "jp": "わかりました。あ、今度就職についてご相談したいことがあるんですが、よろしいですか。",
+          "vi": "Dạ em hiểu rồi ạ. À, sắp tới em có chuyện muốn xin thầy tư vấn về việc xin việc, có được không ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "もちろんですよ。",
+          "vi": "Tất nhiên là được chứ."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の留学生は、新入生のオリエンテーションで、何の話を担当しますか？",
+          "vi": "Nữ du học sinh sẽ phụ trách nói về nội dung nào trong buổi định hướng cho tân sinh viên?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 勉強の工夫 (Mẹo/phương pháp học tập)\n\n【Phân tích hội thoại】\n• Thầy giáo giải thích lý do nhờ Hân: Vì thành tích học tập xuất sắc nên muốn cô chia sẻ về cách học và bí quyết học tập: 「ハンさんの勉強の進め方や、その工夫などについて紹介してほしいんです」(Thầy muốn em giới thiệu cách học cũng như những mẹo học tập của bản thân).\n• Hân băn khoăn liệu tân sinh viên có quan tâm hơn đến CLB, làm thêm, hay xin việc không, nhưng thầy cho biết: 「そのことについては、他の学生が担当してくれることになってるんです」(Những việc đó đã có bạn khác phụ trách rồi).\n• Do đó, phần mà nữ du học sinh phụ trách nói là phương pháp học tập (勉強の工夫).\n\n【Loại trừ các phương án】\n• 1 (サークル活動), 2 (アルバイトの選び方), 4 (就職のための準備): Đều do các sinh viên khác đảm nhận."
+    },
+    {
+      "question_id": 2,
+      "type": "listening",
+      "label": "2番",
+      "question": "アルバイトの男の人は、まず、どんな作業をしますか？",
+      "context": "農家で、農家の女の人とアルバイトの男の人が話しています。",
+      "options": [
+        "ねぎを収穫する",
+        "雑草をとる",
+        "ほうれんそうの種をまく",
+        "土をたがやす"
+      ],
+      "correct_answer": 2,
+      "media": {
+        "audio": "media/N2-29-LS04/q02.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "農家で、農家の女の人とアルバイトの男の人が話しています。アルバイトの男の人は、まず、どんな作業をしますか？",
+          "vi": "Tại một gia đình nông dân, một người phụ nữ làm nông và một nam thanh niên làm thêm đang nói chuyện. Người nam làm thêm trước tiên sẽ làm công việc gì?"
+        },
+        {
+          "role": "female",
+          "jp": "中村君、今日からよろしくお願いします。農作業はしたことありますか？",
+          "vi": "Nakamura, từ hôm nay nhờ cậu nhé. Cậu đã từng làm công việc đồng áng bao giờ chưa?"
+        },
+        {
+          "role": "male",
+          "jp": "祖父が庭で野菜を作ってて、土を耕したり、種を蒔いたりするのは手伝ったことがあります。",
+          "vi": "Ông em có trồng rau ở vườn nên em từng phụ ông xới đất và gieo hạt rồi ạ."
+        },
+        {
+          "role": "female",
+          "jp": "じゃあ、全く初めてじゃないんですね。うちは色んな野菜を栽培してるんだけど、今の時期、ネギの収穫をやってるんです。",
+          "vi": "Thế thì không phải hoàn toàn mới tinh rồi. Nhà tôi trồng nhiều loại rau, nhưng tầm thời gian này thì đang thu hoạch hành lá."
+        },
+        {
+          "role": "male",
+          "jp": "はい。",
+          "vi": "Vâng ạ."
+        },
+        {
+          "role": "female",
+          "jp": "ネギの畑の雑草を抜く作業をやってもらえますか？収穫は明日機械でするんだけど、余計な草を抜いとかないと、途中で機械に絡まっちゃって、機械を止めないといけないんです。",
+          "vi": "Cậu nhổ cỏ dại ở ruộng hành giúp tôi được không? Việc thu hoạch thì ngày mai sẽ dùng máy gặt, nhưng nếu không nhổ cỏ dại trước thì cỏ sẽ quấn vào máy giữa chừng làm phải dừng máy lại."
+        },
+        {
+          "role": "male",
+          "jp": "そうなんですか。",
+          "vi": "Ra là vậy ạ."
+        },
+        {
+          "role": "female",
+          "jp": "大変だけど、大事な作業なんでお願いします。これが終わったら隣の畑にほうれん草の種を蒔くから、私と一緒にお願いできます？土を耕すのは済んでるから。",
+          "vi": "Khá vất vả nhưng là khâu rất quan trọng nên nhờ cậu nhé. Xong việc này thì tôi sẽ gieo hạt rau bina ở ruộng bên cạnh, cậu làm cùng tôi được không? Đất thì đã xới sẵn rồi."
+        },
+        {
+          "role": "male",
+          "jp": "わかりました。",
+          "vi": "Vâng, em hiểu rồi ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "アルバイトの男の人は、まず、どんな作業をしますか？",
+          "vi": "Người nam làm thêm trước tiên sẽ làm công việc gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. 雑草をとる (Nhổ cỏ dại)\n\n【Phân tích hội thoại】\n• Người phụ nữ phân công công việc đầu tiên: Nhổ sạch cỏ dại ở ruộng hành để ngày mai đưa máy vào thu hoạch không bị cỏ quấn: 「ネギの畑の雑草を抜く作業をやってもらえますか？... 収穫は明日機械でするんだけど...」.\n• Sau khi nhổ cỏ xong xuôi (これが終わったら), hai người mới cùng gieo hạt rau bina ở ruộng bên cạnh (ほうれん草の種を蒔く).\n• Do đó việc làm trước tiên (まず) là nhổ cỏ (雑草をとる / 抜く).\n\n【Loại trừ các phương án】\n• 1. ねぎを収穫する: Ngày mai mới thu hoạch bằng máy.\n• 3. ほうれんそうの種をまく: Làm sau khi nhổ cỏ xong.\n• 4. 土をたがやす: Đã xới xong từ trước rồi (土を耕すのは済んでるから)."
+    },
+    {
+      "question_id": 3,
+      "type": "listening",
+      "label": "3番",
+      "question": "男の学生は、これからまず何をしますか？",
+      "context": "男の学生と女の学生が話しています。",
+      "options": [
+        "ホームページから申し込む",
+        "ふりこみ先を確認する",
+        "銀行で受講料を支払う",
+        "クレジットカードを作る"
+      ],
+      "correct_answer": 2,
+      "media": {
+        "audio": "media/N2-29-LS04/q03.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "男の学生と女の学生が話しています。男の学生は、これからまず何をしますか？",
+          "vi": "Một nam sinh và một nữ sinh đang nói chuyện. Nam sinh từ bây giờ trước tiên sẽ làm gì?"
+        },
+        {
+          "role": "male",
+          "jp": "ビジネスの立ち上げ方のセミナーの申し込み、もうやった？",
+          "vi": "Cậu đã đăng ký buổi hội thảo về cách khởi nghiệp kinh doanh chưa?"
+        },
+        {
+          "role": "female",
+          "jp": "うん、ホームページから申し込みしたよ。",
+          "vi": "Ừ, tớ đăng ký qua trang chủ rồi."
+        },
+        {
+          "role": "male",
+          "jp": "そっか。僕も申し込みたいんだけど、受講料の支払いってクレジットカードが必要じゃない？まだクレジットカード持ってないから。",
+          "vi": "Thế à. Tớ cũng muốn đăng ký mà thanh toán học phí phải dùng thẻ tín dụng đúng không? Tớ vẫn chưa có thẻ tín dụng."
+        },
+        {
+          "role": "female",
+          "jp": "ホームページに振り込み先の銀行名と口座番号が書いてあるから、振り込みでも払えるよ。確認してみて。",
+          "vi": "Trên trang chủ có ghi tên ngân hàng và số tài khoản nhận tiền chuyển khoản đấy, chuyển khoản ngân hàng cũng thanh toán được mà. Cậu xem thử xem."
+        },
+        {
+          "role": "male",
+          "jp": "え、そうなんだ。知らなかった。もう一度ホームページ見てみる。",
+          "vi": "Ủa thế á? Tớ không biết đấy. Để tớ vào trang chủ xem lại."
+        },
+        {
+          "role": "female",
+          "jp": "支払いが済んだ用紙の写真を添付すれば、ホームページから申し込みできるって書いてあったよ。",
+          "vi": "Thấy có ghi là đính kèm ảnh chụp biên lai thanh toán là có thể đăng ký trên website đấy."
+        },
+        {
+          "role": "male",
+          "jp": "ありがとう。でもやっぱり、クレジットカードがないとこんな時本当不便だね。",
+          "vi": "Cảm ơn cậu nhé. Mà công nhận không có thẻ tín dụng những lúc thế này bất tiện thật."
+        },
+        {
+          "role": "female",
+          "jp": "そうだね。",
+          "vi": "Đúng thế thật."
+        },
+        {
+          "role": "male",
+          "jp": "今回のセミナーの申し込みにも間に合うかもしれないから、早速カード作ろうかな。",
+          "vi": "Có khi vẫn kịp cho đợt đăng ký hội thảo lần này, hay là tớ đi làm thẻ luôn nhỉ."
+        },
+        {
+          "role": "female",
+          "jp": "だけど、クレジットカードは自宅に届くまで2週間くらいはかかるかも。申し込み、今週いっぱいだよ。",
+          "vi": "Nhưng thẻ tín dụng gửi về tận nhà chắc phải mất tầm 2 tuần đấy. Hạn đăng ký hết tuần này là kết thúc rồi."
+        },
+        {
+          "role": "male",
+          "jp": "そっか。じゃあ今回は間に合わないし、また今度にしよう。",
+          "vi": "Vậy à. Thế thì đợt này không kịp rồi, để dịp khác làm vậy."
+        },
+        {
+          "role": "narrator",
+          "jp": "男の学生は、これからまず何をしますか？",
+          "vi": "Nam sinh từ bây giờ trước tiên sẽ làm gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. ふりこみ先を確認する (Kiểm tra thông tin/tài khoản chuyển khoản)\n\n【Phân tích hội thoại】\n• Nam sinh chưa có thẻ tín dụng nên tưởng không đăng ký được.\n• Nữ sinh chỉ cách: Trên website có ghi tên ngân hàng và số tài khoản để chuyển khoản: 「ホームページに振り込み先の銀行名と口座番号が書いてあるから、振り込みでも払えるよ。確認してみて」.\n• Nam sinh quyết định: 「もう一度ホームページ見てみる」(Để tớ vào trang web xem lại) → Hành động đầu tiên nam sinh làm là kiểm tra thông tin chuyển khoản (ふりこみ先を確認する).\n• Sau đó nam sinh định làm thẻ tín dụng nhưng vì mất 2 tuần không kịp hạn chót tuần này nên đã bỏ ý định làm thẻ dịp này: 「じゃあ今回は間に合わないし、また今度にしよう」.\n\n【Loại trừ các phương án】\n• 1. ホームページから申し込む: Phải có ảnh biên lai chuyển khoản mới đính kèm đăng ký được.\n• 3. 銀行で受講料を支払う: Phải xem thông tin tài khoản trước rồi mới ra ngân hàng nộp.\n• 4. クレジットカードを作る: Đã quyết định để dịp khác vì làm thẻ mất 2 tuần không kịp."
+    },
+    {
+      "question_id": 4,
+      "type": "listening",
+      "label": "4番",
+      "question": "女の人は、これから何を変更しますか？",
+      "context": "建築設計事務所で、女の人と課長が照明の設計について話しています。",
+      "options": [
+        "しょうめい器具の位置",
+        "しょうめい器具のそざい",
+        "しょうめいの光の強さ",
+        "しょうめいの明かりの色"
+      ],
+      "correct_answer": 2,
+      "media": {
+        "audio": "media/N2-29-LS04/q04.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "建築設計事務所で、女の人と課長が照明の設計について話しています。女の人は、これから何を変更しますか？",
+          "vi": "Tại văn phòng thiết kế kiến trúc, một phụ nữ và trưởng phòng đang trao đổi về thiết kế chiếu sáng. Người phụ nữ từ bây giờ sẽ thay đổi điều gì?"
+        },
+        {
+          "role": "female",
+          "jp": "課長、カフェ北山に提案する照明デザインなんですけど、案を見ていただけましたか？",
+          "vi": "Thưa Trưởng phòng, về bản thiết kế chiếu sáng đề xuất cho quán cà phê Kitayama, anh đã xem qua bản thảo chưa ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "うん、見たよ。この資料だよね。前回見せてもらったときは天井に大型の照明を一つ取り付けるってことだったけど、今回の案では天井から小さめの照明をいくつも並べてぶら下げることにしたんだね。",
+          "vi": "Ừ, tôi xem rồi. Là tập tài liệu này đúng không? Lần trước xem thì là gắn một bộ đèn chiếu sáng lớn ở trần nhà, nhưng phương án lần này cô đổi sang treo thả nhiều chiếc đèn nhỏ từ trần xuống nhỉ."
+        },
+        {
+          "role": "female",
+          "jp": "はい。",
+          "vi": "Vâng ạ."
+        },
+        {
+          "role": "male",
+          "jp": "面白いと思うよ。天井からぶら下げる高さもよく考えてあるね。",
+          "vi": "Tôi thấy rất thú vị. Độ cao thả từ trần nhà xuống cô cũng tính toán rất kỹ đấy."
+        },
+        {
+          "role": "female",
+          "jp": "ありがとうございます。あの、照明器具の素材はガラス製のものにしたんですが、どうですか？",
+          "vi": "Em cảm ơn anh ạ. À, chất liệu của thiết bị đèn thì em chọn loại bằng thủy tinh, anh thấy thế nào ạ?"
+        },
+        {
+          "role": "male",
+          "jp": "ガラスも悪くはないと思うけど、店の雰囲気から考えると、和紙なんかも合うね。",
+          "vi": "Thủy tinh cũng không tồi, nhưng xét theo phong cách và bầu không khí của quán thì chất liệu giấy Nhật (washi) có khi cũng rất hợp đấy."
+        },
+        {
+          "role": "female",
+          "jp": "あ、考えていませんでした。そうですね、そうしてみます。",
+          "vi": "A, em chưa nghĩ tới điểm đó. Đúng vậy ạ, em sẽ thử làm theo cách đó xem sao."
+        },
+        {
+          "role": "male",
+          "jp": "光の強さについては、リラックスする空間にふさわしく抑えてあるね。明かりの色は白すぎず、温かみのある色になってるから、案の通りで。",
+          "vi": "Còn cường độ ánh sáng thì đã được tiết chế dịu lại rất phù hợp với không gian thư giãn rồi. Màu ánh sáng cũng không bị quá trắng mà có gam màu ấm áp, nên cứ giữ đúng như bản thảo nhé."
+        },
+        {
+          "role": "female",
+          "jp": "はい、わかりました。",
+          "vi": "Vâng, em hiểu rồi ạ."
+        },
+        {
+          "role": "narrator",
+          "jp": "女の人は、これから何を変更しますか？",
+          "vi": "Người phụ nữ từ bây giờ sẽ thay đổi điều gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 2. しょうめい器具のそざい (Chất liệu của thiết bị chiếu sáng)\n\n【Phân tích hội thoại】\n• Khi người nữ hỏi ý kiến về chất liệu chao đèn bằng thủy tinh: 「照明器具の素材はガラス製のものにしたんですが、どうですか？」,\n• Trưởng phòng gợi ý nên dùng chất liệu giấy truyền thống Nhật Bản (washi) cho hợp không gian quán: 「店の雰囲気から考えると、和紙なんかも合うね」.\n• Người nữ đồng ý sửa đổi: 「そうですね、そうしてみます」(Vâng, em sẽ làm như thế ạ) → Hạng mục cần thay đổi là chất liệu (素材 / そざい).\n\n【Loại trừ các phương án】\n• 1. しょうめい器具の位置: Độ cao treo thả đã được khen là tính toán tốt (よく考えてあるね).\n• 3. しょうめいの光の強さ: Cường độ ánh sáng dịu nhẹ đã chuẩn (抑えてあるね).\n• 4. しょうめいの明かりの色: Màu sắc ấm áp chuẩn, duyệt theo bản thảo (案の通りで)."
+    },
+    {
+      "question_id": 5,
+      "type": "listening",
+      "label": "5番",
+      "question": "部下の社員は、今日この後何をしますか？",
+      "context": "説明会の会場で課長が部下の社員に話しています。",
+      "options": [
+        "机といすをならべる",
+        "パソコンを設置する",
+        "机に封筒を置く",
+        "来場者の案内をする"
+      ],
+      "correct_answer": 3,
+      "media": {
+        "audio": "media/N2-29-LS04/q05.mp3"
+      },
+      "dialogue": [
+        {
+          "role": "narrator",
+          "jp": "説明会の会場で課長が部下の社員に話しています。部下の社員は、今日この後何をしますか？",
+          "vi": "Tại hội trường buổi thuyết minh, trưởng phòng đang nói chuyện với các nhân viên cấp dưới. Các nhân viên cấp dưới hôm nay sau đây sẽ làm gì?"
+        },
+        {
+          "role": "female",
+          "jp": "皆さん、暑い中、明日の新商品説明会の準備をありがとうございます。おかげさまで、机、椅子は準備が整い、パソコンやスクリーンの設置は当日行いますので、パンフレットが入った封筒を各机に置いて準備は完了となります。今回の説明会は規模がかなり大きいので、当日は来場者の案内もよろしくお願いします。",
+          "vi": "Cảm ơn mọi người trong lúc trời nóng bức đã chuẩn bị cho buổi thuyết minh sản phẩm mới vào ngày mai. Nhờ mọi người mà bàn và ghế đã chuẩn bị xong xuôi, còn việc lắp đặt máy tính và màn chiếu thì sáng mai vào ngày diễn ra sự kiện mới làm, vì vậy chỉ cần đặt các phong bì chứa tờ rơi quảng cáo lên từng bàn nữa là hoàn tất công tác chuẩn bị. Buổi thuyết minh lần này quy mô khá lớn, nên ngày mai việc đón tiếp và hướng dẫn khách tham dự cũng nhờ cậy mọi người nhé."
+        },
+        {
+          "role": "narrator",
+          "jp": "部下の社員は、今日この後何をしますか？",
+          "vi": "Các nhân viên cấp dưới hôm nay sau đây sẽ làm gì?"
+        }
+      ],
+      "explanation": "Đáp án đúng: 3. 机に封筒を置く (Đặt phong bì lên các bàn)\n\n【Phân tích hội thoại】\n• Trưởng phòng thông báo tình hình chuẩn bị cho sự kiện ngày mai:\n  - Bàn ghế (机、椅子): Đã chuẩn bị xong rồi (準備が整い).\n  - Lắp đặt máy tính và màn chiếu (パソコンやスクリーン): Ngày mai diễn ra sự kiện mới lắp (当日行います).\n  - Hướng dẫn khách (来場者の案内): Ngày mai diễn ra sự kiện mới thực hiện (当日は来場者の案内も...).\n  - Công việc duy nhất cần làm ngay hôm nay để hoàn tất khâu chuẩn bị: Đặt phong bì chứa tài liệu/tờ rơi lên từng bàn: 「パンフレットが入った封筒を各机に置いて準備は完了となります」.\n→ Vì vậy hôm nay sau đây (今日この後) các nhân viên sẽ đặt phong bì lên bàn (机に封筒を置く)."
+    },
+    {
+      "question_id": 6,
+      "type": "vocabulary",
+      "label": "01.",
+      "question": "彼は兄に対抗（　　　）を持っているようだ。",
+      "context": "",
+      "options": [
+        "心",
+        "欲",
+        "願",
+        "熱"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1. 心 (対抗心)\n\n【Giải thích chi tiết】\n• Cụm từ cố định: 対抗心（たいこうしん）: Tinh thần ganh đua, tâm lý muốn cạnh tranh/không chịu thua kém người khác.\n• Cụm hay dùng: 「対抗心を持つ / 対抗心を燃やす」 (Mang tâm lý đối đầu/tranh đua).\n• Các phương án khác:\n  - 2. 欲: Thường ghép như 「独占欲」(lòng muốn độc chiếm), 「金銭欲」(ham muốn tiền bạc), không nói 「対抗欲」.\n  - 3. 願: Không tồn tại từ 「対抗願」.\n  - 4. 熱: Thường ghép như 「教育熱」(lòng nhiệt tình với giáo dục), không ghép 「対抗熱」.\n\n【Dịch câu】\nAnh ấy có vẻ mang tâm lý ganh đua, đối đầu với anh trai mình."
+    },
+    {
+      "question_id": 7,
+      "type": "vocabulary",
+      "label": "02.",
+      "question": "引っ越しのための（　　　）手続きをしなければならない。",
+      "context": "",
+      "options": [
+        "総",
+        "複",
+        "多",
+        "諸"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4. 諸 (諸手続き)\n\n【Giải thích chi tiết】\n• Tiền tố: 諸〜（しょ〜）: Mang nghĩa 'nhiều, các loại, mọi...', dùng ghép trước danh từ chỉ tập hợp các sự vật/thủ tục.\n• Cụm từ thông dụng: 諸手続き（しょてつづき）: Các loại thủ tục, nhiều thủ tục khác nhau.\n• Các từ cùng loại: 諸問題（các vấn đề）, 諸費用（các chi phí）, 諸事情（nhiều lý do/hoàn cảnh）.\n• Các phương án khác:\n  - 1. 総: Tổng cộng, tổng thể (như 総人口, 総費用), không ghép 「総手続き」.\n  - 2. 複: Phức tạp, nhiều tầng (như 複合, 複数), không đứng trước thủ tục kiểu này.\n  - 3. 多: Nhiều về lượng (như 多目的, 多国籍), không ghép 「多手続き」.\n\n【Dịch câu】\nTôi phải tiến hành các loại thủ tục để chuyển nhà."
+    },
+    {
+      "question_id": 8,
+      "type": "vocabulary",
+      "label": "03.",
+      "question": "買い物をしている二人（　　　）にインタビューをしました。",
+      "context": "",
+      "options": [
+        "出かけ",
+        "連れ",
+        "会い",
+        "集まり"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2. 連れ (二人連れ)\n\n【Giải thích chi tiết】\n• Hậu tố: 〜連れ（〜づれ）: Nhóm người cùng đi với nhau.\n• Cụm từ: 二人連れ（ふたりづれ）: Nhóm hai người đi cùng nhau (hai người bạn, cặp đôi, v.v.).\n• Tương tự: 親子連れ（bố mẹ dắt theo con cái）, 家族連れ（cả gia đình cùng đi）, 三人連れ (nhóm 3 người đi cùng).\n• Các phương án khác:\n  - 1. 出かけ: Đi ra ngoài (お出かけ), không ghép sau số người để chỉ nhóm đi cùng.\n  - 3. 会い / 4. 集まり: Không kết hợp kiểu 「二人会い」「二人集まり」.\n\n【Dịch câu】\nChúng tôi đã phỏng vấn một nhóm hai người đang đi mua sắm cùng nhau."
+    },
+    {
+      "question_id": 9,
+      "type": "vocabulary",
+      "label": "04.",
+      "question": "アンケートでは、質問に（　　　）回答の人もいた。",
+      "context": "",
+      "options": [
+        "無",
+        "空",
+        "欠",
+        "失"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1. 無 (無回答)\n\n【Giải thích chi tiết】\n• Tiền tố: 無〜（む〜）: Không có, không làm.\n• Cụm từ: 無回答（むかいとう）: Không trả lời, bỏ trống câu trả lời (thuật ngữ khảo sát/phiếu thăm dò).\n• Tương tự: 無関心（không quan tâm）, 無責任（vô trách nhiệm）, 無意味（vô nghĩa）.\n• Các phương án khác:\n  - 2. 空: Thường chỉ rỗng, trống (như 空白), không ghép 「空回答」.\n  - 3. 欠: Thiếu hụt (như 欠席, 欠陥), không ghép 「欠回答」.\n  - 4. 失: Mất mát (như 失望, 失業), không ghép 「失回答」.\n\n【Dịch câu】\nTrong cuộc khảo sát, cũng có những người không đưa ra câu trả lời cho câu hỏi."
+    },
+    {
+      "question_id": 10,
+      "type": "vocabulary",
+      "label": "05.",
+      "question": "この本には海外にある日本（　　　）の家がたくさん載っている。",
+      "context": "",
+      "options": [
+        "気",
+        "類",
+        "風",
+        "状"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3. 風 (日本風)\n\n【Giải thích chi tiết】\n• Hậu tố: 〜風（〜ふう）: Mang phong cách, kiểu cách như...\n• Cụm từ: 日本風（にほんふう）= 和風（わふう）: Phong cách kiểu Nhật Bản.\n• Tương tự: 西洋風（phong cách phương Tây）, 中華風（phong cách Trung Hoa）, 現代風 (phong cách hiện đại).\n• Các phương án khác:\n  - 1. 気: Khí chất, hơi hướng (thường ghép dạng tính từ như 男気, 寒気), không dùng chỉ phong cách kiến trúc nhà.\n  - 2. 類: Chủng loại (như 魚類, 鳥類), không dùng 「日本類」.\n  - 4. 状: Hình trạng, trạng thái (như 帯状, 網状), không dùng cho phong cách nhà.\n\n【Dịch câu】\nCuốn sách này đăng tải rất nhiều ngôi nhà mang phong cách kiểu Nhật ở nước ngoài."
+    },
+    {
+      "question_id": 11,
+      "type": "vocabulary",
+      "label": "06.",
+      "question": "壁（　　　）のソファーに座る。",
+      "context": "",
+      "options": [
+        "所",
+        "際",
+        "辺",
+        "域"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2. 際 (壁際)\n\n【Giải thích chi tiết】\n• Hậu tố: 〜際（〜ぎわ）: Mép, rìa, vị trí sát cạnh một vật nào đó.\n• Cụm từ: 壁際（かべぎわ）: Chỗ sát vách tường, góc tường.\n• Tương tự: 窓際（chỗ sát cửa sổ）, 水際（mép nước, bờ nước）, 崖際 (mép vực).\n• Các phương án khác:\n  - 1. 所: Chỗ, nơi; không ghép 「壁所」.\n  - 3. 辺: Vùng, xung quanh (như この辺, 身の辺り), không có từ ghép cố định 「壁辺」.\n  - 4. 域: Khu vực (như 地域, 領域), không ghép 「壁域」.\n\n【Dịch câu】\nNgồi xuống chiếc ghế sofa kê sát tường."
+    },
+    {
+      "question_id": 12,
+      "type": "vocabulary",
+      "label": "07.",
+      "question": "（　　　）制度には、大きな問題があります。",
+      "context": "",
+      "options": [
+        "近",
+        "在",
+        "常",
+        "現"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4. 現 (現制度)\n\n【Giải thích chi tiết】\n• Tiền tố: 現〜（げん〜）: Hiện tại, hiện nay, hiện hành.\n• Cụm từ: 現制度（げんせいど）= 現行の制度: Chế độ hiện hành, hệ thống chính sách hiện tại.\n• Tương tự: 現段階（giai đoạn hiện tại）, 現政権（chính quyền hiện nay）, 現住所 (địa chỉ hiện tại).\n• Các phương án khác:\n  - 1. 近: Gần (như 近年, 近所), không ghép 「近制度」.\n  - 2. 在: Đang tại vị, tồn tại (như 在職, 在学), không ghép trực tiếp trước 「制度」.\n  - 3. 常: Thường lệ, bình thường (như 常識, 常時), không dùng chỉ chế độ hiện tại.\n\n【Dịch câu】\nChế độ/hệ thống hiện hành đang tồn tại một vấn đề rất lớn."
+    },
+    {
+      "question_id": 13,
+      "type": "vocabulary",
+      "label": "08.",
+      "question": "伯父は、電車の中で財布を盗まれてから用心（　　　）なった。",
+      "context": "",
+      "options": [
+        "濃く",
+        "強く",
+        "深く",
+        "高く"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3. 深く (用心深い → 用心深くなった)\n\n【Giải thích chi tiết】\n• Tính từ đuôi い: 用心深い（ようじんぶかい）: Cực kỳ cẩn trọng, cảnh giác cao độ.\n• Biến đổi với なる: 用心深く + なる = trở nên cảnh giác, cẩn trọng hơn.\n• Tương tự với đuôi 〜深い: 疑い深い（đa nghi）, 欲深い（tham lam）, 情け深い（giàu lòng trắc ẩn）.\n• Các phương án khác:\n  - 1. 濃く / 2. 強く / 4. 高く: Không kết hợp với 「用心」 tạo thành từ chuẩn.\n\n【Dịch câu】\nBác tôi kể từ sau khi bị móc trộm ví trên tàu điện thì đã trở nên cảnh giác, cẩn thận hơn rất nhiều."
+    },
+    {
+      "question_id": 14,
+      "type": "vocabulary",
+      "label": "09.",
+      "question": "このアンケートでは、（　　　）団体の活動についてお尋ねします。",
+      "context": "",
+      "options": [
+        "貴",
+        "尊",
+        "敬",
+        "偉"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1. 貴 (貴団体)\n\n【Giải thích chi tiết】\n• Tiền tố kính ngữ: 貴〜（き〜）: Dùng để gọi cơ quan, tổ chức, trường học, cá nhân của đối phương một cách tôn kính trang trọng.\n• Cụm từ: 貴団体（きだんたい）: Quý đoàn thể, quý tổ chức của quý vị.\n• Tương tự: 貴社（quý công ty）, 貴校（quý trường）, 貴院（quý bệnh viện/viện）, 貴殿（quý ngài）.\n• Các phương án khác:\n  - 2. 尊: Tôn kính, quý giá (như 尊重, 尊厳), không dùng làm tiền tố xưng hô tổ chức đối tác.\n  - 3. 敬: Kính trọng (như 敬老, 敬意), không ghép trước danh từ tổ chức.\n  - 4. 偉: Vĩ đại, to lớn (như 偉大, 偉人), không dùng làm kính xưng.\n\n【Dịch câu】\nTrong phiếu khảo sát này, chúng tôi xin phép được hỏi về các hoạt động của quý tổ chức/đoàn thể."
+    }
+  ]
+}
