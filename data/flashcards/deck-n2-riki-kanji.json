@@ -874,10 +874,10 @@
     {
       "id": "k_88",
       "term": "衣",
-      "reading": "ころも／",
-      "meaning": "",
+      "reading": "ころも / きぬ / い",
+      "meaning": "lớp vỏ bọc đồ ăn / quần áo (y phục)",
       "hanviet": "",
-      "example": "きぬ lớp vỏ bọc bên ngoài của đồ ăn/ quần áo 衣装を整えて出かけましょう。",
+      "example": "衣装を整えて出かけましょう。",
       "exampleVi": "Hãy chỉnh trang quần áo và ra ngoài.",
       "frequency": 1
     },
@@ -1005,10 +1005,10 @@
       "id": "k_101",
       "term": "短編",
       "reading": "たんぺん",
-      "meaning": "",
+      "meaning": "(truyện) ngắn",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "truyện",
+      "example": "短編映画を見ました。",
+      "exampleVi": "Tôi đã xem một bộ phim ngắn.",
       "frequency": 1
     },
     {
@@ -1275,10 +1275,10 @@
       "id": "k_128",
       "term": "絞る",
       "reading": "しぼる",
-      "meaning": "thu hẹp",
+      "meaning": "thu hẹp (chủ đề)",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "chủ đề",
+      "example": "布を絞って水を出した。",
+      "exampleVi": "Tôi vắt vải để lấy nước。",
       "frequency": 1
     },
     {
@@ -1465,10 +1465,10 @@
       "id": "k_147",
       "term": "潰す",
       "reading": "つぶす",
-      "meaning": "giết",
+      "meaning": "giết (thời gian)",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "thời gian",
+      "example": "虫に踏まれて潰れた花。",
+      "exampleVi": "Bông hoa bị giẫm nát bởi côn trùng。",
       "frequency": 1
     },
     {
@@ -1565,10 +1565,10 @@
       "id": "k_157",
       "term": "昇る",
       "reading": "のぼる",
-      "meaning": "",
+      "meaning": "(mặt trời) mọc",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "mặt trời",
+      "example": "太陽が空高く昇った。",
+      "exampleVi": "Mặt trời lên cao trên bầu trời。",
       "frequency": 1
     },
     {
@@ -1685,10 +1685,10 @@
       "id": "k_169",
       "term": "散る",
       "reading": "ちる",
-      "meaning": "rơi, rụng",
+      "meaning": "rơi, rụng (cánh hoa)",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "cánh hoa",
+      "example": "桜の花びらが散っていく。",
+      "exampleVi": "Cánh hoa anh đào đang rơi rụng。",
       "frequency": 1
     },
     {
@@ -1835,10 +1835,10 @@
       "id": "k_184",
       "term": "荒い",
       "reading": "あらい",
-      "meaning": "",
+      "meaning": "(thở) gấp",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "thở",
+      "example": "彼の言葉は荒い。",
+      "exampleVi": "Lời nói của anh ấy thật thô lỗ.",
       "frequency": 1
     },
     {

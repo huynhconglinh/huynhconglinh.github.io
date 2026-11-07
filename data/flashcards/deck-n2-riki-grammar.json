@@ -105,20 +105,20 @@
       "id": "np_11",
       "term": "につき",
       "reading": "につき",
-      "meaning": "Vì ~ / Do ~",
+      "meaning": "Vì ~ / Do ~ (nguyên nhân, lý do – trang trọng)",
       "formation": "",
-      "example": "",
-      "exampleVi": "nguyên nhân, lý do – trang trọng",
+      "example": "工事中につき、通行止めです。",
+      "exampleVi": "Do đang thi công, nên cấm đi lại.",
       "frequency": 3
     },
     {
       "id": "np_12",
       "term": "を込めて",
       "reading": "を込めて",
-      "meaning": "Dồn",
+      "meaning": "Dồn (tình cảm, ý chí, suy nghĩ, sức lực, …) vào việc gì đó",
       "formation": "",
-      "example": "",
-      "exampleVi": "tình cảm, ý chí, suy nghĩ, sức lực, …",
+      "example": "感謝の気持ちを込めて、この手紙を書きました。",
+      "exampleVi": "Tôi viết lá thư này với tất cả lòng biết ơn.",
       "frequency": 3
     },
     {
@@ -135,10 +135,10 @@
       "id": "np_14",
       "term": "にわたり",
       "reading": "にわたり",
-      "meaning": "Suốt",
+      "meaning": "Suốt (thời gian)/Khắp (không gian)",
       "formation": "",
-      "example": "",
-      "exampleVi": "thời gian",
+      "example": "台風の影響で一週間にわたり雨が続いた。",
+      "exampleVi": "Do bão, trời mưa suốt một tuần.",
       "frequency": 2
     },
     {
@@ -205,10 +205,10 @@
       "id": "np_21",
       "term": "ったきり",
       "reading": "ったきり",
-      "meaning": "Suốt từ khi…",
+      "meaning": "Suốt từ khi… (mà không thay đổi) / Kể từ khi… (thì không…)",
       "formation": "",
-      "example": "",
-      "exampleVi": "mà không thay đổi",
+      "example": "彼は家を出たきり、帰ってこない。",
+      "exampleVi": "Anh ấy rời khỏi nhà từ đó đến giờ vẫn chưa về.",
       "frequency": 2
     },
     {
@@ -275,10 +275,10 @@
       "id": "np_28",
       "term": "～きりだ",
       "reading": "～きりだ",
-      "meaning": "Chỉ có... mà thôi”, “chỉ...",
+      "meaning": "Chỉ có... mà thôi”, “chỉ... (và không hơn nữa)",
       "formation": "",
-      "example": "",
-      "exampleVi": "và không hơn nữa",
+      "example": "彼に会ったのは一度きりだ。",
+      "exampleVi": "Tôi chỉ gặp anh ấy đúng một lần mà thôi.",
       "frequency": 2
     },
     {
@@ -295,10 +295,10 @@
       "id": "np_30",
       "term": "ことから",
       "reading": "ことから",
-      "meaning": "Do",
+      "meaning": "Do (từ thực tế)",
       "formation": "",
-      "example": "",
-      "exampleVi": "từ thực tế",
+      "example": "声が大きいことから、彼は元気な人だと分かる。",
+      "exampleVi": "Từ việc giọng nói to có thể biết rằng anh ấy là người năng động.",
       "frequency": 2
     },
     {
@@ -385,10 +385,10 @@
       "id": "np_39",
       "term": "にあたって",
       "reading": "にあたって",
-      "meaning": "Nhân dịp… / Khi… / Vào lúc",
+      "meaning": "Nhân dịp… / Khi… / Vào lúc (quan trọng, đặc biệt)…",
       "formation": "",
-      "example": "",
-      "exampleVi": "quan trọng, đặc biệt",
+      "example": "開会にあたって、一言ご挨拶申し上げます。",
+      "exampleVi": "Nhân dịp khai mạc, tôi xin có đôi lời chào mừng.",
       "frequency": 2
     },
     {
@@ -465,10 +465,10 @@
       "id": "np_47",
       "term": "によらず",
       "reading": "によらず",
-      "meaning": "1/ Vì...nên...",
+      "meaning": "1/ Vì...nên... (kết quả xấu) 2/ Tùy vào...mà khác nhau 3/ Bởi ai đó... 4/ Thông qua, bằng cách....",
       "formation": "",
-      "example": "",
-      "exampleVi": "kết quả xấu",
+      "example": "経験の有無によらず、応募できます。",
+      "exampleVi": "Bất kể có kinh nghiệm hay không đều có thể ứng tuyển.",
       "frequency": 1
     },
     {
@@ -535,10 +535,10 @@
       "id": "np_54",
       "term": "に限る",
       "reading": "に限る",
-      "meaning": "Là tốt nhất..., Chỉ/Chỉ riêng...., Chỉ đúng vào/Chỉ riêng",
+      "meaning": "Là tốt nhất..., Chỉ/Chỉ riêng...., Chỉ đúng vào/Chỉ riêng (ai đó)",
       "formation": "",
-      "example": "",
-      "exampleVi": "ai đó",
+      "example": "疲れたときは、温泉に入るに限る。",
+      "exampleVi": "Khi mệt mỏi thì ngâm suối nước nóng là nhất.",
       "frequency": 1
     },
     {
@@ -655,10 +655,10 @@
       "id": "np_66",
       "term": "以上",
       "reading": "以上",
-      "meaning": "Một khi đã",
+      "meaning": "Một khi đã (thì)",
       "formation": "",
-      "example": "",
-      "exampleVi": "thì",
+      "example": "約束した以上、守らなければならない。",
+      "exampleVi": "Một khi đã hứa thì phải giữ lời.",
       "frequency": 1
     },
     {
@@ -705,10 +705,10 @@
       "id": "np_71",
       "term": "にわたって",
       "reading": "にわたって",
-      "meaning": "Suốt",
+      "meaning": "Suốt (thời gian)/Khắp (không gian)",
       "formation": "",
-      "example": "",
-      "exampleVi": "thời gian",
+      "example": "この祭りは3日間にわたって行われる。",
+      "exampleVi": "Lễ hội này được tổ chức suốt 3 ngày.",
       "frequency": 1
     },
     {
@@ -745,10 +745,10 @@
       "id": "np_75",
       "term": "ぶりに",
       "reading": "ぶりに",
-      "meaning": "Sau …",
+      "meaning": "Sau … (một khoảng thời gian)",
       "formation": "",
-      "example": "",
-      "exampleVi": "một khoảng thời gian",
+      "example": "彼に会うのは5年ぶりだ。",
+      "exampleVi": "Đã 5 năm rồi mới gặp lại anh ấy.",
       "frequency": 1
     },
     {
