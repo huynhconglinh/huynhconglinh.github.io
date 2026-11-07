@@ -2,6 +2,33 @@
   "version": 1,
   "decks": [
     {
+      "id": "n2-riki-vocab",
+      "title": "740 Từ vựng N2 Đề thi thật (2010–2024)",
+      "type": "vocabulary",
+      "level": "N2",
+      "description": "740 từ vựng N2 đề thi thật: 294 danh từ, 203 động từ, 45 tính từ, 79 phó từ, 49 katakana, 17 tiền tố, 44 hậu tố.",
+      "cardCount": 740,
+      "file": "flashcards/deck-n2-riki-vocab.json"
+    },
+    {
+      "id": "n2-riki-grammar",
+      "title": "92 Ngữ pháp N2 Đề thi thật (2010–2024)",
+      "type": "grammar",
+      "level": "N2",
+      "description": "92 cấu trúc ngữ pháp N2 hay thi nhất xếp theo tần suất từ 5 lần xuống 1 lần (末に, べきだ, かねる...).",
+      "cardCount": 92,
+      "file": "flashcards/deck-n2-riki-grammar.json"
+    },
+    {
+      "id": "n2-riki-kanji",
+      "title": "212 Hán tự N2 Xuất hiện trong Đề thi thật (2010–2024)",
+      "type": "kanji",
+      "level": "N2",
+      "description": "Tổng hợp 212 chữ Kanji/từ Hán tự đã xuất hiện trong đề thi JLPT N2 thật (103 Danh từ, 68 Động từ, 37 Tính từ, 4 Phó từ).",
+      "cardCount": 212,
+      "file": "flashcards/deck-n2-riki-kanji.json"
+    },
+    {
       "id": "n2-kanji-mazii",
       "title": "394 Hán tự N2 Trọng điểm (Mazii)",
       "type": "kanji",

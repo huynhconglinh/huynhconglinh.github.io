@@ -1,0 +1,7405 @@
+{
+  "id": "n2-riki-vocab",
+  "cards": [
+    {
+      "id": "v_1",
+      "term": "用具",
+      "reading": "ようぐ",
+      "meaning": "dụng cụ",
+      "hanviet": "",
+      "example": "料理にはいろいろな用具が必要です。",
+      "exampleVi": "Nấu ăn cần nhiều loại dụng cụ khác nhau.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_2",
+      "term": "用心",
+      "reading": "ようじん",
+      "meaning": "cẩn thận. chú ý ＝",
+      "hanviet": "",
+      "example": "注意 夜道を歩くときは用心してください。",
+      "exampleVi": "Hãy cẩn thận khi đi bộ vào ban đêm.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_3",
+      "term": "解約",
+      "reading": "かいやく",
+      "meaning": "chấm dứt hợp đồng",
+      "hanviet": "",
+      "example": "引っ越しのために電気の契約を解約した。",
+      "exampleVi": "Tôi đã hủy hợp đồng điện vì chuyển nhà.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_4",
+      "term": "油断",
+      "reading": "ゆだん",
+      "meaning": "chủ quan. lơ là",
+      "hanviet": "",
+      "example": "テストの直前に油断してしまった。",
+      "exampleVi": "Ngay trước kỳ thi tôi đã lơ là.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_5",
+      "term": "容姿",
+      "reading": "ようし",
+      "meaning": "vẻ bề ngoài",
+      "hanviet": "",
+      "example": "彼女は容姿も性格も素晴らしい。",
+      "exampleVi": "Cô ấy vừa có ngoại hình vừa có tính cách tuyệt vời.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_6",
+      "term": "原稿",
+      "reading": "げんこう",
+      "meaning": "bản thảo",
+      "hanviet": "",
+      "example": "先生に原稿のチェックをお願いした。",
+      "exampleVi": "Tôi đã nhờ thầy giáo kiểm tra bản thảo.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_7",
+      "term": "収納",
+      "reading": "しゅうのう",
+      "meaning": "thu dọn. cất",
+      "hanviet": "",
+      "example": "この棚は収納がたくさんあって便利です。",
+      "exampleVi": "Chiếc kệ này có nhiều ngăn chứa nên rất tiện lợi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_8",
+      "term": "批判",
+      "reading": "ひはん",
+      "meaning": "phê phán. đánh giá",
+      "hanviet": "",
+      "example": "彼の行動は多くの人から批判された。",
+      "exampleVi": "Hành động của anh ấy bị nhiều người chỉ trích.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_9",
+      "term": "対比",
+      "reading": "たいひ",
+      "meaning": "so sánh. đối chiếu ２",
+      "hanviet": "",
+      "example": "つの作品を対比して評価する。",
+      "exampleVi": "Đánh giá bằng cách so sánh hai tác phẩm.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_10",
+      "term": "引退",
+      "reading": "いんたい",
+      "meaning": "giải nghệ",
+      "hanviet": "",
+      "example": "その選手は今シーズンで引退する予定だ。",
+      "exampleVi": "Cầu thủ đó dự định giải nghệ trong mùa giải này.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_11",
+      "term": "疑問",
+      "reading": "ぎもん",
+      "meaning": "nghi vấn",
+      "hanviet": "",
+      "example": "その説明にはいくつかの疑問が残った。",
+      "exampleVi": "Vẫn còn vài điều nghi vấn trong lời giải thích đó.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_12",
+      "term": "事業",
+      "reading": "じぎょう",
+      "meaning": "sự việc",
+      "hanviet": "",
+      "example": "新しい事業が来月から始まる。",
+      "exampleVi": "Dự án mới sẽ bắt đầu từ tháng sau.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_13",
+      "term": "誤解",
+      "reading": "ごかい",
+      "meaning": "hiểu lầm",
+      "hanviet": "",
+      "example": "彼の言葉を誤解してしまった。",
+      "exampleVi": "Tôi đã hiểu nhầm lời của anh ấy.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_14",
+      "term": "反省",
+      "reading": "はんせい",
+      "meaning": "tự kiểm điểm",
+      "hanviet": "",
+      "example": "自分の行動を反省しています。",
+      "exampleVi": "Tôi đang tự kiểm điểm hành động của bản thân.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_15",
+      "term": "記憶",
+      "reading": "きおく",
+      "meaning": "nhớ. kí ức",
+      "hanviet": "",
+      "example": "その日のことは今でも記憶に残っている。",
+      "exampleVi": "Tôi vẫn còn nhớ rõ chuyện ngày hôm đó.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_16",
+      "term": "不平",
+      "reading": "ふへい",
+      "meaning": "phàn nàn",
+      "hanviet": "",
+      "example": "彼はいつも不平ばかり言っている。",
+      "exampleVi": "Anh ta lúc nào cũng than phiền.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_17",
+      "term": "文句",
+      "reading": "もんく",
+      "meaning": "phàn nàn",
+      "hanviet": "",
+      "example": "母に文句を言われた。",
+      "exampleVi": "Tôi bị mẹ phàn nàn.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_18",
+      "term": "じたばた",
+      "reading": "じたばた",
+      "meaning": "cuống quýt",
+      "hanviet": "",
+      "example": "今さらじたばたしても仕方がない。",
+      "exampleVi": "Giờ có vùng vẫy cũng vô ích thôi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_19",
+      "term": "最寄り",
+      "reading": "もより",
+      "meaning": "gần nhất",
+      "hanviet": "",
+      "example": "最寄りの駅まで歩いて10分です。",
+      "exampleVi": "Đi bộ đến ga gần nhất mất 10 phút.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_20",
+      "term": "区別",
+      "reading": "くべつ",
+      "meaning": "phân biệt",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "sự khác nhau",
+      "frequency": 2
+    },
+    {
+      "id": "v_21",
+      "term": "栽培",
+      "reading": "さいばい",
+      "meaning": "trồng trọt",
+      "hanviet": "",
+      "example": "この農場では野菜を栽培している。",
+      "exampleVi": "Trang trại này trồng rau.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_22",
+      "term": "素材",
+      "reading": "そざい",
+      "meaning": "nguyên liệu",
+      "hanviet": "",
+      "example": "この服は高級な素材で作られている。",
+      "exampleVi": "Bộ đồ này được làm từ chất liệu cao cấp.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_23",
+      "term": "眼鏡",
+      "reading": "めがね",
+      "meaning": "kính",
+      "hanviet": "",
+      "example": "眼鏡をかけないと字が読めない。",
+      "exampleVi": "Không đeo kính thì tôi không đọc được chữ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_24",
+      "term": "付属",
+      "reading": "ふぞく",
+      "meaning": "kèm theo",
+      "hanviet": "",
+      "example": "この製品にはリモコンが付属しています。",
+      "exampleVi": "Sản phẩm này có kèm điều khiển từ xa.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_25",
+      "term": "規則",
+      "reading": "きそく",
+      "meaning": "quy tắc",
+      "hanviet": "",
+      "example": "学校の規則を守ってください。",
+      "exampleVi": "Hãy tuân thủ nội quy của trường.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_26",
+      "term": "到達",
+      "reading": "とうたつ",
+      "meaning": "đạt được",
+      "hanviet": "",
+      "example": "ついに山頂に到達した。",
+      "exampleVi": "Cuối cùng tôi cũng đã lên đến đỉnh núi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_27",
+      "term": "機嫌",
+      "reading": "きげん",
+      "meaning": "tâm trạng",
+      "hanviet": "",
+      "example": "彼女は朝から機嫌が悪い。",
+      "exampleVi": "Cô ấy cáu kỉnh từ sáng.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_28",
+      "term": "研修",
+      "reading": "けんしゅう",
+      "meaning": "học việc. đang được đào tạo",
+      "hanviet": "",
+      "example": "新入社員は３ヶ月の研修を受ける。",
+      "exampleVi": "Nhân viên mới phải tham gia đào tạo 3 tháng.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_29",
+      "term": "悪口",
+      "reading": "わるぐち",
+      "meaning": "nói xấu",
+      "hanviet": "",
+      "example": "人の悪口を言うのはよくない。",
+      "exampleVi": "Nói xấu người khác là điều không tốt.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_30",
+      "term": "伯父",
+      "reading": "おじ",
+      "meaning": "bác. chú",
+      "hanviet": "",
+      "example": "私の伯父は医者です。",
+      "exampleVi": "Bác trai của tôi là bác sĩ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_31",
+      "term": "決意",
+      "reading": "けつい",
+      "meaning": "quyết tâm",
+      "hanviet": "",
+      "example": "彼は留学する決意を固めた。",
+      "exampleVi": "Anh ấy đã quyết tâm đi du học.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_32",
+      "term": "温厚",
+      "reading": "おんこう",
+      "meaning": "hiền lành. ôn hòa",
+      "hanviet": "",
+      "example": "彼は温厚な性格で誰からも好かれる。",
+      "exampleVi": "Anh ấy tính tình điềm đạm nên được mọi người yêu quý.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_33",
+      "term": "導入",
+      "reading": "どうにゅう",
+      "meaning": "áp dụng",
+      "hanviet": "",
+      "example": "新しいシステムが会社に導入された。",
+      "exampleVi": "Hệ thống mới đã được đưa vào công ty.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_34",
+      "term": "体格",
+      "reading": "たいかく",
+      "meaning": "vóc dáng. thân hình",
+      "hanviet": "",
+      "example": "彼はスポーツ選手らしい体格をしている。",
+      "exampleVi": "Anh ấy có thể hình đúng kiểu vận động viên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_35",
+      "term": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "Ngay trước khi",
+      "hanviet": "",
+      "example": "試験の直前まで勉強していた。",
+      "exampleVi": "Tôi đã học đến sát giờ thi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_36",
+      "term": "勘定",
+      "reading": "かんじょう",
+      "meaning": "thanh toán ＝",
+      "hanviet": "",
+      "example": "払いました 食事が終わったら勘定をお願いします。",
+      "exampleVi": "Sau khi ăn xong vui lòng thanh toán giúp tôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_37",
+      "term": "合図",
+      "reading": "あいず",
+      "meaning": "dấu hiệu. tín hiệu",
+      "hanviet": "",
+      "example": "彼の合図で試合が始まった。",
+      "exampleVi": "Trận đấu bắt đầu theo tín hiệu của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_38",
+      "term": "引用",
+      "reading": "いんよう",
+      "meaning": "trích dẫn",
+      "hanviet": "",
+      "example": "レポートで他人の意見を引用した。",
+      "exampleVi": "Tôi đã trích dẫn ý kiến người khác trong bài báo cáo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_39",
+      "term": "吸収",
+      "reading": "きゅうしゅう",
+      "meaning": "hấp thụ. tiếp thu",
+      "hanviet": "",
+      "example": "このスポンジは水をよく吸収する。",
+      "exampleVi": "Miếng bọt biển này hút nước rất tốt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_40",
+      "term": "姿勢",
+      "reading": "しせい",
+      "meaning": "tư thế",
+      "hanviet": "",
+      "example": "良い姿勢を保つことは健康にいい。",
+      "exampleVi": "Duy trì tư thế tốt rất có lợi cho sức khỏe.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_41",
+      "term": "鶴",
+      "reading": "つる",
+      "meaning": "con hạc",
+      "hanviet": "",
+      "example": "折り紙で鶴を折った。",
+      "exampleVi": "Tôi đã gấp con hạc bằng giấy origami.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_42",
+      "term": "舌",
+      "reading": "した",
+      "meaning": "cái lưỡi",
+      "hanviet": "",
+      "example": "猫は舌で体をなめてきれいにする。",
+      "exampleVi": "Mèo dùng lưỡi để liếm lông làm sạch cơ thể.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_43",
+      "term": "訂正",
+      "reading": "ていせい",
+      "meaning": "đính chính. sửa lại cho đúng",
+      "hanviet": "",
+      "example": "間違いを訂正してから提出してください。",
+      "exampleVi": "Hãy sửa lỗi rồi nộp lại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_44",
+      "term": "会見",
+      "reading": "かいけん",
+      "meaning": "gặp mặt. hội kiến",
+      "hanviet": "",
+      "example": "大臣が記者会見を開いた。",
+      "exampleVi": "Bộ trưởng đã tổ chức họp báo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_45",
+      "term": "支持",
+      "reading": "しじ",
+      "meaning": "ủng hộ",
+      "hanviet": "",
+      "example": "その政策は国民の支持を得た。",
+      "exampleVi": "Chính sách đó đã nhận được sự ủng hộ từ người dân.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_46",
+      "term": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "giải thích. thanh minh",
+      "hanviet": "",
+      "example": "失敗の言い訳ばかりしてはいけない。",
+      "exampleVi": "Không được chỉ biết viện cớ cho thất bại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_47",
+      "term": "改訂",
+      "reading": "かいてい",
+      "meaning": "sửa lại. chỉnh lại cho đúng",
+      "hanviet": "",
+      "example": "教科書が改訂された。",
+      "exampleVi": "Sách giáo khoa đã được chỉnh sửa lại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_48",
+      "term": "証拠",
+      "reading": "しょうこ",
+      "meaning": "chứng cứ",
+      "hanviet": "",
+      "example": "犯人の証拠が見つかった。",
+      "exampleVi": "Đã tìm thấy bằng chứng của thủ phạm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_49",
+      "term": "撮影",
+      "reading": "さつえい",
+      "meaning": "quay phim chụp ảnh",
+      "hanviet": "",
+      "example": "映画の撮影が始まった。",
+      "exampleVi": "Việc quay phim đã bắt đầu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_50",
+      "term": "特色",
+      "reading": "とくしょく",
+      "meaning": "đặc sắc. điểm nổi bật",
+      "hanviet": "",
+      "example": "この学校は国際教育に特色がある。",
+      "exampleVi": "Trường này có đặc trưng về giáo dục quốc tế.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_51",
+      "term": "所有",
+      "reading": "しょゆう",
+      "meaning": "sở hữu =",
+      "hanviet": "",
+      "example": "持って この車は父が所有している。",
+      "exampleVi": "Chiếc xe này là do bố tôi sở hữu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_52",
+      "term": "用途",
+      "reading": "ようと",
+      "meaning": "công dụng. ứng dụng",
+      "hanviet": "",
+      "example": "この機械の用途は多様だ。",
+      "exampleVi": "Công dụng của cái máy này rất đa dạng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_53",
+      "term": "行方",
+      "reading": "ゆくえ",
+      "meaning": "tung tích",
+      "hanviet": "",
+      "example": "行方がわからなくなった荷物。",
+      "exampleVi": "Hành lý bị thất lạc không rõ tung tích.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_54",
+      "term": "性能",
+      "reading": "せいのう",
+      "meaning": "tính năng",
+      "hanviet": "",
+      "example": "このパソコンは性能が高い。",
+      "exampleVi": "Chiếc máy tính này có hiệu năng cao.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_55",
+      "term": "得点",
+      "reading": "とくてん",
+      "meaning": "ghi điểm. lấy điểm",
+      "hanviet": "",
+      "example": "試合でチームが高得点を取った。",
+      "exampleVi": "Đội đã ghi được số điểm cao trong trận đấu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_56",
+      "term": "思考",
+      "reading": "しこう",
+      "meaning": "suy nghĩ",
+      "hanviet": "",
+      "example": "論理的な思考が大切だ。",
+      "exampleVi": "Tư duy logic là rất quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_57",
+      "term": "指導",
+      "reading": "しどう",
+      "meaning": "hướng dẫn. chỉ dẫn",
+      "hanviet": "",
+      "example": "先生が丁寧に指導してくれた。",
+      "exampleVi": "Thầy giáo đã hướng dẫn rất tận tình.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_58",
+      "term": "花瓶",
+      "reading": "かびん",
+      "meaning": "lọ hoa",
+      "hanviet": "",
+      "example": "花瓶に花を飾った。",
+      "exampleVi": "Tôi đã cắm hoa vào bình.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_59",
+      "term": "高層",
+      "reading": "こうそう",
+      "meaning": "cao tầng",
+      "hanviet": "",
+      "example": "高層ビルが立ち並ぶ街。",
+      "exampleVi": "Một thành phố với những tòa nhà cao tầng san sát.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_60",
+      "term": "予報",
+      "reading": "よほう",
+      "meaning": "dự báo",
+      "hanviet": "",
+      "example": "明日の天気予報は雨です。",
+      "exampleVi": "Dự báo thời tiết ngày mai có mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_61",
+      "term": "実現",
+      "reading": "じつげん",
+      "meaning": "thực hiện",
+      "hanviet": "",
+      "example": "夢を実現するために努力している。",
+      "exampleVi": "Tôi đang nỗ lực để biến ước mơ thành hiện thực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_62",
+      "term": "達成",
+      "reading": "たっせい",
+      "meaning": "đạt được",
+      "hanviet": "",
+      "example": "目標を達成できてうれしい。",
+      "exampleVi": "Tôi rất vui vì đã đạt được mục tiêu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_63",
+      "term": "大別",
+      "reading": "おおべつ",
+      "meaning": "cách biệt lớn",
+      "hanviet": "",
+      "example": "動物は大別すると哺乳類と鳥類に分けられる。",
+      "exampleVi": "Động vật được chia đại thể thành thú và chim.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_64",
+      "term": "間隔",
+      "reading": "かんかく",
+      "meaning": "khoảng cách",
+      "hanviet": "",
+      "example": "電車は5分間隔で来ます。",
+      "exampleVi": "Tàu đến cách nhau 5 phút một chuyến.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_65",
+      "term": "予測",
+      "reading": "よそく",
+      "meaning": "dự đoán",
+      "hanviet": "",
+      "example": "将来の人口を予測するのは難しい。",
+      "exampleVi": "Dự đoán dân số tương lai là việc khó.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_66",
+      "term": "完了",
+      "reading": "かんりょう",
+      "meaning": "hoàn thành",
+      "hanviet": "",
+      "example": "作業が無事に完了した。",
+      "exampleVi": "Công việc đã được hoàn thành suôn sẻ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_67",
+      "term": "相違",
+      "reading": "そうい",
+      "meaning": "khác nhau",
+      "hanviet": "",
+      "example": "意見に相違がある。",
+      "exampleVi": "Có sự khác biệt trong quan điểm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_68",
+      "term": "作成",
+      "reading": "さくせい",
+      "meaning": "tạo",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "tài liệu",
+      "frequency": 1
+    },
+    {
+      "id": "v_69",
+      "term": "中断",
+      "reading": "ちゅうだん",
+      "meaning": "gián đoạn. dừng giữa chừng",
+      "hanviet": "",
+      "example": "雨のため試合が中断された。",
+      "exampleVi": "Trận đấu bị gián đoạn do mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_70",
+      "term": "底",
+      "reading": "そこ",
+      "meaning": "đáy",
+      "hanviet": "",
+      "example": "箱の底に名前が書いてあった。",
+      "exampleVi": "Tên được viết ở đáy hộp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_71",
+      "term": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "đề xuất",
+      "hanviet": "",
+      "example": "宿題を期限までに提出してください。",
+      "exampleVi": "Hãy nộp bài tập trước hạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_72",
+      "term": "議論",
+      "reading": "ぎろん",
+      "meaning": "nghị luận",
+      "hanviet": "",
+      "example": "この問題について議論が続いている。",
+      "exampleVi": "Cuộc tranh luận về vấn đề này vẫn đang tiếp tục.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_73",
+      "term": "姿",
+      "reading": "すがた",
+      "meaning": "dáng vẻ",
+      "hanviet": "",
+      "example": "彼の姿が見えなくなった。",
+      "exampleVi": "Không thấy bóng dáng anh ấy đâu nữa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_74",
+      "term": "共同",
+      "reading": "きょうどう",
+      "meaning": "chung. cùng với 2",
+      "hanviet": "",
+      "example": "社が共同で新商品を開発した。",
+      "exampleVi": "Hai công ty đã hợp tác phát triển sản phẩm mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_75",
+      "term": "転職",
+      "reading": "てんしょく",
+      "meaning": "chuyển chỗ làm",
+      "hanviet": "",
+      "example": "彼は最近転職したばかりだ。",
+      "exampleVi": "Anh ấy vừa mới chuyển việc gần đây.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_76",
+      "term": "日差し",
+      "reading": "ひざし",
+      "meaning": "nắng chiếu. ánh sáng mặt trời",
+      "hanviet": "",
+      "example": "今日の日差しはとても強い。",
+      "exampleVi": "Nắng hôm nay rất gắt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_77",
+      "term": "伝染",
+      "reading": "でんせん",
+      "meaning": "truyền nhiễm. lan truyền",
+      "hanviet": "",
+      "example": "風邪が家族に伝染してしまった。",
+      "exampleVi": "Cảm cúm đã lây sang cả nhà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_78",
+      "term": "収穫",
+      "reading": "しゅうかく",
+      "meaning": "thu hoạch",
+      "hanviet": "",
+      "example": "今年は米の収穫が多かった。",
+      "exampleVi": "Năm nay thu hoạch lúa được nhiều.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_79",
+      "term": "衝突",
+      "reading": "しょうとつ",
+      "meaning": "đâm. đụng",
+      "hanviet": "",
+      "example": "車とバイクが衝突した。",
+      "exampleVi": "Xe ô tô va chạm với xe máy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_80",
+      "term": "発達",
+      "reading": "はったつ",
+      "meaning": "phát triển",
+      "hanviet": "",
+      "example": "子どもの言語能力が発達する。",
+      "exampleVi": "Khả năng ngôn ngữ của trẻ phát triển.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_81",
+      "term": "切掛",
+      "reading": "きっかけ",
+      "meaning": "nguyên cớ; động lực",
+      "hanviet": "",
+      "example": "事故を切掛に安全対策が強化された。",
+      "exampleVi": "Nhờ có vụ tai nạn mà biện pháp an toàn được tăng cường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_82",
+      "term": "進行",
+      "reading": "しんこう",
+      "meaning": "tiến hành",
+      "hanviet": "",
+      "example": "工事が予定通りに進行している。",
+      "exampleVi": "Công trình đang tiến triển đúng kế hoạch.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_83",
+      "term": "絵画展",
+      "reading": "かいがてん",
+      "meaning": "triển lãm tranh",
+      "hanviet": "",
+      "example": "美術館で絵画展が開かれている。",
+      "exampleVi": "Triển lãm tranh đang được tổ chức tại bảo tàng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_84",
+      "term": "採集",
+      "reading": "さいしゅう",
+      "meaning": "thu được",
+      "hanviet": "",
+      "example": "森で植物を採集する。",
+      "exampleVi": "Thu thập thực vật trong rừng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_85",
+      "term": "取得",
+      "reading": "しゅとく",
+      "meaning": "có được",
+      "hanviet": "",
+      "example": "運転免許を取得した。",
+      "exampleVi": "Tôi đã lấy được bằng lái xe.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_86",
+      "term": "天候",
+      "reading": "てんこう",
+      "meaning": "khí hậu",
+      "hanviet": "",
+      "example": "天候に恵まれた旅行だった。",
+      "exampleVi": "Đó là một chuyến du lịch được thời tiết ủng hộ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_87",
+      "term": "専攻",
+      "reading": "せんこう",
+      "meaning": "chuyên ngành",
+      "hanviet": "",
+      "example": "大学では経済学を専攻しています。",
+      "exampleVi": "Tôi học chuyên ngành kinh tế ở đại học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_88",
+      "term": "防犯",
+      "reading": "ぼうはん",
+      "meaning": "phòng chống tội phạm",
+      "hanviet": "",
+      "example": "防犯カメラが設置されている。",
+      "exampleVi": "Camera chống trộm đã được lắp đặt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_89",
+      "term": "予想",
+      "reading": "よそう",
+      "meaning": "dự báo",
+      "hanviet": "",
+      "example": "結果は予想通りだった。",
+      "exampleVi": "Kết quả đúng như dự đoán.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_90",
+      "term": "気候",
+      "reading": "きこう",
+      "meaning": "khí hậu",
+      "hanviet": "",
+      "example": "この地域の気候は温暖だ。",
+      "exampleVi": "Khí hậu của khu vực này ôn hòa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_91",
+      "term": "提供",
+      "reading": "ていきょう",
+      "meaning": "cung cấp",
+      "hanviet": "",
+      "example": "このレストランは無料の水を提供している。",
+      "exampleVi": "Nhà hàng này cung cấp nước miễn phí.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_92",
+      "term": "息抜き",
+      "reading": "いきぬき",
+      "meaning": "nghỉ ngơi. xả hơi",
+      "hanviet": "",
+      "example": "勉強の合間に音楽を聞いて息抜きする。",
+      "exampleVi": "Tôi thư giãn bằng cách nghe nhạc giữa giờ học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_93",
+      "term": "延長",
+      "reading": "えんちょう",
+      "meaning": "kéo dài",
+      "hanviet": "",
+      "example": "試合が延長された。",
+      "exampleVi": "Trận đấu đã được kéo dài.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_94",
+      "term": "目上",
+      "reading": "めうえ",
+      "meaning": "cấp trên. người trên",
+      "hanviet": "",
+      "example": "目上の人には敬語を使うべきだ。",
+      "exampleVi": "Nên dùng kính ngữ với người bề trên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_95",
+      "term": "選出",
+      "reading": "せんしゅつ",
+      "meaning": "chọn ra. bầu ra",
+      "hanviet": "",
+      "example": "彼が委員長に選出された。",
+      "exampleVi": "Anh ấy được bầu làm trưởng ban.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_96",
+      "term": "寄付",
+      "reading": "きふ",
+      "meaning": "quyên góp. ủng hộ",
+      "hanviet": "",
+      "example": "災害の被害者にお金を寄付した。",
+      "exampleVi": "Tôi đã quyên góp tiền cho nạn nhân thiên tai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_97",
+      "term": "講座",
+      "reading": "こうざ",
+      "meaning": "khóa học",
+      "hanviet": "",
+      "example": "英会話の講座を受講している。",
+      "exampleVi": "Tôi đang theo học khóa học hội thoại tiếng Anh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_98",
+      "term": "設計",
+      "reading": "せっけい",
+      "meaning": "thiết kế",
+      "hanviet": "",
+      "example": "新しいビルの設計を担当しています。",
+      "exampleVi": "Tôi phụ trách thiết kế tòa nhà mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_99",
+      "term": "鉢（はち）",
+      "reading": "はち",
+      "meaning": "chậu cây",
+      "hanviet": "",
+      "example": "花を鉢に植えた。",
+      "exampleVi": "Tôi đã trồng hoa vào chậu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_100",
+      "term": "受賞",
+      "reading": "じゅしょう",
+      "meaning": "nhận thưởng",
+      "hanviet": "",
+      "example": "彼は文学賞を受賞した。",
+      "exampleVi": "Anh ấy đã nhận được giải thưởng văn học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_101",
+      "term": "確保",
+      "reading": "かくほ",
+      "meaning": "đảm bảo",
+      "hanviet": "",
+      "example": "安全な場所を確保する。",
+      "exampleVi": "Đảm bảo một nơi an toàn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_102",
+      "term": "契機",
+      "reading": "けいき",
+      "meaning": "thời cơ. nguyên cớ",
+      "hanviet": "",
+      "example": "失敗を契機に考え方が変わった。",
+      "exampleVi": "Nhờ thất bại mà cách suy nghĩ của tôi đã thay đổi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_103",
+      "term": "誤り",
+      "reading": "あやまり",
+      "meaning": "lỗi. sai sót",
+      "hanviet": "",
+      "example": "この文には誤りがある。",
+      "exampleVi": "Câu này có sai sót.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_104",
+      "term": "頂上",
+      "reading": "ちょうじょう",
+      "meaning": "đỉnh núi",
+      "hanviet": "",
+      "example": "山の頂上からの景色は最高だ。",
+      "exampleVi": "Khung cảnh từ đỉnh núi thật tuyệt vời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_105",
+      "term": "節約",
+      "reading": "せつやく",
+      "meaning": "tiết kiệm",
+      "hanviet": "",
+      "example": "電気を節約するために冷房を控える。",
+      "exampleVi": "Để tiết kiệm điện. tôi hạn chế dùng máy lạnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_106",
+      "term": "先端",
+      "reading": "せんたん",
+      "meaning": "mũi nhọn",
+      "hanviet": "",
+      "example": "技術の先端を行く企業。",
+      "exampleVi": "Doanh nghiệp đi đầu trong công nghệ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_107",
+      "term": "湿度",
+      "reading": "しつど",
+      "meaning": "độ ẩm",
+      "hanviet": "",
+      "example": "日本の夏は湿度が高い。",
+      "exampleVi": "Mùa hè ở Nhật có độ ẩm cao.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_108",
+      "term": "要点",
+      "reading": "ようてん",
+      "meaning": "điểm quan trọng",
+      "hanviet": "",
+      "example": "要点を簡単に説明してください。",
+      "exampleVi": "Hãy giải thích ngắn gọn ý chính.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_109",
+      "term": "購入",
+      "reading": "こうにゅう",
+      "meaning": "mua vào",
+      "hanviet": "",
+      "example": "ネットで新しい本を購入した。",
+      "exampleVi": "Tôi đã mua sách mới trên mạng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_110",
+      "term": "解放感",
+      "reading": "かいほうかん",
+      "meaning": "phóng khoáng",
+      "hanviet": "",
+      "example": "テストが終わって解放感を感じた。",
+      "exampleVi": "Sau kỳ thi. tôi cảm thấy được giải tỏa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_111",
+      "term": "日当たり",
+      "reading": "ひあたり",
+      "meaning": "nắng chiếu vào",
+      "hanviet": "",
+      "example": "この部屋は日当たりがいい。",
+      "exampleVi": "Căn phòng này có ánh nắng tốt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_112",
+      "term": "苦情",
+      "reading": "くじょう",
+      "meaning": "phàn nàn",
+      "hanviet": "",
+      "example": "隣の部屋からの騒音に苦情が出た。",
+      "exampleVi": "Có phàn nàn về tiếng ồn từ phòng bên cạnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_113",
+      "term": "名所",
+      "reading": "めいしょ",
+      "meaning": "địa điểm nổi tiếng",
+      "hanviet": "",
+      "example": "京都には多くの名所がある。",
+      "exampleVi": "Kyoto có nhiều địa danh nổi tiếng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_114",
+      "term": "限定",
+      "reading": "げんてい",
+      "meaning": "giới hạn",
+      "hanviet": "",
+      "example": "この商品は数量限定です。",
+      "exampleVi": "Sản phẩm này có số lượng giới hạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_115",
+      "term": "論戦",
+      "reading": "ろんせん",
+      "meaning": "tranh luận",
+      "hanviet": "",
+      "example": "国会で激しい論戦が行われた。",
+      "exampleVi": "Cuộc tranh luận gay gắt đã diễn ra ở quốc hội.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_116",
+      "term": "独特",
+      "reading": "どくとく",
+      "meaning": "độc đáo",
+      "hanviet": "",
+      "example": "彼のファッションは独特だ。",
+      "exampleVi": "Phong cách thời trang của anh ấy rất độc đáo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_117",
+      "term": "役目",
+      "reading": "やくめ",
+      "meaning": "trách nhiệm",
+      "hanviet": "",
+      "example": "親としての役目を果たす。",
+      "exampleVi": "Hoàn thành vai trò làm cha mẹ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_118",
+      "term": "講演",
+      "reading": "こうえん",
+      "meaning": "bài giảng. diễn thuyết",
+      "hanviet": "",
+      "example": "有名な先生の講演を聞いた。",
+      "exampleVi": "Tôi đã nghe buổi diễn thuyết của một thầy giáo nổi tiếng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_119",
+      "term": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "biết ơn. cảm ơn",
+      "hanviet": "",
+      "example": "親に感謝の気持ちを伝える。",
+      "exampleVi": "Thể hiện lòng biết ơn đến cha mẹ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_120",
+      "term": "対策",
+      "reading": "たいさく",
+      "meaning": "đối sách",
+      "hanviet": "",
+      "example": "風邪の対策をしっかり取る。",
+      "exampleVi": "Thực hiện các biện pháp phòng cảm cúm kỹ lưỡng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_121",
+      "term": "最優先",
+      "reading": "さいゆうせん",
+      "meaning": "ưu tiên nhất",
+      "hanviet": "",
+      "example": "安全を最優先に考えるべきだ。",
+      "exampleVi": "Cần ưu tiên hàng đầu cho sự an toàn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_122",
+      "term": "演説",
+      "reading": "えんぜつ",
+      "meaning": "diễn thuyết",
+      "hanviet": "",
+      "example": "大統領が国民に向けて演説した。",
+      "exampleVi": "Tổng thống đã diễn thuyết trước toàn dân.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_123",
+      "term": "点検",
+      "reading": "てんけん",
+      "meaning": "kiểm tra",
+      "hanviet": "",
+      "example": "車を出発前に点検する。",
+      "exampleVi": "Kiểm tra xe trước khi xuất phát.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_124",
+      "term": "地元",
+      "reading": "じもと",
+      "meaning": "quê nhà. địa phương",
+      "hanviet": "",
+      "example": "地元の友達と久しぶりに会った。",
+      "exampleVi": "Lâu lắm rồi tôi mới gặp lại bạn bè quê nhà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_125",
+      "term": "敏感",
+      "reading": "びんかん",
+      "meaning": "mẫn cảm. nhạy cảm",
+      "hanviet": "",
+      "example": "彼は匂いにとても敏感だ。",
+      "exampleVi": "Anh ấy rất nhạy cảm với mùi hương.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_126",
+      "term": "保存",
+      "reading": "ほぞん",
+      "meaning": "bảo quản",
+      "hanviet": "",
+      "example": "このファイルは保存しておいてください。",
+      "exampleVi": "Hãy lưu file này lại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_127",
+      "term": "日課",
+      "reading": "にっか",
+      "meaning": "thói quen hàng ngày",
+      "hanviet": "",
+      "example": "毎朝ジョギングするのが日課だ。",
+      "exampleVi": "Chạy bộ mỗi sáng là thói quen hàng ngày của tôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_128",
+      "term": "分担",
+      "reading": "ぶんたん",
+      "meaning": "phụ trách",
+      "hanviet": "",
+      "example": "家事を夫婦で分担している。",
+      "exampleVi": "Vợ chồng cùng nhau chia sẻ việc nhà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_129",
+      "term": "同情",
+      "reading": "どうじょう",
+      "meaning": "đồng cảm",
+      "hanviet": "",
+      "example": "彼の話を聞いて同情した。",
+      "exampleVi": "Tôi đã cảm thông sau khi nghe câu chuyện của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_130",
+      "term": "初歩",
+      "reading": "しょほ",
+      "meaning": "bước đầu",
+      "hanviet": "",
+      "example": "このクラスでは初歩から教えます。",
+      "exampleVi": "Lớp này sẽ dạy từ những điều cơ bản.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_131",
+      "term": "分別",
+      "reading": "ぶんべつ",
+      "meaning": "phân loại",
+      "hanviet": "",
+      "example": "ゴミは種類ごとに分別してください。",
+      "exampleVi": "Hãy phân loại rác theo từng loại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_132",
+      "term": "区分",
+      "reading": "くぶん",
+      "meaning": "phân chia. sắp xếp",
+      "hanviet": "",
+      "example": "荷物を大きさで区分する。",
+      "exampleVi": "Phân chia hành lý theo kích thước.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_133",
+      "term": "勤務",
+      "reading": "きんむ",
+      "meaning": "làm việc",
+      "hanviet": "",
+      "example": "彼は病院で勤務している。",
+      "exampleVi": "Anh ấy đang làm việc ở bệnh viện.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_134",
+      "term": "記憶力",
+      "reading": "きおくりょく",
+      "meaning": "trí nhớ",
+      "hanviet": "",
+      "example": "彼は記憶力がとてもいい。",
+      "exampleVi": "Anh ấy có trí nhớ rất tốt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_135",
+      "term": "覚悟",
+      "reading": "かくご",
+      "meaning": "giác ngộ. chuẩn bị sẵn tinh thần",
+      "hanviet": "",
+      "example": "失敗する覚悟はできている。",
+      "exampleVi": "Tôi đã chuẩn bị tinh thần cho việc thất bại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_136",
+      "term": "育児",
+      "reading": "いくじ",
+      "meaning": "nuôi dạy con",
+      "hanviet": "",
+      "example": "共働き夫婦にとって育児は大変だ。",
+      "exampleVi": "Nuôi con rất vất vả với các cặp vợ chồng cùng đi làm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_137",
+      "term": "手数料",
+      "reading": "てすうりょう",
+      "meaning": "phí sử dụng dịch vụ",
+      "hanviet": "",
+      "example": "振込には手数料がかかります。",
+      "exampleVi": "Chuyển khoản sẽ mất phí giao dịch.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_138",
+      "term": "記録",
+      "reading": "きろく",
+      "meaning": "kỉ lục",
+      "hanviet": "",
+      "example": "試合の結果を記録する。",
+      "exampleVi": "Ghi lại kết quả trận đấu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_139",
+      "term": "面倒",
+      "reading": "めんどう",
+      "meaning": "phiền phức",
+      "hanviet": "",
+      "example": "面倒な仕事は後回しにした。",
+      "exampleVi": "Tôi để việc rắc rối lại làm sau.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_140",
+      "term": "本物",
+      "reading": "ほんもの",
+      "meaning": "đồ thật. thật",
+      "hanviet": "",
+      "example": "これは本物のダイヤモンドです。",
+      "exampleVi": "Đây là kim cương thật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_141",
+      "term": "あこがれ",
+      "reading": "あこがれ",
+      "meaning": "ngưỡng mộ",
+      "hanviet": "",
+      "example": "彼女は女優にあこがれている。",
+      "exampleVi": "Cô ấy ngưỡng mộ các diễn viên nữ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_142",
+      "term": "転勤",
+      "reading": "てんきん",
+      "meaning": "chuyển việc",
+      "hanviet": "",
+      "example": "父が大阪に転勤することになった。",
+      "exampleVi": "Bố tôi sẽ chuyển công tác đến Osaka.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_143",
+      "term": "動揺",
+      "reading": "どうよう",
+      "meaning": "dao động. bất an",
+      "hanviet": "",
+      "example": "突然の知らせに動揺した。",
+      "exampleVi": "Tôi đã bối rối trước tin bất ngờ đó.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_144",
+      "term": "かかりつけ",
+      "reading": "~",
+      "meaning": "quen",
+      "hanviet": "",
+      "example": "かかりつけの病院で診てもらう。",
+      "exampleVi": "Tôi đi khám ở bệnh viện quen thuộc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_145",
+      "term": "充満",
+      "reading": "じゅうまん",
+      "meaning": "tràn đầy. nồng nặc",
+      "hanviet": "",
+      "example": "部屋に煙が充満していた。",
+      "exampleVi": "Khói tràn ngập khắp căn phòng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_146",
+      "term": "現状",
+      "reading": "げんじょう",
+      "meaning": "hiện trạng",
+      "hanviet": "",
+      "example": "現状を正しく理解することが大切だ。",
+      "exampleVi": "Hiểu đúng tình hình hiện tại là rất quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_147",
+      "term": "移行",
+      "reading": "いこう",
+      "meaning": "chuyển đổi. chuyển giao",
+      "hanviet": "",
+      "example": "新しい制度への移行が始まった。",
+      "exampleVi": "Việc chuyển sang chế độ mới đã bắt đầu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_148",
+      "term": "移住",
+      "reading": "いじゅう",
+      "meaning": "di cư",
+      "hanviet": "",
+      "example": "家族で地方に移住した。",
+      "exampleVi": "Gia đình tôi đã chuyển về sống ở vùng quê.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_149",
+      "term": "養成",
+      "reading": "ようせい",
+      "meaning": "bồi dưỡng",
+      "hanviet": "",
+      "example": "教師を養成する学校に通っている。",
+      "exampleVi": "Tôi đang học tại trường đào tạo giáo viên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_150",
+      "term": "農薬",
+      "reading": "のうやく",
+      "meaning": "thuốc nông nghiệp",
+      "hanviet": "",
+      "example": "農薬を使わない野菜が人気だ。",
+      "exampleVi": "Rau không dùng thuốc trừ sâu rất được ưa chuộng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_151",
+      "term": "免許",
+      "reading": "めんきょ",
+      "meaning": "giấy phép. bằng",
+      "hanviet": "",
+      "example": "運転免許を取得するのは大変だ。",
+      "exampleVi": "Lấy được bằng lái xe là việc không dễ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_152",
+      "term": "故障",
+      "reading": "こしょう",
+      "meaning": "hỏng hóc",
+      "hanviet": "",
+      "example": "エレベーターが故障して使えない。",
+      "exampleVi": "Thang máy bị hỏng nên không sử dụng được.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_153",
+      "term": "手前",
+      "reading": "てまえ",
+      "meaning": "trước mặt",
+      "hanviet": "",
+      "example": "駅の手前で電車が止まった。",
+      "exampleVi": "Tàu dừng lại trước ga.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_154",
+      "term": "信頼",
+      "reading": "しんらい",
+      "meaning": "sự tin cậy",
+      "hanviet": "",
+      "example": "彼は信頼できる友人だ。",
+      "exampleVi": "Anh ấy là người bạn đáng tin cậy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_155",
+      "term": "尊重",
+      "reading": "そんちょう",
+      "meaning": "tôn trọng",
+      "hanviet": "",
+      "example": "相手の意見を尊重するべきだ。",
+      "exampleVi": "Cần tôn trọng ý kiến của đối phương.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_156",
+      "term": "初期",
+      "reading": "しょき",
+      "meaning": "thời kì đầu",
+      "hanviet": "",
+      "example": "病気の初期段階で治療する。",
+      "exampleVi": "Điều trị ở giai đoạn đầu của bệnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_157",
+      "term": "欠陥",
+      "reading": "けっかん",
+      "meaning": "sai sót. lỗi",
+      "hanviet": "",
+      "example": "この製品には欠陥が見つかった。",
+      "exampleVi": "Đã phát hiện ra lỗi trong sản phẩm này.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_158",
+      "term": "考慮",
+      "reading": "こうりょ",
+      "meaning": "xem xét",
+      "hanviet": "",
+      "example": "年齢を考慮して判断する。",
+      "exampleVi": "Cân nhắc theo độ tuổi để đưa ra quyết định.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_159",
+      "term": "測定",
+      "reading": "そくてい",
+      "meaning": "đo lường",
+      "hanviet": "",
+      "example": "身長と体重を測定した。",
+      "exampleVi": "Tôi đã đo chiều cao và cân nặng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_160",
+      "term": "提案",
+      "reading": "ていあん",
+      "meaning": "đề án. đề xuất",
+      "hanviet": "",
+      "example": "新しい方法を提案した。",
+      "exampleVi": "Tôi đã đề xuất một phương pháp mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_161",
+      "term": "信仰",
+      "reading": "しんこう",
+      "meaning": "tín ngưỡng",
+      "hanviet": "",
+      "example": "彼は仏教を信仰している。",
+      "exampleVi": "Anh ấy theo đạo Phật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_162",
+      "term": "定着",
+      "reading": "ていちゃく",
+      "meaning": "vững chắc. định hình",
+      "hanviet": "",
+      "example": "この習慣は社会に定着している。",
+      "exampleVi": "Thói quen này đã ăn sâu trong xã hội.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_163",
+      "term": "服装",
+      "reading": "ふくそう",
+      "meaning": "trang phục",
+      "hanviet": "",
+      "example": "式には正しい服装で参加してください。",
+      "exampleVi": "Hãy tham dự buổi lễ với trang phục phù hợp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_164",
+      "term": "宣伝",
+      "reading": "せんでん",
+      "meaning": "quảng cáo. tuyên truyền",
+      "hanviet": "",
+      "example": "新商品を宣伝する。",
+      "exampleVi": "Quảng cáo sản phẩm mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_165",
+      "term": "雰囲気",
+      "reading": "ふんいき",
+      "meaning": "bầu không khí",
+      "hanviet": "",
+      "example": "この店は雰囲気がとても良い。",
+      "exampleVi": "Quán này có không khí rất dễ chịu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_166",
+      "term": "秘密",
+      "reading": "ひみつ",
+      "meaning": "bí mật",
+      "hanviet": "",
+      "example": "このことは秘密にしておいてください。",
+      "exampleVi": "Xin hãy giữ bí mật chuyện này.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_167",
+      "term": "演技",
+      "reading": "えんぎ",
+      "meaning": "diễn xuất",
+      "hanviet": "",
+      "example": "彼の演技はとても自然だった。",
+      "exampleVi": "Diễn xuất của anh ấy rất tự nhiên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_168",
+      "term": "監督",
+      "reading": "かんとく",
+      "meaning": "đạo diễn",
+      "hanviet": "",
+      "example": "映画の監督が有名です。",
+      "exampleVi": "Đạo diễn của bộ phim rất nổi tiếng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_169",
+      "term": "商店街",
+      "reading": "しょうてんがい",
+      "meaning": "khu phố mua sắm",
+      "hanviet": "",
+      "example": "商店街は多くの人でにぎわっている。",
+      "exampleVi": "Khu phố mua sắm rất nhộn nhịp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_170",
+      "term": "出場",
+      "reading": "しゅつじょう",
+      "meaning": "ra sân. thi đấu",
+      "hanviet": "",
+      "example": "彼は全国大会に出場する。",
+      "exampleVi": "Anh ấy sẽ tham gia giải toàn quốc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_171",
+      "term": "無事",
+      "reading": "ぶじ",
+      "meaning": "vô sự. không có vấn đề gì",
+      "hanviet": "",
+      "example": "旅行から無事に帰ってきた。",
+      "exampleVi": "Tôi đã trở về an toàn sau chuyến đi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_172",
+      "term": "素直",
+      "reading": "すなお",
+      "meaning": "ngoan ngoãn. dễ bảo",
+      "hanviet": "",
+      "example": "彼はとても素直な性格だ。",
+      "exampleVi": "Anh ấy là người rất ngoan ngoãn. thật thà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_173",
+      "term": "輸送",
+      "reading": "うんそう",
+      "meaning": "vận tải. vận chuyển",
+      "hanviet": "",
+      "example": "貨物はトラックで輸送される。",
+      "exampleVi": "Hàng hóa được vận chuyển bằng xe tải.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_174",
+      "term": "郵送",
+      "reading": "ゆうそう",
+      "meaning": "gửi đường bưu điện",
+      "hanviet": "",
+      "example": "書類を郵送で送ります。",
+      "exampleVi": "Tôi sẽ gửi tài liệu qua đường bưu điện.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_175",
+      "term": "限界",
+      "reading": "げんかい",
+      "meaning": "giới hạn",
+      "hanviet": "",
+      "example": "もう我慢の限界だ。",
+      "exampleVi": "Tôi không thể chịu đựng thêm được nữa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_176",
+      "term": "境界",
+      "reading": "きょうかい",
+      "meaning": "biên giới. ranh giới",
+      "hanviet": "",
+      "example": "県と県の境界を越える。",
+      "exampleVi": "Băng qua ranh giới giữa các tỉnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_177",
+      "term": "境目",
+      "reading": "さかいめ",
+      "meaning": "ranh giới",
+      "hanviet": "",
+      "example": "昼と夜の境目がはっきりしている。",
+      "exampleVi": "Ranh giới giữa ngày và đêm rất rõ ràng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_178",
+      "term": "体調",
+      "reading": "たいちょう",
+      "meaning": "thể trạng",
+      "hanviet": "",
+      "example": "今日は体調があまりよくない。",
+      "exampleVi": "Hôm nay tôi thấy trong người không khỏe lắm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_179",
+      "term": "中止",
+      "reading": "ちゅうし",
+      "meaning": "ngưng lại. dừng lại",
+      "hanviet": "",
+      "example": "雨のため試合が中止になった。",
+      "exampleVi": "Vì mưa nên trận đấu đã bị hủy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_180",
+      "term": "歌詞",
+      "reading": "かし",
+      "meaning": "ca từ. lời bài hát",
+      "hanviet": "",
+      "example": "この歌の歌詞がとても感動的だ。",
+      "exampleVi": "Lời bài hát này rất cảm động.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_181",
+      "term": "最近",
+      "reading": "さいきん",
+      "meaning": "gần đây",
+      "hanviet": "",
+      "example": "最近、運動不足を感じている。",
+      "exampleVi": "Gần đây tôi cảm thấy thiếu vận động.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_182",
+      "term": "清掃",
+      "reading": "せいそう",
+      "meaning": "dọn dẹp. làm sạch",
+      "hanviet": "",
+      "example": "駅の清掃が毎日行われている。",
+      "exampleVi": "Nhà ga được dọn vệ sinh hàng ngày.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_183",
+      "term": "法律",
+      "reading": "ほうりつ",
+      "meaning": "pháp luật",
+      "hanviet": "",
+      "example": "新しい法律が制定された。",
+      "exampleVi": "Luật mới đã được ban hành.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_184",
+      "term": "新技術",
+      "reading": "しんぎじゅつ",
+      "meaning": "kĩ thuật mới",
+      "hanviet": "",
+      "example": "この会社は新技術を開発している。",
+      "exampleVi": "Công ty này đang phát triển công nghệ mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_185",
+      "term": "厳重",
+      "reading": "げんじゅう",
+      "meaning": "nghiêm ngặt",
+      "hanviet": "",
+      "example": "入り口で厳重なチェックが行われている。",
+      "exampleVi": "Có kiểm tra nghiêm ngặt ở lối vào.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_186",
+      "term": "警官",
+      "reading": "けいかん",
+      "meaning": "đồn cảnh sát",
+      "hanviet": "",
+      "example": "警官が交通整理をしている。",
+      "exampleVi": "Cảnh sát đang điều tiết giao thông.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_187",
+      "term": "遠慮",
+      "reading": "えんりょ",
+      "meaning": "e ngại. khách sáo",
+      "hanviet": "",
+      "example": "どうぞ遠慮なく食べてください。",
+      "exampleVi": "Cứ tự nhiên ăn đi. đừng ngại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_188",
+      "term": "人柄",
+      "reading": "ひとがら",
+      "meaning": "tính cách. con người",
+      "hanviet": "",
+      "example": "彼は人柄が良く、信頼されている。",
+      "exampleVi": "Anh ấy có tính cách tốt và được tin tưởng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_189",
+      "term": "案の定",
+      "reading": "あんのじょう",
+      "meaning": "quả nhiên. đúng như dự đoán",
+      "hanviet": "",
+      "example": "案の定、彼はまた遅刻した。",
+      "exampleVi": "Đúng như dự đoán. anh ta lại đến muộn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_190",
+      "term": "終点",
+      "reading": "しゅうてん",
+      "meaning": "điểm cuối",
+      "hanviet": "",
+      "example": "このバスは次が終点です。",
+      "exampleVi": "Chuyến xe buýt này sẽ dừng ở trạm cuối tiếp theo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_191",
+      "term": "始発",
+      "reading": "始発",
+      "meaning": "",
+      "hanviet": "",
+      "example": "しはつ",
+      "exampleVi": "chuyến xe. tàu....",
+      "frequency": 1
+    },
+    {
+      "id": "v_192",
+      "term": "牧場",
+      "reading": "ぼくじょう",
+      "meaning": "trang trại",
+      "hanviet": "",
+      "example": "牧場で牛が草を食べている。",
+      "exampleVi": "Những con bò đang ăn cỏ ở trang trại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_193",
+      "term": "観察",
+      "reading": "かんさつ",
+      "meaning": "quan sát",
+      "hanviet": "",
+      "example": "昆虫の行動を観察する。",
+      "exampleVi": "Quan sát hành vi của côn trùng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_194",
+      "term": "準備",
+      "reading": "じゅんび",
+      "meaning": "chuẩn bị",
+      "hanviet": "",
+      "example": "出発の準備ができた。",
+      "exampleVi": "Tôi đã chuẩn bị xong để xuất phát.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_195",
+      "term": "開催日",
+      "reading": "かいさいび",
+      "meaning": "ngày tổ chức",
+      "hanviet": "",
+      "example": "試験の開催日が決定された。",
+      "exampleVi": "Ngày tổ chức kỳ thi đã được quyết định.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_196",
+      "term": "生命保険",
+      "reading": "せいめいほけん",
+      "meaning": "bảo hiểm nhân thọ",
+      "hanviet": "",
+      "example": "生命保険に加入する人が増えている。",
+      "exampleVi": "Ngày càng nhiều người tham gia bảo hiểm nhân thọ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_197",
+      "term": "手続き",
+      "reading": "てつづき",
+      "meaning": "thủ tục",
+      "hanviet": "",
+      "example": "入学手続きを済ませた。",
+      "exampleVi": "Tôi đã hoàn tất thủ tục nhập học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_198",
+      "term": "臨時",
+      "reading": "りんじ",
+      "meaning": "tạm thời",
+      "hanviet": "",
+      "example": "臨時の休校が発表された。",
+      "exampleVi": "Đã có thông báo nghỉ học tạm thời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_199",
+      "term": "演奏会",
+      "reading": "えんそうかい",
+      "meaning": "buổi biểu diễn",
+      "hanviet": "",
+      "example": "演奏会で素晴らしい音楽を聴いた。",
+      "exampleVi": "Tôi đã nghe một buổi hòa nhạc tuyệt vời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_200",
+      "term": "傾向",
+      "reading": "けいこう",
+      "meaning": "xu hướng",
+      "hanviet": "",
+      "example": "若者の間で新しい傾向が見られる。",
+      "exampleVi": "Có thể thấy xu hướng mới trong giới trẻ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_201",
+      "term": "住宅",
+      "reading": "じゅうたく",
+      "meaning": "nhà ở",
+      "hanviet": "",
+      "example": "新しい住宅地が開発された。",
+      "exampleVi": "Một khu dân cư mới đã được xây dựng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_202",
+      "term": "住家",
+      "reading": "じゅうか",
+      "meaning": "chỗ ở. nơi cư trú",
+      "hanviet": "",
+      "example": "この洞窟は動物たちの住家です。",
+      "exampleVi": "Hang động này là nơi ở của các loài động vật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_203",
+      "term": "住屋",
+      "reading": "じゅうきょ",
+      "meaning": "chỗ ở. nhà ở",
+      "hanviet": "",
+      "example": "安全な住屋を提供することが大切だ。",
+      "exampleVi": "Việc cung cấp nơi ở an toàn là rất quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_204",
+      "term": "授受",
+      "reading": "じゅじゅ",
+      "meaning": "cho nhận. trao đổi",
+      "hanviet": "",
+      "example": "書類の授受を確認した。",
+      "exampleVi": "Đã xác nhận việc trao nhận tài liệu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_205",
+      "term": "通話",
+      "reading": "つうわ",
+      "meaning": "gọi điện",
+      "hanviet": "",
+      "example": "長時間の通話でバッテリーが切れた。",
+      "exampleVi": "Cuộc gọi dài khiến điện thoại hết pin.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_206",
+      "term": "出願",
+      "reading": "しゅつがん",
+      "meaning": "nộp đơn",
+      "hanviet": "",
+      "example": "大学に出願した。",
+      "exampleVi": "Tôi đã nộp đơn vào đại học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_207",
+      "term": "密着",
+      "reading": "みっちゃく",
+      "meaning": "gắn chặt. theo sát",
+      "hanviet": "",
+      "example": "地域に密着したサービスを提供している。",
+      "exampleVi": "Chúng tôi cung cấp dịch vụ gắn bó với cộng đồng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_208",
+      "term": "自慢",
+      "reading": "じまん",
+      "meaning": "tự hào, khoe",
+      "hanviet": "",
+      "example": "彼は自分の成績を自慢していた。",
+      "exampleVi": "Anh ta đang khoe về thành tích của mình.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_209",
+      "term": "配達",
+      "reading": "はいたつ",
+      "meaning": "chuyển phát. giao hàng",
+      "hanviet": "",
+      "example": "新聞は毎朝配達される。",
+      "exampleVi": "Báo được giao mỗi sáng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_210",
+      "term": "歓迎",
+      "reading": "かんげい",
+      "meaning": "hoan nghênh. chào mừng",
+      "hanviet": "",
+      "example": "新入社員を歓迎する会が開かれた。",
+      "exampleVi": "Buổi tiệc chào đón nhân viên mới đã được tổ chức.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_211",
+      "term": "温度",
+      "reading": "おんど",
+      "meaning": "nhiệt độ",
+      "hanviet": "",
+      "example": "この部屋の温度は快適です。",
+      "exampleVi": "Nhiệt độ phòng này rất dễ chịu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_212",
+      "term": "充実",
+      "reading": "じゅうじつ",
+      "meaning": "đầy đủ. trọn vẹn",
+      "hanviet": "",
+      "example": "充実した一日を過ごした。",
+      "exampleVi": "Tôi đã trải qua một ngày thật ý nghĩa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_213",
+      "term": "乾杯",
+      "reading": "かんぱい",
+      "meaning": "cạn chén. cạn ly",
+      "hanviet": "",
+      "example": "みんなで乾杯してから食事を始めた。",
+      "exampleVi": "Mọi người cùng nâng ly trước khi bắt đầu bữa ăn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_214",
+      "term": "家庭",
+      "reading": "かてい",
+      "meaning": "gia đình",
+      "hanviet": "",
+      "example": "家庭を大切にする人が増えている。",
+      "exampleVi": "Ngày càng nhiều người coi trọng gia đình.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_215",
+      "term": "途端",
+      "reading": "とたん",
+      "meaning": "ngay lập tức",
+      "hanviet": "",
+      "example": "外に出た途端、雨が降り出した。",
+      "exampleVi": "Vừa bước ra ngoài thì trời bắt đầu mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_216",
+      "term": "刺激",
+      "reading": "しげき",
+      "meaning": "kích thích",
+      "hanviet": "",
+      "example": "この本は心に強い刺激を与えた。",
+      "exampleVi": "Cuốn sách này đã tạo nên một ấn tượng mạnh trong tôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_217",
+      "term": "身分証明書",
+      "reading": "みぶんしょうめいしょ",
+      "meaning": "CMND. thẻ căn cước",
+      "hanviet": "",
+      "example": "身分証明書を提示してください。",
+      "exampleVi": "Vui lòng xuất trình giấy tờ tùy thân.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_218",
+      "term": "職場環境",
+      "reading": "しょくばかんきょう",
+      "meaning": "môi trường làm việc",
+      "hanviet": "",
+      "example": "職場環境が良くなった。",
+      "exampleVi": "Môi trường làm việc đã được cải thiện.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_219",
+      "term": "通常",
+      "reading": "つうじょう",
+      "meaning": "thông thường",
+      "hanviet": "",
+      "example": "通常は9時に開店します。",
+      "exampleVi": "Thông thường cửa hàng mở lúc 9 giờ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_220",
+      "term": "応募",
+      "reading": "おうぼ",
+      "meaning": "ứng tuyển",
+      "hanviet": "",
+      "example": "アルバイトに応募した。",
+      "exampleVi": "Tôi đã ứng tuyển công việc làm thêm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_221",
+      "term": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "tuyển dụng",
+      "hanviet": "",
+      "example": "新メンバーを募集しています。",
+      "exampleVi": "Chúng tôi đang tuyển thành viên mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_222",
+      "term": "世代",
+      "reading": "せだい",
+      "meaning": "lứa tuổi",
+      "hanviet": "",
+      "example": "若い世代の考え方は変わってきた。",
+      "exampleVi": "Cách suy nghĩ của thế hệ trẻ đang thay đổi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_223",
+      "term": "対決",
+      "reading": "かいけつ",
+      "meaning": "đối đầu",
+      "hanviet": "",
+      "example": "強敵との対決に挑む。",
+      "exampleVi": "Thách thức trận đấu với đối thủ mạnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_224",
+      "term": "対抗",
+      "reading": "たいこう",
+      "meaning": "đối kháng",
+      "hanviet": "",
+      "example": "他社に対抗して値下げした。",
+      "exampleVi": "Đã giảm giá để cạnh tranh với công ty khác.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_225",
+      "term": "容器",
+      "reading": "ようき",
+      "meaning": "đồ đựng. hộp đựng",
+      "hanviet": "",
+      "example": "この容器は再利用できます。",
+      "exampleVi": "Hộp đựng này có thể tái sử dụng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_226",
+      "term": "物体",
+      "reading": "ぶったい",
+      "meaning": "vật thể",
+      "hanviet": "",
+      "example": "空に光る物体を見た。",
+      "exampleVi": "Tôi thấy một vật thể phát sáng trên trời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_227",
+      "term": "営業成績",
+      "reading": "えいぎょうせいせき",
+      "meaning": "thành tích kinh doanh",
+      "hanviet": "",
+      "example": "営業成績が前年を上回った。",
+      "exampleVi": "Kết quả kinh doanh vượt so với năm trước.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_228",
+      "term": "直行",
+      "reading": "ちょっこう",
+      "meaning": "một mạch. thẳng tiến",
+      "hanviet": "",
+      "example": "東京から大阪まで直行便があります。",
+      "exampleVi": "Có chuyến bay thẳng từ Tokyo đến Osaka.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_229",
+      "term": "反論",
+      "reading": "はんろん",
+      "meaning": "phản biện",
+      "hanviet": "",
+      "example": "彼の意見に反論した。",
+      "exampleVi": "Tôi đã phản bác ý kiến của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_230",
+      "term": "皮肉",
+      "reading": "ひにく",
+      "meaning": "mỉa mai",
+      "hanviet": "",
+      "example": "彼は皮肉を言うのが得意だ。",
+      "exampleVi": "Anh ta rất giỏi nói mỉa mai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_231",
+      "term": "自信",
+      "reading": "じしん",
+      "meaning": "tự tin",
+      "hanviet": "",
+      "example": "試験に自信がある。",
+      "exampleVi": "Tôi tự tin với kỳ thi này.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_232",
+      "term": "経験",
+      "reading": "けいけん",
+      "meaning": "kinh nghiệm",
+      "hanviet": "",
+      "example": "海外での仕事経験がある。",
+      "exampleVi": "Tôi có kinh nghiệm làm việc ở nước ngoài.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_233",
+      "term": "体力",
+      "reading": "たいりょく",
+      "meaning": "thể lực",
+      "hanviet": "",
+      "example": "体力をつけるために運動している。",
+      "exampleVi": "Tôi đang tập thể dục để tăng thể lực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_234",
+      "term": "原因",
+      "reading": "げんいん",
+      "meaning": "nguyên nhân",
+      "hanviet": "",
+      "example": "事故の原因を調査中だ。",
+      "exampleVi": "Đang điều tra nguyên nhân của vụ tai nạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_235",
+      "term": "悩み",
+      "reading": "なやみ",
+      "meaning": "phiền não",
+      "hanviet": "",
+      "example": "将来のことで悩んでいる。",
+      "exampleVi": "Tôi đang lo lắng về tương lai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_236",
+      "term": "瓶",
+      "reading": "びん",
+      "meaning": "cái lọ",
+      "hanviet": "",
+      "example": "瓶にワインを詰めた。",
+      "exampleVi": "Tôi đã đổ rượu vào chai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_237",
+      "term": "罰金",
+      "reading": "ばっきん",
+      "meaning": "tiền phạt",
+      "hanviet": "",
+      "example": "駐車違反で罰金を払った。",
+      "exampleVi": "Tôi đã bị phạt tiền vì đỗ xe sai quy định.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_238",
+      "term": "制度",
+      "reading": "せいど",
+      "meaning": "chế độ",
+      "hanviet": "",
+      "example": "この制度は来年から変わります。",
+      "exampleVi": "Chế độ này sẽ thay đổi từ năm sau.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_239",
+      "term": "財布",
+      "reading": "さいふ",
+      "meaning": "cái ví",
+      "hanviet": "",
+      "example": "財布を家に忘れてしまった。",
+      "exampleVi": "Tôi đã quên ví ở nhà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_240",
+      "term": "団体",
+      "reading": "だんたい",
+      "meaning": "hội. nhóm. đoàn thể",
+      "hanviet": "",
+      "example": "その団体は環境保護に取り組んでいる。",
+      "exampleVi": "Tổ chức đó đang nỗ lực bảo vệ môi trường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_241",
+      "term": "体育館",
+      "reading": "たいいくかん",
+      "meaning": "nhà thể chất",
+      "hanviet": "",
+      "example": "体育館でバスケットボールの試合が行われた。",
+      "exampleVi": "Trận bóng rổ được tổ chức tại nhà thi đấu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_242",
+      "term": "化粧品",
+      "reading": "けしょうひん",
+      "meaning": "mỹ phẩm",
+      "hanviet": "",
+      "example": "この店は外国製の化粧品が多い。",
+      "exampleVi": "Cửa hàng này có nhiều mỹ phẩm ngoại nhập.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_243",
+      "term": "健康食品",
+      "reading": "けんこうしょくひん",
+      "meaning": "thực phẩm có lợi cho sức khỏe",
+      "hanviet": "",
+      "example": "健康食品を毎日飲んでいる。",
+      "exampleVi": "Tôi uống thực phẩm chức năng mỗi ngày.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_244",
+      "term": "建設工事",
+      "reading": "けんせつこうじ",
+      "meaning": "công trình xây dựng",
+      "hanviet": "",
+      "example": "新しい駅の建設工事が始まった。",
+      "exampleVi": "Công trình xây dựng nhà ga mới đã bắt đầu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_245",
+      "term": "建設会社",
+      "reading": "けんせつがいしゃ",
+      "meaning": "công ty xây dựng",
+      "hanviet": "",
+      "example": "父は建設会社に勤めている。",
+      "exampleVi": "Bố tôi làm việc tại một công ty xây dựng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_246",
+      "term": "隙間",
+      "reading": "すきま",
+      "meaning": "khe. kẽ. khoảng trống",
+      "hanviet": "",
+      "example": "ドアの隙間から光が漏れている。",
+      "exampleVi": "Ánh sáng lọt qua khe cửa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_247",
+      "term": "書籍",
+      "reading": "しょせき",
+      "meaning": "thư tịch. tài liệu",
+      "hanviet": "",
+      "example": "この書店にはたくさんの書籍が並んでいる。",
+      "exampleVi": "Hiệu sách này có rất nhiều đầu sách.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_248",
+      "term": "打ち合わせ",
+      "reading": "うちあわせ",
+      "meaning": "cuộc họp",
+      "hanviet": "",
+      "example": "午後に打ち合わせがあります。",
+      "exampleVi": "Chiều nay tôi có một cuộc họp bàn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_249",
+      "term": "観測",
+      "reading": "かんそく",
+      "meaning": "quan trắc. đo đạc",
+      "hanviet": "",
+      "example": "台風の動きを観測する。",
+      "exampleVi": "Quan sát chuyển động của cơn bão.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_250",
+      "term": "承認",
+      "reading": "しょうにん",
+      "meaning": "chấp thuận. phê duyệt",
+      "hanviet": "",
+      "example": "上司の承認をもらってください。",
+      "exampleVi": "Hãy xin sự phê duyệt từ cấp trên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_251",
+      "term": "一人暮らし",
+      "reading": "ひとりぐらし",
+      "meaning": "sống một mình",
+      "hanviet": "",
+      "example": "大学生になって一人暮らしを始めた。",
+      "exampleVi": "Tôi bắt đầu sống một mình khi vào đại học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_252",
+      "term": "適切",
+      "reading": "てきせつ",
+      "meaning": "thích hợp",
+      "hanviet": "",
+      "example": "適切な対応が求められている。",
+      "exampleVi": "Yêu cầu phản ứng phù hợp được đưa ra.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_253",
+      "term": "短縮",
+      "reading": "たんしゅく",
+      "meaning": "rút ngắn",
+      "hanviet": "",
+      "example": "通勤時間を短縮したい。",
+      "exampleVi": "Tôi muốn rút ngắn thời gian đi làm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_254",
+      "term": "入社",
+      "reading": "にゅうしゃ",
+      "meaning": "vào công ty 4",
+      "hanviet": "",
+      "example": "月に新しい会社に入社する。",
+      "exampleVi": "Tôi sẽ vào công ty mới vào tháng 4.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_255",
+      "term": "収集",
+      "reading": "しゅうしゅ",
+      "meaning": "thu thập",
+      "hanviet": "",
+      "example": "情報を収集してから決めよう。",
+      "exampleVi": "Thu thập thông tin rồi hãy quyết định.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_256",
+      "term": "長さ",
+      "reading": "ながさ",
+      "meaning": "độ dài",
+      "hanviet": "",
+      "example": "この机の長さは2メートルです。",
+      "exampleVi": "Chiều dài của cái bàn này là 2 mét.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_257",
+      "term": "高さ",
+      "reading": "たかさ",
+      "meaning": "độ cao",
+      "hanviet": "",
+      "example": "このビルの高さは100メートル。",
+      "exampleVi": "Chiều cao của tòa nhà này là 100 mét.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_258",
+      "term": "大きさ",
+      "reading": "おおきさ",
+      "meaning": "độ lớn",
+      "hanviet": "",
+      "example": "箱の大きさを測ってください。",
+      "exampleVi": "Hãy đo kích thước của chiếc hộp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_259",
+      "term": "係員",
+      "reading": "かかりいん",
+      "meaning": "người quản lý",
+      "hanviet": "",
+      "example": "係員の指示に従ってください。",
+      "exampleVi": "Hãy làm theo hướng dẫn của nhân viên phụ trách.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_260",
+      "term": "旗",
+      "reading": "はた",
+      "meaning": "lá cờ",
+      "hanviet": "",
+      "example": "運動会で国の旗が掲げられた。",
+      "exampleVi": "Lá cờ quốc gia đã được giương lên trong đại hội thể thao.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_261",
+      "term": "原材料",
+      "reading": "げんざいりょう",
+      "meaning": "nguyên vật liệu",
+      "hanviet": "",
+      "example": "この製品は安全な原材料で作られている。",
+      "exampleVi": "Sản phẩm này được làm từ nguyên liệu an toàn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_262",
+      "term": "作業",
+      "reading": "さぎょう",
+      "meaning": "thao tác",
+      "hanviet": "",
+      "example": "危険な作業には注意が必要だ。",
+      "exampleVi": "Cần chú ý khi làm việc nguy hiểm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_263",
+      "term": "掲示板",
+      "reading": "けいじばん",
+      "meaning": "bảng thông báo",
+      "hanviet": "",
+      "example": "掲示板に連絡事項が貼ってある。",
+      "exampleVi": "Thông báo được dán trên bảng thông tin.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_264",
+      "term": "運賃",
+      "reading": "うんちん",
+      "meaning": "tiền vé xe",
+      "hanviet": "",
+      "example": "バスの運賃が値上げされた。",
+      "exampleVi": "Giá vé xe buýt đã tăng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_265",
+      "term": "模範",
+      "reading": "もはん",
+      "meaning": "chuẩn mực. chuẩn",
+      "hanviet": "",
+      "example": "彼はクラスの模範となる存在だ。",
+      "exampleVi": "Anh ấy là tấm gương trong lớp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_266",
+      "term": "握手",
+      "reading": "あくしゅ",
+      "meaning": "bắt tay",
+      "hanviet": "",
+      "example": "初対面で握手を交わした。",
+      "exampleVi": "Chúng tôi bắt tay khi lần đầu gặp mặt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_267",
+      "term": "布",
+      "reading": "ぬの",
+      "meaning": "vải",
+      "hanviet": "",
+      "example": "柔らかい布でテーブルを拭いた。",
+      "exampleVi": "Tôi đã lau bàn bằng một miếng vải mềm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_268",
+      "term": "福祉",
+      "reading": "ふくし",
+      "meaning": "phúc lợi",
+      "hanviet": "",
+      "example": "福祉制度の充実が求められている。",
+      "exampleVi": "Cần phải cải thiện hệ thống phúc lợi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_269",
+      "term": "損失",
+      "reading": "そんしつ",
+      "meaning": "tổn thất",
+      "hanviet": "",
+      "example": "その会社は大きな損失を出した。",
+      "exampleVi": "Công ty đó đã chịu một khoản lỗ lớn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_270",
+      "term": "印",
+      "reading": "じるし",
+      "meaning": "dấu",
+      "hanviet": "",
+      "example": "必要なところに印をつけてください。",
+      "exampleVi": "Hãy đánh dấu vào chỗ cần thiết.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_271",
+      "term": "売れ行き",
+      "reading": "うれいき",
+      "meaning": "tình hình buôn bán",
+      "hanviet": "",
+      "example": "その商品の売れ行きは好調だ。",
+      "exampleVi": "Sản phẩm đó đang bán rất chạy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_272",
+      "term": "生産量",
+      "reading": "せいさんりょう",
+      "meaning": "sản lượng",
+      "hanviet": "",
+      "example": "今年の米の生産量は昨年より多い。",
+      "exampleVi": "Sản lượng gạo năm nay nhiều hơn năm ngoái.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_273",
+      "term": "期日",
+      "reading": "きじつ",
+      "meaning": "hạn",
+      "hanviet": "",
+      "example": "期日までに提出してください。",
+      "exampleVi": "Hãy nộp trước thời hạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_274",
+      "term": "食費",
+      "reading": "しょくひ",
+      "meaning": "tiền ăn",
+      "hanviet": "",
+      "example": "一か月の食費を見直した。",
+      "exampleVi": "Tôi đã xem lại chi phí ăn uống hàng tháng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_275",
+      "term": "早期",
+      "reading": "そうき",
+      "meaning": "sớm. giai đoạn đầu",
+      "hanviet": "",
+      "example": "問題の早期解決が望まれている。",
+      "exampleVi": "Mọi người mong muốn vấn đề được giải quyết sớm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_276",
+      "term": "課題",
+      "reading": "かだい",
+      "meaning": "vấn đề",
+      "hanviet": "",
+      "example": "このレポートの課題は難しい。",
+      "exampleVi": "Đề bài của bài báo cáo này khá khó.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_277",
+      "term": "題名",
+      "reading": "だいめい",
+      "meaning": "nhan đề. tựa đề",
+      "hanviet": "",
+      "example": "この本の題名は何ですか？",
+      "exampleVi": "Tựa đề cuốn sách này là gì vậy?。",
+      "frequency": 1
+    },
+    {
+      "id": "v_278",
+      "term": "話題",
+      "reading": "わだい",
+      "meaning": "chủ đề",
+      "hanviet": "",
+      "example": "その話題で盛り上がった。",
+      "exampleVi": "Câu chuyện đó đã làm không khí sôi nổi hẳn lên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_279",
+      "term": "題材",
+      "reading": "だいざい",
+      "meaning": "đề tài",
+      "hanviet": "",
+      "example": "この映画は実話を題材にしている。",
+      "exampleVi": "Bộ phim này được lấy cảm hứng từ câu chuyện có thật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_280",
+      "term": "後悔",
+      "reading": "こうかい",
+      "meaning": "hối hận",
+      "hanviet": "",
+      "example": "あのときの選択を後悔している。",
+      "exampleVi": "Tôi hối hận về quyết định lúc đó.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_281",
+      "term": "我慢",
+      "reading": "がまん",
+      "meaning": "chịu đựng",
+      "hanviet": "",
+      "example": "痛みを我慢して治療を受けた。",
+      "exampleVi": "Tôi chịu đau để điều trị.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_282",
+      "term": "恐縮",
+      "reading": "きょうしゅく",
+      "meaning": "xin lỗi",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "vì làm phiền người khác",
+      "frequency": 1
+    },
+    {
+      "id": "v_283",
+      "term": "指定",
+      "reading": "してい",
+      "meaning": "chỉ định",
+      "hanviet": "",
+      "example": "座席はすべて指定席です。",
+      "exampleVi": "Tất cả các chỗ ngồi đều được chỉ định sẵn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_284",
+      "term": "固定",
+      "reading": "こてい",
+      "meaning": "cố địng",
+      "hanviet": "",
+      "example": "机を壁に固定した。",
+      "exampleVi": "Tôi đã cố định cái bàn vào tường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_285",
+      "term": "代表者",
+      "reading": "だいひょうしゃ",
+      "meaning": "người đại diện",
+      "hanviet": "",
+      "example": "チームの代表者が挨拶をした。",
+      "exampleVi": "Đại diện của đội đã phát biểu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_286",
+      "term": "各自",
+      "reading": "かくじ",
+      "meaning": "mỗi người",
+      "hanviet": "",
+      "example": "各自が責任を持って行動してください。",
+      "exampleVi": "Mỗi người hãy hành động có trách nhiệm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_287",
+      "term": "一人一人",
+      "reading": "ひとりひとり",
+      "meaning": "từng người một",
+      "hanviet": "",
+      "example": "一人一人の意見を尊重する。",
+      "exampleVi": "Tôn trọng ý kiến của từng cá nhân.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_288",
+      "term": "同僚",
+      "reading": "どうりょう",
+      "meaning": "đồng nghiệp",
+      "hanviet": "",
+      "example": "同僚と仲良く仕事している。",
+      "exampleVi": "Tôi làm việc hòa thuận với đồng nghiệp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_289",
+      "term": "暮れ",
+      "reading": "くれ",
+      "meaning": "cuối năm",
+      "hanviet": "",
+      "example": "年の暮れに大掃除をする。",
+      "exampleVi": "Cuối năm tôi sẽ tổng vệ sinh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_290",
+      "term": "残高",
+      "reading": "ざんだか",
+      "meaning": "số dư",
+      "hanviet": "",
+      "example": "銀行口座の残高を確認する。",
+      "exampleVi": "Kiểm tra số dư tài khoản ngân hàng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_291",
+      "term": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "lễ nghi. phép tắc",
+      "hanviet": "",
+      "example": "行儀よく食事しなさい。",
+      "exampleVi": "Ăn uống cho đàng hoàng vào.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_292",
+      "term": "冗談",
+      "reading": "じょうだん",
+      "meaning": "lời nói đùa",
+      "hanviet": "",
+      "example": "それは冗談にしてはきつすぎる。",
+      "exampleVi": "Đùa thế thì hơi quá rồi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_293",
+      "term": "うそ",
+      "reading": "うそ",
+      "meaning": "nói dối",
+      "hanviet": "",
+      "example": "そんなの、うそに決まってる。",
+      "exampleVi": "Chuyện đó chắc chắn là nói dối rồi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_294",
+      "term": "用心",
+      "reading": "ようじん",
+      "meaning": "cẩn thận. chú ý",
+      "hanviet": "",
+      "example": "夜道は用心したほうがいい。",
+      "exampleVi": "Tốt hơn là nên cẩn thận khi đi đường vào ban đêm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_295",
+      "term": "濁る",
+      "reading": "にごる",
+      "meaning": "vẩn đục",
+      "hanviet": "",
+      "example": "川の水が濁っていて、魚が見えない。",
+      "exampleVi": "Nước sông bị đục nên không thấy cá.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_296",
+      "term": "解約する",
+      "reading": "かいやくする",
+      "meaning": "chấm dứt hợp đồng",
+      "hanviet": "",
+      "example": "スマホのプランを解約した。",
+      "exampleVi": "Tôi đã hủy gói cước điện thoại.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_297",
+      "term": "招く",
+      "reading": "まねく",
+      "meaning": "mời. rủ",
+      "hanviet": "",
+      "example": "結婚式に友人を招いた。",
+      "exampleVi": "Tôi đã mời bạn đến dự đám cưới.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_298",
+      "term": "訪ねる",
+      "reading": "たずねる",
+      "meaning": "ghé thăm",
+      "hanviet": "",
+      "example": "昔の友人の家を訪ねた。",
+      "exampleVi": "Tôi đến thăm nhà bạn cũ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_299",
+      "term": "(種)まく",
+      "reading": "(種)まく",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "たね）まく vãi. rải",
+      "exampleVi": "hạt",
+      "frequency": 2
+    },
+    {
+      "id": "v_300",
+      "term": "縛る",
+      "reading": "しばる",
+      "meaning": "buộc",
+      "hanviet": "",
+      "example": "荷物をひもでしっかり縛った。",
+      "exampleVi": "Tôi buộc hành lý chặt bằng dây.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_301",
+      "term": "傷む",
+      "reading": "いたむ",
+      "meaning": "hư hại. hỏng hóc",
+      "hanviet": "",
+      "example": "この肉はもう傷んでいる。",
+      "exampleVi": "Miếng thịt này đã bị hỏng.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_302",
+      "term": "欠かす",
+      "reading": "かかす",
+      "meaning": "thiếu. bỏ qua",
+      "hanviet": "",
+      "example": "朝ごはんを欠かしたことがない。",
+      "exampleVi": "Tôi chưa từng bỏ bữa sáng.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_303",
+      "term": "慌てる",
+      "reading": "あわてる",
+      "meaning": "cuống quýt",
+      "hanviet": "",
+      "example": "財布を忘れて慌てた。",
+      "exampleVi": "Tôi hoảng hốt vì quên ví.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_304",
+      "term": "奪う",
+      "reading": "うばう",
+      "meaning": "cướp",
+      "hanviet": "",
+      "example": "男がバッグを奪って逃げた。",
+      "exampleVi": "Người đàn ông giật túi và bỏ chạy.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_305",
+      "term": "争う",
+      "reading": "あらそう",
+      "meaning": "cạnh tranh",
+      "hanviet": "",
+      "example": "二人は席をめぐって争っていた。",
+      "exampleVi": "Hai người tranh giành chỗ ngồi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_306",
+      "term": "合わせる",
+      "reading": "あわせる",
+      "meaning": "làm cho khớp. làm cho hợp với",
+      "hanviet": "",
+      "example": "力を合わせて問題を解決しよう。",
+      "exampleVi": "Hãy cùng nhau giải quyết vấn đề.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_307",
+      "term": "備える",
+      "reading": "そなえる",
+      "meaning": "chuẩn bị. phòng bị",
+      "hanviet": "",
+      "example": "災害に備えて食料を準備する。",
+      "exampleVi": "Chuẩn bị lương thực để phòng thiên tai.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_308",
+      "term": "荒れる",
+      "reading": "あれる",
+      "meaning": "nứt nẻ. bỏ hoang",
+      "hanviet": "",
+      "example": "台風で海が荒れている。",
+      "exampleVi": "Biển động vì bão.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_309",
+      "term": "壊す",
+      "reading": "こわす",
+      "meaning": "làm hỏng",
+      "hanviet": "",
+      "example": "子どもがおもちゃを壊した。",
+      "exampleVi": "Đứa trẻ làm hỏng đồ chơi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_310",
+      "term": "回復する",
+      "reading": "かいふくする",
+      "meaning": "hồi phục. khôi phục",
+      "hanviet": "",
+      "example": "病気から回復して元気になった。",
+      "exampleVi": "Khỏe lại sau khi khỏi bệnh.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_311",
+      "term": "盛り上がる",
+      "reading": "もりあがる",
+      "meaning": "sôi nổi. hào hứng",
+      "hanviet": "",
+      "example": "会話が盛り上がった。",
+      "exampleVi": "Cuộc trò chuyện trở nên sôi nổi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_312",
+      "term": "触れ合う",
+      "reading": "さわれあう",
+      "meaning": "tiếp xúc",
+      "hanviet": "",
+      "example": "動物と触れ合えるイベントが人気だ。",
+      "exampleVi": "Sự kiện tiếp xúc với động vật rất được ưa thích.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_313",
+      "term": "捨てる",
+      "reading": "すてる",
+      "meaning": "vứt đi",
+      "hanviet": "",
+      "example": "ゴミをちゃんと分別して捨てましょう。",
+      "exampleVi": "Hãy phân loại rác rồi vứt.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_314",
+      "term": "さまたげる",
+      "reading": "さまたげる",
+      "meaning": "cản. gây trở ngại",
+      "hanviet": "",
+      "example": "通行をさまたげる行為は禁止です。",
+      "exampleVi": "Hành vi cản trở giao thông bị cấm.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_315",
+      "term": "普及する",
+      "reading": "ふきゅうする",
+      "meaning": "phổ cập",
+      "hanviet": "",
+      "example": "スマートフォンが世界中に普及している。",
+      "exampleVi": "Điện thoại thông minh phổ biến trên toàn thế giới.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_316",
+      "term": "差し支える",
+      "reading": "さしつかえる",
+      "meaning": "cản trở. gây chướng ngại. gây ảnh hưởng",
+      "hanviet": "",
+      "example": "明日の予定に差し支えるなら言ってください。",
+      "exampleVi": "Nếu ảnh hưởng đến kế hoạch ngày mai thì hãy nói.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_317",
+      "term": "揃える",
+      "reading": "そろえる",
+      "meaning": "căn chỉnh cho đều",
+      "hanviet": "",
+      "example": "靴をきちんと揃えなさい。",
+      "exampleVi": "Xếp giày cho ngay ngắn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_318",
+      "term": "買いしめる",
+      "reading": "かいしめる",
+      "meaning": "mua toàn bộ ＝",
+      "hanviet": "",
+      "example": "全部買った マスクを買いしめる人が増えている。",
+      "exampleVi": "Ngày càng nhiều người mua gom khẩu trang.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_319",
+      "term": "畳む",
+      "reading": "たたむ",
+      "meaning": "gấp lại. gập lại",
+      "hanviet": "",
+      "example": "洗濯物をきれいに畳んだ。",
+      "exampleVi": "Tôi đã gấp quần áo gọn gàng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_320",
+      "term": "関わりあう",
+      "reading": "かかわりあう",
+      "meaning": "bị vướng vào. lẫn vào",
+      "hanviet": "",
+      "example": "地域の活動に関わりあうことが大切だ。",
+      "exampleVi": "Việc tham gia vào hoạt động cộng đồng là quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_321",
+      "term": "引っかかる",
+      "reading": "ひっかかる",
+      "meaning": "mắc vào. vướng vào",
+      "hanviet": "",
+      "example": "ポケットがドアノブに引っかかった。",
+      "exampleVi": "Túi quần bị mắc vào tay nắm cửa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_322",
+      "term": "収める",
+      "reading": "おさめる",
+      "meaning": "bao gồm. tập hợp",
+      "hanviet": "",
+      "example": "大きな成果を収めた。",
+      "exampleVi": "Đạt được thành quả lớn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_323",
+      "term": "取り壊す",
+      "reading": "とりこわす",
+      "meaning": "phá hủy. phá bỏ",
+      "hanviet": "",
+      "example": "古い家を取り壊して新しく建て直す。",
+      "exampleVi": "Phá dỡ nhà cũ để xây lại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_324",
+      "term": "扱う",
+      "reading": "あつかう",
+      "meaning": "dùng",
+      "hanviet": "",
+      "example": "この店では外国の商品も扱っています。",
+      "exampleVi": "Cửa hàng này cũng bán hàng hóa nước ngoài.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_325",
+      "term": "積み重ねる",
+      "reading": "つみかさねる",
+      "meaning": "chất đống. tích cóp",
+      "hanviet": "",
+      "example": "経験を積み重ねて成長する。",
+      "exampleVi": "Tích lũy kinh nghiệm để trưởng thành.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_326",
+      "term": "建て替える",
+      "reading": "たてかえる",
+      "meaning": "xây mới. xây lại",
+      "hanviet": "",
+      "example": "校舎を新しく建て替える予定です。",
+      "exampleVi": "Dự kiến xây lại dãy lớp học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_327",
+      "term": "思いきる",
+      "reading": "おもいきる",
+      "meaning": "dứt khoát. quyết tâm",
+      "hanviet": "",
+      "example": "会社を辞めると決心し、思いきった。",
+      "exampleVi": "Tôi quyết tâm nghỉ việc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_328",
+      "term": "目指す",
+      "reading": "めざす",
+      "meaning": "nhắm tới. hướng tới",
+      "hanviet": "",
+      "example": "医者になることを目指している。",
+      "exampleVi": "Tôi đang hướng tới trở thành bác sĩ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_329",
+      "term": "蓄える",
+      "reading": "たくわえる",
+      "meaning": "tích lũy",
+      "hanviet": "",
+      "example": "災害に備えて水と食料を蓄えている。",
+      "exampleVi": "Tôi tích trữ nước và thực phẩm để phòng thiên tai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_330",
+      "term": "異なる",
+      "reading": "ことなる",
+      "meaning": "khác",
+      "hanviet": "",
+      "example": "意見が人によって異なる。",
+      "exampleVi": "Ý kiến khác nhau tùy người.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_331",
+      "term": "とらえる",
+      "reading": "とらえる",
+      "meaning": "nắm bắt được",
+      "hanviet": "",
+      "example": "カメラで美しい瞬間をとらえた。",
+      "exampleVi": "Tôi đã bắt được khoảnh khắc đẹp bằng máy ảnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_332",
+      "term": "結ぶ",
+      "reading": "むすぶ",
+      "meaning": "buộc. kí kết",
+      "hanviet": "",
+      "example": "契約を正式に結んだ。",
+      "exampleVi": "Đã chính thức ký hợp đồng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_333",
+      "term": "似る",
+      "reading": "にる",
+      "meaning": "giống",
+      "hanviet": "",
+      "example": "彼は父親にとても似ている。",
+      "exampleVi": "Anh ấy rất giống bố.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_334",
+      "term": "就く",
+      "reading": "つく",
+      "meaning": "làm việc",
+      "hanviet": "",
+      "example": "新しい仕事に就いた。",
+      "exampleVi": "Tôi đã nhận công việc mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_335",
+      "term": "面する",
+      "reading": "めんする",
+      "meaning": "đối diện. hướng ra",
+      "hanviet": "",
+      "example": "部屋は海に面している。",
+      "exampleVi": "Phòng hướng ra biển.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_336",
+      "term": "振り向く",
+      "reading": "ふりむく",
+      "meaning": "quay lại. ngoảnh lại",
+      "hanviet": "",
+      "example": "後ろから名前を呼ばれて振り向いた。",
+      "exampleVi": "Tôi quay lại khi nghe gọi tên từ phía sau.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_337",
+      "term": "甘やかす",
+      "reading": "あまやかす",
+      "meaning": "nuông chiều",
+      "hanviet": "",
+      "example": "子どもを甘やかしすぎないようにする。",
+      "exampleVi": "Cố gắng không nuông chiều con quá mức.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_338",
+      "term": "立ち上げる",
+      "reading": "たちあげる",
+      "meaning": "bắt đầu. khởi động",
+      "hanviet": "",
+      "example": "新しい会社を立ち上げた。",
+      "exampleVi": "Tôi đã khởi nghiệp công ty mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_339",
+      "term": "つぶす",
+      "reading": "つぶす",
+      "meaning": "giết",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "thời gian",
+      "frequency": 1
+    },
+    {
+      "id": "v_340",
+      "term": "ささやく",
+      "reading": "ささやく",
+      "meaning": "thì thầm =",
+      "hanviet": "",
+      "example": "小声で 彼は私の耳元でささやいた。",
+      "exampleVi": "Anh ấy thì thầm bên tai tôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_341",
+      "term": "思いつく",
+      "reading": "おもいつく",
+      "meaning": "nảy ra ý tưởng. nghĩ ra",
+      "hanviet": "",
+      "example": "面白いアイデアを思いついた。",
+      "exampleVi": "Tôi nảy ra một ý tưởng thú vị.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_342",
+      "term": "隠れる",
+      "reading": "かくれる",
+      "meaning": "trốn. núp",
+      "hanviet": "",
+      "example": "物陰に隠れて敵を待つ。",
+      "exampleVi": "Ẩn mình trong bóng để chờ kẻ thù.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_343",
+      "term": "崩れる",
+      "reading": "くずれる",
+      "meaning": "vỡ. sạt lở",
+      "hanviet": "",
+      "example": "古いビルが地震で崩れた。",
+      "exampleVi": "Tòa nhà cũ đổ sập vì động đất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_344",
+      "term": "にごる",
+      "reading": "にごる",
+      "meaning": "vẩn đục",
+      "hanviet": "",
+      "example": "彼の言葉に本音がにごっていた。",
+      "exampleVi": "Lời nói của anh ấy ẩn chứa ý thật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_345",
+      "term": "注目した",
+      "reading": "ちゅうもくした",
+      "meaning": "chú ý ＝",
+      "hanviet": "",
+      "example": "関心を持った 彼の行動に注目した。",
+      "exampleVi": "Tôi đã chú ý đến hành động của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_346",
+      "term": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "kéo lại. giữ lại",
+      "hanviet": "",
+      "example": "友達を駅で引き止めた。",
+      "exampleVi": "Tôi đã giữ bạn lại ở ga.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_347",
+      "term": "ぶつかる",
+      "reading": "ぶつかる",
+      "meaning": "va chạm. đâm",
+      "hanviet": "",
+      "example": "自転車と歩行者がぶつかった。",
+      "exampleVi": "Xe đạp va vào người đi bộ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_348",
+      "term": "生じる",
+      "reading": "しょうじる",
+      "meaning": "nảy sinh. phát sinh",
+      "hanviet": "",
+      "example": "トラブルが生じた場合は連絡してください。",
+      "exampleVi": "Nếu có sự cố. hãy liên hệ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_349",
+      "term": "取り付ける",
+      "reading": "とりつける",
+      "meaning": "lắp đặt. gắn",
+      "hanviet": "",
+      "example": "壁に棚を取り付けた。",
+      "exampleVi": "Tôi đã lắp kệ lên tường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_350",
+      "term": "持ち寄る",
+      "reading": "もちよる",
+      "meaning": "gom lại",
+      "hanviet": "",
+      "example": "料理を持ち寄ってパーティーを開いた。",
+      "exampleVi": "Chúng tôi tổ chức tiệc mỗi người mang món ăn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_351",
+      "term": "恵む",
+      "reading": "めぐむ",
+      "meaning": "ưu đãi. ưu ái. ban cho",
+      "hanviet": "",
+      "example": "ホームレスに食べ物を恵んだ。",
+      "exampleVi": "Tôi đã cho người vô gia cư đồ ăn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_352",
+      "term": "導く",
+      "reading": "みちびく",
+      "meaning": "dẫn dắt",
+      "hanviet": "",
+      "example": "成功へと導く指導者。",
+      "exampleVi": "Người lãnh đạo dẫn dắt đến thành công.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_353",
+      "term": "追い越す",
+      "reading": "おいこす",
+      "meaning": "vượt qua",
+      "hanviet": "",
+      "example": "前の車をスムーズに追い越した。",
+      "exampleVi": "Vượt xe phía trước một cách trơn tru.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_354",
+      "term": "努める",
+      "reading": "つとめる",
+      "meaning": "cố gắng. nỗ lực",
+      "hanviet": "",
+      "example": "会社の発展のために努めている。",
+      "exampleVi": "Tôi đang nỗ lực vì sự phát triển của công ty.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_355",
+      "term": "さびる",
+      "reading": "さびる",
+      "meaning": "han gỉ",
+      "hanviet": "",
+      "example": "雨で自転車がさびてしまった。",
+      "exampleVi": "Xe đạp bị rỉ do mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_356",
+      "term": "当てはまる",
+      "reading": "あてはまる",
+      "meaning": "phù hợp với",
+      "hanviet": "",
+      "example": "この規則は誰にでも当てはまる。",
+      "exampleVi": "Quy tắc này áp dụng cho tất cả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_357",
+      "term": "付け加える",
+      "reading": "つけくわえる",
+      "meaning": "thêm vào. bổ sung",
+      "hanviet": "",
+      "example": "説明を付け加えた。",
+      "exampleVi": "Thêm phần giải thích.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_358",
+      "term": "行き着く",
+      "reading": "いきつく",
+      "meaning": "đến nơi",
+      "hanviet": "",
+      "example": "最終地点に行き着いた。",
+      "exampleVi": "Đã đến điểm cuối cùng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_359",
+      "term": "余る",
+      "reading": "あまる",
+      "meaning": "còn thừa lại",
+      "hanviet": "",
+      "example": "料理が余った。",
+      "exampleVi": "Còn thừa thức ăn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_360",
+      "term": "悔やむ",
+      "reading": "くやむ",
+      "meaning": "hối tiếc",
+      "hanviet": "",
+      "example": "過去を悔やんでも仕方ない。",
+      "exampleVi": "Dù hối tiếc quá khứ cũng vô ích.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_361",
+      "term": "ゆずる",
+      "reading": "ゆずる",
+      "meaning": "nhường lại. nhượng lại",
+      "hanviet": "",
+      "example": "席をお年寄りにゆずる。",
+      "exampleVi": "Nhường ghế cho người già.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_362",
+      "term": "略す",
+      "reading": "りゃくす",
+      "meaning": "lược bỏ",
+      "hanviet": "",
+      "example": "名前を略して呼ぶ。",
+      "exampleVi": "Gọi tên viết tắt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_363",
+      "term": "覆う",
+      "reading": "おおう",
+      "meaning": "bao bọc. bao phủ",
+      "hanviet": "",
+      "example": "雪が地面を覆った。",
+      "exampleVi": "Tuyết phủ kín mặt đất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_364",
+      "term": "疑う",
+      "reading": "うたがう",
+      "meaning": "nghi ngờ. thắc mắc",
+      "hanviet": "",
+      "example": "彼の言葉を疑う。",
+      "exampleVi": "Nghi ngờ lời nói của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_365",
+      "term": "含む",
+      "reading": "ふくむ",
+      "meaning": "bao gồm. có",
+      "hanviet": "",
+      "example": "この水はミネラルを含む。",
+      "exampleVi": "Nước này chứa khoáng chất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_366",
+      "term": "切り替える",
+      "reading": "きりかえる",
+      "meaning": "thay đổi. chuyển đổi",
+      "hanviet": "",
+      "example": "気持ちを切り替える。",
+      "exampleVi": "Thay đổi tâm trạng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_367",
+      "term": "打ち消す",
+      "reading": "うちけす",
+      "meaning": "phủ nhận. bác bỏ",
+      "hanviet": "",
+      "example": "うわさを打ち消す。",
+      "exampleVi": "Phủ nhận tin đồn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_368",
+      "term": "むかつく",
+      "reading": "むかつく",
+      "meaning": "bực mình",
+      "hanviet": "",
+      "example": "あの態度にはむかつく。",
+      "exampleVi": "Bực mình với thái độ đó.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_369",
+      "term": "破れる",
+      "reading": "やぶれる",
+      "meaning": "rách",
+      "hanviet": "",
+      "example": "紙が破れた。",
+      "exampleVi": "Tờ giấy bị rách.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_370",
+      "term": "散らかす",
+      "reading": "ちらかす",
+      "meaning": "bày bừa",
+      "hanviet": "",
+      "example": "部屋を散らかした。",
+      "exampleVi": "Làm bừa bộn phòng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_371",
+      "term": "達する",
+      "reading": "たっする",
+      "meaning": "lên đến. đạt tới",
+      "hanviet": "",
+      "example": "目標に達した。",
+      "exampleVi": "Đạt được mục tiêu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_372",
+      "term": "当てる",
+      "reading": "あてる",
+      "meaning": "trúng",
+      "hanviet": "",
+      "example": "的に矢を当てる。",
+      "exampleVi": "Bắn trúng đích.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_373",
+      "term": "ぶつける",
+      "reading": "ぶつける",
+      "meaning": "đập vào",
+      "hanviet": "",
+      "example": "頭を壁にぶつけた。",
+      "exampleVi": "Đập đầu vào tường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_374",
+      "term": "沈む",
+      "reading": "しずむ",
+      "meaning": "chìm xuống",
+      "hanviet": "",
+      "example": "船が海に沈んだ。",
+      "exampleVi": "Thuyền chìm xuống biển.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_375",
+      "term": "隠す",
+      "reading": "かくす",
+      "meaning": "giấu",
+      "hanviet": "",
+      "example": "事実を隠す。",
+      "exampleVi": "Che giấu sự thật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_376",
+      "term": "詰める",
+      "reading": "つめる",
+      "meaning": "nhồi nhét",
+      "hanviet": "",
+      "example": "箱に服を詰める。",
+      "exampleVi": "Nhét quần áo vào hộp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_377",
+      "term": "描く",
+      "reading": "かく",
+      "meaning": "vẽ",
+      "hanviet": "",
+      "example": "夢を描く。",
+      "exampleVi": "Vẽ giấc mơ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_378",
+      "term": "演じる",
+      "reading": "えんじる",
+      "meaning": "trình diễn. đóng vai",
+      "hanviet": "",
+      "example": "役を演じる。",
+      "exampleVi": "Đóng vai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_379",
+      "term": "踏む",
+      "reading": "ふむ",
+      "meaning": "dẫm",
+      "hanviet": "",
+      "example": "花を踏まないでください。",
+      "exampleVi": "Đừng giẫm lên hoa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_380",
+      "term": "述べる",
+      "reading": "のべる",
+      "meaning": "nói",
+      "hanviet": "",
+      "example": "意見を述べる。",
+      "exampleVi": "Trình bày ý kiến.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_381",
+      "term": "飽きる",
+      "reading": "あきる",
+      "meaning": "chán",
+      "hanviet": "",
+      "example": "ゲームに飽きた。",
+      "exampleVi": "Chán trò chơi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_382",
+      "term": "飛び散る",
+      "reading": "とびちる",
+      "meaning": "bắn tung tóe",
+      "hanviet": "",
+      "example": "水が飛び散った。",
+      "exampleVi": "Nước văng tung tóe.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_383",
+      "term": "乗り継ぐ",
+      "reading": "のりつぐ",
+      "meaning": "nối chuyến",
+      "hanviet": "",
+      "example": "東京で電車を乗り継ぐ。",
+      "exampleVi": "Chuyển tàu ở Tokyo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_384",
+      "term": "おとろえる",
+      "reading": "おとろえる",
+      "meaning": "sa sút. yếu đi",
+      "hanviet": "",
+      "example": "視力がおとろえてきた。",
+      "exampleVi": "Thị lực suy giảm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_385",
+      "term": "落ち込む",
+      "reading": "おちこむ",
+      "meaning": "buồn bã. suy sụp",
+      "hanviet": "",
+      "example": "失敗して落ち込んだ。",
+      "exampleVi": "Thất bại nên buồn bã.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_386",
+      "term": "定める",
+      "reading": "さだめる",
+      "meaning": "",
+      "hanviet": "",
+      "example": "法律を定める。",
+      "exampleVi": "Quy định pháp luật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_387",
+      "term": "しみる",
+      "reading": "しみる",
+      "meaning": "",
+      "hanviet": "",
+      "example": "この言葉が心にしみる。",
+      "exampleVi": "Lời này thấm vào tim.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_388",
+      "term": "めくる",
+      "reading": "めくる",
+      "meaning": "",
+      "hanviet": "",
+      "example": "本のページをめくる。",
+      "exampleVi": "Lật trang sách.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_389",
+      "term": "うなずく",
+      "reading": "うなずく",
+      "meaning": "gật đầu",
+      "hanviet": "",
+      "example": "彼は静かにうなずいた。",
+      "exampleVi": "Anh ấy gật đầu nhẹ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_390",
+      "term": "引き返す",
+      "reading": "ひきかえす",
+      "meaning": "quay lại",
+      "hanviet": "",
+      "example": "途中で引き返した。",
+      "exampleVi": "Quay lại giữa chừng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_391",
+      "term": "睨む",
+      "reading": "にらむ",
+      "meaning": "lườm",
+      "hanviet": "",
+      "example": "彼は私をじっと睨んだ。",
+      "exampleVi": "Anh ấy nhìn chằm chằm vào tôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_392",
+      "term": "屈む",
+      "reading": "かがむ",
+      "meaning": "cúi. khom lưng",
+      "hanviet": "",
+      "example": "彼は床のものを拾うために屈んだ。",
+      "exampleVi": "Anh ấy cúi xuống để nhặt đồ trên sàn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_393",
+      "term": "いじる",
+      "reading": "いじる",
+      "meaning": "chạm. mân mê",
+      "hanviet": "",
+      "example": "彼はスマホをいじっている。",
+      "exampleVi": "Anh ấy đang nghịch điện thoại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_394",
+      "term": "打ち明ける",
+      "reading": "うちあける",
+      "meaning": "tâm sự. giãi bày",
+      "hanviet": "",
+      "example": "秘密を友達に打ち明けた。",
+      "exampleVi": "Tôi đã thổ lộ bí mật với bạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_395",
+      "term": "まとめる",
+      "reading": "まとめる",
+      "meaning": "tóm tắt. tổng hợp",
+      "hanviet": "",
+      "example": "レポートをまとめる。",
+      "exampleVi": "Tổng hợp bài báo cáo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_396",
+      "term": "がっかりする",
+      "reading": "がっかりする",
+      "meaning": "thất vọng",
+      "hanviet": "",
+      "example": "結果が悪くてがっかりした。",
+      "exampleVi": "Tôi thất vọng vì kết quả kém.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_397",
+      "term": "引用する",
+      "reading": "いんようする",
+      "meaning": "trích dẫn",
+      "hanviet": "",
+      "example": "彼の言葉を論文で引用した。",
+      "exampleVi": "Tôi đã trích dẫn lời anh ấy trong bài luận.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_398",
+      "term": "固める",
+      "reading": "かためる",
+      "meaning": "củng cố",
+      "hanviet": "",
+      "example": "計画を固める。",
+      "exampleVi": "Củng cố kế hoạch.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_399",
+      "term": "かっとする",
+      "reading": "かっとする",
+      "meaning": "giận sôi người",
+      "hanviet": "",
+      "example": "怒ってかっとなる。",
+      "exampleVi": "Nổi giận bừng bừng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_400",
+      "term": "ぞっとする",
+      "reading": "ぞっとする",
+      "meaning": "rùng mình. ớn lạnh",
+      "hanviet": "",
+      "example": "その話を聞いてぞっとした。",
+      "exampleVi": "Nghe chuyện đó tôi rùng mình.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_401",
+      "term": "包む",
+      "reading": "つつむ",
+      "meaning": "bọc. quấn. gói lại",
+      "hanviet": "",
+      "example": "プレゼントを紙で包む。",
+      "exampleVi": "Gói quà bằng giấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_402",
+      "term": "話しかける",
+      "reading": "はなしかける",
+      "meaning": "bắt chuyện",
+      "hanviet": "",
+      "example": "彼に話しかけた。",
+      "exampleVi": "Tôi đã bắt chuyện với anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_403",
+      "term": "捕まえる",
+      "reading": "つかまえる",
+      "meaning": "bắt",
+      "hanviet": "",
+      "example": "泥棒を捕まえる。",
+      "exampleVi": "Bắt tên trộm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_404",
+      "term": "禁止する",
+      "reading": "きんしする",
+      "meaning": "cấm",
+      "hanviet": "",
+      "example": "ここでは喫煙が禁止されている。",
+      "exampleVi": "Cấm hút thuốc ở đây.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_405",
+      "term": "管理する",
+      "reading": "かんりする",
+      "meaning": "quản lý",
+      "hanviet": "",
+      "example": "時間を管理するのは大切だ。",
+      "exampleVi": "Quản lý thời gian là điều quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_406",
+      "term": "開発する",
+      "reading": "かいはつする",
+      "meaning": "khai thác. phát triển",
+      "hanviet": "",
+      "example": "新しい技術を開発する。",
+      "exampleVi": "Phát triển công nghệ mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_407",
+      "term": "襲う",
+      "reading": "おそう",
+      "meaning": "công kích. tấn công",
+      "hanviet": "",
+      "example": "台風が地域を襲った。",
+      "exampleVi": "Cơn bão đã tấn công khu vực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_408",
+      "term": "通りかかる",
+      "reading": "とおりかかる",
+      "meaning": "tình cờ đi qua",
+      "hanviet": "",
+      "example": "駅前で彼に通りかかった。",
+      "exampleVi": "Tôi tình cờ đi ngang qua anh ấy ở trước ga.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_409",
+      "term": "失望する",
+      "reading": "しつぼうする",
+      "meaning": "thất vọng",
+      "hanviet": "",
+      "example": "彼の態度に失望した。",
+      "exampleVi": "Tôi thất vọng với thái độ của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_410",
+      "term": "とりかかる",
+      "reading": "とりかかる",
+      "meaning": "bắt tay vào việc",
+      "hanviet": "",
+      "example": "今から仕事にとりかかります。",
+      "exampleVi": "Tôi sẽ bắt đầu công việc từ bây giờ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_411",
+      "term": "くるむ",
+      "reading": "くるむ",
+      "meaning": "vo vào",
+      "hanviet": "",
+      "example": "赤ちゃんを毛布でくるんだ。",
+      "exampleVi": "Quấn em bé bằng chăn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_412",
+      "term": "開設する",
+      "reading": "かいせつする",
+      "meaning": "thành lập. xây dựng",
+      "hanviet": "",
+      "example": "新しい支店を開設する。",
+      "exampleVi": "Mở chi nhánh mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_413",
+      "term": "やとう",
+      "reading": "やとう",
+      "meaning": "thuê người",
+      "hanviet": "",
+      "example": "彼は新しい社員をやとう。",
+      "exampleVi": "Anh ấy thuê nhân viên mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_414",
+      "term": "悩む",
+      "reading": "なやむ",
+      "meaning": "phiền não",
+      "hanviet": "",
+      "example": "進路について悩んでいる。",
+      "exampleVi": "Tôi đang băn khoăn về con đường tương lai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_415",
+      "term": "相談する",
+      "reading": "そうだんする",
+      "meaning": "thảo luận",
+      "hanviet": "",
+      "example": "先生に進学を相談する。",
+      "exampleVi": "Thảo luận với thầy cô về việc học tiếp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_416",
+      "term": "命令する",
+      "reading": "めいれいする",
+      "meaning": "ra lệnh",
+      "hanviet": "",
+      "example": "上司が部下に命令する。",
+      "exampleVi": "Cấp trên ra lệnh cho cấp dưới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_417",
+      "term": "空く",
+      "reading": "あく",
+      "meaning": "thủng. trống",
+      "hanviet": "",
+      "example": "席が空いている。",
+      "exampleVi": "Ghế đang trống.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_418",
+      "term": "廃止する",
+      "reading": "はいしする",
+      "meaning": "bãi bỏ",
+      "hanviet": "",
+      "example": "古い制度を廃止する。",
+      "exampleVi": "Bãi bỏ chế độ cũ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_419",
+      "term": "中止する",
+      "reading": "ちゅうしする",
+      "meaning": "dừng",
+      "hanviet": "",
+      "example": "イベントが中止された。",
+      "exampleVi": "Sự kiện đã bị hủy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_420",
+      "term": "解消する",
+      "reading": "かいしょうする",
+      "meaning": "xóa bỏ. giải tỏa",
+      "hanviet": "",
+      "example": "ストレスを解消する。",
+      "exampleVi": "Giải tỏa căng thẳng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_421",
+      "term": "創造する",
+      "reading": "そうぞうする",
+      "meaning": "chế tạo",
+      "hanviet": "",
+      "example": "新しい価値を創造する。",
+      "exampleVi": "Tạo ra giá trị mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_422",
+      "term": "形成する",
+      "reading": "けいせいする",
+      "meaning": "lập nên. hình thành",
+      "hanviet": "",
+      "example": "チームを形成する。",
+      "exampleVi": "Hình thành đội nhóm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_423",
+      "term": "つかむ",
+      "reading": "つかむ",
+      "meaning": "nắm bắt. nắm lấy",
+      "hanviet": "",
+      "example": "チャンスをつかむ。",
+      "exampleVi": "Nắm bắt cơ hội.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_424",
+      "term": "ふくむ",
+      "reading": "ふくむ",
+      "meaning": "gồm có. chứa đựng",
+      "hanviet": "",
+      "example": "この水はミネラルを含む。",
+      "exampleVi": "Nước này chứa khoáng chất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_425",
+      "term": "稼ぐ",
+      "reading": "かせぐ",
+      "meaning": "kiếm tiền",
+      "hanviet": "",
+      "example": "彼は月に30万円稼ぐ。",
+      "exampleVi": "Anh ấy kiếm 300.000 yên mỗi tháng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_426",
+      "term": "開店する",
+      "reading": "かいてんする",
+      "meaning": "mở cửa hàng 10",
+      "hanviet": "",
+      "example": "時に店が開店する。",
+      "exampleVi": "Cửa hàng mở cửa lúc 10 giờ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_427",
+      "term": "現れる",
+      "reading": "あらわれる",
+      "meaning": "hiện ra. xuất hiện",
+      "hanviet": "",
+      "example": "彼が突然現れた。",
+      "exampleVi": "Anh ấy đột nhiên xuất hiện.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_428",
+      "term": "取り囲む",
+      "reading": "とりかこむ",
+      "meaning": "vây quanh",
+      "hanviet": "",
+      "example": "警察が犯人を取り囲んだ。",
+      "exampleVi": "Cảnh sát bao vây tên tội phạm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_429",
+      "term": "注ぐ",
+      "reading": "そそぐ",
+      "meaning": "rót",
+      "hanviet": "",
+      "example": "コップに水を注ぐ。",
+      "exampleVi": "Rót nước vào cốc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_430",
+      "term": "転ぶ",
+      "reading": "ころぶ",
+      "meaning": "ngã lăn lông lốc",
+      "hanviet": "",
+      "example": "階段で転んだ。",
+      "exampleVi": "Tôi bị ngã ở cầu thang.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_431",
+      "term": "傾向する",
+      "reading": "けいこうする",
+      "meaning": "có xu hướng",
+      "hanviet": "",
+      "example": "若者は都市に集まる傾向がある。",
+      "exampleVi": "Giới trẻ có xu hướng tập trung về thành phố.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_432",
+      "term": "鳴り出す",
+      "reading": "鳴り出す",
+      "meaning": "",
+      "hanviet": "",
+      "example": "なりだす",
+      "exampleVi": "âm thanh",
+      "frequency": 1
+    },
+    {
+      "id": "v_433",
+      "term": "振り出す",
+      "reading": "ふりだす",
+      "meaning": "lắc. rắc. lấy ra",
+      "hanviet": "",
+      "example": "雨が振り出した。",
+      "exampleVi": "Trời bắt đầu mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_434",
+      "term": "昇る",
+      "reading": "昇る",
+      "meaning": "",
+      "hanviet": "",
+      "example": "のぼる",
+      "exampleVi": "mặt trời",
+      "frequency": 1
+    },
+    {
+      "id": "v_435",
+      "term": "劣る",
+      "reading": "おとろえる",
+      "meaning": "kém hơn",
+      "hanviet": "",
+      "example": "品質が他の製品より劣る。",
+      "exampleVi": "Chất lượng kém hơn sản phẩm khác.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_436",
+      "term": "締め切る",
+      "reading": "しめきる",
+      "meaning": "dừng. đóng. chấm dứt. hết hạn",
+      "hanviet": "",
+      "example": "応募は明日で締め切ります。",
+      "exampleVi": "Hạn nộp là ngày mai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_437",
+      "term": "去る",
+      "reading": "いる",
+      "meaning": "đi. rời khỏi",
+      "hanviet": "",
+      "example": "彼は静かに部屋を去った。",
+      "exampleVi": "Anh ấy lặng lẽ rời khỏi phòng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_438",
+      "term": "照る",
+      "reading": "てる",
+      "meaning": "chiếu rọi",
+      "hanviet": "",
+      "example": "日が照っている。",
+      "exampleVi": "Trời đang nắng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_439",
+      "term": "準える",
+      "reading": "なぞらえる",
+      "meaning": "bắt chước",
+      "hanviet": "",
+      "example": "昔話に準えて話す。",
+      "exampleVi": "Kể theo câu chuyện cổ tích.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_440",
+      "term": "整える",
+      "reading": "ととのえる",
+      "meaning": "buộc cho gọn. chỉnh đốn",
+      "hanviet": "",
+      "example": "服装を整える。",
+      "exampleVi": "Chỉnh trang trang phục.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_441",
+      "term": "控える",
+      "reading": "ひかえる",
+      "meaning": "kiềm chế",
+      "hanviet": "",
+      "example": "甘い物を控える。",
+      "exampleVi": "Hạn chế đồ ngọt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_442",
+      "term": "取り払う",
+      "reading": "とりはらう",
+      "meaning": "loại bỏ. tháo dỡ",
+      "hanviet": "",
+      "example": "古い家具を取り払う。",
+      "exampleVi": "Dọn bỏ đồ đạc cũ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_443",
+      "term": "引き離す",
+      "reading": "ひきはなす",
+      "meaning": "tách ra",
+      "hanviet": "",
+      "example": "親から子を引き離す。",
+      "exampleVi": "Tách con ra khỏi cha mẹ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_444",
+      "term": "落ちる",
+      "reading": "おちる",
+      "meaning": "rơi. rụng",
+      "hanviet": "",
+      "example": "葉が地面に落ちた。",
+      "exampleVi": "Lá rơi xuống đất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_445",
+      "term": "破る",
+      "reading": "やぶる",
+      "meaning": "xé rách",
+      "hanviet": "",
+      "example": "約束を破る。",
+      "exampleVi": "Phá vỡ lời hứa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_446",
+      "term": "驚く",
+      "reading": "おどろく",
+      "meaning": "ngạc nhiên",
+      "hanviet": "",
+      "example": "ニュースを聞いて驚いた。",
+      "exampleVi": "Nghe tin tức xong tôi ngạc nhiên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_447",
+      "term": "握る",
+      "reading": "にぎる",
+      "meaning": "nắm",
+      "hanviet": "",
+      "example": "手をしっかり握る。",
+      "exampleVi": "Nắm chặt tay.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_448",
+      "term": "保つ",
+      "reading": "たもつ",
+      "meaning": "giữ vững. duy trì",
+      "hanviet": "",
+      "example": "健康を保つ。",
+      "exampleVi": "Giữ gìn sức khỏe.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_449",
+      "term": "履き続ける",
+      "reading": "はきつづける",
+      "meaning": "vẫn đi tiếp",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "giày. dép...",
+      "frequency": 1
+    },
+    {
+      "id": "v_450",
+      "term": "中断する",
+      "reading": "ちゅうだんする",
+      "meaning": "dừng giữa chừng. ngắt",
+      "hanviet": "",
+      "example": "会議が中断された。",
+      "exampleVi": "Cuộc họp bị gián đoạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_451",
+      "term": "積もる",
+      "reading": "つもる",
+      "meaning": "tích tụ. chất đống",
+      "hanviet": "",
+      "example": "雪が積もった。",
+      "exampleVi": "Tuyết tích tụ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_452",
+      "term": "とがる",
+      "reading": "とがる",
+      "meaning": "nhọn. sắc",
+      "hanviet": "",
+      "example": "鉛筆の先がとがっている。",
+      "exampleVi": "Đầu bút chì nhọn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_453",
+      "term": "一転する",
+      "reading": "いってんする",
+      "meaning": "hoàn toàn",
+      "hanviet": "",
+      "example": "態度が一転した。",
+      "exampleVi": "Thái độ đã thay đổi hoàn toàn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_454",
+      "term": "おお尋ねする",
+      "reading": "おたずねする",
+      "meaning": "hỏi",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "khiêm nhường ngữ",
+      "frequency": 1
+    },
+    {
+      "id": "v_455",
+      "term": "収める",
+      "reading": "おさめる",
+      "meaning": "thu được. lưu giữ",
+      "hanviet": "",
+      "example": "箱に品物を収める。",
+      "exampleVi": "Cất đồ vào hộp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_456",
+      "term": "盗む",
+      "reading": "ぬすむ",
+      "meaning": "trộm",
+      "hanviet": "",
+      "example": "お金を盗まれた。",
+      "exampleVi": "Bị lấy cắp tiền.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_457",
+      "term": "飛びつく",
+      "reading": "とびつく",
+      "meaning": "nắm bắt. nhào vào",
+      "hanviet": "",
+      "example": "犬が主人に飛びついた。",
+      "exampleVi": "Con chó lao vào chủ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_458",
+      "term": "駆け込む",
+      "reading": "かけこむ",
+      "meaning": "lao vào",
+      "hanviet": "",
+      "example": "電車に駆け込む。",
+      "exampleVi": "Chạy vội lên tàu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_459",
+      "term": "寄りかかる",
+      "reading": "よりかかる",
+      "meaning": "dựa dẫm. dựa vào",
+      "hanviet": "",
+      "example": "壁に寄りかかる。",
+      "exampleVi": "Tựa vào tường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_460",
+      "term": "走り出す",
+      "reading": "はしりだす",
+      "meaning": "bắt đầu chạy",
+      "hanviet": "",
+      "example": "彼が急に走り出した。",
+      "exampleVi": "Anh ấy đột nhiên chạy đi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_461",
+      "term": "乱れる",
+      "reading": "みだれる",
+      "meaning": "rối. tán loạn",
+      "hanviet": "",
+      "example": "列が乱れている。",
+      "exampleVi": "Hàng lối bị lộn xộn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_462",
+      "term": "載う",
+      "reading": "のる",
+      "meaning": "đăng lên",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "báo...",
+      "frequency": 1
+    },
+    {
+      "id": "v_463",
+      "term": "増やす",
+      "reading": "ふやす",
+      "meaning": "tăng lên",
+      "hanviet": "",
+      "example": "収入を増やす。",
+      "exampleVi": "Tăng thu nhập.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_464",
+      "term": "やめる",
+      "reading": "やめる",
+      "meaning": "ngừng lại. dừng lại",
+      "hanviet": "",
+      "example": "仕事をやめる。",
+      "exampleVi": "Bỏ việc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_465",
+      "term": "まねる",
+      "reading": "まねる",
+      "meaning": "bắt chước. mô phỏng",
+      "hanviet": "",
+      "example": "兄の真似をする。",
+      "exampleVi": "Bắt chước anh trai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_466",
+      "term": "かなえる",
+      "reading": "かなえる",
+      "meaning": "",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "giấc mơ",
+      "frequency": 1
+    },
+    {
+      "id": "v_467",
+      "term": "映す",
+      "reading": "うつす",
+      "meaning": "soi. chiếu",
+      "hanviet": "",
+      "example": "姿を鏡に映す。",
+      "exampleVi": "Phản chiếu hình dáng trong gương.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_468",
+      "term": "飛び出す",
+      "reading": "どびだす",
+      "meaning": "bay ra. lao ra",
+      "hanviet": "",
+      "example": "子どもが道に飛び出した。",
+      "exampleVi": "Đứa trẻ lao ra đường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_469",
+      "term": "行き過ぎる",
+      "reading": "いきすぎる",
+      "meaning": "đi quá",
+      "hanviet": "",
+      "example": "目的地を行き過ぎた。",
+      "exampleVi": "Đi quá điểm đến.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_470",
+      "term": "駆け抜ける",
+      "reading": "かけぬける",
+      "meaning": "vượt qua. đi qua",
+      "hanviet": "",
+      "example": "彼は道を駆け抜けた。",
+      "exampleVi": "Anh ấy chạy băng qua đường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_471",
+      "term": "完成する",
+      "reading": "かんせいする",
+      "meaning": "hoàn thành",
+      "hanviet": "",
+      "example": "建物が完成した。",
+      "exampleVi": "Tòa nhà đã hoàn thành.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_472",
+      "term": "整理する",
+      "reading": "せいりする",
+      "meaning": "sắp xếp",
+      "hanviet": "",
+      "example": "部屋を整理する。",
+      "exampleVi": "Dọn dẹp phòng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_473",
+      "term": "腫れる",
+      "reading": "はれる",
+      "meaning": "phồng lên. sưng lên",
+      "hanviet": "",
+      "example": "目が腫れた。",
+      "exampleVi": "Mắt bị sưng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_474",
+      "term": "もてなす",
+      "reading": "もてなす",
+      "meaning": "đãi khách",
+      "hanviet": "",
+      "example": "客を丁寧にもてなす。",
+      "exampleVi": "Tiếp đãi khách chu đáo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_475",
+      "term": "通過する",
+      "reading": "つうかする",
+      "meaning": "đi qua. bỏ qua",
+      "hanviet": "",
+      "example": "トラックが町を通過する。",
+      "exampleVi": "Xe tải đi qua thị trấn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_476",
+      "term": "報道する",
+      "reading": "ほうどうする",
+      "meaning": "đưa tin",
+      "hanviet": "",
+      "example": "事件を報道する。",
+      "exampleVi": "Đưa tin về vụ việc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_477",
+      "term": "溶け込む",
+      "reading": "とけこむ",
+      "meaning": "hòa nhập",
+      "hanviet": "",
+      "example": "クラスに溶け込む。",
+      "exampleVi": "Hòa nhập với lớp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_478",
+      "term": "おだてる",
+      "reading": "おだてる",
+      "meaning": "tâng bốc. nịnh",
+      "hanviet": "",
+      "example": "彼をおだててやる気を出させた。",
+      "exampleVi": "Tâng bốc anh ấy để tạo động lực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_479",
+      "term": "許す",
+      "reading": "ゆるす",
+      "meaning": "tha thứ",
+      "hanviet": "",
+      "example": "彼の失敗を許す。",
+      "exampleVi": "Tha thứ cho lỗi lầm của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_480",
+      "term": "救う",
+      "reading": "すくう",
+      "meaning": "cứu",
+      "hanviet": "",
+      "example": "命を救う。",
+      "exampleVi": "Cứu mạng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_481",
+      "term": "直進する",
+      "reading": "ちょくしんする",
+      "meaning": "tiến thẳng",
+      "hanviet": "",
+      "example": "道を直進する。",
+      "exampleVi": "Đi thẳng đường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_482",
+      "term": "横断する",
+      "reading": "おうだんする",
+      "meaning": "băng qua. đi qua",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "đường",
+      "frequency": 1
+    },
+    {
+      "id": "v_483",
+      "term": "通信する",
+      "reading": "つうしんする",
+      "meaning": "truyền tin",
+      "hanviet": "",
+      "example": "友達と通信する。",
+      "exampleVi": "Liên lạc với bạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_484",
+      "term": "伝言する",
+      "reading": "でんごんする",
+      "meaning": "chuyển lời",
+      "hanviet": "",
+      "example": "彼に伝言する。",
+      "exampleVi": "Nhắn lại cho anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_485",
+      "term": "当てはまる",
+      "reading": "あてはまる",
+      "meaning": "tương ứng với. phù hợp với",
+      "hanviet": "",
+      "example": "この規則は誰にでも当てはまる。",
+      "exampleVi": "Quy tắc này áp dụng cho tất cả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_486",
+      "term": "結びつく",
+      "reading": "むすびつく",
+      "meaning": "buộc chặt",
+      "hanviet": "",
+      "example": "努力が成功に結びつく。",
+      "exampleVi": "Nỗ lực dẫn đến thành công.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_487",
+      "term": "並べる",
+      "reading": "ならべる",
+      "meaning": "xếp hàng",
+      "hanviet": "",
+      "example": "本を棚に並べる。",
+      "exampleVi": "Xếp sách lên kệ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_488",
+      "term": "預ける",
+      "reading": "あずける",
+      "meaning": "gửi giữ hộ",
+      "hanviet": "",
+      "example": "荷物を駅に預ける。",
+      "exampleVi": "Gửi hành lý ở ga.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_489",
+      "term": "しまう",
+      "reading": "しまう",
+      "meaning": "cất",
+      "hanviet": "",
+      "example": "服をタンスにしまう。",
+      "exampleVi": "Cất quần áo vào tủ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_490",
+      "term": "共有する",
+      "reading": "きょうゆうする",
+      "meaning": "chia sẻ",
+      "hanviet": "",
+      "example": "情報を共有する。",
+      "exampleVi": "Chia sẻ thông tin.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_491",
+      "term": "鑑賞する",
+      "reading": "かんしょうする",
+      "meaning": "thưởng thức. thưởng ngoạn",
+      "hanviet": "",
+      "example": "映画を鑑賞する。",
+      "exampleVi": "Thưởng thức phim.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_492",
+      "term": "威張る",
+      "reading": "いばる",
+      "meaning": "kiêu căng. vênh váo",
+      "hanviet": "",
+      "example": "彼はすぐに威張る。",
+      "exampleVi": "Anh ta hay lên mặt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_493",
+      "term": "提供する",
+      "reading": "ていきょうする",
+      "meaning": "cung cấp",
+      "hanviet": "",
+      "example": "情報を提供する。",
+      "exampleVi": "Cung cấp thông tin.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_494",
+      "term": "指図する",
+      "reading": "さしずする",
+      "meaning": "ra lệnh. chỉ huy",
+      "hanviet": "",
+      "example": "人に指図するのが好きだ。",
+      "exampleVi": "Thích sai bảo người khác.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_495",
+      "term": "漏れる",
+      "reading": "もれる",
+      "meaning": "rò rỉ. thấm ra",
+      "hanviet": "",
+      "example": "水が漏れている。",
+      "exampleVi": "Nước bị rò rỉ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_496",
+      "term": "縮む",
+      "reading": "ちぢむ",
+      "meaning": "Rút ngắn; co lại; thu nhỏ lại",
+      "hanviet": "",
+      "example": "シャツが洗って縮んだ。",
+      "exampleVi": "Áo bị co lại sau khi giặt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_497",
+      "term": "偉い",
+      "reading": "えらい",
+      "meaning": "vĩ đại. tuyệt vời",
+      "hanviet": "",
+      "example": "彼は偉い人なのに、とても優しいです。",
+      "exampleVi": "Anh ấy là người vĩ đại nhưng lại rất hiền lành.",
+      "frequency": 4
+    },
+    {
+      "id": "v_498",
+      "term": "鋭い",
+      "reading": "するどい",
+      "meaning": "sắc bén",
+      "hanviet": "",
+      "example": "このナイフはとても鋭いので、気をつけて使ってください。",
+      "exampleVi": "Con dao này rất sắc. nên hãy cẩn thận khi sử dụng.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_499",
+      "term": "ふさわしい",
+      "reading": "ふさわしい",
+      "meaning": "thích hợp. phù hợp",
+      "hanviet": "",
+      "example": "彼はその役にふさわしい人物だ。",
+      "exampleVi": "Anh ấy là người phù hợp với vai trò đó.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_500",
+      "term": "厳しい",
+      "reading": "きびしい",
+      "meaning": "nghiêm khắc. khó tính",
+      "hanviet": "",
+      "example": "先生は学生に対してとても厳しい。",
+      "exampleVi": "Thầy giáo rất nghiêm khắc với học sinh.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_501",
+      "term": "輝かしい",
+      "reading": "かがやかしい",
+      "meaning": "rực rỡ. huy hoàng",
+      "hanviet": "",
+      "example": "彼女は輝かしいキャリアを持っている。",
+      "exampleVi": "Cô ấy có một sự nghiệp rực rỡ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_502",
+      "term": "たくましい",
+      "reading": "たくましい",
+      "meaning": "mạnh mẽ",
+      "hanviet": "",
+      "example": "彼は体も心もたくましい人だ。",
+      "exampleVi": "Anh ấy là người mạnh mẽ cả về thể chất lẫn tinh thần.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_503",
+      "term": "頼もしい",
+      "reading": "たのもしい",
+      "meaning": "đáng tin cậy",
+      "hanviet": "",
+      "example": "彼が一緒にいると、とても頼もしいです。",
+      "exampleVi": "Khi có anh ấy bên cạnh. tôi thấy rất yên tâm.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_504",
+      "term": "情けない",
+      "reading": "なさけない",
+      "meaning": "đáng thương. đáng xẩu hổ",
+      "hanviet": "",
+      "example": "こんな簡単な問題も解けないなんて情けない。",
+      "exampleVi": "Không giải được một bài dễ thế này thì thật đáng xấu hổ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_505",
+      "term": "そそっかしい",
+      "reading": "そそっかしい",
+      "meaning": "đểnh đoảng. lơ đãng",
+      "hanviet": "",
+      "example": "そそっかしい彼はよく物を忘れる。",
+      "exampleVi": "Anh ấy đãng trí nên hay quên đồ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_506",
+      "term": "やむを得ない",
+      "reading": "やむをえない",
+      "meaning": "không còn cách nào khác",
+      "hanviet": "",
+      "example": "やむを得ない事情で出席できませんでした。",
+      "exampleVi": "Vì lý do bất khả kháng nên tôi không thể tham dự.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_507",
+      "term": "等しい",
+      "reading": "ひとしい",
+      "meaning": "tương đương với",
+      "hanviet": "",
+      "example": "二人の意見は等しい重さを持っている。",
+      "exampleVi": "Ý kiến của hai người có trọng lượng ngang nhau.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_508",
+      "term": "くだらない",
+      "reading": "くだらない",
+      "meaning": "tầm phào. tào lao",
+      "hanviet": "",
+      "example": "そんなくだらない冗談は聞きたくない。",
+      "exampleVi": "Tôi không muốn nghe những trò đùa nhảm nhí như thế.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_509",
+      "term": "うるさい",
+      "reading": "うるさい",
+      "meaning": "ồn ào",
+      "hanviet": "",
+      "example": "この音楽はうるさくて集中できない。",
+      "exampleVi": "Âm nhạc này ồn ào đến mức tôi không thể tập trung.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_510",
+      "term": "さわがしい",
+      "reading": "さわがしい",
+      "meaning": "huyên náo. ồn ào",
+      "hanviet": "",
+      "example": "通りがさわがしくて、眠れなかった。",
+      "exampleVi": "Con phố quá ồn ào nên tôi không thể ngủ được.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_511",
+      "term": "やかましい",
+      "reading": "やかましい",
+      "meaning": "ồn ào. ầm ĩ",
+      "hanviet": "",
+      "example": "先生はやかましく注意した。",
+      "exampleVi": "Thầy giáo đã nghiêm khắc nhắc nhở.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_512",
+      "term": "ずうずうしい",
+      "reading": "ずうずうしい",
+      "meaning": "mặt dày. trơ trẽn",
+      "hanviet": "",
+      "example": "彼はずうずうしく列に割り込んできた。",
+      "exampleVi": "Anh ta trơ trẽn chen ngang vào hàng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_513",
+      "term": "険しい",
+      "reading": "けわしい",
+      "meaning": "dựng đứng. hiểm trở",
+      "hanviet": "",
+      "example": "山道は険しくて歩くのが大変だった。",
+      "exampleVi": "Đường núi dốc đứng nên rất khó đi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_514",
+      "term": "そうぞうしい",
+      "reading": "そうぞうしい",
+      "meaning": "inh ỏi. ồn ào",
+      "hanviet": "",
+      "example": "祭りの日、町はそうぞうしくにぎやかだった。",
+      "exampleVi": "Vào ngày lễ hội. thị trấn rất ồn ào và náo nhiệt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_515",
+      "term": "分厚い",
+      "reading": "ぶあつい",
+      "meaning": "dày cộm",
+      "hanviet": "",
+      "example": "この本は分厚くて持ち歩くのが大変だ。",
+      "exampleVi": "Cuốn sách này rất dày nên mang theo khá vất vả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_516",
+      "term": "鈍い",
+      "reading": "するどい",
+      "meaning": "sắc sảo. nhạy bén",
+      "hanviet": "",
+      "example": "この包丁は切れ味が鈍い。",
+      "exampleVi": "Con dao này lưỡi bị cùn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_517",
+      "term": "ずるい",
+      "reading": "ずるい",
+      "meaning": "ranh mãnh. lươn lẹo",
+      "hanviet": "",
+      "example": "彼はずるい方法で勝った。",
+      "exampleVi": "Anh ta đã thắng bằng cách gian lận.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_518",
+      "term": "しかたない",
+      "reading": "しかたない",
+      "meaning": "không còn cách nào khác",
+      "hanviet": "",
+      "example": "遅れたのはしかたないことだ。",
+      "exampleVi": "Việc đến muộn là chuyện bất đắc dĩ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_519",
+      "term": "弱弱しい",
+      "reading": "よわよわしい",
+      "meaning": "yếu ớt",
+      "hanviet": "",
+      "example": "彼の声は弱弱しくて、何を言っているか聞き取れなかった。",
+      "exampleVi": "Giọng anh ấy yếu ớt nên tôi không nghe rõ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_520",
+      "term": "臭い",
+      "reading": "くさい",
+      "meaning": "hôi. thối",
+      "hanviet": "",
+      "example": "何か臭いにおいがする。",
+      "exampleVi": "Có mùi gì đó hôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_521",
+      "term": "懐かしい",
+      "reading": "なつかしい",
+      "meaning": "hoài niệm. nhung nhớ",
+      "hanviet": "",
+      "example": "この曲を聞くと懐かしい気持ちになる。",
+      "exampleVi": "Khi nghe bài hát này tôi cảm thấy hoài niệm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_522",
+      "term": "割り込む",
+      "reading": "わりこむ",
+      "meaning": "Chen vào; xen ngang",
+      "hanviet": "",
+      "example": "彼は列に割り込んできた。",
+      "exampleVi": "Anh ta đã chen ngang vào hàng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_523",
+      "term": "くどい",
+      "reading": "くどい",
+      "meaning": "dài dòng. phức tạp",
+      "hanviet": "",
+      "example": "彼の説明はくどくてわかりにくい。",
+      "exampleVi": "Lời giải thích của anh ấy dài dòng và khó hiểu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_524",
+      "term": "しつこい",
+      "reading": "しつこい",
+      "meaning": "lằng nhằng. dài dòng",
+      "hanviet": "",
+      "example": "彼はしつこく質問を繰り返した。",
+      "exampleVi": "Anh ấy cứ hỏi đi hỏi lại dai dẳng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_525",
+      "term": "だらしない",
+      "reading": "だらしない",
+      "meaning": "vô trách nhiệm. lôi thôi",
+      "hanviet": "",
+      "example": "彼は部屋をだらしなく散らかしている。",
+      "exampleVi": "Anh ta bày bừa phòng rất bừa bộn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_526",
+      "term": "羨ましい",
+      "reading": "うらやましい",
+      "meaning": "ghen tị",
+      "hanviet": "",
+      "example": "彼の成功が羨ましい。",
+      "exampleVi": "Tôi ghen tị với thành công của anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_527",
+      "term": "硬い",
+      "reading": "かたい",
+      "meaning": "",
+      "hanviet": "",
+      "example": "このパンは外が硬くて中が柔らかい。",
+      "exampleVi": "Bánh này bên ngoài cứng. bên trong mềm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_528",
+      "term": "上手い",
+      "reading": "うまい",
+      "meaning": "ngon. giỏi",
+      "hanviet": "",
+      "example": "彼はギターが上手い。",
+      "exampleVi": "Anh ấy chơi guitar rất giỏi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_529",
+      "term": "楽しい",
+      "reading": "たのしい",
+      "meaning": "vui vẻ",
+      "hanviet": "",
+      "example": "みんなで旅行して楽しかった。",
+      "exampleVi": "Cùng đi du lịch với mọi người thật vui.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_530",
+      "term": "騒がしい",
+      "reading": "さわがしい",
+      "meaning": "ồn ào. inh oit",
+      "hanviet": "",
+      "example": "外が騒がしくて勉強に集中できない。",
+      "exampleVi": "Bên ngoài ồn ào quá khiến tôi không thể tập trung học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_531",
+      "term": "濃い",
+      "reading": "こい",
+      "meaning": "đậm",
+      "hanviet": "",
+      "example": "このソースは味が濃い。",
+      "exampleVi": "Nước sốt này có vị đậm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_532",
+      "term": "柔らかい",
+      "reading": "やわらかい",
+      "meaning": "mềm",
+      "hanviet": "",
+      "example": "この布はとても柔らかい。",
+      "exampleVi": "Vải này rất mềm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_533",
+      "term": "細い",
+      "reading": "ほそい",
+      "meaning": "thon dài",
+      "hanviet": "",
+      "example": "彼は細い体をしている。",
+      "exampleVi": "Anh ấy có thân hình mảnh mai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_534",
+      "term": "親しい",
+      "reading": "したしい",
+      "meaning": "thân thiết",
+      "hanviet": "",
+      "example": "彼とは親しい関係です。",
+      "exampleVi": "Tôi có mối quan hệ thân thiết với anh ấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_535",
+      "term": "惜しい",
+      "reading": "おしい",
+      "meaning": "tiếc",
+      "hanviet": "",
+      "example": "あと一歩で勝てたのに、惜しい。",
+      "exampleVi": "Chỉ còn một chút nữa là thắng rồi. tiếc quá.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_536",
+      "term": "危ない",
+      "reading": "あぶない",
+      "meaning": "nguy hiểm",
+      "hanviet": "",
+      "example": "ここは危ないから近づかないで。",
+      "exampleVi": "Chỗ này nguy hiểm nên đừng lại gần.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_537",
+      "term": "詳しい",
+      "reading": "くわしい",
+      "meaning": "chi tiết. tường tận",
+      "hanviet": "",
+      "example": "彼は歴史についてとても詳しい。",
+      "exampleVi": "Anh ấy rất am hiểu về lịch sử.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_538",
+      "term": "冷たい",
+      "reading": "つめたい",
+      "meaning": "lạnh lùng",
+      "hanviet": "",
+      "example": "彼の態度は冷たかった。",
+      "exampleVi": "Thái độ của anh ấy rất lạnh lùng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_539",
+      "term": "あつかましい",
+      "reading": "あつかましい",
+      "meaning": "trơ trẽn. mặt dày",
+      "hanviet": "",
+      "example": "彼女はあつかましく何でも頼んでくる。",
+      "exampleVi": "Cô ấy trơ trẽn. cái gì cũng nhờ vả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_540",
+      "term": "うっとうしい",
+      "reading": "うっとうしい",
+      "meaning": "u sầu. ủ dột. ảm đạm",
+      "hanviet": "",
+      "example": "この天気はうっとうしくて気分が落ち込む。",
+      "exampleVi": "Thời tiết này thật u ám khiến tâm trạng chán nản.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_541",
+      "term": "眠い",
+      "reading": "ねむい",
+      "meaning": "buồn ngủ",
+      "hanviet": "",
+      "example": "今日はとても眠い。",
+      "exampleVi": "Hôm nay tôi rất buồn ngủ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_542",
+      "term": "きっぱり",
+      "reading": "きっぱり",
+      "meaning": "dứt khoát. thẳng thừng",
+      "hanviet": "",
+      "example": "彼はきっぱり断った。",
+      "exampleVi": "Anh ấy đã từ chối dứt khoát.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_543",
+      "term": "着々",
+      "reading": "ちゃくちゃく",
+      "meaning": "",
+      "hanviet": "",
+      "example": "計画が着々と進んでいる。",
+      "exampleVi": "Kế hoạch đang tiến triển vững chắc.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_544",
+      "term": "抱く(いだく)",
+      "reading": "いだく",
+      "meaning": "ấp ủ. ôm",
+      "hanviet": "",
+      "example": "夢を抱いて留学した。",
+      "exampleVi": "Tôi ôm ấp giấc mơ và đi du học.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_545",
+      "term": "たちまち",
+      "reading": "たちまち",
+      "meaning": "ngay lập tức ＝",
+      "hanviet": "",
+      "example": "すぐに たちまち空が暗くなって、雨が降り出した。",
+      "exampleVi": "Ngay lập tức bầu trời trở nên tối và bắt đầu mưa.",
+      "frequency": 2
+    },
+    {
+      "id": "v_546",
+      "term": "うとうと",
+      "reading": "うとうと",
+      "meaning": "mơ màng. mắt nhắm mắt mở",
+      "hanviet": "",
+      "example": "授業中にうとうとしてしまった。",
+      "exampleVi": "Tôi đã ngủ gà ngủ gật trong giờ học.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_547",
+      "term": "たまたま",
+      "reading": "たまたま",
+      "meaning": "tình cờ. ngẫu nhiên",
+      "hanviet": "",
+      "example": "駅でたまたま友達に会った。",
+      "exampleVi": "Tình cờ gặp bạn ở ga.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_548",
+      "term": "ぎりぎり",
+      "reading": "ぎりぎり",
+      "meaning": "suýt soát",
+      "hanviet": "",
+      "example": "ぎりぎりで電車に間に合った。",
+      "exampleVi": "Kịp chuyến tàu sát nút.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_549",
+      "term": "一斉に",
+      "reading": "いっせいに",
+      "meaning": "nhất loạt. đồng loạt",
+      "hanviet": "",
+      "example": "合図と同時に、一斉に走り出した。",
+      "exampleVi": "Ngay khi có hiệu lệnh. tất cả cùng lúc bắt đầu chạy.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_550",
+      "term": "しばらく",
+      "reading": "しばらく",
+      "meaning": "tạm thời",
+      "hanviet": "",
+      "example": "しばらくここで待っていてください。",
+      "exampleVi": "Hãy chờ ở đây một lúc.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_551",
+      "term": "すっかり",
+      "reading": "すっかり",
+      "meaning": "hoàn toàn",
+      "hanviet": "",
+      "example": "すっかり忘れてしまった。",
+      "exampleVi": "Tôi đã quên hoàn toàn.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_552",
+      "term": "ぎっしり",
+      "reading": "ぎっしり",
+      "meaning": "chật ních",
+      "hanviet": "",
+      "example": "箱の中にぎっしり詰まっている。",
+      "exampleVi": "Được nhét đầy chật trong hộp.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_553",
+      "term": "じろじろ",
+      "reading": "じろじろ",
+      "meaning": "nhìn chằm chằm",
+      "hanviet": "",
+      "example": "じろじろ見られて恥ずかしかった。",
+      "exampleVi": "Bị nhìn chằm chằm khiến tôi thấy xấu hổ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_554",
+      "term": "うっかり",
+      "reading": "うっかり",
+      "meaning": "ngơ ngác. lơ đễnh",
+      "hanviet": "",
+      "example": "うっかり約束を忘れてしまった。",
+      "exampleVi": "Tôi vô ý quên mất cuộc hẹn.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_555",
+      "term": "思いきって",
+      "reading": "おもいきって",
+      "meaning": "mạnh dạn. dứt khoát",
+      "hanviet": "",
+      "example": "思いきって転職することにした。",
+      "exampleVi": "Tôi đã mạnh dạn quyết định chuyển việc.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_556",
+      "term": "意外に",
+      "reading": "いがいに",
+      "meaning": "không ngờ. ngạc nhiên",
+      "hanviet": "",
+      "example": "意外に簡単だった。",
+      "exampleVi": "Dễ hơn mình nghĩ.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_557",
+      "term": "確かに",
+      "reading": "たしかに",
+      "meaning": "chắc là",
+      "hanviet": "",
+      "example": "それは確かに私のミスです。",
+      "exampleVi": "Đó đúng là lỗi của tôi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_558",
+      "term": "真剣に",
+      "reading": "しんけんに",
+      "meaning": "nghiêm túc",
+      "hanviet": "",
+      "example": "真剣に考えてください。",
+      "exampleVi": "Hãy suy nghĩ một cách nghiêm túc.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_559",
+      "term": "やっと",
+      "reading": "やっと",
+      "meaning": "cuối cùng thì",
+      "hanviet": "",
+      "example": "やっと宿題が終わった。",
+      "exampleVi": "Cuối cùng cũng xong bài tập về nhà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_560",
+      "term": "少なくとも",
+      "reading": "すくなくとも",
+      "meaning": "chí ít. ít nhất thì",
+      "hanviet": "",
+      "example": "少なくとも五人は来るはずだ。",
+      "exampleVi": "Ít nhất thì cũng sẽ có năm người đến.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_561",
+      "term": "先々",
+      "reading": "さきざき",
+      "meaning": "mọi. khắp 先々",
+      "hanviet": "",
+      "example": "のことを考えて計画を立てる。",
+      "exampleVi": "Lập kế hoạch nghĩ đến cả tương lai.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_562",
+      "term": "がっしり",
+      "reading": "がっしり",
+      "meaning": "rắn chắc. cứng cỏi",
+      "hanviet": "",
+      "example": "彼はがっしりした体つきをしている。",
+      "exampleVi": "Anh ta có thân hình rắn chắc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_563",
+      "term": "あらかじめ",
+      "reading": "あらかじめ",
+      "meaning": "trước",
+      "hanviet": "",
+      "example": "あらかじめ準備しておいた方がいい。",
+      "exampleVi": "Tốt hơn nên chuẩn bị sẵn trước.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_564",
+      "term": "間際",
+      "reading": "まぎわ",
+      "meaning": "ngay trước khi. sắp sửa",
+      "hanviet": "",
+      "example": "出発の間際に電話が鳴った。",
+      "exampleVi": "Điện thoại reo ngay trước lúc khởi hành.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_565",
+      "term": "こつこつ",
+      "reading": "こつこつ",
+      "meaning": "cần cù. chăm chỉ. kiên trì",
+      "hanviet": "",
+      "example": "毎日こつこつ勉強している。",
+      "exampleVi": "Tôi học chăm chỉ mỗi ngày.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_566",
+      "term": "知らず知らず",
+      "reading": "しらずしらず",
+      "meaning": "vô thức. bất giác",
+      "hanviet": "",
+      "example": "知らず知らずのうちに眠っていた。",
+      "exampleVi": "Tôi đã ngủ quên lúc nào không biết.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_567",
+      "term": "一時的に",
+      "reading": "いちじてきに",
+      "meaning": "tạm thời",
+      "hanviet": "",
+      "example": "一時的な問題なので心配いりません。",
+      "exampleVi": "Chỉ là vấn đề tạm thời nên đừng lo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_568",
+      "term": "いきいき",
+      "reading": "いきいき",
+      "meaning": "sôi nổi. tràn đầy sức sống",
+      "hanviet": "",
+      "example": "子どもたちはいきいきと遊んでいた。",
+      "exampleVi": "Lũ trẻ chơi đùa đầy sức sống.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_569",
+      "term": "一気に",
+      "reading": "いっきに",
+      "meaning": "một lèo. một mạch",
+      "hanviet": "",
+      "example": "一気に飲み干した。",
+      "exampleVi": "Tôi đã uống một hơi hết sạch.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_570",
+      "term": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "ngẫu nhiên",
+      "hanviet": "",
+      "example": "偶然同じクラスになった。",
+      "exampleVi": "Tình cờ lại vào cùng lớp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_571",
+      "term": "びっしょり",
+      "reading": "びっしょり",
+      "meaning": "ướt sũng",
+      "hanviet": "",
+      "example": "汗でシャツがびっしょり濡れた。",
+      "exampleVi": "Áo sơ mi ướt đẫm mồ hôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_572",
+      "term": "おそらく",
+      "reading": "おそらく",
+      "meaning": "có lẽ =",
+      "hanviet": "",
+      "example": "たぶん おそらく彼は来ないだろう。",
+      "exampleVi": "Có lẽ anh ấy sẽ không đến.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_573",
+      "term": "たっぷり",
+      "reading": "たっぷり",
+      "meaning": "đầy ắp",
+      "hanviet": "",
+      "example": "時間がたっぷりある。",
+      "exampleVi": "Có dư dả thời gian.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_574",
+      "term": "やや",
+      "reading": "やや",
+      "meaning": "một chút. một ít =",
+      "hanviet": "",
+      "example": "少し やや風が強くなってきた。",
+      "exampleVi": "Gió hơi mạnh lên một chút.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_575",
+      "term": "かつて",
+      "reading": "かつて",
+      "meaning": "từng. trước đây =",
+      "hanviet": "",
+      "example": "以前 かつてこの町に住んでいた。",
+      "exampleVi": "Tôi từng sống ở thị trấn này.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_576",
+      "term": "いったん",
+      "reading": "いったん",
+      "meaning": "một tí",
+      "hanviet": "",
+      "example": "いったん帰宅してからまた出かけます。",
+      "exampleVi": "Tôi sẽ về nhà một lần rồi lại ra ngoài.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_577",
+      "term": "だぶだぶ",
+      "reading": "だぶだぶ",
+      "meaning": "thùng thình",
+      "hanviet": "",
+      "example": "ズボンがだぶだぶしている。",
+      "exampleVi": "Quần bị rộng thùng thình.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_578",
+      "term": "相当",
+      "reading": "そうとう",
+      "meaning": "khá là. tương đối",
+      "hanviet": "",
+      "example": "その話は相当ショックだった。",
+      "exampleVi": "Câu chuyện đó khá là sốc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_579",
+      "term": "ぐったり",
+      "reading": "ぐったり",
+      "meaning": "mệt mỏi rã rời",
+      "hanviet": "",
+      "example": "疲れてぐったりしている。",
+      "exampleVi": "Tôi mệt rã rời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_580",
+      "term": "つねに",
+      "reading": "つねに",
+      "meaning": "thường. luôn =",
+      "hanviet": "",
+      "example": "いつも つねに努力を忘れない。",
+      "exampleVi": "Luôn luôn không quên nỗ lực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_581",
+      "term": "うろうろ",
+      "reading": "うろうろ",
+      "meaning": "đi quanh quẩn. lòng vòng",
+      "hanviet": "",
+      "example": "道に迷ってうろうろしていた。",
+      "exampleVi": "Tôi lạc đường và đi vòng quanh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_582",
+      "term": "ばっさり",
+      "reading": "ばっさり",
+      "meaning": "dứt khoát. làm thẳng tay",
+      "hanviet": "",
+      "example": "髪をばっさり切った。",
+      "exampleVi": "Tôi đã cắt tóc ngắn hẳn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_583",
+      "term": "ひそひそ",
+      "reading": "ひそひそ",
+      "meaning": "thì thầm. thì thào",
+      "hanviet": "",
+      "example": "ひそひそ話している。",
+      "exampleVi": "Họ đang nói chuyện thì thầm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_584",
+      "term": "当分",
+      "reading": "とうぶん",
+      "meaning": "tạm thời. trước mắt",
+      "hanviet": "",
+      "example": "当分は忙しい日々が続きそうだ。",
+      "exampleVi": "Có vẻ sắp tới sẽ tiếp tục bận rộn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_585",
+      "term": "一転",
+      "reading": "いってん",
+      "meaning": "thay đổi hoàn toàn",
+      "hanviet": "",
+      "example": "状況が一転して、希望が見えた。",
+      "exampleVi": "Tình hình xoay chuyển. đã thấy hy vọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_586",
+      "term": "ぐんぐん",
+      "reading": "ぐんぐん",
+      "meaning": "nhanh chóng. mau lẹ",
+      "hanviet": "",
+      "example": "木がぐんぐん育っている。",
+      "exampleVi": "Cây đang lớn nhanh vùn vụt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_587",
+      "term": "ぎざぎざ",
+      "reading": "ぎざぎざ",
+      "meaning": "nham nhở. lởm chởm",
+      "hanviet": "",
+      "example": "紙の端がぎざぎざになっている。",
+      "exampleVi": "Cạnh giấy bị lởm chởm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_588",
+      "term": "いちいち",
+      "reading": "いちいち",
+      "meaning": "hở tí thì",
+      "hanviet": "",
+      "example": "いちいち注意されるのは嫌だ。",
+      "exampleVi": "Tôi ghét bị nhắc nhở từng li từng tí.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_589",
+      "term": "ほんの",
+      "reading": "ほんの",
+      "meaning": "một chút. một ít",
+      "hanviet": "",
+      "example": "ほんの少しだけ手伝った。",
+      "exampleVi": "Tôi chỉ giúp một chút thôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_590",
+      "term": "がっかり",
+      "reading": "がっかり",
+      "meaning": "thất vọng",
+      "hanviet": "",
+      "example": "試験に落ちてがっかりした。",
+      "exampleVi": "Tôi buồn vì trượt kỳ thi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_591",
+      "term": "精一杯",
+      "reading": "せいいっぱい",
+      "meaning": "dốc hết sức. hết mình",
+      "hanviet": "",
+      "example": "精一杯努力します。",
+      "exampleVi": "Tôi sẽ nỗ lực hết sức.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_592",
+      "term": "即座に",
+      "reading": "そくざに",
+      "meaning": "",
+      "hanviet": "",
+      "example": "即座に返事をした。",
+      "exampleVi": "Tôi đã trả lời ngay lập tức.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_593",
+      "term": "きょろきょろ",
+      "reading": "きょろきょろ",
+      "meaning": "ngơ ngác",
+      "hanviet": "",
+      "example": "辺りをきょろきょろ見回した。",
+      "exampleVi": "Tôi nhìn quanh ngó nghiêng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_594",
+      "term": "ごちゃごちゃ",
+      "reading": "ごちゃごちゃ",
+      "meaning": "lung tung. lộn xộn",
+      "hanviet": "",
+      "example": "部屋がごちゃごちゃしている。",
+      "exampleVi": "Phòng bừa bộn lộn xộn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_595",
+      "term": "一層",
+      "reading": "いっそう",
+      "meaning": "hơn hẳn một bậc",
+      "hanviet": "",
+      "example": "もっと一層努力する必要がある。",
+      "exampleVi": "Cần nỗ lực hơn nữa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_596",
+      "term": "ほっと",
+      "reading": "ほっと",
+      "meaning": "thở phào nhẹ nhõm",
+      "hanviet": "",
+      "example": "ほっと一息ついた。",
+      "exampleVi": "Tôi thở phào nhẹ nhõm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_597",
+      "term": "急激に",
+      "reading": "きゅうげきに",
+      "meaning": "đột biến. nhanh chóng",
+      "hanviet": "",
+      "example": "急激に気温が下がった。",
+      "exampleVi": "Nhiệt độ giảm đột ngột.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_598",
+      "term": "いつまでも",
+      "reading": "いつまでも",
+      "meaning": "mãi mãi. luôn luôn",
+      "hanviet": "",
+      "example": "いつまでも子ども扱いしないで。",
+      "exampleVi": "Đừng mãi xem tôi như trẻ con.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_599",
+      "term": "びりびり",
+      "reading": "びりびり",
+      "meaning": "tê tê.",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "xé",
+      "frequency": 1
+    },
+    {
+      "id": "v_600",
+      "term": "ばりばり",
+      "reading": "ばりばり",
+      "meaning": "lạo xạo.",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "làm việc",
+      "frequency": 1
+    },
+    {
+      "id": "v_601",
+      "term": "じりじり",
+      "reading": "じりじり",
+      "meaning": "nóng ruột. sốt ruột",
+      "hanviet": "",
+      "example": "じりじりと太陽が照りつける。",
+      "exampleVi": "Mặt trời chiếu gay gắt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_602",
+      "term": "せっかく",
+      "reading": "せっかく",
+      "meaning": "cất công. mất công",
+      "hanviet": "",
+      "example": "せっかくの旅行なのに雨が降った。",
+      "exampleVi": "Công phu đi du lịch mà lại gặp mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_603",
+      "term": "そろそろ",
+      "reading": "そろそろ",
+      "meaning": "đến lúc ~ thôi",
+      "hanviet": "",
+      "example": "そろそろ出発しましょう。",
+      "exampleVi": "Chúng ta chuẩn bị khởi hành thôi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_604",
+      "term": "格別に",
+      "reading": "かくべつに",
+      "meaning": "khác biệt. đặc biệt",
+      "hanviet": "",
+      "example": "格別においしいケーキだった。",
+      "exampleVi": "Chiếc bánh đặc biệt ngon.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_605",
+      "term": "強大に",
+      "reading": "きょうだいに",
+      "meaning": "mạnh mẽ. vĩ đại",
+      "hanviet": "",
+      "example": "強大な力を持つ国家。",
+      "exampleVi": "Một quốc gia có sức mạnh to lớn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_606",
+      "term": "ごくごく",
+      "reading": "ごくごく",
+      "meaning": "ừng ực",
+      "hanviet": "",
+      "example": "水を ごくごく 飲んだ。",
+      "exampleVi": "Tôi uống nước ừng ực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_607",
+      "term": "ぎしぎし",
+      "reading": "ぎしぎし",
+      "meaning": "cọt kẹt. cót két",
+      "hanviet": "",
+      "example": "ドアがぎしぎしと音を立てる。",
+      "exampleVi": "Cánh cửa kêu cót két.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_608",
+      "term": "じめじめ",
+      "reading": "じめじめ",
+      "meaning": "ẩm ướt. nhớp nháp",
+      "hanviet": "",
+      "example": "梅雨で毎日じめじめしている。",
+      "exampleVi": "Mùa mưa khiến ngày nào cũng ẩm ướt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_609",
+      "term": "何度か",
+      "reading": "なんどか",
+      "meaning": "nhiều lần. vài lần",
+      "hanviet": "",
+      "example": "何度か挑戦して成功した。",
+      "exampleVi": "Thử nhiều lần rồi cũng thành công.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_610",
+      "term": "いくつもの",
+      "reading": "いくつもの",
+      "meaning": "nhiều",
+      "hanviet": "",
+      "example": "いくつもの困難を乗り越えた。",
+      "exampleVi": "Đã vượt qua rất nhiều khó khăn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_611",
+      "term": "どしどし",
+      "reading": "どしどし",
+      "meaning": "liên tiếp",
+      "hanviet": "",
+      "example": "ご意見はどしどしお寄せください。",
+      "exampleVi": "Xin hãy đóng góp ý kiến thật nhiều.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_612",
+      "term": "どっしり",
+      "reading": "どっしり",
+      "meaning": "đồ sộ. to lớn",
+      "hanviet": "",
+      "example": "この家具はどっしりしている。",
+      "exampleVi": "Chiếc nội thất này trông rất chắc chắn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_613",
+      "term": "うじゃうじゃ",
+      "reading": "うじゃうじゃ",
+      "meaning": "lúc nhúc",
+      "hanviet": "",
+      "example": "虫がうじゃうじゃいる。",
+      "exampleVi": "Có cả đàn côn trùng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_614",
+      "term": "急に",
+      "reading": "きゅうに",
+      "meaning": "đột nhiên",
+      "hanviet": "",
+      "example": "急に泣き出した。",
+      "exampleVi": "Bỗng nhiên bật khóc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_615",
+      "term": "次第に",
+      "reading": "じだいに",
+      "meaning": "dần dần. từng chút một",
+      "hanviet": "",
+      "example": "次第に上達してきた。",
+      "exampleVi": "Dần dần tôi đã tiến bộ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_616",
+      "term": "早速",
+      "reading": "さっそく",
+      "meaning": "ngay lập tức",
+      "hanviet": "",
+      "example": "早速メールを送った。",
+      "exampleVi": "Tôi đã gửi mail ngay lập tức.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_617",
+      "term": "はきはき",
+      "reading": "はきはき",
+      "meaning": "rõ ràng. rành mạch",
+      "hanviet": "",
+      "example": "はきはきと答える。",
+      "exampleVi": "Trả lời rành rọt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_618",
+      "term": "おおよそ",
+      "reading": "おおよそ",
+      "meaning": "",
+      "hanviet": "",
+      "example": "おおよそ完成した。",
+      "exampleVi": "Gần như hoàn tất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_619",
+      "term": "すべて",
+      "reading": "すべて",
+      "meaning": "khoảng chừng. đại khái",
+      "hanviet": "",
+      "example": "すべての書類を確認した。",
+      "exampleVi": "Đã kiểm tra toàn bộ tài liệu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_620",
+      "term": "もう",
+      "reading": "もう",
+      "meaning": "đã ~",
+      "hanviet": "",
+      "example": "もう終わったよ。",
+      "exampleVi": "Xong rồi đấy.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_621",
+      "term": "クリア",
+      "reading": "クリア",
+      "meaning": "giải quyết. làm rõ",
+      "hanviet": "",
+      "example": "問題をクリアした。",
+      "exampleVi": "Đã giải quyết xong vấn đề.。",
+      "frequency": 3
+    },
+    {
+      "id": "v_622",
+      "term": "セミナー",
+      "reading": "セミナー",
+      "meaning": "hội thảo",
+      "hanviet": "",
+      "example": "セミナーに参加する。",
+      "exampleVi": "Tham gia hội thảo.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_623",
+      "term": "バランス",
+      "reading": "バランス",
+      "meaning": "cân bằng",
+      "hanviet": "",
+      "example": "食事のバランスが大切だ。",
+      "exampleVi": "Cân bằng dinh dưỡng là rất quan trọng.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_624",
+      "term": "チャージ",
+      "reading": "チャージ",
+      "meaning": "nạp",
+      "hanviet": "",
+      "example": "携帯にチャージする。",
+      "exampleVi": "Sạc điện thoại di động.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_625",
+      "term": "プレッシャー",
+      "reading": "プレッシャー",
+      "meaning": "áp lực",
+      "hanviet": "",
+      "example": "試験のプレッシャーが大きい。",
+      "exampleVi": "Áp lực kỳ thi rất lớn.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_626",
+      "term": "インパクト",
+      "reading": "インパクト",
+      "meaning": "tác động. ảnh hưởng",
+      "hanviet": "",
+      "example": "その映画はインパクトが強かった。",
+      "exampleVi": "Bộ phim đó gây ấn tượng mạnh.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_627",
+      "term": "パンク",
+      "reading": "パンク",
+      "meaning": "nổ",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "lốp xe",
+      "frequency": 1
+    },
+    {
+      "id": "v_628",
+      "term": "ストライキ",
+      "reading": "ストライキ",
+      "meaning": "đình công",
+      "hanviet": "",
+      "example": "労働者がストライキを行った。",
+      "exampleVi": "Công nhân đã tổ chức đình công.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_629",
+      "term": "ムード",
+      "reading": "ムード",
+      "meaning": "bầu không khí",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "mood",
+      "frequency": 1
+    },
+    {
+      "id": "v_630",
+      "term": "タイヤ",
+      "reading": "タイヤ",
+      "meaning": "lốp xe",
+      "hanviet": "",
+      "example": "タイヤを交換する。",
+      "exampleVi": "Thay lốp xe.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_631",
+      "term": "ダウン",
+      "reading": "ダウン",
+      "meaning": "đi xuống. ngã xuống",
+      "hanviet": "",
+      "example": "風邪で体力がダウンした。",
+      "exampleVi": "Bị cảm nên sức khỏe giảm sút.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_632",
+      "term": "リラックス",
+      "reading": "リラックス",
+      "meaning": "thư giãn",
+      "hanviet": "",
+      "example": "休日は家でリラックスする。",
+      "exampleVi": "Ngày nghỉ tôi thư giãn ở nhà.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_633",
+      "term": "デザイン",
+      "reading": "デザイン",
+      "meaning": "thiết kế",
+      "hanviet": "",
+      "example": "このデザインは斬新だ。",
+      "exampleVi": "Thiết kế này rất mới lạ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_634",
+      "term": "インテリア",
+      "reading": "インテリア",
+      "meaning": "nội thất",
+      "hanviet": "",
+      "example": "インテリアにこだわる。",
+      "exampleVi": "Chú trọng đến nội thất.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_635",
+      "term": "テンポ",
+      "reading": "テンポ",
+      "meaning": "nhịp độ =",
+      "hanviet": "",
+      "example": "速さ テンポの速い曲が好きだ。",
+      "exampleVi": "Tôi thích nhạc có nhịp nhanh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_636",
+      "term": "リーダー",
+      "reading": "リーダー",
+      "meaning": "trưởng nhóm. leade",
+      "hanviet": "",
+      "example": "彼は素晴らしいリーダーだ。",
+      "exampleVi": "Anh ấy là một người lãnh đạo tuyệt vời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_637",
+      "term": "ライバル",
+      "reading": "ライバル",
+      "meaning": "đối thủ",
+      "hanviet": "",
+      "example": "彼は強いライバルだ。",
+      "exampleVi": "Anh ta là đối thủ mạnh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_638",
+      "term": "ゲスト",
+      "reading": "ゲスト",
+      "meaning": "khách",
+      "hanviet": "",
+      "example": "ゲストが到着した。",
+      "exampleVi": "Khách mời đã đến.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_639",
+      "term": "ショック",
+      "reading": "ショック",
+      "meaning": "sốc. ngạc nhiên",
+      "hanviet": "",
+      "example": "そのニュースはショックだった。",
+      "exampleVi": "Tin đó thật là sốc.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_640",
+      "term": "エラー",
+      "reading": "エラー",
+      "meaning": "lỗi",
+      "hanviet": "",
+      "example": "コンピュータにエラーが出た。",
+      "exampleVi": "Máy tính bị lỗi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_641",
+      "term": "アピール",
+      "reading": "アピール",
+      "meaning": "thu hút. tạo sức hút",
+      "hanviet": "",
+      "example": "彼女は自分をアピールした。",
+      "exampleVi": "Cô ấy đã thể hiện bản thân.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_642",
+      "term": "インストール",
+      "reading": "インストール",
+      "meaning": "cài đặt",
+      "hanviet": "",
+      "example": "ソフトをインストールする。",
+      "exampleVi": "Cài đặt phần mềm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_643",
+      "term": "カルシウム",
+      "reading": "カルシウム",
+      "meaning": "canxi",
+      "hanviet": "",
+      "example": "牛乳にはカルシウムが含まれる。",
+      "exampleVi": "Sữa chứa canxi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_644",
+      "term": "アレンジ",
+      "reading": "アレンジ",
+      "meaning": "điều chỉnh",
+      "hanviet": "",
+      "example": "花をアレンジする。",
+      "exampleVi": "Cắm hoa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_645",
+      "term": "マイナス",
+      "reading": "マイナス",
+      "meaning": "điểm trừ",
+      "hanviet": "",
+      "example": "これはマイナスの影響だ。",
+      "exampleVi": "Đây là ảnh hưởng tiêu cực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_646",
+      "term": "スペース",
+      "reading": "スペース",
+      "meaning": "khoảng trống. chỗ trống",
+      "hanviet": "",
+      "example": "スペースを有効に使う。",
+      "exampleVi": "Sử dụng không gian hiệu quả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_647",
+      "term": "テクニック",
+      "reading": "テクニック",
+      "meaning": "kĩ thuật",
+      "hanviet": "",
+      "example": "彼はテクニックがすごい。",
+      "exampleVi": "Anh ta có kỹ thuật tuyệt vời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_648",
+      "term": "ハード",
+      "reading": "ハード",
+      "meaning": "khó khăn. vất vả",
+      "hanviet": "",
+      "example": "その仕事はハードだ。",
+      "exampleVi": "Công việc đó rất vất vả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_649",
+      "term": "スタッフ",
+      "reading": "スタッフ",
+      "meaning": "staff. nhân viên",
+      "hanviet": "",
+      "example": "スタッフが親切だった。",
+      "exampleVi": "Nhân viên rất thân thiện.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_650",
+      "term": "ダメージ",
+      "reading": "ダメージ",
+      "meaning": "phá hủy. phá hoại",
+      "hanviet": "",
+      "example": "",
+      "exampleVi": "damage",
+      "frequency": 1
+    },
+    {
+      "id": "v_651",
+      "term": "コンプレックス",
+      "reading": "コンプレックス",
+      "meaning": "sự phức tạp",
+      "hanviet": "",
+      "example": "彼はコンプレックスを持っている。",
+      "exampleVi": "Anh ấy có mặc cảm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_652",
+      "term": "コスト",
+      "reading": "コスト",
+      "meaning": "chi phí",
+      "hanviet": "",
+      "example": "コストを抑える。",
+      "exampleVi": "Cắt giảm chi phí.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_653",
+      "term": "プラスチック",
+      "reading": "プラスチック",
+      "meaning": "nhựa",
+      "hanviet": "",
+      "example": "プラスチックの容器を使う。",
+      "exampleVi": "Dùng hộp nhựa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_654",
+      "term": "レンズ",
+      "reading": "レンズ",
+      "meaning": "ống kính. mắt kính",
+      "hanviet": "",
+      "example": "レンズをきれいにする。",
+      "exampleVi": "Làm sạch ống kính.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_655",
+      "term": "ブレーキ",
+      "reading": "ブレーキ",
+      "meaning": "phanh",
+      "hanviet": "",
+      "example": "急にブレーキを踏んだ。",
+      "exampleVi": "Đạp phanh đột ngột.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_656",
+      "term": "ズボン",
+      "reading": "ズボン",
+      "meaning": "quần dài",
+      "hanviet": "",
+      "example": "ズボンがきつくなった。",
+      "exampleVi": "Quần trở nên chật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_657",
+      "term": "ゴール",
+      "reading": "ゴール",
+      "meaning": "mục tiêu",
+      "hanviet": "",
+      "example": "ついにゴールに到達した。",
+      "exampleVi": "Cuối cùng cũng tới đích.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_658",
+      "term": "シンポジウム",
+      "reading": "シンポジウム",
+      "meaning": "hội thảo",
+      "hanviet": "",
+      "example": "シンポジウムに出席する。",
+      "exampleVi": "Tham dự hội nghị chuyên đề.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_659",
+      "term": "チーズ",
+      "reading": "チーズ",
+      "meaning": "phô mai",
+      "hanviet": "",
+      "example": "チーズをパンにのせる。",
+      "exampleVi": "Đặt phô mai lên bánh mì.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_660",
+      "term": "ロッカー",
+      "reading": "ロッカー",
+      "meaning": "tủ khóa",
+      "hanviet": "",
+      "example": "ロッカーに荷物を入れる。",
+      "exampleVi": "Đặt hành lý vào tủ khóa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_661",
+      "term": "ベテラン",
+      "reading": "ベテラン",
+      "meaning": "người kì cựu",
+      "hanviet": "",
+      "example": "彼はベテランの教師だ。",
+      "exampleVi": "Anh ấy là giáo viên kỳ cựu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_662",
+      "term": "アポイントメント",
+      "reading": "アポイントメント",
+      "meaning": "cuộc hẹn",
+      "hanviet": "",
+      "example": "アポイントメントを取る。",
+      "exampleVi": "Hẹn gặp.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_663",
+      "term": "オリエンテーション",
+      "reading": "オリエンテーション",
+      "meaning": "buổi giới thiệu. buổi hướng dẫn",
+      "hanviet": "",
+      "example": "新入生のオリエンテーション。",
+      "exampleVi": "Buổi định hướng cho sinh viên mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_664",
+      "term": "リハーサル",
+      "reading": "リハーサル",
+      "meaning": "diễn tập. tổng duyệt",
+      "hanviet": "",
+      "example": "明日のリハーサルは重要だ。",
+      "exampleVi": "Buổi tổng duyệt ngày mai rất quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_665",
+      "term": "プレシャー",
+      "reading": "プレシャー",
+      "meaning": "áp lực",
+      "hanviet": "",
+      "example": "プレシャーに負けない。",
+      "exampleVi": "Không thua trước áp lực.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_666",
+      "term": "アイデア",
+      "reading": "アイデア",
+      "meaning": "ý tưởng",
+      "hanviet": "",
+      "example": "いいアイデアが浮かんだ。",
+      "exampleVi": "Tôi nảy ra một ý tưởng hay.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_667",
+      "term": "サービス",
+      "reading": "サービス",
+      "meaning": "dịch vụ. miễn phí",
+      "hanviet": "",
+      "example": "この店はサービスがいい。",
+      "exampleVi": "Cửa hàng này phục vụ tốt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_668",
+      "term": "マナー",
+      "reading": "マナー",
+      "meaning": "quy tắc ứng xử. phép tắc",
+      "hanviet": "",
+      "example": "マナーを守ることが大切だ。",
+      "exampleVi": "Việc giữ gìn lễ nghi rất quan trọng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_669",
+      "term": "イメージ",
+      "reading": "イメージ",
+      "meaning": "hình ảnh",
+      "hanviet": "",
+      "example": "彼女のイメージは明るい。",
+      "exampleVi": "Hình ảnh của cô ấy là tươi sáng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_670",
+      "term": "服を立てる",
+      "reading": "はらをたてる",
+      "meaning": "tức giận. nổi nóng",
+      "hanviet": "",
+      "example": "音を立てずに服を立てる。",
+      "exampleVi": "Gấp quần áo mà không gây tiếng động.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_671",
+      "term": "止むを得ない",
+      "reading": "やむをえない",
+      "meaning": "bất đắc dĩ. không còn cách nào khác",
+      "hanviet": "",
+      "example": "それは止むを得ない事情だ。",
+      "exampleVi": "Đó là hoàn cảnh bất khả kháng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_672",
+      "term": "付いている",
+      "reading": "ついている",
+      "meaning": "may mắn =",
+      "hanviet": "",
+      "example": "運がよかった 今日は本当に付いている日だ。",
+      "exampleVi": "Hôm nay đúng là một ngày may mắn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_673",
+      "term": "運がいい",
+      "reading": "うんがいい",
+      "meaning": "may mắn",
+      "hanviet": "",
+      "example": "彼は本当に運がいい。",
+      "exampleVi": "Anh ta thật sự may mắn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_674",
+      "term": "ぴっしょり",
+      "reading": "ぴっしょり",
+      "meaning": "ướt sũng ướt đẫm",
+      "hanviet": "",
+      "example": "雨で服がぴっしょり濡れた。",
+      "exampleVi": "Quần áo bị ướt đẫm vì mưa.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_675",
+      "term": "快く",
+      "reading": "こころよく",
+      "meaning": "Vui vẻ. phấn khởi",
+      "hanviet": "",
+      "example": "快く引き受けてくれた。",
+      "exampleVi": "Đã vui vẻ nhận lời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_676",
+      "term": "のんびり",
+      "reading": "のんびり",
+      "meaning": "Thong thả; thong dong",
+      "hanviet": "",
+      "example": "休日はのんびり過ごしたい。",
+      "exampleVi": "Ngày nghỉ tôi muốn thư thả tận hưởng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_677",
+      "term": "何度も",
+      "reading": "何度も",
+      "meaning": "Nhiều lần",
+      "hanviet": "",
+      "example": "その本は何度も読んだ。",
+      "exampleVi": "Tôi đã đọc cuốn sách đó nhiều lần.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_678",
+      "term": "度々",
+      "reading": "たびたび",
+      "meaning": "Thường xuyên; lặp đi lặp lại; nhiều lần 度々",
+      "hanviet": "",
+      "example": "電話してすみません。",
+      "exampleVi": "Xin lỗi vì đã gọi điện nhiều lần.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_679",
+      "term": "直に",
+      "reading": "じかに",
+      "meaning": "Sớm. trực tiếp = 直 接",
+      "hanviet": "",
+      "example": "直に会って話そう。",
+      "exampleVi": "Gặp trực tiếp rồi nói chuyện đi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_680",
+      "term": "諸",
+      "reading": "諸",
+      "meaning": "",
+      "hanviet": "",
+      "example": "諸問題 しょ～ nhiều ~. các ~ 諸問題を解決する必要がある。",
+      "exampleVi": "Cần giải quyết các vấn đề khác nhau.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_681",
+      "term": "未～",
+      "reading": "未～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "未経験・未使用） み～ chưa ~ この仕事は未経験でも大丈夫です。",
+      "exampleVi": "Công việc này dù chưa có kinh nghiệm cũng không sao.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_682",
+      "term": "優～",
+      "reading": "優～",
+      "meaning": "",
+      "hanviet": "",
+      "example": "彼は優等生として表彰された。",
+      "exampleVi": "Anh ấy được khen thưởng là học sinh xuất sắc.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_683",
+      "term": "劣～",
+      "reading": "れつ～",
+      "meaning": "kém hơn ~",
+      "hanviet": "",
+      "example": "劣等感を持っている。",
+      "exampleVi": "Tôi có cảm giác tự ti.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_684",
+      "term": "無～",
+      "reading": "無～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "無責任・無計画） む～ vô ~",
+      "exampleVi": "không có",
+      "frequency": 2
+    },
+    {
+      "id": "v_685",
+      "term": "主～",
+      "reading": "主～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "主成分） しゅ～ ~ chính. chủ yếu 水の主成分は酸素と水素です。",
+      "exampleVi": "Thành phần chính của nước là oxy và hydro.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_686",
+      "term": "前～",
+      "reading": "ぜん～",
+      "meaning": "~ trước",
+      "hanviet": "",
+      "example": "前社長が挨拶をした。",
+      "exampleVi": "Cựu giám đốc đã phát biểu.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_687",
+      "term": "不～",
+      "reading": "不～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "不正確） ふ～ bất. không ~ この情報は不正確です。",
+      "exampleVi": "Thông tin này không chính xác.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_688",
+      "term": "助～",
+      "reading": "じょ～",
+      "meaning": "phó ~. hỗ trợ",
+      "hanviet": "",
+      "example": "助手として働いている。",
+      "exampleVi": "Tôi đang làm trợ lý.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_689",
+      "term": "異～",
+      "reading": "異～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "異文化） い～ dị. khác ~ 異文化交流を体験した。",
+      "exampleVi": "Tôi đã trải nghiệm giao lưu văn hóa khác biệt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_690",
+      "term": "昨～",
+      "reading": "さく～",
+      "meaning": "~ sau",
+      "hanviet": "",
+      "example": "昨年度の売上を確認する。",
+      "exampleVi": "Kiểm tra doanh thu năm ngoái.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_691",
+      "term": "初～",
+      "reading": "初～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "初年度） しょ～ đầu ~ 初年度の目標を設定する。",
+      "exampleVi": "Đặt mục tiêu cho năm đầu tiên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_692",
+      "term": "次～",
+      "reading": "次～",
+      "meaning": "次　～ thứ ~",
+      "hanviet": "",
+      "example": "次回の会議は来週です。",
+      "exampleVi": "Cuộc họp lần sau là tuần tới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_693",
+      "term": "一～",
+      "reading": "一～",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "一仕事） ひと～ một ~ 一仕事終えて休憩する。",
+      "exampleVi": "Làm xong một việc rồi nghỉ ngơi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_694",
+      "term": "復～",
+      "reading": "復～",
+      "meaning": "",
+      "hanviet": "",
+      "example": "復習をしてからテストに臨む。",
+      "exampleVi": "Ôn tập rồi mới đi thi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_695",
+      "term": "悪~",
+      "reading": "悪~",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "悪影響） あく～ ～xấu 環境に悪影響を与える。",
+      "exampleVi": "Gây ảnh hưởng xấu đến môi trường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_696",
+      "term": "再~",
+      "reading": "再~",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "再開発） さい~ tái~ 都市の再開発が進んでいる。",
+      "exampleVi": "Việc tái phát triển đô thị đang được tiến hành.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_697",
+      "term": "～割",
+      "reading": "～わり",
+      "meaning": "~ phần trăm",
+      "hanviet": "",
+      "example": "学生割が使えますか？",
+      "exampleVi": "Có dùng được giảm giá cho sinh viên không?。",
+      "frequency": 4
+    },
+    {
+      "id": "v_698",
+      "term": "～倍",
+      "reading": "～ばい",
+      "meaning": "gấp ~",
+      "hanviet": "",
+      "example": "収入が二倍になった。",
+      "exampleVi": "Thu nhập đã tăng gấp đôi.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_699",
+      "term": "～比",
+      "reading": "～ひ",
+      "meaning": "tỉ lệ ~",
+      "hanviet": "",
+      "example": "男女比は1対1です。",
+      "exampleVi": "Tỷ lệ nam nữ là 1:1.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_700",
+      "term": "～付き",
+      "reading": "～つき",
+      "meaning": "kèm theo ~",
+      "hanviet": "",
+      "example": "このホテルは朝食付きです。",
+      "exampleVi": "Khách sạn này bao gồm bữa sáng.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_701",
+      "term": "～離れ",
+      "reading": "～離れ",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "現実離れ） ～はなれ xa rời ~ この話は現実離れしている。",
+      "exampleVi": "Câu chuyện này xa rời thực tế.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_702",
+      "term": "～族",
+      "reading": "～ぞく",
+      "meaning": "tộc. nhóm ~",
+      "hanviet": "",
+      "example": "最近は若者族の行動が話題だ。",
+      "exampleVi": "Gần đây hành động của giới trẻ đang được quan tâm.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_703",
+      "term": "～抜け",
+      "reading": "～ぬけ",
+      "meaning": "~ rời khỏi. rút ra",
+      "hanviet": "",
+      "example": "力抜けして倒れた。",
+      "exampleVi": "Mất sức nên ngã xuống.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_704",
+      "term": "～逃げ",
+      "reading": "～にげ",
+      "meaning": "chạy thoát",
+      "hanviet": "",
+      "example": "責任逃げはよくない。",
+      "exampleVi": "Trốn tránh trách nhiệm là không tốt.。",
+      "frequency": 2
+    },
+    {
+      "id": "v_705",
+      "term": "～集",
+      "reading": "～集",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "作品集） ～しゅう tuyển tập. tập この本は作品集だ。",
+      "exampleVi": "Cuốn sách này là tuyển tập tác phẩm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_706",
+      "term": "～沿い",
+      "reading": "～沿い",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "線路沿い） ～ぞい dọc theo. men theo 線路沿いを歩く。",
+      "exampleVi": "Đi bộ dọc theo đường ray.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_707",
+      "term": "～賃",
+      "reading": "～賃",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "電車賃） ～ちん tiền phí sử dụng 電車賃が高い。",
+      "exampleVi": "Tiền tàu đắt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_708",
+      "term": "～一色",
+      "reading": "～一色",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "お祭りムード一色） ～いっしょく tràn ngập. toàn 町はお祭りムード一色だった。",
+      "exampleVi": "Thị trấn tràn ngập không khí lễ hội.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_709",
+      "term": "～性",
+      "reading": "～性",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "危険性） ～せい tính ~ この薬には危険性がある。",
+      "exampleVi": "Thuốc này có thể nguy hiểm.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_710",
+      "term": "～切れ",
+      "reading": "～切れ",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "期限切れ） ～ぎれ hết ~ この食品は期限切れだ。",
+      "exampleVi": "Thực phẩm này đã hết hạn.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_711",
+      "term": "～部",
+      "reading": "～ぶ",
+      "meaning": "bộ ~",
+      "hanviet": "",
+      "example": "営業部に配属された。",
+      "exampleVi": "Được phân công vào bộ phận kinh doanh.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_712",
+      "term": "～並び",
+      "reading": "～ならび",
+      "meaning": "~ hàng",
+      "hanviet": "",
+      "example": "古い家並びが残っている。",
+      "exampleVi": "Dãy nhà cổ vẫn còn tồn tại.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_713",
+      "term": "～伴い",
+      "reading": "～ともない",
+      "meaning": "kèm theo ~",
+      "hanviet": "",
+      "example": "変更に伴い、通知を出す。",
+      "exampleVi": "Ra thông báo do có thay đổi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_714",
+      "term": "～料",
+      "reading": "～りょう",
+      "meaning": "phí ~",
+      "hanviet": "",
+      "example": "入場料は500円です。",
+      "exampleVi": "Phí vào cửa là 500 yên.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_715",
+      "term": "～一例",
+      "reading": "～いちれい",
+      "meaning": "~ một ví dụ",
+      "hanviet": "",
+      "example": "これは代表的一例です。",
+      "exampleVi": "Đây là một ví dụ tiêu biểu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_716",
+      "term": "～一面",
+      "reading": "～いちめん",
+      "meaning": "~ một mặt",
+      "hanviet": "",
+      "example": "新聞の一面に載った。",
+      "exampleVi": "Được đăng trên trang nhất của báo.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_717",
+      "term": "～一種",
+      "reading": "～いっしゅ",
+      "meaning": "~ một loại",
+      "hanviet": "",
+      "example": "これは新しい病気の一種だ。",
+      "exampleVi": "Đây là một loại bệnh mới.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_718",
+      "term": "～団",
+      "reading": "～団",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "応援団） ～だん nhóm. đội ~ 応援団が声援を送った。",
+      "exampleVi": "Đội cổ động đã cổ vũ.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_719",
+      "term": "～党",
+      "reading": "～とう",
+      "meaning": "đảng ~",
+      "hanviet": "",
+      "example": "与党が法律を提案した。",
+      "exampleVi": "Đảng cầm quyền đã đề xuất luật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_720",
+      "term": "～落ち",
+      "reading": "～おち",
+      "meaning": "rơi. rụng",
+      "hanviet": "",
+      "example": "このシャツは色落ちしやすい。",
+      "exampleVi": "Chiếc áo này dễ phai màu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_721",
+      "term": "～態",
+      "reading": "～てい",
+      "meaning": "trạng thái. dáng vẻ",
+      "hanviet": "",
+      "example": "異常態が観察された。",
+      "exampleVi": "Đã quan sát thấy trạng thái bất thường.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_722",
+      "term": "～下",
+      "reading": "～下",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "管理下） ～か đặt dưới ~ その問題は管理下にある。",
+      "exampleVi": "Vấn đề đó đang được kiểm soát.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_723",
+      "term": "～式",
+      "reading": "～式",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "日本式） ～しき kiểu~ これは日本式のやり方だ。",
+      "exampleVi": "Đây là cách làm theo kiểu Nhật.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_724",
+      "term": "～漬け",
+      "reading": "～漬け",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "勉強漬け） ～づけ đắm chìm trong ~ テスト前は勉強漬けだった。",
+      "exampleVi": "Trước kỳ thi tôi chỉ toàn học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_725",
+      "term": "～連",
+      "reading": "～れん",
+      "meaning": "chỉ số nhiều",
+      "hanviet": "",
+      "example": "家族連れが多い。",
+      "exampleVi": "Có nhiều gia đình đi cùng nhau.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_726",
+      "term": "～属",
+      "reading": "～ぞく",
+      "meaning": "chi. loài ~",
+      "hanviet": "",
+      "example": "これは哺乳類属に属する。",
+      "exampleVi": "Loài này thuộc họ động vật có vú.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_727",
+      "term": "～状",
+      "reading": "～状",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "招待状） ～じょう Giấy mời; thiệp mời 招待状を受け取った。",
+      "exampleVi": "Tôi đã nhận được thiệp mời.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_728",
+      "term": "～場",
+      "reading": "～場",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "スキー場） ～じょう bãi ~ スキー場はにぎわっていた。",
+      "exampleVi": "Khu trượt tuyết rất náo nhiệt.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_729",
+      "term": "～別",
+      "reading": "～別",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "学年別） ～べつ phân biệt theo ~ 学年別に分けられている。",
+      "exampleVi": "Được chia theo năm học.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_730",
+      "term": "～元",
+      "reading": "～元",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "送信元） ～もと nơi 送信元を確認してください。",
+      "exampleVi": "Hãy kiểm tra người gửi.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_731",
+      "term": "～手",
+      "reading": "～手",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "働き手） ～しゅ người",
+      "exampleVi": "nghề nghiệp~",
+      "frequency": 1
+    },
+    {
+      "id": "v_732",
+      "term": "～所",
+      "reading": "～所",
+      "meaning": "",
+      "hanviet": "",
+      "example": "事務所に戻ります。",
+      "exampleVi": "Tôi sẽ quay lại văn phòng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_733",
+      "term": "～量",
+      "reading": "～量",
+      "meaning": "",
+      "hanviet": "",
+      "example": "消費量が増えている。",
+      "exampleVi": "Lượng tiêu thụ đang tăng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_734",
+      "term": "～際に",
+      "reading": "～際に",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "別れ際に） ～さいに lúc. khi ~ 別れ際に涙が出た。",
+      "exampleVi": "Tôi đã khóc lúc chia tay.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_735",
+      "term": "～づらい",
+      "reading": "～づらい",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "頼みづらい） khó ~ 頼みづらい雰囲気だった。",
+      "exampleVi": "Không khí khiến tôi khó mở lời nhờ vả.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_736",
+      "term": "～質",
+      "reading": "～しつ",
+      "meaning": "chất ~",
+      "hanviet": "",
+      "example": "性質が異なる。",
+      "exampleVi": "Tính chất khác nhau.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_737",
+      "term": "～権",
+      "reading": "～権",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "決定権） ～けん quyền ~ 決定権は部長にある。",
+      "exampleVi": "Quyền quyết định thuộc về trưởng phòng.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_738",
+      "term": "~率",
+      "reading": "~率",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "成功率） ～りつ· ti lệ ~ 成功率が高い。",
+      "exampleVi": "Tỷ lệ thành công cao.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_739",
+      "term": "~風",
+      "reading": "~風",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "ヨーロッパ風） ~かぜ phong cách~ ヨーロッパ風の建物。",
+      "exampleVi": "Tòa nhà mang phong cách châu Âu.。",
+      "frequency": 1
+    },
+    {
+      "id": "v_740",
+      "term": "~順",
+      "reading": "~順",
+      "meaning": "（",
+      "hanviet": "",
+      "example": "年代順） ~じゅん Thứ tự theo~ 年代順に並んでいる。",
+      "exampleVi": "Được sắp xếp theo thứ tự niên đại.。",
+      "frequency": 1
+    }
+  ]
+}

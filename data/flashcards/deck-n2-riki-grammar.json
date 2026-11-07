@@ -1,0 +1,925 @@
+{
+  "id": "n2-riki-grammar",
+  "cards": [
+    {
+      "id": "np_1",
+      "term": "末に",
+      "reading": "末に",
+      "meaning": "Sau 1 thời gian",
+      "formation": "",
+      "example": "長い議論の末に、結論が出た。",
+      "exampleVi": "Sau một cuộc tranh luận dài, cuối cùng đã có kết luận.",
+      "frequency": 5
+    },
+    {
+      "id": "np_2",
+      "term": "べきだ",
+      "reading": "べきだ",
+      "meaning": "Nên.../ phải...",
+      "formation": "",
+      "example": "約束は守るべきだ。",
+      "exampleVi": "Phải giữ lời hứa.",
+      "frequency": 5
+    },
+    {
+      "id": "np_3",
+      "term": "かねる",
+      "reading": "かねる",
+      "meaning": "Không thể, khó có thể",
+      "formation": "",
+      "example": "あなたのご意見には賛成しかねます。",
+      "exampleVi": "Tôi e rằng khó có thể tán thành ý kiến của anh.",
+      "frequency": 5
+    },
+    {
+      "id": "np_4",
+      "term": "といっても",
+      "reading": "といっても",
+      "meaning": "Dẫu nói là",
+      "formation": "",
+      "example": "日本に住んでいるといっても、まだ半年だけです。",
+      "exampleVi": "Dù nói là sống ở Nhật, nhưng mới có nửa năm thôi.",
+      "frequency": 4
+    },
+    {
+      "id": "np_5",
+      "term": "ようとする",
+      "reading": "ようとする",
+      "meaning": "Định làm/ Cố gắng làm",
+      "formation": "",
+      "example": "出かけようとしたとき、電話が鳴った。",
+      "exampleVi": "Khi tôi định ra ngoài thì điện thoại reo.",
+      "frequency": 4
+    },
+    {
+      "id": "np_6",
+      "term": "に限らない・に限らず",
+      "reading": "に限らない・に限らず",
+      "meaning": "Không chỉ ~ / Không giới hạn ở ~",
+      "formation": "",
+      "example": "このサービスは学生に限らず、誰でも利用できます。",
+      "exampleVi": "Dịch vụ này không chỉ dành cho học sinh mà ai cũng có thể sử dụng được.",
+      "frequency": 4
+    },
+    {
+      "id": "np_7",
+      "term": "に沿って",
+      "reading": "に沿って",
+      "meaning": "Men theo",
+      "formation": "",
+      "example": "計画に沿って進めてください。",
+      "exampleVi": "Hãy tiến hành theo đúng kế hoạch.",
+      "frequency": 4
+    },
+    {
+      "id": "np_8",
+      "term": "がたい",
+      "reading": "がたい",
+      "meaning": "Khó làm gì đó",
+      "formation": "",
+      "example": "彼の親切は忘れがたい。",
+      "exampleVi": "Tôi khó mà quên được lòng tốt của anh ấy.",
+      "frequency": 3
+    },
+    {
+      "id": "np_9",
+      "term": "からすると",
+      "reading": "からすると",
+      "meaning": "Xét về mặt...",
+      "formation": "",
+      "example": "話し方からすると、あの人は先生のようだ。",
+      "exampleVi": "Xét cách nói chuyện thì người đó có vẻ là giáo viên.",
+      "frequency": 3
+    },
+    {
+      "id": "np_10",
+      "term": "を問わず",
+      "reading": "を問わず",
+      "meaning": "Bất kể, không quan trọng",
+      "formation": "",
+      "example": "経験の有無を問わず、誰でも応募できる。",
+      "exampleVi": "Bất kể có kinh nghiệm hay không, ai cũng có thể ứng tuyển.",
+      "frequency": 3
+    },
+    {
+      "id": "np_11",
+      "term": "につき",
+      "reading": "につき",
+      "meaning": "Vì ~ / Do ~",
+      "formation": "",
+      "example": "",
+      "exampleVi": "nguyên nhân, lý do – trang trọng",
+      "frequency": 3
+    },
+    {
+      "id": "np_12",
+      "term": "を込めて",
+      "reading": "を込めて",
+      "meaning": "Dồn",
+      "formation": "",
+      "example": "",
+      "exampleVi": "tình cảm, ý chí, suy nghĩ, sức lực, …",
+      "frequency": 3
+    },
+    {
+      "id": "np_13",
+      "term": "に応じて",
+      "reading": "に応じて",
+      "meaning": "Ứng với",
+      "formation": "",
+      "example": "給料は経験に応じて決められます。",
+      "exampleVi": "Lương được quyết định tùy theo kinh nghiệm.",
+      "frequency": 2
+    },
+    {
+      "id": "np_14",
+      "term": "にわたり",
+      "reading": "にわたり",
+      "meaning": "Suốt",
+      "formation": "",
+      "example": "",
+      "exampleVi": "thời gian",
+      "frequency": 2
+    },
+    {
+      "id": "np_15",
+      "term": "にすぎない",
+      "reading": "にすぎない",
+      "meaning": "Chỉ là",
+      "formation": "",
+      "example": "彼はただの子どもにすぎない。",
+      "exampleVi": "Nó chỉ là một đứa trẻ thôi.",
+      "frequency": 2
+    },
+    {
+      "id": "np_16",
+      "term": "とはいえ",
+      "reading": "とはいえ",
+      "meaning": "Mặc dù nói là...",
+      "formation": "",
+      "example": "春とはいえ、まだ寒い日が続いている。",
+      "exampleVi": "Dù nói là mùa xuân nhưng vẫn còn nhiều ngày lạnh.",
+      "frequency": 2
+    },
+    {
+      "id": "np_17",
+      "term": "ながらも",
+      "reading": "ながらも",
+      "meaning": "Mặc dù...nhưng",
+      "formation": "",
+      "example": "貧しいながらも幸せに暮らしている。",
+      "exampleVi": "Tuy nghèo nhưng vẫn sống hạnh phúc.",
+      "frequency": 2
+    },
+    {
+      "id": "np_18",
+      "term": "ざるを得ない",
+      "reading": "ざるを得ない",
+      "meaning": "Đành phải",
+      "formation": "",
+      "example": "台風で電車が止まったので、歩かざるを得なかった。",
+      "exampleVi": "Vì bão làm tàu dừng nên tôi đành phải đi bộ.",
+      "frequency": 2
+    },
+    {
+      "id": "np_19",
+      "term": "かのようだ",
+      "reading": "かのようだ",
+      "meaning": "Cứ như là...",
+      "formation": "",
+      "example": "このケーキは雪のように白い。",
+      "exampleVi": "Cái bánh này trắng như tuyết.",
+      "frequency": 2
+    },
+    {
+      "id": "np_20",
+      "term": "Ｖます次第",
+      "reading": "Ｖます次第",
+      "meaning": "Ngay sau khi...",
+      "formation": "",
+      "example": "会議が終わり次第、すぐに報告します。",
+      "exampleVi": "Ngay sau khi cuộc họp kết thúc, tôi sẽ báo cáo ngay.",
+      "frequency": 2
+    },
+    {
+      "id": "np_21",
+      "term": "ったきり",
+      "reading": "ったきり",
+      "meaning": "Suốt từ khi…",
+      "formation": "",
+      "example": "",
+      "exampleVi": "mà không thay đổi",
+      "frequency": 2
+    },
+    {
+      "id": "np_22",
+      "term": "ものなら",
+      "reading": "ものなら",
+      "meaning": "Nếu có thể...thì...",
+      "formation": "",
+      "example": "戻れるものなら、子どもの頃に戻りたい。",
+      "exampleVi": "Nếu có thể quay lại, tôi muốn trở về thời thơ ấu.",
+      "frequency": 2
+    },
+    {
+      "id": "np_23",
+      "term": "どころか",
+      "reading": "どころか",
+      "meaning": "Không phải A, mà hoá ra là B",
+      "formation": "",
+      "example": "彼は英語が話せるどころか、日本語もできない。",
+      "exampleVi": "Anh ta không những không nói được tiếng Anh, mà cả tiếng Nhật cũng không biết.",
+      "frequency": 2
+    },
+    {
+      "id": "np_24",
+      "term": "欠かせない",
+      "reading": "欠かせない",
+      "meaning": "Không thể thiếu...",
+      "formation": "",
+      "example": "水は人間の生活に欠かせないものだ。",
+      "exampleVi": "Nước là thứ không thể thiếu trong cuộc sống con người.",
+      "frequency": 2
+    },
+    {
+      "id": "np_25",
+      "term": "ものだ",
+      "reading": "ものだ",
+      "meaning": "Nên/Không",
+      "formation": "",
+      "example": "年を取ると、時間が早く感じるものだ。",
+      "exampleVi": "Khi có tuổi thì thường cảm thấy thời gian trôi nhanh.",
+      "frequency": 2
+    },
+    {
+      "id": "np_26",
+      "term": "ものの",
+      "reading": "ものの",
+      "meaning": "Tuy...nhưng...",
+      "formation": "",
+      "example": "勉強したものの、試験には合格できなかった。",
+      "exampleVi": "Tuy đã học rồi nhưng vẫn không đỗ kỳ thi.",
+      "frequency": 2
+    },
+    {
+      "id": "np_27",
+      "term": "といった",
+      "reading": "といった",
+      "meaning": "Ví dụ như, những thứ như",
+      "formation": "",
+      "example": "寿司や天ぷらといった日本料理が好きです。",
+      "exampleVi": "Tôi thích các món ăn Nhật như sushi hay tempura.",
+      "frequency": 2
+    },
+    {
+      "id": "np_28",
+      "term": "～きりだ",
+      "reading": "～きりだ",
+      "meaning": "Chỉ có... mà thôi”, “chỉ...",
+      "formation": "",
+      "example": "",
+      "exampleVi": "và không hơn nữa",
+      "frequency": 2
+    },
+    {
+      "id": "np_29",
+      "term": "ということだ",
+      "reading": "ということだ",
+      "meaning": "Nghe nói/Có ý nghĩa là",
+      "formation": "",
+      "example": "明日は雨が降るということだ。",
+      "exampleVi": "Nghe nói ngày mai sẽ mưa.",
+      "frequency": 2
+    },
+    {
+      "id": "np_30",
+      "term": "ことから",
+      "reading": "ことから",
+      "meaning": "Do",
+      "formation": "",
+      "example": "",
+      "exampleVi": "từ thực tế",
+      "frequency": 2
+    },
+    {
+      "id": "np_31",
+      "term": "に先立ち・に先立っ",
+      "reading": "に先立ち・に先立っ",
+      "meaning": "て Trước khi ~\" / \"Chuẩn bị cho ~",
+      "formation": "",
+      "example": "会議に先立って、資料を配布します。",
+      "exampleVi": "Trước khi cuộc họp bắt đầu, sẽ phát tài liệu.",
+      "frequency": 2
+    },
+    {
+      "id": "np_32",
+      "term": "よりほかない",
+      "reading": "よりほかない",
+      "meaning": "Chỉ còn cách ~ / Không còn lựa chọn nào khác ngoài ~",
+      "formation": "",
+      "example": "約束したから、行くよりほかない。",
+      "exampleVi": "Vì đã hứa rồi nên chỉ còn cách đi thôi.",
+      "frequency": 2
+    },
+    {
+      "id": "np_33",
+      "term": "にしたって",
+      "reading": "にしたって",
+      "meaning": "Ngay cả khi / Dù cho / Cho dù là... thì cũng...",
+      "formation": "",
+      "example": "子どもにしたって、分かるはずだ。",
+      "exampleVi": "Ngay cả trẻ con cũng hiểu mà.",
+      "frequency": 2
+    },
+    {
+      "id": "np_34",
+      "term": "を巡り・を巡って",
+      "reading": "を巡り・を巡って",
+      "meaning": "Xoay quanh / Liên quan đến / Xung quanh vấn đề ~",
+      "formation": "",
+      "example": "環境問題を巡って、多くの意見が出された。",
+      "exampleVi": "Nhiều ý kiến đã được đưa ra xoay quanh vấn đề môi trường.",
+      "frequency": 2
+    },
+    {
+      "id": "np_35",
+      "term": "ずにはいられない",
+      "reading": "ずにはいられない",
+      "meaning": "Khôngthể không",
+      "formation": "",
+      "example": "彼の話を聞いて、笑わずにはいられなかった。",
+      "exampleVi": "Nghe chuyện của anh ấy tôi không thể nhịn cười được.",
+      "frequency": 2
+    },
+    {
+      "id": "np_36",
+      "term": "を基にして",
+      "reading": "を基にして",
+      "meaning": "Dựa trên… / Lấy … làm cơ sở / Căn cứ vào…",
+      "formation": "",
+      "example": "この映画は実際の事件を基にして作られた。",
+      "exampleVi": "Bộ phim này được làm dựa trên một vụ án có thật.",
+      "frequency": 2
+    },
+    {
+      "id": "np_37",
+      "term": "てはじめて",
+      "reading": "てはじめて",
+      "meaning": "Sau khi… thì mới… / Chỉ sau khi… mới nhận ra / mới bắt đầu…",
+      "formation": "",
+      "example": "日本に来てはじめて、納豆を食べた。",
+      "exampleVi": "Chỉ sau khi đến Nhật tôi mới ăn natto lần đầu.",
+      "frequency": 2
+    },
+    {
+      "id": "np_38",
+      "term": "かというと",
+      "reading": "かというと",
+      "meaning": "Nếu nói là...",
+      "formation": "",
+      "example": "日本人だからといって、みんな寿司が好きかというと、そうでもない。",
+      "exampleVi": "Không phải cứ là người Nhật thì ai cũng thích sushi.",
+      "frequency": 2
+    },
+    {
+      "id": "np_39",
+      "term": "にあたって",
+      "reading": "にあたって",
+      "meaning": "Nhân dịp… / Khi… / Vào lúc",
+      "formation": "",
+      "example": "",
+      "exampleVi": "quan trọng, đặc biệt",
+      "frequency": 2
+    },
+    {
+      "id": "np_40",
+      "term": "からといって",
+      "reading": "からといって",
+      "meaning": "Cho dù...thì cũng không hẳn",
+      "formation": "",
+      "example": "安いからといって、たくさん買うのはよくない。",
+      "exampleVi": "Dù rẻ cũng không nên mua quá nhiều.",
+      "frequency": 2
+    },
+    {
+      "id": "np_41",
+      "term": "あげく",
+      "reading": "あげく",
+      "meaning": "Cuối cùng thì…",
+      "formation": "",
+      "example": "彼は悩んだあげく、会社を辞めた。",
+      "exampleVi": "Sau khi trăn trở, cuối cùng anh ta đã nghỉ việc.",
+      "frequency": 1
+    },
+    {
+      "id": "np_42",
+      "term": "~まい",
+      "reading": "~まい",
+      "meaning": "Nhất quyết không/Chắc là không",
+      "formation": "",
+      "example": "こんな失敗は二度とするまい。",
+      "exampleVi": "Tôi nhất quyết sẽ không mắc lỗi như vậy lần nữa.",
+      "frequency": 1
+    },
+    {
+      "id": "np_43",
+      "term": "VてもVても",
+      "reading": "VてもVても",
+      "meaning": "Làm mãi mà vẫn… Dù có làm bao nhiêu lần cũng…",
+      "formation": "",
+      "example": "何度読んでもこの文が理解できない。",
+      "exampleVi": "Dù đọc bao nhiêu lần cũng không hiểu câu này.",
+      "frequency": 1
+    },
+    {
+      "id": "np_44",
+      "term": "かと思うと",
+      "reading": "かと思うと",
+      "meaning": "Vừa mới … thì … Ngay sau khi … thì …",
+      "formation": "",
+      "example": "雨が降ったかと思うと、すぐにやんだ。",
+      "exampleVi": "Mưa vừa rơi thì lập tức tạnh ngay.",
+      "frequency": 1
+    },
+    {
+      "id": "np_45",
+      "term": "さえ〜ば",
+      "reading": "さえ〜ば",
+      "meaning": "Đến cả, thậm chí, ngay cả",
+      "formation": "",
+      "example": "お金さえあれば、幸せになれると思う。",
+      "exampleVi": "Chỉ cần có tiền là có thể hạnh phúc.",
+      "frequency": 1
+    },
+    {
+      "id": "np_46",
+      "term": "にこたえて",
+      "reading": "にこたえて",
+      "meaning": "Đáp lại, Ứng với, Theo, Đáp ứng",
+      "formation": "",
+      "example": "応援してくれる人の気持ちにこたえて頑張る。",
+      "exampleVi": "Tôi cố gắng để đáp lại tấm lòng của những người ủng hộ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_47",
+      "term": "によらず",
+      "reading": "によらず",
+      "meaning": "1/ Vì...nên...",
+      "formation": "",
+      "example": "",
+      "exampleVi": "kết quả xấu",
+      "frequency": 1
+    },
+    {
+      "id": "np_48",
+      "term": "ないでもない",
+      "reading": "ないでもない",
+      "meaning": "Không phải là không",
+      "formation": "",
+      "example": "この計画には賛成しないでもない。",
+      "exampleVi": "Không phải là tôi hoàn toàn phản đối kế hoạch này.",
+      "frequency": 1
+    },
+    {
+      "id": "np_49",
+      "term": "にもかかわらず",
+      "reading": "にもかかわらず",
+      "meaning": "Cảm thấy",
+      "formation": "",
+      "example": "雨が降っているにもかかわらず、彼はジョギングを続けている。",
+      "exampleVi": "Mặc dù trời đang mưa, anh ấy vẫn tiếp tục chạy bộ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_50",
+      "term": "ようならば",
+      "reading": "ようならば",
+      "meaning": "Nếu có vẻ như… / Nếu dường như…",
+      "formation": "",
+      "example": "天気が悪いようならば、ピクニックは中止します。",
+      "exampleVi": "Nếu thời tiết có vẻ xấu thì buổi picnic sẽ bị hủy.",
+      "frequency": 1
+    },
+    {
+      "id": "np_51",
+      "term": "いずれにしても",
+      "reading": "いずれにしても",
+      "meaning": "Dù thế nào đi nữa / Dù trong trường hợp nào / Dù sao thì cũng…",
+      "formation": "",
+      "example": "いずれにしても、この計画は成功しなければならない。",
+      "exampleVi": "Dù thế nào đi nữa, kế hoạch này cũng phải thành công.",
+      "frequency": 1
+    },
+    {
+      "id": "np_52",
+      "term": "に次いで",
+      "reading": "に次いで",
+      "meaning": "Đứng sau… / Chỉ sau… / Tiếp theo sau…",
+      "formation": "",
+      "example": "日本はアメリカに次いで、IT産業が発展している。",
+      "exampleVi": "Nhật Bản là nước phát triển ngành IT đứng sau Mỹ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_53",
+      "term": "ならともなく",
+      "reading": "ならともなく",
+      "meaning": "Khoan bàn đến",
+      "formation": "",
+      "example": "旅行ならともかく、仕事で行くのはいやだ。",
+      "exampleVi": "Nếu là đi du lịch thì còn được, chứ đi công tác thì tôi không thích.",
+      "frequency": 1
+    },
+    {
+      "id": "np_54",
+      "term": "に限る",
+      "reading": "に限る",
+      "meaning": "Là tốt nhất..., Chỉ/Chỉ riêng...., Chỉ đúng vào/Chỉ riêng",
+      "formation": "",
+      "example": "",
+      "exampleVi": "ai đó",
+      "frequency": 1
+    },
+    {
+      "id": "np_55",
+      "term": "だけに",
+      "reading": "だけに",
+      "meaning": "Quả đúng là",
+      "formation": "",
+      "example": "努力しただけに、合格したときはうれしかった。",
+      "exampleVi": "Chính vì đã cố gắng nên khi đỗ tôi rất vui.",
+      "frequency": 1
+    },
+    {
+      "id": "np_56",
+      "term": "つつある",
+      "reading": "つつある",
+      "meaning": "Dần dần",
+      "formation": "",
+      "example": "地球の温度は上がりつつある。",
+      "exampleVi": "Nhiệt độ Trái Đất đang dần tăng lên.",
+      "frequency": 1
+    },
+    {
+      "id": "np_57",
+      "term": "Ｖないことには～な",
+      "reading": "Ｖないことには～な",
+      "meaning": "い Nếu không có...thì...",
+      "formation": "",
+      "example": "実際に見てみないことには、信じられない。",
+      "exampleVi": "Nếu không tận mắt thấy thì tôi không thể tin được.",
+      "frequency": 1
+    },
+    {
+      "id": "np_58",
+      "term": "にかけては",
+      "reading": "にかけては",
+      "meaning": "Về mặt thì/Trong lĩnh vực...thì...",
+      "formation": "",
+      "example": "料理にかけては、彼女は誰にも負けない。",
+      "exampleVi": "Về khoản nấu ăn thì cô ấy không thua ai cả.",
+      "frequency": 1
+    },
+    {
+      "id": "np_59",
+      "term": "Ｖますきれる・きれな",
+      "reading": "Ｖますきれる・きれな",
+      "meaning": "い Làm xong, hoàn thành... Không thể làm xong...",
+      "formation": "",
+      "example": "こんなにたくさんの宿題は、一晩ではやりきれない。",
+      "exampleVi": "Bài tập nhiều như thế này thì không thể làm xong trong một đêm.",
+      "frequency": 1
+    },
+    {
+      "id": "np_60",
+      "term": "Ｖるほかない",
+      "reading": "Ｖるほかない",
+      "meaning": "Không còn cách nào khác ngoài việc…",
+      "formation": "",
+      "example": "電車が止まっているから、歩いて行くほかない。",
+      "exampleVi": "Vì tàu điện dừng nên không còn cách nào khác ngoài đi bộ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_61",
+      "term": "Ｖる・Ｖないこと",
+      "reading": "Ｖる・Ｖないこと",
+      "meaning": "Phải, không được.../ nên...",
+      "formation": "",
+      "example": "約束は守ること。",
+      "exampleVi": "Phải giữ lời hứa.",
+      "frequency": 1
+    },
+    {
+      "id": "np_62",
+      "term": "ぐらいなら",
+      "reading": "ぐらいなら",
+      "meaning": "Nếu mà phải … thì thà … còn hơn",
+      "formation": "",
+      "example": "そんな仕事をするぐらいなら、辞めたほうがいい。",
+      "exampleVi": "Nếu phải làm công việc như thế thì thà nghỉ còn hơn.",
+      "frequency": 1
+    },
+    {
+      "id": "np_63",
+      "term": "っこない",
+      "reading": "っこない",
+      "meaning": "Tuyệt đối không",
+      "formation": "",
+      "example": "あの人がそんなことをするっこない。",
+      "exampleVi": "Không đời nào người đó làm chuyện như vậy.",
+      "frequency": 1
+    },
+    {
+      "id": "np_64",
+      "term": "ないで済む",
+      "reading": "ないで済む",
+      "meaning": "Khỏi phải làm V",
+      "formation": "",
+      "example": "早く出発したので、遅れないで済んだ。",
+      "exampleVi": "Vì khởi hành sớm nên đã không bị trễ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_65",
+      "term": "Ｖますかける",
+      "reading": "Ｖますかける",
+      "meaning": "Đang làm dở…”, “mới bắt đầu…”, “suýt nữa thì…",
+      "formation": "",
+      "example": "読みかけた本をそのままにしている。",
+      "exampleVi": "Tôi để nguyên cuốn sách đang đọc dở.",
+      "frequency": 1
+    },
+    {
+      "id": "np_66",
+      "term": "以上",
+      "reading": "以上",
+      "meaning": "Một khi đã",
+      "formation": "",
+      "example": "",
+      "exampleVi": "thì",
+      "frequency": 1
+    },
+    {
+      "id": "np_67",
+      "term": "おきに",
+      "reading": "おきに",
+      "meaning": "Cứ cách...",
+      "formation": "",
+      "example": "このバスは30分おきに出ています。",
+      "exampleVi": "Xe buýt này cứ 30 phút lại có một chuyến.",
+      "frequency": 1
+    },
+    {
+      "id": "np_68",
+      "term": "というように",
+      "reading": "というように",
+      "meaning": "Như là…”, “Giống như…”, “Theo như…",
+      "formation": "",
+      "example": "先生が言ったというように、毎日練習することが大切だ。",
+      "exampleVi": "Giống như thầy đã nói, việc luyện tập mỗi ngày là quan trọng.",
+      "frequency": 1
+    },
+    {
+      "id": "np_69",
+      "term": "にしては",
+      "reading": "にしては",
+      "meaning": "So với/ mặc dù....thì khá là",
+      "formation": "",
+      "example": "彼は初心者にしては上手だ。",
+      "exampleVi": "So với người mới bắt đầu thì anh ấy khá giỏi.",
+      "frequency": 1
+    },
+    {
+      "id": "np_70",
+      "term": "というだけで",
+      "reading": "というだけで",
+      "meaning": "“Chỉ cần nghe / biết / nói là... thì đã...",
+      "formation": "",
+      "example": "名前というだけで、みんなが知っている。",
+      "exampleVi": "Chỉ cần nghe đến tên thôi là ai cũng biết.",
+      "frequency": 1
+    },
+    {
+      "id": "np_71",
+      "term": "にわたって",
+      "reading": "にわたって",
+      "meaning": "Suốt",
+      "formation": "",
+      "example": "",
+      "exampleVi": "thời gian",
+      "frequency": 1
+    },
+    {
+      "id": "np_72",
+      "term": "~るばかりだ",
+      "reading": "~るばかりだ",
+      "meaning": "Chỉ còn…”, “Càng ngày càng…",
+      "formation": "",
+      "example": "物価は上がるばかりだ。",
+      "exampleVi": "Giá cả ngày càng tăng.",
+      "frequency": 1
+    },
+    {
+      "id": "np_73",
+      "term": "というものだ",
+      "reading": "というものだ",
+      "meaning": "Giải thích, định nghĩa về 1 thứ tất yếu",
+      "formation": "",
+      "example": "人をだますなんて、ひどいというものだ。",
+      "exampleVi": "Lừa người khác thì thật là tồi tệ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_74",
+      "term": "ようがない",
+      "reading": "ようがない",
+      "meaning": "Không thể… / Không còn cách nào để…",
+      "formation": "",
+      "example": "手紙に住所が書いてないので、返事の出しようがない。",
+      "exampleVi": "Vì trong thư không ghi địa chỉ nên không có cách nào trả lời được.",
+      "frequency": 1
+    },
+    {
+      "id": "np_75",
+      "term": "ぶりに",
+      "reading": "ぶりに",
+      "meaning": "Sau …",
+      "formation": "",
+      "example": "",
+      "exampleVi": "một khoảng thời gian",
+      "frequency": 1
+    },
+    {
+      "id": "np_76",
+      "term": "ところから",
+      "reading": "ところから",
+      "meaning": "Vì… nên / Do… nên",
+      "formation": "",
+      "example": "見たところから、彼は日本人のようだ。",
+      "exampleVi": "Nhìn vẻ ngoài thì có vẻ anh ấy là người Nhật.",
+      "frequency": 1
+    },
+    {
+      "id": "np_77",
+      "term": "Nを抜きにして",
+      "reading": "Nを抜きにして",
+      "meaning": "Hãy bỏ N ra, hãy thôi N đi",
+      "formation": "",
+      "example": "冗談を抜きにして、本当の話をしよう。",
+      "exampleVi": "Thôi đừng đùa nữa, nói chuyện thật đi.",
+      "frequency": 1
+    },
+    {
+      "id": "np_78",
+      "term": "にほかならない",
+      "reading": "にほかならない",
+      "meaning": "Chính là, không gì khác là",
+      "formation": "",
+      "example": "努力の結果にほかならない。",
+      "exampleVi": "Đó chính là kết quả của sự nỗ lực.",
+      "frequency": 1
+    },
+    {
+      "id": "np_79",
+      "term": "にかかわらず",
+      "reading": "にかかわらず",
+      "meaning": "Bất kể, không quan trọng",
+      "formation": "",
+      "example": "年齢にかかわらず、誰でも参加できます。",
+      "exampleVi": "Bất kể tuổi tác, ai cũng có thể tham gia.",
+      "frequency": 1
+    },
+    {
+      "id": "np_80",
+      "term": "をのぞき",
+      "reading": "をのぞき",
+      "meaning": "Ngoại trừ ~ / Trừ ~ ra",
+      "formation": "",
+      "example": "日曜日を除いて、毎日働いています。",
+      "exampleVi": "Ngoại trừ chủ nhật ra, tôi làm việc mỗi ngày.",
+      "frequency": 1
+    },
+    {
+      "id": "np_81",
+      "term": "を含めず",
+      "reading": "を含めず",
+      "meaning": "Không bao gồm ~ / Ngoại trừ ~",
+      "formation": "",
+      "example": "交通費を含めずに計算してください。",
+      "exampleVi": "Hãy tính mà không bao gồm tiền đi lại.",
+      "frequency": 1
+    },
+    {
+      "id": "np_82",
+      "term": "にしても",
+      "reading": "にしても",
+      "meaning": "Dù là ~ / Ngay cả khi ~ thì vẫn...",
+      "formation": "",
+      "example": "行かないにしても、連絡ぐらいしてください。",
+      "exampleVi": "Dù không đi thì cũng nên báo một tiếng chứ.",
+      "frequency": 1
+    },
+    {
+      "id": "np_83",
+      "term": "もとで",
+      "reading": "もとで",
+      "meaning": "Dưới sự… / Nhờ vào… / Trong điều kiện…",
+      "formation": "",
+      "example": "先生の指導のもとで研究を進めた。",
+      "exampleVi": "Tôi đã tiến hành nghiên cứu dưới sự hướng dẫn của thầ",
+      "frequency": 1
+    },
+    {
+      "id": "np_84",
+      "term": "わけではない",
+      "reading": "わけではない",
+      "meaning": "Không hẳn là",
+      "formation": "",
+      "example": "高い料理が全部おいしいわけではない。",
+      "exampleVi": "Không hẳn là món ăn đắt tiền thì đều ngon.",
+      "frequency": 1
+    },
+    {
+      "id": "np_85",
+      "term": "ないことには",
+      "reading": "ないことには",
+      "meaning": "Nếu không...thì không",
+      "formation": "",
+      "example": "実際に使ってみないことには、よさが分からない。",
+      "exampleVi": "Nếu không thử dùng thật thì sẽ không biết được sự tốt của nó.",
+      "frequency": 1
+    },
+    {
+      "id": "np_86",
+      "term": "ないこともない",
+      "reading": "ないこともない",
+      "meaning": "Không phải là không… / Cũng có thể… / Không hẳn là không…",
+      "formation": "",
+      "example": "行けないこともないけど、少し忙しいです。",
+      "exampleVi": "Không phải là tôi không thể đi, chỉ là hơi bận thôi.",
+      "frequency": 1
+    },
+    {
+      "id": "np_87",
+      "term": "に従って",
+      "reading": "に従って",
+      "meaning": "Càng... càng... / Theo... / Cùng với...",
+      "formation": "",
+      "example": "経験を積むに従って、自信がついてきた。",
+      "exampleVi": "Cùng với việc tích lũy kinh nghiệm, tôi đã dần tự tin hơn.",
+      "frequency": 1
+    },
+    {
+      "id": "np_88",
+      "term": "くせに",
+      "reading": "くせに",
+      "meaning": "Mặc dù… nhưng…” / “Thế mà…",
+      "formation": "",
+      "example": "知っているくせに、教えてくれない。",
+      "exampleVi": "Dù biết mà lại không chịu nói cho tôi.",
+      "frequency": 1
+    },
+    {
+      "id": "np_89",
+      "term": "をもとにして",
+      "reading": "をもとにして",
+      "meaning": "Mặc dù… nhưng lại…” / “Dù… mà lại…",
+      "formation": "",
+      "example": "実話をもとにして書かれた小説。",
+      "exampleVi": "Tiểu thuyết được viết dựa trên câu chuyện có thật.",
+      "frequency": 1
+    },
+    {
+      "id": "np_90",
+      "term": "ぐらいだ",
+      "reading": "ぐらいだ",
+      "meaning": "Đến mức… / Cỡ như… / Tới độ mà…",
+      "formation": "",
+      "example": "死ぬくらい疲れた。",
+      "exampleVi": "Mệt đến mức muốn chết luôn.",
+      "frequency": 1
+    },
+    {
+      "id": "np_91",
+      "term": "～ばよかった",
+      "reading": "～ばよかった",
+      "meaning": "Giá mà… / Phải chi… / Lẽ ra nên…",
+      "formation": "",
+      "example": "もっと早く寝ればよかった。",
+      "exampleVi": "Giá mà tôi đi ngủ sớm hơn.",
+      "frequency": 1
+    },
+    {
+      "id": "np_92",
+      "term": "に反して",
+      "reading": "に反して",
+      "meaning": "Trái với… / Ngược lại với…",
+      "formation": "",
+      "example": "期待に反して、試験の結果は悪かった。",
+      "exampleVi": "Trái với mong đợi, kết quả thi lại tệ.",
+      "frequency": 1
+    }
+  ]
+}
