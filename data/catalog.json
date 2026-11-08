@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T21:30:00+07:00",
+  "updatedAt": "2026-11-08T15:00:00+07:00",
   "exams": [
     {
       "id": "N3-TO-K01",
@@ -207,6 +207,39 @@
       "questionCount": 30,
       "file": "exams/N2/on-n2-300-de-10-271-300.json",
       "addedAt": "2026-07-30T22:37:35+07:00"
+    },
+    {
+      "id": "de-thi-jlpt-n2202407-phan-tu-vungngu-phap",
+      "code": "N2-JLPT-202407-VG",
+      "title": "Đề thi JLPT N2 202407 · Từ vựng & Ngữ pháp",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "vocabulary_grammar",
+      "questionCount": 51,
+      "file": "exams/N2/de-thi-jlpt-n2202407-phan-tu-vungngu-phap.json",
+      "addedAt": "2026-11-08T15:00:00+07:00"
+    },
+    {
+      "id": "de-thi-jlpt-n2202407-phan-doc-hieu",
+      "code": "N2-JLPT-202407-RD",
+      "title": "Đề thi JLPT N2 202407 · Đọc hiểu",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "reading",
+      "questionCount": 20,
+      "file": "exams/N2/de-thi-jlpt-n2202407-phan-doc-hieu.json",
+      "addedAt": "2026-11-08T15:00:00+07:00"
+    },
+    {
+      "id": "de-thi-jlpt-n2202407-phan-nghe-hieu",
+      "code": "N2-JLPT-202407-LS",
+      "title": "Đề thi JLPT N2 202407 · Nghe hiểu",
+      "track": "n2_main",
+      "level": "N2",
+      "topic": "listening",
+      "questionCount": 30,
+      "file": "exams/N2/de-thi-jlpt-n2202407-phan-nghe-hieu.json",
+      "addedAt": "2026-11-08T15:00:00+07:00"
     },
     {
       "id": "de-thi-jlpt-n2202512-phan-tu-vungngu-phap",

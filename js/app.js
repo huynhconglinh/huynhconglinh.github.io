@@ -1145,11 +1145,24 @@
     const listening = isListeningQuestion(q);
 
     let passageHtml = "";
-    if (q.context) {
+    if (q.context || q.image || q.images) {
+      let imageHtml = "";
+      const imgs = Array.isArray(q.images) ? q.images : (q.image ? [q.image] : []);
+      if (imgs.length > 0) {
+        imageHtml = imgs
+          .map(
+            (img) =>
+              `<div class="passage-image-wrap" style="text-align:center;margin:12px 0;"><img class="passage-image" src="data/${escapeHtml(
+                img
+              )}" alt="Minh họa bài đọc" style="max-width:100%;border-radius:8px;border:1px solid var(--line,#e2e8f0);box-shadow:0 1px 3px rgba(0,0,0,0.08);" /></div>`
+          )
+          .join("");
+      }
       passageHtml = `
         <div class="passage">
           <div class="passage-label">Ngữ cảnh</div>
-          ${formatPassage(q.context)}
+          ${imageHtml}
+          ${q.context ? formatPassage(q.context) : ""}
         </div>`;
     }
 

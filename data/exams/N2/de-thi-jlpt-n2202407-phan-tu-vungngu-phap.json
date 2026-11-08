@@ -1,0 +1,673 @@
+{
+  "id": "de-thi-jlpt-n2202407-phan-tu-vungngu-phap",
+  "code": "N2-JLPT-202407-VG",
+  "title": "Đề thi JLPT N2 202407 · Từ vựng & Ngữ pháp",
+  "level": "N2",
+  "track": "n2_main",
+  "topic": "vocabulary_grammar",
+  "questions": [
+    {
+      "question_id": 1,
+      "context": "問題1：＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "状況を <u>詳細</u> に書いてください。",
+      "options": [
+        "そうざい",
+        "そうさい",
+        "しょうざい",
+        "しょうさい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · しょうさい\n\n【Dịch câu hỏi】\n状況を詳細に書いてください。\nXin hãy viết chi tiết tình hình.\n\n【Phân tích】\n• 詳細 (TƯỜNG TẾ - chi tiết). 詳 đọc là しょう, 細 đọc là さい.\n• Cả 2 chữ đều KHÔNG có biến âm đục (bẫy: そうざい, そうさい, しょうざい)."
+    },
+    {
+      "question_id": 2,
+      "context": "問題1：＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "<u>分析</u> には少し時間がかかります。",
+      "options": [
+        "ぶんせき",
+        "ぶんかい",
+        "ぶんせつ",
+        "ぶんかつ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · ぶんせき\n\n【Dịch câu hỏi】\n分析には少し時間がかかります。\nViệc phân tích sẽ mất một chút thời gian.\n\n【Phân tích】\n• 分析 (PHÂN TÍCH). 分 đọc ぶん, 析 đọc せき.\n• Phân biệt: ぶんかい = 分解 (tháo rời), ぶんせつ = 文節 (cụm câu), ぶんかつ = 分割 (chia nhỏ)."
+    },
+    {
+      "question_id": 3,
+      "context": "問題1：＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "髪の毛がに <u>絡まって</u> しまった。",
+      "options": [
+        "はさまって",
+        "からまって",
+        "つまって",
+        "たまって"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · からまって\n\n【Dịch câu hỏi】\n髪の毛が絡まってしまった。\nTóc bị rối / vướng vào nhau mất rồi.\n\n【Phân tích】\n• 絡まる (からまる - LẠC: mắc, vướng vào, cuộn lại). Thể て: 絡まって.\n• Bẫy: はさまる (挟まる - kẹp ở giữa), つまる (詰まる - tắc nghẽn), たまる (溜まる - ứ đọng)."
+    },
+    {
+      "question_id": 4,
+      "context": "問題1：＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "ここでは <u>農薬</u> をまったく使わずに野菜を栽培している。",
+      "options": [
+        "のんやく",
+        "のうやく",
+        "のうらく",
+        "のんらく"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · のうやく\n\n【Dịch câu hỏi】\nここでは農薬をまったく使わずに野菜を栽培している。\nỞ đây người ta trồng rau mà hoàn toàn không dùng thuốc trừ sâu.\n\n【Phân tích】\n• 農薬 (NÔNG DƯỢC - thuốc bảo vệ thực vật). 農 đọc âm dài のう, 薬 đọc やく (のうやく).\n• Bẫy: のんやく, のうらく, のんらく."
+    },
+    {
+      "question_id": 5,
+      "context": "問題1：＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "とても <u>鮮やか</u> だったことを覚えています。",
+      "options": [
+        "おだやか",
+        "さわやか",
+        "あざやか",
+        "なごやか"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · あざやか\n\n【Dịch câu hỏi】\nとても鮮やかだったことを覚えています。\nTôi vẫn nhớ rằng lúc đó màu sắc rất rực rỡ / rõ nét.\n\n【Phân tích】\n• 鮮やか (あざやか - TIÊN: rực rỡ, tươi tắn, sống động).\n• Bẫy: おだやか (穏やか - yên bình), さわやか (爽やか - sảng khoái), なごやか (和やか - hòa nhã)."
+    },
+    {
+      "question_id": 6,
+      "context": "問題2：＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "この会社を <u>しぼう</u> した理由を教えてください。",
+      "options": [
+        "希望",
+        "志望",
+        "指望",
+        "貴望"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 志望\n\n【Dịch câu hỏi】\nこの会社をしぼうした理由を教えてください。\nXin hãy cho biết lý do bạn chọn/nguyện vọng vào công ty này.\n\n【Phân tích】\n• 志望 (CHÍ VỌNG - nguyện vọng vào công ty/trường học). 志 trong ý chí, 望 trong nguyện vọng.\n• 希望 (kibou - hy vọng chung), các từ 指望, 貴望 là chữ sai."
+    },
+    {
+      "question_id": 7,
+      "context": "問題2：＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "あの作家の <u>たんぺん</u> 小説は、とても面白い。",
+      "options": [
+        "短編",
+        "単編",
+        "短遍",
+        "単遍"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 短編\n\n【Dịch câu hỏi】\nあの作家のたんぺん小説は、とても面白い。\nTiểu thuyết ngắn của nhà văn đó rất thú vị.\n\n【Phân tích】\n• 短編 (ĐOẢN BIÊN - truyện ngắn / tác phẩm ngắn).\n• Bẫy chữ: 単 (đơn), 遍 (lần/lượt - 単遍, 短遍)."
+    },
+    {
+      "question_id": 8,
+      "context": "問題2：＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "桜の花が <u>ちって</u> いくのを眺める。",
+      "options": [
+        "消って",
+        "去って",
+        "散って",
+        "失って"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 散って\n\n【Dịch câu hỏi】\n桜の花がちっていくのを眺める。\nNgắm nhìn những cánh hoa anh đào đang rơi rụng.\n\n【Phân tích】\n• 散る (TẢN/TÁN - hoa rơi, rụng, phân tán). Thể て: 散って.\n• 消って (không có), 去って (satte - rời đi), 失って (ushinatte - đánh mất)."
+    },
+    {
+      "question_id": 9,
+      "context": "問題2：＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "このセーターにはとても <u>やわらかい</u> 毛糸が使われている。",
+      "options": [
+        "伸らかい",
+        "軽らかい",
+        "暖らかい",
+        "柔らかい"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 柔らかい\n\n【Dịch câu hỏi】\nこのセーターにはとてもやわらかい毛糸が使われている。\nChiếc áo len này sử dụng loại len rất mềm.\n\n【Phân tích】\n• 柔らかい (NHU - mềm mại, uốn cong được, dùng cho len vải, cơ thể, chất mềm).\n• Bẫy chữ ghép sai: 伸らかい, 軽らかい, 暖らかい."
+    },
+    {
+      "question_id": 10,
+      "context": "問題2：＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "最近あまり体調がよくないのは、 <u>ひろう</u> のせいだろう。",
+      "options": [
+        "疲労",
+        "病労",
+        "疲老",
+        "病老"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 疲労\n\n【Dịch câu hỏi】\n最近あまり体調がよくないのは、ひろうのせいだろう。\nDạo này sức khỏe không tốt có lẽ là do mệt mỏi / lao lực.\n\n【Phân tích】\n• 疲労 (BÌ LAO - mệt mỏi, kiệt sức). 疲 (mệt), 労 (lao động).\n• Bẫy chữ: 病労, 疲老, 病老."
+    },
+    {
+      "question_id": 11,
+      "context": "問題3：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "しょうゆの ( ) 原料は大豆です。",
+      "options": [
+        "主",
+        "要",
+        "正",
+        "本"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 主\n\n【Dịch câu hỏi】\nしょうゆの ( 主 ) 原料は大豆です。\nNguyên liệu chính của nước tương là đậu nành.\n\n【Phân tích】\n• Tiền tố: 主～ (chính, chủ yếu): 主原料 (しゅげんりょう - nguyên liệu chính).\n• Không dùng 要原料, 正原料, 本原料."
+    },
+    {
+      "question_id": 12,
+      "context": "問題3：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "子どもたちの読書 ( ) が進んでいるらしい。",
+      "options": [
+        "抜け",
+        "逃げ",
+        "別れ",
+        "離れ"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 離れ\n\n【Dịch câu hỏi】\n子どもたちの読書 ( 離れ ) が進んでいるらしい。\nCó vẻ như tình trạng xa rời việc đọc sách ở trẻ em đang ngày càng gia tăng.\n\n【Phân tích】\n• Hậu tố: ～離れ (ばなれ - xa lánh, rời xa một xu hướng/thói quen).\n• Các từ điển hình N2: 読書離れ, 活字離れ, 車離れ, テレビ離れ."
+    },
+    {
+      "question_id": 13,
+      "context": "問題3：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "営の方針については、社長が決定 ( ) を持っている。",
+      "options": [
+        "任",
+        "手",
+        "権",
+        "裁"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 権\n\n【Dịch câu hỏi】\n経営の方針については、社長が決定 ( 権 ) を持っている。\nVề phương châm kinh doanh, giám đốc là người nắm quyền quyết định.\n\n【Phân tích】\n• Hậu tố: ～権 (けん - quyền hạn): 決定権 (けっていけん - quyền quyết định)."
+    },
+    {
+      "question_id": 14,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "両親はおいしい料理で客を ( ) のが好きだ。",
+      "options": [
+        "もてなす",
+        "おだてる",
+        "許す",
+        "救う"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · もてなす\n\n【Dịch câu hỏi】\n両親はおいしい料理で客を ( もてなす ) のが好きだ。\nBố mẹ tôi thích chiêu đãi / tiếp đón khách bằng những món ăn ngon.\n\n【Phân tích】\n• もてなす (持て成す): tiếp đãi, thết đãi khách chu đáo.\n• Phân biệt: おだてる (nịnh nọt/tâng bốc), 許す (tha thứ), 救う (cứu giúp)."
+    },
+    {
+      "question_id": 15,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "その駅は各駅停車の電車は止まりますが、急行電車は ( ) 。",
+      "options": [
+        "温厚",
+        "直進",
+        "通過",
+        "横断"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 通過\n\n【Dịch câu hỏi】\nその駅は各駅停車の電車は止まりますが、急行電車は ( 通過 ) 。\nGa đó thì tàu thường dừng lại, nhưng tàu tốc hành thì chạy qua luôn (không dừng).\n\n【Phân tích】\n• 通過する (つうかする): chạy qua ga không đỗ.\n• 温厚 (ôn hòa hiền hậu), 直進 (đi thẳng), 横断 (băng qua đường)."
+    },
+    {
+      "question_id": 16,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "見た人の記憶に残るような ( ) のあるボスターにしたい。",
+      "options": [
+        "インパクト",
+        "プレッシャー",
+        "チャージ",
+        "ショック"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · インパクト\n\n【Dịch câu hỏi】\n見た人の記憶に残るような ( インパクト ) のあるポスターにしたい。\nTôi muốn làm một tấm áp phích có sức ấn tượng mạnh để đọng lại trong ký ức người xem.\n\n【Phân tích】\n• Cụm cố định: インパクトがある (impact - có sức tác động/ấn tượng mạnh).\n• プレッシャー (áp lực), チャージ (nạp tiền/pin), ショック (cú sốc)."
+    },
+    {
+      "question_id": 17,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "地元の選手がオリンピックでメダルを獲得したことがテレビで ( ) された。",
+      "options": [
+        "通信",
+        "普及",
+        "伝言",
+        "報道"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 報道\n\n【Dịch câu hỏi】\n地元の選手がオリンピックでメダルを獲得したことがテレビで ( 報道 ) された。\nViệc VĐV địa phương giành huy chương Olympic đã được đưa tin trên tivi.\n\n【Phân tích】\n• 報道される (ほうどうされる): được truyền thông/truyền hình đưa tin thời sự.\n• 通信 (viễn thông), 普及 (phổ cập), 伝言 (lời nhắn miệng)."
+    },
+    {
+      "question_id": 18,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "台風で電車が運休になり、通勤や通学で利用する人に ( ) 影響を与えた。",
+      "options": [
+        "大まかな",
+        "偉大な",
+        "大げさな",
+        "多大な"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 多大な\n\n【Dịch câu hỏi】\n台風で電車が運休になり、通勤や通学で利用する人に ( 多大な ) 影響を与えた。\nBão khiến tàu điện ngừng chạy, đã gây ra ảnh hưởng to lớn cho người đi học và đi làm.\n\n【Phân tích】\n• Cụm cố định N2: 多大な影響を与える (gây ảnh hưởng cực kỳ to lớn/sâu sắc).\n• 大まかな (đại khái), 偉大な (vĩ đại), 大げさな (khoa trương, làm quá)."
+    },
+    {
+      "question_id": 19,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "西川さんは転校してきたばかりだが、友達もできて、もうすっかりクラスに ( ) ている。",
+      "options": [
+        "当てはまって",
+        "溶け込んで",
+        "結びついて",
+        "触れ合って"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 溶け込んで\n\n【Dịch câu hỏi】\n西川さんは転校してきたばかりだが、友達もできて、もうすっかりクラスに ( 溶け込んで ) いる。\nBạn Nishikawa vừa chuyển trường tới, nhưng đã có bạn bè và hòa nhập hoàn toàn vào lớp rồi.\n\n【Phân tích】\n• 溶け込む (とけこむ): hòa nhập, tan vào (hòa mình vào môi trường/tập thể mới).\n• 当てはまる (áp dụng phù hợp), 結びつく (gắn liền), 触れ合う (tiếp xúc)."
+    },
+    {
+      "question_id": 20,
+      "context": "問題4：（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "私は ( ) 性格なので、時々財布を持たずに買い物に出かけてしまうことがある。",
+      "options": [
+        "あつかましい",
+        "うっとうしい",
+        "そそっかしい",
+        "さわがしい"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · そそっかしい\n\n【Dịch câu hỏi】\n私は ( そそっかしい ) 性格なので、時々財布を持たずに買い物に出かけてしまうことがある。\nVì tính tôi hậu đậu, hấp tấp đoảng nên thỉnh thoảng lại đi chợ mà quên ví.\n\n【Phân tích】\n• そそっかしい: hậu đậu, bất cẩn, hay vội vàng quên trước quên sau.\n• あつかましい (mặt dày), うっとうしい (khó chịu/u ám), さわがしい (ồn ào)."
+    },
+    {
+      "question_id": 21,
+      "context": "問題5：＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+      "question": "出張の日程は <u>おおよそ</u> 決まりました。",
+      "options": [
+        "大体",
+        "す べ て",
+        "やっと",
+        "もう"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 大体\n\n【Dịch câu hỏi】\n出張の日程はおおよそ決まりました。\nLịch trình chuyến công tác đã được quyết định khoảng/đại khái rồi.\n\n【Phân tích】\n• おおよそ = 大体 (だいたい): đại khái, khoảng chừng, phần lớn.\n• すべて (toàn bộ), やっと (cuối cùng thì), もう (đã/sắp)."
+    },
+    {
+      "question_id": 22,
+      "context": "問題5：＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+      "question": "彼女はとても <u>行儀</u> がいい。",
+      "options": [
+        "アイデア",
+        "サービス",
+        "マナー",
+        "イメージ"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · マナー\n\n【Dịch câu hỏi】\n彼女はとても行儀がいい。\nCô ấy có cách cư xử / tác phong rất tốt.\n\n【Phân tích】\n• 行儀 (ぎょうぎ) = マナー (manners): quy củ, phép lịch sự, lễ độ."
+    },
+    {
+      "question_id": 23,
+      "context": "問題5：＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+      "question": "中西さんはいつも <u>威張って</u> いる。",
+      "options": [
+        "眠そうにして",
+        "偉そうにして",
+        "暇そうにして",
+        "嫌そうにして"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 偉そうにして\n\n【Dịch câu hỏi】\n中西さんはいつも威張っている。\nAnh Nakanishi lúc nào cũng kiêu ngạo, lên mặt ta đây.\n\n【Phân tích】\n• 威張る (いばる) = 偉そうにする (えらそうにする): lên mặt, tỏ vẻ ta đây quan trọng."
+    },
+    {
+      "question_id": 24,
+      "context": "問題5：＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+      "question": "使わない物は、ここに <u>収納して</u> ください。",
+      "options": [
+        "並べて",
+        "捨てて",
+        "預けて",
+        "しまって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · しまって\n\n【Dịch câu hỏi】\n使わない物は、ここに収納してください。\nNhững đồ không dùng đến xin hãy cất vào đây.\n\n【Phân tích】\n• 収納する (しゅうのうする) = しまう: cất gọn gàng vào tủ/ngăn chứa."
+    },
+    {
+      "question_id": 25,
+      "context": "問題5：＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+      "question": "横山さんは <u>不平</u> を言うことが多い。",
+      "options": [
+        "冗談",
+        "文句",
+        "うそ",
+        "わがまま"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 文句\n\n【Dịch câu hỏi】\n横山さんは不平を言うことが多い。\nAnh Yokoyama rất hay cằn nhằn / phàn nàn.\n\n【Phân tích】\n• 不平 (ふへい) = 文句 (もんく). Cụm: 不平を言う = 文句を言う (than phiền, kêu ca)."
+    },
+    {
+      "question_id": 26,
+      "context": "問題6：次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "共有",
+      "options": [
+        "市民ボランティアの 共有 で、留学生のスピーチコンテストが行われた。",
+        "大学と企業が 共有 で新しい技術の研究を行っている。",
+        "これらの事件には、発生場所に 共有 の特徴があることが分かった。",
+        "結婚してから購入した物は、夫婦の 共有 の財産になる。"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 結婚してから購入した物は、夫婦の共有の財産になる。\n\n【Phân tích cách dùng từ 共有 (きょうゆう - cùng sở hữu, dùng chung tài sản/thông tin)】\n• Câu 4 đúng: Tài sản mua sau hôn nhân là tài sản chung của vợ chồng (共有財産).\n• Câu 1 sai: Dùng 協力 (hợp tác).\n• Câu 2 sai: Dùng 共同 (cùng nhau hợp tác nghiên cứu).\n• Câu 3 sai: Dùng 共通 (đặc điểm chung)."
+    },
+    {
+      "question_id": 27,
+      "context": "問題6：次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "鋭い",
+      "options": [
+        "動物たちが自然界で生きていくためには、 鋭い 感覚が必要だ。",
+        "弟は記憶が 鋭くて 、本に載っているたくさんの国名や国旗をすぐに覚えた。",
+        "赤ちゃんの肌は 鋭い から、少しの刺激で赤くなってしまう。",
+        "運動の能力が 鋭い 人は、どんなスポーツでもすぐに上達する。"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 動物たちが自然界で生きていくためには、鋭い感覚が必要だ。\n\n【Phân tích cách dùng từ 鋭い (するどい - nhạy bén, sắc bén)】\n• Câu 1 đúng: Động vật cần giác quan nhạy bén (鋭い感覚/嗅覚) để sinh tồn.\n• Câu 2 sai: Trí nhớ tốt dùng 記憶力がいい.\n• Câu 3 sai: Da nhạy cảm dùng 肌が敏感 / 弱い.\n• Câu 4 sai: Khả năng vận động tốt dùng 運動神経がいい."
+    },
+    {
+      "question_id": 28,
+      "context": "問題6：次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "はきはき",
+      "options": [
+        "よく眠ったので、今日は頭が はきはき としている。",
+        "ビルの屋上から、遠くの山が はきはき と見える。",
+        "その学生は、聞かれたことに はきはき と答えた。",
+        "ミスの原因を はきはき とさせるために、調査が行われた。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · その学生は、聞かれたことにはきはきと答えた。\n\n【Phân tích cách dùng từ はきはき (rành rọt, dứt khoát, rõ ràng - dùng cho lời nói/trả lời)】\n• Câu 3 đúng: Trả lời rành rọt, lưu loát (はきはき答える).\n• Câu 1 sai: Đầu óc tỉnh táo dùng すっきりしている.\n• Câu 2 sai: Nhìn thấy rõ ràng dùng はっきり見える.\n• Câu 4 sai: Làm sáng tỏ nguyên nhân dùng はっきりさせる / 明らかにする."
+    },
+    {
+      "question_id": 29,
+      "context": "問題6：次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "鑑賞",
+      "options": [
+        "学校の授業で、工場へ行って自動車を組み立てる様子を 鑑賞 した。",
+        "中学生のとき、市のコンサートホールでクラシック音楽を 鑑賞 した。",
+        "資料を読んで、自然を守るための国の活動について 鑑賞 した。",
+        "レストランで、素材の良さを生かした料理を舌でじっくり 鑑賞 した。"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 中学生のとき、市のコンサートホールでクラシック音楽を鑑賞した。\n\n【Phân tích cách dùng từ 鑑賞 (かんしょう - thưởng thức nghệ thuật/âm nhạc/phim)】\n• Câu 2 đúng: Thưởng thức âm nhạc cổ điển (音楽鑑賞).\n• Câu 1 sai: Đi xem quy trình nhà máy dùng 見学 (kiến tập/tham quan).\n• Câu 3 sai: Tìm hiểu hoạt động dùng 勉強/調査/研究.\n• Câu 4 sai: Thưởng thức món ăn bằng vị giác dùng 味わう."
+    },
+    {
+      "question_id": 30,
+      "context": "問題6：次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "着々",
+      "options": [
+        "ベランダが 着々 と古くなって危険なので、修理することにした。",
+        "ゲームに夢中になっていたら、時間が 着々 とたっていた。",
+        "来週のパーティーの準備は 着々 と進んでいるようだ。",
+        "夕方になって、外は 着々 と涼しくなってきている。"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 来週のパーティーの準備は着々と進んでいるようだ。\n\n【Phân tích cách dùng từ 着々 (ちゃくちゃく - tiến triển đều đặn theo đúng kế hoạch)】\n• Câu 3 đúng: Đi theo cụm cố định 着々と進む (chuẩn bị tiến triển đều đặn).\n• Câu 1 sai: Cũ dần đi dùng だんだん / 徐々に.\n• Câu 2 sai: Thời gian trôi nhanh dùng あっという間に.\n• Câu 4 sai: Trời mát dần dùng 次第に / だんだん."
+    },
+    {
+      "question_id": 31,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "卓球クラブの山谷さんは大きな大会で何度も 優勝しているのに「私 ( ) まだまだですよ」と いつも言っている。",
+      "options": [
+        "まで",
+        "さえ",
+        "ばかり",
+        "なんか"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · なんか\n\n【Dịch câu hỏi】\n卓球クラブの山谷さんは大きな大会で何度も優勝しているのに「私 ( なんか ) まだまだですよ」といつも言っている。\nAnh Yamaya ở CLB bóng bàn dù đã vô địch nhiều lần ở các giải lớn nhưng lúc nào cũng nói: 'Cỡ như tôi thì vẫn còn kém lắm'.\n\n【Ngữ pháp】\n• ～なんか: Dùng để khiêm tốn hạ thấp bản thân (như tôi thì có là gì đâu / cỡ như tôi...) hoặc xem nhẹ sự vật sự việc."
+    },
+    {
+      "question_id": 32,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "携帯電話を一人一台持つのは当たり前と言われる現代で、私のように携帯電話なしで生活している 人は ( ) いるのだろうか。",
+      "options": [
+        "どうも",
+        "どれほど",
+        "どうしても",
+        "どんなに"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · どれほど\n\n【Dịch câu hỏi】\n携帯電話を一人一台持つのは当たり前と言われる現代で、私のように携帯電話なしで生活している人は ( どれほど ) いるのだろうか。\nTrong thời đại ngày nay khi việc mỗi người có một chiếc điện thoại là điều hiển nhiên, thì liệu có 'bao nhiêu người' sống mà không có điện thoại như tôi nhỉ?\n\n【Ngữ pháp】\n• どれほど...だろうか: Liệu có biết bao nhiêu / đến mức nào... đi với nghi vấn từ và だろうか."
+    },
+    {
+      "question_id": 33,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "花山市では、きゅうりやトマト、なす ( ) 夏の野菜が多く生産されている。",
+      "options": [
+        "とする",
+        "に関する",
+        "といった",
+        "にそった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · といった\n\n【Dịch câu hỏi】\n花山市では、きゅうりやトマト、なす ( といった ) 夏の野菜が多く生産されている。\nTại thành phố Hanayama, nhiều loại rau mùa hè 'như là' dưa chuột, cà chua, cà tím được sản xuất.\n\n【Ngữ pháp】\n• A, B (など) といった + Danh từ: Liệt kê các ví dụ tiêu biểu mang nghĩa 'những thứ như là A, B...'"
+    },
+    {
+      "question_id": 34,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "彼とは数年前に先輩の結婚式で ( ) 、 ずっと会っていなかった。",
+      "options": [
+        "会ったきりだ",
+        "会ったばかりか",
+        "会っただけで",
+        "会ったところ"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 会ったきりだ\n\n【Dịch câu hỏi】\n彼とは数年前に先輩の結婚式で ( 会ったきりだ ) 、ずっと会っていなかった。\nTôi với anh ấy 'kể từ sau lần gặp' ở đám cưới tiền bối vài năm trước thì suốt từ đó tới giờ chưa gặp lại.\n\n【Ngữ pháp】\n• V-た + きり (～ない): Kể từ sau khi làm V thì suốt từ đó trạng thái không đổi / không xảy ra nữa."
+    },
+    {
+      "question_id": 35,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "家の近所に子供向けのダンススクールができる らしい。オープンしたら、娘を体験レッスンに ( ) と話している。",
+      "options": [
+        "参加してみようか",
+        "参加させてみようか",
+        "参加してみてよかった",
+        "参加させてみてよかった"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 参加させてみようか\n\n【Dịch câu hỏi】\n家の近所に子供向けのダンススクールができるらしい。オープンしたら、娘を体験レッスンに ( 参加させてみようか ) と話している。\nNghe nói gần nhà sắp mở một trường dạy nhảy cho trẻ em. Vợ chồng tôi đang bàn là khi mở cửa thì 'thử cho con gái tham gia' buổi học thử xem sao.\n\n【Ngữ pháp】\n• Sai khiến (させる) + thử (てみる) + ý chí (ようか): 参加させてみようか (thử cho con tham gia)."
+    },
+    {
+      "question_id": 36,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "客 : 「カメラを海に落としてしまって、 電源が入らないんです。 中に水が入ってしまったようなのですが ... 」。 店員 : 「海水が入った ( ) 、修理は難しいかもしれませんが、 一応見てみますね」",
+      "options": [
+        "のであれば",
+        "ことであれば",
+        "のであって",
+        "ことであって"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · のであれば\n\n【Dịch câu hỏi】\n店員 : 「海水が入った ( のであれば ) 、修理は難しいかもしれませんが、 一応見てみますね」\nNhân viên: 'Nếu đúng là nước biển đã lọt vào thì việc sửa chữa có thể sẽ khó, nhưng tôi cứ kiểm tra thử xem sao nhé'.\n\n【Ngữ pháp】\n• ～のであれば: Nếu quả thực là trong trường hợp... (thể lịch sự / trang trọng của なら/んだったら)."
+    },
+    {
+      "question_id": 37,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "母 : 「引っ越しまでまだ時間はあるけど、直前になってあわてないように ( ) 、 荷物の整理も進めておきなさい。」 息子 : 「うん、分かった。」",
+      "options": [
+        "少しだけでいいのに",
+        "少しだけならよくても",
+        "少しずつやっておいて",
+        "少しずつならよくて"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · 少しずつやっておいて\n\n【Dịch câu hỏi】\n母 : 「引っ越しまでまだ時間はあるけど、直前になってあわてないように ( 少しずつやっておいて ) 、荷物の整理も進めておきなさい。」\nMẹ: 'Dù còn thời gian tới lúc chuyển nhà, nhưng con hãy cứ 'làm dần dần trước đi' để sát nút không bị cuống, và tiến hành dọn dẹp đồ đạc đi nhé.'\n\n【Ngữ pháp】\n• V-ておく (làm trước chuẩn bị sẵn): 少しずつやっておいて."
+    },
+    {
+      "question_id": 38,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "1896 年の第１回オリンピックに参加した国と地域の 数は 14 だったが、 2004 年には 200 を超える ( )。",
+      "options": [
+        "べきだった",
+        "つもりだった",
+        "ほかなかった",
+        "までになった"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · までになった\n\n【Dịch câu hỏi】\n1896年の第１回オリンピックに参加した国と地域の数は14だったが、2004年には200を超える ( までになった )。\nSố quốc gia và vùng lãnh thổ tham gia kỳ Olympic đầu tiên năm 1896 chỉ là 14, nhưng đến năm 2004 thì 'đã đạt đến mức' vượt qua con số 200.\n\n【Ngữ pháp】\n• ～までになる: Đã phát triển/tiến triển đến tận mức độ..."
+    },
+    {
+      "question_id": 39,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "チームでの仕事をスムーズに進めるには、メンバー 同士の十分なコミュニケーション ( ) 。",
+      "options": [
+        "にすぎない",
+        "が欠かせない",
+        "のおかげだ",
+        "とのことだ"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · が欠かせない\n\n【Dịch câu hỏi】\nチームでの仕事をスムーズに進めるには、メンバー同士の十分なコミュニケーション ( が欠かせない ) 。\nĐể công việc nhóm tiến triển thuận lợi thì sự giao tiếp đầy đủ giữa các thành viên 'là không thể thiếu'.\n\n【Ngữ pháp】\n• ～が欠かせない: Không thể thiếu được (cụm từ thiết yếu trong N2)."
+    },
+    {
+      "question_id": 40,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "昨日、新しいできた遊園地に行った。電車より車のほうが 早いだろうと思って車で行ったら、ひどい渋滞でかえって時間がかかってしまった。やはり電車で ( ) 。",
+      "options": [
+        "行けばよかった",
+        "行くはずだった",
+        "行かなくて済んだ",
+        "行きたくてしかたがなかった"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 行けばよかった\n\n【Dịch câu hỏi】\n電車より車のほうが早いだろうと思って車で行ったら、ひどい渋滞でかえって時間がかかってしまった。やはり電車で ( 行けばよかった ) 。\nTôi tưởng đi ô tô nhanh hơn tàu hỏa nên đi ô tô, ai ngờ tắc đường nghiêm trọng nên ngược lại còn mất thời gian hơn. Đúng là 'giá mà đi bằng tàu hỏa thì tốt biết mấy' (hối tiếc).\n\n【Ngữ pháp】\n• V-ばよかった: Giá mà đã làm... thì tốt (diễn tả sự nuối tiếc về điều đã không làm trong quá khứ)."
+    },
+    {
+      "question_id": 41,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "駅前に新しくできたカフェに友達を誘って行って みたら、定休日だった。事前に確認しておく ( ) 。",
+      "options": [
+        "しかなかった",
+        "ほどではなかった",
+        "べきだった",
+        "せいだった"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · べきだった\n\n【Dịch câu hỏi】\n事前に確認しておく ( べきだった ) 。\nĐáng lẽ ra tôi 'nên kiểm tra trước' mới phải (hối hận vì đã không kiểm tra khiến bạn bè đến quán gặp ngày đóng cửa).\n\n【Ngữ pháp】\n• V-る + べきだった: Đáng lẽ nên làm... (thể hiện sự tiếc nuối / khiển trách bản thân)."
+    },
+    {
+      "question_id": 42,
+      "context": "問題7：次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "( 電話で ) A: 「お電話ありが とうございます。 建設営業課でございます」 B: 「高橋さんはいらっしゃいますか。」 A: 「失礼ですが、お名前を ( ) 。」",
+      "options": [
+        "伺ったらいかがでしょうか",
+        "伺ってもよろしいでしょうか",
+        "お伝えしたらいかがでしょうか",
+        "お伝え してもよろしいでしょうか"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · 伺ってもよろしいでしょうか\n\n【Dịch câu hỏi】\nA: 「失礼ですが、お名前を ( 伺ってもよろしいでしょうか ) 。」\nNhân viên: 'Xin thất lễ, tôi có thể xin phép được hỏi quý danh của quý khách được không ạ?'\n\n【Ngữ pháp】\n• Kính ngữ: お名前を伺う (khiêm nhường ngữ của 聞く) + てもよろしいでしょうか (xin phép lịch sự)."
+    },
+    {
+      "question_id": 43,
+      "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "「さわら」という魚は、 漢字で「鰆」と書く ___ _★_ ___ ___ 魚の一つです。",
+      "options": [
+        "ように",
+        "わかる",
+        "ことから",
+        "春を代表する"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 3 · ことから\n\n【Câu hoàn chỉnh】\n「さわら」という魚は、漢字で「鰆」と書く【3. ことから】★【4. 春を代表する】魚の一つです。\n(Thứ tự đúng: 書く 1. ように $\\rightarrow$ 2. わかる $\\rightarrow$ 3. ことから ★ $\\rightarrow$ 4. 春を代表する)\nCá 'Sawara' từ việc chữ Hán viết là '鰆' (có bộ Xuân) mà được biết đến là một trong những loài cá đại diện cho mùa xuân.\n\n【Vị trí sao ★】: Vị trí số 3 ứng với phương án 3 (ことから) hoặc phân tích vị trí chính xác."
+    },
+    {
+      "question_id": 44,
+      "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "会議での西山さんのプレゼンは、普段は なかなか___ ___ _★_ ___素晴らしかった。",
+      "options": [
+        "ぐらい",
+        "部長が",
+        "褒める",
+        "褒めることがない"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 1 · ぐらい\n\n【Câu hoàn chỉnh】\n普段はなかなか【2. 部長が】褒める【4. ことがない】★【1. ぐらい】素晴らしかった。\n(Thứ tự đúng: 2 $\\rightarrow$ 3 $\\rightarrow$ 4 $\\rightarrow$ 1)\nBài thuyết trình của Nishiyama tuyệt vời đến mức người khó tính như trưởng phòng bình thường hiếm khi khen mà cũng phải khen ngợi.\n\n【Vị trí sao ★】: Vị trí số 3 là phương án 4 hoặc 1 (phù hợp trật tự 部長が 褒める ことがない ぐらい)."
+    },
+    {
+      "question_id": 45,
+      "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "同じ高温 ___ ___ _★_ ___ は大きく変わる。",
+      "options": [
+        "感じ方",
+        "でも",
+        "温度や風の強さなど",
+        "によって"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · によって\n\n【Câu hoàn chỉnh】\n同じ高温【2. でも】温度や風の強さなど【4. によって】★【1. 感じ方】は大きく変わる。\n(Thứ tự đúng: 2 $\\rightarrow$ 3 $\\rightarrow$ 4 $\\rightarrow$ 1 hoặc tương ứng theo ngữ pháp).\nCùng là nhiệt độ cao, nhưng tùy theo độ ẩm hay độ mạnh của gió mà cảm nhận sẽ thay đổi rất nhiều."
+    },
+    {
+      "question_id": 46,
+      "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "「山川大学アニメ研究会」は ___ ___ _★_ ___ できた団体です。",
+      "options": [
+        "学生が",
+        "集まって",
+        "アニメが",
+        "好きでたまらないという"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 1 · 学生が\n\n【Câu hoàn chỉnh】\nアニメが【4. 好きでたまらないという】学生が【2. 集まって】できた団体です。\n(Thứ tự: 3. アニメが $\\rightarrow$ 4. 好きでたまらないという $\\rightarrow$ 1. 学生が ★ $\\rightarrow$ 2. 集まって).\nCâu lạc bộ nghiên cứu anime đại học Yamakawa là đoàn thể được lập nên do các sinh viên cực kỳ mê anime tập hợp lại."
+    },
+    {
+      "question_id": 47,
+      "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "question": "雪会社の今井先輩は、自分はミスが多いと いつも言っているが、 ___ ___ _★_ ___ ように見える。",
+      "options": [
+        "新人で",
+        "何でも完璧にできている",
+        "私からすると",
+        "わからないことばかりの"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 3 · ほかの人から\n\n【Câu hoàn chỉnh】\n今井先輩は、自分はミスが多いといつも言っているが、ほかの人から見れば完璧に仕事をしているように見える。\n(Thứ tự đúng tạo thành câu tự nhiên: nhìn từ người khác thì thấy làm việc hoàn hảo)."
+    },
+    {
+      "question_id": 48,
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "",
+      "options": [
+        "そこ の紅葉",
+        "そんな紅葉",
+        "そちら",
+        "紅葉"
+      ],
+      "correct_answer": 2,
+      "explanation": "Đáp án đúng: 2 · そんな紅葉\n\n【Dịch & Phân tích ngữ cảnh đoạn văn 48-51】\n留学生のスピーチ: Nhắc lại trải nghiệm mùa thu ngắm lá đỏ đã được đề cập ở câu trước đó $\\rightarrow$ dùng そんな紅葉 (lá đỏ như thế)."
+    },
+    {
+      "question_id": 49,
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "",
+      "options": [
+        "結局",
+        "確かに",
+        "しかし",
+        "つまり"
+      ],
+      "correct_answer": 3,
+      "explanation": "Đáp án đúng: 1 · 見とれてしまった\n\n【Dịch & Phân tích】\nCảnh sắc tuyệt đẹp khiến người ngắm bị cuốn hút / nhìn say đắm không rời mắt: 見とれてしまった."
+    },
+    {
+      "question_id": 50,
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "",
+      "options": [
+        "始まらないのです",
+        "始まらないためです",
+        "始まらないのでしょうか",
+        "始まらないためでしょうか"
+      ],
+      "correct_answer": 1,
+      "explanation": "Đáp án đúng: 3 · 魅了されたからだ\n\n【Dịch & Phân tích】\nNêu lý do tại sao tác giả lại yêu thích: là vì đã bị vẻ đẹp ấy mê hoặc, cuốn hút (魅了されたからだ)."
+    },
+    {
+      "question_id": 51,
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
+      "question": "",
+      "options": [
+        "感じているからだと思います",
+        "感じられるところだと思います",
+        "感じさせることができました",
+        "感じるようになりました"
+      ],
+      "correct_answer": 4,
+      "explanation": "Đáp án đúng: 4 · 伝えたいと思う\n\n【Dịch & Phân tích】\nKết bài diễn thuyết: Người nói bày tỏ nguyện vọng và mong muốn của mình: 'Tôi nghĩ rằng mình muốn truyền đạt lại điều tuyệt vời này cho mọi người' $\\rightarrow$ 伝えたいと思う."
+    }
+  ]
+}
