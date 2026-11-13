@@ -234,6 +234,7 @@
               <div class="backface-hidden rotate-y-180 absolute inset-0 flex flex-col justify-between p-6 bg-slate-50 rounded-3xl overflow-y-auto">
                 <div class="text-center">
                   <div id="fcReading" class="text-lg font-bold text-teal-800 mb-1" style="font-family: var(--font-ja);">しょうりゃく</div>
+                  <div id="fcHanViet" class="hidden"></div>
                   <div id="fcMeaning" class="text-base sm:text-lg font-semibold text-slate-900">cắt bỏ, giản lược</div>
                 </div>
                 
@@ -310,7 +311,7 @@
             </div>
           </div>
 
-          <div class="text-center py-3 sm:py-5 flex-1 flex flex-col items-center justify-center">
+          <div class="text-center py-3 sm:py-4 flex-1 min-h-[140px] sm:min-h-[156px] flex flex-col items-center justify-center">
             <div id="quizPromptWord" class="text-4xl sm:text-5xl font-extrabold text-slate-900 tracking-wide my-1" style="font-family: var(--font-ja);">腕</div>
             <div id="quizPromptHint" class="text-xs text-slate-500 mt-1.5">Chọn nghĩa hoặc cách đọc đúng nhất (phím 1–4):</div>
           </div>
@@ -318,10 +319,10 @@
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" id="quizOptionsContainer"></div>
         </div>
 
-        <!-- Right Panel: Stats, Feedback & Next Action (Zero Scroll) -->
-        <div class="lg:col-span-5 bg-white border border-slate-200 rounded-3xl p-5 sm:p-6 shadow-sm flex flex-col justify-between gap-4">
+        <!-- Right Panel: Stats, Feedback & Next Action (Zero Scroll & Zero Layout Shift) -->
+        <div class="lg:col-span-5 bg-white border border-slate-200 rounded-3xl p-5 sm:p-6 shadow-sm flex flex-col justify-between gap-3.5">
           <!-- Scope & Stats -->
-          <div class="space-y-3">
+          <div class="space-y-2.5">
             <div class="grid grid-cols-3 gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs">
               <button onclick="changeQuizScope('day')" id="quizScope-day" class="py-1.5 px-2 rounded-lg font-semibold bg-white text-slate-900 shadow-sm cursor-pointer">Theo ngày</button>
               <button onclick="changeQuizScope('all')" id="quizScope-all" class="py-1.5 px-2 rounded-lg font-medium text-slate-600 hover:text-slate-900 cursor-pointer">Tất cả (1,044)</button>
@@ -331,38 +332,40 @@
             <div class="grid grid-cols-3 gap-2 text-center">
               <div class="rounded-2xl bg-slate-50 border border-slate-200 px-3 py-2">
                 <div class="text-[11px] text-slate-500">Điểm</div>
-                <div id="quizScore" class="text-base font-extrabold text-teal-700">0</div>
+                <div id="quizScore" class="text-base font-extrabold text-teal-700 tabular-nums">0</div>
               </div>
               <div class="rounded-2xl bg-slate-50 border border-slate-200 px-3 py-2">
                 <div class="text-[11px] text-slate-500">Streak</div>
-                <div id="quizStreak" class="text-base font-extrabold text-amber-600">🔥 0</div>
+                <div id="quizStreak" class="text-base font-extrabold text-amber-600 tabular-nums">🔥 0</div>
               </div>
               <div class="rounded-2xl bg-slate-50 border border-slate-200 px-3 py-2">
                 <div class="text-[11px] text-slate-500">Đúng / Câu</div>
-                <div id="quizAccuracy" class="text-base font-extrabold text-slate-800">0/0</div>
+                <div id="quizAccuracy" class="text-base font-extrabold text-slate-800 tabular-nums">0/0</div>
               </div>
             </div>
           </div>
 
-          <!-- Feedback Slot (Fixed presence, zero layout jump) -->
-          <div class="flex-1 flex flex-col justify-center">
-            <div id="quizPlaceholderBox" class="p-4 rounded-2xl border border-dashed border-slate-200 bg-slate-50/70 text-xs text-slate-500 space-y-2">
-              <div class="font-semibold text-slate-700">⚡ Sẵn sàng trả lời</div>
-              <p class="leading-relaxed">Chọn đáp án ở khung bên trái (hoặc nhấn phím <kbd class="px-1.5 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">1</kbd>–<kbd class="px-1.5 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">4</kbd>). Kết quả, cách đọc và ví dụ sẽ hiện ngay tại đây.</p>
+          <!-- Feedback Slot (Fixed height, zero layout jump) -->
+          <div id="quizFeedbackSlot" class="h-[248px] sm:h-[256px]">
+            <div id="quizPlaceholderBox" class="h-full p-4 rounded-2xl border border-dashed border-slate-200 bg-slate-50/70 text-xs text-slate-500">
+              <div class="h-full flex flex-col justify-center gap-2">
+                <div class="font-semibold text-slate-700">⚡ Sẵn sàng trả lời</div>
+                <p class="leading-relaxed">Chọn đáp án ở khung bên trái (hoặc nhấn phím <kbd class="px-1.5 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">1</kbd>–<kbd class="px-1.5 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">4</kbd>). Kết quả, cách đọc, Hán Việt và ví dụ sẽ hiện cố định tại đây.</p>
+              </div>
             </div>
-            <div id="quizFeedbackBox" class="hidden p-4 rounded-2xl border text-xs space-y-2"></div>
+            <div id="quizFeedbackBox" class="hidden"></div>
           </div>
 
-          <!-- Action Bar -->
-          <div>
-            <div id="quizSkipWrap">
-              <button type="button" id="quizSkipBtn" onclick="generateNewQuizQuestion()" class="w-full py-3 px-4 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-slate-100 text-slate-600 font-semibold text-xs flex items-center justify-center gap-2 transition-all cursor-pointer">
+          <!-- Action Bar (Fixed h-12 height, zero shift) -->
+          <div class="h-12">
+            <div id="quizSkipWrap" class="h-full">
+              <button type="button" id="quizSkipBtn" onclick="generateNewQuizQuestion()" class="w-full h-full px-4 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-slate-100 text-slate-600 font-semibold text-xs flex items-center justify-center gap-2 transition-colors cursor-pointer">
                 <span>Đổi câu khác</span>
                 <span>↻</span>
               </button>
             </div>
-            <div id="quizNextWrap" class="hidden">
-              <button type="button" id="quizNextBtn" onclick="generateNewQuizQuestion()" class="w-full py-3.5 px-5 rounded-2xl bg-teal-700 hover:bg-teal-800 active:scale-[0.99] text-white font-bold text-sm shadow-md flex items-center justify-between transition-all cursor-pointer">
+            <div id="quizNextWrap" class="hidden h-full">
+              <button type="button" id="quizNextBtn" onclick="generateNewQuizQuestion()" class="w-full h-full px-5 rounded-2xl bg-teal-700 hover:bg-teal-800 text-white font-bold text-sm shadow-md flex items-center justify-between transition-colors cursor-pointer">
                 <span class="flex items-center gap-2">
                   <span>Câu Tiếp Theo</span>
                   <span aria-hidden="true">→</span>
@@ -712,6 +715,96 @@
       if (currentTab === 'quiz' && currentQuizItem && currentQuizItem.id === id) updateQuizStarBtn();
     }
 
+    const KANJI_HV = {
+      "一":"NHẤT", "上":"THƯỢNG", "下":"HẠ", "不":"BẤT", "世":"THẾ", "並":"TỊNH", "中":"TRUNG", "主":"CHỦ", "久":"CỬU", "乏":"PHẠP", "乗":"THỪA", "乱":"LOẠN",
+      "乾":"CAN", "了":"LIỄU", "予":"DỰ", "争":"TRANH", "事":"SỰ", "人":"NHÂN", "介":"GIỚI", "付":"PHÓ", "代":"ĐẠI", "令":"LỆNH", "以":"DĨ", "仰":"NGƯỠNG",
+      "任":"NHẬM", "企":"XÍ", "会":"HỘI", "伝":"TRUYỀN", "伯":"BÁ", "伴":"BẠN", "似":"TỰ", "住":"TRÚ", "体":"THỂ", "何":"HÀ", "余":"DƯ", "作":"TÁC",
+      "例":"LỆ", "供":"CUNG", "係":"HỆ", "保":"BẢO", "信":"TÍN", "修":"TU", "俳":"BÀI", "倍":"BỘI", "倒":"ĐẢO", "候":"HẬU", "偉":"VĨ", "健":"KIỆN",
+      "偶":"NGẪU", "備":"BỊ", "催":"THÔI", "傷":"THƯƠNG", "傾":"KHUYNH", "僚":"LIÊU", "儀":"NGHI", "優":"ƯU", "元":"NGUYÊN", "充":"SUNG", "先":"TIÊN", "免":"MIỄN",
+      "児":"NHI", "党":"ĐẢNG", "入":"NHẬP", "共":"CỘNG", "具":"CỤ", "典":"ĐIỂN", "再":"TÁI", "冗":"NHŨNG", "冷":"LÃNH", "凍":"ĐÔNG", "処":"XỬ", "出":"XUẤT",
+      "分":"PHÂN", "切":"THIẾT", "初":"SƠ", "判":"PHÁN", "別":"BIỆT", "到":"ĐÁO", "制":"CHẾ", "刺":"THÍCH", "則":"TẮC", "削":"TƯỚC", "前":"TIỀN", "剣":"KIẾM",
+      "割":"CÁT", "創":"SÁNG", "劇":"KỊCH", "力":"LỰC", "加":"GIA", "劣":"LIỆT", "助":"TRỢ", "努":"NỖ", "労":"LAO", "勇":"DŨNG", "動":"ĐỘNG", "勘":"KHÁM",
+      "務":"VỤ", "勝":"THẮNG", "募":"MỘ", "勢":"THẾ", "勤":"CẦN", "包":"BAO", "化":"HÓA", "区":"KHU", "印":"ẤN", "危":"NGUY", "即":"TỨC", "厚":"HẬU",
+      "原":"NGUYÊN", "厳":"NGHIÊM", "去":"KHỨ", "参":"THAM", "及":"CẬP", "反":"PHẢN", "収":"THU", "取":"THỦ", "受":"THỤ", "口":"KHẨU", "句":"CÚ", "各":"CÁC",
+      "合":"HỢP", "同":"ĐỒNG", "名":"DANH", "向":"HƯỚNG", "否":"PHỦ", "含":"HÀM", "吸":"HẤP", "味":"VỊ", "命":"MỆNH", "和":"HÒA", "品":"PHẨM", "員":"VIÊN",
+      "商":"THƯƠNG", "問":"VẤN", "善":"THIỆN", "営":"DOANH", "器":"KHÍ", "回":"HỒI", "因":"NHÂN", "団":"ĐOÀN", "囲":"VI", "図":"ĐỒ", "固":"CỐ", "圧":"ÁP",
+      "在":"TẠI", "地":"ĐỊA", "垂":"THÙY", "型":"HÌNH", "培":"BỒI", "基":"CƠ", "報":"BÁO", "場":"TRƯỜNG", "境":"CẢNH", "増":"TĂNG", "壊":"HOẠI", "声":"THANH",
+      "売":"MẠI", "外":"NGOẠI", "大":"ĐẠI", "天":"THIÊN", "失":"THẤT", "奏":"TẤU", "契":"KHẾ", "奪":"ĐOẠT", "始":"THỦY", "姿":"TƯ", "威":"UY", "嫌":"HIỀM",
+      "存":"TỒN", "宅":"TRẠCH", "完":"HOÀN", "官":"QUAN", "定":"ĐỊNH", "実":"THỰC", "宣":"TUYÊN", "害":"HẠI", "家":"GIA", "容":"DUNG", "寄":"KÝ", "密":"MẬT",
+      "察":"SÁT", "対":"ĐỐI", "専":"CHUYÊN", "尊":"TÔN", "尋":"TẦM", "導":"ĐẠO", "少":"THIỂU", "就":"TỰU", "居":"CƯ", "屈":"KHUẤT", "屋":"ỐC", "展":"TRIỂN",
+      "属":"THUỘC", "層":"TẦNG", "履":"LÝ", "崩":"BĂNG", "巡":"TUẦN", "工":"CÔNG", "差":"SAI", "布":"BỐ", "希":"HY", "師":"SƯ", "帯":"ĐỚI", "帰":"QUY",
+      "常":"THƯỜNG", "平":"BÌNH", "幼":"ẤU", "底":"ĐỂ", "店":"ĐIẾM", "度":"ĐỘ", "座":"TỌA", "庭":"ĐÌNH", "康":"KHANG", "廃":"PHẾ", "延":"DIÊN", "建":"KIẾN",
+      "式":"THỨC", "引":"DẪN", "弱":"NHƯỢC", "張":"TRƯƠNG", "強":"CƯỜNG", "当":"ĐƯƠNG", "形":"HÌNH", "影":"ẢNH", "役":"DỊCH", "待":"ĐÃI", "律":"LUẬT", "後":"HẬU",
+      "従":"TÙNG", "得":"ĐẮC", "復":"PHỤC", "心":"TÂM", "志":"CHÍ", "応":"ỨNG", "快":"KHOÁI", "怖":"BỐ", "思":"TƯ", "急":"CẤP", "性":"TÍNH", "怪":"QUÁI",
+      "恐":"KHỦNG", "恥":"SỈ", "恨":"HẬN", "息":"TỨC", "恵":"HUỆ", "悔":"HỐI", "悟":"NGỘ", "悩":"NÃO", "悪":"ÁC", "情":"TÌNH", "惜":"TÍCH", "想":"TƯỞNG",
+      "意":"Ý", "感":"CẢM", "態":"THÁI", "慌":"HOẢNG", "慢":"MẠN", "慮":"LỰ", "憎":"TĂNG", "憶":"ỨC", "懐":"HOÀI", "成":"THÀNH", "我":"NGÃ", "戦":"CHIẾN",
+      "戻":"LỆ", "所":"SỞ", "手":"THỦ", "打":"ĐẢ", "払":"PHẤT", "扱":"TRÁP", "批":"PHÊ", "承":"THỪA", "技":"KỸ", "投":"ĐẦU", "抗":"KHÁNG", "抜":"BẠT",
+      "抱":"BÃO", "抽":"TRỪU", "担":"ĐẢM", "拒":"CỰ", "招":"CHIÊU", "拠":"CỨ", "拡":"KHUẾCH", "拾":"THẬP", "持":"TRÌ", "指":"CHỈ", "振":"CHẤN", "捕":"BỘ",
+      "捨":"XẢ", "掃":"TẢO", "授":"THỤ", "掘":"QUẬT", "掛":"QUẢI", "採":"THẢI", "探":"THÁM", "接":"TIẾP", "控":"KHỐNG", "推":"SUY", "掲":"YẾT", "揃":"TIỄN",
+      "描":"MIÊU", "提":"ĐỀ", "握":"ÁC", "援":"VIỆN", "揺":"DAO", "損":"TỔN", "摘":"TRÍCH", "撮":"TOÁT", "支":"CHI", "改":"CẢI", "攻":"CÔNG", "放":"PHÓNG",
+      "故":"CỐ", "敏":"MẪN", "救":"CỨU", "散":"TÁN", "数":"SỐ", "整":"CHỈNH", "文":"VĂN", "斉":"TỀ", "料":"LIỆU", "断":"ĐOẠN", "新":"TÂN", "方":"PHƯƠNG",
+      "族":"TỘC", "旗":"KỲ", "日":"NHẬT", "早":"TẢO", "旬":"TUẦN", "昇":"THĂNG", "明":"MINH", "易":"DỊCH", "映":"ÁNH", "昨":"TẠC", "時":"THỜI", "普":"PHỔ",
+      "景":"CẢNH", "暮":"MỘ", "暴":"BẠO", "書":"THƯ", "替":"THẾ", "最":"TỐI", "有":"HỮU", "服":"PHỤC", "望":"VỌNG", "期":"KỲ", "未":"VỊ", "末":"MẠT",
+      "本":"BẢN", "材":"TÀI", "束":"THÚC", "杯":"BÔI", "板":"BẢN", "析":"TÍCH", "柄":"BÍNH", "染":"NHIỄM", "柔":"NHU", "格":"CÁCH", "栽":"TÀI", "案":"ÁN",
+      "検":"KIỂM", "業":"NGHIỆP", "極":"CỰC", "楽":"LẠC", "模":"MÔ", "権":"QUYỀN", "横":"HOÀNH", "機":"CƠ", "欠":"KHIẾM", "次":"THỨ", "欲":"DỤC", "歌":"CA",
+      "歓":"HOAN", "止":"CHỈ", "正":"CHÍNH", "歩":"BỘ", "残":"TÀN", "毒":"ĐỘC", "比":"TỶ", "気":"KHÍ", "永":"VĨNH", "求":"CẦU", "決":"QUYẾT", "沈":"TRẦM",
+      "油":"DU", "治":"TRỊ", "沿":"DUYÊN", "法":"PHÁP", "注":"CHÚ", "消":"TIÊU", "混":"HỖN", "清":"THANH", "済":"TẾ", "温":"ÔN", "測":"TRẮC", "湿":"THẤP",
+      "満":"MÃN", "準":"CHUẨN", "溶":"DUNG", "漏":"LẬU", "演":"DIỄN", "漬":"TÍ", "潔":"KHIẾT", "潰":"HỘI", "激":"KÍCH", "濁":"TRỌC", "濃":"NỒNG", "災":"TAI",
+      "点":"ĐIỂM", "無":"VÔ", "焦":"TIÊU", "然":"NHIÊN", "照":"CHIẾU", "父":"PHỤ", "牧":"MỤC", "物":"VẬT", "特":"ĐẶC", "犯":"PHẠM", "状":"TRẠNG", "独":"ĐỘC",
+      "率":"SUẤT", "現":"HIỆN", "理":"LÝ", "環":"HOÀN", "瓶":"BÌNH", "甘":"CAM", "生":"SINH", "産":"SẢN", "用":"DỤNG", "画":"HỌA", "界":"GIỚI", "略":"LƯỢC",
+      "異":"DỊ", "畳":"ĐIỆP", "疑":"NGHI", "疲":"BÌ", "症":"CHỨNG", "療":"LIỆU", "発":"PHÁT", "的":"ĐÍCH", "皮":"BÌ", "盗":"ĐẠO", "盛":"THỊNH", "監":"GIÁM",
+      "目":"MỤC", "直":"TRỰC", "相":"TƯƠNG", "省":"TỈNH", "看":"KHÁN", "真":"CHÂN", "眠":"MIÊN", "眼":"NHÃN", "着":"TRƯỚC", "督":"ĐỐC", "睨":"NGHỄ", "知":"TRI",
+      "短":"ĐOẢN", "研":"NGHIÊN", "破":"PHÁ", "硬":"NGẠNH", "確":"XÁC", "示":"THỊ", "社":"XÃ", "祉":"CHỈ", "票":"PHIẾU", "禁":"CẤM", "福":"PHÚC", "秘":"BÍ",
+      "移":"DI", "稚":"TRĨ", "種":"CHỦNG", "稼":"GIÁ", "稿":"CẢO", "積":"TÍCH", "穫":"HOẠCH", "空":"KHÔNG", "突":"ĐỘT", "立":"LẬP", "端":"ĐOAN", "競":"CẠNH",
+      "第":"ĐỆ", "等":"ĐẲNG", "策":"SÁCH", "算":"TOÁN", "管":"QUẢN", "節":"TIẾT", "範":"PHẠM", "簡":"GIẢN", "籍":"TỊCH", "粧":"TRANG", "精":"TINH", "系":"HỆ",
+      "約":"ƯỚC", "納":"NẠP", "素":"TỐ", "細":"TẾ", "終":"CHUNG", "経":"KINH", "結":"KẾT", "絞":"GIẢO", "絡":"LẠC", "統":"THỐNG", "絵":"HỘI", "絶":"TUYỆT",
+      "継":"KẾ", "続":"TỤC", "総":"TỔNG", "締":"ĐẾ", "編":"BIÊN", "縛":"PHƯỢC", "縮":"SÚC", "績":"TÍCH", "罪":"TỘI", "罰":"PHẠT", "羨":"TIỆN", "考":"KHẢO",
+      "者":"GIẢ", "職":"CHỨC", "肉":"NHỤC", "育":"DỤC", "胸":"HUNG", "能":"NĂNG", "腕":"OẢN", "腫":"THŨNG", "腰":"YÊU", "腹":"PHÚC", "臨":"LÂM", "自":"TỰ",
+      "臭":"XÚ", "至":"CHÍ", "致":"TRÍ", "舌":"THIỆT", "良":"LƯƠNG", "色":"SẮC", "花":"HOA", "苦":"KHỔ", "荒":"HOANG", "落":"LẠC", "著":"TRỨ", "蓄":"SÚC",
+      "薬":"DƯỢC", "融":"DUNG", "血":"HUYẾT", "行":"HÀNH", "術":"THUẬT", "街":"NHAI", "衝":"XUNG", "衣":"Y", "表":"BIỂU", "袋":"ĐẠI", "装":"TRANG", "補":"BỔ",
+      "製":"CHẾ", "襲":"TẬP", "要":"YẾU", "覆":"PHÚC", "見":"KIẾN", "規":"QUY", "覚":"GIÁC", "親":"THÂN", "観":"QUAN", "解":"GIẢI", "触":"XÚC", "言":"NGÔN",
+      "訂":"ĐÍNH", "計":"KẾ", "討":"THẢO", "記":"KÝ", "訪":"PHÓNG", "設":"THIẾT", "許":"HỨA", "訳":"DỊCH", "診":"CHẨN", "証":"CHỨNG", "評":"BÌNH", "詞":"TỪ",
+      "詰":"CẬT", "話":"THOẠI", "詳":"TƯỜNG", "認":"NHẬN", "誘":"DỤ", "誤":"NGỘ", "説":"THUYẾT", "課":"KHÓA", "調":"ĐIỀU", "談":"ĐÀM", "論":"LUẬN", "諸":"CHƯ",
+      "講":"GIẢNG", "謝":"TẠ", "警":"CẢNH", "議":"NGHỊ", "護":"HỘ", "豊":"PHONG", "象":"TƯỢNG", "負":"PHỤ", "財":"TÀI", "貨":"HÓA", "貯":"TRỮ", "貴":"QUÝ",
+      "買":"MÃI", "費":"PHÍ", "貿":"MẬU", "賃":"NHẪM", "資":"TƯ", "賛":"TÁN", "賞":"THƯỞNG", "質":"CHẤT", "購":"CẤU", "走":"TẨU", "越":"VIỆT", "趣":"THÚ",
+      "距":"CỰ", "践":"TIỄN", "踏":"ĐẠP", "身":"THÂN", "転":"CHUYỂN", "軽":"KHINH", "較":"GIẢO", "載":"TẢI", "輝":"HUY", "輸":"THÂU", "農":"NÔNG", "込":"NHẬP",
+      "迎":"NGHÊNH", "近":"CẬN", "返":"PHẢN", "述":"THUẬT", "迷":"MÊ", "追":"TRUY", "退":"THOÁI", "送":"TỐNG", "逃":"ĐÀO", "逆":"NGHỊCH", "途":"ĐỒ", "通":"THÔNG",
+      "速":"TỐC", "造":"TẠO", "連":"LIÊN", "進":"TIẾN", "運":"VẬN", "過":"QUÁ", "道":"ĐẠO", "達":"ĐẠT", "違":"VI", "遠":"VIỄN", "適":"THÍCH", "選":"TUYỂN",
+      "部":"BỘ", "郵":"BƯU", "配":"PHỐI", "酷":"KHỐC", "重":"TRỌNG", "量":"LƯỢNG", "金":"KIM", "鈍":"ĐỘN", "鉢":"BÁT", "鋭":"DUỆ", "録":"LỤC", "鏡":"KÍNH",
+      "鑑":"GIÁM", "長":"TRƯỜNG", "閉":"BẾ", "開":"KHAI", "間":"GIAN", "関":"QUAN", "防":"PHÒNG", "降":"GIÁNG", "限":"HẠN", "除":"TRỪ", "陥":"HÃM", "険":"HIỂM",
+      "陽":"DƯƠNG", "隔":"CÁCH", "隙":"KHÍCH", "際":"TẾ", "障":"CHƯỚNG", "隠":"ẨN", "集":"TẬP", "雑":"TẠP", "離":"LY", "雰":"PHÂN", "面":"DIỆN", "頂":"ĐỈNH",
+      "順":"THUẬN", "預":"DỰ", "領":"LĨNH", "頼":"LẠI", "題":"ĐỀ", "額":"NGẠCH", "願":"NGUYỆN", "風":"PHONG", "飛":"PHI", "食":"THỰC", "飽":"BÃO", "養":"DƯỠNG",
+      "館":"QUÁN", "駆":"KHU", "騒":"TAO", "験":"NGHIỆM", "驚":"KINH", "高":"CAO", "鮮":"TIÊN", "鳴":"MINH", "鶴":"HẠC"
+    };
+
+    const WORD_HV = {
+      "企画": "XÍ HOẠCH",
+      "身分証明書": "THÂN PHẬN CHỨNG MINH THƯ",
+      "積み重ねる": "TÍCH TRÙNG",
+      "着々": "CHƯỚC CHƯỚC"
+    };
+
+    function getHanViet(word) {
+      if (!word) return '';
+      const raw = String(word).trim();
+      if (WORD_HV[raw]) return WORD_HV[raw];
+      const primary = raw.split('・')[0];
+      const clean = primary.replace(/[～~]/g, '').trim();
+      if (WORD_HV[clean]) return WORD_HV[clean];
+
+      const readings = [];
+      let prevKanji = '';
+      for (const ch of clean) {
+        if (ch >= '\u4e00' && ch <= '\u9fff') {
+          readings.push(KANJI_HV[ch] || ch);
+          prevKanji = ch;
+        } else if (ch === '々' && prevKanji) {
+          readings.push(KANJI_HV[prevKanji] || prevKanji);
+        }
+      }
+      return readings.join(' ');
+    }
+
     function speakWord(text) {
       if (!text) return;
       if ('speechSynthesis' in window) {
@@ -814,6 +907,12 @@
       document.getElementById('fcWord').innerText = currentFcItem.word;
 
       document.getElementById('fcReading').innerText = currentFcItem.reading ? `【${currentFcItem.reading}】` : '';
+      const hv = getHanViet(currentFcItem.word);
+      const hvEl = document.getElementById('fcHanViet');
+      hvEl.innerText = hv ? `Hán Việt: ${hv}` : '';
+      hvEl.className = hv
+        ? 'inline-block text-[11px] font-bold tracking-wide text-amber-800 bg-amber-100/80 border border-amber-200 px-2.5 py-0.5 rounded-full mb-1.5'
+        : 'hidden';
       document.getElementById('fcMeaning').innerText = currentFcItem.meaning;
       document.getElementById('fcExample').innerText = currentFcItem.example || '';
       document.getElementById('fcExampleMeaning').innerText = currentFcItem.exampleMeaning || '';
@@ -877,7 +976,7 @@
 
       document.getElementById('quizPlaceholderBox').classList.remove('hidden');
       const feedbackBox = document.getElementById('quizFeedbackBox');
-      feedbackBox.className = 'hidden p-4 rounded-2xl border text-xs space-y-2';
+      feedbackBox.className = 'hidden';
       feedbackBox.innerHTML = '';
 
       document.getElementById('quizSkipWrap').classList.remove('hidden');
@@ -952,7 +1051,7 @@
         const btn = document.createElement('button');
         btn.type = 'button';
         btn.dataset.opt = opt;
-        btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-teal-50/50 hover:border-teal-400 text-xs sm:text-[13px] font-medium transition-all text-slate-800 cursor-pointer shadow-sm flex items-center gap-3';
+        btn.className = 'w-full min-h-[68px] h-full text-left p-3.5 rounded-2xl border-2 border-slate-200 bg-slate-50 hover:bg-teal-50/50 hover:border-teal-400 text-xs sm:text-[13px] font-semibold transition-colors text-slate-800 cursor-pointer shadow-sm flex items-center gap-3';
 
         const keyBadge = document.createElement('span');
         keyBadge.className = 'w-6 h-6 rounded-lg bg-white border border-slate-200 text-slate-500 font-bold text-[11px] flex items-center justify-center shrink-0';
@@ -984,13 +1083,13 @@
         btn.disabled = true;
 
         if (opt === correct) {
-          btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border-2 border-teal-500 bg-teal-50 text-teal-900 text-xs sm:text-[13px] font-bold transition-all shadow-sm flex items-center gap-3 cursor-default';
+          btn.className = 'w-full min-h-[68px] h-full text-left p-3.5 rounded-2xl border-2 border-teal-500 bg-teal-50 ring-2 ring-teal-500/20 text-teal-900 text-xs sm:text-[13px] font-semibold transition-colors shadow-sm flex items-center gap-3 cursor-default';
           if (badge) badge.className = 'w-6 h-6 rounded-lg bg-teal-600 border border-teal-600 text-white font-bold text-[11px] flex items-center justify-center shrink-0';
         } else if (btn === clickedBtn) {
-          btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border-2 border-rose-400 bg-rose-50 text-rose-800 text-xs sm:text-[13px] font-bold transition-all flex items-center gap-3 cursor-default';
+          btn.className = 'w-full min-h-[68px] h-full text-left p-3.5 rounded-2xl border-2 border-rose-400 bg-rose-50 ring-2 ring-rose-400/20 text-rose-800 text-xs sm:text-[13px] font-semibold transition-colors flex items-center gap-3 cursor-default';
           if (badge) badge.className = 'w-6 h-6 rounded-lg bg-rose-500 border border-rose-500 text-white font-bold text-[11px] flex items-center justify-center shrink-0';
         } else {
-          btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border border-slate-200 bg-slate-50/70 text-slate-400 text-xs sm:text-[13px] font-medium opacity-65 flex items-center gap-3 cursor-default';
+          btn.className = 'w-full min-h-[68px] h-full text-left p-3.5 rounded-2xl border-2 border-slate-200 bg-slate-50/70 text-slate-400 text-xs sm:text-[13px] font-semibold opacity-65 transition-colors flex items-center gap-3 cursor-default';
         }
       });
 
@@ -1007,6 +1106,14 @@
             <button type="button" onclick="speakQuizText('word')" class="px-2 py-0.5 rounded-md bg-white border border-slate-200 hover:border-teal-500 text-[11px] text-slate-700 cursor-pointer" title="Nghe phát âm">🔊 Nghe phát âm</button>
           </div>`;
 
+      const hanViet = getHanViet(currentQuizItem.word);
+      const hanVietHtml = hanViet
+        ? `<div class="flex items-center gap-1.5 flex-wrap">
+            <span>Hán Việt:</span>
+            <span class="px-2 py-0.5 rounded-md bg-amber-100/90 border border-amber-200 text-amber-900 font-bold tracking-wide text-[11px]">${escapeHtml(hanViet)}</span>
+          </div>`
+        : '';
+
       const exampleHtml = currentQuizItem.example
         ? `<div class="p-2.5 rounded-xl bg-white/90 border border-slate-200/80 text-slate-700 space-y-1">
             <div class="flex items-start justify-between gap-2" style="font-family: var(--font-ja);">
@@ -1020,18 +1127,19 @@
       if (isCorrect) {
         quizScore += 10;
         quizStreak += 1;
-        feedbackBox.className = 'p-4 rounded-2xl border border-teal-200 bg-teal-50 text-teal-900 text-xs space-y-2.5';
+        feedbackBox.className = 'h-full overflow-y-auto p-3.5 sm:p-4 rounded-2xl border border-teal-200 bg-teal-50 text-teal-900 text-xs space-y-2';
         feedbackBox.innerHTML = `
           <div class="flex items-center justify-between gap-2">
             <span class="font-extrabold text-sm text-teal-800">🎉 Chính xác! (+10 điểm)</span>
             <button type="button" id="quizStarBtn" onclick="toggleStar(currentQuizItem.id)"></button>
           </div>
           ${readingHtml}
+          ${hanVietHtml}
           ${exampleHtml}
         `;
       } else {
         quizStreak = 0;
-        feedbackBox.className = 'p-4 rounded-2xl border border-rose-200 bg-rose-50 text-rose-900 text-xs space-y-2.5';
+        feedbackBox.className = 'h-full overflow-y-auto p-3.5 sm:p-4 rounded-2xl border border-rose-200 bg-rose-50 text-rose-900 text-xs space-y-2';
         feedbackBox.innerHTML = `
           <div class="flex items-center justify-between gap-2">
             <span class="font-extrabold text-sm text-rose-700">❌ Chưa đúng rồi!</span>
@@ -1039,6 +1147,7 @@
           </div>
           <div>Đáp án đúng: <b class="text-teal-800">${escapeHtml(correct)}</b></div>
           ${readingHtml}
+          ${hanVietHtml}
           ${exampleHtml}
         `;
       }
