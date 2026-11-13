@@ -75,32 +75,34 @@
   <!-- ========================================== -->
   <!-- HERO BANNER -->
   <!-- ========================================== -->
-  <section class="w-full px-4 sm:px-6 lg:px-8 pt-6 pb-2">
-    <div class="bg-gradient-to-r from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-8 text-white shadow-xl relative overflow-hidden">
-      <div class="absolute -right-10 -bottom-10 opacity-10 text-9xl font-extrabold select-none pointer-events-none">N2</div>
+  <section class="w-full px-4 sm:px-6 lg:px-8 pt-3 pb-1">
+    <div class="bg-gradient-to-r from-teal-900 to-slate-900 rounded-2xl px-5 py-3.5 text-white shadow-lg relative overflow-hidden">
+      <div class="absolute -right-6 -bottom-8 opacity-10 text-8xl font-extrabold select-none pointer-events-none">N2</div>
       
-      <div class="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
-        <div>
-          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 border border-teal-400/30 text-xs font-bold tracking-wider mb-3">
-            🚀 CHIẾN DỊCH 28 NGÀY NƯỚC RÚT JLPT N2 (12/2026)
+      <div class="relative z-10 flex flex-col lg:flex-row lg:items-center justify-between gap-3.5">
+        <div class="min-w-0">
+          <div class="flex flex-wrap items-center gap-2 mb-1">
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-teal-500/20 text-teal-300 border border-teal-400/30 text-[11px] font-bold tracking-wider">
+              🚀 N2 NƯỚC RÚT · 28 NGÀY (09/11 → 06/12)
+            </span>
           </div>
-          <h2 class="text-2xl sm:text-3xl font-extrabold tracking-tight">
+          <h2 class="text-lg sm:text-xl font-extrabold tracking-tight leading-snug">
             Tổng Hợp 1,044 Mục Đề Thi Thật (2010 – 2024)
           </h2>
-          <p class="text-sm text-slate-300 max-w-2xl mt-2 leading-relaxed">
-            Phân bổ khoa học từng ngày bắt đầu từ <strong class="text-amber-300">Thứ Hai (09/11)</strong> đến <strong class="text-amber-300">Ngày Thi (06/12)</strong>. Đầy đủ 212 Kanji, 92 Ngữ pháp, 740 Từ vựng kèm tần suất ra đề, âm thanh phát âm và trắc nghiệm phản xạ.
+          <p class="text-xs text-slate-300 mt-0.5 leading-relaxed">
+            212 Kanji · 92 Ngữ pháp · 740 Từ vựng kèm tần suất ra đề, phát âm và trắc nghiệm phản xạ.
           </p>
         </div>
 
         <!-- Global Stats & Countdown -->
-        <div class="flex flex-col sm:flex-row md:flex-col gap-3 min-w-[220px]">
-          <div class="bg-slate-800/80 backdrop-blur rounded-2xl p-3 border border-slate-700/80">
-            <div class="text-[11px] text-slate-400">⏳ Đếm ngược ngày thi (06/12):</div>
-            <div id="countdownDisplay" class="text-lg font-bold font-mono text-amber-400 mt-0.5">-- ngày --:--</div>
+        <div class="flex flex-wrap sm:flex-nowrap items-stretch gap-2.5 shrink-0">
+          <div class="bg-slate-800/80 backdrop-blur rounded-xl px-3.5 py-2 border border-slate-700/80 flex flex-col justify-center min-w-[165px]">
+            <div class="text-[11px] text-slate-400">⏳ Đếm ngược (06/12):</div>
+            <div id="countdownDisplay" class="text-sm sm:text-base font-bold font-mono text-amber-400 mt-0.5">-- ngày --:--</div>
           </div>
           
-          <div class="bg-slate-800/80 backdrop-blur rounded-2xl p-3 border border-slate-700/80">
-            <div class="flex items-center justify-between text-[11px] text-slate-400 mb-1">
+          <div class="bg-slate-800/80 backdrop-blur rounded-xl px-3.5 py-2 border border-slate-700/80 flex flex-col justify-center min-w-[190px]">
+            <div class="flex items-center justify-between gap-3 text-[11px] text-slate-400 mb-1.5">
               <span>Tiến độ tổng:</span>
               <span id="globalProgressText" class="font-bold text-teal-300">0/1044 (0%)</span>
             </div>
@@ -116,7 +118,7 @@
   <!-- ========================================== -->
   <!-- NAVIGATION TABS -->
   <!-- ========================================== -->
-  <div class="w-full px-4 sm:px-6 lg:px-8 py-3">
+  <div class="w-full px-4 sm:px-6 lg:px-8 py-2">
     <div class="flex items-center gap-2 overflow-x-auto pb-1 border-b border-slate-200">
       <button onclick="switchTab('day')" id="tabBtn-day" class="tab-btn px-4 py-2 rounded-xl text-xs font-bold transition-all bg-teal-700 text-white shadow-sm flex items-center gap-1.5">
         📅 Lộ Trình Ngày
@@ -139,7 +141,7 @@
   <!-- ========================================== -->
   <!-- MAIN CONTENT CONTAINER -->
   <!-- ========================================== -->
-  <main class="w-full px-4 sm:px-6 lg:px-8 py-2 flex-1 space-y-5">
+  <main class="w-full px-4 sm:px-6 lg:px-8 pt-1 pb-6 flex-1 space-y-4">
 
     <!-- TAB 1: DAY SCHEDULE -->
     <div id="tabContent-day" class="space-y-4">
@@ -199,96 +201,177 @@
     </div>
 
     <!-- TAB 2: FLASHCARD -->
-    <div id="tabContent-flashcard" class="hidden space-y-4 max-w-2xl mx-auto py-4">
-      <div class="flex items-center justify-between text-xs text-slate-500">
-        <div>Bộ thẻ: <span id="fcModeLabel" class="font-bold text-slate-900">Ngày 1</span></div>
-        <div>Thẻ: <span id="fcCurrentIndex" class="font-bold text-teal-700">1</span> / <span id="fcTotalCount">0</span></div>
-        <div class="flex gap-2">
-          <button onclick="changeFcScope('day')" class="hover:text-teal-700 underline">Theo ngày</button>
-          <button onclick="changeFcScope('all')" class="hover:text-teal-700 underline">Tất cả</button>
-          <button onclick="changeFcScope('starred')" class="hover:text-teal-700 underline">Từ đã lưu ⭐</button>
-        </div>
-      </div>
-
-      <div class="perspective-1000 w-full h-80 cursor-pointer" onclick="flipCard()">
-        <div id="flashcardInner" class="transform-style-3d card-transition relative w-full h-full rounded-3xl border border-slate-200 shadow-xl bg-white">
-          <!-- FRONT FACE -->
-          <div class="backface-hidden absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
-            <div class="flex items-center gap-2 mb-4">
-              <span id="fcBadgeType" class="text-xs px-2.5 py-0.5 rounded-full bg-teal-50 text-teal-800 border border-teal-200 font-semibold">Kanji</span>
-              <span id="fcBadgeFreq" class="text-xs px-2.5 py-0.5 rounded-full bg-rose-50 text-rose-700 border border-rose-200 font-semibold">🔥 2 lần</span>
-            </div>
-            <div id="fcWord" class="text-4xl font-extrabold tracking-wide mb-3 text-slate-900" style="font-family: var(--font-ja);">
-              省略
-            </div>
-            <div class="text-xs text-slate-400 flex items-center gap-1.5 mt-2">
-              <span>(Click hoặc nhấn Space để lật thẻ)</span>
-              <button onclick="event.stopPropagation(); speakWord(currentFcItem.word)" class="p-1 hover:text-teal-700" title="Phát âm tiếng Nhật">🔊</button>
+    <div id="tabContent-flashcard" class="hidden max-w-6xl mx-auto py-1">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-stretch">
+        <!-- Left: Flip Card + Navigation -->
+        <div class="lg:col-span-8 flex flex-col gap-3">
+          <div class="flex items-center justify-between text-xs text-slate-500 px-1">
+            <div>Bộ thẻ: <span id="fcModeLabel" class="font-bold text-slate-900">Ngày 1</span></div>
+            <div class="flex items-center gap-3">
+              <span>Thẻ: <span id="fcCurrentIndex" class="font-bold text-teal-700">1</span> / <span id="fcTotalCount">0</span></span>
+              <button onclick="if(currentFcItem) speakWord(currentFcItem.word)" class="px-2.5 py-1 rounded-lg bg-white border border-slate-200 hover:border-teal-600 text-slate-700 hover:text-teal-700 font-medium transition-colors cursor-pointer" title="Phát âm tiếng Nhật">🔊 Nghe</button>
             </div>
           </div>
 
-          <!-- BACK FACE -->
-          <div class="backface-hidden rotate-y-180 absolute inset-0 flex flex-col justify-between p-6 bg-slate-50 rounded-3xl overflow-y-auto">
-            <div class="text-center">
-              <div id="fcReading" class="text-lg font-bold text-teal-800 mb-1" style="font-family: var(--font-ja);">しょうりゃく</div>
-              <div id="fcMeaning" class="text-base font-semibold text-slate-900">cắt bỏ, giản lược</div>
-            </div>
-            
-            <div id="fcExampleBox" class="bg-white rounded-2xl p-3.5 border border-slate-200 text-left text-xs space-y-1 my-2 shadow-sm">
-              <div class="font-medium text-slate-800 flex items-center justify-between" style="font-family: var(--font-ja);">
-                <span id="fcExample">省略の詳細は省略されました。</span>
-                <button onclick="event.stopPropagation(); speakWord(currentFcItem.example)" class="text-xs hover:text-teal-700 p-0.5">🔊</button>
+          <div class="perspective-1000 w-full h-72 sm:h-80 cursor-pointer" onclick="flipCard()">
+            <div id="flashcardInner" class="transform-style-3d card-transition relative w-full h-full rounded-3xl border border-slate-200 shadow-lg bg-white">
+              <!-- FRONT FACE -->
+              <div class="backface-hidden absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
+                <div class="flex items-center gap-2 mb-4">
+                  <span id="fcBadgeType" class="text-xs px-2.5 py-0.5 rounded-full bg-teal-50 text-teal-800 border border-teal-200 font-semibold">Kanji</span>
+                  <span id="fcBadgeFreq" class="text-xs px-2.5 py-0.5 rounded-full bg-rose-50 text-rose-700 border border-rose-200 font-semibold">🔥 2 lần</span>
+                </div>
+                <div id="fcWord" class="text-4xl sm:text-5xl font-extrabold tracking-wide mb-3 text-slate-900" style="font-family: var(--font-ja);">
+                  省略
+                </div>
+                <div class="text-xs text-slate-400 flex items-center gap-1.5 mt-2">
+                  <span>(Click hoặc nhấn Space để lật thẻ)</span>
+                  <button onclick="event.stopPropagation(); speakWord(currentFcItem.word)" class="p-1 hover:text-teal-700 cursor-pointer" title="Phát âm tiếng Nhật">🔊</button>
+                </div>
               </div>
-              <div id="fcExampleMeaning" class="text-slate-500">Chi tiết của nó đã được lược bỏ.</div>
-            </div>
 
-            <div class="flex items-center justify-between text-xs text-slate-500 pt-2 border-t border-slate-200">
-              <button onclick="event.stopPropagation(); toggleStar(currentFcItem.id)" id="fcStarBtn" class="hover:text-amber-500">⭐ Đánh dấu từ khó</button>
-              <span>Phím: ← Trước | Sau →</span>
+              <!-- BACK FACE -->
+              <div class="backface-hidden rotate-y-180 absolute inset-0 flex flex-col justify-between p-6 bg-slate-50 rounded-3xl overflow-y-auto">
+                <div class="text-center">
+                  <div id="fcReading" class="text-lg font-bold text-teal-800 mb-1" style="font-family: var(--font-ja);">しょうりゃく</div>
+                  <div id="fcMeaning" class="text-base sm:text-lg font-semibold text-slate-900">cắt bỏ, giản lược</div>
+                </div>
+                
+                <div id="fcExampleBox" class="bg-white rounded-2xl p-4 border border-slate-200 text-left text-xs space-y-1.5 my-2 shadow-sm">
+                  <div class="font-medium text-slate-800 flex items-center justify-between gap-2 text-sm" style="font-family: var(--font-ja);">
+                    <span id="fcExample">省略の詳細は省略されました。</span>
+                    <button onclick="event.stopPropagation(); speakWord(currentFcItem.example)" class="text-xs hover:text-teal-700 p-1 shrink-0 cursor-pointer">🔊</button>
+                  </div>
+                  <div id="fcExampleMeaning" class="text-slate-500">Chi tiết của nó đã được lược bỏ.</div>
+                </div>
+
+                <div class="flex items-center justify-between text-xs text-slate-500 pt-2 border-t border-slate-200">
+                  <span>Nhấn Space để lật lại mặt trước</span>
+                  <span>Phím: ← Trước | Sau →</span>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
 
-      <div class="flex items-center justify-between gap-3 pt-2">
-        <button onclick="prevFc()" class="flex-1 py-2.5 rounded-xl border border-slate-300 bg-white text-xs font-semibold hover:bg-slate-50 transition-colors shadow-sm">
-          ← Thẻ Trước
-        </button>
-        <button onclick="markFcMastered()" class="flex-1 py-2.5 rounded-xl bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold transition-colors shadow">
-          ✅ Đã Nhớ (Xong)
-        </button>
-        <button onclick="nextFc()" class="flex-1 py-2.5 rounded-xl border border-slate-300 bg-white text-xs font-semibold hover:bg-slate-50 transition-colors shadow-sm">
-          Thẻ Sau →
-        </button>
+          <div class="flex items-center justify-between gap-3">
+            <button onclick="prevFc()" class="flex-1 py-3 rounded-2xl border border-slate-300 bg-white text-xs font-semibold hover:bg-slate-50 transition-colors shadow-sm cursor-pointer">
+              ← Thẻ Trước
+            </button>
+            <button onclick="markFcMastered()" class="flex-1 py-3 rounded-2xl bg-teal-700 hover:bg-teal-800 text-white text-xs font-bold transition-colors shadow-md cursor-pointer">
+              ✅ Đã Nhớ (Xong)
+            </button>
+            <button onclick="nextFc()" class="flex-1 py-3 rounded-2xl border border-slate-300 bg-white text-xs font-semibold hover:bg-slate-50 transition-colors shadow-sm cursor-pointer">
+              Thẻ Sau →
+            </button>
+          </div>
+        </div>
+
+        <!-- Right: Scope, Quick Star & Shortcuts -->
+        <div class="lg:col-span-4 bg-white border border-slate-200 rounded-3xl p-5 shadow-sm flex flex-col justify-between gap-4">
+          <div class="space-y-4">
+            <div>
+              <div class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mb-2">Phạm vi thẻ học</div>
+              <div class="grid grid-cols-3 gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs">
+                <button onclick="changeFcScope('day')" id="fcScope-day" class="py-1.5 px-2 rounded-lg font-semibold bg-white text-slate-900 shadow-sm cursor-pointer">Theo ngày</button>
+                <button onclick="changeFcScope('all')" id="fcScope-all" class="py-1.5 px-2 rounded-lg font-medium text-slate-600 hover:text-slate-900 cursor-pointer">Tất cả</button>
+                <button onclick="changeFcScope('starred')" id="fcScope-starred" class="py-1.5 px-2 rounded-lg font-medium text-slate-600 hover:text-slate-900 cursor-pointer">Từ khó ⭐</button>
+              </div>
+            </div>
+
+            <div class="p-3.5 rounded-2xl bg-slate-50 border border-slate-200 flex items-center justify-between gap-2">
+              <div class="text-xs text-slate-600">Đánh dấu cần ôn thêm:</div>
+              <button onclick="if(currentFcItem) toggleStar(currentFcItem.id)" id="fcStarBtn" class="px-3 py-1.5 rounded-xl border border-slate-200 bg-white text-xs font-semibold text-slate-700 hover:text-amber-600 hover:border-amber-300 transition-colors cursor-pointer">☆ Lưu từ khó</button>
+            </div>
+          </div>
+
+          <div class="p-3.5 rounded-2xl bg-teal-50/60 border border-teal-100 text-xs text-slate-600 space-y-1.5">
+            <div class="font-bold text-teal-900">⌨️ Phím tắt nhanh</div>
+            <div class="flex justify-between"><span>Lật thẻ</span><kbd class="px-2 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">Space</kbd></div>
+            <div class="flex justify-between"><span>Thẻ trước / sau</span><kbd class="px-2 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">← / →</kbd></div>
+            <div class="flex justify-between"><span>Đánh dấu đã nhớ</span><kbd class="px-2 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">↑</kbd></div>
+          </div>
+        </div>
       </div>
     </div>
 
     <!-- TAB 3: QUIZ -->
-    <div id="tabContent-quiz" class="hidden space-y-4 max-w-xl mx-auto py-4">
-      <div class="bg-white border border-slate-200 rounded-3xl p-6 shadow-xl">
-        <div class="flex items-center justify-between text-xs text-slate-500 mb-4">
-          <div class="flex items-center gap-2">
-            <span class="px-2.5 py-0.5 rounded-full bg-indigo-50 text-indigo-700 border border-indigo-200 font-medium">Trắc Nghiệm Phản Xạ</span>
-            <span id="quizScopeLabel" class="text-xs">Ngày 1</span>
+    <div id="tabContent-quiz" class="hidden max-w-7xl mx-auto py-1">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-stretch">
+        <!-- Left Panel: Question & 2x2 Options -->
+        <div class="lg:col-span-7 bg-white border border-slate-200 rounded-3xl p-5 sm:p-6 shadow-sm flex flex-col justify-between gap-4">
+          <div class="flex items-center justify-between gap-2 flex-wrap">
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-0.5 rounded-full bg-indigo-50 text-indigo-700 border border-indigo-200 text-xs font-semibold">Trắc Nghiệm Phản Xạ</span>
+              <span id="quizScopeLabel" class="text-xs font-semibold text-slate-600">Ngày 1</span>
+            </div>
+            <div class="flex items-center gap-1.5">
+              <span id="quizCategoryBadge" class="text-xs px-2.5 py-0.5 rounded-full bg-teal-50 text-teal-800 border border-teal-200 font-semibold">Kanji</span>
+              <span id="quizFreqBadge" class="hidden text-xs px-2.5 py-0.5 rounded-full bg-rose-50 text-rose-700 border border-rose-200 font-semibold">🔥 2 lần</span>
+            </div>
           </div>
+
+          <div class="text-center py-3 sm:py-5 flex-1 flex flex-col items-center justify-center">
+            <div id="quizPromptWord" class="text-4xl sm:text-5xl font-extrabold text-slate-900 tracking-wide my-1" style="font-family: var(--font-ja);">腕</div>
+            <div id="quizPromptHint" class="text-xs text-slate-500 mt-1.5">Chọn nghĩa hoặc cách đọc đúng nhất (phím 1–4):</div>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" id="quizOptionsContainer"></div>
+        </div>
+
+        <!-- Right Panel: Stats, Feedback & Next Action (Zero Scroll) -->
+        <div class="lg:col-span-5 bg-white border border-slate-200 rounded-3xl p-5 sm:p-6 shadow-sm flex flex-col justify-between gap-4">
+          <!-- Scope & Stats -->
+          <div class="space-y-3">
+            <div class="grid grid-cols-3 gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs">
+              <button onclick="changeQuizScope('day')" id="quizScope-day" class="py-1.5 px-2 rounded-lg font-semibold bg-white text-slate-900 shadow-sm cursor-pointer">Theo ngày</button>
+              <button onclick="changeQuizScope('all')" id="quizScope-all" class="py-1.5 px-2 rounded-lg font-medium text-slate-600 hover:text-slate-900 cursor-pointer">Tất cả (1,044)</button>
+              <button onclick="changeQuizScope('starred')" id="quizScope-starred" class="py-1.5 px-2 rounded-lg font-medium text-slate-600 hover:text-slate-900 cursor-pointer">Từ khó ⭐</button>
+            </div>
+
+            <div class="grid grid-cols-3 gap-2 text-center">
+              <div class="rounded-2xl bg-slate-50 border border-slate-200 px-3 py-2">
+                <div class="text-[11px] text-slate-500">Điểm</div>
+                <div id="quizScore" class="text-base font-extrabold text-teal-700">0</div>
+              </div>
+              <div class="rounded-2xl bg-slate-50 border border-slate-200 px-3 py-2">
+                <div class="text-[11px] text-slate-500">Streak</div>
+                <div id="quizStreak" class="text-base font-extrabold text-amber-600">🔥 0</div>
+              </div>
+              <div class="rounded-2xl bg-slate-50 border border-slate-200 px-3 py-2">
+                <div class="text-[11px] text-slate-500">Đúng / Câu</div>
+                <div id="quizAccuracy" class="text-base font-extrabold text-slate-800">0/0</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Feedback Slot (Fixed presence, zero layout jump) -->
+          <div class="flex-1 flex flex-col justify-center">
+            <div id="quizPlaceholderBox" class="p-4 rounded-2xl border border-dashed border-slate-200 bg-slate-50/70 text-xs text-slate-500 space-y-2">
+              <div class="font-semibold text-slate-700">⚡ Sẵn sàng trả lời</div>
+              <p class="leading-relaxed">Chọn đáp án ở khung bên trái (hoặc nhấn phím <kbd class="px-1.5 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">1</kbd>–<kbd class="px-1.5 py-0.5 rounded bg-white border border-slate-200 font-mono text-[11px]">4</kbd>). Kết quả, cách đọc và ví dụ sẽ hiện ngay tại đây.</p>
+            </div>
+            <div id="quizFeedbackBox" class="hidden p-4 rounded-2xl border text-xs space-y-2"></div>
+          </div>
+
+          <!-- Action Bar -->
           <div>
-            Điểm: <span id="quizScore" class="font-bold text-teal-700">0</span> | Streak: <span id="quizStreak" class="font-bold text-amber-600">🔥 0</span>
+            <div id="quizSkipWrap">
+              <button type="button" id="quizSkipBtn" onclick="generateNewQuizQuestion()" class="w-full py-3 px-4 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-slate-100 text-slate-600 font-semibold text-xs flex items-center justify-center gap-2 transition-all cursor-pointer">
+                <span>Đổi câu khác</span>
+                <span>↻</span>
+              </button>
+            </div>
+            <div id="quizNextWrap" class="hidden">
+              <button type="button" id="quizNextBtn" onclick="generateNewQuizQuestion()" class="w-full py-3.5 px-5 rounded-2xl bg-teal-700 hover:bg-teal-800 active:scale-[0.99] text-white font-bold text-sm shadow-md flex items-center justify-between transition-all cursor-pointer">
+                <span class="flex items-center gap-2">
+                  <span>Câu Tiếp Theo</span>
+                  <span aria-hidden="true">→</span>
+                </span>
+                <kbd class="px-2 py-0.5 rounded-lg bg-teal-900/50 border border-teal-500/40 text-[11px] font-mono font-medium text-teal-100">Enter / Space</kbd>
+              </button>
+            </div>
           </div>
         </div>
-
-        <div class="text-center py-4">
-          <span id="quizCategoryBadge" class="text-xs px-2.5 py-0.5 rounded-full bg-teal-50 text-teal-800 font-semibold mb-2 inline-block">Kanji</span>
-          <div id="quizPromptWord" class="text-3xl font-extrabold text-slate-900 tracking-wide my-2" style="font-family: var(--font-ja);">腕</div>
-          <div id="quizPromptHint" class="text-xs text-slate-500">Chọn nghĩa hoặc cách đọc đúng nhất:</div>
-        </div>
-
-        <div class="grid grid-cols-1 gap-2.5 my-4" id="quizOptionsContainer"></div>
-
-        <div id="quizFeedbackBox" class="hidden mt-4 p-3.5 rounded-2xl border text-xs"></div>
-
-        <button id="quizNextBtn" onclick="generateNewQuizQuestion()" class="hidden w-full mt-4 py-3.5 rounded-2xl bg-teal-700 hover:bg-teal-800 text-white font-bold text-xs transition-all shadow-md flex items-center justify-center gap-2 cursor-pointer">
-          <span>Câu Tiếp Theo</span> <span>→</span>
-        </button>
       </div>
     </div>
 
@@ -354,15 +437,29 @@
     let completedSet = new Set(JSON.parse(localStorage.getItem('nihongoshiken_sprint_done_v1') || '[]'));
     let starredSet = new Set(JSON.parse(localStorage.getItem('nihongoshiken_sprint_star_v1') || '[]'));
 
+    let fcScope = 'day';
     let fcList = [];
     let fcIndex = 0;
     let fcFlipped = false;
     let currentFcItem = null;
 
+    let quizScope = 'day';
     let quizScore = 0;
     let quizStreak = 0;
+    let quizTotal = 0;
+    let quizCorrectCount = 0;
     let currentQuizItem = null;
     let quizLocked = false;
+    let quizOptionButtons = [];
+
+    function escapeHtml(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
 
     window.addEventListener('DOMContentLoaded', () => {
       updateCountdown();
@@ -420,7 +517,7 @@
         else el.classList.add('hidden');
       });
 
-      if (tabId === 'flashcard') initFlashcards('day');
+      if (tabId === 'flashcard') initFlashcards(fcScope);
       if (tabId === 'quiz') generateNewQuizQuestion();
       if (tabId === 'all') renderLibrary();
       if (tabId === 'starred') renderStarred();
@@ -611,9 +708,12 @@
       if (currentTab === 'day') renderDayItems();
       if (currentTab === 'all') renderLibrary();
       if (currentTab === 'starred') renderStarred();
+      if (currentTab === 'flashcard' && currentFcItem && currentFcItem.id === id) updateFcStarBtn();
+      if (currentTab === 'quiz' && currentQuizItem && currentQuizItem.id === id) updateQuizStarBtn();
     }
 
     function speakWord(text) {
+      if (!text) return;
       if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel();
         const u = new SpeechSynthesisUtterance(text);
@@ -623,11 +723,55 @@
       }
     }
 
+    function speakQuizText(field) {
+      if (!currentQuizItem) return;
+      speakWord(currentQuizItem[field] || '');
+    }
+
+    function syncScopePills(prefix, activeScope) {
+      ['day', 'all', 'starred'].forEach(s => {
+        const btn = document.getElementById(`${prefix}-${s}`);
+        if (!btn) return;
+        if (s === activeScope) {
+          btn.className = 'py-1.5 px-2 rounded-lg font-semibold bg-white text-slate-900 shadow-sm cursor-pointer';
+        } else {
+          btn.className = 'py-1.5 px-2 rounded-lg font-medium text-slate-600 hover:text-slate-900 cursor-pointer';
+        }
+      });
+    }
+
+    function updateFcStarBtn() {
+      const starBtn = document.getElementById('fcStarBtn');
+      if (!starBtn || !currentFcItem) return;
+      if (starredSet.has(currentFcItem.id)) {
+        starBtn.innerText = '★ Đã lưu từ khó';
+        starBtn.className = 'px-3 py-1.5 rounded-xl border border-amber-300 bg-amber-50 text-xs font-bold text-amber-600 transition-colors cursor-pointer';
+      } else {
+        starBtn.innerText = '☆ Lưu từ khó';
+        starBtn.className = 'px-3 py-1.5 rounded-xl border border-slate-200 bg-white text-xs font-semibold text-slate-700 hover:text-amber-600 hover:border-amber-300 transition-colors cursor-pointer';
+      }
+    }
+
+    function updateQuizStarBtn() {
+      const starBtn = document.getElementById('quizStarBtn');
+      if (!starBtn || !currentQuizItem) return;
+      if (starredSet.has(currentQuizItem.id)) {
+        starBtn.innerText = '★ Đã lưu từ khó';
+        starBtn.className = 'px-2.5 py-1 rounded-lg border border-amber-300 bg-amber-50 text-[11px] font-bold text-amber-600 cursor-pointer';
+      } else {
+        starBtn.innerText = '☆ Lưu từ khó';
+        starBtn.className = 'px-2.5 py-1 rounded-lg border border-slate-200 bg-white text-[11px] font-semibold text-slate-600 hover:text-amber-600 hover:border-amber-300 cursor-pointer';
+      }
+    }
+
     function initFlashcards(scope) {
-      if (scope === 'day') {
+      fcScope = scope || 'day';
+      syncScopePills('fcScope', fcScope);
+
+      if (fcScope === 'day') {
         fcList = STUDY_DATA.filter(it => it.day === currentDay);
         document.getElementById('fcModeLabel').innerText = `Ngày ${currentDay}`;
-      } else if (scope === 'starred') {
+      } else if (fcScope === 'starred') {
         fcList = STUDY_DATA.filter(it => starredSet.has(it.id));
         document.getElementById('fcModeLabel').innerText = `Từ đã lưu (${fcList.length})`;
       } else {
@@ -636,7 +780,15 @@
       }
 
       if (fcList.length === 0) {
-        fcList = STUDY_DATA.filter(it => it.day === currentDay);
+        const dayFallback = STUDY_DATA.filter(it => it.day === currentDay);
+        fcList = dayFallback.length > 0 ? dayFallback : [...STUDY_DATA];
+        if (fcScope === 'starred') {
+          document.getElementById('fcModeLabel').innerText = dayFallback.length > 0
+            ? `Chưa có từ khó · Ngày ${currentDay}`
+            : `Chưa có từ khó · Toàn bộ (1,044)`;
+        } else if (dayFallback.length === 0) {
+          document.getElementById('fcModeLabel').innerText = `Ngày ${currentDay} (Tổng ôn · Toàn bộ)`;
+        }
       }
 
       fcIndex = 0;
@@ -666,14 +818,7 @@
       document.getElementById('fcExample').innerText = currentFcItem.example || '';
       document.getElementById('fcExampleMeaning').innerText = currentFcItem.exampleMeaning || '';
 
-      const starBtn = document.getElementById('fcStarBtn');
-      if (starredSet.has(currentFcItem.id)) {
-        starBtn.innerText = '★ Đã lưu từ khó';
-        starBtn.className = 'text-amber-500 font-bold';
-      } else {
-        starBtn.innerText = '☆ Đánh dấu từ khó';
-        starBtn.className = 'hover:text-amber-500';
-      }
+      updateFcStarBtn();
     }
 
     function flipCard() {
@@ -706,43 +851,92 @@
     }
 
     function startDayFlashcard() {
+      fcScope = 'day';
       switchTab('flashcard');
-      initFlashcards('day');
     }
 
     function startStarredFlashcard() {
+      fcScope = 'starred';
       switchTab('flashcard');
-      initFlashcards('starred');
     }
 
     function startDayQuiz() {
+      quizScope = 'day';
       switchTab('quiz');
+    }
+
+    function changeQuizScope(scope) {
+      quizScope = scope;
       generateNewQuizQuestion();
     }
 
-        function generateNewQuizQuestion() {
+    function generateNewQuizQuestion() {
       quizLocked = false;
-      document.getElementById('quizFeedbackBox').className = 'hidden';
-      document.getElementById('quizNextBtn').className = 'hidden';
+      quizOptionButtons = [];
+      syncScopePills('quizScope', quizScope);
+
+      document.getElementById('quizPlaceholderBox').classList.remove('hidden');
+      const feedbackBox = document.getElementById('quizFeedbackBox');
+      feedbackBox.className = 'hidden p-4 rounded-2xl border text-xs space-y-2';
+      feedbackBox.innerHTML = '';
+
+      document.getElementById('quizSkipWrap').classList.remove('hidden');
+      document.getElementById('quizNextWrap').classList.add('hidden');
 
       // Ensure valid pool with clean meanings
       const validPool = STUDY_DATA.filter(it => it.meaning && it.meaning.trim().length >= 2 && !['（', '(', ')', '）'].includes(it.meaning.trim()));
-      
-      const dayPool = validPool.filter(it => it.day === currentDay);
-      const pool = dayPool.length >= 4 ? dayPool : validPool;
 
-      const target = pool[Math.floor(Math.random() * pool.length)];
+      let pool = validPool;
+      let scopeLabel = 'Toàn bộ (1,044)';
+      if (quizScope === 'day') {
+        const dayPool = validPool.filter(it => it.day === currentDay);
+        if (dayPool.length >= 1) {
+          pool = dayPool;
+          scopeLabel = `Ngày ${currentDay} (${dayPool.length} mục)`;
+        }
+      } else if (quizScope === 'starred') {
+        const starredPool = validPool.filter(it => starredSet.has(it.id));
+        if (starredPool.length >= 1) {
+          pool = starredPool;
+          scopeLabel = `Từ khó (${starredPool.length})`;
+        } else {
+          scopeLabel = `Chưa có từ khó · Toàn bộ`;
+        }
+      }
+
+      let candidates = pool;
+      if (currentQuizItem && pool.length > 1) {
+        candidates = pool.filter(it => it.id !== currentQuizItem.id);
+      }
+      const target = candidates[Math.floor(Math.random() * candidates.length)];
       currentQuizItem = target;
 
-      document.getElementById('quizScopeLabel').innerText = `Ngày ${currentDay}`;
+      document.getElementById('quizScopeLabel').innerText = scopeLabel;
       document.getElementById('quizCategoryBadge').innerText = target.subType;
-      document.getElementById('quizPromptWord').innerText = target.word;
 
-      // Create 3 clean distractors
+      const freqBadge = document.getElementById('quizFreqBadge');
+      if (target.count > 1) {
+        freqBadge.innerText = `🔥 ${target.count} lần`;
+        freqBadge.classList.remove('hidden');
+      } else {
+        freqBadge.classList.add('hidden');
+      }
+
+      const promptEl = document.getElementById('quizPromptWord');
+      promptEl.innerText = target.word;
+      promptEl.className = target.word.length > 7
+        ? 'text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-wide my-1'
+        : 'text-4xl sm:text-5xl font-extrabold text-slate-900 tracking-wide my-1';
+
+      // Create 3 clean distractors, preferring the same item type
       const distractors = [];
-      const distPool = validPool.filter(it => it.id !== target.id && it.meaning !== target.meaning);
-      
-      const shuffledDist = [...distPool].sort(() => Math.random() - 0.5);
+      const sameTypePool = validPool.filter(it => it.id !== target.id && it.meaning !== target.meaning && it.file === target.file);
+      const otherTypePool = validPool.filter(it => it.id !== target.id && it.meaning !== target.meaning && it.file !== target.file);
+      const shuffledDist = [
+        ...[...sameTypePool].sort(() => Math.random() - 0.5),
+        ...[...otherTypePool].sort(() => Math.random() - 0.5)
+      ];
+
       for (const d of shuffledDist) {
         if (!distractors.includes(d.meaning) && d.meaning !== target.meaning) {
           distractors.push(d.meaning);
@@ -754,12 +948,25 @@
       const optContainer = document.getElementById('quizOptionsContainer');
       optContainer.innerHTML = '';
 
-      options.forEach(opt => {
+      options.forEach((opt, idx) => {
         const btn = document.createElement('button');
-        btn.className = 'w-full text-left p-3.5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-slate-100 text-xs font-medium transition-all text-slate-800 cursor-pointer shadow-sm';
-        btn.innerText = opt;
+        btn.type = 'button';
+        btn.dataset.opt = opt;
+        btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-teal-50/50 hover:border-teal-400 text-xs sm:text-[13px] font-medium transition-all text-slate-800 cursor-pointer shadow-sm flex items-center gap-3';
+
+        const keyBadge = document.createElement('span');
+        keyBadge.className = 'w-6 h-6 rounded-lg bg-white border border-slate-200 text-slate-500 font-bold text-[11px] flex items-center justify-center shrink-0';
+        keyBadge.innerText = String(idx + 1);
+
+        const label = document.createElement('span');
+        label.className = 'leading-snug flex-1';
+        label.innerText = opt;
+
+        btn.appendChild(keyBadge);
+        btn.appendChild(label);
         btn.onclick = () => handleQuizAnswer(opt, target.meaning, btn);
         optContainer.appendChild(btn);
+        quizOptionButtons.push(btn);
       });
     }
 
@@ -768,33 +975,82 @@
       quizLocked = true;
 
       const isCorrect = selected === correct;
+      quizTotal += 1;
+      if (isCorrect) quizCorrectCount += 1;
+
+      quizOptionButtons.forEach(btn => {
+        const opt = btn.dataset.opt;
+        const badge = btn.firstElementChild;
+        btn.disabled = true;
+
+        if (opt === correct) {
+          btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border-2 border-teal-500 bg-teal-50 text-teal-900 text-xs sm:text-[13px] font-bold transition-all shadow-sm flex items-center gap-3 cursor-default';
+          if (badge) badge.className = 'w-6 h-6 rounded-lg bg-teal-600 border border-teal-600 text-white font-bold text-[11px] flex items-center justify-center shrink-0';
+        } else if (btn === clickedBtn) {
+          btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border-2 border-rose-400 bg-rose-50 text-rose-800 text-xs sm:text-[13px] font-bold transition-all flex items-center gap-3 cursor-default';
+          if (badge) badge.className = 'w-6 h-6 rounded-lg bg-rose-500 border border-rose-500 text-white font-bold text-[11px] flex items-center justify-center shrink-0';
+        } else {
+          btn.className = 'w-full min-h-[64px] h-full text-left p-3.5 rounded-2xl border border-slate-200 bg-slate-50/70 text-slate-400 text-xs sm:text-[13px] font-medium opacity-65 flex items-center gap-3 cursor-default';
+        }
+      });
+
+      const placeholderBox = document.getElementById('quizPlaceholderBox');
       const feedbackBox = document.getElementById('quizFeedbackBox');
-      const nextBtn = document.getElementById('quizNextBtn');
+      placeholderBox.classList.add('hidden');
+
+      const readingHtml = currentQuizItem.reading
+        ? `<div class="flex items-center gap-2 flex-wrap">
+            <span>Cách đọc: <b class="text-slate-900 text-sm" style="font-family: var(--font-ja);">${escapeHtml(currentQuizItem.reading)}</b></span>
+            <button type="button" onclick="speakQuizText('word')" class="px-2 py-0.5 rounded-md bg-white border border-slate-200 hover:border-teal-500 text-[11px] text-slate-700 cursor-pointer" title="Nghe phát âm">🔊 Nghe</button>
+          </div>`
+        : `<div class="flex items-center gap-2">
+            <button type="button" onclick="speakQuizText('word')" class="px-2 py-0.5 rounded-md bg-white border border-slate-200 hover:border-teal-500 text-[11px] text-slate-700 cursor-pointer" title="Nghe phát âm">🔊 Nghe phát âm</button>
+          </div>`;
+
+      const exampleHtml = currentQuizItem.example
+        ? `<div class="p-2.5 rounded-xl bg-white/90 border border-slate-200/80 text-slate-700 space-y-1">
+            <div class="flex items-start justify-between gap-2" style="font-family: var(--font-ja);">
+              <span class="font-medium text-slate-900">${escapeHtml(currentQuizItem.example)}</span>
+              <button type="button" onclick="speakQuizText('example')" class="px-1.5 py-0.5 rounded bg-slate-50 border border-slate-200 hover:border-teal-500 text-[11px] shrink-0 cursor-pointer" title="Nghe câu ví dụ">🔊</button>
+            </div>
+            ${currentQuizItem.exampleMeaning ? `<div class="text-[11px] text-slate-500">${escapeHtml(currentQuizItem.exampleMeaning)}</div>` : ''}
+          </div>`
+        : '';
 
       if (isCorrect) {
         quizScore += 10;
         quizStreak += 1;
-        clickedBtn.className = 'w-full text-left p-3.5 rounded-2xl border border-teal-500 bg-teal-50 text-teal-800 text-xs font-bold';
-        feedbackBox.className = 'mt-4 p-3.5 rounded-2xl border border-teal-200 bg-teal-50 text-teal-800 text-xs';
+        feedbackBox.className = 'p-4 rounded-2xl border border-teal-200 bg-teal-50 text-teal-900 text-xs space-y-2.5';
         feedbackBox.innerHTML = `
-          <div class="font-bold">🎉 Chính xác! (+10 điểm)</div>
-          ${currentQuizItem.reading ? `<div>Cách đọc: <b>${currentQuizItem.reading}</b></div>` : ''}
-          ${currentQuizItem.example ? `<div class="mt-1 text-slate-700 italic">Ví dụ: ${currentQuizItem.example} (${currentQuizItem.exampleMeaning})</div>` : ''}
+          <div class="flex items-center justify-between gap-2">
+            <span class="font-extrabold text-sm text-teal-800">🎉 Chính xác! (+10 điểm)</span>
+            <button type="button" id="quizStarBtn" onclick="toggleStar(currentQuizItem.id)"></button>
+          </div>
+          ${readingHtml}
+          ${exampleHtml}
         `;
       } else {
         quizStreak = 0;
-        clickedBtn.className = 'w-full text-left p-3.5 rounded-2xl border border-rose-400 bg-rose-50 text-rose-700 text-xs font-bold';
-        feedbackBox.className = 'mt-4 p-3.5 rounded-2xl border border-rose-200 bg-rose-50 text-rose-700 text-xs';
+        feedbackBox.className = 'p-4 rounded-2xl border border-rose-200 bg-rose-50 text-rose-900 text-xs space-y-2.5';
         feedbackBox.innerHTML = `
-          <div class="font-bold">❌ Chưa đúng rồi!</div>
-          <div>Đáp án đúng: <b class="text-teal-800">${correct}</b></div>
-          ${currentQuizItem.reading ? `<div>Cách đọc: <b>${currentQuizItem.reading}</b></div>` : ''}
+          <div class="flex items-center justify-between gap-2">
+            <span class="font-extrabold text-sm text-rose-700">❌ Chưa đúng rồi!</span>
+            <button type="button" id="quizStarBtn" onclick="toggleStar(currentQuizItem.id)"></button>
+          </div>
+          <div>Đáp án đúng: <b class="text-teal-800">${escapeHtml(correct)}</b></div>
+          ${readingHtml}
+          ${exampleHtml}
         `;
       }
 
+      updateQuizStarBtn();
       document.getElementById('quizScore').innerText = quizScore;
       document.getElementById('quizStreak').innerText = `🔥 ${quizStreak}`;
-      nextBtn.classList.remove('hidden');
+      document.getElementById('quizAccuracy').innerText = `${quizCorrectCount}/${quizTotal}`;
+
+      document.getElementById('quizSkipWrap').classList.add('hidden');
+      document.getElementById('quizNextWrap').classList.remove('hidden');
+      if (clickedBtn && typeof clickedBtn.blur === 'function') clickedBtn.blur();
     }
 
     function renderLibrary() {
@@ -884,6 +1140,9 @@
 
     function setupKeyboard() {
       window.addEventListener('keydown', (e) => {
+        const tag = (e.target && e.target.tagName) ? e.target.tagName.toUpperCase() : '';
+        if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') return;
+
         if (currentTab === 'flashcard') {
           if (e.code === 'Space') {
             e.preventDefault();
@@ -894,6 +1153,20 @@
             prevFc();
           } else if (e.code === 'ArrowUp') {
             markFcMastered();
+          }
+        } else if (currentTab === 'quiz') {
+          if (!quizLocked && ['1', '2', '3', '4'].includes(e.key)) {
+            const idx = Number(e.key) - 1;
+            if (quizOptionButtons[idx]) {
+              e.preventDefault();
+              quizOptionButtons[idx].click();
+            }
+          } else if (quizLocked && (e.code === 'Enter' || e.code === 'Space')) {
+            e.preventDefault();
+            generateNewQuizQuestion();
+          } else if (e.key && e.key.toLowerCase() === 's' && currentQuizItem) {
+            e.preventDefault();
+            toggleStar(currentQuizItem.id);
           }
         }
       });
