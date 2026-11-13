@@ -555,7 +555,7 @@
     {
       "question_id": 43,
       "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
-      "question": "「さわら」という魚は、 漢字で「鰆」と書く ___ _★_ ___ ___ 魚の一つです。",
+      "question": "「さわら」という魚は、漢字で「鰆」と書く ___ _★_ ___ ___ 魚の一つです。",
       "options": [
         "ように",
         "わかる",
@@ -563,12 +563,12 @@
         "春を代表する"
       ],
       "correct_answer": 2,
-      "explanation": "Đáp án đúng: 3 · ことから\n\n【Câu hoàn chỉnh】\n「さわら」という魚は、漢字で「鰆」と書く【3. ことから】★【4. 春を代表する】魚の一つです。\n(Thứ tự đúng: 書く 1. ように $\\rightarrow$ 2. わかる $\\rightarrow$ 3. ことから ★ $\\rightarrow$ 4. 春を代表する)\nCá 'Sawara' từ việc chữ Hán viết là '鰆' (có bộ Xuân) mà được biết đến là một trong những loài cá đại diện cho mùa xuân.\n\n【Vị trí sao ★】: Vị trí số 3 ứng với phương án 3 (ことから) hoặc phân tích vị trí chính xác."
+      "explanation": "Đáp án đúng: 2 · わかる\n\n【Câu hoàn chỉnh】\n「さわら」という魚は、漢字で「鰆」と書く【ことから】【わかる（★）】【ように】【春を代表する】魚の一つです。\nThứ tự đúng: ことから → わかる → ように → 春を代表する\n\n【Dịch câu hỏi】\nNhư có thể thấy từ việc tên loài cá \"Sawara\" viết bằng chữ Hán là 「鰆」 (chữ Ngư ghép với chữ Xuân), đây là một trong những loài cá tiêu biểu cho mùa xuân.\n\n【Phân tích】\n• Cấu trúc: 「～ことからわかるように」 (Như có thể hiểu từ việc...).\n• Đứng sau động từ 「書く」 là 「ことから」 (vì/từ việc viết là 鰆) → đến 「わかる」 (vị trí ★, đáp án 2) → 「ように」 → 「春を代表する」 bổ nghĩa cho 「魚の一つです」."
     },
     {
       "question_id": 44,
       "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
-      "question": "会議での西山さんのプレゼンは、普段は なかなか___ ___ _★_ ___素晴らしかった。",
+      "question": "会議での西山さんのプレゼンは、普段はなかなか人を ___ ___ _★_ ___ 素晴らしかった。",
       "options": [
         "ぐらい",
         "部長が",
@@ -576,20 +576,20 @@
         "褒めることがない"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 1 · ぐらい\n\n【Câu hoàn chỉnh】\n普段はなかなか【2. 部長が】褒める【4. ことがない】★【1. ぐらい】素晴らしかった。\n(Thứ tự đúng: 2 $\\rightarrow$ 3 $\\rightarrow$ 4 $\\rightarrow$ 1)\nBài thuyết trình của Nishiyama tuyệt vời đến mức người khó tính như trưởng phòng bình thường hiếm khi khen mà cũng phải khen ngợi.\n\n【Vị trí sao ★】: Vị trí số 3 là phương án 4 hoặc 1 (phù hợp trật tự 部長が 褒める ことがない ぐらい)."
+      "explanation": "Đáp án đúng: 3 · 褒める\n\n【Câu hoàn chỉnh】\n会議での西山さんのプレゼンは、普段はなかなか人を【褒めることがない】【部長が】【褒める（★）】【ぐらい】素晴らしかった。\nThứ tự đúng: 褒めることがない → 部長が → 褒める → ぐらい\n\n【Dịch câu hỏi】\nBài thuyết trình của anh/chị Nishiyama trong cuộc họp tuyệt vời đến mức ngay cả trưởng phòng — người bình thường hiếm khi khen ngợi ai — cũng phải khen.\n\n【Phân tích】\n• Cụm định ngữ bổ nghĩa cho 「部長」: 「普段はなかなか人を褒めることがない部長」 (trưởng phòng bình thường chẳng mấy khi khen ai).\n• Cấu trúc mức độ: 「V-る + ぐらい」 (đến mức mà...). Vì vậy vị trí ★ ngay trước 「ぐらい」 phải là động từ 「褒める」 (đáp án 3)."
     },
     {
       "question_id": 45,
       "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
-      "question": "同じ高温 ___ ___ _★_ ___ は大きく変わる。",
+      "question": "同じ気温 ___ ___ _★_ ___ は大きく変わる。",
       "options": [
         "感じ方",
         "でも",
-        "温度や風の強さなど",
+        "湿度や風の強さなど",
         "によって"
       ],
       "correct_answer": 4,
-      "explanation": "Đáp án đúng: 4 · によって\n\n【Câu hoàn chỉnh】\n同じ高温【2. でも】温度や風の強さなど【4. によって】★【1. 感じ方】は大きく変わる。\n(Thứ tự đúng: 2 $\\rightarrow$ 3 $\\rightarrow$ 4 $\\rightarrow$ 1 hoặc tương ứng theo ngữ pháp).\nCùng là nhiệt độ cao, nhưng tùy theo độ ẩm hay độ mạnh của gió mà cảm nhận sẽ thay đổi rất nhiều."
+      "explanation": "Đáp án đúng: 4 · によって\n\n【Câu hoàn chỉnh】\n同じ気温【でも】【湿度や風の強さなど】【によって（★）】【感じ方】は大きく変わる。\nThứ tự đúng: でも → 湿度や風の強さなど → によって → 感じ方\n\n【Dịch câu hỏi】\nDù cùng một mức nhiệt độ, nhưng tùy theo độ ẩm hay sức gió... mà cách cảm nhận sẽ thay đổi rất nhiều.\n\n【Phân tích】\n• 「同じ気温でも」: Dù cùng một nhiệt độ đi nữa.\n• Cấu trúc 「N によって～が変わる」 (tùy theo N mà ~ thay đổi): 「湿度や風の強さなど」 + 「によって」 (vị trí ★, đáp án 4) + 「感じ方」 (chủ ngữ đi với trợ từ は)."
     },
     {
       "question_id": 46,
@@ -602,12 +602,12 @@
         "好きでたまらないという"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 1 · 学生が\n\n【Câu hoàn chỉnh】\nアニメが【4. 好きでたまらないという】学生が【2. 集まって】できた団体です。\n(Thứ tự: 3. アニメが $\\rightarrow$ 4. 好きでたまらないという $\\rightarrow$ 1. 学生が ★ $\\rightarrow$ 2. 集まって).\nCâu lạc bộ nghiên cứu anime đại học Yamakawa là đoàn thể được lập nên do các sinh viên cực kỳ mê anime tập hợp lại."
+      "explanation": "Đáp án đúng: 1 · 学生が\n\n【Câu hoàn chỉnh】\n「山川大学アニメ研究会」は【アニメが】【好きでたまらないという】【学生が（★）】【集まって】できた団体です。\nThứ tự đúng: アニメが → 好きでたまらないという → 学生が → 集まって\n\n【Dịch câu hỏi】\n\"Hội nghiên cứu Anime ĐH Yamakawa\" là tổ chức được lập nên bởi những sinh viên cực kỳ mê anime tập hợp lại.\n\n【Phân tích】\n• 「アニメが好きでたまらない」 (thích anime đến mức không chịu nổi) + 「という」 bổ nghĩa cho danh từ 「学生」 (vị trí ★, đáp án 1) → 「学生が集まってできた団体」."
     },
     {
       "question_id": 47,
       "context": "問題8：次の文の＿★＿に入る最もよいものを、1・2・3・4から一つ選びなさい。",
-      "question": "雪会社の今井先輩は、自分はミスが多いと いつも言っているが、 ___ ___ _★_ ___ ように見える。",
+      "question": "会社の今井先輩は、自分はミスが多いといつも言っているが、 ___ ___ _★_ ___ ように見える。",
       "options": [
         "新人で",
         "何でも完璧にできている",
@@ -615,25 +615,33 @@
         "わからないことばかりの"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 3 · ほかの人から\n\n【Câu hoàn chỉnh】\n今井先輩は、自分はミスが多いといつも言っているが、ほかの人から見れば完璧に仕事をしているように見える。\n(Thứ tự đúng tạo thành câu tự nhiên: nhìn từ người khác thì thấy làm việc hoàn hảo)."
+      "explanation": "Đáp án đúng: 3 · 私からすると\n\n【Câu hoàn chỉnh】\n会社の今井先輩は、自分はミスが多いといつも言っているが、【新人で】【わからないことばかりの】【私からすると（★）】【何でも完璧にできている】ように見える。\nThứ tự đúng: 新人で → わからないことばかりの → 私からすると → 何でも完璧にできている\n\n【Dịch câu hỏi】\nTiền bối Imai ở công ty lúc nào cũng bảo mình hay mắc lỗi, nhưng đứng từ góc nhìn của một nhân viên mới toàn điều chưa biết như tôi, thì anh/chị ấy trông như làm mọi việc đều hoàn hảo.\n\n【Phân tích】\n• Cụm định ngữ bổ nghĩa cho 「私」: 「新人でわからないことばかりの私」 (tôi — người mới cái gì cũng không biết).\n• Cấu trúc 「N からすると」 (đứng từ lập trường/góc nhìn của N thì...): vị trí ★ là 「私からすると」 (đáp án 3), nối tiếp sau đó là 「何でも完璧にできているように見える」."
     },
     {
       "question_id": 48,
-      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
-      "question": "",
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。\n\n【紅葉の異変】（サリム ソフィア）\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいです。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\n(48) ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。(49)、そうではありませんでした。紅葉には、条件となる気温の変化がありました。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は (50)。その後、さらに寒くなり、5〜6度まで下がると、紅葉は一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られるといわれています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く (51)。",
+      "question": "文章中の (48) に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "image": "media/exams/N2-07-2024/1729568694-duclo.png",
+      "images": [
+        "media/exams/N2-07-2024/1729568694-duclo.png"
+      ],
       "options": [
-        "そこ の紅葉",
+        "そこの紅葉",
         "そんな紅葉",
         "そちら",
         "紅葉"
       ],
       "correct_answer": 2,
-      "explanation": "Đáp án đúng: 2 · そんな紅葉\n\n【Dịch & Phân tích ngữ cảnh đoạn văn 48-51】\n留学生のスピーチ: Nhắc lại trải nghiệm mùa thu ngắm lá đỏ đã được đề cập ở câu trước đó $\\rightarrow$ dùng そんな紅葉 (lá đỏ như thế)."
+      "explanation": "Đáp án đúng: 2 · そんな紅葉\n\n【Dịch đoạn liên quan】\nĐoạn 1: \"Lá đỏ mùa thu là thứ mang lại cho ta cảm nhận về sự chuyển mình của bốn mùa Nhật Bản.\"\nĐoạn 2: \"Lá đỏ vốn là như thế (そんな紅葉) vậy mà hôm trước trên TV, tôi đã xem một bản tin nói rằng thời điểm lá đỏ đạt đỉnh đẹp nhất đang ngày càng muộn hơn qua từng năm...\"\n\n【Phân tích 4 đáp án】\n• 1. そこの紅葉 (Lá đỏ ở chỗ đó): Sai — đoạn trước nói chung về lá đỏ mùa thu Nhật Bản chứ không chỉ một địa điểm cụ thể.\n• 2. そんな紅葉 (Lá đỏ như thế): Đúng — dùng từ chỉ thị 「そんな」 để quy chiếu lại tính chất \"mang lại cảm giác chuyển mùa\" của lá đỏ vừa nêu ở cuối đoạn 1, rồi nối tiếp với 「ですが」 để chuyển sang vấn đề bất thường.\n• 3. そちら (Phía đó / hướng đó): Sai — chỉ phương hướng/địa điểm.\n• 4. 紅葉 (Lá đỏ): Sai — thiếu từ chỉ thị liên kết mạch văn với đoạn trước."
     },
     {
       "question_id": 49,
-      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
-      "question": "",
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。\n\n【紅葉の異変】（サリム ソフィア）\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいです。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\n(48) ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。(49)、そうではありませんでした。紅葉には、条件となる気温の変化がありました。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は (50)。その後、さらに寒くなり、5〜6度まで下がると、紅葉は一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られるといわれています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く (51)。",
+      "question": "文章中の (49) に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "image": "media/exams/N2-07-2024/1729568694-duclo.png",
+      "images": [
+        "media/exams/N2-07-2024/1729568694-duclo.png"
+      ],
       "options": [
         "結局",
         "確かに",
@@ -641,12 +649,16 @@
         "つまり"
       ],
       "correct_answer": 3,
-      "explanation": "Đáp án đúng: 1 · 見とれてしまった\n\n【Dịch & Phân tích】\nCảnh sắc tuyệt đẹp khiến người ngắm bị cuốn hút / nhìn say đắm không rời mắt: 見とれてしまった."
+      "explanation": "Đáp án đúng: 3 · しかし\n\n【Dịch đoạn liên quan】\n\"Tôi cứ nghĩ rằng chỉ cần qua mùa hè và nhiệt độ giảm xuống thì nhất định lá đỏ sẽ bắt đầu. (49), thực tế lại không phải như vậy. Để có lá đỏ thì cần có những thay đổi nhiệt độ mang tính điều kiện.\"\n\n【Phân tích 4 đáp án】\n• 1. 結局 (Rốt cuộc / chung quy): Sai — không mang sắc thái chuyển ý đối lập trực tiếp với 「そうではありませんでした」.\n• 2. 確かに (Quả thật là): Sai — dùng để thừa nhận đồng tình trước khi phản bác, nhưng ở đây bản thân câu sau đã phủ nhận trực tiếp suy nghĩ trước đó.\n• 3. しかし (Tuy nhiên / thế nhưng): Đúng — kết nối hai vế đối lập hoàn toàn giữa suy nghĩ chủ quan trước đây (「必ず…と思っていました」) và sự thật ngược lại (「そうではありませんでした」).\n• 4. つまり (Tức là / tóm lại): Sai — dùng để giải thích lại, không phải tương phản."
     },
     {
       "question_id": 50,
-      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
-      "question": "",
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。\n\n【紅葉の異変】（サリム ソフィア）\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいです。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\n(48) ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。(49)、そうではありませんでした。紅葉には、条件となる気温の変化がありました。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は (50)。その後、さらに寒くなり、5〜6度まで下がると、紅葉は一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られるといわれています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く (51)。",
+      "question": "文章中の (50) に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "image": "media/exams/N2-07-2024/1729568694-duclo.png",
+      "images": [
+        "media/exams/N2-07-2024/1729568694-duclo.png"
+      ],
       "options": [
         "始まらないのです",
         "始まらないためです",
@@ -654,12 +666,16 @@
         "始まらないためでしょうか"
       ],
       "correct_answer": 1,
-      "explanation": "Đáp án đúng: 3 · 魅了されたからだ\n\n【Dịch & Phân tích】\nNêu lý do tại sao tác giả lại yêu thích: là vì đã bị vẻ đẹp ấy mê hoặc, cuốn hút (魅了されたからだ)."
+      "explanation": "Đáp án đúng: 1 · 始まらないのです\n\n【Dịch đoạn liên quan】\n\"Việc lá bắt đầu đổi màu là sau khi nhiệt độ thấp nhất trong ngày xuống khoảng dưới 8 độ. Dù đã sang thu đi nữa, nếu nhiệt độ thấp nhất không hạ xuống tới một mức nhất định thì lá đỏ sẽ (50). Sau đó, khi trời lạnh hơn nữa và xuống tới 5~6 độ, quá trình chuyển đỏ diễn ra nhanh chóng.\"\n\n【Phân tích 4 đáp án】\n• 1. 始まらないのです (Là sẽ không bắt đầu): Đúng — mẫu 「～のです」 dùng trong văn giải thích quy luật/cơ chế tự nhiên để nhấn mạnh khẳng định nguyên lý: hễ chưa xuống đủ mức nhiệt đó thì lá không thể đổi màu.\n• 2. 始まらないためです (Là vì không bắt đầu): Sai — 「ためです」 dùng để nêu nguyên nhân, còn ở đây phần sau 「なければ、紅葉は…」 là kết quả chứ không phải nguyên nhân.\n• 3. 始まらないのでしょうか (Chẳng phải là không bắt đầu sao?): Sai — tác giả đang khẳng định kiến thức khoa học rõ ràng, không đặt câu hỏi nghi vấn.\n• 4. 始まらないためでしょうか (Chẳng phải vì không bắt đầu sao?): Sai — vừa sai về cấu trúc nguyên nhân 「ため」, vừa sai về câu nghi vấn."
     },
     {
       "question_id": 51,
-      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。",
-      "question": "",
+      "context": "問題9：次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを1・2・3・4から一つ選びなさい。\n\n【紅葉の異変】（サリム ソフィア）\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいです。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\n(48) ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。(49)、そうではありませんでした。紅葉には、条件となる気温の変化がありました。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は (50)。その後、さらに寒くなり、5〜6度まで下がると、紅葉は一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られるといわれています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く (51)。",
+      "question": "文章中の (51) に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+      "image": "media/exams/N2-07-2024/1729568694-duclo.png",
+      "images": [
+        "media/exams/N2-07-2024/1729568694-duclo.png"
+      ],
       "options": [
         "感じているからだと思います",
         "感じられるところだと思います",
@@ -667,7 +683,7 @@
         "感じるようになりました"
       ],
       "correct_answer": 4,
-      "explanation": "Đáp án đúng: 4 · 伝えたいと思う\n\n【Dịch & Phân tích】\nKết bài diễn thuyết: Người nói bày tỏ nguyện vọng và mong muốn của mình: 'Tôi nghĩ rằng mình muốn truyền đạt lại điều tuyệt vời này cho mọi người' $\\rightarrow$ 伝えたいと思う."
+      "explanation": "Đáp án đúng: 4 · 感じるようになりました\n\n【Dịch đoạn liên quan】\n\"Khi biết đến sự bất thường đang xảy ra với lá đỏ, tôi nghĩ rằng nếu tình trạng nóng lên toàn cầu cứ tiếp diễn thế này thì phong cảnh mùa thu Nhật Bản có khả năng sẽ thay đổi mất... Thông qua chuyện lá đỏ, tôi (51) sâu sắc hơn rằng sự nóng lên toàn cầu là một vấn đề rất gần gũi với chúng ta.\"\n\n【Phân tích 4 đáp án】\n• 1. 感じているからだと思います (Tôi nghĩ là vì đang cảm thấy): Sai — câu kết bài không dùng cấu trúc giải thích nguyên nhân 「～からだと思います」 ở cuối câu như vậy.\n• 2. 感じられるところだと思います (Tôi nghĩ là điểm có thể cảm nhận được): Sai — không hợp ngữ pháp với trợ từ 「を」 phía trước (「…であることを…感じられるところ」).\n• 3. 感じさせることができました (Đã có thể khiến cho ai đó cảm thấy): Sai — thể sai khiến 「させる」 đòi hỏi tác giả khiến người khác cảm nhận, trong khi câu này nói về sự thay đổi nhận thức của chính bản thân tác giả.\n• 4. 感じるようになりました (Đã trở nên cảm nhận / bắt đầu cảm thấy): Đúng — mẫu 「V-るようになりました」 diễn tả sự chuyển biến về mặt nhận thức/cảm nhận của tác giả sau khi biết thông tin về lá đỏ."
     }
   ]
 }
