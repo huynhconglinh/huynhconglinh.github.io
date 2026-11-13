@@ -505,7 +505,7 @@
       "id": "k_51",
       "term": "系統",
       "reading": "けいとう",
-      "meaning": "cùng tông màu",
+      "meaning": "hệ thống, dòng dõi",
       "hanviet": "",
       "example": "この系統は今も使われている。",
       "exampleVi": "Hệ thống này vẫn đang được sử dụng.",
@@ -685,7 +685,7 @@
       "id": "k_69",
       "term": "返品",
       "reading": "へんぴん",
-      "meaning": "mảnh vỡ",
+      "meaning": "trả lại hàng, hàng trả lại",
       "hanviet": "",
       "example": "不良品を返品しました。",
       "exampleVi": "Tôi đã trả lại hàng bị lỗi.",
@@ -718,7 +718,7 @@
       "meaning": "khuyết điểm",
       "hanviet": "",
       "example": "彼の欠点は誰にも話していない。",
-      "exampleVi": "Tôi chưa từng kể với ai về mong muốn đó.",
+      "exampleVi": "Tôi chưa từng kể với ai về khuyết điểm của anh ấy.",
       "frequency": 1
     },
     {
@@ -815,7 +815,7 @@
       "id": "k_82",
       "term": "診断",
       "reading": "しんだん",
-      "meaning": "chuẩn đoán",
+      "meaning": "chẩn đoán",
       "hanviet": "",
       "example": "医師が詳しく診断してくれました。",
       "exampleVi": "Bác sĩ đã chẩn đoán chi tiết.",
@@ -955,7 +955,7 @@
       "id": "k_96",
       "term": "研修",
       "reading": "けんしゅう",
-      "meaning": "nghiên cứu",
+      "meaning": "tu nghiệp, đào tạo, tập huấn",
       "hanviet": "",
       "example": "新入社員のための研修が行われた。",
       "exampleVi": "Đào tạo được tổ chức cho nhân viên mới.",
@@ -1038,7 +1038,7 @@
       "meaning": "kém",
       "hanviet": "",
       "example": "この製品は他社の製品より性能が劣る。",
-      "exampleVi": "Sản phẩm này kém hiệu suất hơn sản phẩm của các công ty khác。",
+      "exampleVi": "Sản phẩm này kém hiệu suất hơn sản phẩm của các công ty khác.",
       "frequency": 2
     },
     {
@@ -1048,17 +1048,17 @@
       "meaning": "hái, nhặt",
       "hanviet": "",
       "example": "会社は新しい社員を採ることにした。",
-      "exampleVi": "Công ty đã quyết định tuyển nhân viên mới。",
+      "exampleVi": "Công ty đã quyết định tuyển nhân viên mới.",
       "frequency": 2
     },
     {
       "id": "k_106",
       "term": "まとめる",
-      "reading": "tổng",
-      "meaning": "hợp, tóm tắt",
+      "reading": "まとめる",
+      "meaning": "tổng hợp, tóm tắt",
       "hanviet": "",
       "example": "会議の内容をまとめてレポートにしてください。",
-      "exampleVi": "Hãy tóm tắt nội dung cuộc họp và viết thành báo cáo。",
+      "exampleVi": "Hãy tóm tắt nội dung cuộc họp và viết thành báo cáo.",
       "frequency": 2
     },
     {
@@ -1068,17 +1068,17 @@
       "meaning": "chiến đấu",
       "hanviet": "",
       "example": "彼は病気と戦っている。",
-      "exampleVi": "Anh ấy đang chiến đấu với bệnh tật。",
+      "exampleVi": "Anh ấy đang chiến đấu với bệnh tật.",
       "frequency": 2
     },
     {
       "id": "k_108",
       "term": "整える",
       "reading": "ととのえる",
-      "meaning": "buộc gọn",
+      "meaning": "chỉnh đốn, sắp xếp gọn gàng",
       "hanviet": "",
-      "example": "",
-      "exampleVi": "tóc",
+      "example": "髪を整える。",
+      "exampleVi": "Chỉnh lại đầu tóc gọn gàng.",
       "frequency": 8
     },
     {
@@ -1088,7 +1088,7 @@
       "meaning": "cách xa",
       "hanviet": "",
       "example": "彼は家族と離れて暮らしている。",
-      "exampleVi": "Anh ấy sống xa gia đình。",
+      "exampleVi": "Anh ấy sống xa gia đình.",
       "frequency": 2
     },
     {
@@ -1098,7 +1098,7 @@
       "meaning": "cạnh tranh",
       "hanviet": "",
       "example": "彼らは土地の所有権を争っている。",
-      "exampleVi": "Họ đang tranh chấp quyền sở hữu đất đai。",
+      "exampleVi": "Họ đang tranh chấp quyền sở hữu đất đai.",
       "frequency": 2
     },
     {
@@ -1108,7 +1108,7 @@
       "meaning": "đi, rời khỏi",
       "hanviet": "",
       "example": "彼は静かにその場を去った。",
-      "exampleVi": "Anh ấy lặng lẽ rời khỏi chỗ đó。",
+      "exampleVi": "Anh ấy lặng lẽ rời khỏi chỗ đó.",
       "frequency": 2
     },
     {
@@ -1118,7 +1118,7 @@
       "meaning": "Hoàn lại; trả lại",
       "hanviet": "",
       "example": "使った道具は元の場所に戻してください。",
-      "exampleVi": "Hãy trả dụng cụ đã dùng về đúng chỗ ban đầu。",
+      "exampleVi": "Hãy trả dụng cụ đã dùng về đúng chỗ ban đầu.",
       "frequency": 1
     },
     {
@@ -1128,7 +1128,7 @@
       "meaning": "chống đối, làm trái lệnh",
       "hanviet": "",
       "example": "彼は先生の意見に逆らった。",
-      "exampleVi": "Anh ấy chống lại ý kiến của thầy giáo。",
+      "exampleVi": "Anh ấy chống lại ý kiến của thầy giáo.",
       "frequency": 1
     },
     {
@@ -1138,7 +1138,7 @@
       "meaning": "gánh, chịu",
       "hanviet": "",
       "example": "責任を負う覚悟がある。",
-      "exampleVi": "Tôi sẵn sàng chịu trách nhiệm。",
+      "exampleVi": "Tôi sẵn sàng chịu trách nhiệm.",
       "frequency": 1
     },
     {
@@ -1148,7 +1148,7 @@
       "meaning": "loại bỏ",
       "hanviet": "",
       "example": "不要な部分を除いてください。",
-      "exampleVi": "Hãy loại bỏ phần không cần thiết。",
+      "exampleVi": "Hãy loại bỏ phần không cần thiết.",
       "frequency": 1
     },
     {
@@ -1158,17 +1158,17 @@
       "meaning": "nhặt",
       "hanviet": "",
       "example": "道に落ちていた財布を拾った。",
-      "exampleVi": "Tôi nhặt được chiếc ví rơi trên đường。",
+      "exampleVi": "Tôi nhặt được chiếc ví rơi trên đường.",
       "frequency": 1
     },
     {
       "id": "k_117",
       "term": "破る",
       "reading": "やぶる",
-      "meaning": "Bị đánh tan; bị đánh bại",
+      "meaning": "xé rách, phá vỡ",
       "hanviet": "",
       "example": "彼は約束を破った。",
-      "exampleVi": "Anh ấy đã phá vỡ lời hứa。",
+      "exampleVi": "Anh ấy đã phá vỡ lời hứa.",
       "frequency": 1
     },
     {
@@ -1178,7 +1178,7 @@
       "meaning": "bao gồm",
       "hanviet": "",
       "example": "税金を価格に含めて表示してください。",
-      "exampleVi": "Hãy hiển thị giá bao gồm cả thuế。",
+      "exampleVi": "Hãy hiển thị giá bao gồm cả thuế.",
       "frequency": 1
     },
     {
@@ -1188,7 +1188,7 @@
       "meaning": "ngạc nhiên",
       "hanviet": "",
       "example": "そのニュースに驚いた。",
-      "exampleVi": "Tôi ngạc nhiên với tin tức đó。",
+      "exampleVi": "Tôi ngạc nhiên với tin tức đó.",
       "frequency": 1
     },
     {
@@ -1198,7 +1198,7 @@
       "meaning": "vây quanh, bao quanh",
       "hanviet": "",
       "example": "公園は木々に囲まれている。",
-      "exampleVi": "Công viên được bao quanh bởi cây cối。",
+      "exampleVi": "Công viên được bao quanh bởi cây cối.",
       "frequency": 1
     },
     {
@@ -1208,7 +1208,7 @@
       "meaning": "cạnh tranh",
       "hanviet": "",
       "example": "選手たちは優勝を競っている。",
-      "exampleVi": "Các tuyển thủ đang thi đấu để giành chức vô địch。",
+      "exampleVi": "Các tuyển thủ đang thi đấu để giành chức vô địch.",
       "frequency": 1
     },
     {
@@ -1218,7 +1218,7 @@
       "meaning": "cháy đen",
       "hanviet": "",
       "example": "魚が焦げてしまった。",
-      "exampleVi": "Cá đã bị cháy khét。",
+      "exampleVi": "Cá đã bị cháy khét.",
       "frequency": 1
     },
     {
@@ -1228,7 +1228,7 @@
       "meaning": "yêu cầu",
       "hanviet": "",
       "example": "彼は真実を求めて旅に出た。",
-      "exampleVi": "Anh ấy đã lên đường tìm kiếm sự thật。",
+      "exampleVi": "Anh ấy đã lên đường tìm kiếm sự thật.",
       "frequency": 1
     },
     {
@@ -1238,7 +1238,7 @@
       "meaning": "đi cùng với, kéo theo",
       "hanviet": "",
       "example": "仕事には責任が伴う。",
-      "exampleVi": "Công việc đi kèm với trách nhiệm。",
+      "exampleVi": "Công việc đi kèm với trách nhiệm.",
       "frequency": 9
     },
     {
@@ -1248,7 +1248,7 @@
       "meaning": "tiến cử, ủng hộ",
       "hanviet": "",
       "example": "彼を次期会長に推した。",
-      "exampleVi": "Tôi đề cử anh ấy làm chủ tịch nhiệm kỳ tới。",
+      "exampleVi": "Tôi đề cử anh ấy làm chủ tịch nhiệm kỳ tới.",
       "frequency": 1
     },
     {
@@ -1258,7 +1258,7 @@
       "meaning": "Đóng/ Nộp",
       "hanviet": "",
       "example": "税金を納めるのは国民の義務です。",
-      "exampleVi": "Nộp thuế là nghĩa vụ của công dân。",
+      "exampleVi": "Nộp thuế là nghĩa vụ của công dân.",
       "frequency": 1
     },
     {
@@ -1268,7 +1268,7 @@
       "meaning": "nắm",
       "hanviet": "",
       "example": "彼は強く握手した。",
-      "exampleVi": "Anh ấy bắt tay rất mạnh。",
+      "exampleVi": "Anh ấy bắt tay rất mạnh.",
       "frequency": 1
     },
     {
@@ -1278,7 +1278,7 @@
       "meaning": "thu hẹp (chủ đề)",
       "hanviet": "",
       "example": "布を絞って水を出した。",
-      "exampleVi": "Tôi vắt vải để lấy nước。",
+      "exampleVi": "Tôi vắt vải để lấy nước.",
       "frequency": 1
     },
     {
@@ -1288,7 +1288,7 @@
       "meaning": "đóng băng",
       "hanviet": "",
       "example": "寒さで水が凍った。",
-      "exampleVi": "Nước bị đóng băng vì lạnh。",
+      "exampleVi": "Nước bị đóng băng vì lạnh.",
       "frequency": 1
     },
     {
@@ -1298,17 +1298,17 @@
       "meaning": "cứu",
       "hanviet": "",
       "example": "彼は命を救われた。",
-      "exampleVi": "Anh ấy đã được cứu sống。",
+      "exampleVi": "Anh ấy đã được cứu sống.",
       "frequency": 1
     },
     {
       "id": "k_131",
       "term": "こする",
-      "reading": "cọ,",
-      "meaning": "chùi, quẹt",
+      "reading": "こする",
+      "meaning": "cọ, chùi, quẹt",
       "hanviet": "",
       "example": "目をこすらないでください。",
-      "exampleVi": "Xin đừng dụi mắt。",
+      "exampleVi": "Xin đừng dụi mắt.",
       "frequency": 1
     },
     {
@@ -1318,7 +1318,7 @@
       "meaning": "đào",
       "hanviet": "",
       "example": "庭に穴を掘った。",
-      "exampleVi": "Tôi đã đào hố trong vườn。",
+      "exampleVi": "Tôi đã đào hố trong vườn.",
       "frequency": 1
     },
     {
@@ -1328,7 +1328,7 @@
       "meaning": "vẫy, lắc, rắc, từ chối",
       "hanviet": "",
       "example": "彼は手を振って別れを告げた。",
-      "exampleVi": "Anh ấy vẫy tay chào tạm biệt。",
+      "exampleVi": "Anh ấy vẫy tay chào tạm biệt.",
       "frequency": 1
     },
     {
@@ -1338,7 +1338,7 @@
       "meaning": "tìm",
       "hanviet": "",
       "example": "事件の真相を探った。",
-      "exampleVi": "Tôi đã điều tra sự thật của vụ việc。",
+      "exampleVi": "Tôi đã điều tra sự thật của vụ việc.",
       "frequency": 1
     },
     {
@@ -1348,7 +1348,7 @@
       "meaning": "theo",
       "hanviet": "",
       "example": "上司の指示に従った。",
-      "exampleVi": "Tôi tuân theo chỉ thị của cấp trên。",
+      "exampleVi": "Tôi tuân theo chỉ thị của cấp trên.",
       "frequency": 1
     },
     {
@@ -1358,7 +1358,7 @@
       "meaning": "dọc theo, theo",
       "hanviet": "",
       "example": "川に沿って歩いた。",
-      "exampleVi": "Tôi đi bộ dọc theo con sông。",
+      "exampleVi": "Tôi đi bộ dọc theo con sông.",
       "frequency": 1
     },
     {
@@ -1368,7 +1368,7 @@
       "meaning": "nuôi dưỡng, rèn luyện",
       "hanviet": "",
       "example": "彼は家族を養っている。",
-      "exampleVi": "Anh ấy đang nuôi sống gia đình。",
+      "exampleVi": "Anh ấy đang nuôi sống gia đình.",
       "frequency": 1
     },
     {
@@ -1378,7 +1378,7 @@
       "meaning": "đón",
       "hanviet": "",
       "example": "駅で友人を迎えた。",
-      "exampleVi": "Tôi đón bạn tại nhà ga。",
+      "exampleVi": "Tôi đón bạn tại nhà ga.",
       "frequency": 1
     },
     {
@@ -1388,7 +1388,7 @@
       "meaning": "buộc lại",
       "hanviet": "",
       "example": "髪を一つに束ねた。",
-      "exampleVi": "Tôi buộc tóc lại thành một búi。",
+      "exampleVi": "Tôi buộc tóc lại thành một búi.",
       "frequency": 1
     },
     {
@@ -1398,7 +1398,7 @@
       "meaning": "ghét",
       "hanviet": "",
       "example": "彼は裏切った友人を憎んでいる。",
-      "exampleVi": "Anh ấy căm ghét người bạn đã phản bội。",
+      "exampleVi": "Anh ấy căm ghét người bạn đã phản bội.",
       "frequency": 10
     },
     {
@@ -1408,7 +1408,7 @@
       "meaning": "pha lẫn",
       "hanviet": "",
       "example": "白と黒が混じって灰色になった。",
-      "exampleVi": "Trắng và đen trộn lẫn thành màu xám。",
+      "exampleVi": "Trắng và đen trộn lẫn thành màu xám.",
       "frequency": 1
     },
     {
@@ -1418,7 +1418,7 @@
       "meaning": "oán hận",
       "hanviet": "",
       "example": "彼は裏切りを恨んでいる。",
-      "exampleVi": "Anh ấy oán giận sự phản bội。",
+      "exampleVi": "Anh ấy oán giận sự phản bội.",
       "frequency": 1
     },
     {
@@ -1428,7 +1428,7 @@
       "meaning": "phản chiếu",
       "hanviet": "",
       "example": "鏡に姿が映っている。",
-      "exampleVi": "Hình bóng phản chiếu trong gương。",
+      "exampleVi": "Hình bóng phản chiếu trong gương.",
       "frequency": 1
     },
     {
@@ -1438,7 +1438,7 @@
       "meaning": "bỏ lỡ",
       "hanviet": "",
       "example": "ドラマの最終回を見逃した。",
-      "exampleVi": "Tôi đã bỏ lỡ tập cuối của bộ phim。",
+      "exampleVi": "Tôi đã bỏ lỡ tập cuối của bộ phim.",
       "frequency": 1
     },
     {
@@ -1448,7 +1448,7 @@
       "meaning": "gục, ngã",
       "hanviet": "",
       "example": "彼は敵を一撃で倒した。",
-      "exampleVi": "Anh ấy hạ gục kẻ thù chỉ với một đòn。",
+      "exampleVi": "Anh ấy hạ gục kẻ thù chỉ với một đòn.",
       "frequency": 1
     },
     {
@@ -1458,17 +1458,17 @@
       "meaning": "thu nhỏ, rút ngắn",
       "hanviet": "",
       "example": "文章を短く縮めた。",
-      "exampleVi": "Tôi đã rút ngắn câu văn。",
+      "exampleVi": "Tôi đã rút ngắn câu văn.",
       "frequency": 1
     },
     {
       "id": "k_147",
       "term": "潰す",
       "reading": "つぶす",
-      "meaning": "giết (thời gian)",
+      "meaning": "nghiền nát, đè bẹp; giết (thời gian)",
       "hanviet": "",
       "example": "虫に踏まれて潰れた花。",
-      "exampleVi": "Bông hoa bị giẫm nát bởi côn trùng。",
+      "exampleVi": "Bông hoa bị giẫm nát bởi côn trùng.",
       "frequency": 1
     },
     {
@@ -1478,7 +1478,7 @@
       "meaning": "làm hỏng",
       "hanviet": "",
       "example": "地震で建物が壊れた。",
-      "exampleVi": "Tòa nhà bị hư hại do động đất。",
+      "exampleVi": "Tòa nhà bị hư hại do động đất.",
       "frequency": 1
     },
     {
@@ -1488,7 +1488,7 @@
       "meaning": "dành dụm",
       "hanviet": "",
       "example": "毎月少しずつお金を貯めている。",
-      "exampleVi": "Tôi đang tiết kiệm tiền từng chút một mỗi tháng。",
+      "exampleVi": "Tôi đang tiết kiệm tiền từng chút một mỗi tháng.",
       "frequency": 1
     },
     {
@@ -1498,7 +1498,7 @@
       "meaning": "nghiêng",
       "hanviet": "",
       "example": "船が風で傾いた。",
-      "exampleVi": "Con thuyền nghiêng vì gió。",
+      "exampleVi": "Con thuyền nghiêng vì gió.",
       "frequency": 1
     },
     {
@@ -1508,7 +1508,7 @@
       "meaning": "cạnh tranh",
       "hanviet": "",
       "example": "選手たちは互いに実力を競った。",
-      "exampleVi": "Các tuyển thủ thi đấu tài năng với nhau。",
+      "exampleVi": "Các tuyển thủ thi đấu tài năng với nhau.",
       "frequency": 1
     },
     {
@@ -1518,7 +1518,7 @@
       "meaning": "chiến đấu",
       "hanviet": "",
       "example": "彼らは最後まで勇敢に戦った。",
-      "exampleVi": "Họ đã chiến đấu dũng cảm đến cuối cùng。",
+      "exampleVi": "Họ đã chiến đấu dũng cảm đến cuối cùng.",
       "frequency": 1
     },
     {
@@ -1528,7 +1528,7 @@
       "meaning": "báo thù, chinh phạt",
       "hanviet": "",
       "example": "敵の将を討った。",
-      "exampleVi": "Tôi đã đánh bại tướng địch。",
+      "exampleVi": "Tôi đã đánh bại tướng địch.",
       "frequency": 1
     },
     {
@@ -1538,7 +1538,7 @@
       "meaning": "phân vân, lạc đường",
       "hanviet": "",
       "example": "彼は進路に迷っている。",
-      "exampleVi": "Anh ấy đang bối rối về con đường tương lai。",
+      "exampleVi": "Anh ấy đang bối rối về con đường tương lai.",
       "frequency": 1
     },
     {
@@ -1548,7 +1548,7 @@
       "meaning": "giao phó",
       "hanviet": "",
       "example": "彼に全てを任せた。",
-      "exampleVi": "Tôi đã giao phó mọi việc cho anh ấy。",
+      "exampleVi": "Tôi đã giao phó mọi việc cho anh ấy.",
       "frequency": 1
     },
     {
@@ -1558,7 +1558,7 @@
       "meaning": "chất đống, tụ lại",
       "hanviet": "",
       "example": "雪が積もって道が見えない。",
-      "exampleVi": "Tuyết phủ đầy nên không thấy đường。",
+      "exampleVi": "Tuyết phủ đầy nên không thấy đường.",
       "frequency": 11
     },
     {
@@ -1568,7 +1568,7 @@
       "meaning": "(mặt trời) mọc",
       "hanviet": "",
       "example": "太陽が空高く昇った。",
-      "exampleVi": "Mặt trời lên cao trên bầu trời。",
+      "exampleVi": "Mặt trời lên cao trên bầu trời.",
       "frequency": 1
     },
     {
@@ -1578,7 +1578,7 @@
       "meaning": "đạt tới, đạt đến",
       "hanviet": "",
       "example": "目的地に至るまでに時間がかかった。",
-      "exampleVi": "Mất thời gian để đến được đích。",
+      "exampleVi": "Mất thời gian để đến được đích.",
       "frequency": 1
     },
     {
@@ -1588,7 +1588,7 @@
       "meaning": "chiếu rọi",
       "hanviet": "",
       "example": "今日は一日中太陽が照っている。",
-      "exampleVi": "Hôm nay mặt trời chiếu suốt cả ngày。",
+      "exampleVi": "Hôm nay mặt trời chiếu suốt cả ngày.",
       "frequency": 1
     },
     {
@@ -1598,7 +1598,7 @@
       "meaning": "bắt chước",
       "hanviet": "",
       "example": "古い話に現代を準えた。",
-      "exampleVi": "Tôi ví câu chuyện xưa với hiện đại。",
+      "exampleVi": "Tôi ví câu chuyện xưa với hiện đại.",
       "frequency": 1
     },
     {
@@ -1608,17 +1608,17 @@
       "meaning": "buộc cho gọn, chỉnh đốn",
       "hanviet": "",
       "example": "会場を整えておいてください。",
-      "exampleVi": "Hãy chuẩn bị sẵn hội trường。",
+      "exampleVi": "Hãy chuẩn bị sẵn hội trường.",
       "frequency": 1
     },
     {
       "id": "k_162",
       "term": "控える",
       "reading": "ひかえる",
-      "meaning": "kiềm chế",
+      "meaning": "kiềm chế, hạn chế; ghi chú",
       "hanviet": "",
       "example": "来週の予定は控えてください。",
-      "exampleVi": "Hãy ghi chú lại lịch trình tuần tới。",
+      "exampleVi": "Hãy ghi chú lại lịch trình tuần tới.",
       "frequency": 1
     },
     {
@@ -1628,7 +1628,7 @@
       "meaning": "tuột ra, bung ra",
       "hanviet": "",
       "example": "ボタンが外れた。",
-      "exampleVi": "Nút áo bị bung ra。",
+      "exampleVi": "Nút áo bị bung ra.",
       "frequency": 1
     },
     {
@@ -1638,7 +1638,7 @@
       "meaning": "trốn chạy, thoát khỏi",
       "hanviet": "",
       "example": "責任を逃れることはできない。",
-      "exampleVi": "Không thể trốn tránh trách nhiệm。",
+      "exampleVi": "Không thể trốn tránh trách nhiệm.",
       "frequency": 1
     },
     {
@@ -1648,7 +1648,7 @@
       "meaning": "chia tay",
       "hanviet": "",
       "example": "彼と涙ながらに別れた。",
-      "exampleVi": "Tôi chia tay anh ấy trong nước mắt。",
+      "exampleVi": "Tôi chia tay anh ấy trong nước mắt.",
       "frequency": 1
     },
     {
@@ -1658,7 +1658,7 @@
       "meaning": "vứt",
       "hanviet": "",
       "example": "古い服を捨てた。",
-      "exampleVi": "Tôi đã vứt quần áo cũ。",
+      "exampleVi": "Tôi đã vứt quần áo cũ.",
       "frequency": 1
     },
     {
@@ -1668,7 +1668,7 @@
       "meaning": "rối, vướng, mắc vào",
       "hanviet": "",
       "example": "髪が絡まって取れない。",
-      "exampleVi": "Tóc bị rối và không gỡ ra được。",
+      "exampleVi": "Tóc bị rối và không gỡ ra được.",
       "frequency": 1
     },
     {
@@ -1678,7 +1678,7 @@
       "meaning": "khao khát, ước muốn",
       "hanviet": "",
       "example": "大学を志望する理由を述べてください。",
-      "exampleVi": "Hãy trình bày lý do bạn muốn vào đại học。",
+      "exampleVi": "Hãy trình bày lý do bạn muốn vào đại học.",
       "frequency": 1
     },
     {
@@ -1688,7 +1688,7 @@
       "meaning": "rơi, rụng (cánh hoa)",
       "hanviet": "",
       "example": "桜の花びらが散っていく。",
-      "exampleVi": "Cánh hoa anh đào đang rơi rụng。",
+      "exampleVi": "Cánh hoa anh đào đang rơi rụng.",
       "frequency": 1
     },
     {
@@ -1698,7 +1698,7 @@
       "meaning": "đánh mất",
       "hanviet": "",
       "example": "彼は仕事を失った。",
-      "exampleVi": "Anh ấy đã mất việc。",
+      "exampleVi": "Anh ấy đã mất việc.",
       "frequency": 1
     },
     {
@@ -1708,7 +1708,7 @@
       "meaning": "tắt",
       "hanviet": "",
       "example": "電気を消して寝ましょう。",
-      "exampleVi": "Tắt điện và đi ngủ thôi。",
+      "exampleVi": "Tắt điện và đi ngủ thôi.",
       "frequency": 12
     },
     {
@@ -1824,8 +1824,8 @@
     {
       "id": "k_183",
       "term": "おかしい",
-      "reading": "kì",
-      "meaning": "lạ",
+      "reading": "おかしい",
+      "meaning": "kì lạ, buồn cười",
       "hanviet": "",
       "example": "彼の話はどこかおかしい。",
       "exampleVi": "Câu chuyện của anh ấy có gì đó kỳ lạ.",
@@ -1835,7 +1835,7 @@
       "id": "k_184",
       "term": "荒い",
       "reading": "あらい",
-      "meaning": "(thở) gấp",
+      "meaning": "thô bạo, dữ dội; (thở) gấp",
       "hanviet": "",
       "example": "彼の言葉は荒い。",
       "exampleVi": "Lời nói của anh ấy thật thô lỗ.",
@@ -2024,8 +2024,8 @@
     {
       "id": "k_203",
       "term": "さわやか",
-      "reading": "dễ",
-      "meaning": "chịu, sảng khoái",
+      "reading": "さわやか",
+      "meaning": "dễ chịu, sảng khoái",
       "hanviet": "",
       "example": "さわやかな朝の空気が気持ちいい。",
       "exampleVi": "Không khí buổi sáng trong lành thật dễ chịu.",
@@ -2085,7 +2085,7 @@
       "id": "k_209",
       "term": "改めて",
       "reading": "あらためて",
-      "meaning": "Cải thiện",
+      "meaning": "lần nữa, trịnh trọng lại",
       "hanviet": "",
       "example": "改めてお礼を申し上げます。",
       "exampleVi": "Tôi xin gửi lời cảm ơn một lần nữa.",
